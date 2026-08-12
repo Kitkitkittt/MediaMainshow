@@ -10,7 +10,7 @@ from typing import Any
 
 from .adapters import normalize_actor_item
 from .classifier import classify_video
-from .config import ProjectConfig
+from .config import ProjectConfig, find_season, season_sources
 from .models import Provenance
 
 EPISODE_COLUMNS = (
@@ -91,7 +91,11 @@ def _age_metrics(
 
 
 def build_pilot(
-    raw_path: Path, output_dir: Path, config: ProjectConfig, show_id: str
+    raw_path: Path,
+    output_dir: Path,
+    config: ProjectConfig,
+    show_id: str,
+    season_id: str | None = None,
 ) -> dict[str, int]:
     payload = json.loads(raw_path.read_text(encoding="utf-8"))
     provenance = Provenance(
@@ -103,15 +107,29 @@ def build_pilot(
     show = config.shows[show_id]
     start_urls = payload.get("actor_input", {}).get("startUrls", [])
     source_urls = {value.get("url") if isinstance(value, dict) else value for value in start_urls}
-    season = next(
-        (
-            candidate_season
-            for candidate_season in show["seasons"]
-            if candidate_season.get("official_playlist_url") in source_urls
-        ),
-        show["seasons"][0],
+    if season_id:
+        configured_show_id, _, season = find_season(config, season_id)
+        if configured_show_id != show_id:
+            raise ValueError(f"season_id={season_id} does not belong to show_id={show_id}")
+    else:
+        season = next(
+            (
+                candidate_season
+                for candidate_season in show["seasons"]
+                if any(
+                    source.get("url") in source_urls for source in season_sources(candidate_season)
+                )
+            ),
+            show["seasons"][0],
+        )
+    matched_sources = [
+        source for source in season_sources(season) if source.get("url") in source_urls
+    ]
+    official_playlist = any(
+        source.get("source_type") == "official_full_playlist"
+        and source.get("authority_status") == "verified"
+        for source in matched_sources
     )
-    official_playlist = season.get("official_playlist_url") in source_urls
     episode_rows: list[dict[str, Any]] = []
     review_rows: list[dict[str, Any]] = []
     seen_video_ids: set[str] = set()
@@ -138,9 +156,15 @@ def build_pilot(
             official_channel=official_channel,
             official_full_playlist=official_playlist,
         )
+        manual_decision = config.decisions.get(candidate.video_id, {})
+        if manual_decision and manual_decision.get("season_id") not in (None, season["season_id"]):
+            manual_decision = {}
+        decision = str(manual_decision.get("decision", classification.decision)).upper()
         duplicate_video = candidate.video_id in seen_video_ids
         seen_video_ids.add(candidate.video_id)
-        canonical = classification.decision == "INCLUDE" and not duplicate_video
+        canonical = decision == "INCLUDE" and not duplicate_video
+        if "canonical" in manual_decision:
+            canonical = bool(manual_decision["canonical"]) and not duplicate_video
         age_days, views_per_day = _age_metrics(
             candidate.published_at, provenance.retrieved_at, candidate.view_count
         )
@@ -172,16 +196,30 @@ def build_pilot(
             "snapshot_at": provenance.retrieved_at,
             "age_days": age_days,
             "lifetime_views_per_day": views_per_day,
-            "mainshow_flag": classification.decision == "INCLUDE",
+            "mainshow_flag": decision == "INCLUDE",
             "canonical_flag": canonical,
             "split_episode_flag": False,
             "reupload_flag": False,
             "availability_status": candidate.availability_status,
             "classifier_score": classification.score,
             "classifier_confidence": classification.confidence,
-            "review_status": classification.decision,
-            "exclusion_reason": classification.exclusion_reason or "",
-            "notes": ";".join(classification.reasons),
+            "review_status": decision,
+            "exclusion_reason": (
+                str(manual_decision.get("reason", ""))
+                if decision == "EXCLUDE" and manual_decision
+                else classification.exclusion_reason or ""
+            ),
+            "notes": ";".join(
+                (
+                    *classification.reasons,
+                    *(("manual_decision",) if manual_decision else ()),
+                    *(
+                        (str(manual_decision.get("reason")),)
+                        if manual_decision.get("reason")
+                        else ()
+                    ),
+                )
+            ),
             "discovery_method": "official_playlist" if official_playlist else "apify_search",
             "actor_name": provenance.actor_name,
             "actor_run_id": provenance.actor_run_id,
@@ -193,7 +231,7 @@ def build_pilot(
         episode_rows.append(row)
         if classification.episode_no is not None and canonical:
             logical[classification.episode_no].append(row)
-        if classification.decision == "REVIEW" or duplicate_video:
+        if decision == "REVIEW" or duplicate_video:
             review_rows.append(
                 {
                     "show": show["name"],
@@ -206,11 +244,27 @@ def build_pilot(
                     "reason_for_review": "duplicate_video"
                     if duplicate_video
                     else ";".join(classification.reasons),
-                    "possible_decision": classification.decision,
+                    "possible_decision": decision,
                 }
             )
 
-    duplicate_logical = {episode for episode, rows in logical.items() if len(rows) > 1}
+    duplicate_logical: set[int] = set()
+    for episode, rows in logical.items():
+        if len(rows) <= 1:
+            continue
+        forced = [
+            row
+            for row in rows
+            if config.decisions.get(row["video_id"], {}).get("canonical") is True
+        ]
+        if len(forced) == 1:
+            for row in rows:
+                row["canonical_flag"] = row is forced[0]
+                if row is not forced[0]:
+                    row["review_status"] = "EXCLUDE"
+                    row["notes"] = f"{row['notes']};superseded_by_manual_canonical".strip(";")
+        else:
+            duplicate_logical.add(episode)
     for row in episode_rows:
         if row["episode_no"] in duplicate_logical and row["canonical_flag"]:
             row["canonical_flag"] = False
@@ -388,7 +442,7 @@ def build_pilot(
     else:
         evidence_line = "Completed-season metrics are suppressed until all FAIL conditions resolve."
     report = [
-        "# Pilot QC report",
+        f"# {season['season_id']} QC report",
         "",
         f"- Status: **{qc_status}**",
         f"- Actor: `{provenance.actor_name}`",
@@ -411,7 +465,7 @@ def build_pilot(
     (output_dir / "qc_report.md").write_text("\n".join(report) + "\n", encoding="utf-8")
     research_rows = sorted(canonical_rows, key=lambda row: row["episode_no"])
     table = [
-        "# ATSH pilot research output",
+        f"# {season['season_id']} research output",
         "",
         (
             f"Snapshot: `{provenance.retrieved_at}`. Values are cumulative YouTube main-show "

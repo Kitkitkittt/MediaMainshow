@@ -1,0 +1,9 @@
+# Persistent human-reviewed decisions keyed by YouTube video ID.
+# Example:
+# decisions:
+#   abc12345678:
+#     season_id: ATSH_2024
+#     decision: INCLUDE
+#     canonical: true
+#     reason: Original upload in the verified full-show playlist.
+decisions: {}
