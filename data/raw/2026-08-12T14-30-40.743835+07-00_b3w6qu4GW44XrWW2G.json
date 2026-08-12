@@ -1,0 +1,2155 @@
+{
+  "actor_name": "streamers/youtube-scraper",
+  "actor_run_id": "b3w6qu4GW44XrWW2G",
+  "dataset_id": "LZXu9uragkUePm00Y",
+  "actor_build_id": "SUk0475fgtCh9zqMt",
+  "retrieved_at": "2026-08-12T14:30:40.743835+07:00",
+  "actor_input": {
+    "maxResults": 30,
+    "maxResultsShorts": 0,
+    "maxResultStreams": 0,
+    "startUrls": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3"
+      }
+    ],
+    "sourceBindingUrl": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3"
+  },
+  "run_metadata": {
+    "status": "SUCCEEDED",
+    "startedAt": "2026-08-12T07:30:10.147Z",
+    "finishedAt": "2026-08-12T07:30:33.713Z",
+    "usageTotalUsd": 0.052000000000000005,
+    "chargedEventCounts": {
+      "result": 13,
+      "date-filter": 0,
+      "ai-video-description": 0,
+      "ai-video-summary": 0
+    }
+  },
+  "items": [
+    {
+      "title": "Tổ Đội \"1 Không 2\" - Tập 12: Dương Lâm \"gây thù chuốc oán\" với Khả Như, Uyển Ân bị Anh Tú thao túng",
+      "translatedTitle": "\"1 of a Kind\" Squad - Episode 12: Duong Lam \"makes enemies\" with Kha Nhu, Uyen An gets manipulate...",
+      "type": "video",
+      "id": "b6dsG7oVl2I",
+      "url": "https://www.youtube.com/watch?v=b6dsG7oVl2I&list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3&index=3",
+      "thumbnailUrl": "https://i.ytimg.com/vi/b6dsG7oVl2I/maxresdefault.jpg",
+      "viewCount": 3198336,
+      "date": "2025-05-04T13:40:06.000Z",
+      "likes": 23000,
+      "location": null,
+      "channelName": "ĐÔNG TÂY PROMOTION OFFICIAL",
+      "channelUrl": "https://www.youtube.com/@dongtaypromotionofficial",
+      "channelUsername": "dongtaypromotionofficial",
+      "collaborators": null,
+      "channelId": "UCFMEYTv6N64hIL9FlQ_hxBw",
+      "numberOfSubscribers": 9830000,
+      "duration": "01:37:14",
+      "commentsCount": 1537,
+      "text": "Tổ Đội \"1 Không 2\" - Tập 12: Dương Lâm \"gây thù chuốc oán\" với Khả Như, Uyển Ân bị Anh Tú thao túng\n\nTRỌN BỘ TỔ ĐỘI \"1 KHÔNG 2\" 👉 https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3\n\n#todoi102 #todoi1khong2 #DongTayPromotion \n#LêDươngBảoLâm #QuangHùngMasterD #UyểnÂn\n#SongLuân #VõTấnPhát #ThúyNgân #KhảNhư #AnhTú\n\nTổ Đội \"1 Không 2\" là chương trình truyền hình thực tế lần đầu tiên mang đến concept “Zone Rules” với những luật lệ có Một – Không – Hai, áp dụng xuyên suốt cả chặng trải nghiệm và được thay đổi đa dạng sẽ khiến dàn cast đứng ngồi không yên. Tổ Đội \"1 Không 2\" còn là nơi ghi dấu những màn kết hợp lần đầu tiên nhưng không kém phần bùng nổ chemistry. Chương trình hứa hẹn mang lại những màn tương tác đáng yêu, hài hước chấn động cõi mạng.\n\n⏰Đón xem TỔ ĐỘI \"1 KHÔNG 2\" vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh @dongtaypromotionofficial \n\n© Chương trình Tổ Đội \"1 Không 2\" thuộc bản quyền của Dong Tay Promotion thuộc DatVietVAC, được khai thác và bảo vệ bản quyền bởi VieNETWORK.\n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n \n\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nTổ Đội \"1 Không 2\":  https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3\nOur Song Việt Nam:  https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP\n2 Ngày 1 Đêm Việt Nam: https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc\n7 Nụ Cười Xuân: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig\n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage: https://www.facebook.com/DongTayPromotion\n► Instagram: https://www.instagram.com/dongtaypromotion.official/\n► TikTok: https://www.tiktok.com/@dongtaypromotionofficial\n\n🛒Tham khảo các sản phẩm công nghệ, thời trang và tiêu dùng 👇:\nTương Ớt CHIN-SU 5KG: https://bit.ly/4lNuSlw\nCombo 4 Chai Nước Mắm Nam Ngư Ớt Tỏi Lý Sơn 300ml: https://bit.ly/4jADIBk\nSữa Tươi NutiMilk Hộp 180ml Thùng 24 Hộp: https://bit.ly/4cuDVDL\nÁo Thun Dài Tay Nam ICOMBAT Dri-FIT: https://bit.ly/3ExVF4v\nÁo polo dài tay by KIẾM LÀ MỐT HERMI: https://bit.ly/4ipl660\nÁo Sơmi Sọc Nhỏ Tay Dài Unisex SWE: https://bit.ly/3Gka44J\nÁo thun Degrey Jersey: https://bit.ly/42T9jbB\nÁo thun cotton sọc kẻ: https://bit.ly/3GlgS2g\nÁo thun The Weird: https://bit.ly/42KRLgL\nKính Mát Floralpunk Arden: https://bit.ly/42BzuCq",
+      "translatedText": "Team \"1 No 2\" - Episode 12: Duong Lam \"makes enemies\" with Kha Nhu, Uyen An is manipulated by Anh Tu\n\nFULL \"1 NO 2\" TEAM SERIES 👉    • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  \n\n#todoi102 #todoi1khong2 #DongTayPromotion\n\n#LeDuongBaoLam #QuangHungMasterD #UyenAn\n\n#SongLuan #VoTanPhat #ThuyNgan #KhaNhu #AnhTu\n\n\"Team \"1 No 2\" is a reality TV show that introduces the \"Zone Rules\" concept for the first time, featuring unique rules that apply throughout the entire experience and change frequently, keeping the cast on the edge of their seats. The \"1-No-Two Team\" show also marks the first-time collaborations with explosive chemistry. The program promises adorable and hilarious interactions that will take the internet by storm.\n\n⏰ Watch \"1-NO-2 Team\" at:\n\n📺 8:30 PM every Sunday on HTV7 and the VieON entertainment app\n\n▶️ 8:40 PM on @dongtaypromotionofficial\n\n© The \"1-No-2 Team\" program is copyrighted by Dong Tay Promotion, a subsidiary of DatVietVAC, and is exploited and protected by VieNETWORK.\n\n📣 Subscribe to the DONG TAY PROMOTION OFFICIAL channel to not miss out on SUPER EXCITING programs: https://bit.ly/SubDTP\n📣 Subscribe to the DONG TAY ENTERTAINMENT channel to watch HOT VIDEOS from the top shows: https://bit.ly/SubDTE\n\n\n⏩ Behind-the-Scenes Secrets: https://bit.ly/HAUTRUONGDTP ⏩ Great Shows every day: https://bit.ly/showhotDTP \n👉 OTHER HOT SHOWS: \nTeam \"One of a Kind\":    • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  \nOur Song Vietnam:    • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  \n2 Days 1 Night Vietnam:    • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  \n7 Spring Smiles:    • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  \n\n👉 Follow the official channels of Dong Tay Promotion - owned by DatVietVAC at:\n\n► Fanpage:   / dongtaypromotion  \n► Instagram:   / dongtaypromotion.official  \n► TikTok:   / dongtaypromotionofficial  \n\n🛒 Check out our technology products, Fashion and Consumer Goods 👇:\nCHIN-SU Chili Sauce 5KG: https://bit.ly/4lNuSlw\nCombo 4 Bottles of Nam Ngu Fish Sauce with Garlic and Chili from Ly Son 300ml: https://bit.ly/4jADIBk\nNutiMilk Fresh Milk 180ml Box (24 Boxes per carton): https://bit.ly/4cuDVDL\nICOMBAT Dri-FIT Men's Long-Sleeve T-Shirt: https://bit.ly/3ExVF4v\nKIEM LA MOT HERMI Long-Sleeve Polo Shirt: https://bit.ly/4ipl660\nSWE Unisex Long-Sleeve Striped Shirt: https://bit.ly/3Gka44J\nDegrey Jersey T-Shirt: https://bit.ly/42T9jbB\nStriped Cotton T-Shirt: https://bit.ly/3GlgS2g\nThe Weird T-Shirt: https://bit.ly/42KRLgL\nArden Floralpunk Sunglasses: https://bit.ly/42BzuCq",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+          "text": "   • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/todoi102",
+          "text": "#todoi102"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/todoi1khong2",
+          "text": "#todoi1khong2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dongtaypromotion",
+          "text": "#DongTayPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/leduongbaolam",
+          "text": "#LeDuongBaoLam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quanghungmasterd",
+          "text": "#QuangHungMasterD"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/uyenan",
+          "text": "#UyenAn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/songluan",
+          "text": "#SongLuan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/votanphat",
+          "text": "#VoTanPhat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thuyngan",
+          "text": "#ThuyNgan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/khanhu",
+          "text": "#KhaNhu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtu",
+          "text": "#AnhTu"
+        },
+        {
+          "url": "https://bit.ly/SubDTP",
+          "text": "https://bit.ly/SubDTP"
+        },
+        {
+          "url": "https://bit.ly/SubDTE",
+          "text": "https://bit.ly/SubDTE"
+        },
+        {
+          "url": "https://bit.ly/HAUTRUONGDTP",
+          "text": "https://bit.ly/HAUTRUONGDTP"
+        },
+        {
+          "url": "https://bit.ly/showhotDTP",
+          "text": "https://bit.ly/showhotDTP"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+          "text": "   • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+          "text": "   • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc",
+          "text": "   • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig",
+          "text": "   • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  "
+        },
+        {
+          "url": "https://www.facebook.com/DongTayPromotion",
+          "text": "  / dongtaypromotion  "
+        },
+        {
+          "url": "https://www.instagram.com/dongtaypromotion.official/",
+          "text": "  / dongtaypromotion.official  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dongtaypromotionofficial",
+          "text": "  / dongtaypromotionofficial  "
+        },
+        {
+          "url": "https://bit.ly/4lNuSlw",
+          "text": "https://bit.ly/4lNuSlw"
+        },
+        {
+          "url": "https://bit.ly/4jADIBk",
+          "text": "https://bit.ly/4jADIBk"
+        },
+        {
+          "url": "https://bit.ly/4cuDVDL",
+          "text": "https://bit.ly/4cuDVDL"
+        },
+        {
+          "url": "https://bit.ly/3ExVF4v",
+          "text": "https://bit.ly/3ExVF4v"
+        },
+        {
+          "url": "https://bit.ly/4ipl660",
+          "text": "https://bit.ly/4ipl660"
+        },
+        {
+          "url": "https://bit.ly/3Gka44J",
+          "text": "https://bit.ly/3Gka44J"
+        },
+        {
+          "url": "https://bit.ly/42T9jbB",
+          "text": "https://bit.ly/42T9jbB"
+        },
+        {
+          "url": "https://bit.ly/3GlgS2g",
+          "text": "https://bit.ly/3GlgS2g"
+        },
+        {
+          "url": "https://bit.ly/42KRLgL",
+          "text": "https://bit.ly/42KRLgL"
+        },
+        {
+          "url": "https://bit.ly/42BzuCq",
+          "text": "https://bit.ly/42BzuCq"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 2,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tổ Đội \"1 Không 2\" - Tập 11: Quang Hùng MasterD lộ nét \"gia trưởng\", Dương Lâm luyện yoga trên không",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "EqvdS6QJ2tA",
+      "url": "https://www.youtube.com/watch?v=EqvdS6QJ2tA&list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3&index=4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/EqvdS6QJ2tA/maxresdefault.jpg",
+      "viewCount": 3507622,
+      "date": "2025-04-27T13:40:06.000Z",
+      "likes": 27000,
+      "location": null,
+      "channelName": "ĐÔNG TÂY PROMOTION OFFICIAL",
+      "channelUrl": "https://www.youtube.com/@dongtaypromotionofficial",
+      "channelUsername": "dongtaypromotionofficial",
+      "collaborators": null,
+      "channelId": "UCFMEYTv6N64hIL9FlQ_hxBw",
+      "numberOfSubscribers": 9830000,
+      "duration": "01:24:51",
+      "commentsCount": 2141,
+      "text": "Tổ Đội \"1 Không 2\" - Tập 11: Quang Hùng MasterD lộ nét \"gia trưởng\", Dương Lâm luyện yoga trên không\n\nTRỌN BỘ TỔ ĐỘI \"1 KHÔNG 2\" 👉 https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3\n\n#todoi102 #todoi1khong2 #DongTayPromotion \n#LêDươngBảoLâm #QuangHùngMasterD #UyểnÂn\n#SongLuân #VõTấnPhát #ThúyNgân #KhảNhư #AnhTú\n\nTổ Đội \"1 Không 2\" là chương trình truyền hình thực tế lần đầu tiên mang đến concept “Zone Rules” với những luật lệ có Một – Không – Hai, áp dụng xuyên suốt cả chặng trải nghiệm và được thay đổi đa dạng sẽ khiến dàn cast đứng ngồi không yên. Tổ Đội \"1 Không 2\" còn là nơi ghi dấu những màn kết hợp lần đầu tiên nhưng không kém phần bùng nổ chemistry. Chương trình hứa hẹn mang lại những màn tương tác đáng yêu, hài hước chấn động cõi mạng.\n\n⏰Đón xem TỔ ĐỘI \"1 KHÔNG 2\" vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  @dongtaypromotionofficial \n\n© Chương trình Tổ Đội \"1 Không 2\" thuộc bản quyền của Dong Tay Promotion thuộc DatVietVAC, được khai thác và bảo vệ bản quyền bởi VieNETWORK.\n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n \n\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nTổ Đội \"1 Không 2\":  https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3\nOur Song Việt Nam:  https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP\n2 Ngày 1 Đêm Việt Nam: https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc\n7 Nụ Cười Xuân: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig\n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage: https://www.facebook.com/DongTayPromotion\n► Instagram: https://www.instagram.com/dongtaypromotion.official/\n► TikTok: https://www.tiktok.com/@dongtaypromotionofficial\n\n🛒Tham khảo các sản phẩm công nghệ, thời trang và tiêu dùng 👇:\nTương Ớt CHIN-SU 5KG: https://bit.ly/4lNuSlw\nCombo 4 CHIN-SU Tương ớt Sriracha Chai 250g: https://bit.ly/3RzBruc\nSữa Tươi NutiMilk Hộp 180ml Thùng 24 Hộp: https://bit.ly/4cuDVDL\nÁo thun số 84 Degrey Jersey: https://bit.ly/42mCQKJ\nÁo Thun Local Brand Happy Sunday: https://bit.ly/42nOZ1W\nÁO SƠ MI DÀI TAY TRICH CLUB: https://bit.ly/4cQq0rO\nÁo Sơ Mi Ademar Signature: https://bit.ly/3RnDykC\nÁo sơ mi dài tay nam POLYS: https://bit.ly/4jI2IXk\nÁO THUN THÊU TRICH CLUB: https://bit.ly/4cCvOVs\nKính Mát Floralpunk Arden: https://bit.ly/42BzuCq\nTai nghe on ear Wireless Sony WH - CH520: https://bit.ly/3EFa7HQ\n\n🛒Tham khảo các sản phẩm công nghệ, thời trang và tiêu dùng 👇:\nMicro không dây cài áo chống ồn: https://shopee.vn/product/627289074/24374867704?\nBộ kẹp phủ chắn gió micro: https://shopee.vn/product/503704357/21323409512?\nMicrophone cài áo EAROBE Y-1\nhttps://shopee.vn/product/10963/138164127?\nhttps://shopee.vn/product/48875204/858520571?\nMicro Không Dây Thu Âm\nhttps://shopee.vn/product/242030585/13552282791?\nMicro ve áo Lavalier Comica\nhttps://shopee.vn/product/1120619214/25401399517?\nMic Không Dây UHF 2.4G APORO\nhttps://shopee.vn/product/228312118/41802609105?\nhttps://shopee.vn/product/682039974/23742183109?",
+      "translatedText": "Tổ Đội \"1 Không 2\" - Tập 11: Quang Hùng MasterD lộ nét \"gia trưởng\", Dương Lâm luyện yoga trên không\n\nTRỌN BỘ TỔ ĐỘI \"1 KHÔNG 2\" 👉    • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  \n\n#todoi102 #todoi1khong2 #DongTayPromotion \n#LêDươngBảoLâm #QuangHùngMasterD #UyểnÂn\n#SongLuân #VõTấnPhát #ThúyNgân #KhảNhư #AnhTú\n\nTổ Đội \"1 Không 2\" là chương trình truyền hình thực tế lần đầu tiên mang đến concept “Zone Rules” với những luật lệ có Một – Không – Hai, áp dụng xuyên suốt cả chặng trải nghiệm và được thay đổi đa dạng sẽ khiến dàn cast đứng ngồi không yên. Tổ Đội \"1 Không 2\" còn là nơi ghi dấu những màn kết hợp lần đầu tiên nhưng không kém phần bùng nổ chemistry. Chương trình hứa hẹn mang lại những màn tương tác đáng yêu, hài hước chấn động cõi mạng.\n\n⏰Đón xem TỔ ĐỘI \"1 KHÔNG 2\" vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  ‪@dongtaypromotionofficial‬ \n\n© Chương trình Tổ Đội \"1 Không 2\" thuộc bản quyền của Dong Tay Promotion thuộc DatVietVAC, được khai thác và bảo vệ bản quyền bởi VieNETWORK.\n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n \n\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nTổ Đội \"1 Không 2\":     • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  \nOur Song Việt Nam:     • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  \n2 Ngày 1 Đêm Việt Nam:    • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  \n7 Nụ Cười Xuân:    • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  \n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage:   / dongtaypromotion  \n► Instagram:   / dongtaypromotion.official  \n► TikTok:   / dongtaypromotionofficial  \n\n🛒Tham khảo các sản phẩm công nghệ, thời trang và tiêu dùng 👇:\nTương Ớt CHIN-SU 5KG: https://bit.ly/4lNuSlw\nCombo 4 CHIN-SU Tương ớt Sriracha Chai 250g: https://bit.ly/3RzBruc\nSữa Tươi NutiMilk Hộp 180ml Thùng 24 Hộp: https://bit.ly/4cuDVDL\nÁo thun số 84 Degrey Jersey: https://bit.ly/42mCQKJ\nÁo Thun Local Brand Happy Sunday: https://bit.ly/42nOZ1W\nÁO SƠ MI DÀI TAY TRICH CLUB: https://bit.ly/4cQq0rO\nÁo Sơ Mi Ademar Signature: https://bit.ly/3RnDykC\nÁo sơ mi dài tay nam POLYS: https://bit.ly/4jI2IXk\nÁO THUN THÊU TRICH CLUB: https://bit.ly/4cCvOVs\nKính Mát Floralpunk Arden: https://bit.ly/42BzuCq\nTai nghe on ear Wireless Sony WH - CH520: https://bit.ly/3EFa7HQ\n\n🛒Tham khảo các sản phẩm công nghệ, thời trang và tiêu dùng 👇:\nMicro không dây cài áo chống ồn: https://shopee.vn/product/627289074/2...\nBộ kẹp phủ chắn gió micro: https://shopee.vn/product/503704357/2...\nMicrophone cài áo EAROBE Y-1\nhttps://shopee.vn/product/10963/13816...\nhttps://shopee.vn/product/48875204/85...\nMicro Không Dây Thu Âm\nhttps://shopee.vn/product/242030585/1...\nMicro ve áo Lavalier Comica\nhttps://shopee.vn/product/1120619214/...\nMic Không Dây UHF 2.4G APORO\nhttps://shopee.vn/product/228312118/4...\nhttps://shopee.vn/product/682039974/2...",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+          "text": "   • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/todoi102",
+          "text": "#todoi102"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/todoi1khong2",
+          "text": "#todoi1khong2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dongtaypromotion",
+          "text": "#DongTayPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%AAd%C6%B0%C6%A1ngb%E1%BA%A3ol%C3%A2m",
+          "text": "#LêDươngBảoLâm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quangh%C3%B9ngmasterd",
+          "text": "#QuangHùngMasterD"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/uy%E1%BB%83n%C3%A2n",
+          "text": "#UyểnÂn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/songlu%C3%A2n",
+          "text": "#SongLuân"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/v%C3%B5t%E1%BA%A5nph%C3%A1t",
+          "text": "#VõTấnPhát"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/th%C3%BAyng%C3%A2n",
+          "text": "#ThúyNgân"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/kh%E1%BA%A3nh%C6%B0",
+          "text": "#KhảNhư"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anht%C3%BA",
+          "text": "#AnhTú"
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "‪@dongtaypromotionofficial‬"
+        },
+        {
+          "url": "https://bit.ly/SubDTP",
+          "text": "https://bit.ly/SubDTP"
+        },
+        {
+          "url": "https://bit.ly/SubDTE",
+          "text": "https://bit.ly/SubDTE"
+        },
+        {
+          "url": "https://bit.ly/HAUTRUONGDTP",
+          "text": "https://bit.ly/HAUTRUONGDTP"
+        },
+        {
+          "url": "https://bit.ly/showhotDTP",
+          "text": "https://bit.ly/showhotDTP"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+          "text": "   • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+          "text": "   • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc",
+          "text": "   • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig",
+          "text": "   • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  "
+        },
+        {
+          "url": "https://www.facebook.com/DongTayPromotion",
+          "text": "  / dongtaypromotion  "
+        },
+        {
+          "url": "https://www.instagram.com/dongtaypromotion.official/",
+          "text": "  / dongtaypromotion.official  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dongtaypromotionofficial",
+          "text": "  / dongtaypromotionofficial  "
+        },
+        {
+          "url": "https://bit.ly/4lNuSlw",
+          "text": "https://bit.ly/4lNuSlw"
+        },
+        {
+          "url": "https://bit.ly/3RzBruc",
+          "text": "https://bit.ly/3RzBruc"
+        },
+        {
+          "url": "https://bit.ly/4cuDVDL",
+          "text": "https://bit.ly/4cuDVDL"
+        },
+        {
+          "url": "https://bit.ly/42mCQKJ",
+          "text": "https://bit.ly/42mCQKJ"
+        },
+        {
+          "url": "https://bit.ly/42nOZ1W",
+          "text": "https://bit.ly/42nOZ1W"
+        },
+        {
+          "url": "https://bit.ly/4cQq0rO",
+          "text": "https://bit.ly/4cQq0rO"
+        },
+        {
+          "url": "https://bit.ly/3RnDykC",
+          "text": "https://bit.ly/3RnDykC"
+        },
+        {
+          "url": "https://bit.ly/4jI2IXk",
+          "text": "https://bit.ly/4jI2IXk"
+        },
+        {
+          "url": "https://bit.ly/4cCvOVs",
+          "text": "https://bit.ly/4cCvOVs"
+        },
+        {
+          "url": "https://bit.ly/42BzuCq",
+          "text": "https://bit.ly/42BzuCq"
+        },
+        {
+          "url": "https://bit.ly/3EFa7HQ",
+          "text": "https://bit.ly/3EFa7HQ"
+        },
+        {
+          "url": "https://shopee.vn/product/627289074/24374867704",
+          "text": "https://shopee.vn/product/627289074/2..."
+        },
+        {
+          "url": "https://shopee.vn/product/503704357/21323409512",
+          "text": "https://shopee.vn/product/503704357/2..."
+        },
+        {
+          "url": "https://shopee.vn/product/10963/138164127",
+          "text": "https://shopee.vn/product/10963/13816..."
+        },
+        {
+          "url": "https://shopee.vn/product/48875204/858520571",
+          "text": "https://shopee.vn/product/48875204/85..."
+        },
+        {
+          "url": "https://shopee.vn/product/242030585/13552282791",
+          "text": "https://shopee.vn/product/242030585/1..."
+        },
+        {
+          "url": "https://shopee.vn/product/1120619214/25401399517",
+          "text": "https://shopee.vn/product/1120619214/..."
+        },
+        {
+          "url": "https://shopee.vn/product/228312118/41802609105",
+          "text": "https://shopee.vn/product/228312118/4..."
+        },
+        {
+          "url": "https://shopee.vn/product/682039974/23742183109",
+          "text": "https://shopee.vn/product/682039974/2..."
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 3,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+      "isMonetized": null,
+      "hashtags": [
+        "#LêDươngBảoLâm",
+        "#ThúyNgân",
+        "#todoi1khong2"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tổ Đội \"1 Không 2\"-Tập 6: Quang Hùng MasterD flex sổ hồng \"bắt dâu\", Song Luân \"tác động\" Huỳnh Lập",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "WBE7iNSkA10",
+      "url": "https://www.youtube.com/watch?v=WBE7iNSkA10&list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3&index=9",
+      "thumbnailUrl": "https://i.ytimg.com/vi/WBE7iNSkA10/maxresdefault.jpg",
+      "viewCount": 4300360,
+      "date": "2025-03-23T13:40:06.000Z",
+      "likes": 36000,
+      "location": null,
+      "channelName": "ĐÔNG TÂY PROMOTION OFFICIAL",
+      "channelUrl": "https://www.youtube.com/@dongtaypromotionofficial",
+      "channelUsername": "dongtaypromotionofficial",
+      "collaborators": null,
+      "channelId": "UCFMEYTv6N64hIL9FlQ_hxBw",
+      "numberOfSubscribers": 9830000,
+      "duration": "01:27:39",
+      "commentsCount": 2834,
+      "text": "Tổ Đội \"1 Không 2\"-Tập 6: Quang Hùng MasterD flex sổ hồng \"bắt dâu\", Song Luân \"tác động\" Huỳnh Lập \n\nTRỌN BỘ TỔ ĐỘI \"1 KHÔNG 2\" 👉 https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3\n\n#todoi102 #todoi1khong2 #DongTayPromotion \n#LêDươngBảoLâm #QuangHùngMasterD #ThúyNgân \n#SongLuân #VõTấnPhát #UyểnÂn \n#HuỳnhLập #PhươngMỹChi #TiêuMinhPhụng\n\nTổ Đội \"1 Không 2\" là chương trình truyền hình thực tế lần đầu tiên mang đến concept “Zone Rules” với những luật lệ có Một – Không – Hai, áp dụng xuyên suốt cả chặng trải nghiệm và được thay đổi đa dạng sẽ khiến dàn cast đứng ngồi không yên. Tổ Đội \"1 Không 2\" còn là nơi ghi dấu những màn kết hợp lần đầu tiên nhưng không kém phần bùng nổ chemistry. Chương trình hứa hẹn mang lại những màn tương tác đáng yêu, hài hước chấn động cõi mạng.\n\n⏰Đón xem TỔ ĐỘI \"1 KHÔNG 2\" vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh @dongtaypromotionofficial \n\n© Chương trình Tổ Đội \"1 Không 2\" thuộc bản quyền của Dong Tay Promotion thuộc DatVietVAC, được khai thác và bảo vệ bản quyền bởi VieNETWORK.\n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n \n\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nTổ Đội \"1 Không 2\":  https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3\nOur Song Việt Nam:  https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP\n2 Ngày 1 Đêm Việt Nam: https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc\n7 Nụ Cười Xuân: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig\n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage: https://www.facebook.com/DongTayPromotion\n► Instagram: https://www.instagram.com/dongtaypromotion.official/\n► TikTok: https://www.tiktok.com/@dongtaypromotionofficial",
+      "translatedText": "Tổ Đội \"1 Không 2\"-Tập 6: Quang Hùng MasterD flex sổ hồng \"bắt dâu\", Song Luân \"tác động\" Huỳnh Lập \n\nTRỌN BỘ TỔ ĐỘI \"1 KHÔNG 2\" 👉    • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  \n\n#todoi102 #todoi1khong2 #DongTayPromotion \n#LêDươngBảoLâm #QuangHùngMasterD #ThúyNgân \n#SongLuân #VõTấnPhát #UyểnÂn \n#HuỳnhLập #PhươngMỹChi #TiêuMinhPhụng\n\nTổ Đội \"1 Không 2\" là chương trình truyền hình thực tế lần đầu tiên mang đến concept “Zone Rules” với những luật lệ có Một – Không – Hai, áp dụng xuyên suốt cả chặng trải nghiệm và được thay đổi đa dạng sẽ khiến dàn cast đứng ngồi không yên. Tổ Đội \"1 Không 2\" còn là nơi ghi dấu những màn kết hợp lần đầu tiên nhưng không kém phần bùng nổ chemistry. Chương trình hứa hẹn mang lại những màn tương tác đáng yêu, hài hước chấn động cõi mạng.\n\n⏰Đón xem TỔ ĐỘI \"1 KHÔNG 2\" vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh ‪@dongtaypromotionofficial‬ \n\n© Chương trình Tổ Đội \"1 Không 2\" thuộc bản quyền của Dong Tay Promotion thuộc DatVietVAC, được khai thác và bảo vệ bản quyền bởi VieNETWORK.\n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n \n\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nTổ Đội \"1 Không 2\":     • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  \nOur Song Việt Nam:     • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  \n2 Ngày 1 Đêm Việt Nam:    • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  \n7 Nụ Cười Xuân:    • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  \n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage: https://www.facebook.com/DongTayPromotion\n► Instagram: https://www.instagram.com/dongtaypromotion...\n► TikTok: https://www.tiktok.com/@dongtaypromotionof...",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+          "text": "   • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/todoi102",
+          "text": "#todoi102"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/todoi1khong2",
+          "text": "#todoi1khong2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dongtaypromotion",
+          "text": "#DongTayPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%AAd%C6%B0%C6%A1ngb%E1%BA%A3ol%C3%A2m",
+          "text": "#LêDươngBảoLâm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quangh%C3%B9ngmasterd",
+          "text": "#QuangHùngMasterD"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/th%C3%BAyng%C3%A2n",
+          "text": "#ThúyNgân"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/songlu%C3%A2n",
+          "text": "#SongLuân"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/v%C3%B5t%E1%BA%A5nph%C3%A1t",
+          "text": "#VõTấnPhát"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/uy%E1%BB%83n%C3%A2n",
+          "text": "#UyểnÂn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hu%E1%BB%B3nhl%E1%BA%ADp",
+          "text": "#HuỳnhLập"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ph%C6%B0%C6%A1ngm%E1%BB%B9chi",
+          "text": "#PhươngMỹChi"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ti%C3%AAuminhph%E1%BB%A5ng",
+          "text": "#TiêuMinhPhụng"
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "‪@dongtaypromotionofficial‬"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+          "text": "   • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+          "text": "   • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc",
+          "text": "   • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig",
+          "text": "   • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 8,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tổ Đội \"1 Không 2\"-Tập 1: Dương Lâm-Kiều Minh Tuấn \"tẩy trắng\" thành công, RHYDER tranh cúp \"mỏ hỗn\"",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "_7DygDmrWbU",
+      "url": "https://www.youtube.com/watch?v=_7DygDmrWbU&list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3&index=14",
+      "thumbnailUrl": "https://i.ytimg.com/vi/_7DygDmrWbU/maxresdefault.jpg",
+      "viewCount": 8610541,
+      "date": "2025-02-16T13:40:06.000Z",
+      "likes": 183000,
+      "location": null,
+      "channelName": "ĐÔNG TÂY PROMOTION OFFICIAL",
+      "channelUrl": "https://www.youtube.com/@dongtaypromotionofficial",
+      "channelUsername": "dongtaypromotionofficial",
+      "collaborators": null,
+      "channelId": "UCFMEYTv6N64hIL9FlQ_hxBw",
+      "numberOfSubscribers": 9830000,
+      "duration": "01:51:21",
+      "commentsCount": 5543,
+      "text": "Tổ Đội \"1 Không 2\"-Tập 1: Dương Lâm-Kiều Minh Tuấn \"tẩy trắng\" thành công, RHYDER tranh cúp \"mỏ hỗn\"\n\nTRỌN BỘ TỔ ĐỘI \"1 KHÔNG 2\" 👉 https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3\n\n#todoi102 #todoi1khong2 #DongTayPromotion \n#LêDươngBảoLâm #ThúyNgân #SongLuân #VõTấnPhát \n#UyểnÂn #KiềuMinhTuấn #RHYDER #JSOL\n\nTổ Đội \"1 Không 2\" là chương trình truyền hình thực tế lần đầu tiên mang đến concept “Zone Rules” với những luật lệ có Một – Không – Hai, áp dụng xuyên suốt cả chặng trải nghiệm và được thay đổi đa dạng sẽ khiến dàn cast đứng ngồi không yên. Tổ Đội \"1 Không 2\" còn là nơi ghi dấu những màn kết hợp lần đầu tiên nhưng không kém phần bùng nổ chemistry. Chương trình hứa hẹn mang lại những màn tương tác đáng yêu, hài hước chấn động cõi mạng.\n\n⏰Đón xem TỔ ĐỘI \"1 KHÔNG 2\" vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh @dongtaypromotionofficial \n\n© Chương trình Tổ Đội \"1 Không 2\" thuộc bản quyền của Dong Tay Promotion thuộc DatVietVAC, được khai thác và bảo vệ bản quyền bởi VieNETWORK.\n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nOur Song Việt Nam:  https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP\n2 Ngày 1 Đêm Việt Nam: https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc\n7 Nụ Cười Xuân: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig\nNhanh Như Chớp: https://www.youtube.com/playlist?list=PLy_TpcUT2LZuqASIzsS38QmT8CDA7zdSs\n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage: https://www.facebook.com/DongTayPromotion\n► Instagram: https://www.instagram.com/dongtaypromotion.official/\n► TikTok: https://www.tiktok.com/@dongtaypromotionofficial",
+      "translatedText": "Tổ Đội \"1 Không 2\"-Tập 1: Dương Lâm-Kiều Minh Tuấn \"tẩy trắng\" thành công, RHYDER tranh cúp \"mỏ hỗn\"\n\nTRỌN BỘ TỔ ĐỘI \"1 KHÔNG 2\" 👉    • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  \n\n#todoi102 #todoi1khong2 #DongTayPromotion \n#LêDươngBảoLâm #ThúyNgân #SongLuân #VõTấnPhát \n#UyểnÂn #KiềuMinhTuấn #RHYDER #JSOL\n\nTổ Đội \"1 Không 2\" là chương trình truyền hình thực tế lần đầu tiên mang đến concept “Zone Rules” với những luật lệ có Một – Không – Hai, áp dụng xuyên suốt cả chặng trải nghiệm và được thay đổi đa dạng sẽ khiến dàn cast đứng ngồi không yên. Tổ Đội \"1 Không 2\" còn là nơi ghi dấu những màn kết hợp lần đầu tiên nhưng không kém phần bùng nổ chemistry. Chương trình hứa hẹn mang lại những màn tương tác đáng yêu, hài hước chấn động cõi mạng.\n\n⏰Đón xem TỔ ĐỘI \"1 KHÔNG 2\" vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh ‪@dongtaypromotionofficial‬ \n\n© Chương trình Tổ Đội \"1 Không 2\" thuộc bản quyền của Dong Tay Promotion thuộc DatVietVAC, được khai thác và bảo vệ bản quyền bởi VieNETWORK.\n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nOur Song Việt Nam:     • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  \n2 Ngày 1 Đêm Việt Nam:    • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  \n7 Nụ Cười Xuân:    • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  \nNhanh Như Chớp:    • ⚡️⚡️NHANH NHƯ CHỚP MÙA 5⚡️⚡️ | Gameshow gi...  \n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage:   / dongtaypromotion  \n► Instagram:   / dongtaypromotion.official  \n► TikTok:   / dongtaypromotionofficial  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+          "text": "   • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/todoi102",
+          "text": "#todoi102"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/todoi1khong2",
+          "text": "#todoi1khong2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dongtaypromotion",
+          "text": "#DongTayPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%AAd%C6%B0%C6%A1ngb%E1%BA%A3ol%C3%A2m",
+          "text": "#LêDươngBảoLâm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/th%C3%BAyng%C3%A2n",
+          "text": "#ThúyNgân"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/songlu%C3%A2n",
+          "text": "#SongLuân"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/v%C3%B5t%E1%BA%A5nph%C3%A1t",
+          "text": "#VõTấnPhát"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/uy%E1%BB%83n%C3%A2n",
+          "text": "#UyểnÂn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ki%E1%BB%81uminhtu%E1%BA%A5n",
+          "text": "#KiềuMinhTuấn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/rhyder",
+          "text": "#RHYDER"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/jsol",
+          "text": "#JSOL"
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "‪@dongtaypromotionofficial‬"
+        },
+        {
+          "url": "https://bit.ly/SubDTP",
+          "text": "https://bit.ly/SubDTP"
+        },
+        {
+          "url": "https://bit.ly/SubDTE",
+          "text": "https://bit.ly/SubDTE"
+        },
+        {
+          "url": "https://bit.ly/HAUTRUONGDTP",
+          "text": "https://bit.ly/HAUTRUONGDTP"
+        },
+        {
+          "url": "https://bit.ly/showhotDTP",
+          "text": "https://bit.ly/showhotDTP"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+          "text": "   • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc",
+          "text": "   • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig",
+          "text": "   • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuqASIzsS38QmT8CDA7zdSs",
+          "text": "   • ⚡️⚡️NHANH NHƯ CHỚP MÙA 5⚡️⚡️ | Gameshow gi...  "
+        },
+        {
+          "url": "https://www.facebook.com/DongTayPromotion",
+          "text": "  / dongtaypromotion  "
+        },
+        {
+          "url": "https://www.instagram.com/dongtaypromotion.official/",
+          "text": "  / dongtaypromotion.official  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dongtaypromotionofficial",
+          "text": "  / dongtaypromotionofficial  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 13,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tổ Đội \"1 Không 2\" -Tập 7: Song Luân dùng \"tiểu xảo\" hại đối thủ, Uyển Ân \"đè đầu cưỡi cổ\" Dương Lâm",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "OoE9XCoaPxs",
+      "url": "https://www.youtube.com/watch?v=OoE9XCoaPxs&list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3&index=8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/OoE9XCoaPxs/maxresdefault.jpg",
+      "viewCount": 4126379,
+      "date": "2025-03-30T13:40:06.000Z",
+      "likes": 32000,
+      "location": null,
+      "channelName": "ĐÔNG TÂY PROMOTION OFFICIAL",
+      "channelUrl": "https://www.youtube.com/@dongtaypromotionofficial",
+      "channelUsername": "dongtaypromotionofficial",
+      "collaborators": null,
+      "channelId": "UCFMEYTv6N64hIL9FlQ_hxBw",
+      "numberOfSubscribers": 9830000,
+      "duration": "01:46:20",
+      "commentsCount": 3153,
+      "text": "Tổ Đội \"1 Không 2\" -Tập 7: Song Luân dùng \"tiểu xảo\" hại đối thủ, Uyển Ân \"đè đầu cưỡi cổ\" Dương Lâm\n\nTRỌN BỘ TỔ ĐỘI \"1 KHÔNG 2\" 👉 https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3\n\n#todoi102 #todoi1khong2 #DongTayPromotion \n#LêDươngBảoLâm #QuangHùngMasterD #ThúyNgân \n#SongLuân #VõTấnPhát #UyểnÂn #QuốcAnh\n\nTổ Đội \"1 Không 2\" là chương trình truyền hình thực tế lần đầu tiên mang đến concept “Zone Rules” với những luật lệ có Một – Không – Hai, áp dụng xuyên suốt cả chặng trải nghiệm và được thay đổi đa dạng sẽ khiến dàn cast đứng ngồi không yên. Tổ Đội \"1 Không 2\" còn là nơi ghi dấu những màn kết hợp lần đầu tiên nhưng không kém phần bùng nổ chemistry. Chương trình hứa hẹn mang lại những màn tương tác đáng yêu, hài hước chấn động cõi mạng.\n\n⏰Đón xem TỔ ĐỘI \"1 KHÔNG 2\" vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  @dongtaypromotionofficial \n\n© Chương trình Tổ Đội \"1 Không 2\" thuộc bản quyền của Dong Tay Promotion thuộc DatVietVAC, được khai thác và bảo vệ bản quyền bởi VieNETWORK.\n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n \n\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nTổ Đội \"1 Không 2\":  https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3\nOur Song Việt Nam:  https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP\n2 Ngày 1 Đêm Việt Nam: https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc\n7 Nụ Cười Xuân: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig\n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage: https://www.facebook.com/DongTayPromotion\n► Instagram: https://www.instagram.com/dongtaypromotion.official/\n► TikTok: https://www.tiktok.com/@dongtaypromotionofficial",
+      "translatedText": "Tổ Đội \"1 Không 2\" -Tập 7: Song Luân dùng \"tiểu xảo\" hại đối thủ, Uyển Ân \"đè đầu cưỡi cổ\" Dương Lâm\n\nTRỌN BỘ TỔ ĐỘI \"1 KHÔNG 2\" 👉    • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  \n\n#todoi102 #todoi1khong2 #DongTayPromotion \n#LêDươngBảoLâm #QuangHùngMasterD #ThúyNgân \n#SongLuân #VõTấnPhát #UyểnÂn #QuốcAnh\n\nTổ Đội \"1 Không 2\" là chương trình truyền hình thực tế lần đầu tiên mang đến concept “Zone Rules” với những luật lệ có Một – Không – Hai, áp dụng xuyên suốt cả chặng trải nghiệm và được thay đổi đa dạng sẽ khiến dàn cast đứng ngồi không yên. Tổ Đội \"1 Không 2\" còn là nơi ghi dấu những màn kết hợp lần đầu tiên nhưng không kém phần bùng nổ chemistry. Chương trình hứa hẹn mang lại những màn tương tác đáng yêu, hài hước chấn động cõi mạng.\n\n⏰Đón xem TỔ ĐỘI \"1 KHÔNG 2\" vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  ‪@dongtaypromotionofficial‬ \n\n© Chương trình Tổ Đội \"1 Không 2\" thuộc bản quyền của Dong Tay Promotion thuộc DatVietVAC, được khai thác và bảo vệ bản quyền bởi VieNETWORK.\n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n \n\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nTổ Đội \"1 Không 2\":     • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  \nOur Song Việt Nam:     • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  \n2 Ngày 1 Đêm Việt Nam:    • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  \n7 Nụ Cười Xuân:    • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  \n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage:   / dongtaypromotion  \n► Instagram:   / dongtaypromotion.official  \n► TikTok:   / dongtaypromotionofficial  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+          "text": "   • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/todoi102",
+          "text": "#todoi102"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/todoi1khong2",
+          "text": "#todoi1khong2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dongtaypromotion",
+          "text": "#DongTayPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%AAd%C6%B0%C6%A1ngb%E1%BA%A3ol%C3%A2m",
+          "text": "#LêDươngBảoLâm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quangh%C3%B9ngmasterd",
+          "text": "#QuangHùngMasterD"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/th%C3%BAyng%C3%A2n",
+          "text": "#ThúyNgân"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/songlu%C3%A2n",
+          "text": "#SongLuân"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/v%C3%B5t%E1%BA%A5nph%C3%A1t",
+          "text": "#VõTấnPhát"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/uy%E1%BB%83n%C3%A2n",
+          "text": "#UyểnÂn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/qu%E1%BB%91canh",
+          "text": "#QuốcAnh"
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "‪@dongtaypromotionofficial‬"
+        },
+        {
+          "url": "https://bit.ly/SubDTP",
+          "text": "https://bit.ly/SubDTP"
+        },
+        {
+          "url": "https://bit.ly/SubDTE",
+          "text": "https://bit.ly/SubDTE"
+        },
+        {
+          "url": "https://bit.ly/HAUTRUONGDTP",
+          "text": "https://bit.ly/HAUTRUONGDTP"
+        },
+        {
+          "url": "https://bit.ly/showhotDTP",
+          "text": "https://bit.ly/showhotDTP"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+          "text": "   • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+          "text": "   • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc",
+          "text": "   • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig",
+          "text": "   • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  "
+        },
+        {
+          "url": "https://www.facebook.com/DongTayPromotion",
+          "text": "  / dongtaypromotion  "
+        },
+        {
+          "url": "https://www.instagram.com/dongtaypromotion.official/",
+          "text": "  / dongtaypromotion.official  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dongtaypromotionofficial",
+          "text": "  / dongtaypromotionofficial  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 7,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tổ Đội \"1 Không 2\"-Tập 10: Dương Lâm chơi xấu bị \"treo giò\",Quang Hùng MasterD tháo chạy vì yêu quái",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "S5aVMO5klbE",
+      "url": "https://www.youtube.com/watch?v=S5aVMO5klbE&list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3&index=5",
+      "thumbnailUrl": "https://i.ytimg.com/vi/S5aVMO5klbE/maxresdefault.jpg",
+      "viewCount": 4264325,
+      "date": "2025-04-20T13:40:06.000Z",
+      "likes": 36000,
+      "location": null,
+      "channelName": "ĐÔNG TÂY PROMOTION OFFICIAL",
+      "channelUrl": "https://www.youtube.com/@dongtaypromotionofficial",
+      "channelUsername": "dongtaypromotionofficial",
+      "collaborators": null,
+      "channelId": "UCFMEYTv6N64hIL9FlQ_hxBw",
+      "numberOfSubscribers": 9830000,
+      "duration": "01:46:27",
+      "commentsCount": 3681,
+      "text": "Tổ Đội \"1 Không 2\"-Tập 10: Dương Lâm chơi xấu bị \"treo giò\",Quang Hùng MasterD tháo chạy vì yêu quái\n\nTRỌN BỘ TỔ ĐỘI \"1 KHÔNG 2\" 👉 https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3\n\n#todoi102 #todoi1khong2 #DongTayPromotion \n#LêDươngBảoLâm #QuangHùngMasterD #UyểnÂn\n#SongLuân #VõTấnPhát #ThúyNgân #VõCảnh #HữuĐằng\n\nTổ Đội \"1 Không 2\" là chương trình truyền hình thực tế lần đầu tiên mang đến concept “Zone Rules” với những luật lệ có Một – Không – Hai, áp dụng xuyên suốt cả chặng trải nghiệm và được thay đổi đa dạng sẽ khiến dàn cast đứng ngồi không yên. Tổ Đội \"1 Không 2\" còn là nơi ghi dấu những màn kết hợp lần đầu tiên nhưng không kém phần bùng nổ chemistry. Chương trình hứa hẹn mang lại những màn tương tác đáng yêu, hài hước chấn động cõi mạng.\n\n⏰Đón xem TỔ ĐỘI \"1 KHÔNG 2\" vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  @dongtaypromotionofficial \n\n© Chương trình Tổ Đội \"1 Không 2\" thuộc bản quyền của Dong Tay Promotion thuộc DatVietVAC, được khai thác và bảo vệ bản quyền bởi VieNETWORK.\n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n \n\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nTổ Đội \"1 Không 2\":  https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3\nOur Song Việt Nam:  https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP\n2 Ngày 1 Đêm Việt Nam: https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc\n7 Nụ Cười Xuân: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig\n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage: https://www.facebook.com/DongTayPromotion\n► Instagram: https://www.instagram.com/dongtaypromotion.official/\n► TikTok: https://www.tiktok.com/@dongtaypromotionofficial\n\n🛒Tham khảo các sản phẩm công nghệ, thời trang và tiêu dùng 👇:\nSữa Tươi NutiMilk Hộp 180ml Thùng 24 Hộp: https://bit.ly/4cuDVDL\nCombo 2 Tương ớt Chin-su 1KG: https://bit.ly/4job5a4\nÁo khoác dù by Marclo: https://bit.ly/3YB7RYT\nDVRK - Áo Len Tay Dài Dệt Kim: https://bit.ly/4ltoJe9\nÁo thun polo tay dài: https://bit.ly/42y5mro\nKính  thời trang Oval nam nữ LILYEYEWEAR: https://bit.ly/42wdeKe\nÁo Lưới Jersey Degrey: https://bit.ly/4ioooGW\nGấu Bông Capybara:https://bit.ly/3EtwAaQ\nDép bông hình thú: https://bit.ly/42Sec4E",
+      "translatedText": "Tổ Đội \"1 Không 2\"-Tập 10: Dương Lâm chơi xấu bị \"treo giò\",Quang Hùng MasterD tháo chạy vì yêu quái\n\nTRỌN BỘ TỔ ĐỘI \"1 KHÔNG 2\" 👉    • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  \n\n#todoi102 #todoi1khong2 #DongTayPromotion \n#LêDươngBảoLâm #QuangHùngMasterD #UyểnÂn\n#SongLuân #VõTấnPhát #ThúyNgân #VõCảnh #HữuĐằng\n\nTổ Đội \"1 Không 2\" là chương trình truyền hình thực tế lần đầu tiên mang đến concept “Zone Rules” với những luật lệ có Một – Không – Hai, áp dụng xuyên suốt cả chặng trải nghiệm và được thay đổi đa dạng sẽ khiến dàn cast đứng ngồi không yên. Tổ Đội \"1 Không 2\" còn là nơi ghi dấu những màn kết hợp lần đầu tiên nhưng không kém phần bùng nổ chemistry. Chương trình hứa hẹn mang lại những màn tương tác đáng yêu, hài hước chấn động cõi mạng.\n\n⏰Đón xem TỔ ĐỘI \"1 KHÔNG 2\" vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  ‪@dongtaypromotionofficial‬ \n\n© Chương trình Tổ Đội \"1 Không 2\" thuộc bản quyền của Dong Tay Promotion thuộc DatVietVAC, được khai thác và bảo vệ bản quyền bởi VieNETWORK.\n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n \n\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nTổ Đội \"1 Không 2\":     • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  \nOur Song Việt Nam:     • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  \n2 Ngày 1 Đêm Việt Nam:    • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  \n7 Nụ Cười Xuân:    • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  \n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage:   / dongtaypromotion  \n► Instagram:   / dongtaypromotion.official  \n► TikTok:   / dongtaypromotionofficial  \n\n🛒Tham khảo các sản phẩm công nghệ, thời trang và tiêu dùng 👇:\nSữa Tươi NutiMilk Hộp 180ml Thùng 24 Hộp: https://bit.ly/4cuDVDL\nCombo 2 Tương ớt Chin-su 1KG: https://bit.ly/4job5a4\nÁo khoác dù by Marclo: https://bit.ly/3YB7RYT\nDVRK - Áo Len Tay Dài Dệt Kim: https://bit.ly/4ltoJe9\nÁo thun polo tay dài: https://bit.ly/42y5mro\nKính  thời trang Oval nam nữ LILYEYEWEAR: https://bit.ly/42wdeKe\nÁo Lưới Jersey Degrey: https://bit.ly/4ioooGW\nGấu Bông Capybara:https://bit.ly/3EtwAaQ\nDép bông hình thú: https://bit.ly/42Sec4E",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+          "text": "   • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/todoi102",
+          "text": "#todoi102"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/todoi1khong2",
+          "text": "#todoi1khong2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dongtaypromotion",
+          "text": "#DongTayPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%AAd%C6%B0%C6%A1ngb%E1%BA%A3ol%C3%A2m",
+          "text": "#LêDươngBảoLâm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quangh%C3%B9ngmasterd",
+          "text": "#QuangHùngMasterD"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/uy%E1%BB%83n%C3%A2n",
+          "text": "#UyểnÂn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/songlu%C3%A2n",
+          "text": "#SongLuân"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/v%C3%B5t%E1%BA%A5nph%C3%A1t",
+          "text": "#VõTấnPhát"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/th%C3%BAyng%C3%A2n",
+          "text": "#ThúyNgân"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/v%C3%B5c%E1%BA%A3nh",
+          "text": "#VõCảnh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/h%E1%BB%AFu%C4%91%E1%BA%B1ng",
+          "text": "#HữuĐằng"
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "‪@dongtaypromotionofficial‬"
+        },
+        {
+          "url": "https://bit.ly/SubDTP",
+          "text": "https://bit.ly/SubDTP"
+        },
+        {
+          "url": "https://bit.ly/SubDTE",
+          "text": "https://bit.ly/SubDTE"
+        },
+        {
+          "url": "https://bit.ly/HAUTRUONGDTP",
+          "text": "https://bit.ly/HAUTRUONGDTP"
+        },
+        {
+          "url": "https://bit.ly/showhotDTP",
+          "text": "https://bit.ly/showhotDTP"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+          "text": "   • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+          "text": "   • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc",
+          "text": "   • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig",
+          "text": "   • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  "
+        },
+        {
+          "url": "https://www.facebook.com/DongTayPromotion",
+          "text": "  / dongtaypromotion  "
+        },
+        {
+          "url": "https://www.instagram.com/dongtaypromotion.official/",
+          "text": "  / dongtaypromotion.official  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dongtaypromotionofficial",
+          "text": "  / dongtaypromotionofficial  "
+        },
+        {
+          "url": "https://bit.ly/4cuDVDL",
+          "text": "https://bit.ly/4cuDVDL"
+        },
+        {
+          "url": "https://bit.ly/4job5a4",
+          "text": "https://bit.ly/4job5a4"
+        },
+        {
+          "url": "https://bit.ly/3YB7RYT",
+          "text": "https://bit.ly/3YB7RYT"
+        },
+        {
+          "url": "https://bit.ly/4ltoJe9",
+          "text": "https://bit.ly/4ltoJe9"
+        },
+        {
+          "url": "https://bit.ly/42y5mro",
+          "text": "https://bit.ly/42y5mro"
+        },
+        {
+          "url": "https://bit.ly/42wdeKe",
+          "text": "https://bit.ly/42wdeKe"
+        },
+        {
+          "url": "https://bit.ly/4ioooGW",
+          "text": "https://bit.ly/4ioooGW"
+        },
+        {
+          "url": "https://bit.ly/3EtwAaQ",
+          "text": "https://bit.ly/3EtwAaQ"
+        },
+        {
+          "url": "https://bit.ly/42Sec4E",
+          "text": "https://bit.ly/42Sec4E"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 4,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tổ Đội \"1 Không 2\"-Tập 4: Quang Hùng MasterD ăn combo đuối miếng - đuối nước, Thúy Ngân gặp báo thủ",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "bBzRlolOezQ",
+      "url": "https://www.youtube.com/watch?v=bBzRlolOezQ&list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3&index=11",
+      "thumbnailUrl": "https://i.ytimg.com/vi/bBzRlolOezQ/maxresdefault.jpg",
+      "viewCount": 6407528,
+      "date": "2025-03-09T13:40:06.000Z",
+      "likes": 51000,
+      "location": null,
+      "channelName": "ĐÔNG TÂY PROMOTION OFFICIAL",
+      "channelUrl": "https://www.youtube.com/@dongtaypromotionofficial",
+      "channelUsername": "dongtaypromotionofficial",
+      "collaborators": null,
+      "channelId": "UCFMEYTv6N64hIL9FlQ_hxBw",
+      "numberOfSubscribers": 9830000,
+      "duration": "01:34:44",
+      "commentsCount": 4034,
+      "text": "Tổ Đội \"1 Không 2\"-Tập 4: Quang Hùng MasterD ăn combo đuối miếng - đuối nước, Thúy Ngân gặp báo thủ  \n\nTRỌN BỘ TỔ ĐỘI \"1 KHÔNG 2\" 👉 https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3\n\n#todoi102 #todoi1khong2 #DongTayPromotion \n#LêDươngBảoLâm #QuangHùngMasterD #ThúyNgân \n#SongLuân #VõTấnPhát #UyểnÂn #PhápKiều #Nicky  \n\nTổ Đội \"1 Không 2\" là chương trình truyền hình thực tế lần đầu tiên mang đến concept “Zone Rules” với những luật lệ có Một – Không – Hai, áp dụng xuyên suốt cả chặng trải nghiệm và được thay đổi đa dạng sẽ khiến dàn cast đứng ngồi không yên. Tổ Đội \"1 Không 2\" còn là nơi ghi dấu những màn kết hợp lần đầu tiên nhưng không kém phần bùng nổ chemistry. Chương trình hứa hẹn mang lại những màn tương tác đáng yêu, hài hước chấn động cõi mạng.\n\n⏰Đón xem TỔ ĐỘI \"1 KHÔNG 2\" vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  @dongtaypromotionofficial \n\n© Chương trình Tổ Đội \"1 Không 2\" thuộc bản quyền của Dong Tay Promotion thuộc DatVietVAC, được khai thác và bảo vệ bản quyền bởi VieNETWORK.\n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nTổ Đội \"1 Không 2\":  https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3\nOur Song Việt Nam:  https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP\n2 Ngày 1 Đêm Việt Nam: https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc\n7 Nụ Cười Xuân: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig\n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage: https://www.facebook.com/DongTayPromotion\n► Instagram: https://www.instagram.com/dongtaypromotion.official/\n► TikTok: https://www.tiktok.com/@dongtaypromotionofficial",
+      "translatedText": "Tổ Đội \"1 Không 2\"-Tập 4: Quang Hùng MasterD ăn combo đuối miếng - đuối nước, Thúy Ngân gặp báo thủ  \n\nTRỌN BỘ TỔ ĐỘI \"1 KHÔNG 2\" 👉    • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  \n\n#todoi102 #todoi1khong2 #DongTayPromotion \n#LêDươngBảoLâm #QuangHùngMasterD #ThúyNgân \n#SongLuân #VõTấnPhát #UyểnÂn #PhápKiều #Nicky  \n\nTổ Đội \"1 Không 2\" là chương trình truyền hình thực tế lần đầu tiên mang đến concept “Zone Rules” với những luật lệ có Một – Không – Hai, áp dụng xuyên suốt cả chặng trải nghiệm và được thay đổi đa dạng sẽ khiến dàn cast đứng ngồi không yên. Tổ Đội \"1 Không 2\" còn là nơi ghi dấu những màn kết hợp lần đầu tiên nhưng không kém phần bùng nổ chemistry. Chương trình hứa hẹn mang lại những màn tương tác đáng yêu, hài hước chấn động cõi mạng.\n\n⏰Đón xem TỔ ĐỘI \"1 KHÔNG 2\" vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  ‪@dongtaypromotionofficial‬ \n\n© Chương trình Tổ Đội \"1 Không 2\" thuộc bản quyền của Dong Tay Promotion thuộc DatVietVAC, được khai thác và bảo vệ bản quyền bởi VieNETWORK.\n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nTổ Đội \"1 Không 2\":     • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  \nOur Song Việt Nam:     • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  \n2 Ngày 1 Đêm Việt Nam:    • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  \n7 Nụ Cười Xuân:    • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  \n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage: https://www.facebook.com/DongTayPromotion\n► Instagram: https://www.instagram.com/dongtaypromotion...\n► TikTok: https://www.tiktok.com/@dongtaypromotionof...",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+          "text": "   • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/todoi102",
+          "text": "#todoi102"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/todoi1khong2",
+          "text": "#todoi1khong2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dongtaypromotion",
+          "text": "#DongTayPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%AAd%C6%B0%C6%A1ngb%E1%BA%A3ol%C3%A2m",
+          "text": "#LêDươngBảoLâm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quangh%C3%B9ngmasterd",
+          "text": "#QuangHùngMasterD"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/th%C3%BAyng%C3%A2n",
+          "text": "#ThúyNgân"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/songlu%C3%A2n",
+          "text": "#SongLuân"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/v%C3%B5t%E1%BA%A5nph%C3%A1t",
+          "text": "#VõTấnPhát"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/uy%E1%BB%83n%C3%A2n",
+          "text": "#UyểnÂn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ph%C3%A1pki%E1%BB%81u",
+          "text": "#PhápKiều"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/nicky",
+          "text": "#Nicky"
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "‪@dongtaypromotionofficial‬"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+          "text": "   • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+          "text": "   • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc",
+          "text": "   • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig",
+          "text": "   • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 10,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tổ Đội \"1 Không 2\"-Tập 5:Võ Tấn Phát bị \"thảo khấu\" Huỳnh Lập tấn công, Uyển Ân bị loại khỏi gia phả",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "7wdrAbiwreY",
+      "url": "https://www.youtube.com/watch?v=7wdrAbiwreY&list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3&index=10",
+      "thumbnailUrl": "https://i.ytimg.com/vi/7wdrAbiwreY/maxresdefault.jpg",
+      "viewCount": 5421201,
+      "date": "2025-03-16T13:40:06.000Z",
+      "likes": 44000,
+      "location": null,
+      "channelName": "ĐÔNG TÂY PROMOTION OFFICIAL",
+      "channelUrl": "https://www.youtube.com/@dongtaypromotionofficial",
+      "channelUsername": "dongtaypromotionofficial",
+      "collaborators": null,
+      "channelId": "UCFMEYTv6N64hIL9FlQ_hxBw",
+      "numberOfSubscribers": 9830000,
+      "duration": "01:31:14",
+      "commentsCount": 3925,
+      "text": "Tổ Đội \"1 Không 2\"-Tập 5:Võ Tấn Phát bị \"thảo khấu\" Huỳnh Lập tấn công, Uyển Ân bị loại khỏi gia phả\n\nTRỌN BỘ TỔ ĐỘI \"1 KHÔNG 2\" 👉 https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3\n\n#todoi102 #todoi1khong2 #DongTayPromotion \n#LêDươngBảoLâm #QuangHùngMasterD #ThúyNgân \n#SongLuân #VõTấnPhát #UyểnÂn \n#HuỳnhLập #PhươngMỹChi #TiêuMinhPhụng\n\nTổ Đội \"1 Không 2\" là chương trình truyền hình thực tế lần đầu tiên mang đến concept “Zone Rules” với những luật lệ có Một – Không – Hai, áp dụng xuyên suốt cả chặng trải nghiệm và được thay đổi đa dạng sẽ khiến dàn cast đứng ngồi không yên. Tổ Đội \"1 Không 2\" còn là nơi ghi dấu những màn kết hợp lần đầu tiên nhưng không kém phần bùng nổ chemistry. Chương trình hứa hẹn mang lại những màn tương tác đáng yêu, hài hước chấn động cõi mạng.\n\n⏰Đón xem TỔ ĐỘI \"1 KHÔNG 2\" vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh   @dongtaypromotionofficial \n\n© Chương trình Tổ Đội \"1 Không 2\" thuộc bản quyền của Dong Tay Promotion thuộc DatVietVAC, được khai thác và bảo vệ bản quyền bởi VieNETWORK.\n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n \n\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nTổ Đội \"1 Không 2\":  https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3\n2 Ngày 1 Đêm Việt Nam: https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc\n7 Nụ Cười Xuân: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig\nOur Song Việt Nam:  https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP\n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage: https://www.facebook.com/DongTayPromotion\n► Instagram: https://www.instagram.com/dongtaypromotion.official/\n► TikTok: https://www.tiktok.com/@dongtaypromotionofficial",
+      "translatedText": "Tổ Đội \"1 Không 2\"-Tập 5:Võ Tấn Phát bị \"thảo khấu\" Huỳnh Lập tấn công, Uyển Ân bị loại khỏi gia phả\n\nTRỌN BỘ TỔ ĐỘI \"1 KHÔNG 2\" 👉    • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  \n\n#todoi102 #todoi1khong2 #DongTayPromotion \n#LêDươngBảoLâm #QuangHùngMasterD #ThúyNgân \n#SongLuân #VõTấnPhát #UyểnÂn \n#HuỳnhLập #PhươngMỹChi #TiêuMinhPhụng\n\nTổ Đội \"1 Không 2\" là chương trình truyền hình thực tế lần đầu tiên mang đến concept “Zone Rules” với những luật lệ có Một – Không – Hai, áp dụng xuyên suốt cả chặng trải nghiệm và được thay đổi đa dạng sẽ khiến dàn cast đứng ngồi không yên. Tổ Đội \"1 Không 2\" còn là nơi ghi dấu những màn kết hợp lần đầu tiên nhưng không kém phần bùng nổ chemistry. Chương trình hứa hẹn mang lại những màn tương tác đáng yêu, hài hước chấn động cõi mạng.\n\n⏰Đón xem TỔ ĐỘI \"1 KHÔNG 2\" vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh   ‪@dongtaypromotionofficial‬ \n\n© Chương trình Tổ Đội \"1 Không 2\" thuộc bản quyền của Dong Tay Promotion thuộc DatVietVAC, được khai thác và bảo vệ bản quyền bởi VieNETWORK.\n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n \n\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nTổ Đội \"1 Không 2\":     • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  \n2 Ngày 1 Đêm Việt Nam:    • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  \n7 Nụ Cười Xuân:    • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  \nOur Song Việt Nam:     • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  \n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage:   / dongtaypromotion  \n► Instagram:   / dongtaypromotion.official  \n► TikTok:   / dongtaypromotionofficial  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+          "text": "   • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/todoi102",
+          "text": "#todoi102"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/todoi1khong2",
+          "text": "#todoi1khong2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dongtaypromotion",
+          "text": "#DongTayPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%AAd%C6%B0%C6%A1ngb%E1%BA%A3ol%C3%A2m",
+          "text": "#LêDươngBảoLâm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quangh%C3%B9ngmasterd",
+          "text": "#QuangHùngMasterD"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/th%C3%BAyng%C3%A2n",
+          "text": "#ThúyNgân"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/songlu%C3%A2n",
+          "text": "#SongLuân"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/v%C3%B5t%E1%BA%A5nph%C3%A1t",
+          "text": "#VõTấnPhát"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/uy%E1%BB%83n%C3%A2n",
+          "text": "#UyểnÂn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hu%E1%BB%B3nhl%E1%BA%ADp",
+          "text": "#HuỳnhLập"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ph%C6%B0%C6%A1ngm%E1%BB%B9chi",
+          "text": "#PhươngMỹChi"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ti%C3%AAuminhph%E1%BB%A5ng",
+          "text": "#TiêuMinhPhụng"
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "‪@dongtaypromotionofficial‬"
+        },
+        {
+          "url": "https://bit.ly/SubDTP",
+          "text": "https://bit.ly/SubDTP"
+        },
+        {
+          "url": "https://bit.ly/SubDTE",
+          "text": "https://bit.ly/SubDTE"
+        },
+        {
+          "url": "https://bit.ly/HAUTRUONGDTP",
+          "text": "https://bit.ly/HAUTRUONGDTP"
+        },
+        {
+          "url": "https://bit.ly/showhotDTP",
+          "text": "https://bit.ly/showhotDTP"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+          "text": "   • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc",
+          "text": "   • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig",
+          "text": "   • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+          "text": "   • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  "
+        },
+        {
+          "url": "https://www.facebook.com/DongTayPromotion",
+          "text": "  / dongtaypromotion  "
+        },
+        {
+          "url": "https://www.instagram.com/dongtaypromotion.official/",
+          "text": "  / dongtaypromotion.official  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dongtaypromotionofficial",
+          "text": "  / dongtaypromotionofficial  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 9,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+      "isMonetized": null,
+      "hashtags": [
+        "#LêDươngBảoLâm",
+        "#ThúyNgân",
+        "#todoi1khong2"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tổ Đội \"1 Không 2\" - Tập 3: Quang Hùng MasterD cãi tay đôi Võ Tấn Phát, Dương Lâm \"xử\" tổng tài fake",
+      "translatedTitle": "The \"1 of a Kind\" Crew - Episode 3: Quang Hung MasterD in a Heated Argument with Vo Tan Phat, Duo...",
+      "type": "video",
+      "id": "D1mLh72bcOw",
+      "url": "https://www.youtube.com/watch?v=D1mLh72bcOw&list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3&index=12",
+      "thumbnailUrl": "https://i.ytimg.com/vi/D1mLh72bcOw/maxresdefault.jpg",
+      "viewCount": 5866604,
+      "date": "2025-03-02T13:40:06.000Z",
+      "likes": 62000,
+      "location": null,
+      "channelName": "ĐÔNG TÂY PROMOTION OFFICIAL",
+      "channelUrl": "https://www.youtube.com/@dongtaypromotionofficial",
+      "channelUsername": "dongtaypromotionofficial",
+      "collaborators": null,
+      "channelId": "UCFMEYTv6N64hIL9FlQ_hxBw",
+      "numberOfSubscribers": 9830000,
+      "duration": "01:37:17",
+      "commentsCount": 4302,
+      "text": "Tổ Đội \"1 Không 2\" - Tập 3: Quang Hùng MasterD cãi tay đôi Võ Tấn Phát, Dương Lâm \"xử\" tổng tài fake \n\nTRỌN BỘ TỔ ĐỘI \"1 KHÔNG 2\" 👉 https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3\n\n#todoi102 #todoi1khong2 #DongTayPromotion \n#LêDươngBảoLâm #QuangHùngMasterD #ThúyNgân \n#SongLuân #VõTấnPhát #UyểnÂn #PhápKiều #Nicky  \n\nTổ Đội \"1 Không 2\" là chương trình truyền hình thực tế lần đầu tiên mang đến concept “Zone Rules” với những luật lệ có Một – Không – Hai, áp dụng xuyên suốt cả chặng trải nghiệm và được thay đổi đa dạng sẽ khiến dàn cast đứng ngồi không yên. Tổ Đội \"1 Không 2\" còn là nơi ghi dấu những màn kết hợp lần đầu tiên nhưng không kém phần bùng nổ chemistry. Chương trình hứa hẹn mang lại những màn tương tác đáng yêu, hài hước chấn động cõi mạng.\n\n⏰Đón xem TỔ ĐỘI \"1 KHÔNG 2\" vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  @dongtaypromotionofficial \n\n© Chương trình Tổ Đội \"1 Không 2\" thuộc bản quyền của Dong Tay Promotion thuộc DatVietVAC, được khai thác và bảo vệ bản quyền bởi VieNETWORK.\n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nTổ Đội \"1 Không 2\":  https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3\nOur Song Việt Nam:  https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP\n2 Ngày 1 Đêm Việt Nam: https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc\n7 Nụ Cười Xuân: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig\n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage: https://www.facebook.com/DongTayPromotion\n► Instagram: https://www.instagram.com/dongtaypromotion.official/\n► TikTok: https://www.tiktok.com/@dongtaypromotionofficial",
+      "translatedText": "Team \"1 No 2\" - Episode 3: Quang Hung MasterD argues with Vo Tan Phat, Duong Lam \"deals with\" the fake CEO\n\nFULL \"1 NO 2\" TEAM SERIES 👉    • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  \n\n#todoi102 #todoi1khong2 #DongTayPromotion\n\n#LeDuongBaoLam #QuangHungMasterD #ThuyNgan\n\n#SongLuan #VoTanPhat #UyenAn #PhapKieu #Nicky\n\n\"Team \"1 No 2\" is a reality TV show that introduces the \"Zone Rules\" concept for the first time, featuring unique rules that apply throughout the entire experience and change frequently, keeping the cast on the edge of their seats. The \"1-No-Two Team\" show also marks the first-time collaborations with explosive chemistry. The program promises adorable and hilarious interactions that will take the internet by storm.\n\n⏰ Watch \"1-NO-2 Team\" at:\n\n📺 8:30 PM every Sunday on HTV7 and the VieON entertainment app\n\n▶️ 8:40 PM on @dongtaypromotionofficial\n\n© The \"1-No-2 Team\" program is copyrighted by Dong Tay Promotion, a subsidiary of DatVietVAC, and is exploited and protected by VieNETWORK.\n\n📣 Subscribe to the DONG TAY PROMOTION OFFICIAL channel to not miss out on SUPER EXCITING programs: https://bit.ly/SubDTP\n📣 Subscribe to the DONG TAY ENTERTAINMENT channel to watch HOT VIDEOS from the top shows: https://bit.ly/SubDTE\n\n⏩ Behind-the-Scenes Secrets: https://bit.ly/HAUTRUONGDTP ⏩ Great Shows every day: https://bit.ly/showhotDTP \n👉 OTHER HOT SHOWS: \nTeam \"One of a Kind\":    • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  \nOur Song Vietnam:    • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  \n2 Days 1 Night Vietnam:    • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  \n7 Spring Smiles:    • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  \n\n👉 Follow the official channels of Dong Tay Promotion - owned by DatVietVAC at:\n► Fanpage: https://www.facebook.com/DongTayPromotion\n► Instagram: https://www.instagram.com/dongtaypromotion...\n► TikTok: https://www.tiktok.com/@dongtaypromotionof...",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+          "text": "   • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/todoi102",
+          "text": "#todoi102"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/todoi1khong2",
+          "text": "#todoi1khong2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dongtaypromotion",
+          "text": "#DongTayPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/leduongbaolam",
+          "text": "#LeDuongBaoLam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quanghungmasterd",
+          "text": "#QuangHungMasterD"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thuyngan",
+          "text": "#ThuyNgan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/songluan",
+          "text": "#SongLuan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/votanphat",
+          "text": "#VoTanPhat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/uyenan",
+          "text": "#UyenAn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phapkieu",
+          "text": "#PhapKieu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/nicky",
+          "text": "#Nicky"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+          "text": "   • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+          "text": "   • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc",
+          "text": "   • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig",
+          "text": "   • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 11,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tổ Đội \"1 Không 2\"-Tập 9: Quang Hùng MasterD-Song Luân chọn lối đi riêng, Dương Lâm bị hại nằm ăn vạ",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "kJh4ggVl4p0",
+      "url": "https://www.youtube.com/watch?v=kJh4ggVl4p0&list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3&index=6",
+      "thumbnailUrl": "https://i.ytimg.com/vi/kJh4ggVl4p0/maxresdefault.jpg",
+      "viewCount": 4001052,
+      "date": "2025-04-13T13:40:06.000Z",
+      "likes": 34000,
+      "location": null,
+      "channelName": "ĐÔNG TÂY PROMOTION OFFICIAL",
+      "channelUrl": "https://www.youtube.com/@dongtaypromotionofficial",
+      "channelUsername": "dongtaypromotionofficial",
+      "collaborators": null,
+      "channelId": "UCFMEYTv6N64hIL9FlQ_hxBw",
+      "numberOfSubscribers": 9830000,
+      "duration": "01:46:23",
+      "commentsCount": 3189,
+      "text": "Tổ Đội \"1 Không 2\"-Tập 9: Quang Hùng MasterD-Song Luân chọn lối đi riêng, Dương Lâm bị hại nằm ăn vạ\n\nTRỌN BỘ TỔ ĐỘI \"1 KHÔNG 2\" 👉 https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3\n\n#todoi102 #todoi1khong2 #DongTayPromotion \n#LêDươngBảoLâm #QuangHùngMasterD #ThúyNgân \n#SongLuân #VõTấnPhát #UyểnÂn #CAPTAINBOY #OgeNus\n\nTổ Đội \"1 Không 2\" là chương trình truyền hình thực tế lần đầu tiên mang đến concept “Zone Rules” với những luật lệ có Một – Không – Hai, áp dụng xuyên suốt cả chặng trải nghiệm và được thay đổi đa dạng sẽ khiến dàn cast đứng ngồi không yên. Tổ Đội \"1 Không 2\" còn là nơi ghi dấu những màn kết hợp lần đầu tiên nhưng không kém phần bùng nổ chemistry. Chương trình hứa hẹn mang lại những màn tương tác đáng yêu, hài hước chấn động cõi mạng.\n\n⏰Đón xem TỔ ĐỘI \"1 KHÔNG 2\" vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh @dongtaypromotionofficial \n\n© Chương trình Tổ Đội \"1 Không 2\" thuộc bản quyền của Dong Tay Promotion thuộc DatVietVAC, được khai thác và bảo vệ bản quyền bởi VieNETWORK.\n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n \n\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nTổ Đội \"1 Không 2\":  https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3\nOur Song Việt Nam:  https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP\n2 Ngày 1 Đêm Việt Nam: https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc\n7 Nụ Cười Xuân: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig\n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage: https://www.facebook.com/DongTayPromotion\n► Instagram: https://www.instagram.com/dongtaypromotion.official/\n► TikTok: https://www.tiktok.com/@dongtaypromotionofficial",
+      "translatedText": "Tổ Đội \"1 Không 2\"-Tập 9: Quang Hùng MasterD-Song Luân chọn lối đi riêng, Dương Lâm bị hại nằm ăn vạ\n\nTRỌN BỘ TỔ ĐỘI \"1 KHÔNG 2\" 👉    • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  \n\n#todoi102 #todoi1khong2 #DongTayPromotion \n#LêDươngBảoLâm #QuangHùngMasterD #ThúyNgân \n#SongLuân #VõTấnPhát #UyểnÂn #CAPTAINBOY #OgeNus\n\nTổ Đội \"1 Không 2\" là chương trình truyền hình thực tế lần đầu tiên mang đến concept “Zone Rules” với những luật lệ có Một – Không – Hai, áp dụng xuyên suốt cả chặng trải nghiệm và được thay đổi đa dạng sẽ khiến dàn cast đứng ngồi không yên. Tổ Đội \"1 Không 2\" còn là nơi ghi dấu những màn kết hợp lần đầu tiên nhưng không kém phần bùng nổ chemistry. Chương trình hứa hẹn mang lại những màn tương tác đáng yêu, hài hước chấn động cõi mạng.\n\n⏰Đón xem TỔ ĐỘI \"1 KHÔNG 2\" vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh ‪@dongtaypromotionofficial‬ \n\n© Chương trình Tổ Đội \"1 Không 2\" thuộc bản quyền của Dong Tay Promotion thuộc DatVietVAC, được khai thác và bảo vệ bản quyền bởi VieNETWORK.\n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n \n\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nTổ Đội \"1 Không 2\":     • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  \nOur Song Việt Nam:     • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  \n2 Ngày 1 Đêm Việt Nam:    • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  \n7 Nụ Cười Xuân:    • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  \n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage:   / dongtaypromotion  \n► Instagram:   / dongtaypromotion.official  \n► TikTok:   / dongtaypromotionofficial  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+          "text": "   • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/todoi102",
+          "text": "#todoi102"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/todoi1khong2",
+          "text": "#todoi1khong2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dongtaypromotion",
+          "text": "#DongTayPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%AAd%C6%B0%C6%A1ngb%E1%BA%A3ol%C3%A2m",
+          "text": "#LêDươngBảoLâm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quangh%C3%B9ngmasterd",
+          "text": "#QuangHùngMasterD"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/th%C3%BAyng%C3%A2n",
+          "text": "#ThúyNgân"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/songlu%C3%A2n",
+          "text": "#SongLuân"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/v%C3%B5t%E1%BA%A5nph%C3%A1t",
+          "text": "#VõTấnPhát"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/uy%E1%BB%83n%C3%A2n",
+          "text": "#UyểnÂn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/captainboy",
+          "text": "#CAPTAINBOY"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ogenus",
+          "text": "#OgeNus"
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "‪@dongtaypromotionofficial‬"
+        },
+        {
+          "url": "https://bit.ly/SubDTP",
+          "text": "https://bit.ly/SubDTP"
+        },
+        {
+          "url": "https://bit.ly/SubDTE",
+          "text": "https://bit.ly/SubDTE"
+        },
+        {
+          "url": "https://bit.ly/HAUTRUONGDTP",
+          "text": "https://bit.ly/HAUTRUONGDTP"
+        },
+        {
+          "url": "https://bit.ly/showhotDTP",
+          "text": "https://bit.ly/showhotDTP"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+          "text": "   • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+          "text": "   • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc",
+          "text": "   • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig",
+          "text": "   • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  "
+        },
+        {
+          "url": "https://www.facebook.com/DongTayPromotion",
+          "text": "  / dongtaypromotion  "
+        },
+        {
+          "url": "https://www.instagram.com/dongtaypromotion.official/",
+          "text": "  / dongtaypromotion.official  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dongtaypromotionofficial",
+          "text": "  / dongtaypromotionofficial  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 5,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tổ Đội \"1 Không 2\" - Tập 8: Quang Hùng MasterD \"bỏ bùa\" khách mời, Dương Lâm hoá cô bảo mẫu",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "wni4ExDuJIs",
+      "url": "https://www.youtube.com/watch?v=wni4ExDuJIs&list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3&index=7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/wni4ExDuJIs/maxresdefault.jpg",
+      "viewCount": 4786799,
+      "date": "2025-04-06T13:40:06.000Z",
+      "likes": 43000,
+      "location": null,
+      "channelName": "ĐÔNG TÂY PROMOTION OFFICIAL",
+      "channelUrl": "https://www.youtube.com/@dongtaypromotionofficial",
+      "channelUsername": "dongtaypromotionofficial",
+      "collaborators": null,
+      "channelId": "UCFMEYTv6N64hIL9FlQ_hxBw",
+      "numberOfSubscribers": 9830000,
+      "duration": "01:38:07",
+      "commentsCount": 5564,
+      "text": "Tổ Đội \"1 Không 2\" - Tập 8: Quang Hùng MasterD \"bỏ bùa\" khách mời, Dương Lâm hoá cô bảo mẫu \n\nTRỌN BỘ TỔ ĐỘI \"1 KHÔNG 2\" 👉 https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3\n\n#todoi102 #todoi1khong2 #DongTayPromotion \n#LêDươngBảoLâm #QuangHùngMasterD #ThúyNgân \n#SongLuân #VõTấnPhát #UyểnÂn #CAPTAINBOY #OgeNus\n\nTổ Đội \"1 Không 2\" là chương trình truyền hình thực tế lần đầu tiên mang đến concept “Zone Rules” với những luật lệ có Một – Không – Hai, áp dụng xuyên suốt cả chặng trải nghiệm và được thay đổi đa dạng sẽ khiến dàn cast đứng ngồi không yên. Tổ Đội \"1 Không 2\" còn là nơi ghi dấu những màn kết hợp lần đầu tiên nhưng không kém phần bùng nổ chemistry. Chương trình hứa hẹn mang lại những màn tương tác đáng yêu, hài hước chấn động cõi mạng.\n\n⏰Đón xem TỔ ĐỘI \"1 KHÔNG 2\" vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh @dongtaypromotionofficial \n\n© Chương trình Tổ Đội \"1 Không 2\" thuộc bản quyền của Dong Tay Promotion thuộc DatVietVAC, được khai thác và bảo vệ bản quyền bởi VieNETWORK.\n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n \n\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nTổ Đội \"1 Không 2\":  https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3\nOur Song Việt Nam:  https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP\n2 Ngày 1 Đêm Việt Nam: https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc\n7 Nụ Cười Xuân: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig\n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage: https://www.facebook.com/DongTayPromotion\n► Instagram: https://www.instagram.com/dongtaypromotion.official/\n► TikTok: https://www.tiktok.com/@dongtaypromotionofficial",
+      "translatedText": "Tổ Đội \"1 Không 2\" - Tập 8: Quang Hùng MasterD \"bỏ bùa\" khách mời, Dương Lâm hoá cô bảo mẫu \n\nTRỌN BỘ TỔ ĐỘI \"1 KHÔNG 2\" 👉    • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  \n\n#todoi102 #todoi1khong2 #DongTayPromotion \n#LêDươngBảoLâm #QuangHùngMasterD #ThúyNgân \n#SongLuân #VõTấnPhát #UyểnÂn #CAPTAINBOY #OgeNus\n\nTổ Đội \"1 Không 2\" là chương trình truyền hình thực tế lần đầu tiên mang đến concept “Zone Rules” với những luật lệ có Một – Không – Hai, áp dụng xuyên suốt cả chặng trải nghiệm và được thay đổi đa dạng sẽ khiến dàn cast đứng ngồi không yên. Tổ Đội \"1 Không 2\" còn là nơi ghi dấu những màn kết hợp lần đầu tiên nhưng không kém phần bùng nổ chemistry. Chương trình hứa hẹn mang lại những màn tương tác đáng yêu, hài hước chấn động cõi mạng.\n\n⏰Đón xem TỔ ĐỘI \"1 KHÔNG 2\" vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh ‪@dongtaypromotionofficial‬ \n\n© Chương trình Tổ Đội \"1 Không 2\" thuộc bản quyền của Dong Tay Promotion thuộc DatVietVAC, được khai thác và bảo vệ bản quyền bởi VieNETWORK.\n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n \n\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nTổ Đội \"1 Không 2\":     • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  \nOur Song Việt Nam:     • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  \n2 Ngày 1 Đêm Việt Nam:    • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  \n7 Nụ Cười Xuân:    • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  \n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage:   / dongtaypromotion  \n► Instagram:   / dongtaypromotion.official  \n► TikTok:   / dongtaypromotionofficial  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+          "text": "   • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/todoi102",
+          "text": "#todoi102"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/todoi1khong2",
+          "text": "#todoi1khong2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dongtaypromotion",
+          "text": "#DongTayPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%AAd%C6%B0%C6%A1ngb%E1%BA%A3ol%C3%A2m",
+          "text": "#LêDươngBảoLâm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quangh%C3%B9ngmasterd",
+          "text": "#QuangHùngMasterD"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/th%C3%BAyng%C3%A2n",
+          "text": "#ThúyNgân"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/songlu%C3%A2n",
+          "text": "#SongLuân"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/v%C3%B5t%E1%BA%A5nph%C3%A1t",
+          "text": "#VõTấnPhát"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/uy%E1%BB%83n%C3%A2n",
+          "text": "#UyểnÂn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/captainboy",
+          "text": "#CAPTAINBOY"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ogenus",
+          "text": "#OgeNus"
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "‪@dongtaypromotionofficial‬"
+        },
+        {
+          "url": "https://bit.ly/SubDTP",
+          "text": "https://bit.ly/SubDTP"
+        },
+        {
+          "url": "https://bit.ly/SubDTE",
+          "text": "https://bit.ly/SubDTE"
+        },
+        {
+          "url": "https://bit.ly/HAUTRUONGDTP",
+          "text": "https://bit.ly/HAUTRUONGDTP"
+        },
+        {
+          "url": "https://bit.ly/showhotDTP",
+          "text": "https://bit.ly/showhotDTP"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+          "text": "   • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+          "text": "   • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc",
+          "text": "   • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig",
+          "text": "   • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  "
+        },
+        {
+          "url": "https://www.facebook.com/DongTayPromotion",
+          "text": "  / dongtaypromotion  "
+        },
+        {
+          "url": "https://www.instagram.com/dongtaypromotion.official/",
+          "text": "  / dongtaypromotion.official  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dongtaypromotionofficial",
+          "text": "  / dongtaypromotionofficial  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 6,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tổ Đội \"1 Không 2\" - Tập 2: RHYDER \"bầm dập\" với Long Vương Dương Lâm, Võ Tấn Phát gặp cú sốc tâm lý",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "8Adf5rJJJvw",
+      "url": "https://www.youtube.com/watch?v=8Adf5rJJJvw&list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3&index=13",
+      "thumbnailUrl": "https://i.ytimg.com/vi/8Adf5rJJJvw/maxresdefault.jpg",
+      "viewCount": 5120814,
+      "date": "2025-02-23T13:40:06.000Z",
+      "likes": 126000,
+      "location": null,
+      "channelName": "ĐÔNG TÂY PROMOTION OFFICIAL",
+      "channelUrl": "https://www.youtube.com/@dongtaypromotionofficial",
+      "channelUsername": "dongtaypromotionofficial",
+      "collaborators": null,
+      "channelId": "UCFMEYTv6N64hIL9FlQ_hxBw",
+      "numberOfSubscribers": 9830000,
+      "duration": "01:29:08",
+      "commentsCount": 4468,
+      "text": "Tổ Đội \"1 Không 2\" - Tập 2: RHYDER \"bầm dập\" với Long Vương Dương Lâm, Võ Tấn Phát gặp cú sốc tâm lý\n\nTRỌN BỘ TỔ ĐỘI \"1 KHÔNG 2\" 👉 https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3\n\n#todoi102 #todoi1khong2 #DongTayPromotion \n#LêDươngBảoLâm #ThúyNgân #SongLuân #VõTấnPhát \n#UyểnÂn #KiềuMinhTuấn #RHYDER #JSOL\n\nTổ Đội \"1 Không 2\" là chương trình truyền hình thực tế lần đầu tiên mang đến concept “Zone Rules” với những luật lệ có Một – Không – Hai, áp dụng xuyên suốt cả chặng trải nghiệm và được thay đổi đa dạng sẽ khiến dàn cast đứng ngồi không yên. Tổ Đội \"1 Không 2\" còn là nơi ghi dấu những màn kết hợp lần đầu tiên nhưng không kém phần bùng nổ chemistry. Chương trình hứa hẹn mang lại những màn tương tác đáng yêu, hài hước chấn động cõi mạng.\n\n⏰Đón xem TỔ ĐỘI \"1 KHÔNG 2\" vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  @dongtaypromotionofficial \n\n© Chương trình Tổ Đội \"1 Không 2\" thuộc bản quyền của Dong Tay Promotion thuộc DatVietVAC, được khai thác và bảo vệ bản quyền bởi VieNETWORK.\n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nTổ Đội \"1 Không 2\":  https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3\nOur Song Việt Nam:  https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP\n2 Ngày 1 Đêm Việt Nam: https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc\n7 Nụ Cười Xuân: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig\n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage: https://www.facebook.com/DongTayPromotion\n► Instagram: https://www.instagram.com/dongtaypromotion.official/\n► TikTok: https://www.tiktok.com/@dongtaypromotionofficial",
+      "translatedText": "Tổ Đội \"1 Không 2\" - Tập 2: RHYDER \"bầm dập\" với Long Vương Dương Lâm, Võ Tấn Phát gặp cú sốc tâm lý\n\nTRỌN BỘ TỔ ĐỘI \"1 KHÔNG 2\" 👉    • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  \n\n#todoi102 #todoi1khong2 #DongTayPromotion \n#LêDươngBảoLâm #ThúyNgân #SongLuân #VõTấnPhát \n#UyểnÂn #KiềuMinhTuấn #RHYDER #JSOL\n\nTổ Đội \"1 Không 2\" là chương trình truyền hình thực tế lần đầu tiên mang đến concept “Zone Rules” với những luật lệ có Một – Không – Hai, áp dụng xuyên suốt cả chặng trải nghiệm và được thay đổi đa dạng sẽ khiến dàn cast đứng ngồi không yên. Tổ Đội \"1 Không 2\" còn là nơi ghi dấu những màn kết hợp lần đầu tiên nhưng không kém phần bùng nổ chemistry. Chương trình hứa hẹn mang lại những màn tương tác đáng yêu, hài hước chấn động cõi mạng.\n\n⏰Đón xem TỔ ĐỘI \"1 KHÔNG 2\" vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  ‪@dongtaypromotionofficial‬ \n\n© Chương trình Tổ Đội \"1 Không 2\" thuộc bản quyền của Dong Tay Promotion thuộc DatVietVAC, được khai thác và bảo vệ bản quyền bởi VieNETWORK.\n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nTổ Đội \"1 Không 2\":     • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  \nOur Song Việt Nam:     • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  \n2 Ngày 1 Đêm Việt Nam:    • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  \n7 Nụ Cười Xuân:    • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  \n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage:   / dongtaypromotion  \n► Instagram:   / dongtaypromotion.official  \n► TikTok:   / dongtaypromotionofficial  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+          "text": "   • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/todoi102",
+          "text": "#todoi102"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/todoi1khong2",
+          "text": "#todoi1khong2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dongtaypromotion",
+          "text": "#DongTayPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%AAd%C6%B0%C6%A1ngb%E1%BA%A3ol%C3%A2m",
+          "text": "#LêDươngBảoLâm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/th%C3%BAyng%C3%A2n",
+          "text": "#ThúyNgân"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/songlu%C3%A2n",
+          "text": "#SongLuân"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/v%C3%B5t%E1%BA%A5nph%C3%A1t",
+          "text": "#VõTấnPhát"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/uy%E1%BB%83n%C3%A2n",
+          "text": "#UyểnÂn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ki%E1%BB%81uminhtu%E1%BA%A5n",
+          "text": "#KiềuMinhTuấn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/rhyder",
+          "text": "#RHYDER"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/jsol",
+          "text": "#JSOL"
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "‪@dongtaypromotionofficial‬"
+        },
+        {
+          "url": "https://bit.ly/SubDTP",
+          "text": "https://bit.ly/SubDTP"
+        },
+        {
+          "url": "https://bit.ly/SubDTE",
+          "text": "https://bit.ly/SubDTE"
+        },
+        {
+          "url": "https://bit.ly/HAUTRUONGDTP",
+          "text": "https://bit.ly/HAUTRUONGDTP"
+        },
+        {
+          "url": "https://bit.ly/showhotDTP",
+          "text": "https://bit.ly/showhotDTP"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+          "text": "   • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+          "text": "   • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc",
+          "text": "   • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig",
+          "text": "   • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  "
+        },
+        {
+          "url": "https://www.facebook.com/DongTayPromotion",
+          "text": "  / dongtaypromotion  "
+        },
+        {
+          "url": "https://www.instagram.com/dongtaypromotion.official/",
+          "text": "  / dongtaypromotion.official  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dongtaypromotionofficial",
+          "text": "  / dongtaypromotionofficial  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 12,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tổ Đội \"1 Không 2\" - Recap: Quang Hùng MasterD nhảy số cực nhanh, Song Luân - Uyển Ân \"lên thuyền\"",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "d721NlVjqqM",
+      "url": "https://www.youtube.com/watch?v=d721NlVjqqM&list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3&index=1",
+      "thumbnailUrl": "https://i.ytimg.com/vi/d721NlVjqqM/maxresdefault.jpg",
+      "viewCount": 1603937,
+      "date": "2025-05-11T13:40:06.000Z",
+      "likes": 20000,
+      "location": null,
+      "channelName": "ĐÔNG TÂY PROMOTION OFFICIAL",
+      "channelUrl": "https://www.youtube.com/@dongtaypromotionofficial",
+      "channelUsername": "dongtaypromotionofficial",
+      "collaborators": null,
+      "channelId": "UCFMEYTv6N64hIL9FlQ_hxBw",
+      "numberOfSubscribers": 9830000,
+      "duration": "01:23:19",
+      "commentsCount": 2114,
+      "text": "Tổ Đội \"1 Không 2\" - Recap: Quang Hùng MasterD nhảy số cực nhanh, Song Luân - Uyển Ân \"lên thuyền\"\n\nTRỌN BỘ TỔ ĐỘI \"1 KHÔNG 2\" 👉 https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3\n\n#todoi102 #todoi1khong2 #DongTayPromotion #DatVietVAC\n#LêDươngBảoLâm #QuangHùngMasterD #UyểnÂn\n#SongLuân #VõTấnPhát #ThúyNgân #KhảNhư #AnhTú\n\nTổ Đội \"1 Không 2\" là chương trình truyền hình thực tế lần đầu tiên mang đến concept “Zone Rules” với những luật lệ có Một – Không – Hai, áp dụng xuyên suốt cả chặng trải nghiệm và được thay đổi đa dạng sẽ khiến dàn cast đứng ngồi không yên. Tổ Đội \"1 Không 2\" còn là nơi ghi dấu những màn kết hợp lần đầu tiên nhưng không kém phần bùng nổ chemistry. Chương trình hứa hẹn mang lại những màn tương tác đáng yêu, hài hước chấn động cõi mạng.\n\n⏰Đón xem TỔ ĐỘI \"1 KHÔNG 2\" vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh @dongtaypromotionofficial \n\n© Chương trình Tổ Đội \"1 Không 2\" thuộc bản quyền của Dong Tay Promotion thuộc DatVietVAC, được khai thác và bảo vệ bản quyền bởi VieNETWORK.\n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nTổ Đội \"1 Không 2\":  https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3\nOur Song Việt Nam:  https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP\n2 Ngày 1 Đêm Việt Nam: https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc\n7 Nụ Cười Xuân: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig\n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage: https://www.facebook.com/DongTayPromotion\n► Instagram: https://www.instagram.com/dongtaypromotion.official/\n► TikTok: https://www.tiktok.com/@dongtaypromotionofficial\n\n🛒Tham khảo các sản phẩm công nghệ, thời trang và tiêu dùng 👇:\nTheBlueTshirt - Quần jeans lưng cao ống suông: https://shopee.vn/product/70804043/19259800249\nGiày Thể Thao Nam Biti’s Hunter X LiteDash - Festive Edition 2K24: https://shopee.vn/product/25211549/26013834351\nÁo Thun Levents Ribbon Rabit Tee 100% Cotton Unisex T-shirt OversizedÁo Thun Levents Ribbon Rabit Tee 100% Cotton Unisex T-shirt Oversized: https://shopee.vn/product/317477677/24266979556\nTEE DINO trắng, đen - ÁO THUN khủng long CHUỘT TRẮNG: https://shopee.vn/product/26085448/22677844704\nApple Watch SE GPS 40mm - Sport Band (2024): https://shopee.vn/product/288286284/28963411691\nTương Ớt CHIN-SU 5KG: https://bit.ly/4lNuSlw\nCombo 4 CHIN-SU Tương ớt Sriracha Chai 250g: https://bit.ly/3RzBruc\nSữa Tươi NutiMilk Hộp 180ml Thùng 24 Hộp: https://bit.ly/4cuDVDL",
+      "translatedText": "Tổ Đội \"1 Không 2\" - Recap: Quang Hùng MasterD nhảy số cực nhanh, Song Luân - Uyển Ân \"lên thuyền\"\n\nTRỌN BỘ TỔ ĐỘI \"1 KHÔNG 2\" 👉    • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  \n\n#todoi102 #todoi1khong2 #DongTayPromotion #DatVietVAC\n#LêDươngBảoLâm #QuangHùngMasterD #UyểnÂn\n#SongLuân #VõTấnPhát #ThúyNgân #KhảNhư #AnhTú\n\nTổ Đội \"1 Không 2\" là chương trình truyền hình thực tế lần đầu tiên mang đến concept “Zone Rules” với những luật lệ có Một – Không – Hai, áp dụng xuyên suốt cả chặng trải nghiệm và được thay đổi đa dạng sẽ khiến dàn cast đứng ngồi không yên. Tổ Đội \"1 Không 2\" còn là nơi ghi dấu những màn kết hợp lần đầu tiên nhưng không kém phần bùng nổ chemistry. Chương trình hứa hẹn mang lại những màn tương tác đáng yêu, hài hước chấn động cõi mạng.\n\n⏰Đón xem TỔ ĐỘI \"1 KHÔNG 2\" vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh ‪@dongtaypromotionofficial‬ \n\n© Chương trình Tổ Đội \"1 Không 2\" thuộc bản quyền của Dong Tay Promotion thuộc DatVietVAC, được khai thác và bảo vệ bản quyền bởi VieNETWORK.\n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nTổ Đội \"1 Không 2\":     • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  \nOur Song Việt Nam:     • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  \n2 Ngày 1 Đêm Việt Nam:    • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  \n7 Nụ Cười Xuân:    • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  \n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage:   / dongtaypromotion  \n► Instagram:   / dongtaypromotion.official  \n► TikTok:   / dongtaypromotionofficial  \n\n🛒Tham khảo các sản phẩm công nghệ, thời trang và tiêu dùng 👇:\nTheBlueTshirt - Quần jeans lưng cao ống suông: https://shopee.vn/product/70804043/19...\nGiày Thể Thao Nam Biti’s Hunter X LiteDash - Festive Edition 2K24: https://shopee.vn/product/25211549/26...\nÁo Thun Levents Ribbon Rabit Tee 100% Cotton Unisex T-shirt OversizedÁo Thun Levents Ribbon Rabit Tee 100% Cotton Unisex T-shirt Oversized: https://shopee.vn/product/317477677/2...\nTEE DINO trắng, đen - ÁO THUN khủng long CHUỘT TRẮNG: https://shopee.vn/product/26085448/22...\nApple Watch SE GPS 40mm - Sport Band (2024): https://shopee.vn/product/288286284/2...\nTương Ớt CHIN-SU 5KG: https://bit.ly/4lNuSlw\nCombo 4 CHIN-SU Tương ớt Sriracha Chai 250g: https://bit.ly/3RzBruc\nSữa Tươi NutiMilk Hộp 180ml Thùng 24 Hộp: https://bit.ly/4cuDVDL",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+          "text": "   • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/todoi102",
+          "text": "#todoi102"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/todoi1khong2",
+          "text": "#todoi1khong2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dongtaypromotion",
+          "text": "#DongTayPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/datvietvac",
+          "text": "#DatVietVAC"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%AAd%C6%B0%C6%A1ngb%E1%BA%A3ol%C3%A2m",
+          "text": "#LêDươngBảoLâm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quangh%C3%B9ngmasterd",
+          "text": "#QuangHùngMasterD"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/uy%E1%BB%83n%C3%A2n",
+          "text": "#UyểnÂn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/songlu%C3%A2n",
+          "text": "#SongLuân"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/v%C3%B5t%E1%BA%A5nph%C3%A1t",
+          "text": "#VõTấnPhát"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/th%C3%BAyng%C3%A2n",
+          "text": "#ThúyNgân"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/kh%E1%BA%A3nh%C6%B0",
+          "text": "#KhảNhư"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anht%C3%BA",
+          "text": "#AnhTú"
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "‪@dongtaypromotionofficial‬"
+        },
+        {
+          "url": "https://bit.ly/SubDTP",
+          "text": "https://bit.ly/SubDTP"
+        },
+        {
+          "url": "https://bit.ly/SubDTE",
+          "text": "https://bit.ly/SubDTE"
+        },
+        {
+          "url": "https://bit.ly/HAUTRUONGDTP",
+          "text": "https://bit.ly/HAUTRUONGDTP"
+        },
+        {
+          "url": "https://bit.ly/showhotDTP",
+          "text": "https://bit.ly/showhotDTP"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+          "text": "   • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+          "text": "   • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc",
+          "text": "   • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig",
+          "text": "   • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  "
+        },
+        {
+          "url": "https://www.facebook.com/DongTayPromotion",
+          "text": "  / dongtaypromotion  "
+        },
+        {
+          "url": "https://www.instagram.com/dongtaypromotion.official/",
+          "text": "  / dongtaypromotion.official  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dongtaypromotionofficial",
+          "text": "  / dongtaypromotionofficial  "
+        },
+        {
+          "url": "https://shopee.vn/product/70804043/19259800249",
+          "text": "https://shopee.vn/product/70804043/19..."
+        },
+        {
+          "url": "https://shopee.vn/product/25211549/26013834351",
+          "text": "https://shopee.vn/product/25211549/26..."
+        },
+        {
+          "url": "https://shopee.vn/product/317477677/24266979556",
+          "text": "https://shopee.vn/product/317477677/2..."
+        },
+        {
+          "url": "https://shopee.vn/product/26085448/22677844704",
+          "text": "https://shopee.vn/product/26085448/22..."
+        },
+        {
+          "url": "https://shopee.vn/product/288286284/28963411691",
+          "text": "https://shopee.vn/product/288286284/2..."
+        },
+        {
+          "url": "https://bit.ly/4lNuSlw",
+          "text": "https://bit.ly/4lNuSlw"
+        },
+        {
+          "url": "https://bit.ly/3RzBruc",
+          "text": "https://bit.ly/3RzBruc"
+        },
+        {
+          "url": "https://bit.ly/4cuDVDL",
+          "text": "https://bit.ly/4cuDVDL"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 0,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+      "isMonetized": null,
+      "hashtags": [
+        "#LêDươngBảoLâm",
+        "#ThúyNgân",
+        "#todoi1khong2"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+      "isPaidContent": false
+    },
+    {
+      "title": "Say Hi Rực Rỡ - Tập 3: Hội anh trai trốn khỏi rừng, hé lộ cuốn nhật kí \"cảm lạnh\" 80 trang",
+      "translatedTitle": "Say Hi Ruc Ro - Episode 3: The brotherhood escapes the forest, revealing an 80-page \"cringe-worth...",
+      "type": "video",
+      "id": "2V20IKyMqnM",
+      "url": "https://www.youtube.com/watch?v=2V20IKyMqnM&list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3&index=2",
+      "thumbnailUrl": "https://i.ytimg.com/vi/2V20IKyMqnM/maxresdefault.jpg",
+      "viewCount": 2379100,
+      "date": "2026-06-21T13:00:07.000Z",
+      "likes": 17000,
+      "location": null,
+      "channelName": "ĐÔNG TÂY PROMOTION OFFICIAL",
+      "channelUrl": "https://www.youtube.com/@dongtaypromotionofficial",
+      "channelUsername": "dongtaypromotionofficial",
+      "collaborators": [
+        {
+          "name": "ĐÔNG TÂY PROMOTION OFFICIAL",
+          "username": "dongtaypromotionofficial",
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "channelId": "UCFMEYTv6N64hIL9FlQ_hxBw"
+        },
+        {
+          "name": "JSOL",
+          "username": "JSOL.DreamS",
+          "url": "https://www.youtube.com/@JSOL.DreamS",
+          "channelId": "UCtX0nlcMMHiNS0djekXscIw"
+        },
+        {
+          "name": "RHYDER OFFICIAL",
+          "username": "RHYDERofficialchannel",
+          "url": "https://www.youtube.com/@RHYDERofficialchannel",
+          "channelId": "UCPjbFSSZXI7ERLRt3O0CGBQ"
+        },
+        {
+          "name": "ĐỨC PHÚC OFFICIAL",
+          "username": "DucPhucOfficial",
+          "url": "https://www.youtube.com/@DucPhucOfficial",
+          "channelId": "UCVIIa6OL-FautUqhHjAoz_A"
+        }
+      ],
+      "channelId": "UCFMEYTv6N64hIL9FlQ_hxBw",
+      "numberOfSubscribers": 9830000,
+      "duration": "01:46:29",
+      "commentsCount": 1323,
+      "text": "Say Hi Rực Rỡ - Tập 3: Hội anh trai trốn khỏi rừng, hé lộ cuốn nhật kí \"cảm lạnh\" 80 trang\n#SayHiRucRo #DatVietVAC \n-------            \n📺 Xem trọn vẹn SAY HI RỰC RỠ TẠI: https://www.youtube.com/watch?v=pJWXb8ofStw&list=PLy_TpcUT2LZtXLChiL_bOHqWmKB0rWuuO            \n🎬 Chương trình sinh tồn thực tế đầu tiên của các idol Việt Nam             \n👥 Dàn cast: Isaac, WEAN, HURRYKNG, RHYDER, Dương Domic, Hùng Huỳnh, Đức Phúc, NICKY, JSOL, Pháp Kiều, Dương Lâm             \n© Nội dung được khai thác và bảo vệ bản quyền bởi VieNETWORK             \n🔥 Partner:             \nMì SiuKay đồng hành cùng chương trình Say Hi Rực Rỡ 2026, sẵn sàng khuấy đảo vị giác!\n7 cấp độ cay thách thức bản lĩnh, nhiều phiên bản - hương vị khác biệt, cùng Mì SiuKay chinh phục thử thách, bật tinh thần \"Cay tột đỉnh - Bùng bản lĩnh\"!! \nXem thêm tại: https://www.facebook.com/mianlienacecook\"             \nCảm ơn Ngân hàng Đồng hành chính thức VietinBank - Nâng giá trị cuộc sống\n#VietinBank #VWealth_DauTuTuDong #TheVietinBankJCB #BaohiemVietinBank\nTìm hiểu thêm: https://www.facebook.com/share/p/18f3qHxMsM/             \nFleur de Lys Hotels & Resorts - Cho Kỳ Nghỉ Rạng Ngời \n#FleurdeLysHotelsandResorts #FleurdeLysHotelQuyNhon #FleurdeLysLongHai #LuxuryHotel #ChoKyNghiRangNgoi\n🌐 Website: https://fleurdelys.vn            \n             \n#DuongLam #DucPhuc #Isaac #NICKY #JSOL #HURRYKNG #RHYDER #WEAN #DuongDomic #HungHuynh #PhapKieu #NamDuLichQuocGia2026 #VietinBank #MìSiuKay             \n             \n📣 Subscribe ĐÔNG TÂY PROMOTION OFFICIAL- Các chương trình SIÊU HẤP DẪN: https://www.youtube.com/c/dongtaypromotionofficial?sub_confirmation=1 \n📣 Subscribe DONG TAY ENTERTAINMENT- VIDEO HOT từ các Show Giải Trí: https://www.youtube.com/DONGTAYENTERTAINMENTofficial?sub_confirmation=1 \n📣 Subscribe 2 NGÀY 1 ĐÊM VIETNAM-  Reality Show Được Yêu Thích : https://www.youtube.com/2NGAY1DEM?sub_confirmation=1 \n📣 Subscribe ĐẤU TRƯỜNG GIA TỐC- Reality Show Đối Kháng & Chiến Thuật: https://www.youtube.com/@dautruonggiatoc?sub_confirmation=1\n📣 Subscribe VIEBUZZ - Nội Dung Đang Thịnh Hành: https://www.youtube.com/@viebuzz1174?sub_confirmation=1\n📣 Subscribe DONG TAY SHOWS - Âm Nhạc Giải Trí: https://www.youtube.com/DongTayShows?sub_confirmation=1             \n👉 CÁC SHOW MỚI  2026 : \nAnh Trai Và Cái Đuôi Nhỏ:  https://www.youtube.com/watch?v=KRef2BML-wc&list=PLy_TpcUT2LZvcJAmF_eYxx195KpRGmzrB \n2 Ngày 1 Đêm Việt Nam: https://www.youtube.com/playlist?list=PLy_TpcUT2LZtXvH1z8NTxInXdl09ODACC \nĐấu Trường Gia Tốc: https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ \nTổ Đội \"\"1 Không 2\"\":  ️⛳TỔ ĐỘI \"\"1 KHÔNG 2\"\" FULL | Những thử thách “CỰC HẠN - KHÔNG TƯỞNG - CÓ 102\"\" \n7 Nụ Cười Xuân: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig            \n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại: \n► YouTube: https://www.youtube.com/@dongtaypromotionofficial\n► Fanpage: https://www.facebook.com/DongTayPromotion \n► Instagram: https://www.instagram.com/dongtaypromotion.official/ \n► TikTok: https://www.tiktok.com/@dongtaypromotionofficial             \n\n🛒Tham khảo các sản phẩm công nghệ, thời trang và tiêu dùng:\nMì SiuKay mì cay 7 cấp độ Siêu Cay: https://shopee.vn/product/989881080/25820464563\nCOMBO Mỳ SiuKay 7 cấp độ vị bò và hải sản: https://shopee.vn/product/1618174041/55559913629\n🍜 [THÙNG 24 GÓI] Mì SiuKay vị Bò Acecook - Mì Cay 7 Cấp Độ ( Date mới ): https://shopee.vn/product/1500107620/48910974250\nThùng 24 gói Mì Siukay hải sản/ vị bò/ gà cay phomai: https://shopee.vn/product/1118874397/47660194642\nCombo 6 gói mì SiuKay Vị Bò/Hải Sản/Gà phô mai 128gr/gói: https://shopee.vn/product/78955766/42950399684\n[COMBO 10 GÓI/ 1 THÙNG] Mỳ Siu Kay Acecook Vị Bò/ Hải Sản/Gà sốt phomai: https://shopee.vn/product/13340891/43013549408\nThùng 12 Tô Mì Hải Sản SiuKay Tia Chớp 96g: https://shopee.vn/product/1375408429/27768710381\nThùng 12 tô mì Siukay mix vị 95g: https://shopee.vn/product/1086006715/48661370292\nKẹo Nhai 3 Viên Có Nhân Dynamite Chews Candy (Gói 125g): https://shopee.vn/product/95140732/11306217297\nKẹo Dynamite Soda gói 96g: https://shopee.vn/product/95140732/43768122575\nMẫu Mới - Kẹo Mềm Bạc Hà MAXX DYNAMITE 112.5Gram: https://shopee.vn/product/735555966/56008997186\nJacknjill Dynamite Gummy Play Kẹo Dẻo Sáng Tạo Gói 40g - Vị Trái Cây & Hạt Mâm Xôi: https://shopee.vn/product/1561861818/48500132695\nKẹo The Nhân KG Hương Bạc Hà Nhân Sôcôla Dynamite BigBang(Gói 1kg): https://shopee.vn/product/1152931648/24969741932\nDành Cho DJI OSMO POCKET 3 / Pocket 4: https://shopee.vn/product/893104401/25256751666\nUlanzi MT90 CKA Quick Release Tripod Selfie Stick: https://shopee.vn/product/1057822455/48461372997\nTAY CẦM MINI GOPRO VÀ ACTION CAM TELESIN CHÍNH HÃNG: https://shopee.vn/product/57280012/10468719365\nCamera hành động DJI Osmo Action 5 Pro:\nhttps://shopee.vn/product/1486443761/26830494813\nMáy ảnh lấy liền FUJIFILM Instax Mini Evo Hybrid: https://shopee.vn/product/233153238/14742565861",
+      "translatedText": "Say Hi Rực Rỡ - Episode 3: The Brothers Escape from the Forest, Revealing an 80-Page \"Cold\" Diary\n#SayHiRucRo #DatVietVAC\n------- 📺 Watch the full SAY HI RỰC RỠ at:    • Say Hi Rực Rỡ - Tập 2: \"Dành Dành\" Đức Phú...   \n🎬 The first reality survival show of Vietnamese idols \n👥 Cast: Isaac, WEAN, HURRYKNG, RHYDER, Dương Domic, Hùng Huỳnh, Đức Phúc, NICKY, JSOL, Pháp Kiều, Dương Lâm \n© Content is exploited and protected by copyright by VieNETWORK \n🔥 Partner: \nSiuKay Noodles is accompanying the Say Hi Rực Rỡ 2026 program, ready to stir up your taste buds! 7 levels of spiciness to challenge your limits, multiple variations - different flavors, conquer the challenge with SiuKay Noodles, unleash your \"Ultimate Spicy - Unleash Your Courage\" spirit!! See more at:   / mianlienacecook  \nThank you to our official partner, VietinBank - Enhancing the value of life\n#VietinBank #VWealth_AutomaticInvestment #TheVietinBankJCB #VietinBankInsurance\nLearn more:   / 18f3qhxmsm   Fleur de Lys Hotels & Resorts - For a Radiant Vacation \n#FleurdeLysHotelsandResorts #FleurdeLysHotelQuyNhon #FleurdeLysLongHai #LuxuryHotel #ForARadiantVacation\n🌐 Website: https://fleurdelys.vn \n#DuongLam #DucPhuc #Isaac #NICKY #JSOL #HURRYKNG #RHYDER #WEAN #DuongDomic #HungHuynh #PhapKieu #NationalTourismYear2026 #VietinBank #SiuKayNoodles\n\n📣 Subscribe to DONG TAY PROMOTION OFFICIAL - Super Exciting Programs: https://www.youtube.com/c/dongtayprom...\n📣 Subscribe to DONG TAY ENTERTAINMENT - Hot Videos from Entertainment Shows: https://www.youtube.com/DONGTAYENTERT...\n📣 Subscribe to 2 DAYS 1 NIGHT VIETNAM - Popular Reality Show: https://www.youtube.com/2NGAY1DEM?sub...\n📣 Subscribe to ACCELERATION ARENA - Reality Show of Combat & Strategy: https://www.youtube.com/@dautruonggia...\n📣 Subscribe to VIEBUZZ - Trending Content Trending: https://www.youtube.com/@viebuzz1174?...\n📣 Subscribe to DONG TAY SHOWS - Music & Entertainment: https://www.youtube.com/DongTayShows?... 👉 NEW SHOWS 2026: \nBrother and the Little Tail:    • Anh Trai Và Cái Đuôi Nhỏ  - Tập 1: ISAAC, ...   2 Days 1 Night Vietnam:    • 💥2 NGÀY 1 ĐÊM MÙA 4 | Kết nối vô biên, càn...   \nAcceleration Arena:    • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...   ► Team \"1 No 2\": ️⛳ TEAM \"1 NO 2\" FULL | The \"EXTREME - UNBELIEVABLE - ONE OF A KIND\" Challenges 7 Nụ Cười Xuân:    • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...   \n👉 Follow the official channels of Dong Tay Promotion - owned by DatVietVAC at: ► YouTube:    / @dongtaypromotionofficial  \n► Fanpage:   / dongtaypromotion   ► Instagram:   / dongtaypromotion.official   ► TikTok:   / dongtaypromotionofficial   \n🛒 Check out technology, fashion and consumer products Uses:\nSiuKay Spicy Noodles 7 Levels of Spice: https://shopee.vn/product/989881080/2...\nCombo SiuKay Noodles 7 Levels of Spice (Beef and Seafood Flavor): https://shopee.vn/product/1618174041/...\n🍜 [BOX OF 24 PACKS] Acecook SiuKay Beef Flavor Noodles - 7 Levels of Spice (New Expiry Date): https://shopee.vn/product/1500107620/...\nBox of 24 packs SiuKay Seafood/Beef/Chicken Spicy Cheese Noodles: https://shopee.vn/product/1118874397/...\nCombo of 6 packs of SiuKay Noodles (Beef/Seafood Flavor) Seafood/Chicken Cheese Flavor 128g/pack: https://shopee.vn/product/78955766/42...\n[COMBO 10 PACKS/ 1 BOX] Acecook Siu Kay Instant Noodles Beef/Seafood/Chicken with Cheese Sauce: https://shopee.vn/product/13340891/43...\nBox of 12 Siu Kay Lightning Seafood Instant Noodles 96g: https://shopee.vn/product/1375408429/...\nBox of 12 Siu Kay Mixed Flavor Instant Noodles 95g: https://shopee.vn/product/1086006715/...\nDynamite Chews Candy (3 pieces with filling) (125g pack): https://shopee.vn/product/95140732/11...\nDynamite Soda Candy 96g pack: https://shopee.vn/product/95140732/43...\nNew Model - MAXX DYNAMITE Mint Soft Candy 112.5 Gram: https://shopee.vn/product/735555966/5...\nJacknjill Dynamite Gummy Play Creative Gummy Candy 40g pack - Fruit & Raspberry Flavor: https://shopee.vn/product/1561861818/...\nDynamite BigBang Mint Chocolate Filled Candy (1kg pack): https://shopee.vn/product/1152931648/...\nFor DJI OSMO POCKET 3 / Pocket 4: https://shopee.vn/product/893104401/2...\nUlanzi MT90 CKA Quick Release Tripod Selfie Stick: https://shopee.vn/product/1057822455/...\nGenuine Mini GoPro and Action Cam Telesin Handle: https://shopee.vn/product/57280012/10...\nDJI Osmo Action 5 Pro Action Camera:\n\nhttps://shopee.vn/product/1486443761/...\nFUJIFILM Instax Mini Evo Hybrid Instant Camera: https://shopee.vn/product/233153238/1...",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/sayhirucro",
+          "text": "#SayHiRucRo"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/datvietvac",
+          "text": "#DatVietVAC"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=pJWXb8ofStw&list=PLy_TpcUT2LZtXLChiL_bOHqWmKB0rWuuO&index=1&pp=0gcJCR0AztywvtLA",
+          "text": "   • Say Hi Rực Rỡ - Tập 2: \"Dành Dành\" Đức Phú...  "
+        },
+        {
+          "url": "https://www.facebook.com/mianlienacecook",
+          "text": "  / mianlienacecook  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vietinbank",
+          "text": "#VietinBank"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vwealth_automaticinvestment",
+          "text": "#VWealth_AutomaticInvestment"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thevietinbankjcb",
+          "text": "#TheVietinBankJCB"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vietinbankinsurance",
+          "text": "#VietinBankInsurance"
+        },
+        {
+          "url": "https://www.facebook.com/share/p/18f3qHxMsM/",
+          "text": "  / 18f3qhxmsm  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/fleurdelyshotelsandresorts",
+          "text": "#FleurdeLysHotelsandResorts"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/fleurdelyshotelquynhon",
+          "text": "#FleurdeLysHotelQuyNhon"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/fleurdelyslonghai",
+          "text": "#FleurdeLysLongHai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/luxuryhotel",
+          "text": "#LuxuryHotel"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/foraradiantvacation",
+          "text": "#ForARadiantVacation"
+        },
+        {
+          "url": "https://fleurdelys.vn/",
+          "text": "https://fleurdelys.vn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/duonglam",
+          "text": "#DuongLam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ducphuc",
+          "text": "#DucPhuc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/isaac",
+          "text": "#Isaac"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/nicky",
+          "text": "#NICKY"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/jsol",
+          "text": "#JSOL"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hurrykng",
+          "text": "#HURRYKNG"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/rhyder",
+          "text": "#RHYDER"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/wean",
+          "text": "#WEAN"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/duongdomic",
+          "text": "#DuongDomic"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hunghuynh",
+          "text": "#HungHuynh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phapkieu",
+          "text": "#PhapKieu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/nationaltourismyear2026",
+          "text": "#NationalTourismYear2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vietinbank",
+          "text": "#VietinBank"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/siukaynoodles",
+          "text": "#SiuKayNoodles"
+        },
+        {
+          "url": "https://www.youtube.com/c/dongtaypromotionofficial?sub_confirmation=1",
+          "text": "https://www.youtube.com/c/dongtayprom..."
+        },
+        {
+          "url": "https://www.youtube.com/DONGTAYENTERTAINMENTofficial?sub_confirmation=1",
+          "text": "https://www.youtube.com/DONGTAYENTERT..."
+        },
+        {
+          "url": "https://www.youtube.com/2NGAY1DEM?sub_confirmation=1",
+          "text": "https://www.youtube.com/2NGAY1DEM?sub..."
+        },
+        {
+          "url": "https://www.youtube.com/@dautruonggiatoc?sub_confirmation=1",
+          "text": "https://www.youtube.com/@dautruonggia..."
+        },
+        {
+          "url": "https://www.youtube.com/@viebuzz1174?sub_confirmation=1",
+          "text": "https://www.youtube.com/@viebuzz1174?..."
+        },
+        {
+          "url": "https://www.youtube.com/DongTayShows?sub_confirmation=1",
+          "text": "https://www.youtube.com/DongTayShows?..."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=KRef2BML-wc&list=PLy_TpcUT2LZvcJAmF_eYxx195KpRGmzrB&index=1",
+          "text": "   • Anh Trai Và Cái Đuôi Nhỏ  - Tập 1: ISAAC, ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtXvH1z8NTxInXdl09ODACC",
+          "text": "   • 💥2 NGÀY 1 ĐÊM MÙA 4 | Kết nối vô biên, càn...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+          "text": "   • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig",
+          "text": "   • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  "
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "   / @dongtaypromotionofficial  "
+        },
+        {
+          "url": "https://www.facebook.com/DongTayPromotion",
+          "text": "  / dongtaypromotion  "
+        },
+        {
+          "url": "https://www.instagram.com/dongtaypromotion.official/",
+          "text": "  / dongtaypromotion.official  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dongtaypromotionofficial",
+          "text": "  / dongtaypromotionofficial  "
+        },
+        {
+          "url": "https://shopee.vn/product/989881080/25820464563",
+          "text": "https://shopee.vn/product/989881080/2..."
+        },
+        {
+          "url": "https://shopee.vn/product/1618174041/55559913629",
+          "text": "https://shopee.vn/product/1618174041/..."
+        },
+        {
+          "url": "https://shopee.vn/product/1500107620/48910974250",
+          "text": "https://shopee.vn/product/1500107620/..."
+        },
+        {
+          "url": "https://shopee.vn/product/1118874397/47660194642",
+          "text": "https://shopee.vn/product/1118874397/..."
+        },
+        {
+          "url": "https://shopee.vn/product/78955766/42950399684",
+          "text": "https://shopee.vn/product/78955766/42..."
+        },
+        {
+          "url": "https://shopee.vn/product/13340891/43013549408",
+          "text": "https://shopee.vn/product/13340891/43..."
+        },
+        {
+          "url": "https://shopee.vn/product/1375408429/27768710381",
+          "text": "https://shopee.vn/product/1375408429/..."
+        },
+        {
+          "url": "https://shopee.vn/product/1086006715/48661370292",
+          "text": "https://shopee.vn/product/1086006715/..."
+        },
+        {
+          "url": "https://shopee.vn/product/95140732/11306217297",
+          "text": "https://shopee.vn/product/95140732/11..."
+        },
+        {
+          "url": "https://shopee.vn/product/95140732/43768122575",
+          "text": "https://shopee.vn/product/95140732/43..."
+        },
+        {
+          "url": "https://shopee.vn/product/735555966/56008997186",
+          "text": "https://shopee.vn/product/735555966/5..."
+        },
+        {
+          "url": "https://shopee.vn/product/1561861818/48500132695",
+          "text": "https://shopee.vn/product/1561861818/..."
+        },
+        {
+          "url": "https://shopee.vn/product/1152931648/24969741932",
+          "text": "https://shopee.vn/product/1152931648/..."
+        },
+        {
+          "url": "https://shopee.vn/product/893104401/25256751666",
+          "text": "https://shopee.vn/product/893104401/2..."
+        },
+        {
+          "url": "https://shopee.vn/product/1057822455/48461372997",
+          "text": "https://shopee.vn/product/1057822455/..."
+        },
+        {
+          "url": "https://shopee.vn/product/57280012/10468719365",
+          "text": "https://shopee.vn/product/57280012/10..."
+        },
+        {
+          "url": "https://shopee.vn/product/1486443761/26830494813",
+          "text": "https://shopee.vn/product/1486443761/..."
+        },
+        {
+          "url": "https://shopee.vn/product/233153238/14742565861",
+          "text": "https://shopee.vn/product/233153238/1..."
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 1,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+      "isMonetized": null,
+      "hashtags": [
+        "#SayHiRucRo",
+        "#DucPhuc",
+        "#WEAN"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+      "isPaidContent": false
+    }
+  ]
+}

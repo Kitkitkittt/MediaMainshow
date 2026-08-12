@@ -1,0 +1,1332 @@
+{
+  "actor_name": "streamers/youtube-scraper",
+  "actor_run_id": "oeaayBTCJ202XGFBv",
+  "dataset_id": "wUcMKq4Xbdud5r7zR",
+  "actor_build_id": "SUk0475fgtCh9zqMt",
+  "retrieved_at": "2026-08-12T14:25:47.403885+07:00",
+  "actor_input": {
+    "maxResults": 36,
+    "maxResultsShorts": 0,
+    "maxResultStreams": 0,
+    "startUrls": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57"
+      }
+    ],
+    "sourceBindingUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57"
+  },
+  "run_metadata": {
+    "status": "SUCCEEDED",
+    "startedAt": "2026-08-12T07:25:10.029Z",
+    "finishedAt": "2026-08-12T07:25:40.747Z",
+    "usageTotalUsd": 0.06,
+    "chargedEventCounts": {
+      "result": 16,
+      "date-filter": 0,
+      "ai-video-description": 0,
+      "ai-video-summary": 0
+    }
+  },
+  "items": [
+    {
+      "title": "SAO NHẬP NGŨ 2024 TẬP 2 l Thùy Tiên LĂN XẢ cứu nạn l Uyển Ân HOẢNG HỒN l MisThy 'LÒ DÒ' ném thủ pháo",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "U0ammPb3KrE",
+      "url": "https://www.youtube.com/watch?v=U0ammPb3KrE&list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57&index=15",
+      "thumbnailUrl": "https://i.ytimg.com/vi/U0ammPb3KrE/maxresdefault.jpg",
+      "viewCount": 4005187,
+      "date": "2024-08-13T14:30:08.000Z",
+      "likes": 79000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "01:32:22",
+      "commentsCount": 5014,
+      "text": "#saonhapngu #viettelmedia #gothongtrenluadan #phuonganhdao #thuytien #lizkimcuong #junvu #phao #uyenan #mie #misthy\n🔥 Sao Nhập Ngũ 2024 – Gót hồng trên lửa đạn\n8 nữ chiến sĩ, trải nghiệm trong môi trường đặc công với nhiều thử thách \"khó nhằn\", 8 bông hồng mong manh nhưng không dễ vỡ: Diễn viên Phương Anh Đào, Hoa hậu Thùy Tiên, diễn viên Jun Vũ (Vũ Phương Anh), Streamer Misthy (Lê Thy Ngọc), DJ - Diễn viên Mie (Trương Tiểu My), ca sĩ Liz Kim Cương; Diễn viên Uyển Ân, Rapper Pháo (Diệu Huyền)\n🔥 Đón xem \"Sao nhập ngũ\" - Gót hồng trên lửa đạn\nPhát sóng Thứ 3 hàng tuần từ ngày 06.08.2024 👇\n💓 07h55 Thứ 3 trên Kênh QPVN\n💓 21h10 Thứ 3 trên Kênh HTV7\n💓 21h30 Thứ 3 trên YOUTUBE l MOCHA l FPT l TV360\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn chính: Lê Quý Giáp\n• Tổ chức sản xuất:  Hà Vân Anh, Dương Trang, Phạm Chiên\n• Biên tập tiền kỳ: Ngô Trang, Phương Pu, Tuấn Nghĩa, Thảo Nguyên, Thu Nguyên, \n• Biên tập hậu kỳ: Bùi Tiến Dũng, Thảo Nguyên, Thu Nguyên, Ngô Nghĩa, Tuấn Nghĩa, Tú Phương, Mai Hằng, Hà Phương, Lâm Vũ, Vân Anh\n• D.O.P: Đoàn Ngọc Ước, Mai Trùng Khánh\n• Quay phim: Thế Chiến; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Quang Huy; Hồng Phương; Thanh Tĩnh; Văn Sướng; Văn Quân; Văn Công; Hoàng Cường; Quốc Huy; Văn San; Văn Hoan; Văn Hạnh; Thái Ngân. \n• Kỹ thuật & Ánh sáng: Team Đỗ Duy Sỹ và Team Lê Minh \n• Âm thanh: Đoàn Xuân Lộc, Văn Tới, Văn Thành\n• Nhiếp Ảnh: Hùng Quách, Quốc Hùng, Văn Linh\n• Chịu trách nhiệm hậu kỳ: Thanh Tùng, Thanh Liêm\n• Quản lý thiết bị: Minh Tân, Tuấn Anh\n• Hỗ trợ sản xuất: Ngọc Hoàng; Văn Tuyên, Văn Kiên, Huy Hoàng, Việt Anh, Duy\n• Dựng phim: Phùng Thanh Tùng, Nguyễn Văn Hải, Diệp Đình Long\n• Đồ họa: Thế Lượng, Thanh Tùng, Ngọc Thảo, Đình Long\n• Phụ trách Truyền thông: Nguyễn Hằng, Nguyễn Nga\n• Truyền thông social: Trà Trang, Hoài Nguyễn, Tuấn Anh, Hà Phan\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#viettelmedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gothongtrenluadan",
+          "text": "#gothongtrenluadan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phuonganhdao",
+          "text": "#phuonganhdao"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thuytien",
+          "text": "#thuytien"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lizkimcuong",
+          "text": "#lizkimcuong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junvu",
+          "text": "#junvu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phao",
+          "text": "#phao"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/uyenan",
+          "text": "#uyenan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mie",
+          "text": "#mie"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/misthy",
+          "text": "#misthy"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 14,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57",
+      "isPaidContent": false
+    },
+    {
+      "title": "SAO NHẬP NGŨ 2024 TẬP 11 l MisThy & đồng chí Hiếu 'RẮC THÍNH' NGỌT LỊM l Liz Kim Cương TỎA SÁNG",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "BHznJmmRci0",
+      "url": "https://www.youtube.com/watch?v=BHznJmmRci0&list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57&index=6",
+      "thumbnailUrl": "https://i.ytimg.com/vi/BHznJmmRci0/maxresdefault.jpg",
+      "viewCount": 752273,
+      "date": "2024-10-15T14:30:06.000Z",
+      "likes": 5800,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "01:21:22",
+      "commentsCount": 419,
+      "text": "#saonhapngu #viettelmedia #gothongtrenluadan #phuonganhdao #thuytien #lizkimcuong #junvu #phao #uyenan #mie #misthy\n🔥 Sao Nhập Ngũ 2024 – Gót hồng trên lửa đạn\n8 nữ chiến sĩ, trải nghiệm trong môi trường đặc công với nhiều thử thách \"khó nhằn\", 8 bông hồng mong manh nhưng không dễ vỡ: Diễn viên Phương Anh Đào, Hoa hậu Thùy Tiên, diễn viên Jun Vũ (Vũ Phương Anh), Streamer Misthy (Lê Thy Ngọc), DJ - Diễn viên Mie (Trương Tiểu My), ca sĩ Liz Kim Cương; Diễn viên Uyển Ân, Rapper Pháo (Diệu Huyền)\n🔥 Đón xem \"Sao nhập ngũ\" - Gót hồng trên lửa đạn\nPhát sóng Thứ 3 hàng tuần từ ngày 06.08.2024 👇\n💓 07h55 Thứ 3 trên Kênh QPVN\n💓 21h10 Thứ 3 trên Kênh HTV7\n💓 21h30 Thứ 3 trên YOUTUBE l MOCHA l FPT l TV360\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn chính: Lê Quý Giáp\n• Tổ chức sản xuất:  Hà Vân Anh, Dương Trang, Phạm Chiên\n• Biên tập tiền kỳ: Ngô Trang, Phương Pu, Tuấn Nghĩa, Thảo Nguyên, Thu Nguyên, \n• Biên tập hậu kỳ: Bùi Tiến Dũng, Thảo Nguyên, Thu Nguyên, Ngô Nghĩa, Tuấn Nghĩa, Tú Phương, Mai Hằng, Hà Phương, Lâm Vũ, Vân Anh\n• D.O.P: Đoàn Ngọc Ước, Mai Trùng Khánh\n• Quay phim: Thế Chiến; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Quang Huy; Hồng Phương; Thanh Tĩnh; Văn Sướng; Văn Quân; Văn Công; Hoàng Cường; Quốc Huy; Văn San; Văn Hoan; Văn Hạnh; Thái Ngân. \n• Kỹ thuật & Ánh sáng: Team Đỗ Duy Sỹ và Team Lê Minh \n• Âm thanh: Đoàn Xuân Lộc, Văn Tới, Văn Thành\n• Nhiếp Ảnh: Hùng Quách, Quốc Hùng, Văn Linh\n• Chịu trách nhiệm hậu kỳ: Thanh Tùng, Thanh Liêm\n• Quản lý thiết bị: Minh Tân, Tuấn Anh\n• Hỗ trợ sản xuất: Ngọc Hoàng; Văn Tuyên, Văn Kiên, Huy Hoàng, Việt Anh, Duy\n• Dựng phim: Phùng Thanh Tùng, Nguyễn Văn Hải, Diệp Đình Long\n• Đồ họa: Thế Lượng, Thanh Tùng, Ngọc Thảo, Đình Long\n• Phụ trách Truyền thông: Nguyễn Hằng, Nguyễn Nga\n• Truyền thông social: Trà Trang, Hoài Nguyễn, Tuấn Anh, Hà Phan\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#viettelmedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gothongtrenluadan",
+          "text": "#gothongtrenluadan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phuonganhdao",
+          "text": "#phuonganhdao"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thuytien",
+          "text": "#thuytien"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lizkimcuong",
+          "text": "#lizkimcuong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junvu",
+          "text": "#junvu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phao",
+          "text": "#phao"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/uyenan",
+          "text": "#uyenan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mie",
+          "text": "#mie"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/misthy",
+          "text": "#misthy"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 5,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57",
+      "isPaidContent": false
+    },
+    {
+      "title": "SAO NHẬP NGŨ 2024 TẬP 7 l Misthy ĐẦU HÀNG l Thùy Tiên NGẤT XỈU",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "IEp4JfYLejg",
+      "url": "https://www.youtube.com/watch?v=IEp4JfYLejg&list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57&index=10",
+      "thumbnailUrl": "https://i.ytimg.com/vi/IEp4JfYLejg/maxresdefault.jpg",
+      "viewCount": 1173237,
+      "date": "2024-09-17T14:30:27.000Z",
+      "likes": 10000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "01:32:58",
+      "commentsCount": 1565,
+      "text": "#saonhapngu #viettelmedia #gothongtrenluadan #phuonganhdao #thuytien #lizkimcuong #junvu #phao #uyenan #mie #misthy\n🔥 Sao Nhập Ngũ 2024 – Gót hồng trên lửa đạn\n8 nữ chiến sĩ, trải nghiệm trong môi trường đặc công với nhiều thử thách \"khó nhằn\", 8 bông hồng mong manh nhưng không dễ vỡ: Diễn viên Phương Anh Đào, Hoa hậu Thùy Tiên, diễn viên Jun Vũ (Vũ Phương Anh), Streamer Misthy (Lê Thy Ngọc), DJ - Diễn viên Mie (Trương Tiểu My), ca sĩ Liz Kim Cương; Diễn viên Uyển Ân, Rapper Pháo (Diệu Huyền)\n🔥 Đón xem \"Sao nhập ngũ\" - Gót hồng trên lửa đạn\nPhát sóng Thứ 3 hàng tuần từ ngày 06.08.2024 👇\n💓 07h55 Thứ 3 trên Kênh QPVN\n💓 21h10 Thứ 3 trên Kênh HTV7\n💓 21h30 Thứ 3 trên YOUTUBE l MOCHA l FPT l TV360\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn chính: Lê Quý Giáp\n• Tổ chức sản xuất:  Hà Vân Anh, Dương Trang, Phạm Chiên\n• Biên tập tiền kỳ: Ngô Trang, Phương Pu, Tuấn Nghĩa, Thảo Nguyên, Thu Nguyên, \n• Biên tập hậu kỳ: Bùi Tiến Dũng, Thảo Nguyên, Thu Nguyên, Ngô Nghĩa, Tuấn Nghĩa, Tú Phương, Mai Hằng, Hà Phương, Lâm Vũ, Vân Anh\n• D.O.P: Đoàn Ngọc Ước, Mai Trùng Khánh\n• Quay phim: Thế Chiến; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Quang Huy; Hồng Phương; Thanh Tĩnh; Văn Sướng; Văn Quân; Văn Công; Hoàng Cường; Quốc Huy; Văn San; Văn Hoan; Văn Hạnh; Thái Ngân. \n• Kỹ thuật & Ánh sáng: Team Đỗ Duy Sỹ và Team Lê Minh \n• Âm thanh: Đoàn Xuân Lộc, Văn Tới, Văn Thành\n• Nhiếp Ảnh: Hùng Quách, Quốc Hùng, Văn Linh\n• Chịu trách nhiệm hậu kỳ: Thanh Tùng, Thanh Liêm\n• Quản lý thiết bị: Minh Tân, Tuấn Anh\n• Hỗ trợ sản xuất: Ngọc Hoàng; Văn Tuyên, Văn Kiên, Huy Hoàng, Việt Anh, Duy\n• Dựng phim: Phùng Thanh Tùng, Nguyễn Văn Hải, Diệp Đình Long\n• Đồ họa: Thế Lượng, Thanh Tùng, Ngọc Thảo, Đình Long\n• Phụ trách Truyền thông: Nguyễn Hằng, Nguyễn Nga\n• Truyền thông social: Trà Trang, Hoài Nguyễn, Tuấn Anh, Hà Phan\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#viettelmedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gothongtrenluadan",
+          "text": "#gothongtrenluadan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phuonganhdao",
+          "text": "#phuonganhdao"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thuytien",
+          "text": "#thuytien"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lizkimcuong",
+          "text": "#lizkimcuong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junvu",
+          "text": "#junvu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phao",
+          "text": "#phao"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/uyenan",
+          "text": "#uyenan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mie",
+          "text": "#mie"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/misthy",
+          "text": "#misthy"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 9,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57",
+      "isMonetized": null,
+      "hashtags": [
+        "#phao",
+        "#junvu",
+        "#uyenan"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57",
+      "isPaidContent": false
+    },
+    {
+      "title": "SAO NHẬP NGŨ 2024 TẬP 8 l Pháo, Liz Kim Cương KHÓC HẾT NƯỚC MẮT l Uyển Ân liệu có VƯỢT QUA NỖI SỢ?",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "sgOMjTut2N8",
+      "url": "https://www.youtube.com/watch?v=sgOMjTut2N8&list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57&index=9",
+      "thumbnailUrl": "https://i.ytimg.com/vi/sgOMjTut2N8/maxresdefault.jpg",
+      "viewCount": 1071800,
+      "date": "2024-09-24T14:30:07.000Z",
+      "likes": 7600,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "01:25:53",
+      "commentsCount": 840,
+      "text": "#saonhapngu #viettelmedia #gothongtrenluadan #phuonganhdao #thuytien #lizkimcuong #junvu #phao #uyenan #mie #misthy\n🔥 Sao Nhập Ngũ 2024 – Gót hồng trên lửa đạn\n8 nữ chiến sĩ, trải nghiệm trong môi trường đặc công với nhiều thử thách \"khó nhằn\", 8 bông hồng mong manh nhưng không dễ vỡ: Diễn viên Phương Anh Đào, Hoa hậu Thùy Tiên, diễn viên Jun Vũ (Vũ Phương Anh), Streamer Misthy (Lê Thy Ngọc), DJ - Diễn viên Mie (Trương Tiểu My), ca sĩ Liz Kim Cương; Diễn viên Uyển Ân, Rapper Pháo (Diệu Huyền)\n🔥 Đón xem \"Sao nhập ngũ\" - Gót hồng trên lửa đạn\nPhát sóng Thứ 3 hàng tuần từ ngày 06.08.2024 👇\n💓 07h55 Thứ 3 trên Kênh QPVN\n💓 21h10 Thứ 3 trên Kênh HTV7\n💓 21h30 Thứ 3 trên YOUTUBE l MOCHA l FPT l TV360\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn chính: Lê Quý Giáp\n• Tổ chức sản xuất:  Hà Vân Anh, Dương Trang, Phạm Chiên\n• Biên tập tiền kỳ: Ngô Trang, Phương Pu, Tuấn Nghĩa, Thảo Nguyên, Thu Nguyên, \n• Biên tập hậu kỳ: Bùi Tiến Dũng, Thảo Nguyên, Thu Nguyên, Ngô Nghĩa, Tuấn Nghĩa, Tú Phương, Mai Hằng, Hà Phương, Lâm Vũ, Vân Anh\n• D.O.P: Đoàn Ngọc Ước, Mai Trùng Khánh\n• Quay phim: Thế Chiến; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Quang Huy; Hồng Phương; Thanh Tĩnh; Văn Sướng; Văn Quân; Văn Công; Hoàng Cường; Quốc Huy; Văn San; Văn Hoan; Văn Hạnh; Thái Ngân. \n• Kỹ thuật & Ánh sáng: Team Đỗ Duy Sỹ và Team Lê Minh \n• Âm thanh: Đoàn Xuân Lộc, Văn Tới, Văn Thành\n• Nhiếp Ảnh: Hùng Quách, Quốc Hùng, Văn Linh\n• Chịu trách nhiệm hậu kỳ: Thanh Tùng, Thanh Liêm\n• Quản lý thiết bị: Minh Tân, Tuấn Anh\n• Hỗ trợ sản xuất: Ngọc Hoàng; Văn Tuyên, Văn Kiên, Huy Hoàng, Việt Anh, Duy\n• Dựng phim: Phùng Thanh Tùng, Nguyễn Văn Hải, Diệp Đình Long\n• Đồ họa: Thế Lượng, Thanh Tùng, Ngọc Thảo, Đình Long\n• Phụ trách Truyền thông: Nguyễn Hằng, Nguyễn Nga\n• Truyền thông social: Trà Trang, Hoài Nguyễn, Tuấn Anh, Hà Phan\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#viettelmedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gothongtrenluadan",
+          "text": "#gothongtrenluadan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phuonganhdao",
+          "text": "#phuonganhdao"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thuytien",
+          "text": "#thuytien"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lizkimcuong",
+          "text": "#lizkimcuong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junvu",
+          "text": "#junvu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phao",
+          "text": "#phao"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/uyenan",
+          "text": "#uyenan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mie",
+          "text": "#mie"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/misthy",
+          "text": "#misthy"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 8,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57",
+      "isMonetized": null,
+      "hashtags": [
+        "#phao",
+        "#junvu",
+        "#uyenan"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57",
+      "isPaidContent": false
+    },
+    {
+      "title": "SAO NHẬP NGŨ 2024 TẬP 4 l Phương Anh Đào cứu MisThy khỏi 'BÀN THUA'",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "wzcBB3aAEKw",
+      "url": "https://www.youtube.com/watch?v=wzcBB3aAEKw&list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57&index=13",
+      "thumbnailUrl": "https://i.ytimg.com/vi/wzcBB3aAEKw/maxresdefault.jpg",
+      "viewCount": 2228846,
+      "date": "2024-08-27T14:30:07.000Z",
+      "likes": 16000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "01:29:07",
+      "commentsCount": 1277,
+      "text": "#saonhapngu #viettelmedia #gothongtrenluadan #phuonganhdao #thuytien #lizkimcuong #junvu #phao #uyenan #mie #misthy\n🔥 Sao Nhập Ngũ 2024 – Gót hồng trên lửa đạn\n8 nữ chiến sĩ, trải nghiệm trong môi trường đặc công với nhiều thử thách \"khó nhằn\", 8 bông hồng mong manh nhưng không dễ vỡ: Diễn viên Phương Anh Đào, Hoa hậu Thùy Tiên, diễn viên Jun Vũ (Vũ Phương Anh), Streamer Misthy (Lê Thy Ngọc), DJ - Diễn viên Mie (Trương Tiểu My), ca sĩ Liz Kim Cương; Diễn viên Uyển Ân, Rapper Pháo (Diệu Huyền)\n🔥 Đón xem \"Sao nhập ngũ\" - Gót hồng trên lửa đạn\nPhát sóng Thứ 3 hàng tuần từ ngày 06.08.2024 👇\n💓 07h55 Thứ 3 trên Kênh QPVN\n💓 21h10 Thứ 3 trên Kênh HTV7\n💓 21h30 Thứ 3 trên YOUTUBE l MOCHA l FPT l TV360\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn chính: Lê Quý Giáp\n• Tổ chức sản xuất:  Hà Vân Anh, Dương Trang, Phạm Chiên\n• Biên tập tiền kỳ: Ngô Trang, Phương Pu, Tuấn Nghĩa, Thảo Nguyên, Thu Nguyên, \n• Biên tập hậu kỳ: Bùi Tiến Dũng, Thảo Nguyên, Thu Nguyên, Ngô Nghĩa, Tuấn Nghĩa, Tú Phương, Mai Hằng, Hà Phương, Lâm Vũ, Vân Anh\n• D.O.P: Đoàn Ngọc Ước, Mai Trùng Khánh\n• Quay phim: Thế Chiến; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Quang Huy; Hồng Phương; Thanh Tĩnh; Văn Sướng; Văn Quân; Văn Công; Hoàng Cường; Quốc Huy; Văn San; Văn Hoan; Văn Hạnh; Thái Ngân. \n• Kỹ thuật & Ánh sáng: Team Đỗ Duy Sỹ và Team Lê Minh \n• Âm thanh: Đoàn Xuân Lộc, Văn Tới, Văn Thành\n• Nhiếp Ảnh: Hùng Quách, Quốc Hùng, Văn Linh\n• Chịu trách nhiệm hậu kỳ: Thanh Tùng, Thanh Liêm\n• Quản lý thiết bị: Minh Tân, Tuấn Anh\n• Hỗ trợ sản xuất: Ngọc Hoàng; Văn Tuyên, Văn Kiên, Huy Hoàng, Việt Anh, Duy\n• Dựng phim: Phùng Thanh Tùng, Nguyễn Văn Hải, Diệp Đình Long\n• Đồ họa: Thế Lượng, Thanh Tùng, Ngọc Thảo, Đình Long\n• Phụ trách Truyền thông: Nguyễn Hằng, Nguyễn Nga\n• Truyền thông social: Trà Trang, Hoài Nguyễn, Tuấn Anh, Hà Phan\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#viettelmedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gothongtrenluadan",
+          "text": "#gothongtrenluadan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phuonganhdao",
+          "text": "#phuonganhdao"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thuytien",
+          "text": "#thuytien"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lizkimcuong",
+          "text": "#lizkimcuong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junvu",
+          "text": "#junvu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phao",
+          "text": "#phao"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/uyenan",
+          "text": "#uyenan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mie",
+          "text": "#mie"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/misthy",
+          "text": "#misthy"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 12,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57",
+      "isMonetized": null,
+      "hashtags": [
+        "#phao",
+        "#junvu",
+        "#uyenan"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57",
+      "isPaidContent": false
+    },
+    {
+      "title": "SAO NHẬP NGŨ 2024 TẬP 1 | Thùy Tiên, DJ Mie HOẢNG SỢ PHÁT KHÓC; Pháo, Uyển Ân gây BẤT NGỜ LỚN",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "UcT0jwqXJxs",
+      "url": "https://www.youtube.com/watch?v=UcT0jwqXJxs&list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57&index=16",
+      "thumbnailUrl": "https://i.ytimg.com/vi/UcT0jwqXJxs/maxresdefault.jpg",
+      "viewCount": 6815076,
+      "date": "2024-08-06T14:30:08.000Z",
+      "likes": 102000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "01:31:19",
+      "commentsCount": 5800,
+      "text": "#saonhapngu #viettelmedia #gothongtrenluadan #phuonganhdao #thuytien #lizkimcuong #junvu #phao #uyenan #mie #misthy\n🔥 Sao Nhập Ngũ 2024 – Gót hồng trên lửa đạn\n8 nữ chiến sĩ, trải nghiệm trong môi trường đặc công với nhiều thử thách \"khó nhằn\", 8 bông hồng mong manh nhưng không dễ vỡ: Diễn viên Phương Anh Đào, Hoa hậu Thùy Tiên, diễn viên Jun Vũ (Vũ Phương Anh), Streamer Misthy (Lê Thy Ngọc), DJ - Diễn viên Mie (Trương Tiểu My), ca sĩ Liz Kim Cương; Diễn viên Uyển Ân, Rapper Pháo (Diệu Huyền)\n🔥 Đón xem \"Sao nhập ngũ\" - Gót hồng trên lửa đạn\nPhát sóng Thứ 3 hàng tuần từ ngày 06.08.2024 👇\n💓 07h55 Thứ 3 trên Kênh QPVN\n💓 21h10 Thứ 3 trên Kênh HTV7\n💓 21h30 Thứ 3 trên YOUTUBE l MOCHA l FPT l TV360\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn chính: Lê Quý Giáp\n• Tổ chức sản xuất:  Hà Vân Anh, Dương Trang, Phạm Chiên\n• Biên tập tiền kỳ: Ngô Trang, Phương Pu, Tuấn Nghĩa, Thảo Nguyên, Thu Nguyên, \n• Biên tập hậu kỳ: Bùi Tiến Dũng, Thảo Nguyên, Thu Nguyên, Ngô Nghĩa, Tuấn Nghĩa, Tú Phương, Mai Hằng, Hà Phương, Lâm Vũ, Vân Anh\n• D.O.P: Đoàn Ngọc Ước, Mai Trùng Khánh\n• Quay phim: Thế Chiến; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Quang Huy; Hồng Phương; Thanh Tĩnh; Văn Sướng; Văn Quân; Văn Công; Hoàng Cường; Quốc Huy; Văn San; Văn Hoan; Văn Hạnh; Thái Ngân. \n• Kỹ thuật & Ánh sáng: Team Đỗ Duy Sỹ và Team Lê Minh \n• Âm thanh: Đoàn Xuân Lộc, Văn Tới, Văn Thành\n• Nhiếp Ảnh: Hùng Quách, Quốc Hùng, Văn Linh\n• Chịu trách nhiệm hậu kỳ: Thanh Tùng, Thanh Liêm\n• Quản lý thiết bị: Minh Tân, Tuấn Anh\n• Hỗ trợ sản xuất: Ngọc Hoàng; Văn Tuyên, Văn Kiên, Huy Hoàng, Việt Anh, Duy\n• Dựng phim: Phùng Thanh Tùng, Nguyễn Văn Hải, Diệp Đình Long\n• Đồ họa: Thế Lượng, Thanh Tùng, Ngọc Thảo, Đình Long\n• Phụ trách Truyền thông: Nguyễn Hằng, Nguyễn Nga\n• Truyền thông social: Trà Trang, Hoài Nguyễn, Tuấn Anh, Hà Phan\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#viettelmedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gothongtrenluadan",
+          "text": "#gothongtrenluadan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phuonganhdao",
+          "text": "#phuonganhdao"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thuytien",
+          "text": "#thuytien"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lizkimcuong",
+          "text": "#lizkimcuong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junvu",
+          "text": "#junvu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phao",
+          "text": "#phao"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/uyenan",
+          "text": "#uyenan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mie",
+          "text": "#mie"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/misthy",
+          "text": "#misthy"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 15,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57",
+      "isPaidContent": false
+    },
+    {
+      "title": "SAO NHẬP NGŨ 2024 TẬP 14 l Uyển Ân KHÓC NẤC l Thùy Tiên tạo nét CƯNG XỈU l P.A Đào PHÁ VỠ giới hạn",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "3GQe2KflBQw",
+      "url": "https://www.youtube.com/watch?v=3GQe2KflBQw&list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57&index=3",
+      "thumbnailUrl": "https://i.ytimg.com/vi/3GQe2KflBQw/maxresdefault.jpg",
+      "viewCount": 1095073,
+      "date": "2024-11-05T14:30:06.000Z",
+      "likes": 10000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "01:04:41",
+      "commentsCount": 704,
+      "text": "#saonhapngu #viettelmedia #gothongtrenluadan #phuonganhdao #thuytien #lizkimcuong #junvu #phao #uyenan #mie #misthy\n🔥 Sao Nhập Ngũ 2024 – Gót hồng trên lửa đạn\n8 nữ chiến sĩ, trải nghiệm trong môi trường đặc công với nhiều thử thách \"khó nhằn\", 8 bông hồng mong manh nhưng không dễ vỡ: Diễn viên Phương Anh Đào, Hoa hậu Thùy Tiên, diễn viên Jun Vũ (Vũ Phương Anh), Streamer Misthy (Lê Thy Ngọc), DJ - Diễn viên Mie (Trương Tiểu My), ca sĩ Liz Kim Cương; Diễn viên Uyển Ân, Rapper Pháo (Diệu Huyền)\n🔥 Đón xem \"Sao nhập ngũ\" - Gót hồng trên lửa đạn\nPhát sóng Thứ 3 hàng tuần từ ngày 06.08.2024 👇\n💓 07h55 Thứ 3 trên Kênh QPVN\n💓 21h10 Thứ 3 trên Kênh HTV7\n💓 21h30 Thứ 3 trên YOUTUBE l MOCHA l FPT l TV360\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn chính: Lê Quý Giáp\n• Tổ chức sản xuất:  Hà Vân Anh, Dương Trang, Phạm Chiên\n• Biên tập tiền kỳ: Ngô Trang, Phương Pu, Tuấn Nghĩa, Thảo Nguyên, Thu Nguyên, \n• Biên tập hậu kỳ: Bùi Tiến Dũng, Thảo Nguyên, Thu Nguyên, Ngô Nghĩa, Tuấn Nghĩa, Tú Phương, Mai Hằng, Hà Phương, Lâm Vũ, Vân Anh\n• D.O.P: Đoàn Ngọc Ước, Mai Trùng Khánh\n• Quay phim: Thế Chiến; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Quang Huy; Hồng Phương; Thanh Tĩnh; Văn Sướng; Văn Quân; Văn Công; Hoàng Cường; Quốc Huy; Văn San; Văn Hoan; Văn Hạnh; Thái Ngân. \n• Kỹ thuật & Ánh sáng: Team Đỗ Duy Sỹ và Team Lê Minh \n• Âm thanh: Đoàn Xuân Lộc, Văn Tới, Văn Thành\n• Nhiếp Ảnh: Hùng Quách, Quốc Hùng, Văn Linh\n• Chịu trách nhiệm hậu kỳ: Thanh Tùng, Thanh Liêm\n• Quản lý thiết bị: Minh Tân, Tuấn Anh\n• Hỗ trợ sản xuất: Ngọc Hoàng; Văn Tuyên, Văn Kiên, Huy Hoàng, Việt Anh, Duy\n• Dựng phim: Phùng Thanh Tùng, Nguyễn Văn Hải, Diệp Đình Long\n• Đồ họa: Thế Lượng, Thanh Tùng, Ngọc Thảo, Đình Long\n• Phụ trách Truyền thông: Nguyễn Hằng, Nguyễn Nga\n• Truyền thông social: Trà Trang, Hoài Nguyễn, Tuấn Anh, Hà Phan\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#viettelmedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gothongtrenluadan",
+          "text": "#gothongtrenluadan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phuonganhdao",
+          "text": "#phuonganhdao"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thuytien",
+          "text": "#thuytien"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lizkimcuong",
+          "text": "#lizkimcuong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junvu",
+          "text": "#junvu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phao",
+          "text": "#phao"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/uyenan",
+          "text": "#uyenan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mie",
+          "text": "#mie"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/misthy",
+          "text": "#misthy"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 2,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57",
+      "isPaidContent": false
+    },
+    {
+      "title": "SAO NHẬP NGŨ 2024 TẬP 3 l Thùy Tiên nỗ lực ‘THẢ THÍNH’ l Uyển Ân bị khiển trách, xin 'TỪ CHỨC'",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "PRMJIWrHpsE",
+      "url": "https://www.youtube.com/watch?v=PRMJIWrHpsE&list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57&index=14",
+      "thumbnailUrl": "https://i.ytimg.com/vi/PRMJIWrHpsE/maxresdefault.jpg",
+      "viewCount": 2974788,
+      "date": "2024-08-20T14:30:22.000Z",
+      "likes": 54000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "01:37:46",
+      "commentsCount": 3226,
+      "text": "#saonhapngu #viettelmedia #gothongtrenluadan #phuonganhdao #thuytien #lizkimcuong #junvu #phao #uyenan #mie #misthy\n🔥 Sao Nhập Ngũ 2024 – Gót hồng trên lửa đạn\n8 nữ chiến sĩ, trải nghiệm trong môi trường đặc công với nhiều thử thách \"khó nhằn\", 8 bông hồng mong manh nhưng không dễ vỡ: Diễn viên Phương Anh Đào, Hoa hậu Thùy Tiên, diễn viên Jun Vũ (Vũ Phương Anh), Streamer Misthy (Lê Thy Ngọc), DJ - Diễn viên Mie (Trương Tiểu My), ca sĩ Liz Kim Cương; Diễn viên Uyển Ân, Rapper Pháo (Diệu Huyền)\n🔥 Đón xem \"Sao nhập ngũ\" - Gót hồng trên lửa đạn\nPhát sóng Thứ 3 hàng tuần từ ngày 06.08.2024 👇\n💓 07h55 Thứ 3 trên Kênh QPVN\n💓 21h10 Thứ 3 trên Kênh HTV7\n💓 21h30 Thứ 3 trên YOUTUBE l MOCHA l FPT l TV360\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn chính: Lê Quý Giáp\n• Tổ chức sản xuất:  Hà Vân Anh, Dương Trang, Phạm Chiên\n• Biên tập tiền kỳ: Ngô Trang, Phương Pu, Tuấn Nghĩa, Thảo Nguyên, Thu Nguyên, \n• Biên tập hậu kỳ: Bùi Tiến Dũng, Thảo Nguyên, Thu Nguyên, Ngô Nghĩa, Tuấn Nghĩa, Tú Phương, Mai Hằng, Hà Phương, Lâm Vũ, Vân Anh\n• D.O.P: Đoàn Ngọc Ước, Mai Trùng Khánh\n• Quay phim: Thế Chiến; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Quang Huy; Hồng Phương; Thanh Tĩnh; Văn Sướng; Văn Quân; Văn Công; Hoàng Cường; Quốc Huy; Văn San; Văn Hoan; Văn Hạnh; Thái Ngân. \n• Kỹ thuật & Ánh sáng: Team Đỗ Duy Sỹ và Team Lê Minh \n• Âm thanh: Đoàn Xuân Lộc, Văn Tới, Văn Thành\n• Nhiếp Ảnh: Hùng Quách, Quốc Hùng, Văn Linh\n• Chịu trách nhiệm hậu kỳ: Thanh Tùng, Thanh Liêm\n• Quản lý thiết bị: Minh Tân, Tuấn Anh\n• Hỗ trợ sản xuất: Ngọc Hoàng; Văn Tuyên, Văn Kiên, Huy Hoàng, Việt Anh, Duy\n• Dựng phim: Phùng Thanh Tùng, Nguyễn Văn Hải, Diệp Đình Long\n• Đồ họa: Thế Lượng, Thanh Tùng, Ngọc Thảo, Đình Long\n• Phụ trách Truyền thông: Nguyễn Hằng, Nguyễn Nga\n• Truyền thông social: Trà Trang, Hoài Nguyễn, Tuấn Anh, Hà Phan\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#viettelmedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gothongtrenluadan",
+          "text": "#gothongtrenluadan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phuonganhdao",
+          "text": "#phuonganhdao"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thuytien",
+          "text": "#thuytien"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lizkimcuong",
+          "text": "#lizkimcuong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junvu",
+          "text": "#junvu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phao",
+          "text": "#phao"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/uyenan",
+          "text": "#uyenan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mie",
+          "text": "#mie"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/misthy",
+          "text": "#misthy"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 13,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57",
+      "isPaidContent": false
+    },
+    {
+      "title": "SAO NHẬP NGŨ 2024 TẬP 13 l Thùy Tiên & Jun Vũ ĐỐI ĐẦU; MisThy mở đại hội 'BÓC PHỐT' dàn nam chiến sĩ",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "eOLfde-LOy8",
+      "url": "https://www.youtube.com/watch?v=eOLfde-LOy8&list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57&index=4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/eOLfde-LOy8/maxresdefault.jpg",
+      "viewCount": 1145674,
+      "date": "2024-10-29T14:30:06.000Z",
+      "likes": 10000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "01:08:30",
+      "commentsCount": 649,
+      "text": "#saonhapngu #viettelmedia #gothongtrenluadan #phuonganhdao #thuytien #lizkimcuong #junvu #phao #uyenan #mie #misthy\n🔥 Sao Nhập Ngũ 2024 – Gót hồng trên lửa đạn\n8 nữ chiến sĩ, trải nghiệm trong môi trường đặc công với nhiều thử thách \"khó nhằn\", 8 bông hồng mong manh nhưng không dễ vỡ: Diễn viên Phương Anh Đào, Hoa hậu Thùy Tiên, diễn viên Jun Vũ (Vũ Phương Anh), Streamer Misthy (Lê Thy Ngọc), DJ - Diễn viên Mie (Trương Tiểu My), ca sĩ Liz Kim Cương; Diễn viên Uyển Ân, Rapper Pháo (Diệu Huyền)\n🔥 Đón xem \"Sao nhập ngũ\" - Gót hồng trên lửa đạn\nPhát sóng Thứ 3 hàng tuần từ ngày 06.08.2024 👇\n💓 07h55 Thứ 3 trên Kênh QPVN\n💓 21h10 Thứ 3 trên Kênh HTV7\n💓 21h30 Thứ 3 trên YOUTUBE l MOCHA l FPT l TV360\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn chính: Lê Quý Giáp\n• Tổ chức sản xuất:  Hà Vân Anh, Dương Trang, Phạm Chiên\n• Biên tập tiền kỳ: Ngô Trang, Phương Pu, Tuấn Nghĩa, Thảo Nguyên, Thu Nguyên, \n• Biên tập hậu kỳ: Bùi Tiến Dũng, Thảo Nguyên, Thu Nguyên, Ngô Nghĩa, Tuấn Nghĩa, Tú Phương, Mai Hằng, Hà Phương, Lâm Vũ, Vân Anh\n• D.O.P: Đoàn Ngọc Ước, Mai Trùng Khánh\n• Quay phim: Thế Chiến; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Quang Huy; Hồng Phương; Thanh Tĩnh; Văn Sướng; Văn Quân; Văn Công; Hoàng Cường; Quốc Huy; Văn San; Văn Hoan; Văn Hạnh; Thái Ngân. \n• Kỹ thuật & Ánh sáng: Team Đỗ Duy Sỹ và Team Lê Minh \n• Âm thanh: Đoàn Xuân Lộc, Văn Tới, Văn Thành\n• Nhiếp Ảnh: Hùng Quách, Quốc Hùng, Văn Linh\n• Chịu trách nhiệm hậu kỳ: Thanh Tùng, Thanh Liêm\n• Quản lý thiết bị: Minh Tân, Tuấn Anh\n• Hỗ trợ sản xuất: Ngọc Hoàng; Văn Tuyên, Văn Kiên, Huy Hoàng, Việt Anh, Duy\n• Dựng phim: Phùng Thanh Tùng, Nguyễn Văn Hải, Diệp Đình Long\n• Đồ họa: Thế Lượng, Thanh Tùng, Ngọc Thảo, Đình Long\n• Phụ trách Truyền thông: Nguyễn Hằng, Nguyễn Nga\n• Truyền thông social: Trà Trang, Hoài Nguyễn, Tuấn Anh, Hà Phan\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#viettelmedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gothongtrenluadan",
+          "text": "#gothongtrenluadan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phuonganhdao",
+          "text": "#phuonganhdao"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thuytien",
+          "text": "#thuytien"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lizkimcuong",
+          "text": "#lizkimcuong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junvu",
+          "text": "#junvu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phao",
+          "text": "#phao"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/uyenan",
+          "text": "#uyenan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mie",
+          "text": "#mie"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/misthy",
+          "text": "#misthy"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 3,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57",
+      "isMonetized": null,
+      "hashtags": [
+        "#phao",
+        "#junvu",
+        "#uyenan"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57",
+      "isPaidContent": false
+    },
+    {
+      "title": "SAO NHẬP NGŨ 2024 TẬP 9 l MisThy bị kéo lê trong VÔ VỌNG l Uyển Ân 'HY SINH' l Jun Vũ QUYẾT CHIẾN",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "Y9JkaK-vv8U",
+      "url": "https://www.youtube.com/watch?v=Y9JkaK-vv8U&list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57&index=8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Y9JkaK-vv8U/maxresdefault.jpg",
+      "viewCount": 901415,
+      "date": "2024-10-01T14:30:26.000Z",
+      "likes": 7100,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "01:09:53",
+      "commentsCount": 606,
+      "text": "#saonhapngu #viettelmedia #gothongtrenluadan #phuonganhdao #thuytien #lizkimcuong #junvu #phao #uyenan #mie #misthy\n🔥 Sao Nhập Ngũ 2024 – Gót hồng trên lửa đạn\n8 nữ chiến sĩ, trải nghiệm trong môi trường đặc công với nhiều thử thách \"khó nhằn\", 8 bông hồng mong manh nhưng không dễ vỡ: Diễn viên Phương Anh Đào, Hoa hậu Thùy Tiên, diễn viên Jun Vũ (Vũ Phương Anh), Streamer Misthy (Lê Thy Ngọc), DJ - Diễn viên Mie (Trương Tiểu My), ca sĩ Liz Kim Cương; Diễn viên Uyển Ân, Rapper Pháo (Diệu Huyền)\n🔥 Đón xem \"Sao nhập ngũ\" - Gót hồng trên lửa đạn\nPhát sóng Thứ 3 hàng tuần từ ngày 06.08.2024 👇\n💓 07h55 Thứ 3 trên Kênh QPVN\n💓 21h10 Thứ 3 trên Kênh HTV7\n💓 21h30 Thứ 3 trên YOUTUBE l MOCHA l FPT l TV360\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn chính: Lê Quý Giáp\n• Tổ chức sản xuất:  Hà Vân Anh, Dương Trang, Phạm Chiên\n• Biên tập tiền kỳ: Ngô Trang, Phương Pu, Tuấn Nghĩa, Thảo Nguyên, Thu Nguyên, \n• Biên tập hậu kỳ: Bùi Tiến Dũng, Thảo Nguyên, Thu Nguyên, Ngô Nghĩa, Tuấn Nghĩa, Tú Phương, Mai Hằng, Hà Phương, Lâm Vũ, Vân Anh\n• D.O.P: Đoàn Ngọc Ước, Mai Trùng Khánh\n• Quay phim: Thế Chiến; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Quang Huy; Hồng Phương; Thanh Tĩnh; Văn Sướng; Văn Quân; Văn Công; Hoàng Cường; Quốc Huy; Văn San; Văn Hoan; Văn Hạnh; Thái Ngân. \n• Kỹ thuật & Ánh sáng: Team Đỗ Duy Sỹ và Team Lê Minh \n• Âm thanh: Đoàn Xuân Lộc, Văn Tới, Văn Thành\n• Nhiếp Ảnh: Hùng Quách, Quốc Hùng, Văn Linh\n• Chịu trách nhiệm hậu kỳ: Thanh Tùng, Thanh Liêm\n• Quản lý thiết bị: Minh Tân, Tuấn Anh\n• Hỗ trợ sản xuất: Ngọc Hoàng; Văn Tuyên, Văn Kiên, Huy Hoàng, Việt Anh, Duy\n• Dựng phim: Phùng Thanh Tùng, Nguyễn Văn Hải, Diệp Đình Long\n• Đồ họa: Thế Lượng, Thanh Tùng, Ngọc Thảo, Đình Long\n• Phụ trách Truyền thông: Nguyễn Hằng, Nguyễn Nga\n• Truyền thông social: Trà Trang, Hoài Nguyễn, Tuấn Anh, Hà Phan\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#viettelmedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gothongtrenluadan",
+          "text": "#gothongtrenluadan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phuonganhdao",
+          "text": "#phuonganhdao"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thuytien",
+          "text": "#thuytien"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lizkimcuong",
+          "text": "#lizkimcuong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junvu",
+          "text": "#junvu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phao",
+          "text": "#phao"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/uyenan",
+          "text": "#uyenan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mie",
+          "text": "#mie"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/misthy",
+          "text": "#misthy"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 7,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57",
+      "isMonetized": null,
+      "hashtags": [
+        "#phao",
+        "#junvu",
+        "#uyenan"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57",
+      "isPaidContent": false
+    },
+    {
+      "title": "SAO NHẬP NGŨ 2024 TẬP 10 l MisThy gặp TAI NẠN ĐAU ĐỚN l Thùy Tiên không bảo vệ được Jun Vũ",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "AHhBQ4BdEeM",
+      "url": "https://www.youtube.com/watch?v=AHhBQ4BdEeM&list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57&index=7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/AHhBQ4BdEeM/maxresdefault.jpg",
+      "viewCount": 779156,
+      "date": "2024-10-08T14:30:06.000Z",
+      "likes": 5700,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "01:02:33",
+      "commentsCount": 463,
+      "text": "#saonhapngu #viettelmedia #gothongtrenluadan #phuonganhdao #thuytien #lizkimcuong #junvu #phao #uyenan #mie #misthy\n🔥 Sao Nhập Ngũ 2024 – Gót hồng trên lửa đạn\n8 nữ chiến sĩ, trải nghiệm trong môi trường đặc công với nhiều thử thách \"khó nhằn\", 8 bông hồng mong manh nhưng không dễ vỡ: Diễn viên Phương Anh Đào, Hoa hậu Thùy Tiên, diễn viên Jun Vũ (Vũ Phương Anh), Streamer Misthy (Lê Thy Ngọc), DJ - Diễn viên Mie (Trương Tiểu My), ca sĩ Liz Kim Cương; Diễn viên Uyển Ân, Rapper Pháo (Diệu Huyền)\n🔥 Đón xem \"Sao nhập ngũ\" - Gót hồng trên lửa đạn\nPhát sóng Thứ 3 hàng tuần từ ngày 06.08.2024 👇\n💓 07h55 Thứ 3 trên Kênh QPVN\n💓 21h10 Thứ 3 trên Kênh HTV7\n💓 21h30 Thứ 3 trên YOUTUBE l MOCHA l FPT l TV360\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn chính: Lê Quý Giáp\n• Tổ chức sản xuất:  Hà Vân Anh, Dương Trang, Phạm Chiên\n• Biên tập tiền kỳ: Ngô Trang, Phương Pu, Tuấn Nghĩa, Thảo Nguyên, Thu Nguyên, \n• Biên tập hậu kỳ: Bùi Tiến Dũng, Thảo Nguyên, Thu Nguyên, Ngô Nghĩa, Tuấn Nghĩa, Tú Phương, Mai Hằng, Hà Phương, Lâm Vũ, Vân Anh\n• D.O.P: Đoàn Ngọc Ước, Mai Trùng Khánh\n• Quay phim: Thế Chiến; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Quang Huy; Hồng Phương; Thanh Tĩnh; Văn Sướng; Văn Quân; Văn Công; Hoàng Cường; Quốc Huy; Văn San; Văn Hoan; Văn Hạnh; Thái Ngân. \n• Kỹ thuật & Ánh sáng: Team Đỗ Duy Sỹ và Team Lê Minh \n• Âm thanh: Đoàn Xuân Lộc, Văn Tới, Văn Thành\n• Nhiếp Ảnh: Hùng Quách, Quốc Hùng, Văn Linh\n• Chịu trách nhiệm hậu kỳ: Thanh Tùng, Thanh Liêm\n• Quản lý thiết bị: Minh Tân, Tuấn Anh\n• Hỗ trợ sản xuất: Ngọc Hoàng; Văn Tuyên, Văn Kiên, Huy Hoàng, Việt Anh, Duy\n• Dựng phim: Phùng Thanh Tùng, Nguyễn Văn Hải, Diệp Đình Long\n• Đồ họa: Thế Lượng, Thanh Tùng, Ngọc Thảo, Đình Long\n• Phụ trách Truyền thông: Nguyễn Hằng, Nguyễn Nga\n• Truyền thông social: Trà Trang, Hoài Nguyễn, Tuấn Anh, Hà Phan\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#viettelmedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gothongtrenluadan",
+          "text": "#gothongtrenluadan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phuonganhdao",
+          "text": "#phuonganhdao"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thuytien",
+          "text": "#thuytien"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lizkimcuong",
+          "text": "#lizkimcuong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junvu",
+          "text": "#junvu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phao",
+          "text": "#phao"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/uyenan",
+          "text": "#uyenan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mie",
+          "text": "#mie"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/misthy",
+          "text": "#misthy"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 6,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57",
+      "isMonetized": null,
+      "hashtags": [
+        "#phao",
+        "#junvu",
+        "#uyenan"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57",
+      "isPaidContent": false
+    },
+    {
+      "title": "SAO NHẬP NGŨ 2024 TẬP 6 l Pháo, Uyển Ân, Thùy Tiên, Mie quyết tâm VƯỢT NGƯỠNG GIỚI HẠN",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "hcfHfLSND2o",
+      "url": "https://www.youtube.com/watch?v=hcfHfLSND2o&list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57&index=11",
+      "thumbnailUrl": "https://i.ytimg.com/vi/hcfHfLSND2o/maxresdefault.jpg",
+      "viewCount": 1490004,
+      "date": "2024-09-10T14:30:07.000Z",
+      "likes": 11000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "01:38:41",
+      "commentsCount": 1076,
+      "text": "#saonhapngu #viettelmedia #gothongtrenluadan #phuonganhdao #thuytien #lizkimcuong #junvu #phao #uyenan #mie #misthy\n🔥 Sao Nhập Ngũ 2024 – Gót hồng trên lửa đạn\n8 nữ chiến sĩ, trải nghiệm trong môi trường đặc công với nhiều thử thách \"khó nhằn\", 8 bông hồng mong manh nhưng không dễ vỡ: Diễn viên Phương Anh Đào, Hoa hậu Thùy Tiên, diễn viên Jun Vũ (Vũ Phương Anh), Streamer Misthy (Lê Thy Ngọc), DJ - Diễn viên Mie (Trương Tiểu My), ca sĩ Liz Kim Cương; Diễn viên Uyển Ân, Rapper Pháo (Diệu Huyền)\n🔥 Đón xem \"Sao nhập ngũ\" - Gót hồng trên lửa đạn\nPhát sóng Thứ 3 hàng tuần từ ngày 06.08.2024 👇\n💓 07h55 Thứ 3 trên Kênh QPVN\n💓 21h10 Thứ 3 trên Kênh HTV7\n💓 21h30 Thứ 3 trên YOUTUBE l MOCHA l FPT l TV360\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn chính: Lê Quý Giáp\n• Tổ chức sản xuất:  Hà Vân Anh, Dương Trang, Phạm Chiên\n• Biên tập tiền kỳ: Ngô Trang, Phương Pu, Tuấn Nghĩa, Thảo Nguyên, Thu Nguyên, \n• Biên tập hậu kỳ: Bùi Tiến Dũng, Thảo Nguyên, Thu Nguyên, Ngô Nghĩa, Tuấn Nghĩa, Tú Phương, Mai Hằng, Hà Phương, Lâm Vũ, Vân Anh\n• D.O.P: Đoàn Ngọc Ước, Mai Trùng Khánh\n• Quay phim: Thế Chiến; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Quang Huy; Hồng Phương; Thanh Tĩnh; Văn Sướng; Văn Quân; Văn Công; Hoàng Cường; Quốc Huy; Văn San; Văn Hoan; Văn Hạnh; Thái Ngân. \n• Kỹ thuật & Ánh sáng: Team Đỗ Duy Sỹ và Team Lê Minh \n• Âm thanh: Đoàn Xuân Lộc, Văn Tới, Văn Thành\n• Nhiếp Ảnh: Hùng Quách, Quốc Hùng, Văn Linh\n• Chịu trách nhiệm hậu kỳ: Thanh Tùng, Thanh Liêm\n• Quản lý thiết bị: Minh Tân, Tuấn Anh\n• Hỗ trợ sản xuất: Ngọc Hoàng; Văn Tuyên, Văn Kiên, Huy Hoàng, Việt Anh, Duy\n• Dựng phim: Phùng Thanh Tùng, Nguyễn Văn Hải, Diệp Đình Long\n• Đồ họa: Thế Lượng, Thanh Tùng, Ngọc Thảo, Đình Long\n• Phụ trách Truyền thông: Nguyễn Hằng, Nguyễn Nga\n• Truyền thông social: Trà Trang, Hoài Nguyễn, Tuấn Anh, Hà Phan\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#viettelmedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gothongtrenluadan",
+          "text": "#gothongtrenluadan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phuonganhdao",
+          "text": "#phuonganhdao"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thuytien",
+          "text": "#thuytien"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lizkimcuong",
+          "text": "#lizkimcuong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junvu",
+          "text": "#junvu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phao",
+          "text": "#phao"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/uyenan",
+          "text": "#uyenan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mie",
+          "text": "#mie"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/misthy",
+          "text": "#misthy"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 10,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57",
+      "isMonetized": null,
+      "hashtags": [
+        "#phao",
+        "#junvu",
+        "#uyenan"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57",
+      "isPaidContent": false
+    },
+    {
+      "title": "SAO NHẬP NGŨ 2024 TẬP 15 l Phương Anh Đào và Jun Vũ ĐỐI ĐẦU CỰC CĂNG | Thuỳ Tiên SỐC vì kết quả",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "hy3cNIBa9Ho",
+      "url": "https://www.youtube.com/watch?v=hy3cNIBa9Ho&list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57&index=2",
+      "thumbnailUrl": "https://i.ytimg.com/vi/hy3cNIBa9Ho/maxresdefault.jpg",
+      "viewCount": 1056919,
+      "date": "2024-11-12T14:30:06.000Z",
+      "likes": 6900,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:45:30",
+      "commentsCount": 383,
+      "text": "#saonhapngu #viettelmedia #gothongtrenluadan #phuonganhdao #thuytien #lizkimcuong #junvu #phao #uyenan #mie #misthy\n🔥 Sao Nhập Ngũ 2024 – Gót hồng trên lửa đạn\n8 nữ chiến sĩ, trải nghiệm trong môi trường đặc công với nhiều thử thách \"khó nhằn\", 8 bông hồng mong manh nhưng không dễ vỡ: Diễn viên Phương Anh Đào, Hoa hậu Thùy Tiên, diễn viên Jun Vũ (Vũ Phương Anh), Streamer Misthy (Lê Thy Ngọc), DJ - Diễn viên Mie (Trương Tiểu My), ca sĩ Liz Kim Cương; Diễn viên Uyển Ân, Rapper Pháo (Diệu Huyền)\n🔥 Đón xem \"Sao nhập ngũ\" - Gót hồng trên lửa đạn\nPhát sóng Thứ 3 hàng tuần từ ngày 06.08.2024 👇\n💓 07h55 Thứ 3 trên Kênh QPVN\n💓 21h10 Thứ 3 trên Kênh HTV7\n💓 21h30 Thứ 3 trên YOUTUBE l MOCHA l FPT l TV360\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn chính: Lê Quý Giáp\n• Tổ chức sản xuất:  Hà Vân Anh, Dương Trang, Phạm Chiên\n• Biên tập tiền kỳ: Ngô Trang, Phương Pu, Tuấn Nghĩa, Thảo Nguyên, Thu Nguyên, \n• Biên tập hậu kỳ: Bùi Tiến Dũng, Thảo Nguyên, Thu Nguyên, Ngô Nghĩa, Tuấn Nghĩa, Tú Phương, Mai Hằng, Hà Phương, Lâm Vũ, Vân Anh\n• D.O.P: Đoàn Ngọc Ước, Mai Trùng Khánh\n• Quay phim: Thế Chiến; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Quang Huy; Hồng Phương; Thanh Tĩnh; Văn Sướng; Văn Quân; Văn Công; Hoàng Cường; Quốc Huy; Văn San; Văn Hoan; Văn Hạnh; Thái Ngân. \n• Kỹ thuật & Ánh sáng: Team Đỗ Duy Sỹ và Team Lê Minh \n• Âm thanh: Đoàn Xuân Lộc, Văn Tới, Văn Thành\n• Nhiếp Ảnh: Hùng Quách, Quốc Hùng, Văn Linh\n• Chịu trách nhiệm hậu kỳ: Thanh Tùng, Thanh Liêm\n• Quản lý thiết bị: Minh Tân, Tuấn Anh\n• Hỗ trợ sản xuất: Ngọc Hoàng; Văn Tuyên, Văn Kiên, Huy Hoàng, Việt Anh, Duy\n• Dựng phim: Phùng Thanh Tùng, Nguyễn Văn Hải, Diệp Đình Long\n• Đồ họa: Thế L��ợng, Thanh Tùng, Ngọc Thảo, Đình Long\n• Phụ trách Truyền thông: Nguyễn Hằng, Nguyễn Nga\n• Truyền thông social: Trà Trang, Hoài Nguyễn, Tuấn Anh, Hà Phan\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#viettelmedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gothongtrenluadan",
+          "text": "#gothongtrenluadan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phuonganhdao",
+          "text": "#phuonganhdao"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thuytien",
+          "text": "#thuytien"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lizkimcuong",
+          "text": "#lizkimcuong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junvu",
+          "text": "#junvu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phao",
+          "text": "#phao"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/uyenan",
+          "text": "#uyenan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mie",
+          "text": "#mie"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/misthy",
+          "text": "#misthy"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 1,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57",
+      "isMonetized": null,
+      "hashtags": [
+        "#phao",
+        "#junvu",
+        "#uyenan"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57",
+      "isPaidContent": false
+    },
+    {
+      "title": "SAO NHẬP NGŨ 2024 TẬP CUỐI l Thùy Tiên XÉM XỈU trên đường chạy l Jun Vũ BẤT CHẤP giải cứu con tin",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "GeJ-sAqTs28",
+      "url": "https://www.youtube.com/watch?v=GeJ-sAqTs28&list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57&index=1",
+      "thumbnailUrl": "https://i.ytimg.com/vi/GeJ-sAqTs28/maxresdefault.jpg",
+      "viewCount": 1183382,
+      "date": "2024-11-19T14:30:06.000Z",
+      "likes": 9500,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:57:57",
+      "commentsCount": 469,
+      "text": "#saonhapngu #viettelmedia #gothongtrenluadan #phuonganhdao #thuytien #lizkimcuong #junvu #phao #uyenan #mie #misthy\n🔥 Sao Nhập Ngũ 2024 – Gót hồng trên lửa đạn\n8 nữ chiến sĩ, trải nghiệm trong môi trường đặc công với nhiều thử thách \"khó nhằn\", 8 bông hồng mong manh nhưng không dễ vỡ: Diễn viên Phương Anh Đào, Hoa hậu Thùy Tiên, diễn viên Jun Vũ (Vũ Phương Anh), Streamer Misthy (Lê Thy Ngọc), DJ - Diễn viên Mie (Trương Tiểu My), ca sĩ Liz Kim Cương; Diễn viên Uyển Ân, Rapper Pháo (Diệu Huyền)\n🔥 Đón xem \"Sao nhập ngũ\" - Gót hồng trên lửa đạn\nPhát sóng Thứ 3 hàng tuần từ ngày 06.08.2024 👇\n💓 07h55 Thứ 3 trên Kênh QPVN\n💓 21h10 Thứ 3 trên Kênh HTV7\n💓 21h30 Thứ 3 trên YOUTUBE l MOCHA l FPT l TV360\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn chính: Lê Quý Giáp\n• Tổ chức sản xuất:  Hà Vân Anh, Dương Trang, Phạm Chiên\n• Biên tập tiền kỳ: Ngô Trang, Phương Pu, Tuấn Nghĩa, Thảo Nguyên, Thu Nguyên, \n• Biên tập hậu kỳ: Bùi Tiến Dũng, Thảo Nguyên, Thu Nguyên, Ngô Nghĩa, Tuấn Nghĩa, Tú Phương, Mai Hằng, Hà Phương, Lâm Vũ, Vân Anh\n• D.O.P: Đoàn Ngọc Ước, Mai Trùng Khánh\n• Quay phim: Thế Chiến; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Quang Huy; Hồng Phương; Thanh Tĩnh; Văn Sướng; Văn Quân; Văn Công; Hoàng Cường; Quốc Huy; Văn San; Văn Hoan; Văn Hạnh; Thái Ngân. \n• Kỹ thuật & Ánh sáng: Team Đỗ Duy Sỹ và Team Lê Minh \n• Âm thanh: Đoàn Xuân Lộc, Văn Tới, Văn Thành\n• Nhiếp Ảnh: Hùng Quách, Quốc Hùng, Văn Linh\n• Chịu trách nhiệm hậu kỳ: Thanh Tùng, Thanh Liêm\n• Quản lý thiết bị: Minh Tân, Tuấn Anh\n• Hỗ trợ sản xuất: Ngọc Hoàng; Văn Tuyên, Văn Kiên, Huy Hoàng, Việt Anh, Duy\n• Dựng phim: Phùng Thanh Tùng, Nguyễn Văn Hải, Diệp Đình Long\n• Đồ họa: Thế Lượng, Thanh Tùng, Ngọc Thảo, Đình Long\n• Phụ trách Truyền thông: Nguyễn Hằng, Nguyễn Nga\n• Truyền thông social: Trà Trang, Hoài Nguyễn, Tuấn Anh, Hà Phan\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#viettelmedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gothongtrenluadan",
+          "text": "#gothongtrenluadan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phuonganhdao",
+          "text": "#phuonganhdao"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thuytien",
+          "text": "#thuytien"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lizkimcuong",
+          "text": "#lizkimcuong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junvu",
+          "text": "#junvu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phao",
+          "text": "#phao"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/uyenan",
+          "text": "#uyenan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mie",
+          "text": "#mie"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/misthy",
+          "text": "#misthy"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 0,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57",
+      "isPaidContent": false
+    },
+    {
+      "title": "SAO NHẬP NGŨ 2024 TẬP 5 l Phương Anh Đào & Pháo TỎA SÁNG l 'Mợ Hai' MisThy & 'Cậu Hai' Hiếu ĐỐI ĐẦU",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "lv643Hq5Wa8",
+      "url": "https://www.youtube.com/watch?v=lv643Hq5Wa8&list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57&index=12",
+      "thumbnailUrl": "https://i.ytimg.com/vi/lv643Hq5Wa8/maxresdefault.jpg",
+      "viewCount": 1690902,
+      "date": "2024-09-03T14:30:07.000Z",
+      "likes": 12000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "01:19:49",
+      "commentsCount": 1133,
+      "text": "#saonhapngu #viettelmedia #gothongtrenluadan #phuonganhdao #thuytien #lizkimcuong #junvu #phao #uyenan #mie #misthy\n🔥 Sao Nhập Ngũ 2024 – Gót hồng trên lửa đạn\n8 nữ chiến sĩ, trải nghiệm trong môi trường đặc công với nhiều thử thách \"khó nhằn\", 8 bông hồng mong manh nhưng không dễ vỡ: Diễn viên Phương Anh Đào, Hoa hậu Thùy Tiên, diễn viên Jun Vũ (Vũ Phương Anh), Streamer Misthy (Lê Thy Ngọc), DJ - Diễn viên Mie (Trương Tiểu My), ca sĩ Liz Kim Cương; Diễn viên Uyển Ân, Rapper Pháo (Diệu Huyền)\n🔥 Đón xem \"Sao nhập ngũ\" - Gót hồng trên lửa đạn\nPhát sóng Thứ 3 hàng tuần từ ngày 06.08.2024 👇\n💓 07h55 Thứ 3 trên Kênh QPVN\n💓 21h10 Thứ 3 trên Kênh HTV7\n💓 21h30 Thứ 3 trên YOUTUBE l MOCHA l FPT l TV360\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn chính: Lê Quý Giáp\n• Tổ chức sản xuất:  Hà Vân Anh, Dương Trang, Phạm Chiên\n• Biên tập tiền kỳ: Ngô Trang, Phương Pu, Tuấn Nghĩa, Thảo Nguyên, Thu Nguyên, \n• Biên tập hậu kỳ: Bùi Tiến Dũng, Thảo Nguyên, Thu Nguyên, Ngô Nghĩa, Tuấn Nghĩa, Tú Phương, Mai Hằng, Hà Phương, Lâm Vũ, Vân Anh\n• D.O.P: Đoàn Ngọc Ước, Mai Trùng Khánh\n• Quay phim: Thế Chiến; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Quang Huy; Hồng Phương; Thanh Tĩnh; Văn Sướng; Văn Quân; Văn Công; Hoàng Cường; Quốc Huy; Văn San; Văn Hoan; Văn Hạnh; Thái Ngân. \n• Kỹ thuật & Ánh sáng: Team Đỗ Duy Sỹ và Team Lê Minh \n• Âm thanh: Đoàn Xuân Lộc, Văn Tới, Văn Thành\n• Nhiếp Ảnh: Hùng Quách, Quốc Hùng, Văn Linh\n• Chịu trách nhiệm hậu kỳ: Thanh Tùng, Thanh Liêm\n• Quản lý thiết bị: Minh Tân, Tuấn Anh\n• Hỗ trợ sản xuất: Ngọc Hoàng; Văn Tuyên, Văn Kiên, Huy Hoàng, Việt Anh, Duy\n• Dựng phim: Phùng Thanh Tùng, Nguyễn Văn Hải, Diệp Đình Long\n• Đồ họa: Thế Lượng, Thanh Tùng, Ngọc Thảo, Đình Long\n• Phụ trách Truyền thông: Nguyễn Hằng, Nguyễn Nga\n• Truyền thông social: Trà Trang, Hoài Nguyễn, Tuấn Anh, Hà Phan\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#viettelmedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gothongtrenluadan",
+          "text": "#gothongtrenluadan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phuonganhdao",
+          "text": "#phuonganhdao"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thuytien",
+          "text": "#thuytien"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lizkimcuong",
+          "text": "#lizkimcuong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junvu",
+          "text": "#junvu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phao",
+          "text": "#phao"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/uyenan",
+          "text": "#uyenan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mie",
+          "text": "#mie"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/misthy",
+          "text": "#misthy"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 11,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57",
+      "isMonetized": null,
+      "hashtags": [
+        "#phao",
+        "#junvu",
+        "#uyenan"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57",
+      "isPaidContent": false
+    },
+    {
+      "title": "SAO NHẬP NGŨ 2024 TẬP 12 l Thùy Tiên & Uyển Ân BIẾN HÌNH lầy lội l Phương Anh Đào & Pháo ĐẠI CHIẾN",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "nyCOypwckKI",
+      "url": "https://www.youtube.com/watch?v=nyCOypwckKI&list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57&index=5",
+      "thumbnailUrl": "https://i.ytimg.com/vi/nyCOypwckKI/maxresdefault.jpg",
+      "viewCount": 1100166,
+      "date": "2024-10-22T14:30:06.000Z",
+      "likes": 9200,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "01:01:09",
+      "commentsCount": 434,
+      "text": "#saonhapngu #viettelmedia #gothongtrenluadan #phuonganhdao #thuytien #lizkimcuong #junvu #phao #uyenan #mie #misthy\n🔥 Sao Nhập Ngũ 2024 – Gót hồng trên lửa đạn\n8 nữ chiến sĩ, trải nghiệm trong môi trường đặc công với nhiều thử thách \"khó nhằn\", 8 bông hồng mong manh nhưng không dễ vỡ: Diễn viên Phương Anh Đào, Hoa hậu Thùy Tiên, diễn viên Jun Vũ (Vũ Phương Anh), Streamer Misthy (Lê Thy Ngọc), DJ - Diễn viên Mie (Trương Tiểu My), ca sĩ Liz Kim Cương; Diễn viên Uyển Ân, Rapper Pháo (Diệu Huyền)\n🔥 Đón xem \"Sao nhập ngũ\" - Gót hồng trên lửa đạn\nPhát sóng Thứ 3 hàng tuần từ ngày 06.08.2024 👇\n💓 07h55 Thứ 3 trên Kênh QPVN\n💓 21h10 Thứ 3 trên Kênh HTV7\n💓 21h30 Thứ 3 trên YOUTUBE l MOCHA l FPT l TV360\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn chính: Lê Quý Giáp\n• Tổ chức sản xuất:  Hà Vân Anh, Dương Trang, Phạm Chiên\n• Biên tập tiền kỳ: Ngô Trang, Phương Pu, Tuấn Nghĩa, Thảo Nguyên, Thu Nguyên, \n• Biên tập hậu kỳ: Bùi Tiến Dũng, Thảo Nguyên, Thu Nguyên, Ngô Nghĩa, Tuấn Nghĩa, Tú Phương, Mai Hằng, Hà Phương, Lâm Vũ, Vân Anh\n• D.O.P: Đoàn Ngọc Ước, Mai Trùng Khánh\n• Quay phim: Thế Chiến; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Quang Huy; Hồng Phương; Thanh Tĩnh; Văn Sướng; Văn Quân; Văn Công; Hoàng Cường; Quốc Huy; Văn San; Văn Hoan; Văn Hạnh; Thái Ngân. \n• Kỹ thuật & Ánh sáng: Team Đỗ Duy Sỹ và Team Lê Minh \n• Âm thanh: Đoàn Xuân Lộc, Văn Tới, Văn Thành\n• Nhiếp Ảnh: Hùng Quách, Quốc Hùng, Văn Linh\n• Chịu trách nhiệm hậu kỳ: Thanh Tùng, Thanh Liêm\n• Quản lý thiết bị: Minh Tân, Tuấn Anh\n• Hỗ trợ sản xuất: Ngọc Hoàng; Văn Tuyên, Văn Kiên, Huy Hoàng, Việt Anh, Duy\n• Dựng phim: Phùng Thanh Tùng, Nguyễn Văn Hải, Diệp Đình Long\n• Đồ họa: Thế Lượng, Thanh Tùng, Ngọc Thảo, Đình Long\n• Phụ trách Truyền thông: Nguyễn Hằng, Nguyễn Nga\n• Truyền thông social: Trà Trang, Hoài Nguyễn, Tuấn Anh, Hà Phan\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#viettelmedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gothongtrenluadan",
+          "text": "#gothongtrenluadan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phuonganhdao",
+          "text": "#phuonganhdao"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thuytien",
+          "text": "#thuytien"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lizkimcuong",
+          "text": "#lizkimcuong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junvu",
+          "text": "#junvu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phao",
+          "text": "#phao"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/uyenan",
+          "text": "#uyenan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mie",
+          "text": "#mie"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/misthy",
+          "text": "#misthy"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 4,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57",
+      "isPaidContent": false
+    }
+  ]
+}

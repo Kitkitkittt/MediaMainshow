@@ -88,7 +88,11 @@ def pending_sources(
         if tier is not None and int(show.get("tier", 0)) != tier:
             continue
         source = _canonical_source(season)
-        if source and source.get("url") not in observed:
+        if (
+            source
+            and source.get("extraction_status") != "actor_no_videos"
+            and source.get("url") not in observed
+        ):
             pending.append((show_id, season, source))
     return pending
 

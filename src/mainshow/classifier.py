@@ -33,7 +33,10 @@ def classify_video(
         None,
     )
     verified_numbered_episode = (
-        official_full_playlist and alias_match and episode_no is not None and duration_plausible
+        (official_channel or official_full_playlist)
+        and alias_match
+        and episode_no is not None
+        and duration_plausible
     )
     if matched_exclusion and not verified_numbered_episode:
         return Classification(

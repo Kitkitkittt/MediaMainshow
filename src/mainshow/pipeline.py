@@ -340,6 +340,8 @@ def build_pilot(
     )
     expected = season.get("expected_episode_count")
     episode_start = int(season.get("episode_number_start", 1))
+    observed_episode_span = max(episode_numbers, default=episode_start - 1) - episode_start + 1
+    missing_aired_episodes = max(observed_episode_span - len(set(episode_numbers)), 0)
     contiguous = episode_numbers == list(
         range(episode_start, max(episode_numbers, default=episode_start - 1) + 1)
     )
@@ -390,7 +392,13 @@ def build_pilot(
             "season_status": season["status"],
             "expected_episode_count": expected or "",
             "canonical_episode_count": len(canonical_rows),
-            "missing_episode_count": (expected - len(set(episode_numbers))) if expected else "",
+            "missing_episode_count": (
+                missing_aired_episodes
+                if is_airing
+                else (expected - len(set(episode_numbers)))
+                if expected
+                else ""
+            ),
             "total_views": sum(views) if publish_metrics else "",
             "average_views": round(statistics.mean(views), 2) if publish_metrics else "",
             "median_views": statistics.median(views) if publish_metrics else "",

@@ -75,6 +75,32 @@ def test_verified_numbered_episode_can_mention_concert_in_its_title() -> None:
     )
     assert result.decision == "INCLUDE"
     assert result.episode_no == 1
+
+
+def test_official_long_numbered_episode_can_mention_derivative_format() -> None:
+    result = classify_video(
+        candidate(
+            "TINH HÀ SAY HI TẬP 2: tranh đấu với 6 set quay Performance Video",
+            duration=15_128,
+        ),
+        {"aliases": ["Tinh Hà Say Hi"]},
+        EXCLUSIONS,
+        RULES,
+        official_channel=True,
+    )
+    assert result.decision == "INCLUDE"
+    assert result.episode_no == 2
+
+
+def test_short_official_highlight_remains_excluded() -> None:
+    result = classify_video(
+        candidate("Tinh Hà Say Hi Tập 2 Highlight", duration=600),
+        {"aliases": ["Tinh Hà Say Hi"]},
+        EXCLUSIONS,
+        RULES,
+        official_channel=True,
+    )
+    assert result.decision == "EXCLUDE"
     assert (
         classify_video(candidate("Anh Trai Say Hi | Official MV"), SHOW, EXCLUSIONS, RULES).decision
         == "EXCLUDE"

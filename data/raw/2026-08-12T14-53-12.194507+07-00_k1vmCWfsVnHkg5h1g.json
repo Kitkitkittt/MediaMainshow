@@ -1,0 +1,1848 @@
+{
+  "actor_name": "streamers/youtube-scraper",
+  "actor_run_id": "k1vmCWfsVnHkg5h1g",
+  "dataset_id": "tuFgYycDv7RqYd6lB",
+  "actor_build_id": "SUk0475fgtCh9zqMt",
+  "retrieved_at": "2026-08-12T14:53:12.194507+07:00",
+  "actor_input": {
+    "maxResults": 30,
+    "maxResultsShorts": 0,
+    "maxResultStreams": 0,
+    "startUrls": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd"
+      }
+    ],
+    "sourceBindingUrl": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd"
+  },
+  "run_metadata": {
+    "status": "SUCCEEDED",
+    "startedAt": "2026-08-12T07:52:11.682Z",
+    "finishedAt": "2026-08-12T07:53:07.206Z",
+    "usageTotalUsd": 0.076,
+    "chargedEventCounts": {
+      "result": 19,
+      "date-filter": 0,
+      "ai-video-description": 0,
+      "ai-video-summary": 0
+    }
+  },
+  "items": [
+    {
+      "title": "SÓNG 18: ĐÔNG NHI",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "RTE6kR2rufk",
+      "url": "https://www.youtube.com/watch?v=RTE6kR2rufk&list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd&index=18",
+      "thumbnailUrl": "https://i.ytimg.com/vi/RTE6kR2rufk/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgUyhHMA8=&rs=AOn4CLA0t6PlZWAq9e2xFD0Z9Fr55TIlDA",
+      "viewCount": 12665,
+      "date": "2018-02-15T01:00:00.000Z",
+      "likes": 143,
+      "location": null,
+      "channelName": "Vie Channel ",
+      "channelUrl": "https://www.youtube.com/@VieChannelOfficial",
+      "channelUsername": "VieChannelOfficial",
+      "collaborators": null,
+      "channelId": "UCkna2OcuN1E6u5I8GVtdkOw",
+      "numberOfSubscribers": 11500000,
+      "duration": "00:01:12",
+      "commentsCount": 11,
+      "text": "🎈CHƯƠNG TRÌNH TẾT 2018 - Xem trọn bộ Gala Hài Xuân 2018: https://goo.gl/Ujyy71 \n🍄CHƯƠNG TRÌNH TẾT 2018 - Xem trọn bộ Sóng 18: https://goo.gl/2JKvxP \n🎈Ấn để theo dõi HTV2:    / htv2channel  \n\nXem các chương trình phim - hài khác của HTV2:\n►Ai cũng bật cười Full: https://goo.gl/glS4sF\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG\n\nHoặc xem thêm trên hệ thống HTV2:\n►Website: http://htv2channel.vn/\n►Fanpage:   / htv2channel  \n►G+: https://goo.gl/izjFODĐăng ký để xem video mới: https://goo.gl/oDR7VP\n\nXem các chương trình phim - hài khác của HTV2:\n►Ai cũng bật cười Full: https://goo.gl/glS4sF\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG\n\nHoặc xem thêm trên hệ thống HTV2:\n►Website: http://htv2channel.vn/\n►Fanpage: https://www.fb.com/HTV2channel\n►G+: https://goo.gl/izjFOD",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://goo.gl/Ujyy71",
+          "text": "https://goo.gl/Ujyy71"
+        },
+        {
+          "url": "https://goo.gl/2JKvxP",
+          "text": "https://goo.gl/2JKvxP"
+        },
+        {
+          "url": "http://youtube.com/HTV2Channel",
+          "text": "   / htv2channel  "
+        },
+        {
+          "url": "https://goo.gl/glS4sF",
+          "text": "https://goo.gl/glS4sF"
+        },
+        {
+          "url": "https://goo.gl/c0Qw7H",
+          "text": "https://goo.gl/c0Qw7H"
+        },
+        {
+          "url": "https://goo.gl/UsYrQG",
+          "text": "https://goo.gl/UsYrQG"
+        },
+        {
+          "url": "http://htv2channel.vn/",
+          "text": "http://htv2channel.vn/"
+        },
+        {
+          "url": "https://www.facebook.com/HTV2channel",
+          "text": "  / htv2channel  "
+        },
+        {
+          "url": "https://goo.gl/izjFODĐăng",
+          "text": "https://goo.gl/izjFODĐăng"
+        },
+        {
+          "url": "https://goo.gl/oDR7VP",
+          "text": "https://goo.gl/oDR7VP"
+        },
+        {
+          "url": "https://goo.gl/glS4sF",
+          "text": "https://goo.gl/glS4sF"
+        },
+        {
+          "url": "https://goo.gl/c0Qw7H",
+          "text": "https://goo.gl/c0Qw7H"
+        },
+        {
+          "url": "https://goo.gl/UsYrQG",
+          "text": "https://goo.gl/UsYrQG"
+        },
+        {
+          "url": "http://htv2channel.vn/",
+          "text": "http://htv2channel.vn/"
+        },
+        {
+          "url": "https://www.fb.com/HTV2channel",
+          "text": "https://www.fb.com/HTV2channel"
+        },
+        {
+          "url": "https://goo.gl/izjFOD",
+          "text": "https://goo.gl/izjFOD"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 17,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd",
+      "isPaidContent": false
+    },
+    {
+      "title": "SÓNG 18: HƯƠNG TRÀM",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "CPsUmdS8Rx0",
+      "url": "https://www.youtube.com/watch?v=CPsUmdS8Rx0&list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd&index=17",
+      "thumbnailUrl": "https://i.ytimg.com/vi/CPsUmdS8Rx0/maxresdefault.jpg",
+      "viewCount": 7566,
+      "date": "2018-02-14T01:00:00.000Z",
+      "likes": 82,
+      "location": null,
+      "channelName": "Vie Channel ",
+      "channelUrl": "https://www.youtube.com/@VieChannelOfficial",
+      "channelUsername": "VieChannelOfficial",
+      "collaborators": null,
+      "channelId": "UCkna2OcuN1E6u5I8GVtdkOw",
+      "numberOfSubscribers": 11500000,
+      "duration": "00:01:03",
+      "commentsCount": 11,
+      "text": "🎈CHƯƠNG TRÌNH TẾT 2018 - Xem trọn bộ Gala Hài Xuân 2018: https://goo.gl/Ujyy71 \n🍄CHƯƠNG TRÌNH TẾT 2018 - Xem trọn bộ Sóng 18: https://goo.gl/2JKvxP \n🎈Ấn để theo dõi HTV2:    / htv2channel  \n\nXem các chương trình phim - hài khác của HTV2:\n►Ai cũng bật cười Full: https://goo.gl/glS4sF\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG\n\nHoặc xem thêm trên hệ thống HTV2:\n►Website: http://htv2channel.vn/\n►Fanpage:   / htv2channel  \n►G+: https://goo.gl/izjFODĐăng ký để xem video mới: https://goo.gl/oDR7VP\n\nXem các chương trình phim - hài khác của HTV2:\n►Ai cũng bật cười Full: https://goo.gl/glS4sF\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG\n\nHoặc xem thêm trên hệ thống HTV2:\n►Website: http://htv2channel.vn/\n►Fanpage: https://www.fb.com/HTV2channel\n►G+: https://goo.gl/izjFOD",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://goo.gl/Ujyy71",
+          "text": "https://goo.gl/Ujyy71"
+        },
+        {
+          "url": "https://goo.gl/2JKvxP",
+          "text": "https://goo.gl/2JKvxP"
+        },
+        {
+          "url": "http://youtube.com/HTV2Channel",
+          "text": "   / htv2channel  "
+        },
+        {
+          "url": "https://goo.gl/glS4sF",
+          "text": "https://goo.gl/glS4sF"
+        },
+        {
+          "url": "https://goo.gl/c0Qw7H",
+          "text": "https://goo.gl/c0Qw7H"
+        },
+        {
+          "url": "https://goo.gl/UsYrQG",
+          "text": "https://goo.gl/UsYrQG"
+        },
+        {
+          "url": "http://htv2channel.vn/",
+          "text": "http://htv2channel.vn/"
+        },
+        {
+          "url": "https://www.facebook.com/HTV2channel",
+          "text": "  / htv2channel  "
+        },
+        {
+          "url": "https://goo.gl/izjFODĐăng",
+          "text": "https://goo.gl/izjFODĐăng"
+        },
+        {
+          "url": "https://goo.gl/oDR7VP",
+          "text": "https://goo.gl/oDR7VP"
+        },
+        {
+          "url": "https://goo.gl/glS4sF",
+          "text": "https://goo.gl/glS4sF"
+        },
+        {
+          "url": "https://goo.gl/c0Qw7H",
+          "text": "https://goo.gl/c0Qw7H"
+        },
+        {
+          "url": "https://goo.gl/UsYrQG",
+          "text": "https://goo.gl/UsYrQG"
+        },
+        {
+          "url": "http://htv2channel.vn/",
+          "text": "http://htv2channel.vn/"
+        },
+        {
+          "url": "https://www.fb.com/HTV2channel",
+          "text": "https://www.fb.com/HTV2channel"
+        },
+        {
+          "url": "https://goo.gl/izjFOD",
+          "text": "https://goo.gl/izjFOD"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 16,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd",
+      "isPaidContent": false
+    },
+    {
+      "title": "SÓNG 18: SOOBIN HOÀNG SƠN VÀ LÊ HIẾU",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "TGh7SAazXHY",
+      "url": "https://www.youtube.com/watch?v=TGh7SAazXHY&list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd&index=11",
+      "thumbnailUrl": "https://i.ytimg.com/vi/TGh7SAazXHY/maxresdefault.jpg",
+      "viewCount": 19587,
+      "date": "2018-02-07T03:16:26.000Z",
+      "likes": 207,
+      "location": null,
+      "channelName": "Vie Channel ",
+      "channelUrl": "https://www.youtube.com/@VieChannelOfficial",
+      "channelUsername": "VieChannelOfficial",
+      "collaborators": null,
+      "channelId": "UCkna2OcuN1E6u5I8GVtdkOw",
+      "numberOfSubscribers": 11500000,
+      "duration": "00:01:15",
+      "commentsCount": 13,
+      "text": "🎈CHƯƠNG TRÌNH TẾT 2018 - Xem trọn bộ Gala Hài Xuân 2018: https://goo.gl/Ujyy71 \n🍄CHƯƠNG TRÌNH TẾT 2018 - Xem trọn bộ Sóng 18: https://goo.gl/2JKvxP \n🎈Ấn để theo dõi HTV2:    / htv2channel  \n\nXem các chương trình phim - hài khác của HTV2:\n►Ai cũng bật cười Full: https://goo.gl/glS4sF\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG\n\nHoặc xem thêm trên hệ thống HTV2:\n►Website: http://htv2channel.vn/\n►Fanpage:   / htv2channel  \n►G+: https://goo.gl/izjFODĐăng ký để xem video mới: https://goo.gl/oDR7VP\n\nXem các chương trình phim - hài khác của HTV2:\n►Ai cũng bật cười Full: https://goo.gl/glS4sF\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG\n\nHoặc xem thêm trên hệ thống HTV2:\n►Website: http://htv2channel.vn/\n►Fanpage: https://www.fb.com/HTV2channel\n►G+: https://goo.gl/izjFOD",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://goo.gl/Ujyy71",
+          "text": "https://goo.gl/Ujyy71"
+        },
+        {
+          "url": "https://goo.gl/2JKvxP",
+          "text": "https://goo.gl/2JKvxP"
+        },
+        {
+          "url": "http://youtube.com/HTV2Channel",
+          "text": "   / htv2channel  "
+        },
+        {
+          "url": "https://goo.gl/glS4sF",
+          "text": "https://goo.gl/glS4sF"
+        },
+        {
+          "url": "https://goo.gl/c0Qw7H",
+          "text": "https://goo.gl/c0Qw7H"
+        },
+        {
+          "url": "https://goo.gl/UsYrQG",
+          "text": "https://goo.gl/UsYrQG"
+        },
+        {
+          "url": "http://htv2channel.vn/",
+          "text": "http://htv2channel.vn/"
+        },
+        {
+          "url": "https://www.facebook.com/HTV2channel",
+          "text": "  / htv2channel  "
+        },
+        {
+          "url": "https://goo.gl/izjFODĐăng",
+          "text": "https://goo.gl/izjFODĐăng"
+        },
+        {
+          "url": "https://goo.gl/oDR7VP",
+          "text": "https://goo.gl/oDR7VP"
+        },
+        {
+          "url": "https://goo.gl/glS4sF",
+          "text": "https://goo.gl/glS4sF"
+        },
+        {
+          "url": "https://goo.gl/c0Qw7H",
+          "text": "https://goo.gl/c0Qw7H"
+        },
+        {
+          "url": "https://goo.gl/UsYrQG",
+          "text": "https://goo.gl/UsYrQG"
+        },
+        {
+          "url": "http://htv2channel.vn/",
+          "text": "http://htv2channel.vn/"
+        },
+        {
+          "url": "https://www.fb.com/HTV2channel",
+          "text": "https://www.fb.com/HTV2channel"
+        },
+        {
+          "url": "https://goo.gl/izjFOD",
+          "text": "https://goo.gl/izjFOD"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 10,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd",
+      "isPaidContent": false
+    },
+    {
+      "title": "Teaser Sóng 18 (Phát sóng 21:30 Đêm giao thừa - 15/2/2017)",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "hQOGH-SYg0Y",
+      "url": "https://www.youtube.com/watch?v=hQOGH-SYg0Y&list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd&index=14",
+      "thumbnailUrl": "https://i.ytimg.com/vi/hQOGH-SYg0Y/maxresdefault.jpg",
+      "viewCount": 20936,
+      "date": "2018-02-01T08:57:17.000Z",
+      "likes": 78,
+      "location": null,
+      "channelName": "Vie Channel ",
+      "channelUrl": "https://www.youtube.com/@VieChannelOfficial",
+      "channelUsername": "VieChannelOfficial",
+      "collaborators": null,
+      "channelId": "UCkna2OcuN1E6u5I8GVtdkOw",
+      "numberOfSubscribers": 11500000,
+      "duration": "00:00:29",
+      "commentsCount": 8,
+      "text": "🎈CHƯƠNG TRÌNH TẾT 2018 - Xem trọn bộ Gala Hài Xuân 2018: https://goo.gl/Ujyy71 \n🍄CHƯƠNG TRÌNH TẾT 2018 - Xem trọn bộ Sóng 18: https://goo.gl/2JKvxP \n🎈Ấn để theo dõi HTV2:    / htv2channel  \n\nXem các chương trình phim - hài khác của HTV2:\n►Ai cũng bật cười Full: https://goo.gl/glS4sF\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG\n\nHoặc xem thêm trên hệ thống HTV2:\n►Website: http://htv2channel.vn/\n►Fanpage:   / htv2channel  \n►G+: https://goo.gl/izjFODĐăng ký để xem video mới: https://goo.gl/oDR7VP\n\nXem các chương trình phim - hài khác của HTV2:\n►Ai cũng bật cười Full: https://goo.gl/glS4sF\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG\n\nHoặc xem thêm trên hệ thống HTV2:\n►Website: http://htv2channel.vn/\n►Fanpage: https://www.fb.com/HTV2channel\n►G+: https://goo.gl/izjFOD",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://goo.gl/Ujyy71",
+          "text": "https://goo.gl/Ujyy71"
+        },
+        {
+          "url": "https://goo.gl/2JKvxP",
+          "text": "https://goo.gl/2JKvxP"
+        },
+        {
+          "url": "http://youtube.com/HTV2Channel",
+          "text": "   / htv2channel  "
+        },
+        {
+          "url": "https://goo.gl/glS4sF",
+          "text": "https://goo.gl/glS4sF"
+        },
+        {
+          "url": "https://goo.gl/c0Qw7H",
+          "text": "https://goo.gl/c0Qw7H"
+        },
+        {
+          "url": "https://goo.gl/UsYrQG",
+          "text": "https://goo.gl/UsYrQG"
+        },
+        {
+          "url": "http://htv2channel.vn/",
+          "text": "http://htv2channel.vn/"
+        },
+        {
+          "url": "https://www.facebook.com/HTV2channel",
+          "text": "  / htv2channel  "
+        },
+        {
+          "url": "https://goo.gl/izjFODĐăng",
+          "text": "https://goo.gl/izjFODĐăng"
+        },
+        {
+          "url": "https://goo.gl/oDR7VP",
+          "text": "https://goo.gl/oDR7VP"
+        },
+        {
+          "url": "https://goo.gl/glS4sF",
+          "text": "https://goo.gl/glS4sF"
+        },
+        {
+          "url": "https://goo.gl/c0Qw7H",
+          "text": "https://goo.gl/c0Qw7H"
+        },
+        {
+          "url": "https://goo.gl/UsYrQG",
+          "text": "https://goo.gl/UsYrQG"
+        },
+        {
+          "url": "http://htv2channel.vn/",
+          "text": "http://htv2channel.vn/"
+        },
+        {
+          "url": "https://www.fb.com/HTV2channel",
+          "text": "https://www.fb.com/HTV2channel"
+        },
+        {
+          "url": "https://goo.gl/izjFOD",
+          "text": "https://goo.gl/izjFOD"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 13,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sóng 18: Ngôi sao của giới trẻ - Đông Nhi",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "KmmpJ0sacDQ",
+      "url": "https://www.youtube.com/watch?v=KmmpJ0sacDQ&list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd&index=12",
+      "thumbnailUrl": "https://i.ytimg.com/vi/KmmpJ0sacDQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgTShEMA8=&rs=AOn4CLBzcN9Le-aj-rTdg2ZX8kt66WpgwA",
+      "viewCount": 5557,
+      "date": "2018-02-06T10:28:07.000Z",
+      "likes": 94,
+      "location": null,
+      "channelName": "Vie Channel ",
+      "channelUrl": "https://www.youtube.com/@VieChannelOfficial",
+      "channelUsername": "VieChannelOfficial",
+      "collaborators": null,
+      "channelId": "UCkna2OcuN1E6u5I8GVtdkOw",
+      "numberOfSubscribers": 11500000,
+      "duration": "00:00:43",
+      "commentsCount": 13,
+      "text": "🎈CHƯƠNG TRÌNH TẾT 2018 - Xem trọn bộ Gala Hài Xuân 2018: https://goo.gl/Ujyy71 \n🍄CHƯƠNG TRÌNH TẾT 2018 - Xem trọn bộ Sóng 18: https://goo.gl/2JKvxP \n🎈Ấn để theo dõi HTV2:    / htv2channel  \n\nXem các chương trình phim - hài khác của HTV2:\n►Ai cũng bật cười Full: https://goo.gl/glS4sF\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG\n\nHoặc xem thêm trên hệ thống HTV2:\n►Website: http://htv2channel.vn/\n►Fanpage:   / htv2channel  \n►G+: https://goo.gl/izjFODĐăng ký để xem video mới: https://goo.gl/oDR7VP\n\nXem các chương trình phim - hài khác của HTV2:\n►Ai cũng bật cười Full: https://goo.gl/glS4sF\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG\n\nHoặc xem thêm trên hệ thống HTV2:\n►Website: http://htv2channel.vn/\n►Fanpage: https://www.fb.com/HTV2channel\n►G+: https://goo.gl/izjFOD",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://goo.gl/Ujyy71",
+          "text": "https://goo.gl/Ujyy71"
+        },
+        {
+          "url": "https://goo.gl/2JKvxP",
+          "text": "https://goo.gl/2JKvxP"
+        },
+        {
+          "url": "http://youtube.com/HTV2Channel",
+          "text": "   / htv2channel  "
+        },
+        {
+          "url": "https://goo.gl/glS4sF",
+          "text": "https://goo.gl/glS4sF"
+        },
+        {
+          "url": "https://goo.gl/c0Qw7H",
+          "text": "https://goo.gl/c0Qw7H"
+        },
+        {
+          "url": "https://goo.gl/UsYrQG",
+          "text": "https://goo.gl/UsYrQG"
+        },
+        {
+          "url": "http://htv2channel.vn/",
+          "text": "http://htv2channel.vn/"
+        },
+        {
+          "url": "https://www.facebook.com/HTV2channel",
+          "text": "  / htv2channel  "
+        },
+        {
+          "url": "https://goo.gl/izjFODĐăng",
+          "text": "https://goo.gl/izjFODĐăng"
+        },
+        {
+          "url": "https://goo.gl/oDR7VP",
+          "text": "https://goo.gl/oDR7VP"
+        },
+        {
+          "url": "https://goo.gl/glS4sF",
+          "text": "https://goo.gl/glS4sF"
+        },
+        {
+          "url": "https://goo.gl/c0Qw7H",
+          "text": "https://goo.gl/c0Qw7H"
+        },
+        {
+          "url": "https://goo.gl/UsYrQG",
+          "text": "https://goo.gl/UsYrQG"
+        },
+        {
+          "url": "http://htv2channel.vn/",
+          "text": "http://htv2channel.vn/"
+        },
+        {
+          "url": "https://www.fb.com/HTV2channel",
+          "text": "https://www.fb.com/HTV2channel"
+        },
+        {
+          "url": "https://goo.gl/izjFOD",
+          "text": "https://goo.gl/izjFOD"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 11,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd",
+      "isPaidContent": false
+    },
+    {
+      "title": "Trailer Khám phá Malaysia cùng Martin Yan - Phần 2 (Phát sóng 18:30 Chủ nhật, từ 17/12/2017)",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "ztQ5KM0MLwI",
+      "url": "https://www.youtube.com/watch?v=ztQ5KM0MLwI&list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd&index=19",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ztQ5KM0MLwI/maxresdefault.jpg",
+      "viewCount": 5397,
+      "date": "2017-12-11T02:12:33.000Z",
+      "likes": 7,
+      "location": null,
+      "channelName": "Vie Channel ",
+      "channelUrl": "https://www.youtube.com/@VieChannelOfficial",
+      "channelUsername": "VieChannelOfficial",
+      "collaborators": null,
+      "channelId": "UCkna2OcuN1E6u5I8GVtdkOw",
+      "numberOfSubscribers": 11500000,
+      "duration": "00:01:12",
+      "commentsCount": 0,
+      "text": "Đăng ký để xem video mới: https://goo.gl/oDR7VP\n\nXem các chương trình phim - hài khác của HTV2:\n►Ai cũng bật cười Full: https://goo.gl/glS4sF\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG\n\nHoặc xem thêm trên hệ thống HTV2:\n►Website: http://htv2channel.vn/\n►Fanpage: https://www.fb.com/HTV2channel\n►G+: https://goo.gl/izjFOD",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://goo.gl/oDR7VP",
+          "text": "https://goo.gl/oDR7VP"
+        },
+        {
+          "url": "https://goo.gl/glS4sF",
+          "text": "https://goo.gl/glS4sF"
+        },
+        {
+          "url": "https://goo.gl/c0Qw7H",
+          "text": "https://goo.gl/c0Qw7H"
+        },
+        {
+          "url": "https://goo.gl/UsYrQG",
+          "text": "https://goo.gl/UsYrQG"
+        },
+        {
+          "url": "http://htv2channel.vn/",
+          "text": "http://htv2channel.vn/"
+        },
+        {
+          "url": "https://www.fb.com/HTV2channel",
+          "text": "https://www.fb.com/HTV2channel"
+        },
+        {
+          "url": "https://goo.gl/izjFOD",
+          "text": "https://goo.gl/izjFOD"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 18,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sóng 18: Châu Đăng Khoa",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "90PY5Sb3Ox8",
+      "url": "https://www.youtube.com/watch?v=90PY5Sb3Ox8&list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd&index=7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/90PY5Sb3Ox8/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgTigqMA8=&rs=AOn4CLB7SYJdMMfHRdR8qqUE2rGjcZn3WA",
+      "viewCount": 6114,
+      "date": "2018-02-10T01:00:00.000Z",
+      "likes": 47,
+      "location": null,
+      "channelName": "Vie Channel ",
+      "channelUrl": "https://www.youtube.com/@VieChannelOfficial",
+      "channelUsername": "VieChannelOfficial",
+      "collaborators": null,
+      "channelId": "UCkna2OcuN1E6u5I8GVtdkOw",
+      "numberOfSubscribers": 11500000,
+      "duration": "00:01:45",
+      "commentsCount": 3,
+      "text": "🎈CHƯƠNG TRÌNH TẾT 2018 - Xem trọn bộ Gala Hài Xuân 2018: https://goo.gl/Ujyy71 \n🍄CHƯƠNG TRÌNH TẾT 2018 - Xem trọn bộ Sóng 18: https://goo.gl/2JKvxP \n🎈Ấn để theo dõi HTV2:    / htv2channel  \n\nXem các chương trình phim - hài khác của HTV2:\n►Ai cũng bật cười Full: https://goo.gl/glS4sF\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG\n\nHoặc xem thêm trên hệ thống HTV2:\n►Website: http://htv2channel.vn/\n►Fanpage:   / htv2channel  \n►G+: https://goo.gl/izjFODĐăng ký để xem video mới: https://goo.gl/oDR7VP\n\nXem các chương trình phim - hài khác của HTV2:\n►Ai cũng bật cười Full: https://goo.gl/glS4sF\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG\n\nHoặc xem thêm trên hệ thống HTV2:\n►Website: http://htv2channel.vn/\n►Fanpage: https://www.fb.com/HTV2channel\n►G+: https://goo.gl/izjFOD",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://goo.gl/Ujyy71",
+          "text": "https://goo.gl/Ujyy71"
+        },
+        {
+          "url": "https://goo.gl/2JKvxP",
+          "text": "https://goo.gl/2JKvxP"
+        },
+        {
+          "url": "http://youtube.com/HTV2Channel",
+          "text": "   / htv2channel  "
+        },
+        {
+          "url": "https://goo.gl/glS4sF",
+          "text": "https://goo.gl/glS4sF"
+        },
+        {
+          "url": "https://goo.gl/c0Qw7H",
+          "text": "https://goo.gl/c0Qw7H"
+        },
+        {
+          "url": "https://goo.gl/UsYrQG",
+          "text": "https://goo.gl/UsYrQG"
+        },
+        {
+          "url": "http://htv2channel.vn/",
+          "text": "http://htv2channel.vn/"
+        },
+        {
+          "url": "https://www.facebook.com/HTV2channel",
+          "text": "  / htv2channel  "
+        },
+        {
+          "url": "https://goo.gl/izjFODĐăng",
+          "text": "https://goo.gl/izjFODĐăng"
+        },
+        {
+          "url": "https://goo.gl/oDR7VP",
+          "text": "https://goo.gl/oDR7VP"
+        },
+        {
+          "url": "https://goo.gl/glS4sF",
+          "text": "https://goo.gl/glS4sF"
+        },
+        {
+          "url": "https://goo.gl/c0Qw7H",
+          "text": "https://goo.gl/c0Qw7H"
+        },
+        {
+          "url": "https://goo.gl/UsYrQG",
+          "text": "https://goo.gl/UsYrQG"
+        },
+        {
+          "url": "http://htv2channel.vn/",
+          "text": "http://htv2channel.vn/"
+        },
+        {
+          "url": "https://www.fb.com/HTV2channel",
+          "text": "https://www.fb.com/HTV2channel"
+        },
+        {
+          "url": "https://goo.gl/izjFOD",
+          "text": "https://goo.gl/izjFOD"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 6,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd",
+      "isPaidContent": false
+    },
+    {
+      "title": "Suni Hạ Linh - Thần tượng đa tài của giới trẻ",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "iZRvAxgVwNg",
+      "url": "https://www.youtube.com/watch?v=iZRvAxgVwNg&list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd&index=9",
+      "thumbnailUrl": "https://i.ytimg.com/vi/iZRvAxgVwNg/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDggRih_MA8=&rs=AOn4CLCWZfbuPwnQBRrL5TvNCBd3P_Afgg",
+      "viewCount": 8065,
+      "date": "2018-02-08T03:54:38.000Z",
+      "likes": 46,
+      "location": null,
+      "channelName": "Vie Channel ",
+      "channelUrl": "https://www.youtube.com/@VieChannelOfficial",
+      "channelUsername": "VieChannelOfficial",
+      "collaborators": null,
+      "channelId": "UCkna2OcuN1E6u5I8GVtdkOw",
+      "numberOfSubscribers": 11500000,
+      "duration": "00:00:38",
+      "commentsCount": 7,
+      "text": "Đăng ký để xem video mới: https://goo.gl/oDR7VP\n\nXem các chương trình phim - hài khác của HTV2:\n►Ai cũng bật cười Full: https://goo.gl/glS4sF\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG\n\nHoặc xem thêm trên hệ thống HTV2:\n►Website: http://htv2channel.vn/\n►Fanpage: https://www.fb.com/HTV2channel\n►G+: https://goo.gl/izjFOD",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://goo.gl/oDR7VP",
+          "text": "https://goo.gl/oDR7VP"
+        },
+        {
+          "url": "https://goo.gl/glS4sF",
+          "text": "https://goo.gl/glS4sF"
+        },
+        {
+          "url": "https://goo.gl/c0Qw7H",
+          "text": "https://goo.gl/c0Qw7H"
+        },
+        {
+          "url": "https://goo.gl/UsYrQG",
+          "text": "https://goo.gl/UsYrQG"
+        },
+        {
+          "url": "http://htv2channel.vn/",
+          "text": "http://htv2channel.vn/"
+        },
+        {
+          "url": "https://www.fb.com/HTV2channel",
+          "text": "https://www.fb.com/HTV2channel"
+        },
+        {
+          "url": "https://goo.gl/izjFOD",
+          "text": "https://goo.gl/izjFOD"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 8,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sóng 18: Rapper \"quốc dân\" - Karik",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "RmO6VPboXZw",
+      "url": "https://www.youtube.com/watch?v=RmO6VPboXZw&list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd&index=2",
+      "thumbnailUrl": "https://i.ytimg.com/vi/RmO6VPboXZw/maxresdefault.jpg",
+      "viewCount": 13494,
+      "date": "2018-02-06T10:28:54.000Z",
+      "likes": 106,
+      "location": null,
+      "channelName": "Vie Channel ",
+      "channelUrl": "https://www.youtube.com/@VieChannelOfficial",
+      "channelUsername": "VieChannelOfficial",
+      "collaborators": null,
+      "channelId": "UCkna2OcuN1E6u5I8GVtdkOw",
+      "numberOfSubscribers": 11500000,
+      "duration": "00:00:45",
+      "commentsCount": 4,
+      "text": "🎈CHƯƠNG TRÌNH TẾT 2018 - Xem trọn bộ Gala Hài Xuân 2018: https://goo.gl/Ujyy71 \n🍄CHƯƠNG TRÌNH TẾT 2018 - Xem trọn bộ Sóng 18: https://goo.gl/2JKvxP \n🎈Ấn để theo dõi HTV2:    / htv2channel  \n\nXem các chương trình phim - hài khác của HTV2:\n►Ai cũng bật cười Full: https://goo.gl/glS4sF\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG\n\nHoặc xem thêm trên hệ thống HTV2:\n►Website: http://htv2channel.vn/\n►Fanpage:   / htv2channel  \n►G+: https://goo.gl/izjFODĐăng ký để xem video mới: https://goo.gl/oDR7VP\n\nXem các chương trình phim - hài khác của HTV2:\n►Ai cũng bật cười Full: https://goo.gl/glS4sF\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG\n\nHoặc xem thêm trên hệ thống HTV2:\n►Website: http://htv2channel.vn/\n►Fanpage: https://www.fb.com/HTV2channel\n►G+: https://goo.gl/izjFOD",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://goo.gl/Ujyy71",
+          "text": "https://goo.gl/Ujyy71"
+        },
+        {
+          "url": "https://goo.gl/2JKvxP",
+          "text": "https://goo.gl/2JKvxP"
+        },
+        {
+          "url": "http://youtube.com/HTV2Channel",
+          "text": "   / htv2channel  "
+        },
+        {
+          "url": "https://goo.gl/glS4sF",
+          "text": "https://goo.gl/glS4sF"
+        },
+        {
+          "url": "https://goo.gl/c0Qw7H",
+          "text": "https://goo.gl/c0Qw7H"
+        },
+        {
+          "url": "https://goo.gl/UsYrQG",
+          "text": "https://goo.gl/UsYrQG"
+        },
+        {
+          "url": "http://htv2channel.vn/",
+          "text": "http://htv2channel.vn/"
+        },
+        {
+          "url": "https://www.facebook.com/HTV2channel",
+          "text": "  / htv2channel  "
+        },
+        {
+          "url": "https://goo.gl/izjFODĐăng",
+          "text": "https://goo.gl/izjFODĐăng"
+        },
+        {
+          "url": "https://goo.gl/oDR7VP",
+          "text": "https://goo.gl/oDR7VP"
+        },
+        {
+          "url": "https://goo.gl/glS4sF",
+          "text": "https://goo.gl/glS4sF"
+        },
+        {
+          "url": "https://goo.gl/c0Qw7H",
+          "text": "https://goo.gl/c0Qw7H"
+        },
+        {
+          "url": "https://goo.gl/UsYrQG",
+          "text": "https://goo.gl/UsYrQG"
+        },
+        {
+          "url": "http://htv2channel.vn/",
+          "text": "http://htv2channel.vn/"
+        },
+        {
+          "url": "https://www.fb.com/HTV2channel",
+          "text": "https://www.fb.com/HTV2channel"
+        },
+        {
+          "url": "https://goo.gl/izjFOD",
+          "text": "https://goo.gl/izjFOD"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 1,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sóng 18: Suni Hạ Linh",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "12xVELNd4Zo",
+      "url": "https://www.youtube.com/watch?v=12xVELNd4Zo&list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd&index=5",
+      "thumbnailUrl": "https://i.ytimg.com/vi/12xVELNd4Zo/maxresdefault.jpg",
+      "viewCount": 13210,
+      "date": "2018-02-11T01:00:01.000Z",
+      "likes": 104,
+      "location": null,
+      "channelName": "Vie Channel ",
+      "channelUrl": "https://www.youtube.com/@VieChannelOfficial",
+      "channelUsername": "VieChannelOfficial",
+      "collaborators": null,
+      "channelId": "UCkna2OcuN1E6u5I8GVtdkOw",
+      "numberOfSubscribers": 11500000,
+      "duration": "00:02:03",
+      "commentsCount": 12,
+      "text": "🎈CHƯƠNG TRÌNH TẾT 2018 - Xem trọn bộ Gala Hài Xuân 2018: https://goo.gl/Ujyy71 \n🍄CHƯƠNG TRÌNH TẾT 2018 - Xem trọn bộ Sóng 18: https://goo.gl/2JKvxP \n🎈Ấn để theo dõi HTV2:    / htv2channel  \n\nXem các chương trình phim - hài khác của HTV2:\n►Ai cũng bật cười Full: https://goo.gl/glS4sF\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG\n\nHoặc xem thêm trên hệ thống HTV2:\n►Website: http://htv2channel.vn/\n►Fanpage:   / htv2channel  \n►G+: https://goo.gl/izjFODĐăng ký để xem video mới: https://goo.gl/oDR7VP\n\nXem các chương trình phim - hài khác của HTV2:\n►Ai cũng bật cười Full: https://goo.gl/glS4sF\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG\n\nHoặc xem thêm trên hệ thống HTV2:\n►Website: http://htv2channel.vn/\n►Fanpage: https://www.fb.com/HTV2channel\n►G+: https://goo.gl/izjFOD",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://goo.gl/Ujyy71",
+          "text": "https://goo.gl/Ujyy71"
+        },
+        {
+          "url": "https://goo.gl/2JKvxP",
+          "text": "https://goo.gl/2JKvxP"
+        },
+        {
+          "url": "http://youtube.com/HTV2Channel",
+          "text": "   / htv2channel  "
+        },
+        {
+          "url": "https://goo.gl/glS4sF",
+          "text": "https://goo.gl/glS4sF"
+        },
+        {
+          "url": "https://goo.gl/c0Qw7H",
+          "text": "https://goo.gl/c0Qw7H"
+        },
+        {
+          "url": "https://goo.gl/UsYrQG",
+          "text": "https://goo.gl/UsYrQG"
+        },
+        {
+          "url": "http://htv2channel.vn/",
+          "text": "http://htv2channel.vn/"
+        },
+        {
+          "url": "https://www.facebook.com/HTV2channel",
+          "text": "  / htv2channel  "
+        },
+        {
+          "url": "https://goo.gl/izjFODĐăng",
+          "text": "https://goo.gl/izjFODĐăng"
+        },
+        {
+          "url": "https://goo.gl/oDR7VP",
+          "text": "https://goo.gl/oDR7VP"
+        },
+        {
+          "url": "https://goo.gl/glS4sF",
+          "text": "https://goo.gl/glS4sF"
+        },
+        {
+          "url": "https://goo.gl/c0Qw7H",
+          "text": "https://goo.gl/c0Qw7H"
+        },
+        {
+          "url": "https://goo.gl/UsYrQG",
+          "text": "https://goo.gl/UsYrQG"
+        },
+        {
+          "url": "http://htv2channel.vn/",
+          "text": "http://htv2channel.vn/"
+        },
+        {
+          "url": "https://www.fb.com/HTV2channel",
+          "text": "https://www.fb.com/HTV2channel"
+        },
+        {
+          "url": "https://goo.gl/izjFOD",
+          "text": "https://goo.gl/izjFOD"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 4,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd",
+      "isPaidContent": false
+    },
+    {
+      "title": "SÓNG 18: KARIK",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "N35K-SRhZQ4",
+      "url": "https://www.youtube.com/watch?v=N35K-SRhZQ4&list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd&index=16",
+      "thumbnailUrl": "https://i.ytimg.com/vi/N35K-SRhZQ4/maxresdefault.jpg",
+      "viewCount": 10442,
+      "date": "2018-02-13T01:00:01.000Z",
+      "likes": 148,
+      "location": null,
+      "channelName": "Vie Channel ",
+      "channelUrl": "https://www.youtube.com/@VieChannelOfficial",
+      "channelUsername": "VieChannelOfficial",
+      "collaborators": null,
+      "channelId": "UCkna2OcuN1E6u5I8GVtdkOw",
+      "numberOfSubscribers": 11500000,
+      "duration": "00:01:50",
+      "commentsCount": 7,
+      "text": "🎈CHƯƠNG TRÌNH TẾT 2018 - Xem trọn bộ Gala Hài Xuân 2018: https://goo.gl/Ujyy71 \n🍄CHƯƠNG TRÌNH TẾT 2018 - Xem trọn bộ Sóng 18: https://goo.gl/2JKvxP \n🎈Ấn để theo dõi HTV2:    / htv2channel  \n\nXem các chương trình phim - hài khác của HTV2:\n►Ai cũng bật cười Full: https://goo.gl/glS4sF\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG\n\nHoặc xem thêm trên hệ thống HTV2:\n►Website: http://htv2channel.vn/\n►Fanpage:   / htv2channel  \n►G+: https://goo.gl/izjFODĐăng ký để xem video mới: https://goo.gl/oDR7VP\n\nXem các chương trình phim - hài khác của HTV2:\n►Ai cũng bật cười Full: https://goo.gl/glS4sF\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG\n\nHoặc xem thêm trên hệ thống HTV2:\n►Website: http://htv2channel.vn/\n►Fanpage: https://www.fb.com/HTV2channel\n►G+: https://goo.gl/izjFOD",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://goo.gl/Ujyy71",
+          "text": "https://goo.gl/Ujyy71"
+        },
+        {
+          "url": "https://goo.gl/2JKvxP",
+          "text": "https://goo.gl/2JKvxP"
+        },
+        {
+          "url": "http://youtube.com/HTV2Channel",
+          "text": "   / htv2channel  "
+        },
+        {
+          "url": "https://goo.gl/glS4sF",
+          "text": "https://goo.gl/glS4sF"
+        },
+        {
+          "url": "https://goo.gl/c0Qw7H",
+          "text": "https://goo.gl/c0Qw7H"
+        },
+        {
+          "url": "https://goo.gl/UsYrQG",
+          "text": "https://goo.gl/UsYrQG"
+        },
+        {
+          "url": "http://htv2channel.vn/",
+          "text": "http://htv2channel.vn/"
+        },
+        {
+          "url": "https://www.facebook.com/HTV2channel",
+          "text": "  / htv2channel  "
+        },
+        {
+          "url": "https://goo.gl/izjFODĐăng",
+          "text": "https://goo.gl/izjFODĐăng"
+        },
+        {
+          "url": "https://goo.gl/oDR7VP",
+          "text": "https://goo.gl/oDR7VP"
+        },
+        {
+          "url": "https://goo.gl/glS4sF",
+          "text": "https://goo.gl/glS4sF"
+        },
+        {
+          "url": "https://goo.gl/c0Qw7H",
+          "text": "https://goo.gl/c0Qw7H"
+        },
+        {
+          "url": "https://goo.gl/UsYrQG",
+          "text": "https://goo.gl/UsYrQG"
+        },
+        {
+          "url": "http://htv2channel.vn/",
+          "text": "http://htv2channel.vn/"
+        },
+        {
+          "url": "https://www.fb.com/HTV2channel",
+          "text": "https://www.fb.com/HTV2channel"
+        },
+        {
+          "url": "https://goo.gl/izjFOD",
+          "text": "https://goo.gl/izjFOD"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 15,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sóng 18: Hiện tượng 2017 - BẢO ANH",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "VDXYN0g38fc",
+      "url": "https://www.youtube.com/watch?v=VDXYN0g38fc&list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd&index=1",
+      "thumbnailUrl": "https://i.ytimg.com/vi/VDXYN0g38fc/hqdefault.jpg",
+      "viewCount": 17948,
+      "date": "2018-02-05T03:10:39.000Z",
+      "likes": 95,
+      "location": null,
+      "channelName": "Vie Channel ",
+      "channelUrl": "https://www.youtube.com/@VieChannelOfficial",
+      "channelUsername": "VieChannelOfficial",
+      "collaborators": null,
+      "channelId": "UCkna2OcuN1E6u5I8GVtdkOw",
+      "numberOfSubscribers": 11500000,
+      "duration": "00:00:40",
+      "commentsCount": 5,
+      "text": "🎈CHƯƠNG TRÌNH TẾT 2018 - Xem trọn bộ Gala Hài Xuân 2018: https://goo.gl/Ujyy71 \n🍄CHƯƠNG TRÌNH TẾT 2018 - Xem trọn bộ Sóng 18: https://goo.gl/2JKvxP \n🎈Ấn để theo dõi HTV2:    / htv2channel  \n\nXem các chương trình phim - hài khác của HTV2:\n►Ai cũng bật cười Full: https://goo.gl/glS4sF\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG\n\nHoặc xem thêm trên hệ thống HTV2:\n►Website: http://htv2channel.vn/\n►Fanpage:   / htv2channel  \n►G+: https://goo.gl/izjFODĐăng ký để xem video mới: https://goo.gl/oDR7VP\n\nXem các chương trình phim - hài khác của HTV2:\n►Ai cũng bật cười Full: https://goo.gl/glS4sF\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG\n\nHoặc xem thêm trên hệ thống HTV2:\n►Website: http://htv2channel.vn/\n►Fanpage: https://www.fb.com/HTV2channel\n►G+: https://goo.gl/izjFOD",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://goo.gl/Ujyy71",
+          "text": "https://goo.gl/Ujyy71"
+        },
+        {
+          "url": "https://goo.gl/2JKvxP",
+          "text": "https://goo.gl/2JKvxP"
+        },
+        {
+          "url": "http://youtube.com/HTV2Channel",
+          "text": "   / htv2channel  "
+        },
+        {
+          "url": "https://goo.gl/glS4sF",
+          "text": "https://goo.gl/glS4sF"
+        },
+        {
+          "url": "https://goo.gl/c0Qw7H",
+          "text": "https://goo.gl/c0Qw7H"
+        },
+        {
+          "url": "https://goo.gl/UsYrQG",
+          "text": "https://goo.gl/UsYrQG"
+        },
+        {
+          "url": "http://htv2channel.vn/",
+          "text": "http://htv2channel.vn/"
+        },
+        {
+          "url": "https://www.facebook.com/HTV2channel",
+          "text": "  / htv2channel  "
+        },
+        {
+          "url": "https://goo.gl/izjFODĐăng",
+          "text": "https://goo.gl/izjFODĐăng"
+        },
+        {
+          "url": "https://goo.gl/oDR7VP",
+          "text": "https://goo.gl/oDR7VP"
+        },
+        {
+          "url": "https://goo.gl/glS4sF",
+          "text": "https://goo.gl/glS4sF"
+        },
+        {
+          "url": "https://goo.gl/c0Qw7H",
+          "text": "https://goo.gl/c0Qw7H"
+        },
+        {
+          "url": "https://goo.gl/UsYrQG",
+          "text": "https://goo.gl/UsYrQG"
+        },
+        {
+          "url": "http://htv2channel.vn/",
+          "text": "http://htv2channel.vn/"
+        },
+        {
+          "url": "https://www.fb.com/HTV2channel",
+          "text": "https://www.fb.com/HTV2channel"
+        },
+        {
+          "url": "https://goo.gl/izjFOD",
+          "text": "https://goo.gl/izjFOD"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 0,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd",
+      "isPaidContent": false
+    },
+    {
+      "title": "Trailer Sóng 18 (Phát sóng 21:30 Đêm giao thừa)",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "3MikVPTV2n0",
+      "url": "https://www.youtube.com/watch?v=3MikVPTV2n0&list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd&index=4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/3MikVPTV2n0/hqdefault.jpg",
+      "viewCount": 27953,
+      "date": "2018-02-10T09:20:55.000Z",
+      "likes": 136,
+      "location": null,
+      "channelName": "Vie Channel ",
+      "channelUrl": "https://www.youtube.com/@VieChannelOfficial",
+      "channelUsername": "VieChannelOfficial",
+      "collaborators": null,
+      "channelId": "UCkna2OcuN1E6u5I8GVtdkOw",
+      "numberOfSubscribers": 11500000,
+      "duration": "00:00:57",
+      "commentsCount": 5,
+      "text": "🎈CHƯƠNG TRÌNH TẾT 2018 - Xem trọn bộ Gala Hài Xuân 2018: https://goo.gl/Ujyy71 \n🍄CHƯƠNG TRÌNH TẾT 2018 - Xem trọn bộ Sóng 18: https://goo.gl/2JKvxP \n🎈Ấn để theo dõi HTV2:    / htv2channel  \n\nXem các chương trình phim - hài khác của HTV2:\n►Ai cũng bật cười Full: https://goo.gl/glS4sF\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG\n\nHoặc xem thêm trên hệ thống HTV2:\n►Website: http://htv2channel.vn/\n►Fanpage:   / htv2channel  \n►G+: https://goo.gl/izjFODĐăng ký để xem video mới: https://goo.gl/oDR7VP\n\nXem các chương trình phim - hài khác của HTV2:\n►Ai cũng bật cười Full: https://goo.gl/glS4sF\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG\n\nHoặc xem thêm trên hệ thống HTV2:\n►Website: http://htv2channel.vn/\n►Fanpage: https://www.fb.com/HTV2channel\n►G+: https://goo.gl/izjFOD",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://goo.gl/Ujyy71",
+          "text": "https://goo.gl/Ujyy71"
+        },
+        {
+          "url": "https://goo.gl/2JKvxP",
+          "text": "https://goo.gl/2JKvxP"
+        },
+        {
+          "url": "http://youtube.com/HTV2Channel",
+          "text": "   / htv2channel  "
+        },
+        {
+          "url": "https://goo.gl/glS4sF",
+          "text": "https://goo.gl/glS4sF"
+        },
+        {
+          "url": "https://goo.gl/c0Qw7H",
+          "text": "https://goo.gl/c0Qw7H"
+        },
+        {
+          "url": "https://goo.gl/UsYrQG",
+          "text": "https://goo.gl/UsYrQG"
+        },
+        {
+          "url": "http://htv2channel.vn/",
+          "text": "http://htv2channel.vn/"
+        },
+        {
+          "url": "https://www.facebook.com/HTV2channel",
+          "text": "  / htv2channel  "
+        },
+        {
+          "url": "https://goo.gl/izjFODĐăng",
+          "text": "https://goo.gl/izjFODĐăng"
+        },
+        {
+          "url": "https://goo.gl/oDR7VP",
+          "text": "https://goo.gl/oDR7VP"
+        },
+        {
+          "url": "https://goo.gl/glS4sF",
+          "text": "https://goo.gl/glS4sF"
+        },
+        {
+          "url": "https://goo.gl/c0Qw7H",
+          "text": "https://goo.gl/c0Qw7H"
+        },
+        {
+          "url": "https://goo.gl/UsYrQG",
+          "text": "https://goo.gl/UsYrQG"
+        },
+        {
+          "url": "http://htv2channel.vn/",
+          "text": "http://htv2channel.vn/"
+        },
+        {
+          "url": "https://www.fb.com/HTV2channel",
+          "text": "https://www.fb.com/HTV2channel"
+        },
+        {
+          "url": "https://goo.gl/izjFOD",
+          "text": "https://goo.gl/izjFOD"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 3,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd",
+      "isPaidContent": false
+    },
+    {
+      "title": "SÓNG 18: DaLAB đại diện underground nổi bật",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "oJfXDYSMbCo",
+      "url": "https://www.youtube.com/watch?v=oJfXDYSMbCo&list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd&index=10",
+      "thumbnailUrl": "https://i.ytimg.com/vi/oJfXDYSMbCo/maxresdefault.jpg",
+      "viewCount": 3770,
+      "date": "2018-02-07T11:50:44.000Z",
+      "likes": 26,
+      "location": null,
+      "channelName": "Vie Channel ",
+      "channelUrl": "https://www.youtube.com/@VieChannelOfficial",
+      "channelUsername": "VieChannelOfficial",
+      "collaborators": null,
+      "channelId": "UCkna2OcuN1E6u5I8GVtdkOw",
+      "numberOfSubscribers": 11500000,
+      "duration": "00:00:44",
+      "commentsCount": 3,
+      "text": "🎈CHƯƠNG TRÌNH TẾT 2018 - Xem trọn bộ Gala Hài Xuân 2018: https://goo.gl/Ujyy71 \n🍄CHƯƠNG TRÌNH TẾT 2018 - Xem trọn bộ Sóng 18: https://goo.gl/2JKvxP \n🎈Ấn để theo dõi HTV2:    / htv2channel  \n\nXem các chương trình phim - hài khác của HTV2:\n►Ai cũng bật cười Full: https://goo.gl/glS4sF\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG\n\nHoặc xem thêm trên hệ thống HTV2:\n►Website: http://htv2channel.vn/\n►Fanpage:   / htv2channel  \n►G+: https://goo.gl/izjFODĐăng ký để xem video mới: https://goo.gl/oDR7VP\n\nXem các chương trình phim - hài khác của HTV2:\n►Ai cũng bật cười Full: https://goo.gl/glS4sF\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG\n\nHoặc xem thêm trên hệ thống HTV2:\n►Website: http://htv2channel.vn/\n►Fanpage: https://www.fb.com/HTV2channel\n►G+: https://goo.gl/izjFOD",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://goo.gl/Ujyy71",
+          "text": "https://goo.gl/Ujyy71"
+        },
+        {
+          "url": "https://goo.gl/2JKvxP",
+          "text": "https://goo.gl/2JKvxP"
+        },
+        {
+          "url": "http://youtube.com/HTV2Channel",
+          "text": "   / htv2channel  "
+        },
+        {
+          "url": "https://goo.gl/glS4sF",
+          "text": "https://goo.gl/glS4sF"
+        },
+        {
+          "url": "https://goo.gl/c0Qw7H",
+          "text": "https://goo.gl/c0Qw7H"
+        },
+        {
+          "url": "https://goo.gl/UsYrQG",
+          "text": "https://goo.gl/UsYrQG"
+        },
+        {
+          "url": "http://htv2channel.vn/",
+          "text": "http://htv2channel.vn/"
+        },
+        {
+          "url": "https://www.facebook.com/HTV2channel",
+          "text": "  / htv2channel  "
+        },
+        {
+          "url": "https://goo.gl/izjFODĐăng",
+          "text": "https://goo.gl/izjFODĐăng"
+        },
+        {
+          "url": "https://goo.gl/oDR7VP",
+          "text": "https://goo.gl/oDR7VP"
+        },
+        {
+          "url": "https://goo.gl/glS4sF",
+          "text": "https://goo.gl/glS4sF"
+        },
+        {
+          "url": "https://goo.gl/c0Qw7H",
+          "text": "https://goo.gl/c0Qw7H"
+        },
+        {
+          "url": "https://goo.gl/UsYrQG",
+          "text": "https://goo.gl/UsYrQG"
+        },
+        {
+          "url": "http://htv2channel.vn/",
+          "text": "http://htv2channel.vn/"
+        },
+        {
+          "url": "https://www.fb.com/HTV2channel",
+          "text": "https://www.fb.com/HTV2channel"
+        },
+        {
+          "url": "https://goo.gl/izjFOD",
+          "text": "https://goo.gl/izjFOD"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 9,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sóng 18: Châu Đăng Khoa - Chủ Nhân Loạt Hit Triệu View",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "14NSFBcIFtM",
+      "url": "https://www.youtube.com/watch?v=14NSFBcIFtM&list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd&index=3",
+      "thumbnailUrl": "https://i.ytimg.com/vi/14NSFBcIFtM/maxresdefault.jpg",
+      "viewCount": 37220,
+      "date": "2018-02-07T03:29:13.000Z",
+      "likes": 147,
+      "location": null,
+      "channelName": "Vie Channel ",
+      "channelUrl": "https://www.youtube.com/@VieChannelOfficial",
+      "channelUsername": "VieChannelOfficial",
+      "collaborators": null,
+      "channelId": "UCkna2OcuN1E6u5I8GVtdkOw",
+      "numberOfSubscribers": 11500000,
+      "duration": "00:00:38",
+      "commentsCount": 11,
+      "text": "❤️ Quốc Nghiệp kiện vợ ra tòa vì cự tuyệt việc âu yếm và... cắn.\n❤️ Phiên Tòa Tình Yêu tập 4 FULL: https://goo.gl/Ms9QnZ\n\n\n🎈CHƯƠNG TRÌNH TẾT 2018 - Xem trọn bộ Gala Hài Xuân 2018: https://goo.gl/Ujyy71 \n🍄CHƯƠNG TRÌNH TẾT 2018 - Xem trọn bộ Sóng 18: https://goo.gl/2JKvxP \n🎈Ấn để theo dõi HTV2:    / htv2channel  \n\nXem các chương trình phim - hài khác của HTV2:\n►Ai cũng bật cười Full: https://goo.gl/glS4sF\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG\n\nHoặc xem thêm trên hệ thống HTV2:\n►Website: http://htv2channel.vn/\n►Fanpage:   / htv2channel  \n►G+: https://goo.gl/izjFODĐăng ký để xem video mới: https://goo.gl/oDR7VP\n\nXem các chương trình phim - hài khác của HTV2:\n►Ai cũng bật cười Full: https://goo.gl/glS4sF\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG\n\nHoặc xem thêm trên hệ thống HTV2:\n►Website: http://htv2channel.vn/\n►Fanpage: https://www.fb.com/HTV2channel\n►G+: https://goo.gl/izjFOD",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://goo.gl/Ms9QnZ",
+          "text": "https://goo.gl/Ms9QnZ"
+        },
+        {
+          "url": "https://goo.gl/Ujyy71",
+          "text": "https://goo.gl/Ujyy71"
+        },
+        {
+          "url": "https://goo.gl/2JKvxP",
+          "text": "https://goo.gl/2JKvxP"
+        },
+        {
+          "url": "http://youtube.com/HTV2Channel",
+          "text": "   / htv2channel  "
+        },
+        {
+          "url": "https://goo.gl/glS4sF",
+          "text": "https://goo.gl/glS4sF"
+        },
+        {
+          "url": "https://goo.gl/c0Qw7H",
+          "text": "https://goo.gl/c0Qw7H"
+        },
+        {
+          "url": "https://goo.gl/UsYrQG",
+          "text": "https://goo.gl/UsYrQG"
+        },
+        {
+          "url": "http://htv2channel.vn/",
+          "text": "http://htv2channel.vn/"
+        },
+        {
+          "url": "https://www.facebook.com/HTV2channel",
+          "text": "  / htv2channel  "
+        },
+        {
+          "url": "https://goo.gl/izjFODĐăng",
+          "text": "https://goo.gl/izjFODĐăng"
+        },
+        {
+          "url": "https://goo.gl/oDR7VP",
+          "text": "https://goo.gl/oDR7VP"
+        },
+        {
+          "url": "https://goo.gl/glS4sF",
+          "text": "https://goo.gl/glS4sF"
+        },
+        {
+          "url": "https://goo.gl/c0Qw7H",
+          "text": "https://goo.gl/c0Qw7H"
+        },
+        {
+          "url": "https://goo.gl/UsYrQG",
+          "text": "https://goo.gl/UsYrQG"
+        },
+        {
+          "url": "http://htv2channel.vn/",
+          "text": "http://htv2channel.vn/"
+        },
+        {
+          "url": "https://www.fb.com/HTV2channel",
+          "text": "https://www.fb.com/HTV2channel"
+        },
+        {
+          "url": "https://goo.gl/izjFOD",
+          "text": "https://goo.gl/izjFOD"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 2,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd",
+      "isPaidContent": false
+    },
+    {
+      "title": "SÓNG 18: DA LAB",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "LgAimfVDq5w",
+      "url": "https://www.youtube.com/watch?v=LgAimfVDq5w&list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd&index=15",
+      "thumbnailUrl": "https://i.ytimg.com/vi/LgAimfVDq5w/maxresdefault.jpg",
+      "viewCount": 4072,
+      "date": "2018-02-12T01:00:00.000Z",
+      "likes": 41,
+      "location": null,
+      "channelName": "Vie Channel ",
+      "channelUrl": "https://www.youtube.com/@VieChannelOfficial",
+      "channelUsername": "VieChannelOfficial",
+      "collaborators": null,
+      "channelId": "UCkna2OcuN1E6u5I8GVtdkOw",
+      "numberOfSubscribers": 11500000,
+      "duration": "00:01:01",
+      "commentsCount": 2,
+      "text": "🎈CHƯƠNG TRÌNH TẾT 2018 - Xem trọn bộ Gala Hài Xuân 2018: https://goo.gl/Ujyy71 \n🍄CHƯƠNG TRÌNH TẾT 2018 - Xem trọn bộ Sóng 18: https://goo.gl/2JKvxP \n🎈Ấn để theo dõi HTV2:    / htv2channel  \n\nXem các chương trình phim - hài khác của HTV2:\n►Ai cũng bật cười Full: https://goo.gl/glS4sF\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG\n\nHoặc xem thêm trên hệ thống HTV2:\n►Website: http://htv2channel.vn/\n►Fanpage:   / htv2channel  \n►G+: https://goo.gl/izjFODĐăng ký để xem video mới: https://goo.gl/oDR7VP\n\nXem các chương trình phim - hài khác của HTV2:\n►Ai cũng bật cười Full: https://goo.gl/glS4sF\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG\n\nHoặc xem thêm trên hệ thống HTV2:\n►Website: http://htv2channel.vn/\n►Fanpage: https://www.fb.com/HTV2channel\n►G+: https://goo.gl/izjFOD",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://goo.gl/Ujyy71",
+          "text": "https://goo.gl/Ujyy71"
+        },
+        {
+          "url": "https://goo.gl/2JKvxP",
+          "text": "https://goo.gl/2JKvxP"
+        },
+        {
+          "url": "http://youtube.com/HTV2Channel",
+          "text": "   / htv2channel  "
+        },
+        {
+          "url": "https://goo.gl/glS4sF",
+          "text": "https://goo.gl/glS4sF"
+        },
+        {
+          "url": "https://goo.gl/c0Qw7H",
+          "text": "https://goo.gl/c0Qw7H"
+        },
+        {
+          "url": "https://goo.gl/UsYrQG",
+          "text": "https://goo.gl/UsYrQG"
+        },
+        {
+          "url": "http://htv2channel.vn/",
+          "text": "http://htv2channel.vn/"
+        },
+        {
+          "url": "https://www.facebook.com/HTV2channel",
+          "text": "  / htv2channel  "
+        },
+        {
+          "url": "https://goo.gl/izjFODĐăng",
+          "text": "https://goo.gl/izjFODĐăng"
+        },
+        {
+          "url": "https://goo.gl/oDR7VP",
+          "text": "https://goo.gl/oDR7VP"
+        },
+        {
+          "url": "https://goo.gl/glS4sF",
+          "text": "https://goo.gl/glS4sF"
+        },
+        {
+          "url": "https://goo.gl/c0Qw7H",
+          "text": "https://goo.gl/c0Qw7H"
+        },
+        {
+          "url": "https://goo.gl/UsYrQG",
+          "text": "https://goo.gl/UsYrQG"
+        },
+        {
+          "url": "http://htv2channel.vn/",
+          "text": "http://htv2channel.vn/"
+        },
+        {
+          "url": "https://www.fb.com/HTV2channel",
+          "text": "https://www.fb.com/HTV2channel"
+        },
+        {
+          "url": "https://goo.gl/izjFOD",
+          "text": "https://goo.gl/izjFOD"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 14,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sóng 18: Hương Tràm - Nữ ca sĩ trẻ hàng đầu VN",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "KdlOfv2-HY4",
+      "url": "https://www.youtube.com/watch?v=KdlOfv2-HY4&list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd&index=8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/KdlOfv2-HY4/maxresdefault.jpg",
+      "viewCount": 15890,
+      "date": "2018-02-09T02:03:19.000Z",
+      "likes": 137,
+      "location": null,
+      "channelName": "Vie Channel ",
+      "channelUrl": "https://www.youtube.com/@VieChannelOfficial",
+      "channelUsername": "VieChannelOfficial",
+      "collaborators": null,
+      "channelId": "UCkna2OcuN1E6u5I8GVtdkOw",
+      "numberOfSubscribers": 11500000,
+      "duration": "00:00:41",
+      "commentsCount": 42,
+      "text": "🎈CHƯƠNG TRÌNH TẾT 2018 - Xem trọn bộ Gala Hài Xuân 2018: https://goo.gl/Ujyy71 \n🍄CHƯƠNG TRÌNH TẾT 2018 - Xem trọn bộ Sóng 18: https://goo.gl/2JKvxP \n🎈Ấn để theo dõi HTV2:    / htv2channel  \n\nXem các chương trình phim - hài khác của HTV2:\n►Ai cũng bật cười Full: https://goo.gl/glS4sF\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG\n\nHoặc xem thêm trên hệ thống HTV2:\n►Website: http://htv2channel.vn/\n►Fanpage:   / htv2channel  \n►G+: https://goo.gl/izjFODĐăng ký để xem video mới: https://goo.gl/oDR7VP\n\nXem các chương trình phim - hài khác của HTV2:\n►Ai cũng bật cười Full: https://goo.gl/glS4sF\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG\n\nHoặc xem thêm trên hệ thống HTV2:\n►Website: http://htv2channel.vn/\n►Fanpage: https://www.fb.com/HTV2channel\n►G+: https://goo.gl/izjFOD",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://goo.gl/Ujyy71",
+          "text": "https://goo.gl/Ujyy71"
+        },
+        {
+          "url": "https://goo.gl/2JKvxP",
+          "text": "https://goo.gl/2JKvxP"
+        },
+        {
+          "url": "http://youtube.com/HTV2Channel",
+          "text": "   / htv2channel  "
+        },
+        {
+          "url": "https://goo.gl/glS4sF",
+          "text": "https://goo.gl/glS4sF"
+        },
+        {
+          "url": "https://goo.gl/c0Qw7H",
+          "text": "https://goo.gl/c0Qw7H"
+        },
+        {
+          "url": "https://goo.gl/UsYrQG",
+          "text": "https://goo.gl/UsYrQG"
+        },
+        {
+          "url": "http://htv2channel.vn/",
+          "text": "http://htv2channel.vn/"
+        },
+        {
+          "url": "https://www.facebook.com/HTV2channel",
+          "text": "  / htv2channel  "
+        },
+        {
+          "url": "https://goo.gl/izjFODĐăng",
+          "text": "https://goo.gl/izjFODĐăng"
+        },
+        {
+          "url": "https://goo.gl/oDR7VP",
+          "text": "https://goo.gl/oDR7VP"
+        },
+        {
+          "url": "https://goo.gl/glS4sF",
+          "text": "https://goo.gl/glS4sF"
+        },
+        {
+          "url": "https://goo.gl/c0Qw7H",
+          "text": "https://goo.gl/c0Qw7H"
+        },
+        {
+          "url": "https://goo.gl/UsYrQG",
+          "text": "https://goo.gl/UsYrQG"
+        },
+        {
+          "url": "http://htv2channel.vn/",
+          "text": "http://htv2channel.vn/"
+        },
+        {
+          "url": "https://www.fb.com/HTV2channel",
+          "text": "https://www.fb.com/HTV2channel"
+        },
+        {
+          "url": "https://goo.gl/izjFOD",
+          "text": "https://goo.gl/izjFOD"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 7,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sóng 18: Soobin - Hoàng tử tình ca",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "oMRAIwku6e0",
+      "url": "https://www.youtube.com/watch?v=oMRAIwku6e0&list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd&index=6",
+      "thumbnailUrl": "https://i.ytimg.com/vi/oMRAIwku6e0/maxresdefault.jpg",
+      "viewCount": 27009,
+      "date": "2018-02-09T02:02:19.000Z",
+      "likes": 100,
+      "location": null,
+      "channelName": "Vie Channel ",
+      "channelUrl": "https://www.youtube.com/@VieChannelOfficial",
+      "channelUsername": "VieChannelOfficial",
+      "collaborators": null,
+      "channelId": "UCkna2OcuN1E6u5I8GVtdkOw",
+      "numberOfSubscribers": 11500000,
+      "duration": "00:00:42",
+      "commentsCount": 11,
+      "text": "🎈CHƯƠNG TRÌNH TẾT 2018 - Xem trọn bộ Gala Hài Xuân 2018: https://goo.gl/Ujyy71 \n🍄CHƯƠNG TRÌNH TẾT 2018 - Xem trọn bộ Sóng 18: https://goo.gl/2JKvxP \n🎈Ấn để theo dõi HTV2:    / htv2channel  \n\nXem các chương trình phim - hài khác của HTV2:\n►Ai cũng bật cười Full: https://goo.gl/glS4sF\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG\n\nHoặc xem thêm trên hệ thống HTV2:\n►Website: http://htv2channel.vn/\n►Fanpage:   / htv2channel  \n►G+: https://goo.gl/izjFODĐăng ký để xem video mới: https://goo.gl/oDR7VP\n\nXem các chương trình phim - hài khác của HTV2:\n►Ai cũng bật cười Full: https://goo.gl/glS4sF\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG\n\nHoặc xem thêm trên hệ thống HTV2:\n►Website: http://htv2channel.vn/\n►Fanpage: https://www.fb.com/HTV2channel\n►G+: https://goo.gl/izjFOD",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://goo.gl/Ujyy71",
+          "text": "https://goo.gl/Ujyy71"
+        },
+        {
+          "url": "https://goo.gl/2JKvxP",
+          "text": "https://goo.gl/2JKvxP"
+        },
+        {
+          "url": "http://youtube.com/HTV2Channel",
+          "text": "   / htv2channel  "
+        },
+        {
+          "url": "https://goo.gl/glS4sF",
+          "text": "https://goo.gl/glS4sF"
+        },
+        {
+          "url": "https://goo.gl/c0Qw7H",
+          "text": "https://goo.gl/c0Qw7H"
+        },
+        {
+          "url": "https://goo.gl/UsYrQG",
+          "text": "https://goo.gl/UsYrQG"
+        },
+        {
+          "url": "http://htv2channel.vn/",
+          "text": "http://htv2channel.vn/"
+        },
+        {
+          "url": "https://www.facebook.com/HTV2channel",
+          "text": "  / htv2channel  "
+        },
+        {
+          "url": "https://goo.gl/izjFODĐăng",
+          "text": "https://goo.gl/izjFODĐăng"
+        },
+        {
+          "url": "https://goo.gl/oDR7VP",
+          "text": "https://goo.gl/oDR7VP"
+        },
+        {
+          "url": "https://goo.gl/glS4sF",
+          "text": "https://goo.gl/glS4sF"
+        },
+        {
+          "url": "https://goo.gl/c0Qw7H",
+          "text": "https://goo.gl/c0Qw7H"
+        },
+        {
+          "url": "https://goo.gl/UsYrQG",
+          "text": "https://goo.gl/UsYrQG"
+        },
+        {
+          "url": "http://htv2channel.vn/",
+          "text": "http://htv2channel.vn/"
+        },
+        {
+          "url": "https://www.fb.com/HTV2channel",
+          "text": "https://www.fb.com/HTV2channel"
+        },
+        {
+          "url": "https://goo.gl/izjFOD",
+          "text": "https://goo.gl/izjFOD"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 5,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd",
+      "isPaidContent": false
+    },
+    {
+      "title": "Teaser 2: Sóng 18 (Phát sóng 21:30 Đêm giao thừa - 15/2/2017)",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "KyXbK3T00t0",
+      "url": "https://www.youtube.com/watch?v=KyXbK3T00t0&list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd&index=13",
+      "thumbnailUrl": "https://i.ytimg.com/vi/KyXbK3T00t0/maxresdefault.jpg",
+      "viewCount": 53611,
+      "date": "2018-02-03T13:41:29.000Z",
+      "likes": 263,
+      "location": null,
+      "channelName": "Vie Channel ",
+      "channelUrl": "https://www.youtube.com/@VieChannelOfficial",
+      "channelUsername": "VieChannelOfficial",
+      "collaborators": null,
+      "channelId": "UCkna2OcuN1E6u5I8GVtdkOw",
+      "numberOfSubscribers": 11500000,
+      "duration": "00:00:37",
+      "commentsCount": 24,
+      "text": "🎈CHƯƠNG TRÌNH TẾT 2018 - Xem trọn bộ Gala Hài Xuân 2018: https://goo.gl/Ujyy71 \n🍄CHƯƠNG TRÌNH TẾT 2018 - Xem trọn bộ Sóng 18: https://goo.gl/2JKvxP \n🎈Ấn để theo dõi HTV2:    / htv2channel  \n\nXem các chương trình phim - hài khác của HTV2:\n►Ai cũng bật cười Full: https://goo.gl/glS4sF\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG\n\nHoặc xem thêm trên hệ thống HTV2:\n►Website: http://htv2channel.vn/\n►Fanpage: https://www.facebook.com/HTV2channel\n►G+: https://goo.gl/izjFODĐăng ký để xem video mới: https://goo.gl/oDR7VP\n\nXem các chương trình phim - hài khác của HTV2:\n►Ai cũng bật cười Full: https://goo.gl/glS4sF\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG\n\nHoặc xem thêm trên hệ thống HTV2:\n►Website: http://htv2channel.vn/\n►Fanpage: https://www.fb.com/HTV2channel\n►G+: https://goo.gl/izjFOD",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "http://youtube.com/HTV2Channel",
+          "text": "   / htv2channel  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 12,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd",
+      "isPaidContent": false
+    },
+    {
+      "title": "HTV2 - Trailer Muôn màu sắc Việt (Phát sóng 18:30 - Chủ nhật)",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "p_3XMLQtbio",
+      "url": "https://www.youtube.com/watch?v=p_3XMLQtbio&list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd&index=20",
+      "thumbnailUrl": "https://i.ytimg.com/vi/p_3XMLQtbio/hqdefault.jpg",
+      "viewCount": 3776,
+      "date": "2017-04-26T09:26:07.000Z",
+      "likes": 10,
+      "location": null,
+      "channelName": "Vie Channel ",
+      "channelUrl": "https://www.youtube.com/@VieChannelOfficial",
+      "channelUsername": "VieChannelOfficial",
+      "collaborators": null,
+      "channelId": "UCkna2OcuN1E6u5I8GVtdkOw",
+      "numberOfSubscribers": 11500000,
+      "duration": "00:00:59",
+      "commentsCount": 1,
+      "text": "Ấn để theo dõi HTV2:    / htv2channel  \n\nXem các chương trình phim - hài khác của HTV2:\n►Ai cũng bật cười Full: https://goo.gl/glS4sF\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG\n\nHoặc xem thêm trên hệ thống HTV2:\n►Website: http://htv2channel.vn/\n►Fanpage:   / htv2channel  \n►G+: https://goo.gl/izjFOD",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "http://youtube.com/HTV2Channel",
+          "text": "   / htv2channel  "
+        },
+        {
+          "url": "https://goo.gl/glS4sF",
+          "text": "https://goo.gl/glS4sF"
+        },
+        {
+          "url": "https://goo.gl/c0Qw7H",
+          "text": "https://goo.gl/c0Qw7H"
+        },
+        {
+          "url": "https://goo.gl/UsYrQG",
+          "text": "https://goo.gl/UsYrQG"
+        },
+        {
+          "url": "http://htv2channel.vn/",
+          "text": "http://htv2channel.vn/"
+        },
+        {
+          "url": "https://www.facebook.com/HTV2channel",
+          "text": "  / htv2channel  "
+        },
+        {
+          "url": "https://goo.gl/izjFOD",
+          "text": "https://goo.gl/izjFOD"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 19,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BOtJOsSKTjxXWD_LVCYPYd",
+      "isPaidContent": false
+    }
+  ]
+}

@@ -1,0 +1,879 @@
+{
+  "actor_name": "streamers/youtube-scraper",
+  "actor_run_id": "oBkPT0VHlEv86hlCC",
+  "dataset_id": "vClAON8P0ACLFdvPe",
+  "actor_build_id": "SUk0475fgtCh9zqMt",
+  "retrieved_at": "2026-08-12T14:21:48.710139+07:00",
+  "actor_input": {
+    "maxResults": 36,
+    "maxResultsShorts": 0,
+    "maxResultStreams": 0,
+    "startUrls": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-"
+      }
+    ],
+    "sourceBindingUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-"
+  },
+  "run_metadata": {
+    "status": "SUCCEEDED",
+    "startedAt": "2026-08-12T07:20:58.677Z",
+    "finishedAt": "2026-08-12T07:21:44.449Z",
+    "usageTotalUsd": 0.064,
+    "chargedEventCounts": {
+      "result": 16,
+      "date-filter": 0,
+      "ai-video-description": 0,
+      "ai-video-summary": 0
+    }
+  },
+  "items": [
+    {
+      "title": "Sao nhập ngũ 2022 l TẬP 16 l GIỮA LẰN RANH SINH TỬ",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "we1t4jt5_aw",
+      "url": "https://www.youtube.com/watch?v=we1t4jt5_aw&list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-&index=2",
+      "thumbnailUrl": "https://i.ytimg.com/vi/we1t4jt5_aw/maxresdefault.jpg",
+      "viewCount": 2254800,
+      "date": "2022-06-18T13:30:13.000Z",
+      "likes": 21000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "01:10:56",
+      "commentsCount": 1805,
+      "text": "🔥 Sao nhập ngũ 2022 - Bước chân thần tốc - Hứa hẹn một mùa trải nghiệm đầy thú vị, mang đến những hình ảnh mới mẻ, đặc biệt của nghệ sĩ trải nghiệm. Quy tụ những lần 'khủng nhất' trong suốt 10 mùa phát sóng vừa qua. Dàn cast cực lầy nhưng đầy quyết tâm: Độ Mixi, S.T, Puka, Minh Tú, Anh Tú, Hòa Minzy, Duy Khánh,Cara. Quy mô trải nghiệm lớn nhất với sự kết hợp các đơn vị Bộ binh, Pháo binh, Tăng thiết giáp, Trinh sát.\n🔥Game bắn súng Badlanders tự hào tài trợ Gameshow siêu hạng Sao Nhập Ngũ! Cài Badlanders tại https://badlanders.onelink.me/4dWq/59... \n🔥Xem phim chiếu rạp bom tấn trên TV360: http://s.viettel.vn/fb2\n🔥Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2022 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 13H00 Thứ 7 trên TV360\n     💓 20h00 Thứ 7 trên Mocha \n     💓 20h30 Thứ 7 trên Kênh Youtube: Sao nhập ngũ - QPVN\n     💓 20h00 Chủ nhật trên Kênh TH SCTV6\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Phó Tổng Đạo diễn: Lê Quý Giáp\n• Đạo diễn: Lê Đức Cường & Phạm Thanh Hảo\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Ngô Trang & Phương Thảo & Mai Hằng\n• D.O.P: Đoàn Ngọc Ước  & Mai Trùng Khánh\n• Quay phim: Thái Ngân; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Thành Nam; Hồng Phương; Tuấn Huy; Thanh Tĩnh; Văn Sướng; Văn Quân; Quang Anh; Thành Luân; Văn Tùng.\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Hoàng Chiến; Ngọc Quang; Tuấn Vũ; Anh Tú; Duy Lành; Quang Thuận; Trung Hiếu\n• Âm thanh: Huy Lương & Ngọc Hùng & Ngọc Hưng & Anh Thắng\n• Quản lý thiết bị: Thành Linh & Anh Đức\n• Hỗ trợ sản xuất: Đào Hà, Vân Anh, Thanh Thuận, Triệu Hương, Huy Hoàng, Đăng Kiên, Anh Tuấn, Trọng Lợi, Hà Thanh, Văn Huệ, Minh Tân\n• Đạo diễn hậu kỳ: Hải Khoa, Cường Lê, Quý Gíap, Thanh Hảo\n• Biên tập hậu kỳ: Phương Thảo; Ngô Trang; Tuấn Nghĩa; Thanh Liêm, Trần Hoàng\n• Kỹ thuật hậu kỳ: Thanh Tùng, Anh Đức, Hiệp Cine, Anh Hiệp\n• Đồ họa & thiết kế: Phùng Tùng & HaoMi & Hannah Ru\n• Phụ trách Truyền thông: Nga Nguyễn, Đỗ Hương, Châm Nguyễn\n• Truyền thông social: Trần Quỳnh; Mỹ Mỹ; Hằng Nga; Trà Trang; Khánh Linh; Trần Phương; Hải Đăng; Bá Linh; Long ....\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\n🔥 Viettel Media - Hệ sinh thái Quảng cáo số đa nền tảng hàng đầu tại Việt Nam\nLiên hệ quảng cáo, thuê tài khoản: https://www.viettelmedia.vn/ads?utm_s...\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://badlanders.onelink.me/4dWq/595d3dee",
+          "text": "https://badlanders.onelink.me/4dWq/59..."
+        },
+        {
+          "url": "http://s.viettel.vn/fb2",
+          "text": "http://s.viettel.vn/fb2"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "https://www.viettelmedia.vn/ads?utm_source=youtube",
+          "text": "https://www.viettelmedia.vn/ads?utm_s..."
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 1,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-",
+      "isPaidContent": false
+    },
+    {
+      "title": "SAO NHẬP NGŨ 2022 l TẬP 13 l TIN Ở CHÍNH MÌNH",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "6BVLN76986A",
+      "url": "https://www.youtube.com/watch?v=6BVLN76986A&list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-&index=5",
+      "thumbnailUrl": "https://i.ytimg.com/vi/6BVLN76986A/maxresdefault.jpg",
+      "viewCount": 2572782,
+      "date": "2022-05-28T13:30:11.000Z",
+      "likes": 22000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:58:49",
+      "commentsCount": 1129,
+      "text": "🔥 Sao nhập ngũ 2022 - Bước chân thần tốc - Hứa hẹn một mùa trải nghiệm đầy thú vị, mang đến những hình ảnh mới mẻ, đặc biệt của nghệ sĩ trải nghiệm. Quy tụ những lần 'khủng nhất' trong suốt 10 mùa phát sóng vừa qua. Dàn cast cực lầy nhưng đầy quyết tâm: Độ Mixi, S.T, Puka, Minh Tú, Anh Tú, Hòa Minzy, Duy Khánh,Cara. Quy mô trải nghiệm lớn nhất với sự kết hợp các đơn vị Bộ binh, Pháo binh, Tăng thiết giáp, Trinh sát.\n🔥Game bắn súng Badlanders tự hào tài trợ Gameshow siêu hạng Sao Nhập Ngũ! Cài Badlanders tại https://badlanders.onelink.me/4dWq/59... \n🔥Xem phim chiếu rạp bom tấn trên TV360: http://s.viettel.vn/fb2\n🔥Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2022 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 13H00 Thứ 7 trên TV360\n     💓 20h00 Thứ 7 trên Mocha \n     💓 20h30 Thứ 7 trên Kênh Youtube: Sao nhập ngũ - QPVN\n     💓 20h00 Chủ nhật trên Kênh TH SCTV6\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Phó Tổng Đạo diễn: Lê Quý Giáp\n• Đạo diễn: Lê Đức Cường & Phạm Thanh Hảo\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Ngô Trang & Phương Thảo & Mai Hằng\n• D.O.P: Đoàn Ngọc Ước  & Mai Trùng Khánh\n• Quay phim: Thái Ngân; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Thành Nam; Hồng Phương; Tuấn Huy; Thanh Tĩnh; Văn Sướng; Văn Quân; Quang Anh; Thành Luân; Văn Tùng.\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Hoàng Chiến; Ngọc Quang; Tuấn Vũ; Anh Tú; Duy Lành; Quang Thuận; Trung Hiếu\n• Âm thanh: Huy Lương & Ngọc Hùng & Ngọc Hưng & Anh Thắng\n• Quản lý thiết bị: Thành Linh & Anh Đức\n• Hỗ trợ sản xuất: Đào Hà, Vân Anh, Thanh Thuận, Triệu Hương, Huy Hoàng, Đăng Kiên, Anh Tuấn, Trọng Lợi, Hà Thanh, Văn Huệ, Minh Tân\n• Đạo diễn hậu kỳ: Hải Khoa, Cường Lê, Quý Gíap, Thanh Hảo\n• Biên tập hậu kỳ: Phương Thảo; Ngô Trang; Tuấn Nghĩa; Thanh Liêm, Trần Hoàng\n• Kỹ thuật hậu kỳ: Thanh Tùng, Anh Đức, Hiệp Cine, Anh Hiệp\n• Đồ họa & thiết kế: Phùng Tùng & HaoMi & Hannah Ru\n• Phụ trách Truyền thông: Nga Nguyễn, Đỗ Hương, Châm Nguyễn\n• Truyền thông social: Trần Quỳnh; Mỹ Mỹ; Hằng Nga; Trà Trang; Khánh Linh; Trần Phương; Hải Đăng; Bá Linh; Long ....\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\n🔥 Viettel Media - Hệ sinh thái Quảng cáo số đa nền tảng hàng đầu tại Việt Nam\nLiên hệ quảng cáo, thuê tài khoản: https://www.viettelmedia.vn/ads?utm_s...\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://badlanders.onelink.me/4dWq/595d3dee",
+          "text": "https://badlanders.onelink.me/4dWq/59..."
+        },
+        {
+          "url": "http://s.viettel.vn/fb2",
+          "text": "http://s.viettel.vn/fb2"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "https://www.viettelmedia.vn/ads?utm_source=youtube",
+          "text": "https://www.viettelmedia.vn/ads?utm_s..."
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 4,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ 2022 l TẬP 10 l Độ Mixi xứng vai anh cả cực ngầu, Hòa Minzy khóc nấc trên thao trường",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "LnUizp3lr08",
+      "url": "https://www.youtube.com/watch?v=LnUizp3lr08&list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-&index=8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/LnUizp3lr08/maxresdefault.jpg",
+      "viewCount": 4379335,
+      "date": "2022-05-07T13:30:08.000Z",
+      "likes": 43000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "01:07:30",
+      "commentsCount": 2148,
+      "text": "🔥 Sao nhập ngũ 2022 - Bước chân thần tốc - Hứa hẹn một mùa trải nghiệm đầy thú vị, mang đến những hình ảnh mới mẻ, đặc biệt của nghệ sĩ trải nghiệm. Quy tụ những lần 'khủng nhất' trong suốt 10 mùa phát sóng vừa qua. Dàn cast cực lầy nhưng đầy quyết tâm: Độ Mixi, S.T, Puka, Minh Tú, Anh Tú, Hòa Minzy, Duy Khánh,Cara. Quy mô trải nghiệm lớn nhất với sự kết hợp các đơn vị Bộ binh, Pháo binh, Tăng thiết giáp, Trinh sát.\n🔥Game bắn súng Badlanders tự hào tài trợ Gameshow siêu hạng Sao Nhập Ngũ! Cài Badlanders tại https://badlanders.onelink.me/4dWq/59... \n🔥Xem phim chiếu rạp bom tấn trên TV360: http://s.viettel.vn/fb2\n🔥Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2022 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 13H00 Thứ 7 trên TV360\n     💓 20h00 Chủ nhật trên Kênh TH SCTV6\n     💓 20h00 Thứ 7 trên Mocha \n     💓 20h30 Thứ 7 trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Phó Tổng Đạo diễn: Lê Quý Giáp\n• Đạo diễn: Lê Đức Cường & Phạm Thanh Hảo\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Ngô Trang & Phương Thảo & Mai Hằng\n• D.O.P: Đoàn Ngọc Ước  & Mai Trùng Khánh\n• Quay phim: Thái Ngân; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Thành Nam; Hồng Phương; Tuấn Huy; Thanh Tĩnh; Văn Sướng; Văn Quân; Quang Anh; Thành Luân; Văn Tùng.\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Hoàng Chiến; Ngọc Quang; Tuấn Vũ; Anh Tú; Duy Lành; Quang Thuận; Trung Hiếu\n• Âm thanh: Huy Lương & Ngọc Hùng & Ngọc Hưng & Anh Thắng\n• Quản lý thiết bị: Thành Linh & Anh Đức\n• Hỗ trợ sản xuất: Đào Hà, Vân Anh, Thanh Thuận, Triệu Hương, Huy Hoàng, Đăng Kiên, Anh Tuấn, Trọng Lợi, Hà Thanh, Văn Huệ, Minh Tân\n• Đạo diễn hậu kỳ: Hải Khoa, Cường Lê, Quý Gíap, Thanh Hảo\n• Biên tập hậu kỳ: Phương Thảo; Ngô Trang; Tuấn Nghĩa; Thanh Liêm, Trần Hoàng\n• Kỹ thuật hậu kỳ: Thanh Tùng, Anh Đức, Hiệp Cine, Anh Hiệp\n• Đồ họa & thiết kế: Phùng Tùng & HaoMi & Hannah Ru\n• Phụ trách Truyền thông: Nga Nguyễn, Đỗ Hương, Châm Nguyễn\n• Truyền thông social: Trần Quỳnh; Mỹ Mỹ; Hằng Nga; Trà Trang; Khánh Linh; Trần Phương; Hải Đăng; Bá Linh; Long ....\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\n🔥 Viettel Media - Hệ sinh thái Quảng cáo số đa nền tảng hàng đầu tại Việt Nam\nLiên hệ quảng cáo, thuê tài khoản: https://www.viettelmedia.vn/ads?utm_s...\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://badlanders.onelink.me/4dWq/595d3dee",
+          "text": "https://badlanders.onelink.me/4dWq/59..."
+        },
+        {
+          "url": "http://s.viettel.vn/fb2",
+          "text": "http://s.viettel.vn/fb2"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "https://www.viettelmedia.vn/ads?utm_source=youtube",
+          "text": "https://www.viettelmedia.vn/ads?utm_s..."
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 7,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ng�� 2022 lTẬP 12| Minh Tú dùng \"bí thuật\" vượt khó, Độ Mixi Duy Khánh rút bài học sâu sắc",
+      "translatedTitle": "Sao nhập ngũ 2022 lTẬP 12| Minh Tú dùng \"bí thuật\" vượt khó, Độ Mixi Duy Khánh rút bài học sâu sắc",
+      "type": "video",
+      "id": "A0onJpg8hig",
+      "url": "https://www.youtube.com/watch?v=A0onJpg8hig&list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-&index=6",
+      "thumbnailUrl": "https://i.ytimg.com/vi/A0onJpg8hig/maxresdefault.jpg",
+      "viewCount": 3042553,
+      "date": "2022-05-21T13:30:13.000Z",
+      "likes": 26000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:59:59",
+      "commentsCount": 1220,
+      "text": "🔥 Sao nhập ngũ 2022 - Bước chân thần tốc - Hứa hẹn một mùa trải nghiệm đầy thú vị, mang đến những hình ảnh mới mẻ, đặc biệt của nghệ sĩ trải nghiệm. Quy tụ những lần 'khủng nhất' trong suốt 10 mùa phát sóng vừa qua. Dàn cast cực lầy nhưng đầy quyết tâm: Độ Mixi, S.T, Puka, Minh Tú, Anh Tú, Hòa Minzy, Duy Khánh,Cara. Quy mô trải nghiệm lớn nhất với sự kết hợp các đơn vị Bộ binh, Pháo binh, Tăng thiết giáp, Trinh sát.\n🔥Game bắn súng Badlanders tự hào tài trợ Gameshow siêu hạng Sao Nhập Ngũ! Cài Badlanders tại https://badlanders.onelink.me/4dWq/59... \n🔥Xem phim chiếu rạp bom tấn trên TV360: http://s.viettel.vn/fb2\n🔥Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2022 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 13H00 Thứ 7 trên TV360\n     💓 20h00 Thứ 7 trên Mocha \n     💓 20h30 Thứ 7 trên Kênh Youtube: Sao nhập ngũ - QPVN\n     💓 20h00 Chủ nhật trên Kênh TH SCTV6\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Phó Tổng Đạo diễn: Lê Quý Giáp\n• Đạo diễn: Lê Đức Cường & Phạm Thanh Hảo\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Ngô Trang & Phương Thảo & Mai Hằng\n• D.O.P: Đoàn Ngọc Ước  & Mai Trùng Khánh\n• Quay phim: Thái Ngân; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Thành Nam; Hồng Phương; Tuấn Huy; Thanh Tĩnh; Văn Sướng; Văn Quân; Quang Anh; Thành Luân; Văn Tùng.\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Hoàng Chiến; Ngọc Quang; Tuấn Vũ; Anh Tú; Duy Lành; Quang Thuận; Trung Hiếu\n• Âm thanh: Huy Lương & Ngọc Hùng & Ngọc Hưng & Anh Thắng\n• Quản lý thiết bị: Thành Linh & Anh Đức\n• Hỗ trợ sản xuất: Đào Hà, Vân Anh, Thanh Thuận, Triệu Hương, Huy Hoàng, Đăng Kiên, Anh Tuấn, Trọng Lợi, Hà Thanh, Văn Huệ, Minh Tân\n• Đạo diễn hậu kỳ: Hải Khoa, Cường Lê, Quý Gíap, Thanh Hảo\n• Biên tập hậu kỳ: Phương Thảo; Ngô Trang; Tuấn Nghĩa; Thanh Liêm, Trần Hoàng\n• Kỹ thuật hậu kỳ: Thanh Tùng, Anh Đức, Hiệp Cine, Anh Hiệp\n• Đồ họa & thiết kế: Phùng Tùng & HaoMi & Hannah Ru\n• Phụ trách Truyền thông: Nga Nguyễn, Đỗ Hương, Châm Nguyễn\n• Truyền thông social: Trần Quỳnh; Mỹ Mỹ; Hằng Nga; Trà Trang; Khánh Linh; Trần Phương; Hải Đăng; Bá Linh; Long ....\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\n🔥 Viettel Media - Hệ sinh thái Quảng cáo số đa nền tảng hàng đầu tại Việt Nam\nLiên hệ quảng cáo, thuê tài khoản: https://www.viettelmedia.vn/ads?utm_s...\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://badlanders.onelink.me/4dWq/595d3dee",
+          "text": "https://badlanders.onelink.me/4dWq/59..."
+        },
+        {
+          "url": "http://s.viettel.vn/fb2",
+          "text": "http://s.viettel.vn/fb2"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "https://www.viettelmedia.vn/ads?utm_source=youtube",
+          "text": "https://www.viettelmedia.vn/ads?utm_s..."
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 5,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ 2022 l TẬP CUỐI l HƯỚNG VỀ PHÍA MẶT TRỜI",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "eM2ALnnTctc",
+      "url": "https://www.youtube.com/watch?v=eM2ALnnTctc&list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-&index=1",
+      "thumbnailUrl": "https://i.ytimg.com/vi/eM2ALnnTctc/maxresdefault.jpg",
+      "viewCount": 2778864,
+      "date": "2022-06-25T13:30:13.000Z",
+      "likes": 33000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "01:12:00",
+      "commentsCount": 2885,
+      "text": "🔥 Sao nhập ngũ 2022 - Bước chân thần tốc - Hứa hẹn một mùa trải nghiệm đầy thú vị, mang đến những hình ảnh mới mẻ, đặc biệt của nghệ sĩ trải nghiệm. Quy tụ những lần 'khủng nhất' trong suốt 10 mùa phát sóng vừa qua. Dàn cast cực lầy nhưng đầy quyết tâm: Độ Mixi, S.T, Puka, Minh Tú, Anh Tú, Hòa Minzy, Duy Khánh,Cara. Quy mô trải nghiệm lớn nhất với sự kết hợp các đơn vị Bộ binh, Pháo binh, Tăng thiết giáp, Trinh sát.\n🔥Game bắn súng Badlanders tự hào tài trợ Gameshow siêu hạng Sao Nhập Ngũ! Cài Badlanders tại https://badlanders.onelink.me/4dWq/59... \n🔥Xem phim chiếu rạp bom tấn trên TV360: http://s.viettel.vn/fb2\n🔥Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2022 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 13H00 Thứ 7 trên TV360\n     💓 20h00 Thứ 7 trên Mocha \n     💓 20h30 Thứ 7 trên Kênh Youtube: Sao nhập ngũ - QPVN\n     💓 20h00 Chủ nhật trên Kênh TH SCTV6\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Phó Tổng Đạo diễn: Lê Quý Giáp\n• Đạo diễn: Lê Đức Cường & Phạm Thanh Hảo\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Ngô Trang & Phương Thảo & Mai Hằng\n• D.O.P: Đoàn Ngọc Ước  & Mai Trùng Khánh\n• Quay phim: Thái Ngân; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Thành Nam; Hồng Phương; Tuấn Huy; Thanh Tĩnh; Văn Sướng; Văn Quân; Quang Anh; Thành Luân; Văn Tùng.\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Hoàng Chiến; Ngọc Quang; Tuấn Vũ; Anh Tú; Duy Lành; Quang Thuận; Trung Hiếu\n• Âm thanh: Huy Lương & Ngọc Hùng & Ngọc Hưng & Anh Thắng\n• Quản lý thiết bị: Thành Linh & Anh Đức\n• Hỗ trợ sản xuất: Đào Hà, Vân Anh, Thanh Thuận, Triệu Hương, Huy Hoàng, Đăng Kiên, Anh Tuấn, Trọng Lợi, Hà Thanh, Văn Huệ, Minh Tân\n• Đạo diễn hậu kỳ: Hải Khoa, Cường Lê, Quý Gíap, Thanh Hảo\n• Biên tập hậu kỳ: Phương Thảo; Ngô Trang; Tuấn Nghĩa; Thanh Liêm, Trần Hoàng\n• Kỹ thuật hậu kỳ: Thanh Tùng, Anh Đức, Hiệp Cine, Anh Hiệp\n• Đồ họa & thiết kế: Phùng Tùng & HaoMi & Hannah Ru\n• Phụ trách Truyền thông: Nga Nguyễn, Đỗ Hương, Châm Nguyễn\n• Truyền thông social: Trần Quỳnh; Mỹ Mỹ; Hằng Nga; Trà Trang; Khánh Linh; Trần Phương; Hải Đăng; Bá Linh; Long ....\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\n🔥 Viettel Media - Hệ sinh thái Quảng cáo số đa nền tảng hàng đầu tại Việt Nam\nLiên hệ quảng cáo, thuê tài khoản: https://www.viettelmedia.vn/ads?utm_s...\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://badlanders.onelink.me/4dWq/595d3dee",
+          "text": "https://badlanders.onelink.me/4dWq/59..."
+        },
+        {
+          "url": "http://s.viettel.vn/fb2",
+          "text": "http://s.viettel.vn/fb2"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "https://www.viettelmedia.vn/ads?utm_source=youtube",
+          "text": "https://www.viettelmedia.vn/ads?utm_s..."
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 0,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ 2022 l TẬP 3 l Minh Tú & Anh Tú đi đều lệch pha, Độ Mixi lộ gen hài “chí mạng”",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "oXXI9wfTgBY",
+      "url": "https://www.youtube.com/watch?v=oXXI9wfTgBY&list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-&index=15",
+      "thumbnailUrl": "https://i.ytimg.com/vi/oXXI9wfTgBY/maxresdefault.jpg",
+      "viewCount": 12538221,
+      "date": "2022-03-19T13:30:23.000Z",
+      "likes": 136000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:58:59",
+      "commentsCount": 9127,
+      "text": "🔥 Sao nhập ngũ 2022 - Bước chân thần tốc - Hứa hẹn một mùa trải nghiệm đầy thú vị, mang đến những hình ảnh mới mẻ, đặc biệt của nghệ sĩ trải nghiệm. Quy tụ những lần 'khủng nhất' trong suốt 10 mùa phát sóng vừa qua. Dàn cast cực lầy nhưng ��ầy quyết tâm: Độ Mixi, S.T, Puka, Minh Tú, Anh Tú, Hòa Minzy, Duy Khánh,Cara. Quy mô trải nghiệm lớn nhất với sự kết hợp các đơn vị Bộ binh, Pháo binh, Tăng thiết giáp, Trinh sát.\n🔥Game bắn súng Badlanders tự hào tài trợ Gameshow siêu hạng Sao Nhập Ngũ! Cài Badlanders tại https://badlanders.onelink.me/4dWq/59... \n🔥Xem tập mới sớm nhất trên TV360, Tải app tại: http://s.viettel.vn/yt2\n🔥Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2022 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 14H00 Thứ 7 trên TV360\n     💓 20h00 Thứ 7 trên Kênh TH SCTV6\n     💓 20h00 Thứ 7 trên Mocha \n     💓 20h00 Thứ 7 trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Phó Tổng Đạo diễn: Lê Quý Giáp\n• Đạo diễn: Lê Đức Cường & Phạm Thanh Hảo\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Ngô Trang & Phương Thảo & Mai Hằng\n• D.O.P: Đoàn Ngọc Ước  & Mai Trùng Khánh\n• Quay phim: Thái Ngân; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Thành Nam; Hồng Phương; Tuấn Huy; Thanh Tĩnh; Văn Sướng; Văn Quân; Quang Anh; Thành Luân; Văn Tùng.\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Hoàng Chiến; Ngọc Quang; Tuấn Vũ; Anh Tú; Duy Lành; Quang Thuận; Trung Hiếu\n• Âm thanh: Huy Lương & Ngọc Hùng & Ngọc Hưng & Anh Thắng\n• Quản lý thiết bị: Thành Linh & Anh Đức\n• Hỗ trợ sản xuất: Đào Hà, Vân Anh, Thanh Thuận, Triệu Hương, Huy Hoàng, Đăng Kiên, Anh Tuấn, Trọng Lợi, Hà Thanh, Văn Huệ, Minh Tân\n• Đạo diễn hậu kỳ: Hải Khoa, Cường Lê, Quý Gíap, Thanh Hảo\n• Biên tập hậu kỳ: Phương Thảo; Ngô Trang; Tuấn Nghĩa; Thanh Liêm\n• Kỹ thuật hậu kỳ: Thanh Tùng, Anh Đức, Hiệp Cine\n• Đồ họa & thiết kế: Phùng Tùng & HaoMi & Hannah Ru\n• Phụ trách Truyền thông: Nga Nguyễn, Đỗ Hương, Châm Nguyễn\n• Truyền thông social: Trần Quỳnh; Mỹ Mỹ; Hằng Nga; Trà Trang; Khánh Linh; Trần Phương; Hải Đăng; Bá Linh; Long ....\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://badlanders.onelink.me/4dWq/595d3dee",
+          "text": " https://badlanders.onelink.me/4dWq/59.."
+        },
+        {
+          "url": "http://s.viettel.vn/yt2",
+          "text": " http://s.viettel.vn/yt"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": " http://video.mocha.com.vn/Sao-Nhap-Ng.."
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 14,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-",
+      "isPaidContent": false
+    },
+    {
+      "title": "SNN 2022 TẬP 7 l Hòa Minzy, Độ Mixi nghẹn ngào nhớ con, S.T bị thương, Puka, Minh Tú trổ tài ca hát",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "3yI7rLOJQ3o",
+      "url": "https://www.youtube.com/watch?v=3yI7rLOJQ3o&list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-&index=11",
+      "thumbnailUrl": "https://i.ytimg.com/vi/3yI7rLOJQ3o/maxresdefault.jpg",
+      "viewCount": 6715958,
+      "date": "2022-04-16T13:30:15.000Z",
+      "likes": 65000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "01:06:15",
+      "commentsCount": 4238,
+      "text": "🔥 Sao nhập ngũ 2022 - Bước chân thần tốc - Hứa hẹn một mùa trải nghiệm đầy thú vị, mang đến những hình ảnh mới mẻ, đặc biệt của nghệ sĩ trải nghiệm. Quy tụ những lần 'khủng nhất' trong suốt 10 mùa phát sóng vừa qua. Dàn cast cực lầy nhưng đầy quyết tâm: Độ Mixi, S.T, Puka, Minh Tú, Anh Tú, Hòa Minzy, Duy Khánh,Cara. Quy mô trải nghiệm lớn nhất với sự kết hợp các đơn vị Bộ binh, Pháo binh, Tăng thiết giáp, Trinh sát.\n🔥Game bắn súng Badlanders tự hào tài trợ Gameshow siêu hạng Sao Nhập Ngũ! Cài Badlanders tại https://badlanders.onelink.me/4dWq/59... \n🔥Xem phim chiếu rạp bom tấn trên TV360: http://s.viettel.vn/fb2\n🔥Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2022 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 13H00 Thứ 7 trên TV360\n     💓 20h00 Thứ 7 trên Kênh TH SCTV6\n     💓 20h00 Thứ 7 trên Mocha \n     💓 20h30 Thứ 7 trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Phó Tổng Đạo diễn: Lê Quý Giáp\n• Đạo diễn: Lê Đức Cường & Phạm Thanh Hảo\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Ngô Trang & Phương Thảo & Mai Hằng\n• D.O.P: Đoàn Ngọc Ước  & Mai Trùng Khánh\n• Quay phim: Thái Ngân; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Thành Nam; Hồng Phương; Tuấn Huy; Thanh Tĩnh; Văn Sướng; Văn Quân; Quang Anh; Thành Luân; Văn Tùng.\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Hoàng Chiến; Ngọc Quang; Tuấn Vũ; Anh Tú; Duy Lành; Quang Thuận; Trung Hiếu\n• Âm thanh: Huy Lương & Ngọc Hùng & Ngọc Hưng & Anh Thắng\n• Quản lý thiết bị: Thành Linh & Anh Đức\n• Hỗ trợ sản xuất: Đào Hà, Vân Anh, Thanh Thuận, Triệu Hương, Huy Hoàng, Đăng Kiên, Anh Tuấn, Trọng Lợi, Hà Thanh, Văn Huệ, Minh Tân\n• Đạo diễn hậu kỳ: Hải Khoa, Cường Lê, Quý Gíap, Thanh Hảo\n• Biên tập hậu kỳ: Phương Thảo; Ngô Trang; Tuấn Nghĩa; Thanh Liêm, Trần Hoàng\n• Kỹ thuật hậu kỳ: Thanh Tùng, Anh Đức, Hiệp Cine, Anh Hiệp\n• Đồ họa & thiết kế: Phùng Tùng & HaoMi & Hannah Ru\n• Phụ trách Truyền thông: Nga Nguyễn, Đỗ Hương, Châm Nguyễn\n• Truyền thông social: Trần Quỳnh; Mỹ Mỹ; Đào Hậu; Hằng Nga; Trà Trang; Khánh Linh; Trần Phương; Hải Đăng; Bá Linh; Long ....\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\n🔥 Viettel Media - Hệ sinh thái Quảng cáo số đa nền tảng hàng đầu tại Việt Nam\nLiên hệ quảng cáo, thuê tài khoản: https://www.viettelmedia.vn/ads?utm_s...\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://badlanders.onelink.me/4dWq/595d3dee",
+          "text": "https://badlanders.onelink.me/4dWq/59..."
+        },
+        {
+          "url": "http://s.viettel.vn/fb2",
+          "text": "http://s.viettel.vn/fb2"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "https://www.viettelmedia.vn/ads?utm_source=youtube",
+          "text": "https://www.viettelmedia.vn/ads?utm_s..."
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 10,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ 2022 l TẬP 5 l Độ Mixi kiên quyết giữ \"nóc nhà\", Duy Khánh & Cara Phương bật khóc",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "vygw0ud_wzk",
+      "url": "https://www.youtube.com/watch?v=vygw0ud_wzk&list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-&index=13",
+      "thumbnailUrl": "https://i.ytimg.com/vi/vygw0ud_wzk/maxresdefault.jpg",
+      "viewCount": 9137568,
+      "date": "2022-04-02T13:30:17.000Z",
+      "likes": 95000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "01:05:10",
+      "commentsCount": 5868,
+      "text": "🔥 Sao nhập ngũ 2022 - Bước chân thần tốc - Hứa hẹn một mùa trải nghiệm đầy thú vị, mang đến những hình ảnh mới mẻ, đặc biệt của nghệ sĩ trải nghiệm. Quy tụ những lần 'khủng nhất' trong suốt 10 mùa phát sóng vừa qua. Dàn cast cực lầy nhưng đầy quyết tâm: Độ Mixi, S.T, Puka, Minh Tú, Anh Tú, Hòa Minzy, Duy Khánh,Cara. Quy mô trải nghiệm lớn nhất với sự kết hợp các đơn vị Bộ binh, Pháo binh, Tăng thiết giáp, Trinh sát.\n🔥Game bắn súng Badlanders tự hào tài trợ Gameshow siêu hạng Sao Nhập Ngũ! Cài Badlanders tại https://badlanders.onelink.me/4dWq/59... \n🔥Xem tập mới sớm nhất trên TV360, Tải app tại: http://s.viettel.vn/yt2\n🔥Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2022 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 13H00 Thứ 7 trên TV360\n     💓 20h00 Thứ 7 trên Kênh TH SCTV6\n     💓 20h00 Thứ 7 trên Mocha \n     💓 20h30 Thứ 7 trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Phó Tổng Đạo diễn: Lê Quý Giáp\n• Đạo diễn: Lê Đức Cường & Phạm Thanh Hảo\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Ngô Trang & Phương Thảo & Mai Hằng\n• D.O.P: Đoàn Ngọc Ước  & Mai Trùng Khánh\n• Quay phim: Thái Ngân; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Thành Nam; Hồng Phương; Tuấn Huy; Thanh Tĩnh; Văn Sướng; Văn Quân; Quang Anh; Thành Luân; Văn Tùng.\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Hoàng Chiến; Ngọc Quang; Tuấn Vũ; Anh Tú; Duy Lành; Quang Thuận; Trung Hiếu\n• Âm thanh: Huy Lương & Ngọc Hùng & Ngọc Hưng & Anh Thắng\n• Quản lý thiết bị: Thành Linh & Anh Đức\n• Hỗ trợ sản xuất: Đào Hà, Vân Anh, Thanh Thuận, Triệu Hương, Huy Hoàng, Đăng Kiên, Anh Tuấn, Trọng Lợi, Hà Thanh, Văn Huệ, Minh Tân\n• Đạo diễn hậu kỳ: Hải Khoa, Cường Lê, Quý Gíap, Thanh Hảo\n• Biên tập hậu kỳ: Phương Thảo; Ngô Trang; Tuấn Nghĩa; Thanh Liêm, Trần Hoàng\n• Kỹ thuật hậu kỳ: Thanh Tùng, Anh Đức, Hiệp Cine, Anh Hiệp\n• Đồ họa & thiết kế: Phùng Tùng & HaoMi & Hannah Ru\n• Phụ trách Truyền thông: Nga Nguyễn, Đỗ Hương, Châm Nguyễn\n• Truyền thông social: Trần Quỳnh; Mỹ Mỹ; Hằng Nga; Trà Trang; Khánh Linh; Trần Phương; Hải Đăng; Bá Linh; Long ....\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://badlanders.onelink.me/4dWq/595d3dee",
+          "text": "https://badlanders.onelink.me/4dWq/59..."
+        },
+        {
+          "url": "http://s.viettel.vn/yt2",
+          "text": "http://s.viettel.vn/yt2"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 12,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ 2022 l TẬP 8 Puka bứt phá thần tốc, Độ Mixi & Duy Khánh đánh địch cực ngầu",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "OjIBl1rnc9s",
+      "url": "https://www.youtube.com/watch?v=OjIBl1rnc9s&list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-&index=10",
+      "thumbnailUrl": "https://i.ytimg.com/vi/OjIBl1rnc9s/maxresdefault.jpg",
+      "viewCount": 5917138,
+      "date": "2022-04-23T13:30:13.000Z",
+      "likes": 53000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "01:00:57",
+      "commentsCount": 2290,
+      "text": "🔥 Sao nhập ngũ 2022 - Bước chân thần tốc - Hứa hẹn một mùa trải nghiệm đầy thú vị, mang đến những hình ảnh mới mẻ, đặc biệt của nghệ sĩ trải nghiệm. Quy tụ những lần 'khủng nhất' trong suốt 10 mùa phát sóng vừa qua. Dàn cast cực lầy nhưng đầy quyết tâm: Độ Mixi, S.T, Puka, Minh Tú, Anh Tú, Hòa Minzy, Duy Khánh,Cara. Quy mô trải nghiệm lớn nhất với sự kết hợp các đơn vị Bộ binh, Pháo binh, Tăng thiết giáp, Trinh sát.\n🔥Game bắn súng Badlanders tự hào tài trợ Gameshow siêu hạng Sao Nhập Ngũ! Cài Badlanders tại https://badlanders.onelink.me/4dWq/59... \n🔥Xem phim chiếu rạp bom tấn trên TV360: http://s.viettel.vn/fb2\n🔥Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2022 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 13H00 Thứ 7 trên TV360\n     💓 20h00 Thứ 7 trên Kênh TH SCTV6\n     💓 20h00 Thứ 7 trên Mocha \n     💓 20h30 Thứ 7 trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Phó Tổng Đạo diễn: Lê Quý Giáp\n• Đạo diễn: Lê Đức Cường & Phạm Thanh Hảo\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Ngô Trang & Phương Thảo & Mai Hằng\n• D.O.P: Đoàn Ngọc Ước  & Mai Trùng Khánh\n• Quay phim: Thái Ngân; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Thành Nam; Hồng Phương; Tuấn Huy; Thanh Tĩnh; Văn Sướng; Văn Quân; Quang Anh; Thành Luân; Văn Tùng.\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Hoàng Chiến; Ngọc Quang; Tuấn Vũ; Anh Tú; Duy Lành; Quang Thuận; Trung Hiếu\n• Âm thanh: Huy Lương & Ngọc Hùng & Ngọc Hưng & Anh Thắng\n• Quản lý thiết bị: Thành Linh & Anh Đức\n• Hỗ trợ sản xuất: Đào Hà, Vân Anh, Thanh Thuận, Triệu Hương, Huy Hoàng, Đăng Kiên, Anh Tuấn, Trọng Lợi, Hà Thanh, Văn Huệ, Minh Tân\n• Đạo diễn hậu kỳ: Hải Khoa, Cường Lê, Quý Gíap, Thanh Hảo\n• Biên tập hậu kỳ: Phương Thảo; Ngô Trang; Tuấn Nghĩa; Thanh Liêm, Trần Hoàng\n• Kỹ thuật hậu kỳ: Thanh Tùng, Anh Đức, Hiệp Cine, Anh Hiệp\n• Đồ họa & thiết kế: Phùng Tùng & HaoMi & Hannah Ru\n• Phụ trách Truyền thông: Nga Nguyễn, Đỗ Hương, Châm Nguyễn\n• Truyền thông social: Trần Quỳnh; Mỹ Mỹ; Hằng Nga; Trà Trang; Khánh Linh; Trần Phương; Hải Đăng; Bá Linh; Long ....\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\n🔥 Viettel Media - Hệ sinh thái Quảng cáo số đa nền tảng hàng đầu tại Việt Nam\nLiên hệ quảng cáo, thuê tài khoản: https://www.viettelmedia.vn/ads?utm_s...\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://badlanders.onelink.me/4dWq/595d3dee",
+          "text": "https://badlanders.onelink.me/4dWq/59..."
+        },
+        {
+          "url": "http://s.viettel.vn/fb2",
+          "text": "http://s.viettel.vn/fb2"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "https://www.viettelmedia.vn/ads?utm_source=youtube",
+          "text": "https://www.viettelmedia.vn/ads?utm_s..."
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 9,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ 2022 l TẬP 6 lĐộ Mixi & Hòa Minzy tỉnh táo \"vượt ải khó\", S.T & Cara liên tục ghi điểm",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "Yu4vCqc2Vwg",
+      "url": "https://www.youtube.com/watch?v=Yu4vCqc2Vwg&list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-&index=12",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Yu4vCqc2Vwg/maxresdefault.jpg",
+      "viewCount": 7769757,
+      "date": "2022-04-09T13:30:13.000Z",
+      "likes": 74000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "01:01:06",
+      "commentsCount": 3971,
+      "text": "🔥 Sao nhập ngũ 2022 - Bước chân thần tốc - Hứa hẹn một mùa trải nghiệm đầy thú vị, mang đến những hình ảnh mới mẻ, đặc biệt của nghệ sĩ trải nghiệm. Quy tụ những lần 'khủng nhất' trong suốt 10 mùa phát sóng vừa qua. Dàn cast cực lầy nhưng đầy quyết tâm: Độ Mixi, S.T, Puka, Minh Tú, Anh Tú, Hòa Minzy, Duy Khánh,Cara. Quy mô trải nghiệm lớn nhất với sự kết hợp các đơn vị Bộ binh, Pháo binh, Tăng thiết giáp, Trinh sát.\n🔥Game bắn súng Badlanders tự hào tài trợ Gameshow siêu hạng Sao Nhập Ngũ! Cài Badlanders tại https://badlanders.onelink.me/4dWq/59... \n🔥Xem phim chiếu rạp bom tấn trên TV360: http://s.viettel.vn/fb2\n🔥Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2022 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 13H00 Thứ 7 trên TV360\n     💓 20h00 Thứ 7 trên Kênh TH SCTV6\n     💓 20h00 Thứ 7 trên Mocha \n     💓 20h30 Thứ 7 trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Phó Tổng Đạo diễn: Lê Quý Giáp\n• Đạo diễn: Lê Đức Cường & Phạm Thanh Hảo\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Ngô Trang & Phương Thảo & Mai Hằng\n• D.O.P: Đoàn Ngọc Ước  & Mai Trùng Khánh\n• Quay phim: Thái Ngân; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Thành Nam; Hồng Phương; Tuấn Huy; Thanh Tĩnh; Văn Sướng; Văn Quân; Quang Anh; Thành Luân; Văn Tùng.\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Hoàng Chiến; Ngọc Quang; Tuấn Vũ; Anh Tú; Duy Lành; Quang Thuận; Trung Hiếu\n• Âm thanh: Huy Lương & Ngọc Hùng & Ngọc Hưng & Anh Thắng\n• Quản lý thiết bị: Thành Linh & Anh Đức\n• Hỗ trợ sản xuất: Đào Hà, Vân Anh, Thanh Thuận, Triệu Hương, Huy Hoàng, Đăng Kiên, Anh Tuấn, Trọng Lợi, Hà Thanh, Văn Huệ, Minh Tân\n• Đạo diễn hậu kỳ: Hải Khoa, Cường Lê, Quý Gíap, Thanh Hảo\n• Biên tập hậu kỳ: Phương Thảo; Ngô Trang; Tuấn Nghĩa; Thanh Liêm, Trần Hoàng\n• Kỹ thuật hậu kỳ: Thanh Tùng, Anh Đức, Hiệp Cine, Anh Hiệp\n• Đồ họa & thiết kế: Phùng Tùng & HaoMi & Hannah Ru\n• Phụ trách Truyền thông: Nga Nguyễn, Đỗ Hương, Châm Nguyễn\n• Truyền thông social: Trần Quỳnh; Mỹ Mỹ; Hằng Nga; Trà Trang; Khánh Linh; Trần Phương; Hải Đăng; Bá Linh; Long ....\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\n🔥 Viettel Media - Hệ sinh thái Quảng cáo số đa nền tảng hàng đầu tại Việt Nam\nLiên hệ quảng cáo, thuê tài khoản: https://www.viettelmedia.vn/ads?utm_s...\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://badlanders.onelink.me/4dWq/595d3dee",
+          "text": "https://badlanders.onelink.me/4dWq/59..."
+        },
+        {
+          "url": "http://s.viettel.vn/fb2",
+          "text": "http://s.viettel.vn/fb2"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "https://www.viettelmedia.vn/ads?utm_source=youtube",
+          "text": "https://www.viettelmedia.vn/ads?utm_s..."
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 11,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ 2022 l TẬP 11 l Puka nỗ lực tới bật khóc, Hòa Minzy tự nhận không giỏi môn toán",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "Fxd_aZnn_LY",
+      "url": "https://www.youtube.com/watch?v=Fxd_aZnn_LY&list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-&index=7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Fxd_aZnn_LY/maxresdefault.jpg",
+      "viewCount": 3449992,
+      "date": "2022-05-14T13:30:12.000Z",
+      "likes": 33000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:55:52",
+      "commentsCount": 2151,
+      "text": "🔥 Sao nhập ngũ 2022 - Bước chân thần tốc - Hứa hẹn một mùa trải nghiệm đầy thú vị, mang đến những hình ảnh mới mẻ, đặc biệt của nghệ sĩ trải nghiệm. Quy tụ những lần 'khủng nhất' trong suốt 10 mùa phát sóng vừa qua. Dàn cast cực lầy nhưng đầy quyết tâm: Độ Mixi, S.T, Puka, Minh Tú, Anh Tú, Hòa Minzy, Duy Khánh,Cara. Quy mô trải nghiệm lớn nhất với sự kết hợp các đơn vị Bộ binh, Pháo binh, Tăng thiết giáp, Trinh sát.\n🔥Game bắn súng Badlanders tự hào tài trợ Gameshow siêu hạng Sao Nhập Ngũ! Cài Badlanders tại https://badlanders.onelink.me/4dWq/59... \n🔥Xem phim chiếu rạp bom tấn trên TV360: http://s.viettel.vn/fb2\n🔥Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2022 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 13H00 Thứ 7 trên TV360\n     💓 20h00 Thứ 7 trên Mocha \n     💓 20h30 Thứ 7 trên Kênh Youtube: Sao nhập ngũ - QPVN\n     💓 20h00 Chủ nhật trên Kênh TH SCTV6\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Phó Tổng Đạo diễn: Lê Quý Giáp\n• Đạo diễn: Lê Đức Cường & Phạm Thanh Hảo\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Ngô Trang & Phương Thảo & Mai Hằng\n• D.O.P: Đoàn Ngọc Ước  & Mai Trùng Khánh\n• Quay phim: Thái Ngân; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Thành Nam; Hồng Phương; Tuấn Huy; Thanh Tĩnh; Văn Sướng; Văn Quân; Quang Anh; Thành Luân; Văn Tùng.\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Hoàng Chiến; Ngọc Quang; Tuấn Vũ; Anh Tú; Duy Lành; Quang Thuận; Trung Hiếu\n• Âm thanh: Huy Lương & Ngọc Hùng & Ngọc Hưng & Anh Thắng\n• Quản lý thiết bị: Thành Linh & Anh Đức\n• Hỗ trợ sản xuất: Đào Hà, Vân Anh, Thanh Thuận, Triệu Hương, Huy Hoàng, Đăng Kiên, Anh Tuấn, Trọng Lợi, Hà Thanh, Văn Huệ, Minh Tân\n• Đạo diễn hậu kỳ: Hải Khoa, Cường Lê, Quý Gíap, Thanh Hảo\n• Biên tập hậu kỳ: Phương Thảo; Ngô Trang; Tuấn Nghĩa; Thanh Liêm, Trần Hoàng\n• Kỹ thuật hậu kỳ: Thanh Tùng, Anh Đức, Hiệp Cine, Anh Hiệp\n• Đồ họa & thiết kế: Phùng Tùng & HaoMi & Hannah Ru\n• Phụ trách Truyền thông: Nga Nguyễn, Đỗ Hương, Châm Nguyễn\n• Truyền thông social: Trần Quỳnh; Mỹ Mỹ; Hằng Nga; Trà Trang; Khánh Linh; Trần Phương; Hải Đăng; Bá Linh; Long ....\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\n🔥 Viettel Media - Hệ sinh thái Quảng cáo số đa nền tảng hàng đầu tại Việt Nam\nLiên hệ quảng cáo, thuê tài khoản: https://www.viettelmedia.vn/ads?utm_s...\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://badlanders.onelink.me/4dWq/595d3dee",
+          "text": "https://badlanders.onelink.me/4dWq/59..."
+        },
+        {
+          "url": "http://s.viettel.vn/fb2",
+          "text": "http://s.viettel.vn/fb2"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "https://www.viettelmedia.vn/ads?utm_source=youtube",
+          "text": "https://www.viettelmedia.vn/ads?utm_s..."
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 6,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-",
+      "isPaidContent": false
+    },
+    {
+      "title": "SAO NHẬP NGŨ 2022 l TẬP 9 | Cara chấn thương nặng, Hoà Minzy, Minh Tú, Puka nước mắt lưng tròng",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "VK3LBJ1LVdw",
+      "url": "https://www.youtube.com/watch?v=VK3LBJ1LVdw&list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-&index=9",
+      "thumbnailUrl": "https://i.ytimg.com/vi/VK3LBJ1LVdw/maxresdefault.jpg",
+      "viewCount": 4935232,
+      "date": "2022-04-30T13:30:11.000Z",
+      "likes": 50000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "01:02:13",
+      "commentsCount": 2059,
+      "text": "🔥 Sao nhập ngũ 2022 - Bước chân thần tốc - Hứa hẹn một mùa trải nghiệm đầy thú vị, mang đến những hình ảnh mới mẻ, đặc biệt của nghệ sĩ trải nghiệm. Quy tụ những lần 'khủng nhất' trong suốt 10 mùa phát sóng vừa qua. Dàn cast cực lầy nhưng đầy quyết tâm: Độ Mixi, S.T, Puka, Minh Tú, Anh Tú, Hòa Minzy, Duy Khánh,Cara. Quy mô trải nghiệm lớn nhất với sự kết hợp các đơn vị Bộ binh, Pháo binh, Tăng thiết giáp, Trinh sát.\n🔥Game bắn súng Badlanders tự hào tài trợ Gameshow siêu hạng Sao Nhập Ngũ! Cài Badlanders tại https://badlanders.onelink.me/4dWq/59... \n🔥Xem phim chiếu rạp bom tấn trên TV360: http://s.viettel.vn/fb2\n🔥Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2022 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 13H00 Thứ 7 trên TV360\n     💓 20h00 Thứ 7 trên Kênh TH SCTV6\n     💓 20h00 Thứ 7 trên Mocha \n     💓 20h30 Thứ 7 trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Phó Tổng Đạo diễn: Lê Quý Giáp\n• Đạo diễn: Lê Đức Cường & Phạm Thanh Hảo\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Ngô Trang & Phương Thảo & Mai Hằng\n• D.O.P: Đoàn Ngọc Ước  & Mai Trùng Khánh\n• Quay phim: Thái Ngân; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Thành Nam; Hồng Phương; Tuấn Huy; Thanh Tĩnh; Văn Sướng; Văn Quân; Quang Anh; Thành Luân; Văn Tùng.\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Hoàng Chiến; Ngọc Quang; Tuấn Vũ; Anh Tú; Duy Lành; Quang Thuận; Trung Hiếu\n• Âm thanh: Huy Lương & Ngọc Hùng & Ngọc Hưng & Anh Thắng\n• Quản lý thiết bị: Thành Linh & Anh Đức\n• Hỗ trợ sản xuất: Đào Hà, Vân Anh, Thanh Thuận, Triệu Hương, Huy Hoàng, Đăng Kiên, Anh Tuấn, Trọng Lợi, Hà Thanh, Văn Huệ, Minh Tân\n• Đạo diễn hậu kỳ: Hải Khoa, Cường Lê, Quý Gíap, Thanh Hảo\n• Biên tập hậu kỳ: Phương Thảo; Ngô Trang; Tuấn Nghĩa; Thanh Liêm, Trần Hoàng\n• Kỹ thuật hậu kỳ: Thanh Tùng, Anh Đức, Hiệp Cine, Anh Hiệp\n• Đồ họa & thiết kế: Phùng Tùng & HaoMi & Hannah Ru\n• Phụ trách Truyền thông: Nga Nguyễn, Đỗ Hương, Châm Nguyễn\n• Truyền thông social: Trần Quỳnh; Mỹ Mỹ; Hằng Nga; Trà Trang; Khánh Linh; Trần Phương; Hải Đăng; Bá Linh; Long ....\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\n🔥 Viettel Media - Hệ sinh thái Quảng cáo số đa nền tảng hàng đầu tại Việt Nam\nLiên hệ quảng cáo, thuê tài khoản: https://www.viettelmedia.vn/ads?utm_s...\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://badlanders.onelink.me/4dWq/595d3dee",
+          "text": "https://badlanders.onelink.me/4dWq/59..."
+        },
+        {
+          "url": "http://s.viettel.vn/fb2",
+          "text": "http://s.viettel.vn/fb2"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "https://www.viettelmedia.vn/ads?utm_source=youtube",
+          "text": "https://www.viettelmedia.vn/ads?utm_s..."
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 8,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ 2022 l TẬP 4 l Anh Tú giữ lời hứa ôm Duy Khánh vào lòng. S.T&Cara dẫn đầu đi điều lệnh",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "UYYRZSinVLI",
+      "url": "https://www.youtube.com/watch?v=UYYRZSinVLI&list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-&index=14",
+      "thumbnailUrl": "https://i.ytimg.com/vi/UYYRZSinVLI/maxresdefault.jpg",
+      "viewCount": 9400071,
+      "date": "2022-03-26T12:00:08.000Z",
+      "likes": 99000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:59:51",
+      "commentsCount": 7369,
+      "text": "🔥 Sao nhập ngũ 2022 - Bước chân thần tốc - Hứa hẹn một mùa trải nghiệm đầy thú vị, mang đến những hình ảnh mới mẻ, đặc biệt của nghệ sĩ trải nghiệm. Quy tụ những lần 'khủng nhất' trong suốt 10 mùa phát sóng vừa qua. Dàn cast cực lầy nhưng đầy quyết tâm: Độ Mixi, S.T, Puka, Minh Tú, Anh Tú, Hòa Minzy, Duy Khánh,Cara. Quy mô trải nghiệm lớn nhất với sự kết hợp các đơn vị Bộ binh, Pháo binh, Tăng thiết giáp, Trinh sát.\n🔥Game bắn súng Badlanders tự hào tài trợ Gameshow siêu hạng Sao Nhập Ngũ! Cài Badlanders tại https://badlanders.onelink.me/4dWq/59... \n🔥Xem tập mới sớm nhất trên TV360, Tải app tại: http://s.viettel.vn/yt2\n🔥Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2022 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 14H00 Thứ 7 trên TV360\n     💓 20h00 Thứ 7 trên Kênh TH SCTV6\n     💓 20h00 Thứ 7 trên Mocha \n     💓 20h00 Thứ 7 trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Phó Tổng Đạo diễn: Lê Quý Giáp\n• Đạo diễn: Lê Đức Cường & Phạm Thanh Hảo\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Ngô Trang & Phương Thảo & Mai Hằng\n• D.O.P: Đoàn Ngọc Ước  & Mai Trùng Khánh\n• Quay phim: Thái Ngân; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Thành Nam; Hồng Phương; Tuấn Huy; Thanh Tĩnh; Văn Sướng; Văn Quân; Quang Anh; Thành Luân; Văn Tùng.\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Hoàng Chiến; Ngọc Quang; Tuấn Vũ; Anh Tú; Duy Lành; Quang Thuận; Trung Hiếu\n• Âm thanh: Huy Lương & Ngọc Hùng & Ngọc Hưng & Anh Thắng\n• Quản lý thiết bị: Thành Linh & Anh Đức\n• Hỗ trợ sản xuất: Đào Hà, Vân Anh, Thanh Thuận, Triệu Hương, Huy Hoàng, Đăng Kiên, Anh Tuấn, Trọng Lợi, Hà Thanh, Văn Huệ, Minh Tân\n• Đạo diễn hậu kỳ: Hải Khoa, Cường Lê, Quý Gíap, Thanh Hảo\n• Biên tập hậu kỳ: Phương Thảo; Ngô Trang; Tuấn Nghĩa; Thanh Liêm, Trần Hoàng\n• Kỹ thuật hậu kỳ: Thanh Tùng, Anh Đức, Hiệp Cine, Anh Hiệp\n• Đồ họa & thiết kế: Phùng Tùng & HaoMi & Hannah Ru\n• Phụ trách Truyền thông: Nga Nguyễn, Đỗ Hương, Châm Nguyễn\n• Truyền thông social: Trần Quỳnh; Mỹ Mỹ; Hằng Nga; Trà Trang; Khánh Linh; Trần Phương; Hải Đăng; Bá Linh; Long ....\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://badlanders.onelink.me/4dWq/595d3dee",
+          "text": "https://badlanders.onelink.me/4dWq/59..."
+        },
+        {
+          "url": "http://s.viettel.vn/yt2",
+          "text": "http://s.viettel.vn/yt2"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 13,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-",
+      "isPaidContent": false
+    },
+    {
+      "title": "SAO NHẬP NGŨ 2022 l TẬP 1 l  Dàn Cast \"Khủng\" Hứa Sẽ Nghiêm Túc Nhập Ngũ Và Cái Kết Ngày Đầu Tiên",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "Vran9iR20_E",
+      "url": "https://www.youtube.com/watch?v=Vran9iR20_E&list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-&index=17",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Vran9iR20_E/maxresdefault.jpg",
+      "viewCount": 17175643,
+      "date": "2022-03-05T13:30:13.000Z",
+      "likes": 252000,
+      "location": "HÀ NỘI",
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "01:06:38",
+      "commentsCount": 16017,
+      "text": "🔥 Sao nhập ngũ 2022 - Bước chân thần tốc - Hứa hẹn một mùa trải nghiệm đầy thú vị, mang đến những hình ảnh mới mẻ, đặc biệt của nghệ sĩ trải nghiệm. Quy tụ những lần 'khủng nhất' trong suốt 10 mùa phát sóng vừa qua. Dàn cast cực lầy nhưng đầy quyết tâm: Độ Mixi, S.T, Puka, Minh Tú, Anh Tú, Hòa Minzy, Duy Khánh,Cara. Quy mô trải nghiệm lớn nhất với sự kết hợp các đơn vị Bộ binh, Pháo binh, Tăng thiết giáp, Trinh sát.\n🔥 Game bắn súng Badlanders tự hào tài trợ Gameshow siêu hạng Sao Nhập Ngũ! Cài Badlanders tại https://badlanders.onelink.me/4dWq/59... \n🔥Xem tập mới sớm nhất trên TV360, Tải app tại: http://s.viettel.vn/yt2\n🔥 Tải ngay Mocha - Xem ngay Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2022 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 13H00 Thứ 7 trên TV360\n     💓 20h00 Thứ 7 trên Kênh TH SCTV6 & Mocha\n     💓 20h30 Thứ 7 trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Phó Tổng Đạo diễn: Lê Quý Giáp\n• Đạo diễn: Lê Đức Cường & Phạm Thanh Hảo\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Ngô Trang & Phương Thảo & Mai Hằng\n• D.O.P: Đoàn Ngọc Ước  & Mai Trùng Khánh\n• Quay phim: Thái Ngân; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Thành Nam; Hồng Phương; Tuấn Huy; Thanh Tĩnh; Văn Sướng; Văn Quân; Quang Anh; Thành Luân; Văn Tùng.\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Hoàng Chiến; Ngọc Quang; Tuấn Vũ; Anh Tú; Duy Lành; Quang Thuận; Trung Hiếu\n• Âm thanh: Huy Lương & Ngọc Hùng & Ngọc Hưng & Anh Thắng\n• Quản lý thiết bị: Thành Linh & Anh Đức\n• Hỗ trợ sản xuất: Đào Hà, Vân Anh, Thanh Thuận, Triệu Hương, Huy Hoàng, Đăng Kiên, Anh Tuấn, Trọng Lợi, Hà Thanh, Văn Huệ, Minh Tân\n• Đạo diễn hậu kỳ: Hải Khoa, Cường Lê, Quý Gíap, Thanh Hảo\n• Biên tập hậu kỳ: Phương Thảo; Ngô Trang; Tuấn Nghĩa; Thanh Liêm\n• Kỹ thuật hậu kỳ: Thanh Tùng, Anh Đức, Hiệp Cine\n• Đồ họa & thiết kế: Phùng Tùng & HaoMi & Hannah Ru\n• Phụ trách Truyền thông: Nga Nguyễn, Đỗ Hương, Châm Nguyễn\n• Truyền thông social: Trần Quỳnh; Mỹ Mỹ; Hằng Nga; Trà Trang; Khánh Linh; Trần Phương; Hải Đăng; Bá Linh; Long ....\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://badlanders.onelink.me/4dWq/595d3dee",
+          "text": "https://badlanders.onelink.me/4dWq/59..."
+        },
+        {
+          "url": "http://s.viettel.vn/yt2",
+          "text": "http://s.viettel.vn/yt2"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 16,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-",
+      "isPaidContent": true
+    },
+    {
+      "title": "SAO NHẬP NGŨ 2022 l TẬP 14 l TRONG TRÁI TIM ĐỒNG ĐỘI",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "UFx1m6DCr3U",
+      "url": "https://www.youtube.com/watch?v=UFx1m6DCr3U&list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-&index=4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/UFx1m6DCr3U/maxresdefault.jpg",
+      "viewCount": 2593124,
+      "date": "2022-06-04T15:37:00.000Z",
+      "likes": 24000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:57:40",
+      "commentsCount": 1242,
+      "text": "🔥 Sao nhập ngũ 2022 - Bước chân thần tốc - Hứa hẹn một mùa trải nghiệm đầy thú vị, mang đến những hình ảnh mới mẻ, đặc biệt của nghệ sĩ trải nghiệm. Quy tụ những lần 'khủng nhất' trong suốt 10 mùa phát sóng vừa qua. Dàn cast cực lầy nhưng đầy quyết tâm: Độ Mixi, S.T, Puka, Minh Tú, Anh Tú, Hòa Minzy, Duy Khánh,Cara. Quy mô trải nghiệm lớn nhất với sự kết hợp các đơn vị Bộ binh, Pháo binh, Tăng thiết giáp, Trinh sát.\n🔥Game bắn súng Badlanders tự hào tài trợ Gameshow siêu hạng Sao Nhập Ngũ! Cài Badlanders tại https://badlanders.onelink.me/4dWq/59... \n🔥Xem phim chiếu rạp bom tấn trên TV360: http://s.viettel.vn/fb2\n🔥Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2022 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 13H00 Thứ 7 trên TV360\n     💓 20h00 Thứ 7 trên Mocha \n     💓 20h30 Thứ 7 trên Kênh Youtube: Sao nhập ngũ - QPVN\n     💓 20h00 Chủ nhật trên Kênh TH SCTV6\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Phó Tổng Đạo diễn: Lê Quý Giáp\n• Đạo diễn: Lê Đức Cường & Phạm Thanh Hảo\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Ngô Trang & Phương Thảo & Mai Hằng\n• D.O.P: Đoàn Ngọc Ước  & Mai Trùng Khánh\n• Quay phim: Thái Ngân; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Thành Nam; Hồng Phương; Tuấn Huy; Thanh Tĩnh; Văn Sướng; Văn Quân; Quang Anh; Thành Luân; Văn Tùng.\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Hoàng Chiến; Ngọc Quang; Tuấn Vũ; Anh Tú; Duy Lành; Quang Thuận; Trung Hiếu\n• Âm thanh: Huy Lương & Ngọc Hùng & Ngọc Hưng & Anh Thắng\n• Quản lý thiết bị: Thành Linh & Anh Đức\n• Hỗ trợ sản xuất: Đào Hà, Vân Anh, Thanh Thuận, Triệu Hương, Huy Hoàng, Đăng Kiên, Anh Tuấn, Trọng Lợi, Hà Thanh, Văn Huệ, Minh Tân\n• Đạo diễn hậu kỳ: Hải Khoa, Cường Lê, Quý Gíap, Thanh Hảo\n• Biên tập hậu kỳ: Phương Thảo; Ngô Trang; Tuấn Nghĩa; Thanh Liêm, Trần Hoàng\n• Kỹ thuật hậu kỳ: Thanh Tùng, Anh Đức, Hiệp Cine, Anh Hiệp\n• Đồ họa & thiết kế: Phùng Tùng & HaoMi & Hannah Ru\n• Phụ trách Truyền thông: Nga Nguyễn, Đỗ Hương, Châm Nguyễn\n• Truyền thông social: Trần Quỳnh; Mỹ Mỹ; Hằng Nga; Trà Trang; Khánh Linh; Trần Phương; Hải Đăng; Bá Linh; Long ....\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\n🔥 Viettel Media - Hệ sinh thái Quảng cáo số đa nền tảng hàng đầu tại Việt Nam\nLiên hệ quảng cáo, thuê tài khoản: https://www.viettelmedia.vn/ads?utm_s...\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://badlanders.onelink.me/4dWq/595d3dee",
+          "text": "https://badlanders.onelink.me/4dWq/59..."
+        },
+        {
+          "url": "http://s.viettel.vn/fb2",
+          "text": "http://s.viettel.vn/fb2"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "https://www.viettelmedia.vn/ads?utm_source=youtube",
+          "text": "https://www.viettelmedia.vn/ads?utm_s..."
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 3,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ 2022 l TẬP 15 l CHẠM NGƯỠNG GIỚI HẠN",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "wygSLC3bbMY",
+      "url": "https://www.youtube.com/watch?v=wygSLC3bbMY&list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-&index=3",
+      "thumbnailUrl": "https://i.ytimg.com/vi/wygSLC3bbMY/maxresdefault.jpg",
+      "viewCount": 2069126,
+      "date": "2022-06-11T13:30:14.000Z",
+      "likes": 18000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:55:32",
+      "commentsCount": 1053,
+      "text": "🔥 Sao nhập ngũ 2022 - Bước chân thần tốc - Hứa hẹn một mùa trải nghiệm đầy thú vị, mang đến những hình ảnh mới mẻ, đặc biệt của nghệ sĩ trải nghiệm. Quy tụ những lần 'khủng nhất' trong suốt 10 mùa phát sóng vừa qua. Dàn cast cực lầy nhưng đầy quyết tâm: Độ Mixi, S.T, Puka, Minh Tú, Anh Tú, Hòa Minzy, Duy Khánh,Cara. Quy mô trải nghiệm lớn nhất với sự kết hợp các đơn vị Bộ binh, Pháo binh, Tăng thiết giáp, Trinh sát.\n🔥Game bắn súng Badlanders tự hào tài trợ Gameshow siêu hạng Sao Nhập Ngũ! Cài Badlanders tại https://badlanders.onelink.me/4dWq/59... \n🔥Xem phim chiếu rạp bom tấn trên TV360: http://s.viettel.vn/fb2\n🔥Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2022 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 13H00 Thứ 7 trên TV360\n     💓 20h00 Thứ 7 trên Mocha \n     💓 20h30 Thứ 7 trên Kênh Youtube: Sao nhập ngũ - QPVN\n     💓 20h00 Chủ nhật trên Kênh TH SCTV6\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Phó Tổng Đạo diễn: Lê Quý Giáp\n• Đạo diễn: Lê Đức Cường & Phạm Thanh Hảo\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Ngô Trang & Phương Thảo & Mai Hằng\n• D.O.P: Đoàn Ngọc Ước  & Mai Trùng Khánh\n• Quay phim: Thái Ngân; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Thành Nam; Hồng Phương; Tuấn Huy; Thanh Tĩnh; Văn Sướng; Văn Quân; Quang Anh; Thành Luân; Văn Tùng.\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Hoàng Chiến; Ngọc Quang; Tuấn Vũ; Anh Tú; Duy Lành; Quang Thuận; Trung Hiếu\n• Âm thanh: Huy Lương & Ngọc Hùng & Ngọc Hưng & Anh Thắng\n• Quản lý thiết bị: Thành Linh & Anh Đức\n• Hỗ trợ sản xuất: Đào Hà, Vân Anh, Thanh Thuận, Triệu Hương, Huy Hoàng, Đăng Kiên, Anh Tuấn, Trọng Lợi, Hà Thanh, Văn Huệ, Minh Tân\n• Đạo diễn hậu kỳ: Hải Khoa, Cường Lê, Quý Gíap, Thanh Hảo\n• Biên tập hậu kỳ: Phương Thảo; Ngô Trang; Tuấn Nghĩa; Thanh Liêm, Trần Hoàng\n• Kỹ thuật hậu kỳ: Thanh Tùng, Anh Đức, Hiệp Cine, Anh Hiệp\n• Đồ họa & thiết kế: Phùng Tùng & HaoMi & Hannah Ru\n• Phụ trách Truyền thông: Nga Nguyễn, Đỗ Hương, Châm Nguyễn\n• Truyền thông social: Trần Quỳnh; Mỹ Mỹ; Hằng Nga; Trà Trang; Khánh Linh; Trần Phương; Hải Đăng; Bá Linh; Long ....\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\n🔥 Viettel Media - Hệ sinh thái Quảng cáo số đa nền tảng hàng đầu tại Việt Nam\nLiên hệ quảng cáo, thuê tài khoản: https://www.viettelmedia.vn/ads?utm_s...\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://badlanders.onelink.me/4dWq/595d3dee",
+          "text": "https://badlanders.onelink.me/4dWq/59..."
+        },
+        {
+          "url": "http://s.viettel.vn/fb2",
+          "text": "http://s.viettel.vn/fb2"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "https://www.viettelmedia.vn/ads?utm_source=youtube",
+          "text": "https://www.viettelmedia.vn/ads?utm_s..."
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 2,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao Nhập Ngũ 2022 | Tập 2 | Hòa Minzy Tuyên Chiến Cara. Độ Mixi, S.T, Duy Khánh Rũ Bỏ Tóc Soái Ca",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "j7mLVBeelac",
+      "url": "https://www.youtube.com/watch?v=j7mLVBeelac&list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-&index=16",
+      "thumbnailUrl": "https://i.ytimg.com/vi/j7mLVBeelac/maxresdefault.jpg",
+      "viewCount": 13526428,
+      "date": "2022-03-12T13:30:16.000Z",
+      "likes": 156000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "01:13:01",
+      "commentsCount": 9130,
+      "text": "🔥 Sao nhập ngũ 2022 - Bước chân thần tốc - Hứa hẹn một mùa trải nghiệm đầy thú vị, mang đến những hình ảnh mới mẻ, đặc biệt của nghệ sĩ trải nghiệm. Quy tụ những lần 'khủng nhất' trong suốt 10 mùa phát sóng vừa qua. Dàn cast cực lầy nhưng đầy quyết tâm: Độ Mixi, S.T, Puka, Minh Tú, Anh Tú, Hòa Minzy, Duy Khánh,Cara. Quy mô trải nghiệm lớn nhất với sự kết hợp các đơn vị Bộ binh, Pháo binh, Tăng thiết giáp, Trinh sát.\n🔥Game bắn súng Badlanders tự hào tài trợ Gameshow siêu hạng Sao Nhập Ngũ! Cài Badlanders tại https://badlanders.onelink.me/4dWq/59... \n🔥Xem tập mới sớm nhất trên TV360, Tải app tại: http://s.viettel.vn/yt2\n🔥Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2022 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 13H00 Thứ 7 trên TV360\n     💓 20h00 Thứ 7 trên Kênh TH SCTV6\n     💓 20h00 Thứ 7 trên Mocha \n     💓 20h30 Thứ 7 trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Phó Tổng Đạo diễn: Lê Quý Giáp\n• Đạo diễn: Lê Đức Cường & Phạm Thanh Hảo\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Ngô Trang & Phương Thảo & Mai Hằng\n• D.O.P: Đoàn Ngọc Ước  & Mai Trùng Khánh\n• Quay phim: Thái Ngân; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Thành Nam; Hồng Phương; Tuấn Huy; Thanh Tĩnh; Văn Sướng; Văn Quân; Quang Anh; Thành Luân; Văn Tùng.\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Hoàng Chiến; Ngọc Quang; Tuấn Vũ; Anh Tú; Duy Lành; Quang Thuận; Trung Hiếu\n• Âm thanh: Huy Lương & Ngọc Hùng & Ngọc Hưng & Anh Thắng\n• Quản lý thiết bị: Thành Linh & Anh Đức\n• Hỗ trợ sản xuất: Đào Hà, Vân Anh, Thanh Thuận, Triệu Hương, Huy Hoàng, Đăng Kiên, Anh Tuấn, Trọng Lợi, Hà Thanh, Văn Huệ, Minh Tân\n• Đạo diễn hậu kỳ: Hải Khoa, Cường Lê, Quý Gíap, Thanh Hảo\n• Biên tập hậu kỳ: Phương Thảo; Ngô Trang; Tuấn Nghĩa; Thanh Liêm\n• Kỹ thuật hậu kỳ: Thanh Tùng, Anh Đức, Hiệp Cine\n• Đồ họa & thiết kế: Phùng Tùng & HaoMi & Hannah Ru\n• Phụ trách Truyền thông: Nga Nguyễn, Đỗ Hương, Châm Nguyễn\n• Truyền thông social: Trần Quỳnh; Mỹ Mỹ; Hằng Nga; Trà Trang; Khánh Linh; Trần Phương; Hải Đăng; Bá Linh; Long ....\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://badlanders.onelink.me/4dWq/595d3dee",
+          "text": "https://badlanders.onelink.me/4dWq/59..."
+        },
+        {
+          "url": "http://s.viettel.vn/yt2",
+          "text": "http://s.viettel.vn/yt2"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 15,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-",
+      "isPaidContent": false
+    }
+  ]
+}

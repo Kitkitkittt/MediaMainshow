@@ -1,0 +1,928 @@
+{
+  "actor_name": "streamers/youtube-scraper",
+  "actor_run_id": "RiHp622Pu4b8mwTlr",
+  "dataset_id": "2I1LMbH48iRA3Yght",
+  "actor_build_id": "SUk0475fgtCh9zqMt",
+  "retrieved_at": "2026-08-12T14:58:20.064472+07:00",
+  "actor_input": {
+    "maxResults": 30,
+    "maxResultsShorts": 0,
+    "maxResultStreams": 0,
+    "startUrls": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BIwNQgqYSWciQhg-Jtj8yQ"
+      }
+    ],
+    "sourceBindingUrl": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BIwNQgqYSWciQhg-Jtj8yQ"
+  },
+  "run_metadata": {
+    "status": "SUCCEEDED",
+    "startedAt": "2026-08-12T07:57:26.270Z",
+    "finishedAt": "2026-08-12T07:58:14.909Z",
+    "usageTotalUsd": 0.024,
+    "chargedEventCounts": {
+      "result": 6,
+      "date-filter": 0,
+      "ai-video-description": 0,
+      "ai-video-summary": 0
+    }
+  },
+  "items": [
+    {
+      "title": "Ngáo Ngơ - HIEUTHUHAI, Jsol, Atus, Erik, Orange | Sóng 25 [Live Stage]",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "c9j5j7JjO-Q",
+      "url": "https://www.youtube.com/watch?v=c9j5j7JjO-Q&list=PLxKLMN7WdG5BIwNQgqYSWciQhg-Jtj8yQ&index=5",
+      "thumbnailUrl": "https://i.ytimg.com/vi/c9j5j7JjO-Q/maxresdefault.jpg",
+      "viewCount": 120282,
+      "date": "2025-01-29T05:00:34.000Z",
+      "likes": 571,
+      "location": null,
+      "channelName": "Vie Channel ",
+      "channelUrl": "https://www.youtube.com/@VieChannelOfficial",
+      "channelUsername": "VieChannelOfficial",
+      "collaborators": null,
+      "channelId": "UCkna2OcuN1E6u5I8GVtdkOw",
+      "numberOfSubscribers": 11500000,
+      "duration": "00:06:19",
+      "commentsCount": 21,
+      "text": "Ngáo Ngơ - HIEUTHUHAI, Jsol, Atus, Erik, Orange | Sóng 25 [Live Stage]\n\n#SÓNG25 #song25 #hieuthuhai #jsol #atus #erik #orange \n#TigerBeer #SatCanhGamVang #KhaiXuanBanLinh\n#GalaxyS25Ultra #GalaxyAI \n\n★ Mọi nhu cầu quảng cáo và tài trợ xin liên hệ: Công Ty Cổ Phần Vie Channel\n► Hotline: 0907.950.371 (Mr. Đức Khoa)\n► Email: khoa.nguyen@viechannel.vn hoặc sales@viechannel.vn\n\n📣 Đừng quên subscribe để xem thật nhiều phim mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieChannelHTV2\n\n\n\nXem các chương trình hấp dẫn khác của Vie Channel:\n►Anh Trai Say Hi Full: https://bit.ly/AnhTraiSayHi\n►Rap Việt Full: https://bit.ly/RAPVIETSS3\n►Người Ấy Là Ai Full: https://bit.ly/NALASS5\n►The Masked Singer Vietnam Full: https://bit.ly/TMSVNSS2\n\nHoặc xem thêm trên hệ thống Vie Channel:\n►Website: http://viechannel.vn/\n►Fanpage: https://www.facebook.com/VieChannelHTV2/\n►Instagram: https://www.instagram.com/viechannelhtv2/",
+      "translatedText": "Ngáo Ngơ - HIEUTHUHAI, Jsol, Atus, Erik, Orange | Sóng 25 [Live Stage]\n\n#SÓNG25 #song25 #hieuthuhai #jsol #atus #erik #orange \n#TigerBeer #SatCanhGamVang #KhaiXuanBanLinh\n#GalaxyS25Ultra #GalaxyAI \n\n★ Mọi nhu cầu quảng cáo và tài trợ xin liên hệ: Công Ty Cổ Phần Vie Channel\n► Hotline: 0907.950.371 (Mr. Đức Khoa)\n► Email: khoa.nguyen@viechannel.vn hoặc sales@viechannel.vn\n\n📣 Đừng quên subscribe để xem thật nhiều phim mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieChannelHTV2\n\n\n\nXem các chương trình hấp dẫn khác của Vie Channel:\n►Anh Trai Say Hi Full: https://bit.ly/AnhTraiSayHi\n►Rap Việt Full: https://bit.ly/RAPVIETSS3\n►Người Ấy Là Ai Full: https://bit.ly/NALASS5\n►The Masked Singer Vietnam Full: https://bit.ly/TMSVNSS2\n\nHoặc xem thêm trên hệ thống Vie Channel:\n►Website: http://viechannel.vn/\n►Fanpage:   / viechannelhtv2  \n►Instagram:   / viechannelhtv2  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ng25",
+          "text": "#SÓNG25"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song25",
+          "text": "#song25"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hieuthuhai",
+          "text": "#hieuthuhai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/jsol",
+          "text": "#jsol"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/atus",
+          "text": "#atus"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/erik",
+          "text": "#erik"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/orange",
+          "text": "#orange"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tigerbeer",
+          "text": "#TigerBeer"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/satcanhgamvang",
+          "text": "#SatCanhGamVang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/khaixuanbanlinh",
+          "text": "#KhaiXuanBanLinh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/galaxys25ultra",
+          "text": "#GalaxyS25Ultra"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/galaxyai",
+          "text": "#GalaxyAI"
+        },
+        {
+          "url": "http://bit.ly/VieChannelHTV2",
+          "text": "http://bit.ly/VieChannelHTV2"
+        },
+        {
+          "url": "https://bit.ly/AnhTraiSayHi",
+          "text": "https://bit.ly/AnhTraiSayHi"
+        },
+        {
+          "url": "https://bit.ly/RAPVIETSS3",
+          "text": "https://bit.ly/RAPVIETSS3"
+        },
+        {
+          "url": "https://bit.ly/NALASS5",
+          "text": "https://bit.ly/NALASS5"
+        },
+        {
+          "url": "https://bit.ly/TMSVNSS2",
+          "text": "https://bit.ly/TMSVNSS2"
+        },
+        {
+          "url": "http://viechannel.vn/",
+          "text": "http://viechannel.vn/"
+        },
+        {
+          "url": "https://www.facebook.com/VieChannelHTV2/",
+          "text": "  / viechannelhtv2  "
+        },
+        {
+          "url": "https://www.instagram.com/viechannelhtv2/",
+          "text": "  / viechannelhtv2  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 4,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BIwNQgqYSWciQhg-Jtj8yQ",
+      "isMonetized": null,
+      "hashtags": [
+        "#TigerBeer",
+        "#jsol",
+        "#hieuthuhai"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BIwNQgqYSWciQhg-Jtj8yQ",
+      "isPaidContent": false
+    },
+    {
+      "title": "Anh Đã Làm Gì Đâu? - Nhật Hoàng ft Thùy Chi | Sóng 25 [Live Stage]",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "lM2kY7VGXEw",
+      "url": "https://www.youtube.com/watch?v=lM2kY7VGXEw&list=PLxKLMN7WdG5BIwNQgqYSWciQhg-Jtj8yQ&index=1",
+      "thumbnailUrl": "https://i.ytimg.com/vi/lM2kY7VGXEw/maxresdefault.jpg",
+      "viewCount": 15922,
+      "date": "2025-01-31T03:00:41.000Z",
+      "likes": 149,
+      "location": null,
+      "channelName": "Vie Channel ",
+      "channelUrl": "https://www.youtube.com/@VieChannelOfficial",
+      "channelUsername": "VieChannelOfficial",
+      "collaborators": null,
+      "channelId": "UCkna2OcuN1E6u5I8GVtdkOw",
+      "numberOfSubscribers": 11500000,
+      "duration": "00:11:07",
+      "commentsCount": 8,
+      "text": "Anh Đã Làm Gì Đâu? - Nhật Hoàng ft Thùy Chi | Sóng 25 [Live Stage] \n\n#SÓNG25 #song25 #nhathoang #thuychi \n#TigerBeer #SatCanhGamVang #KhaiXuanBanLinh\n#GalaxyS25Ultra #GalaxyAI \n\n★ Mọi nhu cầu quảng cáo và tài trợ xin liên hệ: Công Ty Cổ Phần Vie Channel\n► Hotline: 0907.950.371 (Mr. Đức Khoa)\n► Email: khoa.nguyen@viechannel.vn hoặc sales@viechannel.vn\n\n📣 Đừng quên subscribe để xem thật nhiều phim mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieChannelHTV2\n\n\n\nXem các chương trình hấp dẫn khác của Vie Channel:\n►Anh Trai Say Hi Full: https://bit.ly/AnhTraiSayHi\n►Rap Việt Full: https://bit.ly/RAPVIETSS3\n►Người Ấy Là Ai Full: https://bit.ly/NALASS5\n►The Masked Singer Vietnam Full: https://bit.ly/TMSVNSS2\n\nHoặc xem thêm trên hệ thống Vie Channel:\n►Website: http://viechannel.vn/\n►Fanpage: https://www.facebook.com/VieChannelHTV2/\n►Instagram: https://www.instagram.com/viechannelhtv2/",
+      "translatedText": "Anh Đã Làm Gì Đâu? - Nhật Hoàng ft Thùy Chi | Sóng 25 [Live Stage] \n\n#SÓNG25 #song25 #nhathoang #thuychi \n#TigerBeer #SatCanhGamVang #KhaiXuanBanLinh\n#GalaxyS25Ultra #GalaxyAI \n\n★ Mọi nhu cầu quảng cáo và tài trợ xin liên hệ: Công Ty Cổ Phần Vie Channel\n► Hotline: 0907.950.371 (Mr. Đức Khoa)\n► Email: khoa.nguyen@viechannel.vn hoặc sales@viechannel.vn\n\n📣 Đừng quên subscribe để xem thật nhiều phim mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieChannelHTV2\n\n\n\nXem các chương trình hấp dẫn khác của Vie Channel:\n►Anh Trai Say Hi Full: https://bit.ly/AnhTraiSayHi\n►Rap Việt Full: https://bit.ly/RAPVIETSS3\n►Người Ấy Là Ai Full: https://bit.ly/NALASS5\n►The Masked Singer Vietnam Full: https://bit.ly/TMSVNSS2\n\nHoặc xem thêm trên hệ thống Vie Channel:\n►Website: http://viechannel.vn/\n►Fanpage:   / viechannelhtv2  \n►Instagram:   / viechannelhtv2  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ng25",
+          "text": "#SÓNG25"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song25",
+          "text": "#song25"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/nhathoang",
+          "text": "#nhathoang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thuychi",
+          "text": "#thuychi"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tigerbeer",
+          "text": "#TigerBeer"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/satcanhgamvang",
+          "text": "#SatCanhGamVang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/khaixuanbanlinh",
+          "text": "#KhaiXuanBanLinh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/galaxys25ultra",
+          "text": "#GalaxyS25Ultra"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/galaxyai",
+          "text": "#GalaxyAI"
+        },
+        {
+          "url": "http://bit.ly/VieChannelHTV2",
+          "text": "http://bit.ly/VieChannelHTV2"
+        },
+        {
+          "url": "https://bit.ly/AnhTraiSayHi",
+          "text": "https://bit.ly/AnhTraiSayHi"
+        },
+        {
+          "url": "https://bit.ly/RAPVIETSS3",
+          "text": "https://bit.ly/RAPVIETSS3"
+        },
+        {
+          "url": "https://bit.ly/NALASS5",
+          "text": "https://bit.ly/NALASS5"
+        },
+        {
+          "url": "https://bit.ly/TMSVNSS2",
+          "text": "https://bit.ly/TMSVNSS2"
+        },
+        {
+          "url": "http://viechannel.vn/",
+          "text": "http://viechannel.vn/"
+        },
+        {
+          "url": "https://www.facebook.com/VieChannelHTV2/",
+          "text": "  / viechannelhtv2  "
+        },
+        {
+          "url": "https://www.instagram.com/viechannelhtv2/",
+          "text": "  / viechannelhtv2  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 0,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BIwNQgqYSWciQhg-Jtj8yQ",
+      "isMonetized": null,
+      "hashtags": [
+        "#thuychi",
+        "#TigerBeer",
+        "#GalaxyS25Ultra"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BIwNQgqYSWciQhg-Jtj8yQ",
+      "isPaidContent": false
+    },
+    {
+      "title": "Đóa Hồng Chơi Vơi - Tội Cho Em - Rồi Em Sẽ Gặp Một Chàng Trai Khác: Anh Tú Hà Nhi Quân A.P | Sóng 25",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "viCOoqmu46k",
+      "url": "https://www.youtube.com/watch?v=viCOoqmu46k&list=PLxKLMN7WdG5BIwNQgqYSWciQhg-Jtj8yQ&index=4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/viCOoqmu46k/maxresdefault.jpg",
+      "viewCount": 156663,
+      "date": "2025-01-30T02:00:42.000Z",
+      "likes": 651,
+      "location": null,
+      "channelName": "Vie Channel ",
+      "channelUrl": "https://www.youtube.com/@VieChannelOfficial",
+      "channelUsername": "VieChannelOfficial",
+      "collaborators": null,
+      "channelId": "UCkna2OcuN1E6u5I8GVtdkOw",
+      "numberOfSubscribers": 11500000,
+      "duration": "00:21:07",
+      "commentsCount": 58,
+      "text": "Đóa Hồng Chơi Vơi - Tội Cho Em - Rồi Em Sẽ Gặp Một Chàng Trai Khác: Anh Tú Hà Nhi Quân A.P | Sóng 25\n\n#SÓNG25 #song25 #anhtu #hanhi #quanap\n#TigerBeer #SatCanhGamVang #KhaiXuanBanLinh\n#GalaxyS25Ultra #GalaxyAI \n\n★ Mọi nhu cầu quảng cáo và tài trợ xin liên hệ: Công Ty Cổ Phần Vie Channel\n► Hotline: 0907.950.371 (Mr. Đức Khoa)\n► Email: khoa.nguyen@viechannel.vn hoặc sales@viechannel.vn\n\n📣 Đừng quên subscribe để xem thật nhiều phim mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieChannelHTV2\n\n\n\nXem các chương trình hấp dẫn khác của Vie Channel:\n►Anh Trai Say Hi Full: https://bit.ly/AnhTraiSayHi\n►Rap Việt Full: https://bit.ly/RAPVIETSS3\n►Người Ấy Là Ai Full: https://bit.ly/NALASS5\n►The Masked Singer Vietnam Full: https://bit.ly/TMSVNSS2\n\nHoặc xem thêm trên hệ thống Vie Channel:\n►Website: http://viechannel.vn/\n►Fanpage: https://www.facebook.com/VieChannelHTV2/\n►Instagram: https://www.instagram.com/viechannelhtv2/",
+      "translatedText": "Đóa Hồng Chơi Vơi - Tội Cho Em - Rồi Em Sẽ Gặp Một Chàng Trai Khác: Anh Tú Hà Nhi Quân A.P | Sóng 25\n\n#SÓNG25 #song25 #anhtu #hanhi #quanap\n#TigerBeer #SatCanhGamVang #KhaiXuanBanLinh\n#GalaxyS25Ultra #GalaxyAI \n\n★ Mọi nhu cầu quảng cáo và tài trợ xin liên hệ: Công Ty Cổ Phần Vie Channel\n► Hotline: 0907.950.371 (Mr. Đức Khoa)\n► Email: khoa.nguyen@viechannel.vn hoặc sales@viechannel.vn\n\n📣 Đừng quên subscribe để xem thật nhiều phim mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieChannelHTV2\n\n\n\nXem các chương trình hấp dẫn khác của Vie Channel:\n►Anh Trai Say Hi Full: https://bit.ly/AnhTraiSayHi\n►Rap Việt Full: https://bit.ly/RAPVIETSS3\n►Người Ấy Là Ai Full: https://bit.ly/NALASS5\n►The Masked Singer Vietnam Full: https://bit.ly/TMSVNSS2\n\nHoặc xem thêm trên hệ thống Vie Channel:\n►Website: http://viechannel.vn/\n►Fanpage:   / viechannelhtv2  \n►Instagram:   / viechannelhtv2  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ng25",
+          "text": "#SÓNG25"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song25",
+          "text": "#song25"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtu",
+          "text": "#anhtu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hanhi",
+          "text": "#hanhi"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quanap",
+          "text": "#quanap"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tigerbeer",
+          "text": "#TigerBeer"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/satcanhgamvang",
+          "text": "#SatCanhGamVang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/khaixuanbanlinh",
+          "text": "#KhaiXuanBanLinh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/galaxys25ultra",
+          "text": "#GalaxyS25Ultra"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/galaxyai",
+          "text": "#GalaxyAI"
+        },
+        {
+          "url": "http://bit.ly/VieChannelHTV2",
+          "text": "http://bit.ly/VieChannelHTV2"
+        },
+        {
+          "url": "https://bit.ly/AnhTraiSayHi",
+          "text": "https://bit.ly/AnhTraiSayHi"
+        },
+        {
+          "url": "https://bit.ly/RAPVIETSS3",
+          "text": "https://bit.ly/RAPVIETSS3"
+        },
+        {
+          "url": "https://bit.ly/NALASS5",
+          "text": "https://bit.ly/NALASS5"
+        },
+        {
+          "url": "https://bit.ly/TMSVNSS2",
+          "text": "https://bit.ly/TMSVNSS2"
+        },
+        {
+          "url": "http://viechannel.vn/",
+          "text": "http://viechannel.vn/"
+        },
+        {
+          "url": "https://www.facebook.com/VieChannelHTV2/",
+          "text": "  / viechannelhtv2  "
+        },
+        {
+          "url": "https://www.instagram.com/viechannelhtv2/",
+          "text": "  / viechannelhtv2  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 3,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BIwNQgqYSWciQhg-Jtj8yQ",
+      "isMonetized": null,
+      "hashtags": [
+        "#hanhi",
+        "#anhtu",
+        "#quanap"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BIwNQgqYSWciQhg-Jtj8yQ",
+      "isPaidContent": false
+    },
+    {
+      "title": "Thờ Ơ: WEAN - HURRYKNG | Sóng 25 [Live Stage]",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "vy61_EqnoKI",
+      "url": "https://www.youtube.com/watch?v=vy61_EqnoKI&list=PLxKLMN7WdG5BIwNQgqYSWciQhg-Jtj8yQ&index=2",
+      "thumbnailUrl": "https://i.ytimg.com/vi/vy61_EqnoKI/maxresdefault.jpg",
+      "viewCount": 7681,
+      "date": "2025-01-31T02:00:41.000Z",
+      "likes": 91,
+      "location": null,
+      "channelName": "Vie Channel ",
+      "channelUrl": "https://www.youtube.com/@VieChannelOfficial",
+      "channelUsername": "VieChannelOfficial",
+      "collaborators": null,
+      "channelId": "UCkna2OcuN1E6u5I8GVtdkOw",
+      "numberOfSubscribers": 11500000,
+      "duration": "00:07:21",
+      "commentsCount": 3,
+      "text": "Thờ Ơ: WEAN - HURRYKNG | Sóng 25 [Live Stage]\n\n#SÓNG25 #song25 #wean #hurrykng \n#TigerBeer #SatCanhGamVang #KhaiXuanBanLinh\n#GalaxyS25Ultra #GalaxyAI \n\n★ Mọi nhu cầu quảng cáo và tài trợ xin liên hệ: Công Ty Cổ Phần Vie Channel\n► Hotline: 0907.950.371 (Mr. Đức Khoa)\n► Email: khoa.nguyen@viechannel.vn hoặc sales@viechannel.vn\n\n📣 Đừng quên subscribe để xem thật nhiều phim mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieChannelHTV2\n\n\n\nXem các chương trình hấp dẫn khác của Vie Channel:\n►Anh Trai Say Hi Full: https://bit.ly/AnhTraiSayHi\n►Rap Việt Full: https://bit.ly/RAPVIETSS3\n►Người Ấy Là Ai Full: https://bit.ly/NALASS5\n►The Masked Singer Vietnam Full: https://bit.ly/TMSVNSS2\n\nHoặc xem thêm trên hệ thống Vie Channel:\n►Website: http://viechannel.vn/\n►Fanpage: https://www.facebook.com/VieChannelHTV2/\n►Instagram: https://www.instagram.com/viechannelhtv2/",
+      "translatedText": "Thờ Ơ: WEAN - HURRYKNG | Sóng 25 [Live Stage]\n\n#SÓNG25 #song25 #wean #hurrykng \n#TigerBeer #SatCanhGamVang #KhaiXuanBanLinh\n#GalaxyS25Ultra #GalaxyAI \n\n★ Mọi nhu cầu quảng cáo và tài trợ xin liên hệ: Công Ty Cổ Phần Vie Channel\n► Hotline: 0907.950.371 (Mr. Đức Khoa)\n► Email: khoa.nguyen@viechannel.vn hoặc sales@viechannel.vn\n\n📣 Đừng quên subscribe để xem thật nhiều phim mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieChannelHTV2\n\n\n\nXem các chương trình hấp dẫn khác của Vie Channel:\n►Anh Trai Say Hi Full: https://bit.ly/AnhTraiSayHi\n►Rap Việt Full: https://bit.ly/RAPVIETSS3\n►Người Ấy Là Ai Full: https://bit.ly/NALASS5\n►The Masked Singer Vietnam Full: https://bit.ly/TMSVNSS2\n\nHoặc xem thêm trên hệ thống Vie Channel:\n►Website: http://viechannel.vn/\n►Fanpage:   / viechannelhtv2  \n►Instagram:   / viechannelhtv2  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ng25",
+          "text": "#SÓNG25"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song25",
+          "text": "#song25"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/wean",
+          "text": "#wean"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hurrykng",
+          "text": "#hurrykng"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tigerbeer",
+          "text": "#TigerBeer"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/satcanhgamvang",
+          "text": "#SatCanhGamVang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/khaixuanbanlinh",
+          "text": "#KhaiXuanBanLinh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/galaxys25ultra",
+          "text": "#GalaxyS25Ultra"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/galaxyai",
+          "text": "#GalaxyAI"
+        },
+        {
+          "url": "http://bit.ly/VieChannelHTV2",
+          "text": "http://bit.ly/VieChannelHTV2"
+        },
+        {
+          "url": "https://bit.ly/AnhTraiSayHi",
+          "text": "https://bit.ly/AnhTraiSayHi"
+        },
+        {
+          "url": "https://bit.ly/RAPVIETSS3",
+          "text": "https://bit.ly/RAPVIETSS3"
+        },
+        {
+          "url": "https://bit.ly/NALASS5",
+          "text": "https://bit.ly/NALASS5"
+        },
+        {
+          "url": "https://bit.ly/TMSVNSS2",
+          "text": "https://bit.ly/TMSVNSS2"
+        },
+        {
+          "url": "http://viechannel.vn/",
+          "text": "http://viechannel.vn/"
+        },
+        {
+          "url": "https://www.facebook.com/VieChannelHTV2/",
+          "text": "  / viechannelhtv2  "
+        },
+        {
+          "url": "https://www.instagram.com/viechannelhtv2/",
+          "text": "  / viechannelhtv2  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 1,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BIwNQgqYSWciQhg-Jtj8yQ",
+      "isMonetized": null,
+      "hashtags": [
+        "#wean",
+        "#hurrykng",
+        "#TigerBeer"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BIwNQgqYSWciQhg-Jtj8yQ",
+      "isPaidContent": false
+    },
+    {
+      "title": "Kim Phút Kim Giờ - Hoàng Hải, Mai Tiến Dũng, Isaac, HURRYKNG, HIEUTHUHAI, Pháp Kiều, Negav |Sóng 25",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "5VQRR7om3tE",
+      "url": "https://www.youtube.com/watch?v=5VQRR7om3tE&list=PLxKLMN7WdG5BIwNQgqYSWciQhg-Jtj8yQ&index=7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/5VQRR7om3tE/maxresdefault.jpg",
+      "viewCount": 739064,
+      "date": "2025-01-29T03:00:04.000Z",
+      "likes": 3600,
+      "location": null,
+      "channelName": "Vie Channel ",
+      "channelUrl": "https://www.youtube.com/@VieChannelOfficial",
+      "channelUsername": "VieChannelOfficial",
+      "collaborators": null,
+      "channelId": "UCkna2OcuN1E6u5I8GVtdkOw",
+      "numberOfSubscribers": 11500000,
+      "duration": "00:19:37",
+      "commentsCount": 134,
+      "text": "Kim Phút Kim Giờ - Hoàng Hải, Mai Tiến Dũng, Isaac, HURRYKNG, HIEUTHUHAI, Pháp Kiều, Negav |Sóng 25 \n\n#SÓNG25 #song25 #kimphutkimgio #hieuthuhai #hyrrykng #phapkieu #negav #isaac \n#TigerBeer #SatCanhGamVang #KhaiXuanBanLinh\n#GalaxyS25Ultra #GalaxyAI \n\n★ Mọi nhu cầu quảng cáo và tài trợ xin liên hệ: Công Ty Cổ Phần Vie Channel\n► Hotline: 0907.950.371 (Mr. Đức Khoa)\n► Email: khoa.nguyen@viechannel.vn hoặc sales@viechannel.vn\n\n📣 Đừng quên subscribe để xem thật nhiều phim mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieChannelHTV2\n\n\n\nXem các chương trình hấp dẫn khác của Vie Channel:\n►Anh Trai Say Hi Full: https://bit.ly/AnhTraiSayHi\n►Rap Việt Full: https://bit.ly/RAPVIETSS3\n►Người Ấy Là Ai Full: https://bit.ly/NALASS5\n►The Masked Singer Vietnam Full: https://bit.ly/TMSVNSS2\n\nHoặc xem thêm trên hệ thống Vie Channel:\n►Website: http://viechannel.vn/\n►Fanpage: https://www.facebook.com/VieChannelHTV2/\n►Instagram: https://www.instagram.com/viechannelhtv2/",
+      "translatedText": "Kim Phút Kim Giờ - Hoàng Hải, Mai Tiến Dũng, Isaac, HURRYKNG, HIEUTHUHAI, Pháp Kiều, Negav |Sóng 25 \n\n#SÓNG25 #song25 #kimphutkimgio #hieuthuhai #hyrrykng #phapkieu #negav #isaac \n#TigerBeer #SatCanhGamVang #KhaiXuanBanLinh\n#GalaxyS25Ultra #GalaxyAI \n\n★ Mọi nhu cầu quảng cáo và tài trợ xin liên hệ: Công Ty Cổ Phần Vie Channel\n► Hotline: 0907.950.371 (Mr. Đức Khoa)\n► Email: khoa.nguyen@viechannel.vn hoặc sales@viechannel.vn\n\n📣 Đừng quên subscribe để xem thật nhiều phim mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieChannelHTV2\n\n\n\nXem các chương trình hấp dẫn khác của Vie Channel:\n►Anh Trai Say Hi Full: https://bit.ly/AnhTraiSayHi\n►Rap Việt Full: https://bit.ly/RAPVIETSS3\n►Người Ấy Là Ai Full: https://bit.ly/NALASS5\n►The Masked Singer Vietnam Full: https://bit.ly/TMSVNSS2\n\nHoặc xem thêm trên hệ thống Vie Channel:\n►Website: http://viechannel.vn/\n►Fanpage:   / viechannelhtv2  \n►Instagram:   / viechannelhtv2  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ng25",
+          "text": "#SÓNG25"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song25",
+          "text": "#song25"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/kimphutkimgio",
+          "text": "#kimphutkimgio"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hieuthuhai",
+          "text": "#hieuthuhai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hyrrykng",
+          "text": "#hyrrykng"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phapkieu",
+          "text": "#phapkieu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/negav",
+          "text": "#negav"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/isaac",
+          "text": "#isaac"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tigerbeer",
+          "text": "#TigerBeer"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/satcanhgamvang",
+          "text": "#SatCanhGamVang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/khaixuanbanlinh",
+          "text": "#KhaiXuanBanLinh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/galaxys25ultra",
+          "text": "#GalaxyS25Ultra"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/galaxyai",
+          "text": "#GalaxyAI"
+        },
+        {
+          "url": "http://bit.ly/VieChannelHTV2",
+          "text": "http://bit.ly/VieChannelHTV2"
+        },
+        {
+          "url": "https://bit.ly/AnhTraiSayHi",
+          "text": "https://bit.ly/AnhTraiSayHi"
+        },
+        {
+          "url": "https://bit.ly/RAPVIETSS3",
+          "text": "https://bit.ly/RAPVIETSS3"
+        },
+        {
+          "url": "https://bit.ly/NALASS5",
+          "text": "https://bit.ly/NALASS5"
+        },
+        {
+          "url": "https://bit.ly/TMSVNSS2",
+          "text": "https://bit.ly/TMSVNSS2"
+        },
+        {
+          "url": "http://viechannel.vn/",
+          "text": "http://viechannel.vn/"
+        },
+        {
+          "url": "https://www.facebook.com/VieChannelHTV2/",
+          "text": "  / viechannelhtv2  "
+        },
+        {
+          "url": "https://www.instagram.com/viechannelhtv2/",
+          "text": "  / viechannelhtv2  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 6,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BIwNQgqYSWciQhg-Jtj8yQ",
+      "isMonetized": null,
+      "hashtags": [
+        "#phapkieu",
+        "#negav",
+        "#TigerBeer"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BIwNQgqYSWciQhg-Jtj8yQ",
+      "isPaidContent": false
+    },
+    {
+      "title": "Thắp Sáng Nơi Em - Hùng Huỳnh, Pháp Kiều, Đức Phúc, Captain Boy, Hải Đăng Doo,... | Sóng 25",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "34h1TllevkM",
+      "url": "https://www.youtube.com/watch?v=34h1TllevkM&list=PLxKLMN7WdG5BIwNQgqYSWciQhg-Jtj8yQ&index=6",
+      "thumbnailUrl": "https://i.ytimg.com/vi/34h1TllevkM/maxresdefault.jpg",
+      "viewCount": 66908,
+      "date": "2025-01-29T04:00:03.000Z",
+      "likes": 951,
+      "location": null,
+      "channelName": "Vie Channel ",
+      "channelUrl": "https://www.youtube.com/@VieChannelOfficial",
+      "channelUsername": "VieChannelOfficial",
+      "collaborators": null,
+      "channelId": "UCkna2OcuN1E6u5I8GVtdkOw",
+      "numberOfSubscribers": 11500000,
+      "duration": "00:08:23",
+      "commentsCount": 79,
+      "text": "Thắp Sáng Nơi Em - Hùng Huỳnh, Pháp Kiều, Đức Phúc, Captain Boy, Hải Đăng Doo,... | Sóng 25\n\n#SÓNG25 #song25 #thapsangnoiem #emxinh \n#TigerBeer #SatCanhGamVang #KhaiXuanBanLinh\n#GalaxyS25Ultra #GalaxyAI \n\n★ Mọi nhu cầu quảng cáo và tài trợ xin liên hệ: Công Ty Cổ Phần Vie Channel\n► Hotline: 0907.950.371 (Mr. Đức Khoa)\n► Email: khoa.nguyen@viechannel.vn hoặc sales@viechannel.vn\n\n📣 Đừng quên subscribe để xem thật nhiều phim mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieChannelHTV2\n\n\n\nXem các chương trình hấp dẫn khác của Vie Channel:\n►Anh Trai Say Hi Full: https://bit.ly/AnhTraiSayHi\n►Rap Việt Full: https://bit.ly/RAPVIETSS3\n►Người Ấy Là Ai Full: https://bit.ly/NALASS5\n►The Masked Singer Vietnam Full: https://bit.ly/TMSVNSS2\n\nHoặc xem thêm trên hệ thống Vie Channel:\n►Website: http://viechannel.vn/\n►Fanpage: https://www.facebook.com/VieChannelHTV2/\n►Instagram: https://www.instagram.com/viechannelhtv2/",
+      "translatedText": "Thắp Sáng Nơi Em - Hùng Huỳnh, Pháp Kiều, Đức Phúc, Captain Boy, Hải Đăng Doo,... | Sóng 25\n\n#SÓNG25 #song25 #thapsangnoiem #emxinh \n#TigerBeer #SatCanhGamVang #KhaiXuanBanLinh\n#GalaxyS25Ultra #GalaxyAI \n\n★ Mọi nhu cầu quảng cáo và tài trợ xin liên hệ: Công Ty Cổ Phần Vie Channel\n► Hotline: 0907.950.371 (Mr. Đức Khoa)\n► Email: khoa.nguyen@viechannel.vn hoặc sales@viechannel.vn\n\n📣 Đừng quên subscribe để xem thật nhiều phim mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieChannelHTV2\n\n\n\nXem các chương trình hấp dẫn khác của Vie Channel:\n►Anh Trai Say Hi Full: https://bit.ly/AnhTraiSayHi\n►Rap Việt Full: https://bit.ly/RAPVIETSS3\n►Người Ấy Là Ai Full: https://bit.ly/NALASS5\n►The Masked Singer Vietnam Full: https://bit.ly/TMSVNSS2\n\nHoặc xem thêm trên hệ thống Vie Channel:\n►Website: http://viechannel.vn/\n►Fanpage:   / viechannelhtv2  \n►Instagram:   / viechannelhtv2  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ng25",
+          "text": "#SÓNG25"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song25",
+          "text": "#song25"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thapsangnoiem",
+          "text": "#thapsangnoiem"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/emxinh",
+          "text": "#emxinh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tigerbeer",
+          "text": "#TigerBeer"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/satcanhgamvang",
+          "text": "#SatCanhGamVang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/khaixuanbanlinh",
+          "text": "#KhaiXuanBanLinh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/galaxys25ultra",
+          "text": "#GalaxyS25Ultra"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/galaxyai",
+          "text": "#GalaxyAI"
+        },
+        {
+          "url": "http://bit.ly/VieChannelHTV2",
+          "text": "http://bit.ly/VieChannelHTV2"
+        },
+        {
+          "url": "https://bit.ly/AnhTraiSayHi",
+          "text": "https://bit.ly/AnhTraiSayHi"
+        },
+        {
+          "url": "https://bit.ly/RAPVIETSS3",
+          "text": "https://bit.ly/RAPVIETSS3"
+        },
+        {
+          "url": "https://bit.ly/NALASS5",
+          "text": "https://bit.ly/NALASS5"
+        },
+        {
+          "url": "https://bit.ly/TMSVNSS2",
+          "text": "https://bit.ly/TMSVNSS2"
+        },
+        {
+          "url": "http://viechannel.vn/",
+          "text": "http://viechannel.vn/"
+        },
+        {
+          "url": "https://www.facebook.com/VieChannelHTV2/",
+          "text": "  / viechannelhtv2  "
+        },
+        {
+          "url": "https://www.instagram.com/viechannelhtv2/",
+          "text": "  / viechannelhtv2  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 5,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BIwNQgqYSWciQhg-Jtj8yQ",
+      "isMonetized": null,
+      "hashtags": [
+        "#TigerBeer",
+        "#emxinh",
+        "#GalaxyS25Ultra"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BIwNQgqYSWciQhg-Jtj8yQ",
+      "isPaidContent": false
+    },
+    {
+      "title": "Bí Mật Gia Tộc: Dương Lâm, Lê Giang, Quang Hùng MasterD, Thuỳ Tiên, Võ Tấn Phát, Negav| Kịch Sóng 25",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "UYkwXFR8Un4",
+      "url": "https://www.youtube.com/watch?v=UYkwXFR8Un4&list=PLxKLMN7WdG5BIwNQgqYSWciQhg-Jtj8yQ&index=8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/UYkwXFR8Un4/maxresdefault.jpg",
+      "viewCount": 1013990,
+      "date": "2025-01-29T02:00:30.000Z",
+      "likes": 10000,
+      "location": null,
+      "channelName": "Vie Channel ",
+      "channelUrl": "https://www.youtube.com/@VieChannelOfficial",
+      "channelUsername": "VieChannelOfficial",
+      "collaborators": null,
+      "channelId": "UCkna2OcuN1E6u5I8GVtdkOw",
+      "numberOfSubscribers": 11500000,
+      "duration": "00:36:57",
+      "commentsCount": 420,
+      "text": "Bí Mật Gia Tộc: Dương Lâm, Lê Giang, Quang Hùng MasterD, Thuỳ Tiên, Võ Tấn Phát, Negav| Kịch Sóng 25\n\n#SÓNG25 #song25 #duonglam #legiang #thuytien \n#TigerBeer #SatCanhGamVang #KhaiXuanBanLinh\n#GalaxyS25Ultra #GalaxyAI \n\n★ Mọi nhu cầu quảng cáo và tài trợ xin liên hệ: Công Ty Cổ Phần Vie Channel\n► Hotline: 0907.950.371 (Mr. Đức Khoa)\n► Email: khoa.nguyen@viechannel.vn hoặc sales@viechannel.vn\n\n📣 Đừng quên subscribe để xem thật nhiều phim mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieChannelHTV2\n\n\n\nXem các chương trình hấp dẫn khác của Vie Channel:\n►Anh Trai Say Hi Full: https://bit.ly/AnhTraiSayHi\n►Rap Việt Full: https://bit.ly/RAPVIETSS3\n►Người Ấy Là Ai Full: https://bit.ly/NALASS5\n►The Masked Singer Vietnam Full: https://bit.ly/TMSVNSS2\n\nHoặc xem thêm trên hệ thống Vie Channel:\n►Website: http://viechannel.vn/\n►Fanpage: https://www.facebook.com/VieChannelHTV2/\n►Instagram: https://www.instagram.com/viechannelhtv2/",
+      "translatedText": "Bí Mật Gia Tộc: Dương Lâm, Lê Giang, Quang Hùng MasterD, Thuỳ Tiên, Võ Tấn Phát, Negav| Kịch Sóng 25\n\n#SÓNG25 #song25 #duonglam #legiang #thuytien \n#TigerBeer #SatCanhGamVang #KhaiXuanBanLinh\n#GalaxyS25Ultra #GalaxyAI \n\n★ Mọi nhu cầu quảng cáo và tài trợ xin liên hệ: Công Ty Cổ Phần Vie Channel\n► Hotline: 0907.950.371 (Mr. Đức Khoa)\n► Email: khoa.nguyen@viechannel.vn hoặc sales@viechannel.vn\n\n📣 Đừng quên subscribe để xem thật nhiều phim mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieChannelHTV2\n\n\n\nXem các chương trình hấp dẫn khác của Vie Channel:\n►Anh Trai Say Hi Full: https://bit.ly/AnhTraiSayHi\n►Rap Việt Full: https://bit.ly/RAPVIETSS3\n►Người Ấy Là Ai Full: https://bit.ly/NALASS5\n►The Masked Singer Vietnam Full: https://bit.ly/TMSVNSS2\n\nHoặc xem thêm trên hệ thống Vie Channel:\n►Website: http://viechannel.vn/\n►Fanpage:   / viechannelhtv2  \n►Instagram:   / viechannelhtv2  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ng25",
+          "text": "#SÓNG25"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song25",
+          "text": "#song25"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/duonglam",
+          "text": "#duonglam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/legiang",
+          "text": "#legiang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thuytien",
+          "text": "#thuytien"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tigerbeer",
+          "text": "#TigerBeer"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/satcanhgamvang",
+          "text": "#SatCanhGamVang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/khaixuanbanlinh",
+          "text": "#KhaiXuanBanLinh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/galaxys25ultra",
+          "text": "#GalaxyS25Ultra"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/galaxyai",
+          "text": "#GalaxyAI"
+        },
+        {
+          "url": "http://bit.ly/VieChannelHTV2",
+          "text": "http://bit.ly/VieChannelHTV2"
+        },
+        {
+          "url": "https://bit.ly/AnhTraiSayHi",
+          "text": "https://bit.ly/AnhTraiSayHi"
+        },
+        {
+          "url": "https://bit.ly/RAPVIETSS3",
+          "text": "https://bit.ly/RAPVIETSS3"
+        },
+        {
+          "url": "https://bit.ly/NALASS5",
+          "text": "https://bit.ly/NALASS5"
+        },
+        {
+          "url": "https://bit.ly/TMSVNSS2",
+          "text": "https://bit.ly/TMSVNSS2"
+        },
+        {
+          "url": "http://viechannel.vn/",
+          "text": "http://viechannel.vn/"
+        },
+        {
+          "url": "https://www.facebook.com/VieChannelHTV2/",
+          "text": "  / viechannelhtv2  "
+        },
+        {
+          "url": "https://www.instagram.com/viechannelhtv2/",
+          "text": "  / viechannelhtv2  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 7,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BIwNQgqYSWciQhg-Jtj8yQ",
+      "isMonetized": null,
+      "hashtags": [
+        "#TigerBeer",
+        "#thuytien",
+        "#GalaxyAI"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BIwNQgqYSWciQhg-Jtj8yQ",
+      "isPaidContent": false
+    },
+    {
+      "title": "Ánh Mắt Biết Cười: Quang Hùng MasterD - Tăng Duy Tân | Sóng 25 [Live Stage]",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "GikA0wEe8Ls",
+      "url": "https://www.youtube.com/watch?v=GikA0wEe8Ls&list=PLxKLMN7WdG5BIwNQgqYSWciQhg-Jtj8yQ&index=3",
+      "thumbnailUrl": "https://i.ytimg.com/vi/GikA0wEe8Ls/maxresdefault.jpg",
+      "viewCount": 493338,
+      "date": "2025-01-30T03:00:20.000Z",
+      "likes": 3400,
+      "location": null,
+      "channelName": "Vie Channel ",
+      "channelUrl": "https://www.youtube.com/@VieChannelOfficial",
+      "channelUsername": "VieChannelOfficial",
+      "collaborators": null,
+      "channelId": "UCkna2OcuN1E6u5I8GVtdkOw",
+      "numberOfSubscribers": 11500000,
+      "duration": "00:07:36",
+      "commentsCount": 177,
+      "text": "Ánh Mắt Biết Cười: Quang Hùng MasterD - Tăng Duy Tân | Sóng 25 [Live Stage]\n\n#SÓNG25 #song25 #anhmatbietcuoi #quanghungmasterd #tangduytan \n#TigerBeer #SatCanhGamVang #KhaiXuanBanLinh\n#GalaxyS25Ultra #GalaxyAI \n\n★ Mọi nhu cầu quảng cáo và tài trợ xin liên hệ: Công Ty Cổ Phần Vie Channel\n► Hotline: 0907.950.371 (Mr. Đức Khoa)\n► Email: khoa.nguyen@viechannel.vn hoặc sales@viechannel.vn\n\n📣 Đừng quên subscribe để xem thật nhiều phim mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieChannelHTV2\n\n\n\nXem các chương trình hấp dẫn khác của Vie Channel:\n►Anh Trai Say Hi Full: https://bit.ly/AnhTraiSayHi\n►Rap Việt Full: https://bit.ly/RAPVIETSS3\n►Người Ấy Là Ai Full: https://bit.ly/NALASS5\n►The Masked Singer Vietnam Full: https://bit.ly/TMSVNSS2\n\nHoặc xem thêm trên hệ thống Vie Channel:\n►Website: http://viechannel.vn/\n►Fanpage: https://www.facebook.com/VieChannelHTV2/\n►Instagram: https://www.instagram.com/viechannelhtv2/",
+      "translatedText": "Ánh Mắt Biết Cười: Quang Hùng MasterD - Tăng Duy Tân | Sóng 25 [Live Stage]\n\n#SÓNG25 #song25 #anhmatbietcuoi #quanghungmasterd #tangduytan \n#TigerBeer #SatCanhGamVang #KhaiXuanBanLinh\n#GalaxyS25Ultra #GalaxyAI \n\n★ Mọi nhu cầu quảng cáo và tài trợ xin liên hệ: Công Ty Cổ Phần Vie Channel\n► Hotline: 0907.950.371 (Mr. Đức Khoa)\n► Email: khoa.nguyen@viechannel.vn hoặc sales@viechannel.vn\n\n📣 Đừng quên subscribe để xem thật nhiều phim mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieChannelHTV2\n\n\n\nXem các chương trình hấp dẫn khác của Vie Channel:\n►Anh Trai Say Hi Full: https://bit.ly/AnhTraiSayHi\n►Rap Việt Full: https://bit.ly/RAPVIETSS3\n►Người Ấy Là Ai Full: https://bit.ly/NALASS5\n►The Masked Singer Vietnam Full: https://bit.ly/TMSVNSS2\n\nHoặc xem thêm trên hệ thống Vie Channel:\n►Website: http://viechannel.vn/\n►Fanpage:   / viechannelhtv2  \n►Instagram:   / viechannelhtv2  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ng25",
+          "text": "#SÓNG25"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song25",
+          "text": "#song25"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhmatbietcuoi",
+          "text": "#anhmatbietcuoi"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quanghungmasterd",
+          "text": "#quanghungmasterd"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tangduytan",
+          "text": "#tangduytan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tigerbeer",
+          "text": "#TigerBeer"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/satcanhgamvang",
+          "text": "#SatCanhGamVang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/khaixuanbanlinh",
+          "text": "#KhaiXuanBanLinh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/galaxys25ultra",
+          "text": "#GalaxyS25Ultra"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/galaxyai",
+          "text": "#GalaxyAI"
+        },
+        {
+          "url": "http://bit.ly/VieChannelHTV2",
+          "text": "http://bit.ly/VieChannelHTV2"
+        },
+        {
+          "url": "https://bit.ly/AnhTraiSayHi",
+          "text": "https://bit.ly/AnhTraiSayHi"
+        },
+        {
+          "url": "https://bit.ly/RAPVIETSS3",
+          "text": "https://bit.ly/RAPVIETSS3"
+        },
+        {
+          "url": "https://bit.ly/NALASS5",
+          "text": "https://bit.ly/NALASS5"
+        },
+        {
+          "url": "https://bit.ly/TMSVNSS2",
+          "text": "https://bit.ly/TMSVNSS2"
+        },
+        {
+          "url": "http://viechannel.vn/",
+          "text": "http://viechannel.vn/"
+        },
+        {
+          "url": "https://www.facebook.com/VieChannelHTV2/",
+          "text": "  / viechannelhtv2  "
+        },
+        {
+          "url": "https://www.instagram.com/viechannelhtv2/",
+          "text": "  / viechannelhtv2  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 2,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BIwNQgqYSWciQhg-Jtj8yQ",
+      "isMonetized": null,
+      "hashtags": [
+        "#tangduytan",
+        "#TigerBeer",
+        "#quanghungmasterd"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5BIwNQgqYSWciQhg-Jtj8yQ",
+      "isPaidContent": false
+    }
+  ]
+}

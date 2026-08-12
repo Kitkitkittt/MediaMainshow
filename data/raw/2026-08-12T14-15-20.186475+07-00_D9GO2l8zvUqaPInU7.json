@@ -1,0 +1,536 @@
+{
+  "actor_name": "streamers/youtube-scraper",
+  "actor_run_id": "D9GO2l8zvUqaPInU7",
+  "dataset_id": "StkOFQKdLqiPiHBIY",
+  "actor_build_id": "SUk0475fgtCh9zqMt",
+  "retrieved_at": "2026-08-12T14:15:20.186475+07:00",
+  "actor_input": {
+    "maxResults": 36,
+    "maxResultsShorts": 0,
+    "maxResultStreams": 0,
+    "startUrls": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqCdnDzNstfo0Gsjgkoou5x"
+      }
+    ],
+    "sourceBindingUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqCdnDzNstfo0Gsjgkoou5x"
+  },
+  "run_metadata": {
+    "status": "SUCCEEDED",
+    "startedAt": "2026-08-12T07:14:39.775Z",
+    "finishedAt": "2026-08-12T07:15:13.546Z",
+    "usageTotalUsd": 0.028,
+    "chargedEventCounts": {
+      "result": 7,
+      "date-filter": 0,
+      "ai-video-description": 0,
+      "ai-video-summary": 0
+    }
+  },
+  "items": [
+    {
+      "title": "Sao nhập ngũ (SS4): BHT|Tập 8: Ngày cuối cùng",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "dd3jkHxTv8Y",
+      "url": "https://www.youtube.com/watch?v=dd3jkHxTv8Y&list=PLC_d5n_vB0CqCdnDzNstfo0Gsjgkoou5x&index=8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/dd3jkHxTv8Y/maxresdefault.jpg",
+      "viewCount": 2966038,
+      "date": "2017-11-05T05:00:01.000Z",
+      "likes": 14000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:29:33",
+      "commentsCount": 10,
+      "text": "#saonhapngu #huonggiang #maingo #khangan \n\nSao Nhập Ngũ được sản xuất bởi công ty Viettel Media - đơn vị sản xuất phim chuyên nghiệp. Mùa 4 của Sao nhập ngũ là sự tham gia của 4 bóng hồng Mai Ngô, Hương Giang Idol, Nhung Gumiho và Khả Ngân. Cuộc sống quân ngũ còn nhiều bỡ ngỡ, những thay đổi trong sinh hoạt, giờ giấc không khỏi khiến các cô gái cảm thấy hoang mang và lúng túng. Khi mà mỗi sáng đều phải dậy theo tiếng còi báo thức, các tác phong đều phải đi vào quy củ, thời gian cho trang điểm chỉ có vài phút, cùng với những vẫn đề về sức khỏe liệu 4 cô gái có vượt qua được 7 ngày tại Lữ đoàn Đặc công 113?\n\n❣️ Ekip sản xuất:\nTổng Đạo diễn: Lương Hải Khoa\nĐạo diễn: Lê Quý Giáp, Kiều Tuấn Long\nBiên tập: Ngô Trang\nBiên tập & Truyền thông: Nga Nguyễn, Linh Trần\nD.O.P: Đoàn Ngọc Ước, Mai Trùng Khánh\nTổ chức sản xuất: Nguyễn Nga\nEditor: Hải Khoa Lương, Giáp Lê, Trang Ngô, Leo Kây, Thanh Liêm, Thanh Tùng, Hiệp CIne\nQuay phim: Vũ Thái Ngân, Vũ Thành Nam, Lưu Văn Thảo, Ngô Quang Anh, Kiều Phương, Tuấn Anh, Đức Huy, Hoàng Quân, Huy Tây, Huy bé, Nguyễn Xuân Sang\n-Tiền kỳ: Anh Đức, Văn Hải, Nguyễn Phương, Minh Giang, Đăng Chử...\nÂm Thanh: Đoàn Xuân Lộc\nFly: Linh Fly.\nHọa sĩ: Hải kẹo, Thế Tam\nNhiếp ảnh: Sơn Tùng, Thanh Tùng\n\nSubcribe tại:    / saonhapngu-qpvn  \nFanpage:   / saonhapngu  \n\nChương trình đã được Cục Bản quyền tác giả, Bộ Văn hóa-Thể thao và Du lịch cấp giấy chứng nhận bản quyền.",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huonggiang",
+          "text": "#huonggiang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/maingo",
+          "text": "#maingo"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/khangan",
+          "text": "#khangan"
+        },
+        {
+          "url": "https://www.youtube.com/saonhapngu-qpvn",
+          "text": "   / saonhapngu-qpvn  "
+        },
+        {
+          "url": "https://www.facebook.com/saonhapngu",
+          "text": "  / saonhapngu  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 7,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqCdnDzNstfo0Gsjgkoou5x",
+      "isMonetized": null,
+      "hashtags": [
+        "#huonggiang",
+        "#maingo",
+        "#saonhapngu"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqCdnDzNstfo0Gsjgkoou5x",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ (SS4): BHT |  Tập 1: Nhập ngũ - Hương Giang Idol, Mai Ngô | Những Bông Hồng Thép",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "2ZXCKiqZe0g",
+      "url": "https://www.youtube.com/watch?v=2ZXCKiqZe0g&list=PLC_d5n_vB0CqCdnDzNstfo0Gsjgkoou5x&index=1",
+      "thumbnailUrl": "https://i.ytimg.com/vi/2ZXCKiqZe0g/maxresdefault.jpg",
+      "viewCount": 7431498,
+      "date": "2017-09-17T14:17:38.000Z",
+      "likes": 34000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:26:28",
+      "commentsCount": 185,
+      "text": "#saonhapngu #huonggiang #maingo #khangan \n\nSao Nhập Ngũ được sản xuất bởi công ty Viettel Media - đơn vị sản xuất phim chuyên nghiệp. Mùa 4 của Sao nhập ngũ là sự tham gia của 4 bóng hồng Mai Ngô, Hương Giang Idol, Nhung Gumiho và Khả Ngân. Cuộc sống quân ngũ còn nhiều bỡ ngỡ, những thay đổi trong sinh hoạt, giờ giấc không khỏi khiến các cô gái cảm thấy hoang mang và lúng túng. Khi mà mỗi sáng đều phải dậy theo tiếng còi báo thức, các tác phong đều phải đi vào quy củ, thời gian cho trang điểm chỉ có vài phút, cùng với những vẫn đề về sức khỏe liệu 4 cô gái có vượt qua được 7 ngày tại Lữ đoàn Đặc công 113?\n\n❣️ Ekip sản xuất:\nTổng Đạo diễn: Lương Hải Khoa\nĐạo diễn: Lê Quý Giáp, Kiều Tuấn Long\nBiên tập: Ngô Trang\nBiên tập & Truyền thông: Nga Nguyễn, Linh Trần\nD.O.P: Đoàn Ngọc Ước, Mai Trùng Khánh\nTổ chức sản xuất: Nguyễn Nga\nEditor: Hải Khoa Lương, Giáp Lê, Trang Ngô, Leo Kây, Thanh Liêm, Thanh Tùng, Hiệp CIne\nQuay phim: Vũ Thái Ngân, Vũ Thành Nam, Lưu Văn Thảo, Ngô Quang Anh, Kiều Phương, Tuấn Anh, Đức Huy, Hoàng Quân, Huy Tây, Huy bé, Nguyễn Xuân Sang\n-Tiền kỳ: Anh Đức, Văn Hải, Nguyễn Phương, Minh Giang, Đăng Chử...\nÂm Thanh: Đoàn Xuân Lộc\nFly: Linh Fly.\nHọa sĩ: Hải kẹo, Thế Tam\nNhiếp ảnh: Sơn Tùng, Thanh Tùng\n\nSubcribe tại:    / saonhapngu-qpvn  \nFanpage:   / saonhapngu  \n\nChương trình đã được Cục Bản quyền tác giả, Bộ Văn hóa-Thể thao và Du lịch cấp giấy chứng nhận bản quyền.",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huonggiang",
+          "text": "#huonggiang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/maingo",
+          "text": "#maingo"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/khangan",
+          "text": "#khangan"
+        },
+        {
+          "url": "https://www.youtube.com/saonhapngu-qpvn",
+          "text": "   / saonhapngu-qpvn  "
+        },
+        {
+          "url": "https://www.facebook.com/saonhapngu",
+          "text": "  / saonhapngu  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 0,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqCdnDzNstfo0Gsjgkoou5x",
+      "isMonetized": null,
+      "hashtags": [
+        "#huonggiang",
+        "#maingo",
+        "#saonhapngu"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqCdnDzNstfo0Gsjgkoou5x",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ (SS4): BHT|Tập 7: Mở lòng",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "-g4MnAEyao4",
+      "url": "https://www.youtube.com/watch?v=-g4MnAEyao4&list=PLC_d5n_vB0CqCdnDzNstfo0Gsjgkoou5x&index=7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/-g4MnAEyao4/maxresdefault.jpg",
+      "viewCount": 2012036,
+      "date": "2017-10-29T05:00:00.000Z",
+      "likes": 7900,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:28:30",
+      "commentsCount": 34,
+      "text": "#saonhapngu #huonggiang #maingo #khangan \n\nSao Nhập Ngũ được sản xuất bởi công ty Viettel Media - đơn vị sản xuất phim chuyên nghiệp. Mùa 4 của Sao nhập ngũ là sự tham gia của 4 bóng hồng Mai Ngô, Hương Giang Idol, Nhung Gumiho và Khả Ngân. Cuộc sống quân ngũ còn nhiều bỡ ngỡ, những thay đổi trong sinh hoạt, giờ giấc không khỏi khiến các cô gái cảm thấy hoang mang và lúng túng. Khi mà mỗi sáng đều phải dậy theo tiếng còi báo thức, các tác phong đều phải đi vào quy củ, thời gian cho trang điểm chỉ có vài phút, cùng với những vẫn đề về sức khỏe liệu 4 cô gái có vượt qua được 7 ngày tại Lữ đoàn Đặc công 113?\n\n❣️ Ekip sản xuất:\nTổng Đạo diễn: Lương Hải Khoa\nĐạo diễn: Lê Quý Giáp, Kiều Tuấn Long\nBiên tập: Ngô Trang\nBiên tập & Truyền thông: Nga Nguyễn, Linh Trần\nD.O.P: Đoàn Ngọc Ước, Mai Trùng Khánh\nTổ chức sản xuất: Nguyễn Nga\nEditor: Hải Khoa Lương, Giáp Lê, Trang Ngô, Leo Kây, Thanh Liêm, Thanh Tùng, Hiệp CIne\nQuay phim: Vũ Thái Ngân, Vũ Thành Nam, Lưu Văn Thảo, Ngô Quang Anh, Kiều Phương, Tuấn Anh, Đức Huy, Hoàng Quân, Huy Tây, Huy bé, Nguyễn Xuân Sang\n-Tiền kỳ: Anh Đức, Văn Hải, Nguyễn Phương, Minh Giang, Đăng Chử...\nÂm Thanh: Đoàn Xuân Lộc\nFly: Linh Fly.\nHọa sĩ: Hải kẹo, Thế Tam\nNhiếp ảnh: Sơn Tùng, Thanh Tùng\n\nSubcribe tại:    / saonhapngu-qpvn  \nFanpage:   / saonhapngu  \n\nChương trình đã được Cục Bản quyền tác giả, Bộ Văn hóa-Thể thao và Du lịch cấp giấy chứng nhận bản quyền.",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huonggiang",
+          "text": "#huonggiang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/maingo",
+          "text": "#maingo"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/khangan",
+          "text": "#khangan"
+        },
+        {
+          "url": "https://www.youtube.com/saonhapngu-qpvn",
+          "text": "   / saonhapngu-qpvn  "
+        },
+        {
+          "url": "https://www.facebook.com/saonhapngu",
+          "text": "  / saonhapngu  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 6,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqCdnDzNstfo0Gsjgkoou5x",
+      "isMonetized": null,
+      "hashtags": [
+        "#huonggiang",
+        "#maingo",
+        "#saonhapngu"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqCdnDzNstfo0Gsjgkoou5x",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ (SS4): BHT|Tập 6: Chớp lửa nơi đầu nòng",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "4spnJBsZ0mc",
+      "url": "https://www.youtube.com/watch?v=4spnJBsZ0mc&list=PLC_d5n_vB0CqCdnDzNstfo0Gsjgkoou5x&index=6",
+      "thumbnailUrl": "https://i.ytimg.com/vi/4spnJBsZ0mc/maxresdefault.jpg",
+      "viewCount": 2055810,
+      "date": "2017-10-22T05:00:00.000Z",
+      "likes": 9000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:29:06",
+      "commentsCount": 61,
+      "text": "#saonhapngu #huonggiang #maingo #khangan \n\nSao Nhập Ngũ được sản xuất bởi công ty Viettel Media - đơn vị sản xuất phim chuyên nghiệp. Mùa 4 của Sao nhập ngũ là sự tham gia của 4 bóng hồng Mai Ngô, Hương Giang Idol, Nhung Gumiho và Khả Ngân. Cuộc sống quân ngũ còn nhiều bỡ ngỡ, những thay đổi trong sinh hoạt, giờ giấc không khỏi khiến các cô gái cảm thấy hoang mang và lúng túng. Khi mà mỗi sáng đều phải dậy theo tiếng còi báo thức, các tác phong đều phải đi vào quy củ, thời gian cho trang điểm chỉ có vài phút, cùng với những vẫn đề về sức khỏe liệu 4 cô gái có vượt qua được 7 ngày tại Lữ đoàn Đặc công 113?\n\n❣️ Ekip sản xuất:\nTổng Đạo diễn: Lương Hải Khoa\nĐạo diễn: Lê Quý Giáp, Kiều Tuấn Long\nBiên tập: Ngô Trang\nBiên tập & Truyền thông: Nga Nguyễn, Linh Trần\nD.O.P: Đoàn Ngọc Ước, Mai Trùng Khánh\nTổ chức sản xuất: Nguyễn Nga\nEditor: Hải Khoa Lương, Giáp Lê, Trang Ngô, Leo Kây, Thanh Liêm, Thanh Tùng, Hiệp CIne\nQuay phim: Vũ Thái Ngân, Vũ Thành Nam, Lưu Văn Thảo, Ngô Quang Anh, Kiều Phương, Tuấn Anh, Đức Huy, Hoàng Quân, Huy Tây, Huy bé, Nguyễn Xuân Sang\n-Tiền kỳ: Anh Đức, Văn Hải, Nguyễn Phương, Minh Giang, Đăng Chử...\nÂm Thanh: Đoàn Xuân Lộc\nFly: Linh Fly.\nHọa sĩ: Hải kẹo, Thế Tam\nNhiếp ảnh: Sơn Tùng, Thanh Tùng\n\nSubcribe tại:    / saonhapngu-qpvn  \nFanpage:   / saonhapngu  \n\nChương trình đã được Cục Bản quyền tác giả, Bộ Văn hóa-Thể thao và Du lịch cấp giấy chứng nhận bản quyền.",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huonggiang",
+          "text": "#huonggiang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/maingo",
+          "text": "#maingo"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/khangan",
+          "text": "#khangan"
+        },
+        {
+          "url": "https://www.youtube.com/saonhapngu-qpvn",
+          "text": "   / saonhapngu-qpvn  "
+        },
+        {
+          "url": "https://www.facebook.com/saonhapngu",
+          "text": "  / saonhapngu  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 5,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqCdnDzNstfo0Gsjgkoou5x",
+      "isMonetized": null,
+      "hashtags": [
+        "#huonggiang",
+        "#maingo",
+        "#saonhapngu"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqCdnDzNstfo0Gsjgkoou5x",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ (SS4): BHT|Tập 4: Không gục ngã",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "NxUJjkWzEsk",
+      "url": "https://www.youtube.com/watch?v=NxUJjkWzEsk&list=PLC_d5n_vB0CqCdnDzNstfo0Gsjgkoou5x&index=4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/NxUJjkWzEsk/maxresdefault.jpg",
+      "viewCount": 3527856,
+      "date": "2017-10-08T05:57:46.000Z",
+      "likes": 13000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:29:22",
+      "commentsCount": 29,
+      "text": "#saonhapngu #huonggiang #maingo #khangan \n\nSao Nhập Ngũ được sản xuất bởi công ty Viettel Media - đơn vị sản xuất phim chuyên nghiệp. Mùa 4 của Sao nhập ngũ là sự tham gia của 4 bóng hồng Mai Ngô, Hương Giang Idol, Nhung Gumiho và Khả Ngân. Cuộc sống quân ngũ còn nhiều bỡ ngỡ, những thay đổi trong sinh hoạt, giờ giấc không khỏi khiến các cô gái cảm thấy hoang mang và lúng túng. Khi mà mỗi sáng đều phải dậy theo tiếng còi báo thức, các tác phong đều phải đi vào quy củ, thời gian cho trang điểm chỉ có vài phút, cùng với những vẫn đề về sức khỏe liệu 4 cô gái có vượt qua được 7 ngày tại Lữ đoàn Đặc công 113?\n\n❣️ Ekip sản xuất:\nTổng Đạo diễn: Lương Hải Khoa\nĐạo diễn: Lê Quý Giáp, Kiều Tuấn Long\nBiên tập: Ngô Trang\nBiên tập & Truyền thông: Nga Nguyễn, Linh Trần\nD.O.P: Đoàn Ngọc Ước, Mai Trùng Khánh\nTổ chức sản xuất: Nguyễn Nga\nEditor: Hải Khoa Lương, Giáp Lê, Trang Ngô, Leo Kây, Thanh Liêm, Thanh Tùng, Hiệp CIne\nQuay phim: Vũ Thái Ngân, Vũ Thành Nam, Lưu Văn Thảo, Ngô Quang Anh, Kiều Phương, Tuấn Anh, Đức Huy, Hoàng Quân, Huy Tây, Huy bé, Nguyễn Xuân Sang\n-Tiền kỳ: Anh Đức, Văn Hải, Nguyễn Phương, Minh Giang, Đăng Chử...\nÂm Thanh: Đoàn Xuân Lộc\nFly: Linh Fly.\nHọa sĩ: Hải kẹo, Thế Tam\nNhiếp ảnh: Sơn Tùng, Thanh Tùng\n\nSubcribe tại:    / saonhapngu-qpvn  \nFanpage:   / saonhapngu  \n\nChương trình đã được Cục Bản quyền tác giả, Bộ Văn hóa-Thể thao và Du lịch cấp giấy chứng nhận bản quyền.",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huonggiang",
+          "text": "#huonggiang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/maingo",
+          "text": "#maingo"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/khangan",
+          "text": "#khangan"
+        },
+        {
+          "url": "https://www.youtube.com/saonhapngu-qpvn",
+          "text": "   / saonhapngu-qpvn  "
+        },
+        {
+          "url": "https://www.facebook.com/saonhapngu",
+          "text": "  / saonhapngu  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 3,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqCdnDzNstfo0Gsjgkoou5x",
+      "isMonetized": null,
+      "hashtags": [
+        "#huonggiang",
+        "#maingo",
+        "#saonhapngu"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqCdnDzNstfo0Gsjgkoou5x",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ (SS4): BHT|Tập 3: Luyện thép",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "g_Vxi_spr9A",
+      "url": "https://www.youtube.com/watch?v=g_Vxi_spr9A&list=PLC_d5n_vB0CqCdnDzNstfo0Gsjgkoou5x&index=3",
+      "thumbnailUrl": "https://i.ytimg.com/vi/g_Vxi_spr9A/maxresdefault.jpg",
+      "viewCount": 3796086,
+      "date": "2017-10-01T05:00:00.000Z",
+      "likes": 14000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:29:00",
+      "commentsCount": 106,
+      "text": "#saonhapngu #huonggiang #maingo #khangan \n\nSao Nhập Ngũ được sản xuất bởi công ty Viettel Media - đơn vị sản xuất phim chuyên nghiệp. Mùa 4 của Sao nhập ngũ là sự tham gia của 4 bóng hồng Mai Ngô, Hương Giang Idol, Nhung Gumiho và Khả Ngân. Cuộc sống quân ngũ còn nhiều bỡ ngỡ, những thay đổi trong sinh hoạt, giờ giấc không khỏi khiến các cô gái cảm thấy hoang mang và lúng túng. Khi mà mỗi sáng đều phải dậy theo tiếng còi báo thức, các tác phong đều phải đi vào quy củ, thời gian cho trang điểm chỉ có vài phút, cùng với những vẫn đề về sức khỏe liệu 4 cô gái có vượt qua được 7 ngày tại Lữ đoàn Đặc công 113?\n\n❣️ Ekip sản xuất:\nTổng Đạo diễn: Lương Hải Khoa\nĐạo diễn: Lê Quý Giáp, Kiều Tuấn Long\nBiên tập: Ngô Trang\nBiên tập & Truyền thông: Nga Nguyễn, Linh Trần\nD.O.P: Đoàn Ngọc Ước, Mai Trùng Khánh\nTổ chức sản xuất: Nguyễn Nga\nEditor: Hải Khoa Lương, Giáp Lê, Trang Ngô, Leo Kây, Thanh Liêm, Thanh Tùng, Hiệp CIne\nQuay phim: Vũ Thái Ngân, Vũ Thành Nam, Lưu Văn Thảo, Ngô Quang Anh, Kiều Phương, Tuấn Anh, Đức Huy, Hoàng Quân, Huy Tây, Huy bé, Nguyễn Xuân Sang\n-Tiền kỳ: Anh Đức, Văn Hải, Nguyễn Phương, Minh Giang, Đăng Chử...\nÂm Thanh: Đoàn Xuân Lộc\nFly: Linh Fly.\nHọa sĩ: Hải kẹo, Thế Tam\nNhiếp ảnh: Sơn Tùng, Thanh Tùng\n\nSubcribe tại:    / saonhapngu-qpvn  \nFanpage:   / saonhapngu  \n\nChương trình đã được Cục Bản quyền tác giả, Bộ Văn hóa-Thể thao và Du lịch cấp giấy chứng nhận bản quyền.",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huonggiang",
+          "text": "#huonggiang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/maingo",
+          "text": "#maingo"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/khangan",
+          "text": "#khangan"
+        },
+        {
+          "url": "https://www.youtube.com/saonhapngu-qpvn",
+          "text": "   / saonhapngu-qpvn  "
+        },
+        {
+          "url": "https://www.facebook.com/saonhapngu",
+          "text": "  / saonhapngu  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 2,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqCdnDzNstfo0Gsjgkoou5x",
+      "isMonetized": null,
+      "hashtags": [
+        "#huonggiang",
+        "#maingo",
+        "#saonhapngu"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqCdnDzNstfo0Gsjgkoou5x",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ (SS4): BHT | Tập 2: Đêm đầu tiên",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "wMSDx42r1lA",
+      "url": "https://www.youtube.com/watch?v=wMSDx42r1lA&list=PLC_d5n_vB0CqCdnDzNstfo0Gsjgkoou5x&index=2",
+      "thumbnailUrl": "https://i.ytimg.com/vi/wMSDx42r1lA/maxresdefault.jpg",
+      "viewCount": 4322849,
+      "date": "2017-09-24T05:00:01.000Z",
+      "likes": 16000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:28:59",
+      "commentsCount": 35,
+      "text": "#saonhapngu #huonggiang #maingo #khangan \n\nSao Nhập Ngũ được sản xuất bởi công ty Viettel Media - đơn vị sản xuất phim chuyên nghiệp. Mùa 4 của Sao nhập ngũ là sự tham gia của 4 bóng hồng Mai Ngô, Hương Giang Idol, Nhung Gumiho và Khả Ngân. Cuộc sống quân ngũ còn nhiều bỡ ngỡ, những thay đổi trong sinh hoạt, giờ giấc không khỏi khiến các cô gái cảm thấy hoang mang và lúng túng. Khi mà mỗi sáng đều phải dậy theo tiếng còi báo thức, các tác phong đều phải đi vào quy củ, thời gian cho trang điểm chỉ có vài phút, cùng với những vẫn đề về sức khỏe liệu 4 cô gái có vượt qua được 7 ngày tại Lữ đoàn Đặc công 113?\n\n❣️ Ekip sản xuất:\nTổng Đạo diễn: Lương Hải Khoa\nĐạo diễn: Lê Quý Giáp, Kiều Tuấn Long\nBiên tập: Ngô Trang\nBiên tập & Truyền thông: Nga Nguyễn, Linh Trần\nD.O.P: Đoàn Ngọc Ước, Mai Trùng Khánh\nTổ chức sản xuất: Nguyễn Nga\nEditor: Hải Khoa Lương, Giáp Lê, Trang Ngô, Leo Kây, Thanh Liêm, Thanh Tùng, Hiệp CIne\nQuay phim: Vũ Thái Ngân, Vũ Thành Nam, Lưu Văn Thảo, Ngô Quang Anh, Kiều Phương, Tuấn Anh, Đức Huy, Hoàng Quân, Huy Tây, Huy bé, Nguyễn Xuân Sang\n-Tiền kỳ: Anh Đức, Văn Hải, Nguyễn Phương, Minh Giang, Đăng Chử...\nÂm Thanh: Đoàn Xuân Lộc\nFly: Linh Fly.\nHọa sĩ: Hải kẹo, Thế Tam\nNhiếp ảnh: Sơn Tùng, Thanh Tùng\n\nSubcribe tại:    / saonhapngu-qpvn  \nFanpage:   / saonhapngu  \n\nChương trình đã được Cục Bản quyền tác giả, Bộ Văn hóa-Thể thao và Du lịch cấp giấy chứng nhận bản quyền.",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huonggiang",
+          "text": "#huonggiang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/maingo",
+          "text": "#maingo"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/khangan",
+          "text": "#khangan"
+        },
+        {
+          "url": "https://www.youtube.com/saonhapngu-qpvn",
+          "text": "   / saonhapngu-qpvn  "
+        },
+        {
+          "url": "https://www.facebook.com/saonhapngu",
+          "text": "  / saonhapngu  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 1,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqCdnDzNstfo0Gsjgkoou5x",
+      "isMonetized": null,
+      "hashtags": [
+        "#huonggiang",
+        "#maingo",
+        "#saonhapngu"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqCdnDzNstfo0Gsjgkoou5x",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ (SS4): BHT|Tập 5: Nhanh hơn, nguy hiểm hơn",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "AJN1Zv0nefE",
+      "url": "https://www.youtube.com/watch?v=AJN1Zv0nefE&list=PLC_d5n_vB0CqCdnDzNstfo0Gsjgkoou5x&index=5",
+      "thumbnailUrl": "https://i.ytimg.com/vi/AJN1Zv0nefE/maxresdefault.jpg",
+      "viewCount": 2407072,
+      "date": "2017-10-15T05:00:01.000Z",
+      "likes": 9600,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:28:24",
+      "commentsCount": 85,
+      "text": "#saonhapngu #huonggiang #maingo #khangan \n\nSao Nhập Ngũ được sản xuất bởi công ty Viettel Media - đơn vị sản xuất phim chuyên nghiệp. Mùa 4 của Sao nhập ngũ là sự tham gia của 4 bóng hồng Mai Ngô, Hương Giang Idol, Nhung Gumiho và Khả Ngân. Cuộc sống quân ngũ còn nhiều bỡ ngỡ, những thay đổi trong sinh hoạt, giờ giấc không khỏi khiến các cô gái cảm thấy hoang mang và lúng túng. Khi mà mỗi sáng đều phải dậy theo tiếng còi báo thức, các tác phong đều phải đi vào quy củ, thời gian cho trang điểm chỉ có vài phút, cùng với những vẫn đề về sức khỏe liệu 4 cô gái có vượt qua được 7 ngày tại Lữ đoàn Đặc công 113?\n\n❣️ Ekip sản xuất:\nTổng Đạo diễn: Lương Hải Khoa\nĐạo diễn: Lê Quý Giáp, Kiều Tuấn Long\nBiên tập: Ngô Trang\nBiên tập & Truyền thông: Nga Nguyễn, Linh Trần\nD.O.P: Đoàn Ngọc Ước, Mai Trùng Khánh\nTổ chức sản xuất: Nguyễn Nga\nEditor: Hải Khoa Lương, Giáp Lê, Trang Ngô, Leo Kây, Thanh Liêm, Thanh Tùng, Hiệp CIne\nQuay phim: Vũ Thái Ngân, Vũ Thành Nam, Lưu Văn Thảo, Ngô Quang Anh, Kiều Phương, Tuấn Anh, Đức Huy, Hoàng Quân, Huy Tây, Huy bé, Nguyễn Xuân Sang\n-Tiền kỳ: Anh Đức, Văn Hải, Nguyễn Phương, Minh Giang, Đăng Chử...\nÂm Thanh: Đoàn Xuân Lộc\nFly: Linh Fly.\nHọa sĩ: Hải kẹo, Thế Tam\nNhiếp ảnh: Sơn Tùng, Thanh Tùng\n\nSubcribe tại:    / saonhapngu-qpvn  \nFanpage:   / saonhapngu  \n\nChương trình đã được Cục Bản quyền tác giả, Bộ Văn hóa-Thể thao và Du lịch cấp giấy chứng nhận bản quyền.",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huonggiang",
+          "text": "#huonggiang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/maingo",
+          "text": "#maingo"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/khangan",
+          "text": "#khangan"
+        },
+        {
+          "url": "https://www.youtube.com/saonhapngu-qpvn",
+          "text": "   / saonhapngu-qpvn  "
+        },
+        {
+          "url": "https://www.facebook.com/saonhapngu",
+          "text": "  / saonhapngu  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 4,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqCdnDzNstfo0Gsjgkoou5x",
+      "isMonetized": null,
+      "hashtags": [
+        "#huonggiang",
+        "#maingo",
+        "#saonhapngu"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqCdnDzNstfo0Gsjgkoou5x",
+      "isPaidContent": false
+    }
+  ]
+}

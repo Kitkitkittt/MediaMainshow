@@ -1,0 +1,2924 @@
+{
+  "actor_name": "streamers/youtube-scraper",
+  "actor_run_id": "OukmJuGjfOeqqXWfI",
+  "dataset_id": "xSlWjbRuxh5352oYK",
+  "actor_build_id": "SUk0475fgtCh9zqMt",
+  "retrieved_at": "2026-08-12T14:00:05.693993+07:00",
+  "actor_input": {
+    "maxResults": 31,
+    "maxResultsShorts": 0,
+    "maxResultStreams": 0,
+    "startUrls": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL"
+      }
+    ],
+    "sourceBindingUrl": "https://www.youtube.com/playlist?list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL"
+  },
+  "run_metadata": {
+    "status": "SUCCEEDED",
+    "startedAt": "2026-08-12T06:59:41.775Z",
+    "finishedAt": "2026-08-12T07:00:00.820Z",
+    "usageTotalUsd": 0.048,
+    "chargedEventCounts": {
+      "result": 14,
+      "date-filter": 0,
+      "ai-video-description": 0,
+      "ai-video-summary": 0
+    }
+  },
+  "items": [
+    {
+      "title": "Tân Binh Toàn Năng 2025 - Tập 9 | Công Diễn 4 căng đét: Game thử thách khiến ai cũng bật SOS!",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "1ezn2QIqO40",
+      "url": "https://www.youtube.com/watch?v=1ezn2QIqO40&list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL&index=7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/1ezn2QIqO40/maxresdefault.jpg",
+      "viewCount": 4576465,
+      "date": "2025-11-29T13:30:11.000Z",
+      "likes": 61000,
+      "location": null,
+      "channelName": "YeaH1 ONE",
+      "channelUrl": "https://www.youtube.com/@YeaH1ONE",
+      "channelUsername": "YeaH1ONE",
+      "collaborators": null,
+      "channelId": "UC_np0YZuvNMIJceE6jHeggQ",
+      "numberOfSubscribers": 5350000,
+      "duration": "02:57:00",
+      "commentsCount": 19778,
+      "text": "Tân Binh Toàn Năng 2025 - Tập 9 | Công Diễn 4 căng đét: Game thử thách khiến ai cũng bật SOS!\n\n#tanbinhtoannang2025  #showitall #YeaH1#showtanbinhtoannang #chuongtrinhtanbinhtoannang #SOOBIN #SlimV #showthucte #chuongtrinhamnhac #tanbinhtoannangtap9 #tanbinhtoannangmua3 #tanbinhtoannangmoinhat #tanbinhtoannangtap9full #tap9tanbinhtoannang #tanbinhtoannang #tanbinhtoannangshowitall #BUSbecauseofyouishine #gameshow #show2025\n \n\n---------------------------------------------- \nChương trình truyền hình thực tế âm nhạc, nơi 11 “Tân binh Thăng Cấp” chính thức bước ra ánh sáng, sẵn sàng đại diện Việt Nam thi đấu cùng các nhóm nhạc quốc tế.\n\n“Tân Binh Toàn Năng” sẽ phát sóng trên khung giờ vàng VTV3 và hệ thống kênh YeaH1 bắt đầu từ tháng 10/2025. Format sống còn đầy thử thách, chương trình mang sứ mệnh giới thiệu thế hệ nghệ sĩ thần tượng mới của Việt Nam, khẳng định bản lĩnh và bứt phá trên sân khấu toàn cầu. \n\n11 bạn Tân Binh sẽ đối đầu trực tiếp với những nhóm nhạc quốc tế đến từ nhiều quốc gia để thể hiện bản lĩnh của một thế hệ nghệ sĩ mới, dám vượt qua mọi thách thức để mang niềm tự hào Việt Nam đi xa.\n\n📺 Chương trình phát sóng thứ 7 hằng tuần lúc 20h trên VTV3, 20h30 trên Youtube YeaH1 và chính thức có mặt tại ứng dụng giải trí MangoPlus\n\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Tân Binh Toàn Năng tại:\n📍FanPage: https://www.facebook.com/TanBinhToanNang/\n📍TikTok: https://www.tiktok.com/@tanbinhtoannang \n\n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng: https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44\n►Anh Trai Vượt Ngàn Chông Gai 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq\n►Chị Đẹp Đạp Gió 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF\n►Chị Đẹp Đạp Gió Rẽ Sóng 2023: https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A\n►Mẹ Siêu Nhân: https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3►\n ►Gia Đình Haha: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY\n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 ONE: https://www.youtube.com/@YeaH1ONE\n►YeaH1 SHOW: https://www.youtube.com/@YEAH1SHOW \n►YeaH1 Entertainment: https://www.youtube.com/@YEAH1_GIAITRI \n►YeaH1 Music: https://www.youtube.com/@yeah1music\n\n📣 Subscribe kênh YeaH1 ONE để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4n8zC5R\n©️ TÂN BINH TOÀN NĂNG thuộc sở hữu của YeaH1 ONE và được bảo vệ bản quyền bởi YeaH1 ONE",
+      "translatedText": "Tân Binh Toàn Năng 2025 - Tập 9 | Công Diễn 4 căng đét: Game thử thách khiến ai cũng bật SOS!\n\n#tanbinhtoannang2025  #showitall #YeaH1#showtanbinhtoannang #chuongtrinhtanbinhtoannang #SOOBIN #SlimV #showthucte #chuongtrinhamnhac #tanbinhtoannangtap9 #tanbinhtoannangmua3 #tanbinhtoannangmoinhat #tanbinhtoannangtap9full #tap9tanbinhtoannang #tanbinhtoannang #tanbinhtoannangshowitall #BUSbecauseofyouishine #gameshow #show2025\n \n\n---------------------------------------------- \nChương trình truyền hình thực tế âm nhạc, nơi 11 “Tân binh Thăng Cấp” chính thức bước ra ánh sáng, sẵn sàng đại diện Việt Nam thi đấu cùng các nhóm nhạc quốc tế.\n\n“Tân Binh Toàn Năng” sẽ phát sóng trên khung giờ vàng VTV3 và hệ thống kênh YeaH1 bắt đầu từ tháng 10/2025. Format sống còn đầy thử thách, chương trình mang sứ mệnh giới thiệu thế hệ nghệ sĩ thần tượng mới của Việt Nam, khẳng định bản lĩnh và bứt phá trên sân khấu toàn cầu. \n\n11 bạn Tân Binh sẽ đối đầu trực tiếp với những nhóm nhạc quốc tế đến từ nhiều quốc gia để thể hiện bản lĩnh của một thế hệ nghệ sĩ mới, dám vượt qua mọi thách thức để mang niềm tự hào Việt Nam đi xa.\n\n📺 Chương trình phát sóng thứ 7 hằng tuần lúc 20h trên VTV3, 20h30 trên Youtube YeaH1 và chính thức có mặt tại ứng dụng giải trí MangoPlus\n\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Tân Binh Toàn Năng tại:\n📍FanPage:   / tanbinhtoannang  \n📍TikTok:   / tanbinhtoannang   \n\n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng:    • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  \n►Anh Trai Vượt Ngàn Chông Gai 2024:    • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  \n►Chị Đẹp Đạp Gió 2024:    • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  \n►Chị Đẹp Đạp Gió Rẽ Sóng 2023:    • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  \n►Mẹ Siêu Nhân: https://www.youtube.com/playlist?list...\n ►Gia Đình Haha:    • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  \n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 ONE:    / @yeah1one  \n►YeaH1 SHOW:    / @yeah1show   \n►YeaH1 Entertainment:    / @yeah1_giaitri   \n►YeaH1 Music:    / @yeah1music  \n\n📣 Subscribe kênh YeaH1 ONE để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4n8zC5R\n©️ TÂN BINH TOÀN NĂNG thuộc sở hữu của YeaH1 ONE và được bảo vệ bản quyền bởi YeaH1 ONE",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannang2025",
+          "text": "#tanbinhtoannang2025"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showitall",
+          "text": "#showitall"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showtanbinhtoannang",
+          "text": "#showtanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chuongtrinhtanbinhtoannang",
+          "text": "#chuongtrinhtanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/soobin",
+          "text": "#SOOBIN"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/slimv",
+          "text": "#SlimV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showthucte",
+          "text": "#showthucte"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chuongtrinhamnhac",
+          "text": "#chuongtrinhamnhac"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangtap9",
+          "text": "#tanbinhtoannangtap9"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangmua3",
+          "text": "#tanbinhtoannangmua3"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangmoinhat",
+          "text": "#tanbinhtoannangmoinhat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangtap9full",
+          "text": "#tanbinhtoannangtap9full"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tap9tanbinhtoannang",
+          "text": "#tap9tanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannang",
+          "text": "#tanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangshowitall",
+          "text": "#tanbinhtoannangshowitall"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/busbecauseofyouishine",
+          "text": "#BUSbecauseofyouishine"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gameshow",
+          "text": "#gameshow"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/show2025",
+          "text": "#show2025"
+        },
+        {
+          "url": "https://www.facebook.com/TanBinhToanNang/",
+          "text": "  / tanbinhtoannang  "
+        },
+        {
+          "url": "https://www.tiktok.com/@tanbinhtoannang",
+          "text": "  / tanbinhtoannang  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44",
+          "text": "   • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+          "text": "   • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3%E2%96%BA",
+          "text": "https://www.youtube.com/playlist?list..."
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY",
+          "text": "   • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC_np0YZuvNMIJceE6jHeggQ",
+          "text": "   / @yeah1one  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCh_zF2FsiCflCPgYDudtcqg",
+          "text": "   / @yeah1show  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCecta98cdYVFV6L_lfH__IA",
+          "text": "   / @yeah1_giaitri  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCI2OiZs5aVcyBUBVsgovzng",
+          "text": "   / @yeah1music  "
+        },
+        {
+          "url": "https://bit.ly/4n8zC5R",
+          "text": "https://bit.ly/4n8zC5R"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 6,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL",
+      "isMonetized": null,
+      "hashtags": [
+        "#SOOBIN",
+        "#showitall",
+        "#YeaH1"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tân Binh Toàn Năng 2025 – Tập 3 | SOOBIN & Nhóm Tân Binh choáng trước KID PHENOMENON & JUSTB?",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "N4AnQDIElV8",
+      "url": "https://www.youtube.com/watch?v=N4AnQDIElV8&list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL&index=13",
+      "thumbnailUrl": "https://i.ytimg.com/vi/N4AnQDIElV8/maxresdefault.jpg",
+      "viewCount": 5605086,
+      "date": "2025-10-18T13:30:07.000Z",
+      "likes": 63000,
+      "location": null,
+      "channelName": "YeaH1 ONE",
+      "channelUrl": "https://www.youtube.com/@YeaH1ONE",
+      "channelUsername": "YeaH1ONE",
+      "collaborators": null,
+      "channelId": "UC_np0YZuvNMIJceE6jHeggQ",
+      "numberOfSubscribers": 5350000,
+      "duration": "02:13:27",
+      "commentsCount": 18457,
+      "text": "Tân Binh Toàn Năng 2025 – Tập 3 | SOOBIN & Nhóm Tân Binh choáng trước KID PHENOMENON & JUSTB?\n\n#tanbinhtoannang2025 #showitall #YeaH1 #showtanbinhtoannang #chuongtrinhtanbinhtoannang #SOOBIN #SlimV  #showthucte #chuongtrinhamnhac  #tanbinhtoannangtap3 #tanbinhtoannangmua3 #tanbinhtoannangmoinhat #JUSTB #저스트비  #キドフェノ #KIDPHENOMENON #tanbinhtoannangtap3full #tap3tanbinhtoannang #tanbinhtoannang #tanbinhtoannangshowitall \n\n1:22:11 UNSTOPPABLE - KID PHENOMENON\n1:26:46 MEDUSA - JUSTB\n1:38:22  WHEELIE - KID PHENOMENON\n1:46:39 CHEST - JUSTB \n1:54:27 KHÔNG CẦN NÓI NHIỀU - TÂN BINH THĂNG CẤP \n---------------------------------------------- \nChương trình truyền hình thực tế âm nhạc, nơi 11 “Tân binh Thăng Cấp” chính thức bước ra ánh sáng, sẵn sàng đại diện Việt Nam thi đấu cùng các nhóm nhạc quốc tế.\n\n“Tân Binh Toàn Năng” sẽ phát sóng trên khung giờ vàng VTV3 và hệ thống kênh YeaH1 bắt đầu từ tháng 10/2025. Format sống còn đầy thử thách, chương trình mang sứ mệnh giới thiệu thế hệ nghệ sĩ thần tượng mới của Việt Nam, khẳng định bản lĩnh và bứt phá trên sân khấu toàn cầu. \n\n11 bạn Tân Binh sẽ đối đầu trực tiếp với những nhóm nhạc quốc tế đến từ nhiều quốc gia để thể hiện bản lĩnh của một thế hệ nghệ sĩ mới, dám vượt qua mọi thách thức để mang niềm tự hào Việt Nam đi xa.\n\n📺 Chương trình phát sóng thứ 7 hằng tuần lúc 20h trên VTV3, 20h30 trên Youtube YeaH1 và chính thức có mặt tại ứng dụng giải trí MangoPlus\n\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Tân Binh Toàn Năng tại:\n📍FanPage: https://www.facebook.com/TanBinhToanNang/\n📍TikTok: https://www.tiktok.com/@tanbinhtoannang \n\n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng: https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44\n►Anh Trai Vượt Ngàn Chông Gai 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq\n►Chị Đẹp Đạp Gió 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF\n►Chị Đẹp Đạp Gió Rẽ Sóng 2023: https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A\n►Mẹ Siêu Nhân: https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3►\n ►Gia Đình Haha: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY\n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 ONE: https://www.youtube.com/@YeaH1ONE\n►YeaH1 SHOW: https://www.youtube.com/@YEAH1SHOW \n►YeaH1 Entertainment: https://www.youtube.com/@YEAH1_GIAITRI \n►YeaH1 Music: https://www.youtube.com/@yeah1music\n\n📣 Subscribe kênh YeaH1 ONE để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4n8zC5R\n©️ TÂN BINH TOÀN NĂNG thuộc sở hữu của YeaH1 ONE và được bảo vệ bản quyền bởi YeaH1 ONE",
+      "translatedText": "Tân Binh Toàn Năng 2025 – Tập 3 | SOOBIN & Nhóm Tân Binh choáng trước KID PHENOMENON & JUSTB?\n\n#tanbinhtoannang2025 #showitall #YeaH1 #showtanbinhtoannang #chuongtrinhtanbinhtoannang #SOOBIN #SlimV  #showthucte #chuongtrinhamnhac  #tanbinhtoannangtap3 #tanbinhtoannangmua3 #tanbinhtoannangmoinhat #JUSTB #저스트비  #キドフェノ #KIDPHENOMENON #tanbinhtoannangtap3full #tap3tanbinhtoannang #tanbinhtoannang #tanbinhtoannangshowitall \n\n1:22:11 UNSTOPPABLE - KID PHENOMENON\n1:26:46 MEDUSA - JUSTB\n1:38:22  WHEELIE - KID PHENOMENON\n1:46:39 CHEST - JUSTB \n1:54:27 KHÔNG CẦN NÓI NHIỀU - TÂN BINH THĂNG CẤP \n---------------------------------------------- \nChương trình truyền hình thực tế âm nhạc, nơi 11 “Tân binh Thăng Cấp” chính thức bước ra ánh sáng, sẵn sàng đại diện Việt Nam thi đấu cùng các nhóm nhạc quốc tế.\n\n“Tân Binh Toàn Năng” sẽ phát sóng trên khung giờ vàng VTV3 và hệ thống kênh YeaH1 bắt đầu từ tháng 10/2025. Format sống còn đầy thử thách, chương trình mang sứ mệnh giới thiệu thế hệ nghệ sĩ thần tượng mới của Việt Nam, khẳng định bản lĩnh và bứt phá trên sân khấu toàn cầu. \n\n11 bạn Tân Binh sẽ đối đầu trực tiếp với những nhóm nhạc quốc tế đến từ nhiều quốc gia để thể hiện bản lĩnh của một thế hệ nghệ sĩ mới, dám vượt qua mọi thách thức để mang niềm tự hào Việt Nam đi xa.\n\n📺 Chương trình phát sóng thứ 7 hằng tuần lúc 20h trên VTV3, 20h30 trên Youtube YeaH1 và chính thức có mặt tại ứng dụng giải trí MangoPlus\n\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Tân Binh Toàn Năng tại:\n📍FanPage:   / tanbinhtoannang  \n📍TikTok:   / tanbinhtoannang   \n\n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng:    • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  \n►Anh Trai Vượt Ngàn Chông Gai 2024:    • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  \n►Chị Đẹp Đạp Gió 2024:    • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  \n►Chị Đẹp Đạp Gió Rẽ Sóng 2023:    • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  \n►Mẹ Siêu Nhân: https://www.youtube.com/playlist?list...\n ►Gia Đình Haha:    • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  \n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 ONE:    / @yeah1one  \n►YeaH1 SHOW:    / @yeah1show   \n►YeaH1 Entertainment:    / @yeah1_giaitri   \n►YeaH1 Music:    / @yeah1music  \n\n📣 Subscribe kênh YeaH1 ONE để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4n8zC5R\n©️ TÂN BINH TOÀN NĂNG thuộc sở hữu của YeaH1 ONE và được bảo vệ bản quyền bởi YeaH1 ONE",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannang2025",
+          "text": "#tanbinhtoannang2025"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showitall",
+          "text": "#showitall"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showtanbinhtoannang",
+          "text": "#showtanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chuongtrinhtanbinhtoannang",
+          "text": "#chuongtrinhtanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/soobin",
+          "text": "#SOOBIN"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/slimv",
+          "text": "#SlimV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showthucte",
+          "text": "#showthucte"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chuongtrinhamnhac",
+          "text": "#chuongtrinhamnhac"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangtap3",
+          "text": "#tanbinhtoannangtap3"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangmua3",
+          "text": "#tanbinhtoannangmua3"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangmoinhat",
+          "text": "#tanbinhtoannangmoinhat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/justb",
+          "text": "#JUSTB"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/%EC%A0%80%EC%8A%A4%ED%8A%B8%EB%B9%84",
+          "text": "#저스트비"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/%E3%82%AD%E3%83%89%E3%83%95%E3%82%A7%E3%83%8E",
+          "text": "#キドフェノ"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/kidphenomenon",
+          "text": "#KIDPHENOMENON"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangtap3full",
+          "text": "#tanbinhtoannangtap3full"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tap3tanbinhtoannang",
+          "text": "#tap3tanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannang",
+          "text": "#tanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangshowitall",
+          "text": "#tanbinhtoannangshowitall"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=N4AnQDIElV8&list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL&index=13&t=4931s",
+          "text": "1:22:11"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=N4AnQDIElV8&list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL&index=13&t=5206s",
+          "text": "1:26:46"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=N4AnQDIElV8&list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL&index=13&t=5902s",
+          "text": "1:38:22"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=N4AnQDIElV8&list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL&index=13&t=6399s",
+          "text": "1:46:39"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=N4AnQDIElV8&list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL&index=13&t=6867s",
+          "text": "1:54:27"
+        },
+        {
+          "url": "https://www.facebook.com/TanBinhToanNang/",
+          "text": "  / tanbinhtoannang  "
+        },
+        {
+          "url": "https://www.tiktok.com/@tanbinhtoannang",
+          "text": "  / tanbinhtoannang  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44",
+          "text": "   • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+          "text": "   • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3%E2%96%BA",
+          "text": "https://www.youtube.com/playlist?list..."
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY",
+          "text": "   • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC_np0YZuvNMIJceE6jHeggQ",
+          "text": "   / @yeah1one  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCh_zF2FsiCflCPgYDudtcqg",
+          "text": "   / @yeah1show  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCecta98cdYVFV6L_lfH__IA",
+          "text": "   / @yeah1_giaitri  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCI2OiZs5aVcyBUBVsgovzng",
+          "text": "   / @yeah1music  "
+        },
+        {
+          "url": "https://bit.ly/4n8zC5R",
+          "text": "https://bit.ly/4n8zC5R"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 12,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tân Binh Toàn Năng -  Official Trailer | Hành trình mới bắt đầu: Vinh quang hay vấp ngã?",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "3igqxki1h9M",
+      "url": "https://www.youtube.com/watch?v=3igqxki1h9M&list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL&index=17",
+      "thumbnailUrl": "https://i.ytimg.com/vi/3igqxki1h9M/maxresdefault.jpg",
+      "viewCount": 50614,
+      "date": "2025-09-30T13:00:06.000Z",
+      "likes": 2600,
+      "location": null,
+      "channelName": "YeaH1 Giải Trí",
+      "channelUrl": "https://www.youtube.com/@YEAH1_GIAITRI",
+      "channelUsername": "YEAH1_GIAITRI",
+      "collaborators": null,
+      "channelId": "UCecta98cdYVFV6L_lfH__IA",
+      "numberOfSubscribers": 302000,
+      "duration": "00:05:31",
+      "commentsCount": 478,
+      "text": "Tân Binh Toàn Năng - Trailer Tập 1 | Hành trình mới bắt đầu: Vinh quang hay vấp ngã?\n\n#tanbinhtoannang  #showitall #TanBinh #YeaH1 #giadinhaha #tanbinhtoannangshow #tanbinhtoannangtapmoi #AnhTai #ChiDep #AnhTrai #SOOBIN #SlimV #8turn #showthucte #chuongtrinhamnhac\n---------------------------------------------- \nChương trình truyền hình thực tế âm nhạc, nơi 11 “Tân binh Thăng Cấp” chính thức bước ra ánh sáng, sẵn sàng đại diện Việt Nam thi đấu cùng các nhóm nhạc quốc tế.\n\n“Tân Binh Toàn Năng” sẽ phát sóng trên khung giờ vàng VTV3 và hệ thống kênh YeaH1 bắt đầu từ tháng 10/2025. Format sống còn đầy thử thách, chương trình mang sứ mệnh giới thiệu thế hệ nghệ sĩ thần tượng mới của Việt Nam, khẳng định bản lĩnh và bứt phá trên sân khấu toàn cầu. \n\n11 bạn Tân Binh sẽ đối đầu trực tiếp với những nhóm nhạc quốc tế đến từ nhiều quốc gia để thể hiện bản lĩnh của một thế hệ nghệ sĩ mới, dám vượt qua mọi thách thức để mang niềm tự hào Việt Nam đi xa.\n\n📺 Đón xem TÂN BINH TOÀN NĂNG 20h00 trên VTV3 và 20h30 tại ứng dụng MangoPlus, kênh YouTube YeaH1 One.\n\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Tân Binh Toàn Năng tại:\n📍FanPage: https://www.facebook.com/TanBinhToanNang/\n📍TikTok: https://www.tiktok.com/@tanbinhtoannang \n\n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng: https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44\n►Anh Trai Vượt Ngàn Chông Gai 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq\n►Chị Đẹp Đạp Gió 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF\n►Chị Đẹp Đạp Gió Rẽ Sóng 2023: https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A\n►Mẹ Siêu Nhân: https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3►\n ►Gia Đình Haha: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY\n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 ONE: https://www.youtube.com/@YeaH1ONE\n►YeaH1 SHOW: https://www.youtube.com/@YEAH1SHOW \n►YeaH1 Entertainment: https://www.youtube.com/@YEAH1_GIAITRI \n►YeaH1 Music: https://www.youtube.com/@yeah1music\n\n©️Bản quyền thuộc YeaH1 - nhà sản xuất các chương trình giải trí hàng đầu như Gia Đình Haha, Tân Binh Toàn Năng, Anh Trai Vượt Ngàn Chông Gai, Chị Đẹp Đạp Gió Rẽ Sóng, Dẫn Dụ Em Vào Lòng",
+      "translatedText": "Tân Binh Toàn Năng - Trailer Tập 1 | Hành trình mới bắt đầu: Vinh quang hay vấp ngã?\n\n#tanbinhtoannang  #showitall #TanBinh #YeaH1 #giadinhaha #tanbinhtoannangshow #tanbinhtoannangtapmoi #AnhTai #ChiDep #AnhTrai #SOOBIN #SlimV #8turn #showthucte #chuongtrinhamnhac\n---------------------------------------------- \nChương trình truyền hình thực tế âm nhạc, nơi 11 “Tân binh Thăng Cấp” chính thức bước ra ánh sáng, sẵn sàng đại diện Việt Nam thi đấu cùng các nhóm nhạc quốc tế.\n\n“Tân Binh Toàn Năng” sẽ phát sóng trên khung giờ vàng VTV3 và hệ thống kênh YeaH1 bắt đầu từ tháng 10/2025. Format sống còn đầy thử thách, chương trình mang sứ mệnh giới thiệu thế hệ nghệ sĩ thần tượng mới của Việt Nam, khẳng định bản lĩnh và bứt phá trên sân khấu toàn cầu. \n\n11 bạn Tân Binh sẽ đối đầu trực tiếp với những nhóm nhạc quốc tế đến từ nhiều quốc gia để thể hiện bản lĩnh của một thế hệ nghệ sĩ mới, dám vượt qua mọi thách thức để mang niềm tự hào Việt Nam đi xa.\n\n📺 Đón xem TÂN BINH TOÀN NĂNG 20h00 trên VTV3 và 20h30 tại ứng dụng MangoPlus, kênh YouTube YeaH1 One.\n\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Tân Binh Toàn Năng tại:\n📍FanPage:   / tanbinhtoannang  \n📍TikTok:   / tanbinhtoannang   \n\n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng:    • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  \n►Anh Trai Vượt Ngàn Chông Gai 2024:    • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  \n►Chị Đẹp Đạp Gió 2024:    • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  \n►Chị Đẹp Đạp Gió Rẽ Sóng 2023:    • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  \n►Mẹ Siêu Nhân: https://www.youtube.com/playlist?list...\n ►Gia Đình Haha:    • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  \n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 ONE:    / @yeah1one  \n►YeaH1 SHOW:    / @yeah1show   \n►YeaH1 Entertainment:    / @yeah1_giaitri   \n►YeaH1 Music:    / @yeah1music  \n\n©️Bản quyền thuộc YeaH1 - nhà sản xuất các chương trình giải trí hàng đầu như Gia Đình Haha, Tân Binh Toàn Năng, Anh Trai Vượt Ngàn Chông Gai, Chị Đẹp Đạp Gió Rẽ Sóng, Dẫn Dụ Em Vào Lòng",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannang",
+          "text": "#tanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showitall",
+          "text": "#showitall"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinh",
+          "text": "#TanBinh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhaha",
+          "text": "#giadinhaha"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangshow",
+          "text": "#tanbinhtoannangshow"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangtapmoi",
+          "text": "#tanbinhtoannangtapmoi"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtai",
+          "text": "#AnhTai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chidep",
+          "text": "#ChiDep"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtrai",
+          "text": "#AnhTrai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/soobin",
+          "text": "#SOOBIN"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/slimv",
+          "text": "#SlimV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/8turn",
+          "text": "#8turn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showthucte",
+          "text": "#showthucte"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chuongtrinhamnhac",
+          "text": "#chuongtrinhamnhac"
+        },
+        {
+          "url": "https://www.facebook.com/TanBinhToanNang/",
+          "text": "  / tanbinhtoannang  "
+        },
+        {
+          "url": "https://www.tiktok.com/@tanbinhtoannang",
+          "text": "  / tanbinhtoannang  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44",
+          "text": "   • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+          "text": "   • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3%E2%96%BA",
+          "text": "https://www.youtube.com/playlist?list..."
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY",
+          "text": "   • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC_np0YZuvNMIJceE6jHeggQ",
+          "text": "   / @yeah1one  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCh_zF2FsiCflCPgYDudtcqg",
+          "text": "   / @yeah1show  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCecta98cdYVFV6L_lfH__IA",
+          "text": "   / @yeah1_giaitri  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCI2OiZs5aVcyBUBVsgovzng",
+          "text": "   / @yeah1music  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 16,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL",
+      "isMonetized": null,
+      "hashtags": [
+        "#SOOBIN",
+        "#showitall",
+        "#YeaH1"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tân Binh Toàn Năng 2025 - Tập 14 | Chặng cuối của giấc mơ, nơi tuổi trẻ bùng cháy rực rỡ",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "GH2ij7WKDCY",
+      "url": "https://www.youtube.com/watch?v=GH2ij7WKDCY&list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL&index=2",
+      "thumbnailUrl": "https://i.ytimg.com/vi/GH2ij7WKDCY/maxresdefault.jpg",
+      "viewCount": 4236702,
+      "date": "2026-01-03T13:30:11.000Z",
+      "likes": 62000,
+      "location": null,
+      "channelName": "YeaH1 ONE",
+      "channelUrl": "https://www.youtube.com/@YeaH1ONE",
+      "channelUsername": "YeaH1ONE",
+      "collaborators": null,
+      "channelId": "UC_np0YZuvNMIJceE6jHeggQ",
+      "numberOfSubscribers": 5350000,
+      "duration": "03:21:35",
+      "commentsCount": 27179,
+      "text": "Tân Binh Toàn Năng 2025 - Tập 14 | Chặng cuối của giấc mơ, nơi tuổi trẻ bùng cháy rực rỡ\n\n#tanbinhtoannang2025  #showitall #YeaH1#showtanbinhtoannang #chuongtrinhtanbinhtoannang #SOOBIN #SlimV #showthucte #chuongtrinhamnhac #tanbinhtoannangtap14   #tanbinhtoannangmua3  #tanbinhtoannangtap14full #tap14tanbinhtoannang #tanbinhtoannang #tanbinhtoannangshowitall #gameshow #show2025 #TEMPEST #템페스트\n \n---------------------------------------------- \nChương trình truyền hình thực tế âm nhạc, nơi 11 “Tân binh Thăng Cấp” chính thức bước ra ánh sáng, sẵn sàng đại diện Việt Nam thi đấu cùng các nhóm nhạc quốc tế.\n\n“Tân Binh Toàn Năng” sẽ phát sóng trên khung giờ vàng VTV3 và hệ thống kênh YeaH1 bắt đầu từ tháng 10/2025. Format sống còn đầy thử thách, chương trình mang sứ mệnh giới thiệu thế hệ nghệ sĩ thần tượng mới của Việt Nam, khẳng định bản lĩnh và bứt phá trên sân khấu toàn cầu. \n\n11 bạn Tân Binh sẽ đối đầu trực tiếp với những nhóm nhạc quốc tế đến từ nhiều quốc gia để thể hiện bản lĩnh của một thế hệ nghệ sĩ mới, dám vượt qua mọi thách thức để mang niềm tự hào Việt Nam đi xa.\n\n📺 Chương trình phát sóng thứ 7 hằng tuần lúc 20h trên VTV3, 20h30 trên Youtube YeaH1 và chính thức có mặt tại ứng dụng giải trí MangoPlus\n\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Tân Binh Toàn Năng tại:\n📍FanPage: https://www.facebook.com/TanBinhToanNang/\n📍TikTok: https://www.tiktok.com/@tanbinhtoannang \n\n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng: https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44\n►Anh Trai Vượt Ngàn Chông Gai 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq\n►Chị Đẹp Đạp Gió 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF\n►Chị Đẹp Đạp Gió Rẽ Sóng 2023: https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A\n►Mẹ Siêu Nhân: https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3►\n ►Gia Đình Haha: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY\n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 ONE: https://www.youtube.com/@YeaH1ONE\n►YeaH1 SHOW: https://www.youtube.com/@YEAH1SHOW \n►YeaH1 Entertainment: https://www.youtube.com/@YEAH1_GIAITRI \n►YeaH1 Music: https://www.youtube.com/@yeah1music\n\n📣 Subscribe kênh YeaH1 ONE để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4n8zC5R\n©️ TÂN BINH TOÀN NĂNG thuộc sở hữu của YeaH1 ONE và được bảo vệ bản quyền bởi YeaH1 ONE",
+      "translatedText": "Tân Binh Toàn Năng 2025 - Tập 14 | Chặng cuối của giấc mơ, nơi tuổi trẻ bùng cháy rực rỡ\n\n#tanbinhtoannang2025  #showitall #YeaH1#showtanbinhtoannang #chuongtrinhtanbinhtoannang #SOOBIN #SlimV #showthucte #chuongtrinhamnhac #tanbinhtoannangtap14   #tanbinhtoannangmua3  #tanbinhtoannangtap14full #tap14tanbinhtoannang #tanbinhtoannang #tanbinhtoannangshowitall #gameshow #show2025 #TEMPEST #템페스트\n \n---------------------------------------------- \nChương trình truyền hình thực tế âm nhạc, nơi 11 “Tân binh Thăng Cấp” chính thức bước ra ánh sáng, sẵn sàng đại diện Việt Nam thi đấu cùng các nhóm nhạc quốc tế.\n\n“Tân Binh Toàn Năng” sẽ phát sóng trên khung giờ vàng VTV3 và hệ thống kênh YeaH1 bắt đầu từ tháng 10/2025. Format sống còn đầy thử thách, chương trình mang sứ mệnh giới thiệu thế hệ nghệ sĩ thần tượng mới của Việt Nam, khẳng định bản lĩnh và bứt phá trên sân khấu toàn cầu. \n\n11 bạn Tân Binh sẽ đối đầu trực tiếp với những nhóm nhạc quốc tế đến từ nhiều quốc gia để thể hiện bản lĩnh của một thế hệ nghệ sĩ mới, dám vượt qua mọi thách thức để mang niềm tự hào Việt Nam đi xa.\n\n📺 Chương trình phát sóng thứ 7 hằng tuần lúc 20h trên VTV3, 20h30 trên Youtube YeaH1 và chính thức có mặt tại ứng dụng giải trí MangoPlus\n\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Tân Binh Toàn Năng tại:\n📍FanPage:   / tanbinhtoannang  \n📍TikTok:   / tanbinhtoannang   \n\n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng:    • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  \n►Anh Trai Vượt Ngàn Chông Gai 2024:    • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  \n►Chị Đẹp Đạp Gió 2024:    • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  \n►Chị Đẹp Đạp Gió Rẽ Sóng 2023:    • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  \n►Mẹ Siêu Nhân: https://www.youtube.com/playlist?list...\n ►Gia Đình Haha:    • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  \n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 ONE:    / @yeah1one  \n►YeaH1 SHOW:    / @yeah1show   \n►YeaH1 Entertainment:    / @yeah1_giaitri   \n►YeaH1 Music:    / @yeah1music  \n\n📣 Subscribe kênh YeaH1 ONE để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4n8zC5R\n©️ TÂN BINH TOÀN NĂNG thuộc sở hữu của YeaH1 ONE và được bảo vệ bản quyền bởi YeaH1 ONE",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannang2025",
+          "text": "#tanbinhtoannang2025"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showitall",
+          "text": "#showitall"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showtanbinhtoannang",
+          "text": "#showtanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chuongtrinhtanbinhtoannang",
+          "text": "#chuongtrinhtanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/soobin",
+          "text": "#SOOBIN"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/slimv",
+          "text": "#SlimV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showthucte",
+          "text": "#showthucte"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chuongtrinhamnhac",
+          "text": "#chuongtrinhamnhac"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangtap14",
+          "text": "#tanbinhtoannangtap14"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangmua3",
+          "text": "#tanbinhtoannangmua3"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangtap14full",
+          "text": "#tanbinhtoannangtap14full"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tap14tanbinhtoannang",
+          "text": "#tap14tanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannang",
+          "text": "#tanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangshowitall",
+          "text": "#tanbinhtoannangshowitall"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gameshow",
+          "text": "#gameshow"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/show2025",
+          "text": "#show2025"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tempest",
+          "text": "#TEMPEST"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/%ED%85%9C%ED%8E%98%EC%8A%A4%ED%8A%B8",
+          "text": "#템페스트"
+        },
+        {
+          "url": "https://www.facebook.com/TanBinhToanNang/",
+          "text": "  / tanbinhtoannang  "
+        },
+        {
+          "url": "https://www.tiktok.com/@tanbinhtoannang",
+          "text": "  / tanbinhtoannang  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44",
+          "text": "   • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+          "text": "   • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3%E2%96%BA",
+          "text": "https://www.youtube.com/playlist?list..."
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY",
+          "text": "   • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC_np0YZuvNMIJceE6jHeggQ",
+          "text": "   / @yeah1one  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCh_zF2FsiCflCPgYDudtcqg",
+          "text": "   / @yeah1show  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCecta98cdYVFV6L_lfH__IA",
+          "text": "   / @yeah1_giaitri  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCI2OiZs5aVcyBUBVsgovzng",
+          "text": "   / @yeah1music  "
+        },
+        {
+          "url": "https://bit.ly/4n8zC5R",
+          "text": "https://bit.ly/4n8zC5R"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 1,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL",
+      "isMonetized": null,
+      "hashtags": [
+        "#showitall",
+        "#SOOBIN",
+        "#TEMPEST"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tân Binh Toàn Năng 2025- Tập 12| Công Diễn 5 đổi luật – ai sở hữu màn trình diễn solo đủ bứt phá?",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "TuVJsLzz1hQ",
+      "url": "https://www.youtube.com/watch?v=TuVJsLzz1hQ&list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL&index=4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/TuVJsLzz1hQ/maxresdefault.jpg",
+      "viewCount": 4591131,
+      "date": "2025-12-20T13:30:11.000Z",
+      "likes": 64000,
+      "location": null,
+      "channelName": "YeaH1 ONE",
+      "channelUrl": "https://www.youtube.com/@YeaH1ONE",
+      "channelUsername": "YeaH1ONE",
+      "collaborators": null,
+      "channelId": "UC_np0YZuvNMIJceE6jHeggQ",
+      "numberOfSubscribers": 5350000,
+      "duration": "02:30:41",
+      "commentsCount": 12256,
+      "text": "Tân Binh Toàn Năng 2025- Tập 12| Công Diễn 5 đổi luật – ai sở hữu màn trình diễn solo đủ bứt phá?\n\n#tanbinhtoannang2025  #showitall #YeaH1#showtanbinhtoannang #chuongtrinhtanbinhtoannang #SOOBIN #SlimV #showthucte #chuongtrinhamnhac #tanbinhtoannangtap12   #tanbinhtoannangmua3 #junphạm #trangphap #LUNAS #YeaH1 #TrangPhap #DiepLamAnh #HuyenBaby #KhongTuQuynh  #tanbinhtoannangtap12full #tap12tanbinhtoannang #tanbinhtoannang #tanbinhtoannangshowitall #gameshow #show2025 \n \n\n---------------------------------------------- \nChương trình truyền hình thực tế âm nhạc, nơi 11 “Tân binh Thăng Cấp” chính thức bước ra ánh sáng, sẵn sàng đại diện Việt Nam thi đấu cùng các nhóm nhạc quốc tế.\n\n“Tân Binh Toàn Năng” sẽ phát sóng trên khung giờ vàng VTV3 và hệ thống kênh YeaH1 bắt đầu từ tháng 10/2025. Format sống còn đầy thử thách, chương trình mang sứ mệnh giới thiệu thế hệ nghệ sĩ thần tượng mới của Việt Nam, khẳng định bản lĩnh và bứt phá trên sân khấu toàn cầu. \n\n11 bạn Tân Binh sẽ đối đầu trực tiếp với những nhóm nhạc quốc tế đến từ nhiều quốc gia để thể hiện bản lĩnh của một thế hệ nghệ sĩ mới, dám vượt qua mọi thách thức để mang niềm tự hào Việt Nam đi xa.\n\n📺 Chương trình phát sóng thứ 7 hằng tuần lúc 20h trên VTV3, 20h30 trên Youtube YeaH1 và chính thức có mặt tại ứng dụng giải trí MangoPlus\n\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Tân Binh Toàn Năng tại:\n📍FanPage: https://www.facebook.com/TanBinhToanNang/\n📍TikTok: https://www.tiktok.com/@tanbinhtoannang \n\n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng: https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44\n►Anh Trai Vượt Ngàn Chông Gai 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq\n►Chị Đẹp Đạp Gió 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF\n►Chị Đẹp Đạp Gió Rẽ Sóng 2023: https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A\n►Mẹ Siêu Nhân: https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3►\n ►Gia Đình Haha: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY\n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 ONE: https://www.youtube.com/@YeaH1ONE\n►YeaH1 SHOW: https://www.youtube.com/@YEAH1SHOW \n►YeaH1 Entertainment: https://www.youtube.com/@YEAH1_GIAITRI \n►YeaH1 Music: https://www.youtube.com/@yeah1music\n\n📣 Subscribe kênh YeaH1 ONE để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4n8zC5R\n©️ TÂN BINH TOÀN NĂNG thuộc sở hữu của YeaH1 ONE và được bảo vệ bản quyền bởi YeaH1 ONE",
+      "translatedText": "Tân Binh Toàn Năng 2025- Tập 12| Công Diễn 5 đổi luật – ai sở hữu màn trình diễn solo đủ bứt phá?\n\n#tanbinhtoannang2025  #showitall #YeaH1#showtanbinhtoannang #chuongtrinhtanbinhtoannang #SOOBIN #SlimV #showthucte #chuongtrinhamnhac #tanbinhtoannangtap12   #tanbinhtoannangmua3 #junphạm #trangphap #LUNAS #YeaH1 #TrangPhap #DiepLamAnh #HuyenBaby #KhongTuQuynh  #tanbinhtoannangtap12full #tap12tanbinhtoannang #tanbinhtoannang #tanbinhtoannangshowitall #gameshow #show2025 \n \n\n---------------------------------------------- \nChương trình truyền hình thực tế âm nhạc, nơi 11 “Tân binh Thăng Cấp” chính thức bước ra ánh sáng, sẵn sàng đại diện Việt Nam thi đấu cùng các nhóm nhạc quốc tế.\n\n“Tân Binh Toàn Năng” sẽ phát sóng trên khung giờ vàng VTV3 và hệ thống kênh YeaH1 bắt đầu từ tháng 10/2025. Format sống còn đầy thử thách, chương trình mang sứ mệnh giới thiệu thế hệ nghệ sĩ thần tượng mới của Việt Nam, khẳng định bản lĩnh và bứt phá trên sân khấu toàn cầu. \n\n11 bạn Tân Binh sẽ đối đầu trực tiếp với những nhóm nhạc quốc tế đến từ nhiều quốc gia để thể hiện bản lĩnh của một thế hệ nghệ sĩ mới, dám vượt qua mọi thách thức để mang niềm tự hào Việt Nam đi xa.\n\n📺 Chương trình phát sóng thứ 7 hằng tuần lúc 20h trên VTV3, 20h30 trên Youtube YeaH1 và chính thức có mặt tại ứng dụng giải trí MangoPlus\n\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Tân Binh Toàn Năng tại:\n📍FanPage:   / tanbinhtoannang  \n📍TikTok:   / tanbinhtoannang   \n\n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng:    • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  \n►Anh Trai Vượt Ngàn Chông Gai 2024:    • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  \n►Chị Đẹp Đạp Gió 2024:    • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  \n►Chị Đẹp Đạp Gió Rẽ Sóng 2023:    • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  \n►Mẹ Siêu Nhân: https://www.youtube.com/playlist?list...\n ►Gia Đình Haha:    • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  \n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 ONE:    / @yeah1one  \n►YeaH1 SHOW:    / @yeah1show   \n►YeaH1 Entertainment:    / @yeah1_giaitri   \n►YeaH1 Music:    / @yeah1music  \n\n📣 Subscribe kênh YeaH1 ONE để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4n8zC5R\n©️ TÂN BINH TOÀN NĂNG thuộc sở hữu của YeaH1 ONE và được bảo vệ bản quyền bởi YeaH1 ONE",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannang2025",
+          "text": "#tanbinhtoannang2025"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showitall",
+          "text": "#showitall"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showtanbinhtoannang",
+          "text": "#showtanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chuongtrinhtanbinhtoannang",
+          "text": "#chuongtrinhtanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/soobin",
+          "text": "#SOOBIN"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/slimv",
+          "text": "#SlimV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showthucte",
+          "text": "#showthucte"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chuongtrinhamnhac",
+          "text": "#chuongtrinhamnhac"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangtap12",
+          "text": "#tanbinhtoannangtap12"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangmua3",
+          "text": "#tanbinhtoannangmua3"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junph%E1%BA%A1m",
+          "text": "#junphạm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/trangphap",
+          "text": "#trangphap"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lunas",
+          "text": "#LUNAS"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/trangphap",
+          "text": "#TrangPhap"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dieplamanh",
+          "text": "#DiepLamAnh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huyenbaby",
+          "text": "#HuyenBaby"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/khongtuquynh",
+          "text": "#KhongTuQuynh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangtap12full",
+          "text": "#tanbinhtoannangtap12full"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tap12tanbinhtoannang",
+          "text": "#tap12tanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannang",
+          "text": "#tanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangshowitall",
+          "text": "#tanbinhtoannangshowitall"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gameshow",
+          "text": "#gameshow"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/show2025",
+          "text": "#show2025"
+        },
+        {
+          "url": "https://www.facebook.com/TanBinhToanNang/",
+          "text": "  / tanbinhtoannang  "
+        },
+        {
+          "url": "https://www.tiktok.com/@tanbinhtoannang",
+          "text": "  / tanbinhtoannang  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44",
+          "text": "   • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+          "text": "   • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3%E2%96%BA",
+          "text": "https://www.youtube.com/playlist?list..."
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY",
+          "text": "   • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC_np0YZuvNMIJceE6jHeggQ",
+          "text": "   / @yeah1one  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCh_zF2FsiCflCPgYDudtcqg",
+          "text": "   / @yeah1show  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCecta98cdYVFV6L_lfH__IA",
+          "text": "   / @yeah1_giaitri  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCI2OiZs5aVcyBUBVsgovzng",
+          "text": "   / @yeah1music  "
+        },
+        {
+          "url": "https://bit.ly/4n8zC5R",
+          "text": "https://bit.ly/4n8zC5R"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 3,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL",
+      "isMonetized": null,
+      "hashtags": [
+        "#showitall",
+        "#SOOBIN",
+        "#tanbinhtoannang"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tân Binh Toàn Năng 2025 - Tập 5 | Các Tân Binh tá hỏa khi đi xin việc và 1001 biến số bất ngờ",
+      "translatedTitle": "All-Rounder Rookies 2025 - Episode 5 | Rookies freak out during job hunting and 1001 unexpected t...",
+      "type": "video",
+      "id": "3KyIPaoEv1Y",
+      "url": "https://www.youtube.com/watch?v=3KyIPaoEv1Y&list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL&index=11",
+      "thumbnailUrl": "https://i.ytimg.com/vi/3KyIPaoEv1Y/maxresdefault.jpg",
+      "viewCount": 4291316,
+      "date": "2025-11-01T13:30:07.000Z",
+      "likes": 60000,
+      "location": null,
+      "channelName": "YeaH1 ONE",
+      "channelUrl": "https://www.youtube.com/@YeaH1ONE",
+      "channelUsername": "YeaH1ONE",
+      "collaborators": null,
+      "channelId": "UC_np0YZuvNMIJceE6jHeggQ",
+      "numberOfSubscribers": 5350000,
+      "duration": "01:47:27",
+      "commentsCount": 8029,
+      "text": "Tân Binh Toàn Năng 2025 - Tập 5 | Các Tân Binh tá hỏa khi đi xin việc và 1001 biến số bất ngờ\n\n#tanbinhtoannang2025 #showitall #YeaH1 #showtanbinhtoannang #chuongtrinhtanbinhtoannang #SOOBIN #SlimV  #showthucte #chuongtrinhamnhac  #tanbinhtoannangtap5 #tanbinhtoannangmua3 #tanbinhtoannangmoinhat #tanbinhtoannangtap5full #tap5anbinhtoannang #tanbinhtoannang #tanbinhtoannangshowitall \n\n---------------------------------------------- \nChương trình truyền hình thực tế âm nhạc, nơi 11 “Tân binh Thăng Cấp” chính thức bước ra ánh sáng, sẵn sàng đại diện Việt Nam thi đấu cùng các nhóm nhạc quốc tế.\n\n“Tân Binh Toàn Năng” sẽ phát sóng trên khung giờ vàng VTV3 và hệ thống kênh YeaH1 bắt đầu từ tháng 10/2025. Format sống còn đầy thử thách, chương trình mang sứ mệnh giới thiệu thế hệ nghệ sĩ thần tượng mới của Việt Nam, khẳng định bản lĩnh và bứt phá trên sân khấu toàn cầu. \n\n11 bạn Tân Binh sẽ đối đầu trực tiếp với những nhóm nhạc quốc tế đến từ nhiều quốc gia để thể hiện bản lĩnh của một thế hệ nghệ sĩ mới, dám vượt qua mọi thách thức để mang niềm tự hào Việt Nam đi xa.\n\n📺 Chương trình phát sóng thứ 7 hằng tuần lúc 20h trên VTV3, 20h30 trên Youtube YeaH1 và chính thức có mặt tại ứng dụng giải trí MangoPlus\n\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Tân Binh Toàn Năng tại:\n📍FanPage: https://www.facebook.com/TanBinhToanNang/\n📍TikTok: https://www.tiktok.com/@tanbinhtoannang \n\n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng: https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44\n►Anh Trai Vượt Ngàn Chông Gai 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq\n►Chị Đẹp Đạp Gió 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF\n►Chị Đẹp Đạp Gió Rẽ Sóng 2023: https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A\n►Mẹ Siêu Nhân: https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3►\n ►Gia Đình Haha: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY\n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 ONE: https://www.youtube.com/@YeaH1ONE\n►YeaH1 SHOW: https://www.youtube.com/@YEAH1SHOW \n►YeaH1 Entertainment: https://www.youtube.com/@YEAH1_GIAITRI \n►YeaH1 Music: https://www.youtube.com/@yeah1music\n\n📣 Subscribe kênh YeaH1 ONE để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4n8zC5R\n©️ TÂN BINH TOÀN NĂNG thuộc sở hữu của YeaH1 ONE và được bảo vệ bản quyền bởi YeaH1 ONE",
+      "translatedText": "Rookie of the Year 2025 - Episode 5 | Rookies are shocked when applying for jobs and 1001 unexpected variables\n\n#rookieoftheyear2025 #showitall #YeaH1 #showroftheyear2025 #rookieoftheyearprogram #soobin #SlimV #realityshow #musicprogram #rookieoftheyearepisode5 #rookieoftheyearseason3 #rookieoftheyearlatest #rookieoftheyearepisode5full #episode5rookieoftheyear #rookieoftheyear #rookieoftheyearshowitall\n\n---------------------------------------------- A music reality TV show where 11 \"Rookie of the Year\" officially step into the spotlight, ready to represent Vietnam and compete with international groups.\n\n“Rookie All-Round” will air during prime time on VTV3 and the YeaH1 channel system starting in October 2025. A challenging survival format, the program aims to introduce a new generation of Vietnamese idol artists, showcasing their talent and breakthroughs on the global stage.\n\nEleven rookies will directly compete against international groups from various countries to demonstrate the prowess of a new generation of artists, daring to overcome all challenges to bring Vietnamese pride to the world.\n\n📺 The show airs every Saturday at 8 PM on VTV3, 8:30 PM on YouTube YeaH1, and is officially available on the MangoPlus entertainment app.\n\nStay tuned and look forward to the latest updates on Tan Binh Toan Nang at:\n📍FanPage:   / tanbinhtoannang  \n📍TikTok:   / tanbinhtoannang  \n\n----------------------------------------------\n\nWatch other exciting programs from YeaH1:\n\n►Tan Binh Toan Nang:    • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  \n►Brother Overcoming a Thousand Obstacles 2024:    • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  \n►Beautiful Sister Riding the Wind 2024:    • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  \n►Beautiful Sister Riding the Wind and Breaking the Waves 2023:    • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  \n►Super Mom: https://www.youtube.com/playlist?list...\n\n►Haha Family:    • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  \n\nOr watch more on the YeaH1 system:\n►YeaH1 ONE:    / @yeah1one  \n►YeaH1 SHOW:    / @yeah1show   ►YeaH1 Entertainment:    / @yeah1_giaitri   ►YeaH1 Music:    / @yeah1music  \n\n📣 Subscribe to the YeaH1 ONE channel to watch the EARLIEST and NEWEST episodes: https://bit.ly/4n8zC5R\n©️ TAN BINH TOAN NANG is owned by YeaH1 ONE and is protected by copyright by YeaH1 ONE",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/rookieoftheyear2025",
+          "text": "#rookieoftheyear2025"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showitall",
+          "text": "#showitall"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showroftheyear2025",
+          "text": "#showroftheyear2025"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/rookieoftheyearprogram",
+          "text": "#rookieoftheyearprogram"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/soobin",
+          "text": "#soobin"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/slimv",
+          "text": "#SlimV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/realityshow",
+          "text": "#realityshow"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/musicprogram",
+          "text": "#musicprogram"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/rookieoftheyearepisode5",
+          "text": "#rookieoftheyearepisode5"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/rookieoftheyearseason3",
+          "text": "#rookieoftheyearseason3"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/rookieoftheyearlatest",
+          "text": "#rookieoftheyearlatest"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/rookieoftheyearepisode5full",
+          "text": "#rookieoftheyearepisode5full"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/episode5rookieoftheyear",
+          "text": "#episode5rookieoftheyear"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/rookieoftheyear",
+          "text": "#rookieoftheyear"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/rookieoftheyearshowitall",
+          "text": "#rookieoftheyearshowitall"
+        },
+        {
+          "url": "https://www.facebook.com/TanBinhToanNang/",
+          "text": "  / tanbinhtoannang  "
+        },
+        {
+          "url": "https://www.tiktok.com/@tanbinhtoannang",
+          "text": "  / tanbinhtoannang  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44",
+          "text": "   • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+          "text": "   • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3%E2%96%BA",
+          "text": "https://www.youtube.com/playlist?list..."
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY",
+          "text": "   • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  "
+        },
+        {
+          "url": "https://www.youtube.com/@YeaH1ONE",
+          "text": "   / @yeah1one  "
+        },
+        {
+          "url": "https://www.youtube.com/@YEAH1SHOW",
+          "text": "   / @yeah1show  "
+        },
+        {
+          "url": "https://www.youtube.com/@YEAH1_GIAITRI",
+          "text": "   / @yeah1_giaitri  "
+        },
+        {
+          "url": "https://www.youtube.com/@yeah1music",
+          "text": "   / @yeah1music  "
+        },
+        {
+          "url": "https://bit.ly/4n8zC5R",
+          "text": "https://bit.ly/4n8zC5R"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 10,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL",
+      "isMonetized": null,
+      "hashtags": [
+        "#showitall",
+        "#SOOBIN",
+        "#tanbinhtoannang"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tân Binh Toàn Năng 2025 - Tập 8 | Đội hình cuối cùng Gương Vỡ Làm Lành có cứu được thầy trò SOOBIN?",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "UMKLgnw9oeI",
+      "url": "https://www.youtube.com/watch?v=UMKLgnw9oeI&list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL&index=8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/UMKLgnw9oeI/maxresdefault.jpg",
+      "viewCount": 4203007,
+      "date": "2025-11-22T13:30:07.000Z",
+      "likes": 61000,
+      "location": null,
+      "channelName": "YeaH1 ONE",
+      "channelUrl": "https://www.youtube.com/@YeaH1ONE",
+      "channelUsername": "YeaH1ONE",
+      "collaborators": null,
+      "channelId": "UC_np0YZuvNMIJceE6jHeggQ",
+      "numberOfSubscribers": 5350000,
+      "duration": "02:21:35",
+      "commentsCount": 22338,
+      "text": "Tân Binh Toàn Năng 2025 - Tập 8 | Đội hình cuối cùng Gương Vỡ Làm Lành có cứu được thầy trò SOOBIN?\n\n#tanbinhtoannang2025  #showitall #YeaH1#FEniX #李承隆Tzo #ARrC #아크  #showtanbinhtoannang #chuongtrinhtanbinhtoannang #SOOBIN #SlimV  #showthucte #chuongtrinhamnhac #tanbinhtoannangtap8 #tanbinhtoannangmua3 #tanbinhtoannangmoinhat #tanbinhtoannangtap8full #tap8tanbinhtoannang #tanbinhtoannang #tanbinhtoannangshowitall #guongvolamlanh \n \n\n---------------------------------------------- \nChương trình truyền hình thực tế âm nhạc, nơi 11 “Tân binh Thăng Cấp” chính thức bước ra ánh sáng, sẵn sàng đại diện Việt Nam thi đấu cùng các nhóm nhạc quốc tế.\n\n“Tân Binh Toàn Năng” sẽ phát sóng trên khung giờ vàng VTV3 và hệ thống kênh YeaH1 bắt đầu từ tháng 10/2025. Format sống còn đầy thử thách, chương trình mang sứ mệnh giới thiệu thế hệ nghệ sĩ thần tượng mới của Việt Nam, khẳng định bản lĩnh và bứt phá trên sân khấu toàn cầu. \n\n11 bạn Tân Binh sẽ đối đầu trực tiếp với những nhóm nhạc quốc tế đến từ nhiều quốc gia để thể hiện bản lĩnh của một thế hệ nghệ sĩ mới, dám vượt qua mọi thách thức để mang niềm tự hào Việt Nam đi xa.\n\n📺 Chương trình phát sóng thứ 7 hằng tuần lúc 20h trên VTV3, 20h30 trên Youtube YeaH1 và chính thức có mặt tại ứng dụng giải trí MangoPlus\n\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Tân Binh Toàn Năng tại:\n📍FanPage: https://www.facebook.com/TanBinhToanNang/\n📍TikTok: https://www.tiktok.com/@tanbinhtoannang \n\n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng: https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44\n►Anh Trai Vượt Ngàn Chông Gai 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq\n►Chị Đẹp Đạp Gió 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF\n►Chị Đẹp Đạp Gió Rẽ Sóng 2023: https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A\n►Mẹ Siêu Nhân: https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3►\n ►Gia Đình Haha: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY\n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 ONE: https://www.youtube.com/@YeaH1ONE\n►YeaH1 SHOW: https://www.youtube.com/@YEAH1SHOW \n►YeaH1 Entertainment: https://www.youtube.com/@YEAH1_GIAITRI \n►YeaH1 Music: https://www.youtube.com/@yeah1music\n\n📣 Subscribe kênh YeaH1 ONE để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4n8zC5R\n©️ TÂN BINH TOÀN NĂNG thuộc sở hữu của YeaH1 ONE và được bảo vệ bản quyền bởi YeaH1 ONE",
+      "translatedText": "Tân Binh Toàn Năng 2025 - Tập 8 | Đội hình cuối cùng Gương Vỡ Làm Lành có cứu được thầy trò SOOBIN?\n\n#tanbinhtoannang2025  #showitall #YeaH1#FEniX #李承隆Tzo #ARrC #아크  #showtanbinhtoannang #chuongtrinhtanbinhtoannang #SOOBIN #SlimV  #showthucte #chuongtrinhamnhac #tanbinhtoannangtap8 #tanbinhtoannangmua3 #tanbinhtoannangmoinhat #tanbinhtoannangtap8full #tap8tanbinhtoannang #tanbinhtoannang #tanbinhtoannangshowitall #guongvolamlanh \n \n\n---------------------------------------------- \nChương trình truyền hình thực tế âm nhạc, nơi 11 “Tân binh Thăng Cấp” chính thức bước ra ánh sáng, sẵn sàng đại diện Việt Nam thi đấu cùng các nhóm nhạc quốc tế.\n\n“Tân Binh Toàn Năng” sẽ phát sóng trên khung giờ vàng VTV3 và hệ thống kênh YeaH1 bắt đầu từ tháng 10/2025. Format sống còn đầy thử thách, chương trình mang sứ mệnh giới thiệu thế hệ nghệ sĩ thần tượng mới của Việt Nam, khẳng định bản lĩnh và bứt phá trên sân khấu toàn cầu. \n\n11 bạn Tân Binh sẽ đối đầu trực tiếp với những nhóm nhạc quốc tế đến từ nhiều quốc gia để thể hiện bản lĩnh của một thế hệ nghệ sĩ mới, dám vượt qua mọi thách thức để mang niềm tự hào Việt Nam đi xa.\n\n📺 Chương trình phát sóng thứ 7 hằng tuần lúc 20h trên VTV3, 20h30 trên Youtube YeaH1 và chính thức có mặt tại ứng dụng giải trí MangoPlus\n\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Tân Binh Toàn Năng tại:\n📍FanPage:   / tanbinhtoannang  \n📍TikTok:   / tanbinhtoannang   \n\n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng:    • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  \n►Anh Trai Vượt Ngàn Chông Gai 2024:    • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  \n►Chị Đẹp Đạp Gió 2024:    • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  \n►Chị Đẹp Đạp Gió Rẽ Sóng 2023:    • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  \n►Mẹ Siêu Nhân: https://www.youtube.com/playlist?list...\n ►Gia Đình Haha:    • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  \n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 ONE:    / @yeah1one  \n►YeaH1 SHOW:    / @yeah1show   \n►YeaH1 Entertainment:    / @yeah1_giaitri   \n►YeaH1 Music:    / @yeah1music  \n\n📣 Subscribe kênh YeaH1 ONE để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4n8zC5R\n©️ TÂN BINH TOÀN NĂNG thuộc sở hữu của YeaH1 ONE và được bảo vệ bản quyền bởi YeaH1 ONE",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannang2025",
+          "text": "#tanbinhtoannang2025"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showitall",
+          "text": "#showitall"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/fenix",
+          "text": "#FEniX"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/%E6%9D%8E%E6%89%BF%E9%9A%86tzo",
+          "text": "#李承隆Tzo"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/arrc",
+          "text": "#ARrC"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/%EC%95%84%ED%81%AC",
+          "text": "#아크"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showtanbinhtoannang",
+          "text": "#showtanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chuongtrinhtanbinhtoannang",
+          "text": "#chuongtrinhtanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/soobin",
+          "text": "#SOOBIN"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/slimv",
+          "text": "#SlimV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showthucte",
+          "text": "#showthucte"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chuongtrinhamnhac",
+          "text": "#chuongtrinhamnhac"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangtap8",
+          "text": "#tanbinhtoannangtap8"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangmua3",
+          "text": "#tanbinhtoannangmua3"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangmoinhat",
+          "text": "#tanbinhtoannangmoinhat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangtap8full",
+          "text": "#tanbinhtoannangtap8full"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tap8tanbinhtoannang",
+          "text": "#tap8tanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannang",
+          "text": "#tanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangshowitall",
+          "text": "#tanbinhtoannangshowitall"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/guongvolamlanh",
+          "text": "#guongvolamlanh"
+        },
+        {
+          "url": "https://www.facebook.com/TanBinhToanNang/",
+          "text": "  / tanbinhtoannang  "
+        },
+        {
+          "url": "https://www.tiktok.com/@tanbinhtoannang",
+          "text": "  / tanbinhtoannang  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44",
+          "text": "   • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+          "text": "   • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3%E2%96%BA",
+          "text": "https://www.youtube.com/playlist?list..."
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY",
+          "text": "   • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC_np0YZuvNMIJceE6jHeggQ",
+          "text": "   / @yeah1one  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCh_zF2FsiCflCPgYDudtcqg",
+          "text": "   / @yeah1show  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCecta98cdYVFV6L_lfH__IA",
+          "text": "   / @yeah1_giaitri  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCI2OiZs5aVcyBUBVsgovzng",
+          "text": "   / @yeah1music  "
+        },
+        {
+          "url": "https://bit.ly/4n8zC5R",
+          "text": "https://bit.ly/4n8zC5R"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 7,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL",
+      "isMonetized": null,
+      "hashtags": [
+        "#SOOBIN",
+        "#showitall",
+        "#FEniX"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tân Binh Toàn Năng 2025 - Tập 7 | Phúc Nguyên, Long Hoàng & Đức Duy khiến SOOBIN khóc vì?",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "0Q1dO9JZxOc",
+      "url": "https://www.youtube.com/watch?v=0Q1dO9JZxOc&list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL&index=9",
+      "thumbnailUrl": "https://i.ytimg.com/vi/0Q1dO9JZxOc/maxresdefault.jpg",
+      "viewCount": 4214350,
+      "date": "2025-11-15T13:30:07.000Z",
+      "likes": 63000,
+      "location": null,
+      "channelName": "YeaH1 ONE",
+      "channelUrl": "https://www.youtube.com/@YeaH1ONE",
+      "channelUsername": "YeaH1ONE",
+      "collaborators": null,
+      "channelId": "UC_np0YZuvNMIJceE6jHeggQ",
+      "numberOfSubscribers": 5350000,
+      "duration": "01:45:46",
+      "commentsCount": 16838,
+      "text": "Tân Binh Toàn Năng 2025 - Tập 7 | Phúc Nguyên, Long Hoàng & Đức Duy khiến SOOBIN khóc vì?\n\n#tanbinhtoannang2025  #showitall #YeaH1#FEniX #李承隆Tzo #ARrC #아크  #showtanbinhtoannang #chuongtrinhtanbinhtoannang #SOOBIN #SlimV  #showthucte #chuongtrinhamnhac #tanbinhtoannangtap7 #tanbinhtoannangmua3 #tanbinhtoannangmoinhat #tanbinhtoannangtap7full #tap7anbinhtoannang #tanbinhtoannang #tanbinhtoannangshowitall\n \n\n---------------------------------------------- \nChương trình truyền hình thực tế âm nhạc, nơi 11 “Tân binh Thăng Cấp” chính thức bước ra ánh sáng, sẵn sàng đại diện Việt Nam thi đấu cùng các nhóm nhạc quốc tế.\n\n“Tân Binh Toàn Năng” sẽ phát sóng trên khung giờ vàng VTV3 và hệ thống kênh YeaH1 bắt đầu từ tháng 10/2025. Format sống còn đầy thử thách, chương trình mang sứ mệnh giới thiệu thế hệ nghệ sĩ thần tượng mới của Việt Nam, khẳng định bản lĩnh và bứt phá trên sân khấu toàn cầu. \n\n11 bạn Tân Binh sẽ đối đầu trực tiếp với những nhóm nhạc quốc tế đến từ nhiều quốc gia để thể hiện bản lĩnh của một thế hệ nghệ sĩ mới, dám vượt qua mọi thách thức để mang niềm tự hào Việt Nam đi xa.\n\n📺 Chương trình phát sóng thứ 7 hằng tuần lúc 20h trên VTV3, 20h30 trên Youtube YeaH1 và chính thức có mặt tại ứng dụng giải trí MangoPlus\n\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Tân Binh Toàn Năng tại:\n📍FanPage: https://www.facebook.com/TanBinhToanNang/\n📍TikTok: https://www.tiktok.com/@tanbinhtoannang \n\n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng: https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44\n►Anh Trai Vượt Ngàn Chông Gai 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq\n►Chị Đẹp Đạp Gió 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF\n►Chị Đẹp Đạp Gió Rẽ Sóng 2023: https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A\n►Mẹ Siêu Nhân: https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3►\n ►Gia Đình Haha: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY\n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 ONE: https://www.youtube.com/@YeaH1ONE\n►YeaH1 SHOW: https://www.youtube.com/@YEAH1SHOW \n►YeaH1 Entertainment: https://www.youtube.com/@YEAH1_GIAITRI \n►YeaH1 Music: https://www.youtube.com/@yeah1music\n\n📣 Subscribe kênh YeaH1 ONE để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4n8zC5R\n©️ TÂN BINH TOÀN NĂNG thuộc sở hữu của YeaH1 ONE và được bảo vệ bản quyền bởi YeaH1 ONE",
+      "translatedText": "Tân Binh Toàn Năng 2025 - Tập 7 | Phúc Nguyên, Long Hoàng & Đức Duy khiến SOOBIN khóc vì?\n\n#tanbinhtoannang2025  #showitall #YeaH1#FEniX #李承隆Tzo #ARrC #아크  #showtanbinhtoannang #chuongtrinhtanbinhtoannang #SOOBIN #SlimV  #showthucte #chuongtrinhamnhac #tanbinhtoannangtap7 #tanbinhtoannangmua3 #tanbinhtoannangmoinhat #tanbinhtoannangtap7full #tap7anbinhtoannang #tanbinhtoannang #tanbinhtoannangshowitall\n \n\n---------------------------------------------- \nChương trình truyền hình thực tế âm nhạc, nơi 11 “Tân binh Thăng Cấp” chính thức bước ra ánh sáng, sẵn sàng đại diện Việt Nam thi đấu cùng các nhóm nhạc quốc tế.\n\n“Tân Binh Toàn Năng” sẽ phát sóng trên khung giờ vàng VTV3 và hệ thống kênh YeaH1 bắt đầu từ tháng 10/2025. Format sống còn đầy thử thách, chương trình mang sứ mệnh giới thiệu thế hệ nghệ sĩ thần tượng mới của Việt Nam, khẳng định bản lĩnh và bứt phá trên sân khấu toàn cầu. \n\n11 bạn Tân Binh sẽ đối đầu trực tiếp với những nhóm nhạc quốc tế đến từ nhiều quốc gia để thể hiện bản lĩnh của một thế hệ nghệ sĩ mới, dám vượt qua mọi thách thức để mang niềm tự hào Việt Nam đi xa.\n\n📺 Chương trình phát sóng thứ 7 hằng tuần lúc 20h trên VTV3, 20h30 trên Youtube YeaH1 và chính thức có mặt tại ứng dụng giải trí MangoPlus\n\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Tân Binh Toàn Năng tại:\n📍FanPage:   / tanbinhtoannang  \n📍TikTok:   / tanbinhtoannang   \n\n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng:    • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  \n►Anh Trai Vượt Ngàn Chông Gai 2024:    • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  \n►Chị Đẹp Đạp Gió 2024:    • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  \n►Chị Đẹp Đạp Gió Rẽ Sóng 2023:    • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  \n►Mẹ Siêu Nhân: https://www.youtube.com/playlist?list...\n ►Gia Đình Haha:    • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  \n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 ONE:    / @yeah1one  \n►YeaH1 SHOW:    / @yeah1show   \n►YeaH1 Entertainment:    / @yeah1_giaitri   \n►YeaH1 Music:    / @yeah1music  \n\n📣 Subscribe kênh YeaH1 ONE để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4n8zC5R\n©️ TÂN BINH TOÀN NĂNG thuộc sở hữu của YeaH1 ONE và được bảo vệ bản quyền bởi YeaH1 ONE",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannang2025",
+          "text": "#tanbinhtoannang2025"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showitall",
+          "text": "#showitall"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/fenix",
+          "text": "#FEniX"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/%E6%9D%8E%E6%89%BF%E9%9A%86tzo",
+          "text": "#李承隆Tzo"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/arrc",
+          "text": "#ARrC"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/%EC%95%84%ED%81%AC",
+          "text": "#아크"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showtanbinhtoannang",
+          "text": "#showtanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chuongtrinhtanbinhtoannang",
+          "text": "#chuongtrinhtanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/soobin",
+          "text": "#SOOBIN"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/slimv",
+          "text": "#SlimV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showthucte",
+          "text": "#showthucte"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chuongtrinhamnhac",
+          "text": "#chuongtrinhamnhac"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangtap7",
+          "text": "#tanbinhtoannangtap7"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangmua3",
+          "text": "#tanbinhtoannangmua3"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangmoinhat",
+          "text": "#tanbinhtoannangmoinhat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangtap7full",
+          "text": "#tanbinhtoannangtap7full"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tap7anbinhtoannang",
+          "text": "#tap7anbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannang",
+          "text": "#tanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangshowitall",
+          "text": "#tanbinhtoannangshowitall"
+        },
+        {
+          "url": "https://www.facebook.com/TanBinhToanNang/",
+          "text": "  / tanbinhtoannang  "
+        },
+        {
+          "url": "https://www.tiktok.com/@tanbinhtoannang",
+          "text": "  / tanbinhtoannang  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44",
+          "text": "   • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+          "text": "   • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3%E2%96%BA",
+          "text": "https://www.youtube.com/playlist?list..."
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY",
+          "text": "   • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC_np0YZuvNMIJceE6jHeggQ",
+          "text": "   / @yeah1one  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCh_zF2FsiCflCPgYDudtcqg",
+          "text": "   / @yeah1show  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCecta98cdYVFV6L_lfH__IA",
+          "text": "   / @yeah1_giaitri  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCI2OiZs5aVcyBUBVsgovzng",
+          "text": "   / @yeah1music  "
+        },
+        {
+          "url": "https://bit.ly/4n8zC5R",
+          "text": "https://bit.ly/4n8zC5R"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 8,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL",
+      "isMonetized": null,
+      "hashtags": [
+        "#SOOBIN",
+        "#showitall",
+        "#FEniX"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tân Binh Toàn Năng 2025- Tập 13 | Thời khắc định đoạt : Ai buộc phải rời cuộc chơi trước chung kết?",
+      "translatedTitle": "Rookie of the Year 2025 Ep13: Who falls before finals?",
+      "type": "video",
+      "id": "QFQEzCBM5bM",
+      "url": "https://www.youtube.com/watch?v=QFQEzCBM5bM&list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL&index=3",
+      "thumbnailUrl": "https://i.ytimg.com/vi/QFQEzCBM5bM/maxresdefault.jpg",
+      "viewCount": 4409539,
+      "date": "2025-12-27T13:30:10.000Z",
+      "likes": 59000,
+      "location": null,
+      "channelName": "YeaH1 ONE",
+      "channelUrl": "https://www.youtube.com/@YeaH1ONE",
+      "channelUsername": "YeaH1ONE",
+      "collaborators": null,
+      "channelId": "UC_np0YZuvNMIJceE6jHeggQ",
+      "numberOfSubscribers": 5350000,
+      "duration": "01:51:44",
+      "commentsCount": 13374,
+      "text": "Tân Binh Toàn Năng 2025- Tập 13 | Thời khắc định đoạt : Ai buộc phải rời cuộc chơi trước chung kết?\n\n#tanbinhtoannang2025  #showitall #YeaH1#showtanbinhtoannang #chuongtrinhtanbinhtoannang #SOOBIN #SlimV #showthucte #chuongtrinhamnhac #tanbinhtoannangtap13   #tanbinhtoannangmua3 #junphạm #trangphap #LUNAS #YeaH1 #TrangPhap #DiepLamAnh #HuyenBaby #KhongTuQuynh  #tanbinhtoannangtap13full #tap13tanbinhtoannang #tanbinhtoannang #tanbinhtoannangshowitall #gameshow #show2025 \n \n---------------------------------------------- \nChương trình truyền hình thực tế âm nhạc, nơi 11 “Tân binh Thăng Cấp” chính thức bước ra ánh sáng, sẵn sàng đại diện Việt Nam thi đấu cùng các nhóm nhạc quốc tế.\n\n“Tân Binh Toàn Năng” sẽ phát sóng trên khung giờ vàng VTV3 và hệ thống kênh YeaH1 bắt đầu từ tháng 10/2025. Format sống còn đầy thử thách, chương trình mang sứ mệnh giới thiệu thế hệ nghệ sĩ thần tượng mới của Việt Nam, khẳng định bản lĩnh và bứt phá trên sân khấu toàn cầu. \n\n11 bạn Tân Binh sẽ đối đầu trực tiếp với những nhóm nhạc quốc tế đến từ nhiều quốc gia để thể hiện bản lĩnh của một thế hệ nghệ sĩ mới, dám vượt qua mọi thách thức để mang niềm tự hào Việt Nam đi xa.\n\n📺 Chương trình phát sóng thứ 7 hằng tuần lúc 20h trên VTV3, 20h30 trên Youtube YeaH1 và chính thức có mặt tại ứng dụng giải trí MangoPlus\n\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Tân Binh Toàn Năng tại:\n📍FanPage: https://www.facebook.com/TanBinhToanNang/\n📍TikTok: https://www.tiktok.com/@tanbinhtoannang \n\n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng: https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44\n►Anh Trai Vượt Ngàn Chông Gai 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq\n►Chị Đẹp Đạp Gió 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF\n►Chị Đẹp Đạp Gió Rẽ Sóng 2023: https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A\n►Mẹ Siêu Nhân: https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3►\n ►Gia Đình Haha: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY\n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 ONE: https://www.youtube.com/@YeaH1ONE\n►YeaH1 SHOW: https://www.youtube.com/@YEAH1SHOW \n►YeaH1 Entertainment: https://www.youtube.com/@YEAH1_GIAITRI \n►YeaH1 Music: https://www.youtube.com/@yeah1music\n\n📣 Subscribe kênh YeaH1 ONE để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4n8zC5R\n©️ TÂN BINH TOÀN NĂNG thuộc sở hữu của YeaH1 ONE và được bảo vệ bản quyền bởi YeaH1 ONE",
+      "translatedText": "Rookie of the Year 2025 - Episode 13 | The Decisive Moment: Who will be eliminated before the finals?\n\n#tanbinhtoannang2025 #showitall #YeaH1 #showtanbinhtoannang #chuongtrinhtanbinhtoannang #SOOBIN #SlimV #showthucte #chuongtrinhamnhac #tanbinhtoannangtap13 #tanbinhtoannangmua3 #junpham #trangphap #LUNAS #YeaH1 #TrangPhap #DiepLamAnh #HuyenBaby #KhongTuQuynh #tanbinhtoannangtap13full #tap13tanbinhtoannang #tanbinhtoannang #tanbinhtoannangshowitall #gameshow #show2025\n\n---------------------------------------------- A music reality TV show where 11 \"Rookie Ascendants\" officially step into the spotlight, ready to represent Vietnam and compete with international groups.\n\n“Rookie All-Round” will air during prime time on VTV3 and the YeaH1 channel system starting in October 2025. A challenging survival format, the program aims to introduce a new generation of Vietnamese idol artists, showcasing their talent and breakthroughs on the global stage.\n\nEleven rookies will directly compete against international groups from various countries to demonstrate the prowess of a new generation of artists, daring to overcome all challenges to bring Vietnamese pride to the world.\n\n📺 The show airs every Saturday at 8 PM on VTV3, 8:30 PM on YouTube YeaH1, and is officially available on the MangoPlus entertainment app.\n\nStay tuned and look forward to the latest updates on Tan Binh Toan Nang at:\n📍FanPage:   / tanbinhtoannang  \n📍TikTok:   / tanbinhtoannang  \n\n----------------------------------------------\n\nWatch other exciting programs from YeaH1:\n\n►Tan Binh Toan Nang:    • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  \n►Brother Overcoming a Thousand Obstacles 2024:    • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  \n►Beautiful Sister Riding the Wind 2024:    • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  \n►Beautiful Sister Riding the Wind and Breaking the Waves 2023:    • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  \n►Super Mom: https://www.youtube.com/playlist?list...\n\n►Haha Family:    • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  \n\nOr watch more on the YeaH1 system:\n►YeaH1 ONE:    / @yeah1one  \n►YeaH1 SHOW:    / @yeah1show   ►YeaH1 Entertainment:    / @yeah1entertainment   ►YeaH1 Music:    / @yeah1music  \n\n📣 Subscribe to the YeaH1 ONE channel to watch the EARLIEST and NEWEST episodes: https://bit.ly/4n8zC5R\n©️ TAN BINH TOAN NANG is owned by YeaH1 ONE and is protected by copyright by YeaH1 ONE",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannang2025",
+          "text": "#tanbinhtoannang2025"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showitall",
+          "text": "#showitall"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showtanbinhtoannang",
+          "text": "#showtanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chuongtrinhtanbinhtoannang",
+          "text": "#chuongtrinhtanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/soobin",
+          "text": "#SOOBIN"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/slimv",
+          "text": "#SlimV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showthucte",
+          "text": "#showthucte"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chuongtrinhamnhac",
+          "text": "#chuongtrinhamnhac"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangtap13",
+          "text": "#tanbinhtoannangtap13"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangmua3",
+          "text": "#tanbinhtoannangmua3"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junpham",
+          "text": "#junpham"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/trangphap",
+          "text": "#trangphap"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lunas",
+          "text": "#LUNAS"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/trangphap",
+          "text": "#TrangPhap"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dieplamanh",
+          "text": "#DiepLamAnh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huyenbaby",
+          "text": "#HuyenBaby"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/khongtuquynh",
+          "text": "#KhongTuQuynh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangtap13full",
+          "text": "#tanbinhtoannangtap13full"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tap13tanbinhtoannang",
+          "text": "#tap13tanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannang",
+          "text": "#tanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangshowitall",
+          "text": "#tanbinhtoannangshowitall"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gameshow",
+          "text": "#gameshow"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/show2025",
+          "text": "#show2025"
+        },
+        {
+          "url": "https://www.facebook.com/TanBinhToanNang/",
+          "text": "  / tanbinhtoannang  "
+        },
+        {
+          "url": "https://www.tiktok.com/@tanbinhtoannang",
+          "text": "  / tanbinhtoannang  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44",
+          "text": "   • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+          "text": "   • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3%E2%96%BA",
+          "text": "https://www.youtube.com/playlist?list..."
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY",
+          "text": "   • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  "
+        },
+        {
+          "url": "https://www.youtube.com/@YeaH1ONE",
+          "text": "   / @yeah1one  "
+        },
+        {
+          "url": "https://www.youtube.com/@YEAH1SHOW",
+          "text": "   / @yeah1show  "
+        },
+        {
+          "url": "https://www.youtube.com/@yeah1entertainment",
+          "text": "   / @yeah1entertainment  "
+        },
+        {
+          "url": "https://www.youtube.com/@yeah1music",
+          "text": "   / @yeah1music  "
+        },
+        {
+          "url": "https://bit.ly/4n8zC5R",
+          "text": "https://bit.ly/4n8zC5R"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 2,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL",
+      "isMonetized": null,
+      "hashtags": [
+        "#showitall",
+        "#SOOBIN",
+        "#tanbinhtoannang"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tân Binh Toàn Năng 2025 - Tập 6 | Quyết tâm RÃ BĂNG đồng đội, ai sẽ đủ bản lĩnh làm LEADER?",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "e7lqxbooUUc",
+      "url": "https://www.youtube.com/watch?v=e7lqxbooUUc&list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL&index=10",
+      "thumbnailUrl": "https://i.ytimg.com/vi/e7lqxbooUUc/maxresdefault.jpg",
+      "viewCount": 4587945,
+      "date": "2025-11-08T13:30:07.000Z",
+      "likes": 66000,
+      "location": null,
+      "channelName": "YeaH1 ONE",
+      "channelUrl": "https://www.youtube.com/@YeaH1ONE",
+      "channelUsername": "YeaH1ONE",
+      "collaborators": null,
+      "channelId": "UC_np0YZuvNMIJceE6jHeggQ",
+      "numberOfSubscribers": 5350000,
+      "duration": "02:33:02",
+      "commentsCount": 19624,
+      "text": "Tân Binh Toàn Năng 2025 - Tập 6 | Quyết tâm RÃ BĂNG đồng đội, ai sẽ đủ bản lĩnh làm LEADER?\n\n#tanbinhtoannang2025 #showitall #YeaH1#FEniX #李承隆Tzo #ARrC #아크  #showtanbinhtoannang #chuongtrinhtanbinhtoannang #SOOBIN #SlimV  #showthucte #chuongtrinhamnhac #tanbinhtoannangtap6 #tanbinhtoannangmua3 #tanbinhtoannangmoinhat #tanbinhtoannangtap6full #tap6anbinhtoannang #tanbinhtoannang #tanbinhtoannangshowitall \n\n1:05:25 DUMMY - ARrC \n1:32:18 VITAMIN I - ARrC \n1:41:37 BACK TO THE TIME - FEniX\n2:15:28 REAL TALK - TÂN BINH THĂNG CẤP  \n---------------------------------------------- \nChương trình truyền hình thực tế âm nhạc, nơi 11 “Tân binh Thăng Cấp” chính thức bước ra ánh sáng, sẵn sàng đại diện Việt Nam thi đấu cùng các nhóm nhạc quốc tế.\n\n“Tân Binh Toàn Năng” sẽ phát sóng trên khung giờ vàng VTV3 và hệ thống kênh YeaH1 bắt đầu từ tháng 10/2025. Format sống còn đầy thử thách, chương trình mang sứ mệnh giới thiệu thế hệ nghệ sĩ thần tượng mới của Việt Nam, khẳng định bản lĩnh và bứt phá trên sân khấu toàn cầu. \n\n11 bạn Tân Binh sẽ đối đầu trực tiếp với những nhóm nhạc quốc tế đến từ nhiều quốc gia để thể hiện bản lĩnh của một thế hệ nghệ sĩ mới, dám vượt qua mọi thách thức để mang niềm tự hào Việt Nam đi xa.\n\n📺 Chương trình phát sóng thứ 7 hằng tuần lúc 20h trên VTV3, 20h30 trên Youtube YeaH1 và chính thức có mặt tại ứng dụng giải trí MangoPlus\n\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Tân Binh Toàn Năng tại:\n📍FanPage: https://www.facebook.com/TanBinhToanNang/\n📍TikTok: https://www.tiktok.com/@tanbinhtoannang \n\n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng: https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44\n►Anh Trai Vượt Ngàn Chông Gai 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq\n►Chị Đẹp Đạp Gió 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF\n►Chị Đẹp Đạp Gió Rẽ Sóng 2023: https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A\n►Mẹ Siêu Nhân: https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3►\n ►Gia Đình Haha: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY\n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 ONE: https://www.youtube.com/@YeaH1ONE\n►YeaH1 SHOW: https://www.youtube.com/@YEAH1SHOW \n►YeaH1 Entertainment: https://www.youtube.com/@YEAH1_GIAITRI \n►YeaH1 Music: https://www.youtube.com/@yeah1music\n\n📣 Subscribe kênh YeaH1 ONE để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4n8zC5R\n©️ TÂN BINH TOÀN NĂNG thuộc sở hữu của YeaH1 ONE và được bảo vệ bản quyền bởi YeaH1 ONE",
+      "translatedText": "Tân Binh Toàn Năng 2025 - Tập 6 | Quyết tâm RÃ BĂNG đồng đội, ai sẽ đủ bản lĩnh làm LEADER?\n\n#tanbinhtoannang2025 #showitall #YeaH1#FEniX #李承隆Tzo #ARrC #아크  #showtanbinhtoannang #chuongtrinhtanbinhtoannang #SOOBIN #SlimV  #showthucte #chuongtrinhamnhac #tanbinhtoannangtap6 #tanbinhtoannangmua3 #tanbinhtoannangmoinhat #tanbinhtoannangtap6full #tap6anbinhtoannang #tanbinhtoannang #tanbinhtoannangshowitall \n\n1:05:25 DUMMY - ARrC \n1:32:18 VITAMIN I - ARrC \n1:41:37 BACK TO THE TIME - FEniX\n2:15:28 REAL TALK - TÂN BINH THĂNG CẤP  \n---------------------------------------------- \nChương trình truyền hình thực tế âm nhạc, nơi 11 “Tân binh Thăng Cấp” chính thức bước ra ánh sáng, sẵn sàng đại diện Việt Nam thi đấu cùng các nhóm nhạc quốc tế.\n\n“Tân Binh Toàn Năng” sẽ phát sóng trên khung giờ vàng VTV3 và hệ thống kênh YeaH1 bắt đầu từ tháng 10/2025. Format sống còn đầy thử thách, chương trình mang sứ mệnh giới thiệu thế hệ nghệ sĩ thần tượng mới của Việt Nam, khẳng định bản lĩnh và bứt phá trên sân khấu toàn cầu. \n\n11 bạn Tân Binh sẽ đối đầu trực tiếp với những nhóm nhạc quốc tế đến từ nhiều quốc gia để thể hiện bản lĩnh của một thế hệ nghệ sĩ mới, dám vượt qua mọi thách thức để mang niềm tự hào Việt Nam đi xa.\n\n📺 Chương trình phát sóng thứ 7 hằng tuần lúc 20h trên VTV3, 20h30 trên Youtube YeaH1 và chính thức có mặt tại ứng dụng giải trí MangoPlus\n\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Tân Binh Toàn Năng tại:\n📍FanPage:   / tanbinhtoannang  \n📍TikTok:   / tanbinhtoannang   \n\n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng:    • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  \n►Anh Trai Vượt Ngàn Chông Gai 2024:    • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  \n►Chị Đẹp Đạp Gió 2024:    • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  \n►Chị Đẹp Đạp Gió Rẽ Sóng 2023:    • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  \n►Mẹ Siêu Nhân: https://www.youtube.com/playlist?list...\n ►Gia Đình Haha:    • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  \n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 ONE:    / @yeah1one  \n►YeaH1 SHOW:    / @yeah1show   \n►YeaH1 Entertainment:    / @yeah1_giaitri   \n►YeaH1 Music:    / @yeah1music  \n\n📣 Subscribe kênh YeaH1 ONE để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4n8zC5R\n©️ TÂN BINH TOÀN NĂNG thuộc sở hữu của YeaH1 ONE và được bảo vệ bản quyền bởi YeaH1 ONE",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannang2025",
+          "text": "#tanbinhtoannang2025"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showitall",
+          "text": "#showitall"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/fenix",
+          "text": "#FEniX"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/%E6%9D%8E%E6%89%BF%E9%9A%86tzo",
+          "text": "#李承隆Tzo"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/arrc",
+          "text": "#ARrC"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/%EC%95%84%ED%81%AC",
+          "text": "#아크"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showtanbinhtoannang",
+          "text": "#showtanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chuongtrinhtanbinhtoannang",
+          "text": "#chuongtrinhtanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/soobin",
+          "text": "#SOOBIN"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/slimv",
+          "text": "#SlimV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showthucte",
+          "text": "#showthucte"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chuongtrinhamnhac",
+          "text": "#chuongtrinhamnhac"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangtap6",
+          "text": "#tanbinhtoannangtap6"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangmua3",
+          "text": "#tanbinhtoannangmua3"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangmoinhat",
+          "text": "#tanbinhtoannangmoinhat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangtap6full",
+          "text": "#tanbinhtoannangtap6full"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tap6anbinhtoannang",
+          "text": "#tap6anbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannang",
+          "text": "#tanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangshowitall",
+          "text": "#tanbinhtoannangshowitall"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=e7lqxbooUUc&list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL&index=10&t=3925s",
+          "text": "1:05:25"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=e7lqxbooUUc&list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL&index=10&t=5538s",
+          "text": "1:32:18"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=e7lqxbooUUc&list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL&index=10&t=6097s",
+          "text": "1:41:37"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=e7lqxbooUUc&list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL&index=10&t=8128s",
+          "text": "2:15:28"
+        },
+        {
+          "url": "https://www.facebook.com/TanBinhToanNang/",
+          "text": "  / tanbinhtoannang  "
+        },
+        {
+          "url": "https://www.tiktok.com/@tanbinhtoannang",
+          "text": "  / tanbinhtoannang  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44",
+          "text": "   • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+          "text": "   • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3%E2%96%BA",
+          "text": "https://www.youtube.com/playlist?list..."
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY",
+          "text": "   • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC_np0YZuvNMIJceE6jHeggQ",
+          "text": "   / @yeah1one  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCh_zF2FsiCflCPgYDudtcqg",
+          "text": "   / @yeah1show  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCecta98cdYVFV6L_lfH__IA",
+          "text": "   / @yeah1_giaitri  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCI2OiZs5aVcyBUBVsgovzng",
+          "text": "   / @yeah1music  "
+        },
+        {
+          "url": "https://bit.ly/4n8zC5R",
+          "text": "https://bit.ly/4n8zC5R"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 9,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL",
+      "isMonetized": null,
+      "hashtags": [
+        "#SOOBIN",
+        "#showitall",
+        "#FEniX"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL",
+      "isPaidContent": false
+    },
+    {
+      "title": "SHOW ME - OFFICIAL THEME SONG | TÂN BINH TOÀN NĂNG 2025",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "FXX-c5GwFZE",
+      "url": "https://www.youtube.com/watch?v=FXX-c5GwFZE&list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL&index=16",
+      "thumbnailUrl": "https://i.ytimg.com/vi/FXX-c5GwFZE/maxresdefault.jpg",
+      "viewCount": 2259526,
+      "date": "2025-09-23T12:19:08.000Z",
+      "likes": 42000,
+      "location": null,
+      "channelName": "YEAH1 MUSIC",
+      "channelUrl": "https://www.youtube.com/@yeah1music",
+      "channelUsername": "yeah1music",
+      "collaborators": null,
+      "channelId": "UCI2OiZs5aVcyBUBVsgovzng",
+      "numberOfSubscribers": 3460000,
+      "duration": "00:04:26",
+      "commentsCount": 4567,
+      "text": "SHOW ME - OFFICIAL THEME SONG | TÂN BINH TOÀN NĂNG 2025\n#TanBinhToanNang #ShowMe\n\n\nHồ Đông Quan | Cường Bạch | Wonbi | Thái Lê Minh Hiếu | Swan Nguyễn | Long Hoàng | Duy Lân | minhtin | Đức Duy | Lâm Anh| Phúc Nguyên\n\nExecutive Producer: Ngo Van Hanh\nManaging Director: Do Mai Vy\nMusic Director: SLIMV\nMarketing & Communications Director: An Zuno\n\nChief Producer: Hyuk Shin\nComposed by: Hyuk Shin, Nomad, Ashley Alisha, It’s CHARLES.\nArranged by: Hyuk Shin, Nomad, CUURLEY \nEnglish Lyric: Ashley Alisha\nVietnamese lyric & Vocal produced by: It’s CHARLES. \nMixed by: CUURLEY \nMastered by: Paul Morrison\n\nChoreography: Jihoon & Sunghyun by Auspicious\nProject Assistant: Desmond Yau & Ha Le My Duyen\n\nMUSIC VIDEO PRODUCTION TEAM\n\nDirector : Directornet\nProducer : Suchalita P.\nAssistant director :  Thida Kuakullpitak\nAssistant director 2nd : AerngAoey \nProduction manager : APYK.\nProduction manager 2nd : Babebiee\nProduction Assistant : Kultida Buatoom / Nattawadee Muangmee\n\nDirector of photography : Chanthut K.\nFocus puller : Athikom chiyasuan\nDit : Sompornd Krabkran\nGaffer : Sorasak Suerbwong\nCamera : Foongbinlek film service co.,ltd \nLighting team and Grip : The cinemabase\n\nArt director : Purin Suttyakorn\nProp master : Kittiapak Sapyai\nArt crew : \nKanittha Suwannasang\nPavarana Chankoom\nNonthawat Saohin\nChatchawan Tanaisri\nSupitcha Poensanthia\nNgamlak Monthim\nSittichai Phoklee\nDacho Natragoon\nNatthaphon Hnoosuk\nWatcharaphon Sangasaeng\n\nStylist : New_Jedsada\nAssistant stylist : \nNamfon Phanphermphun \nSupawadee Chumnuan \nMavee Mungmoonkittikarn\nSiriporn Saiyuenyong \nPimpisorn Prathumpong\nJantira Sardnain\n\nMake up Artist Team :\nzazee anchisa\nPattarawut  Choeichaiyapoom\nJennie Monpatsorn\nWittaya Sombatthong\n\nHairstylist : @Friendfireyer.h\nAssistant hairstylist : @Boatpopup\n\nHairstylist : @Paapo.tae\nAssistant hairstylist : @Singasonglong.hair\n\nHairstylist : @GUSSUHAIR \nAssistant Hairstylist : @Magichair.xll\n\nInterpreter : NGUYEN THANH TUAN\n\nBTS Photographer : Kantapong Tesnes (thekidscallc) / Isariyaporn Chotchuang \n\nLocation manager :  Supakith Keng Ensarn\nAssistant Location Manager : Jame Dean / Palmer / Heermoo\n\nKEY VISUAL DESIGN TEAM :\nART DIRECTOR : H3M (xxh_hem)\nDESIGNER : g.aeh, H3M\nTYPOGRAPHY DESIGNER : phaiphaiphaii\nKV Photographer : RAWIN SUCHAXAYA\nRETOUCHER : peem.peem\n\nVTR : Magic Soup Studio\nVFX : Dew__der\nColorlist : Flanjks\nEditor : Wallevee\n\nYEAH1 MARCOM GROUP\n\nMARKETING & COMMUNICATION\nTuong My Nguyen\nMai Phu Vinh\nBac Minh\nNgoc Han\nDan Thuy\nPham Duy Khang\nVu Trinh Ngoc Giang\nHoang Ai Nhu\nYen Thanh\nMichin\nNhat Anh\nKimmie Nguyen\nLuong Khai\nNguyen Thi Xuan Nghi\nYen Nhi\nBao Phuc\nBao Toan\n\nPUBLIC RELATIONS & PUBLICITY\nBui Viet Ha\nDuc Thanh\nKhanh Hang\n\n\nCREATIVE & GRAPHIC DESIGNER\nMonzu\nHuy Chu\nThuong Le\nTuan Tran\nChun Chun\nBTS VIDEO TEAM\nPhuc Nguyen\nThang Nguyen\nDung Dung\nThanh Ngan\n\nBTS PHOTOGRAPHER\nNhan Le (OGN Media)\nPho Lam Viet Trung (OGN Media)\n\nARTIST  MANAGEMENT\nSIA Entertainment \nMai Uyen\nDang Vuong\nThanh Thao \n\nRECORD LABEL\nSony Music Entertainment Vietnam\n1LABEL\n\n\n\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Tân Binh Toàn Năng tại:\n📍FanPage:   / tanbinhtoannang  \n📍TikTok:   / tanbinhtoannang  \n\n---------------------------------------------------------------------------\nChương trình truyền hình thực tế tìm kiếm và đào tạo thế hệ nhóm nhạc thần tượng tiên phong tại Việt Nam - “Tân Binh Toàn Năng” của nhà đầu tư YeaH1 & Techcombank được chia thành 2 lộ trình đặc biệt.",
+      "translatedText": "SHOW ME - OFFICIAL THEME SONG | TÂN BINH TOÀN NĂNG 2025\n#TanBinhToanNang #ShowMe\n\n\nHồ Đông Quan | Cường Bạch | Wonbi | Thái Lê Minh Hiếu | Swan Nguyễn | Long Hoàng | Duy Lân | minhtin | Đức Duy | Lâm Anh| Phúc Nguyên\n\nExecutive Producer: Ngo Van Hanh\nManaging Director: Do Mai Vy\nMusic Director: SLIMV\nMarketing & Communications Director: An Zuno\n\nChief Producer: Hyuk Shin\nComposed by: Hyuk Shin, Nomad, Ashley Alisha, It’s CHARLES.\nArranged by: Hyuk Shin, Nomad, CUURLEY \nEnglish Lyric: Ashley Alisha\nVietnamese lyric & Vocal produced by: It’s CHARLES. \nMixed by: CUURLEY \nMastered by: Paul Morrison\n\nChoreography: Jihoon & Sunghyun by Auspicious\nProject Assistant: Desmond Yau & Ha Le My Duyen\n\nMUSIC VIDEO PRODUCTION TEAM\n\nDirector : Directornet\nProducer : Suchalita P.\nAssistant director :  Thida Kuakullpitak\nAssistant director 2nd : AerngAoey \nProduction manager : APYK.\nProduction manager 2nd : Babebiee\nProduction Assistant : Kultida Buatoom / Nattawadee Muangmee\n\nDirector of photography : Chanthut K.\nFocus puller : Athikom chiyasuan\nDit : Sompornd Krabkran\nGaffer : Sorasak Suerbwong\nCamera : Foongbinlek film service co.,ltd \nLighting team and Grip : The cinemabase\n\nArt director : Purin Suttyakorn\nProp master : Kittiapak Sapyai\nArt crew : \nKanittha Suwannasang\nPavarana Chankoom\nNonthawat Saohin\nChatchawan Tanaisri\nSupitcha Poensanthia\nNgamlak Monthim\nSittichai Phoklee\nDacho Natragoon\nNatthaphon Hnoosuk\nWatcharaphon Sangasaeng\n\nStylist : New_Jedsada\nAssistant stylist : \nNamfon Phanphermphun \nSupawadee Chumnuan \nMavee Mungmoonkittikarn\nSiriporn Saiyuenyong \nPimpisorn Prathumpong\nJantira Sardnain\n\nMake up Artist Team :\nzazee anchisa\nPattarawut  Choeichaiyapoom\nJennie Monpatsorn\nWittaya Sombatthong\n\nHairstylist : @Friendfireyer.h\nAssistant hairstylist : @Boatpopup\n\nHairstylist : @Paapo.tae\nAssistant hairstylist : @Singasonglong.hair\n\nHairstylist : @GUSSUHAIR \nAssistant Hairstylist : @Magichair.xll\n\nInterpreter : NGUYEN THANH TUAN\n\nBTS Photographer : Kantapong Tesnes (thekidscallc) / Isariyaporn Chotchuang \n\nLocation manager :  Supakith Keng Ensarn\nAssistant Location Manager : Jame Dean / Palmer / Heermoo\n\nKEY VISUAL DESIGN TEAM :\nART DIRECTOR : H3M (xxh_hem)\nDESIGNER : g.aeh, H3M\nTYPOGRAPHY DESIGNER : phaiphaiphaii\nKV Photographer : RAWIN SUCHAXAYA\nRETOUCHER : peem.peem\n\nVTR : Magic Soup Studio\nVFX : Dew__der\nColorlist : Flanjks\nEditor : Wallevee\n\nYEAH1 MARCOM GROUP\n\nMARKETING & COMMUNICATION\nTuong My Nguyen\nMai Phu Vinh\nBac Minh\nNgoc Han\nDan Thuy\nPham Duy Khang\nVu Trinh Ngoc Giang\nHoang Ai Nhu\nYen Thanh\nMichin\nNhat Anh\nKimmie Nguyen\nLuong Khai\nNguyen Thi Xuan Nghi\nYen Nhi\nBao Phuc\nBao Toan\n\nPUBLIC RELATIONS & PUBLICITY\nBui Viet Ha\nDuc Thanh\nKhanh Hang\n\n\nCREATIVE & GRAPHIC DESIGNER\nMonzu\nHuy Chu\nThuong Le\nTuan Tran\nChun Chun\nBTS VIDEO TEAM\nPhuc Nguyen\nThang Nguyen\nDung Dung\nThanh Ngan\n\nBTS PHOTOGRAPHER\nNhan Le (OGN Media)\nPho Lam Viet Trung (OGN Media)\n\nARTIST  MANAGEMENT\nSIA Entertainment \nMai Uyen\nDang Vuong\nThanh Thao \n\nRECORD LABEL\nSony Music Entertainment Vietnam\n1LABEL\n\n\n\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Tân Binh Toàn Năng tại:\n📍FanPage:   / tanbinhtoannang  \n📍TikTok:   / tanbinhtoannang  \n\n---------------------------------------------------------------------------\nChương trình truyền hình thực tế tìm kiếm và đào tạo thế hệ nhóm nhạc thần tượng tiên phong tại Việt Nam - “Tân Binh Toàn Năng” của nhà đầu tư YeaH1 & Techcombank được chia thành 2 lộ trình đặc biệt.",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannang",
+          "text": "#TanBinhToanNang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showme",
+          "text": "#ShowMe"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 15,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL",
+      "isMonetized": null,
+      "hashtags": [
+        "#TanBinhToanNang",
+        "#ShowMe"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tân Binh Toàn Năng 2025 – Tập 2 | Cú twist cực sốc khiến SOOBIN cũng đứng ngồi không yên?",
+      "translatedTitle": "All-Round Rookie 2025 – Episode 2 | A shocking twist that has even SOOBIN on edge?",
+      "type": "video",
+      "id": "yYJxZnk7g7k",
+      "url": "https://www.youtube.com/watch?v=yYJxZnk7g7k&list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL&index=14",
+      "thumbnailUrl": "https://i.ytimg.com/vi/yYJxZnk7g7k/maxresdefault.jpg",
+      "viewCount": 5567597,
+      "date": "2025-10-11T13:30:07.000Z",
+      "likes": 65000,
+      "location": null,
+      "channelName": "YeaH1 ONE",
+      "channelUrl": "https://www.youtube.com/@YeaH1ONE",
+      "channelUsername": "YeaH1ONE",
+      "collaborators": [
+        {
+          "name": "YeaH1 ONE",
+          "username": "YeaH1ONE",
+          "url": "https://www.youtube.com/@YeaH1ONE",
+          "channelId": "UC_np0YZuvNMIJceE6jHeggQ"
+        },
+        {
+          "name": "YEAH1 SHOW",
+          "username": "YEAH1SHOW",
+          "url": "https://www.youtube.com/@YEAH1SHOW",
+          "channelId": "UCh_zF2FsiCflCPgYDudtcqg"
+        },
+        {
+          "name": "YEAH1 MUSIC",
+          "username": "yeah1music",
+          "url": "https://www.youtube.com/@yeah1music",
+          "channelId": "UCI2OiZs5aVcyBUBVsgovzng"
+        }
+      ],
+      "channelId": "UC_np0YZuvNMIJceE6jHeggQ",
+      "numberOfSubscribers": 5350000,
+      "duration": "01:48:37",
+      "commentsCount": 9470,
+      "text": "Tân Binh Toàn Năng 2025 – Tập 2 | Cú twist cực sốc khiến SOOBIN cũng đứng ngồi không yên?\n\n#tanbinhtoannang  #showitall #TanBinh #YeaH1 #tap2tanbinhtoannang #showtanbinhtoannang #chuongtrinhtanbinhtoannang #SOOBIN #SlimV #8turn #showthucte #chuongtrinhamnhac #에잇턴 #tanbinhtoannangtap2 #tanbinhtoannangmua3 #tanbinhtoannangmoinhat #tanbinhtoannangtap2full #tanbinhtoannang2025 \n\n0:00 Giới thiệu chương trình & 11 Tân binh\n4:25 WE - 8TURN\n13:41 11 Tân Binh luyện tập cho Công Diễn 1\n33:25 VACATION - 11 TÂN BINH THĂNG CẤP \n43:30 ELECTRIC HEART - 8TURN\n52:15 NSX SOOBIN & 11 TÂN BINH THĂNG CẤP\n\n---------------------------------------------- \nChương trình truyền hình thực tế âm nhạc, nơi 11 “Tân binh Thăng Cấp” chính thức bước ra ánh sáng, sẵn sàng đại diện Việt Nam thi đấu cùng các nhóm nhạc quốc tế.\n\n“Tân Binh Toàn Năng” sẽ phát sóng trên khung giờ vàng VTV3 và hệ thống kênh YeaH1 bắt đầu từ tháng 10/2025. Format sống còn đầy thử thách, chương trình mang sứ mệnh giới thiệu thế hệ nghệ sĩ thần tượng mới của Việt Nam, khẳng định bản lĩnh và bứt phá trên sân khấu toàn cầu. \n\n11 bạn Tân Binh sẽ đối đầu trực tiếp với những nhóm nhạc quốc tế đến từ nhiều quốc gia để thể hiện bản lĩnh của một thế hệ nghệ sĩ mới, dám vượt qua mọi thách thức để mang niềm tự hào Việt Nam đi xa.\n\n📺 Chương trình phát sóng thứ 7 hằng tuần lúc 20h trên VTV3, 20h30 trên Youtube YeaH1 và chính thức có mặt tại ứng dụng giải trí MangoPlus\n\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Tân Binh Toàn Năng tại:\n📍FanPage: https://www.facebook.com/TanBinhToanNang/\n📍TikTok: https://www.tiktok.com/@tanbinhtoannang \n\n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng: https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44\n►Anh Trai Vượt Ngàn Chông Gai 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq\n►Chị Đẹp Đạp Gió 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF\n►Chị Đẹp Đạp Gió Rẽ Sóng 2023: https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A\n►Mẹ Siêu Nhân: https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3►\n ►Gia Đình Haha: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY\n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 ONE: https://www.youtube.com/@YeaH1ONE\n►YeaH1 SHOW: https://www.youtube.com/@YEAH1SHOW \n►YeaH1 Entertainment: https://www.youtube.com/@YEAH1_GIAITRI \n►YeaH1 Music: https://www.youtube.com/@yeah1music\n\n📣 Subscribe kênh YeaH1 ONE để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4n8zC5R\n©️ TÂN BINH TOÀN NĂNG thuộc sở hữu của YeaH1 ONE và được bảo vệ bản quyền bởi YeaH1 ONE",
+      "translatedText": "Rookie of the Year 2025 – Episode 2 | A shocking twist that even leaves SOOBIN on the edge of his seat?\n\n#tanbinhtoannang #showitall #TanBinh #YeaH1 #tap2tanbinhtoannang #showtanbinhtoannang #chuongtrinhtanbinhtoannang #SOOBIN #SlimV #8turn #showthucte #chuongtrinhamnhac #에잇턴 #tanbinhtoannangtap2 #tanbinhtoannangmua3 #tanbinhtoannangmoinhat #tanbinhtoannangtap2full #tanbinhtoannang2025\n\n0:00 Program Introduction & 11 Newcomers\n4:25 WE - 8TURN\n13:41 11 Newcomers Rehearsing for Performance 1\n33:25 VACATION - 11 NEWCOMERS PROMOTION\n43:30 ELECTRIC HEART - 8TURN\n52:15 Producer SOOBIN & 11 NEWCOMERS PROMOTION\n\n---------------------------------------------- This music reality TV show features 11 \"Rookie Challengers\" officially emerging into the spotlight, ready to represent Vietnam and compete against international groups.\n\n\"Rookie Challenge\" will air during prime time on VTV3 and the YeaH1 channel system starting in October 2025. With a challenging survival format, the program aims to introduce a new generation of Vietnamese idol artists, showcasing their talent and breakthroughs on the global stage.\n\nThe 11 rookies will directly compete against international groups from various countries to demonstrate the prowess of a new generation of artists, daring to overcome all challenges to bring pride to Vietnam.\n\n📺 The show airs every Saturday at 8 PM on VTV3, 8:30 PM on YouTube YeaH1, and is officially available on the MangoPlus entertainment app.\n\nStay tuned and look forward to the latest updates on Tan Binh Toan Nang at:\n📍FanPage:   / tanbinhtoannang  \n📍TikTok:   / tanbinhtoannang  \n\n----------------------------------------------\n\nWatch other exciting programs from YeaH1:\n\n►Tan Binh Toan Nang:    • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  \n►Brother Overcoming a Thousand Obstacles 2024:    • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  \n►Beautiful Sister Riding the Wind 2024:    • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  \n►Beautiful Sister Riding the Wind and Breaking the Waves 2023:    • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  \n►Super Mom: https://www.youtube.com/playlist?list...\n\n►Haha Family:    • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  \n\nOr watch more on the YeaH1 system:\n►YeaH1 ONE:    / @yeah1one  \n►YeaH1 SHOW:    / @yeah1show   ►YeaH1 Entertainment:    / @yeah1_giaitri   ►YeaH1 Music:    / @yeah1music  \n\n📣 Subscribe to the YeaH1 ONE channel to watch the EARLIEST and NEWEST episodes: https://bit.ly/4n8zC5R\n©️ TAN BINH TOAN NANG is owned by YeaH1 ONE and is protected by copyright by YeaH1 ONE",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannang",
+          "text": "#tanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showitall",
+          "text": "#showitall"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinh",
+          "text": "#TanBinh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tap2tanbinhtoannang",
+          "text": "#tap2tanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showtanbinhtoannang",
+          "text": "#showtanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chuongtrinhtanbinhtoannang",
+          "text": "#chuongtrinhtanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/soobin",
+          "text": "#SOOBIN"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/slimv",
+          "text": "#SlimV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/8turn",
+          "text": "#8turn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showthucte",
+          "text": "#showthucte"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chuongtrinhamnhac",
+          "text": "#chuongtrinhamnhac"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/%EC%97%90%EC%9E%87%ED%84%B4",
+          "text": "#에잇턴"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangtap2",
+          "text": "#tanbinhtoannangtap2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangmua3",
+          "text": "#tanbinhtoannangmua3"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangmoinhat",
+          "text": "#tanbinhtoannangmoinhat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangtap2full",
+          "text": "#tanbinhtoannangtap2full"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannang2025",
+          "text": "#tanbinhtoannang2025"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=yYJxZnk7g7k&list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL&index=14",
+          "text": "0:00"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=yYJxZnk7g7k&list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL&index=14&t=265s",
+          "text": "4:25"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=yYJxZnk7g7k&list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL&index=14&t=821s",
+          "text": "13:41"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=yYJxZnk7g7k&list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL&index=14&t=2005s",
+          "text": "33:25"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=yYJxZnk7g7k&list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL&index=14&t=2610s",
+          "text": "43:30"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=yYJxZnk7g7k&list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL&index=14&t=3135s",
+          "text": "52:15"
+        },
+        {
+          "url": "https://www.facebook.com/TanBinhToanNang/",
+          "text": "  / tanbinhtoannang  "
+        },
+        {
+          "url": "https://www.tiktok.com/@tanbinhtoannang",
+          "text": "  / tanbinhtoannang  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44",
+          "text": "   • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+          "text": "   • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3%E2%96%BA",
+          "text": "https://www.youtube.com/playlist?list..."
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY",
+          "text": "   • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  "
+        },
+        {
+          "url": "https://www.youtube.com/@YeaH1ONE",
+          "text": "   / @yeah1one  "
+        },
+        {
+          "url": "https://www.youtube.com/@YEAH1SHOW",
+          "text": "   / @yeah1show  "
+        },
+        {
+          "url": "https://www.youtube.com/@YEAH1_GIAITRI",
+          "text": "   / @yeah1_giaitri  "
+        },
+        {
+          "url": "https://www.youtube.com/@yeah1music",
+          "text": "   / @yeah1music  "
+        },
+        {
+          "url": "https://bit.ly/4n8zC5R",
+          "text": "https://bit.ly/4n8zC5R"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 13,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tân Binh Toàn Năng 2025 - Tập 10 | Công Diễn 4 khắc nghiệt - 10 Tân Binh: Ai sẽ là người bước tiếp?",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "oBYRLla12fM",
+      "url": "https://www.youtube.com/watch?v=oBYRLla12fM&list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL&index=6",
+      "thumbnailUrl": "https://i.ytimg.com/vi/oBYRLla12fM/maxresdefault.jpg",
+      "viewCount": 4317444,
+      "date": "2025-12-06T13:30:11.000Z",
+      "likes": 63000,
+      "location": null,
+      "channelName": "YeaH1 ONE",
+      "channelUrl": "https://www.youtube.com/@YeaH1ONE",
+      "channelUsername": "YeaH1ONE",
+      "collaborators": null,
+      "channelId": "UC_np0YZuvNMIJceE6jHeggQ",
+      "numberOfSubscribers": 5350000,
+      "duration": "02:46:46",
+      "commentsCount": 20056,
+      "text": "Tân Binh Toàn Năng 2025 - Tập 10 | Công Diễn 4 khắc nghiệt - 10 Tân Binh: Ai sẽ là người bước tiếp?\n\n#tanbinhtoannang2025  #showitall #YeaH1#showtanbinhtoannang #chuongtrinhtanbinhtoannang #SOOBIN #SlimV #showthucte #chuongtrinhamnhac #tanbinhtoannangtap10 #tanbinhtoannangmua3 #tanbinhtoannangmoinhat #tanbinhtoannangtap10full #tap10tanbinhtoannang #tanbinhtoannang #tanbinhtoannangshowitall #BUSbecauseofyouishine #gameshow #show2025 \n \n\n---------------------------------------------- \nChương trình truyền hình thực tế âm nhạc, nơi 11 “Tân binh Thăng Cấp” chính thức bước ra ánh sáng, sẵn sàng đại diện Việt Nam thi đấu cùng các nhóm nhạc quốc tế.\n\n“Tân Binh Toàn Năng” sẽ phát sóng trên khung giờ vàng VTV3 và hệ thống kênh YeaH1 bắt đầu từ tháng 10/2025. Format sống còn đầy thử thách, chương trình mang sứ mệnh giới thiệu thế hệ nghệ sĩ thần tượng mới của Việt Nam, khẳng định bản lĩnh và bứt phá trên sân khấu toàn cầu. \n\n11 bạn Tân Binh sẽ đối đầu trực tiếp với những nhóm nhạc quốc tế đến từ nhiều quốc gia để thể hiện bản lĩnh của một thế hệ nghệ sĩ mới, dám vượt qua mọi thách thức để mang niềm tự hào Việt Nam đi xa.\n\n📺 Chương trình phát sóng thứ 7 hằng tuần lúc 20h trên VTV3, 20h30 trên Youtube YeaH1 và chính thức có mặt tại ứng dụng giải trí MangoPlus\n\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Tân Binh Toàn Năng tại:\n📍FanPage: https://www.facebook.com/TanBinhToanNang/\n📍TikTok: https://www.tiktok.com/@tanbinhtoannang \n\n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng: https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44\n►Anh Trai Vượt Ngàn Chông Gai 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq\n►Chị Đẹp Đạp Gió 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF\n►Chị Đẹp Đạp Gió Rẽ Sóng 2023: https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A\n►Mẹ Siêu Nhân: https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3►\n ►Gia Đình Haha: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY\n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 ONE: https://www.youtube.com/@YeaH1ONE\n►YeaH1 SHOW: https://www.youtube.com/@YEAH1SHOW \n►YeaH1 Entertainment: https://www.youtube.com/@YEAH1_GIAITRI \n►YeaH1 Music: https://www.youtube.com/@yeah1music\n\n📣 Subscribe kênh YeaH1 ONE để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4n8zC5R\n©️ TÂN BINH TOÀN NĂNG thuộc sở hữu của YeaH1 ONE và được bảo vệ bản quyền bởi YeaH1 ONE",
+      "translatedText": "Tân Binh Toàn Năng 2025 - Tập 10 | Công Diễn 4 khắc nghiệt - 10 Tân Binh: Ai sẽ là người bước tiếp?\n\n#tanbinhtoannang2025  #showitall #YeaH1#showtanbinhtoannang #chuongtrinhtanbinhtoannang #SOOBIN #SlimV #showthucte #chuongtrinhamnhac #tanbinhtoannangtap10 #tanbinhtoannangmua3 #tanbinhtoannangmoinhat #tanbinhtoannangtap10full #tap10tanbinhtoannang #tanbinhtoannang #tanbinhtoannangshowitall #BUSbecauseofyouishine #gameshow #show2025 \n \n\n---------------------------------------------- \nChương trình truyền hình thực tế âm nhạc, nơi 11 “Tân binh Thăng Cấp” chính thức bước ra ánh sáng, sẵn sàng đại diện Việt Nam thi đấu cùng các nhóm nhạc quốc tế.\n\n“Tân Binh Toàn Năng” sẽ phát sóng trên khung giờ vàng VTV3 và hệ thống kênh YeaH1 bắt đầu từ tháng 10/2025. Format sống còn đầy thử thách, chương trình mang sứ mệnh giới thiệu thế hệ nghệ sĩ thần tượng mới của Việt Nam, khẳng định bản lĩnh và bứt phá trên sân khấu toàn cầu. \n\n11 bạn Tân Binh sẽ đối đầu trực tiếp với những nhóm nhạc quốc tế đến từ nhiều quốc gia để thể hiện bản lĩnh của một thế hệ nghệ sĩ mới, dám vượt qua mọi thách thức để mang niềm tự hào Việt Nam đi xa.\n\n📺 Chương trình phát sóng thứ 7 hằng tuần lúc 20h trên VTV3, 20h30 trên Youtube YeaH1 và chính thức có mặt tại ứng dụng giải trí MangoPlus\n\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Tân Binh Toàn Năng tại:\n📍FanPage:   / tanbinhtoannang  \n📍TikTok:   / tanbinhtoannang   \n\n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng:    • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  \n►Anh Trai Vượt Ngàn Chông Gai 2024:    • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  \n►Chị Đẹp Đạp Gió 2024:    • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  \n►Chị Đẹp Đạp Gió Rẽ Sóng 2023:    • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  \n►Mẹ Siêu Nhân: https://www.youtube.com/playlist?list...\n ►Gia Đình Haha:    • Show GIA ĐÌNH HAHA | Chốn Bình Yên��Của Tiế...  \n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 ONE:    / @yeah1one  \n►YeaH1 SHOW:    / @yeah1show   \n►YeaH1 Entertainment:    / @yeah1_giaitri   \n►YeaH1 Music:    / @yeah1music  \n\n📣 Subscribe kênh YeaH1 ONE để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4n8zC5R\n©️ TÂN BINH TOÀN NĂNG thuộc sở hữu của YeaH1 ONE và được bảo vệ bản quyền bởi YeaH1 ONE",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannang2025",
+          "text": "#tanbinhtoannang2025"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showitall",
+          "text": "#showitall"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showtanbinhtoannang",
+          "text": "#showtanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chuongtrinhtanbinhtoannang",
+          "text": "#chuongtrinhtanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/soobin",
+          "text": "#SOOBIN"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/slimv",
+          "text": "#SlimV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showthucte",
+          "text": "#showthucte"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chuongtrinhamnhac",
+          "text": "#chuongtrinhamnhac"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangtap10",
+          "text": "#tanbinhtoannangtap10"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangmua3",
+          "text": "#tanbinhtoannangmua3"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangmoinhat",
+          "text": "#tanbinhtoannangmoinhat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangtap10full",
+          "text": "#tanbinhtoannangtap10full"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tap10tanbinhtoannang",
+          "text": "#tap10tanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannang",
+          "text": "#tanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangshowitall",
+          "text": "#tanbinhtoannangshowitall"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/busbecauseofyouishine",
+          "text": "#BUSbecauseofyouishine"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gameshow",
+          "text": "#gameshow"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/show2025",
+          "text": "#show2025"
+        },
+        {
+          "url": "https://www.facebook.com/TanBinhToanNang/",
+          "text": "  / tanbinhtoannang  "
+        },
+        {
+          "url": "https://www.tiktok.com/@tanbinhtoannang",
+          "text": "  / tanbinhtoannang  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44",
+          "text": "   • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+          "text": "   • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3%E2%96%BA",
+          "text": "https://www.youtube.com/playlist?list..."
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY",
+          "text": "   • Show GIA ĐÌNH HAHA | Chốn Bình Yên��Của Tiế... "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC_np0YZuvNMIJceE6jHeggQ",
+          "text": "    / @yeah1one "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCh_zF2FsiCflCPgYDudtcqg",
+          "text": "    / @yeah1show "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCecta98cdYVFV6L_lfH__IA",
+          "text": "    / @yeah1_giaitri "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCI2OiZs5aVcyBUBVsgovzng",
+          "text": "    / @yeah1music "
+        },
+        {
+          "url": "https://bit.ly/4n8zC5R",
+          "text": " https://bit.ly/4n8zC5"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 5,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL",
+      "isMonetized": null,
+      "hashtags": [
+        "#SOOBIN",
+        "#showitall",
+        "#YeaH1"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tân Binh Toàn Năng  – Tập 1 | Khởi động hành trình quốc tế: Ai sẽ tạo nên cú sốc ngay vòng mở màn?",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "g_YXZ49A1zY",
+      "url": "https://www.youtube.com/watch?v=g_YXZ49A1zY&list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL&index=15",
+      "thumbnailUrl": "https://i.ytimg.com/vi/g_YXZ49A1zY/maxresdefault.jpg",
+      "viewCount": 7039627,
+      "date": "2025-10-04T13:30:07.000Z",
+      "likes": 67000,
+      "location": null,
+      "channelName": "YeaH1 ONE",
+      "channelUrl": "https://www.youtube.com/@YeaH1ONE",
+      "channelUsername": "YeaH1ONE",
+      "collaborators": [
+        {
+          "name": "YeaH1 ONE",
+          "username": "YeaH1ONE",
+          "url": "https://www.youtube.com/@YeaH1ONE",
+          "channelId": "UC_np0YZuvNMIJceE6jHeggQ"
+        },
+        {
+          "name": "YEAH1 SHOW",
+          "username": "YEAH1SHOW",
+          "url": "https://www.youtube.com/@YEAH1SHOW",
+          "channelId": "UCh_zF2FsiCflCPgYDudtcqg"
+        },
+        {
+          "name": "YEAH1 MUSIC",
+          "username": "yeah1music",
+          "url": "https://www.youtube.com/@yeah1music",
+          "channelId": "UCI2OiZs5aVcyBUBVsgovzng"
+        }
+      ],
+      "channelId": "UC_np0YZuvNMIJceE6jHeggQ",
+      "numberOfSubscribers": 5350000,
+      "duration": "02:35:36",
+      "commentsCount": 7379,
+      "text": "Tân Binh Toàn Năng – Tập 1 | Khởi động hành trình quốc tế: Ai sẽ tạo nên cú sốc ngay vòng mở màn?\n\n#tanbinhtoannang  #showitall #TanBinh #YeaH1 #giadinhaha #showtanbinhtoannang #chuongtrinhtanbinhtoannang #AnhTai #ChiDep #AnhTrai #SOOBIN #SlimV #8turn #showthucte #chuongtrinhamnhac #에잇턴 #tanbinhtoannangtap1 #tanbinhtoannangmua3 \n\n0:00 Giới thiệu chương trình & 11 Tân binh\n3:08 Mở màn: Các Tân binh ra mắt\n25:40 Thử thách đầu tiên bắt đầu\n48:15 Welcome 8TURN\n1:38:25 Rehearsal\n1:47:25 ĐÃ ĐẾN LÚC - 11 TÂN BINH THĂNG CẤP\n1:53:15 LEGGO - 8TURN\n2:07:35 WALK IT OUT - 8TURN\n2:17:24 - 2:24:35 EXPOSURE - CƯỜNG BẠCH, DUY LÂN, LONG HOÀNG, MINHTIN, PHÚC NGUYÊN, WONBI\n---------------------------------------------- \nChương trình truyền hình thực tế âm nhạc, nơi 11 “Tân binh Thăng Cấp” chính thức bước ra ánh sáng, sẵn sàng đại diện Việt Nam thi đấu cùng các nhóm nhạc quốc tế.\n\n“Tân Binh Toàn Năng” sẽ phát sóng trên khung giờ vàng VTV3 và hệ thống kênh YeaH1 bắt đầu từ tháng 10/2025. Format sống còn đầy thử thách, chương trình mang sứ mệnh giới thiệu thế hệ nghệ sĩ thần tượng mới của Việt Nam, khẳng định bản lĩnh và bứt phá trên sân khấu toàn cầu. \n\n11 bạn Tân Binh sẽ đối đầu trực tiếp với những nhóm nhạc quốc tế đến từ nhiều quốc gia để thể hiện bản lĩnh của một thế hệ nghệ sĩ mới, dám vượt qua mọi thách thức để mang niềm tự hào Việt Nam đi xa.\n\n📺 Chương trình phát sóng thứ 7 hằng tuần lúc 20h trên VTV3, 20h30 trên Youtube YeaH1 và chính thức có mặt tại ứng dụng giải trí MangoPlus\n\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Tân Binh Toàn Năng tại:\n📍FanPage: https://www.facebook.com/TanBinhToanNang/\n📍TikTok: https://www.tiktok.com/@tanbinhtoannang \n\n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng: https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44\n►Anh Trai Vượt Ngàn Chông Gai 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq\n►Chị Đẹp Đạp Gió 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF\n►Chị Đẹp Đạp Gió Rẽ Sóng 2023: https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A\n►Mẹ Siêu Nhân: https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3►\n ►Gia Đình Haha: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY\n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 ONE: https://www.youtube.com/@YeaH1ONE\n►YeaH1 SHOW: https://www.youtube.com/@YEAH1SHOW \n►YeaH1 Entertainment: https://www.youtube.com/@YEAH1_GIAITRI \n►YeaH1 Music: https://www.youtube.com/@yeah1music\n\n📣 Subscribe kênh YeaH1 ONE để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4n8zC5R\n©️ TÂN BINH TOÀN NĂNG thuộc sở hữu của YeaH1 ONE và được bảo vệ bản quyền bởi YeaH1 ONE",
+      "translatedText": "Tân Binh Toàn Năng – Tập 1 | Khởi động hành trình quốc tế: Ai sẽ tạo nên cú sốc ngay vòng mở màn?\n\n#tanbinhtoannang  #showitall #TanBinh #YeaH1 #giadinhaha #showtanbinhtoannang #chuongtrinhtanbinhtoannang #AnhTai #ChiDep #AnhTrai #SOOBIN #SlimV #8turn #showthucte #chuongtrinhamnhac #에잇턴 #tanbinhtoannangtap1 #tanbinhtoannangmua3 \n\n0:00 Giới thiệu chương trình & 11 Tân binh\n3:08 Mở màn: Các Tân binh ra mắt\n25:40 Thử thách đầu tiên bắt đầu\n48:15 Welcome 8TURN\n1:38:25 Rehearsal\n1:47:25 ĐÃ ĐẾN LÚC - 11 TÂN BINH THĂNG CẤP\n1:53:15 LEGGO - 8TURN\n2:07:35 WALK IT OUT - 8TURN\n2:17:24 - 2:24:35 EXPOSURE - CƯỜNG BẠCH, DUY LÂN, LONG HOÀNG, MINHTIN, PHÚC NGUYÊN, WONBI\n---------------------------------------------- \nChương trình truyền hình thực tế âm nhạc, nơi 11 “Tân binh Thăng Cấp” chính thức bước ra ánh sáng, sẵn sàng đại diện Việt Nam thi đấu cùng các nhóm nhạc quốc tế.\n\n“Tân Binh Toàn Năng” sẽ phát sóng trên khung giờ vàng VTV3 và hệ thống kênh YeaH1 bắt đầu từ tháng 10/2025. Format sống còn đầy thử thách, chương trình mang sứ mệnh giới thiệu thế hệ nghệ sĩ thần tượng mới của Việt Nam, khẳng định bản lĩnh và bứt phá trên sân khấu toàn cầu. \n\n11 bạn Tân Binh sẽ đối đầu trực tiếp với những nhóm nhạc quốc tế đến từ nhiều quốc gia để thể hiện bản lĩnh của một thế hệ nghệ sĩ mới, dám vượt qua mọi thách thức để mang niềm tự hào Việt Nam đi xa.\n\n📺 Chương trình phát sóng thứ 7 hằng tuần lúc 20h trên VTV3, 20h30 trên Youtube YeaH1 và chính thức có mặt tại ứng dụng giải trí MangoPlus\n\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Tân Binh Toàn Năng tại:\n📍FanPage:   / tanbinhtoannang  \n📍TikTok:   / tanbinhtoannang   \n\n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng:    • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  \n►Anh Trai Vượt Ngàn Chông Gai 2024:    • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  \n►Chị Đẹp Đạp Gió 2024:    • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  \n►Chị Đẹp Đạp Gió Rẽ Sóng 2023:    • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  \n►Mẹ Siêu Nhân: https://www.youtube.com/playlist?list...\n ►Gia Đình Haha:    • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  \n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 ONE:    / @yeah1one  \n►YeaH1 SHOW:    / @yeah1show   \n►YeaH1 Entertainment:    / @yeah1_giaitri   \n►YeaH1 Music:    / @yeah1music  \n\n📣 Subscribe kênh YeaH1 ONE để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4n8zC5R\n©️ TÂN BINH TOÀN NĂNG thuộc sở hữu của YeaH1 ONE và được bảo vệ bản quyền bởi YeaH1 ONE",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannang",
+          "text": "#tanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showitall",
+          "text": "#showitall"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinh",
+          "text": "#TanBinh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhaha",
+          "text": "#giadinhaha"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showtanbinhtoannang",
+          "text": "#showtanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chuongtrinhtanbinhtoannang",
+          "text": "#chuongtrinhtanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtai",
+          "text": "#AnhTai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chidep",
+          "text": "#ChiDep"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtrai",
+          "text": "#AnhTrai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/soobin",
+          "text": "#SOOBIN"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/slimv",
+          "text": "#SlimV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/8turn",
+          "text": "#8turn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showthucte",
+          "text": "#showthucte"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chuongtrinhamnhac",
+          "text": "#chuongtrinhamnhac"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/%EC%97%90%EC%9E%87%ED%84%B4",
+          "text": "#에잇턴"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangtap1",
+          "text": "#tanbinhtoannangtap1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangmua3",
+          "text": "#tanbinhtoannangmua3"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=g_YXZ49A1zY&list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL&index=15",
+          "text": "0:00"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=g_YXZ49A1zY&list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL&index=15&t=188s",
+          "text": "3:08"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=g_YXZ49A1zY&list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL&index=15&t=1540s",
+          "text": "25:40"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=g_YXZ49A1zY&list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL&index=15&t=2895s",
+          "text": "48:15"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=g_YXZ49A1zY&list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL&index=15&t=5905s",
+          "text": "1:38:25"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=g_YXZ49A1zY&list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL&index=15&t=6445s",
+          "text": "1:47:25"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=g_YXZ49A1zY&list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL&index=15&t=6795s",
+          "text": "1:53:15"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=g_YXZ49A1zY&list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL&index=15&t=7655s",
+          "text": "2:07:35"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=g_YXZ49A1zY&list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL&index=15&t=8244s",
+          "text": "2:17:24"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=g_YXZ49A1zY&list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL&index=15&t=8675s",
+          "text": "2:24:35"
+        },
+        {
+          "url": "https://www.facebook.com/TanBinhToanNang/",
+          "text": "  / tanbinhtoannang  "
+        },
+        {
+          "url": "https://www.tiktok.com/@tanbinhtoannang",
+          "text": "  / tanbinhtoannang  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44",
+          "text": "   • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+          "text": "   • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3%E2%96%BA",
+          "text": "https://www.youtube.com/playlist?list..."
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY",
+          "text": "   • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC_np0YZuvNMIJceE6jHeggQ",
+          "text": "   / @yeah1one  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCh_zF2FsiCflCPgYDudtcqg",
+          "text": "   / @yeah1show  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCecta98cdYVFV6L_lfH__IA",
+          "text": "   / @yeah1_giaitri  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCI2OiZs5aVcyBUBVsgovzng",
+          "text": "   / @yeah1music  "
+        },
+        {
+          "url": "https://bit.ly/4n8zC5R",
+          "text": "https://bit.ly/4n8zC5R"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 14,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL",
+      "isMonetized": null,
+      "hashtags": [
+        "#showitall",
+        "#SOOBIN",
+        "#tanbinhtoannang"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tân Binh Toàn Năng 2025 - Tập 4 | SOOBIN không nhẹ tay - “kỷ luật thép” khiến Tân Binh tái mặt",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "aKBwDFoYKX0",
+      "url": "https://www.youtube.com/watch?v=aKBwDFoYKX0&list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL&index=12",
+      "thumbnailUrl": "https://i.ytimg.com/vi/aKBwDFoYKX0/maxresdefault.jpg",
+      "viewCount": 4831015,
+      "date": "2025-10-25T13:30:07.000Z",
+      "likes": 60000,
+      "location": null,
+      "channelName": "YeaH1 ONE",
+      "channelUrl": "https://www.youtube.com/@YeaH1ONE",
+      "channelUsername": "YeaH1ONE",
+      "collaborators": null,
+      "channelId": "UC_np0YZuvNMIJceE6jHeggQ",
+      "numberOfSubscribers": 5350000,
+      "duration": "02:13:15",
+      "commentsCount": 7409,
+      "text": "Tân Binh Toàn Năng 2025 - Tập 4 | SOOBIN không nhẹ tay - “kỷ luật thép” khiến Tân Binh tái mặt\n\n#tanbinhtoannang2025 #showitall #YeaH1 #showtanbinhtoannang #chuongtrinhtanbinhtoannang #SOOBIN #SlimV  #showthucte #chuongtrinhamnhac  #tanbinhtoannangtap4 #tanbinhtoannangmua3 #tanbinhtoannangmoinhat #JUSTB #저스트비  #キドフェノ #KIDPHENOMENON #tanbinhtoannangtap4full #tap4tanbinhtoannang #tanbinhtoannang #tanbinhtoannangshowitall \n\n14:06 PARTY OVER THERE - JUSTB\n21:43 DAMAGE & GET AWAY - JUSTB \n56:51 TAKE A SHOT - TÂN BINH THĂNG CẤP \n1:06:53 BEAUTIFUL GIRL - TÂN BINH THĂNG CẤP \n---------------------------------------------- \nChương trình truyền hình thực tế âm nhạc, nơi 11 “Tân binh Thăng Cấp” chính thức bước ra ánh sáng, sẵn sàng đại diện Việt Nam thi đấu cùng các nhóm nhạc quốc tế.\n\n“Tân Binh Toàn Năng” sẽ phát sóng trên khung giờ vàng VTV3 và hệ thống kênh YeaH1 bắt đầu từ tháng 10/2025. Format sống còn đầy thử thách, chương trình mang sứ mệnh giới thiệu thế hệ nghệ sĩ thần tượng mới của Việt Nam, khẳng định bản lĩnh và bứt phá trên sân khấu toàn cầu. \n\n11 bạn Tân Binh sẽ đối đầu trực tiếp với những nhóm nhạc quốc tế đến từ nhiều quốc gia để thể hiện bản lĩnh của một thế hệ nghệ sĩ mới, dám vượt qua mọi thách thức để mang niềm tự hào Việt Nam đi xa.\n\n📺 Chương trình phát sóng thứ 7 hằng tuần lúc 20h trên VTV3, 20h30 trên Youtube YeaH1 và chính thức có mặt tại ứng dụng giải trí MangoPlus\n\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Tân Binh Toàn Năng tại:\n📍FanPage: https://www.facebook.com/TanBinhToanNang/\n📍TikTok: https://www.tiktok.com/@tanbinhtoannang \n\n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng: https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44\n►Anh Trai Vượt Ngàn Chông Gai 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq\n►Chị Đẹp Đạp Gió 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF\n►Chị Đẹp Đạp Gió Rẽ Sóng 2023: https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A\n►Mẹ Siêu Nhân: https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3►\n ►Gia Đình Haha: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY\n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 ONE: https://www.youtube.com/@YeaH1ONE\n►YeaH1 SHOW: https://www.youtube.com/@YEAH1SHOW \n►YeaH1 Entertainment: https://www.youtube.com/@YEAH1_GIAITRI \n►YeaH1 Music: https://www.youtube.com/@yeah1music\n\n📣 Subscribe kênh YeaH1 ONE để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4n8zC5R\n©️ TÂN BINH TOÀN NĂNG thuộc sở hữu của YeaH1 ONE và được bảo vệ bản quyền bởi YeaH1 ONE",
+      "translatedText": "Tân Binh Toàn Năng 2025 - Tập 4 | SOOBIN không nhẹ tay - “kỷ luật thép” khiến Tân Binh tái mặt\n\n#tanbinhtoannang2025 #showitall #YeaH1 #showtanbinhtoannang #chuongtrinhtanbinhtoannang #SOOBIN #SlimV  #showthucte #chuongtrinhamnhac  #tanbinhtoannangtap4 #tanbinhtoannangmua3 #tanbinhtoannangmoinhat #JUSTB #저스트비  #キドフェノ #KIDPHENOMENON #tanbinhtoannangtap4full #tap4tanbinhtoannang #tanbinhtoannang #tanbinhtoannangshowitall \n\n14:06 PARTY OVER THERE - JUSTB\n21:43 DAMAGE & GET AWAY - JUSTB \n56:51 TAKE A SHOT - TÂN BINH THĂNG CẤP \n1:06:53 BEAUTIFUL GIRL - TÂN BINH THĂNG CẤP \n---------------------------------------------- \nChương trình truyền hình thực tế âm nhạc, nơi 11 “Tân binh Thăng Cấp” chính thức bước ra ánh sáng, sẵn sàng đại diện Việt Nam thi đấu cùng các nhóm nhạc quốc tế.\n\n“Tân Binh Toàn Năng” sẽ phát sóng trên khung giờ vàng VTV3 và hệ thống kênh YeaH1 bắt đầu từ tháng 10/2025. Format sống còn đầy thử thách, chương trình mang sứ mệnh giới thiệu thế hệ nghệ sĩ thần tượng mới của Việt Nam, khẳng định bản lĩnh và bứt phá trên sân khấu toàn cầu. \n\n11 bạn Tân Binh sẽ đối đầu trực tiếp với những nhóm nhạc quốc tế đến từ nhiều quốc gia để thể hiện bản lĩnh của một thế hệ nghệ sĩ mới, dám vượt qua mọi thách thức để mang niềm tự hào Việt Nam đi xa.\n\n📺 Chương trình phát sóng thứ 7 hằng tuần lúc 20h trên VTV3, 20h30 trên Youtube YeaH1 và chính thức có mặt tại ứng dụng giải trí MangoPlus\n\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Tân Binh Toàn Năng tại:\n📍FanPage:   / tanbinhtoannang  \n📍TikTok:   / tanbinhtoannang   \n\n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng:    • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  \n►Anh Trai Vượt Ngàn Chông Gai 2024:    • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  \n►Chị Đẹp Đạp Gió 2024:    • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  \n►Chị Đẹp Đạp Gió Rẽ Sóng 2023:    • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  \n►Mẹ Siêu Nhân: https://www.youtube.com/playlist?list...\n ►Gia Đình Haha:    • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  \n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 ONE:    / @yeah1one  \n►YeaH1 SHOW:    / @yeah1show   \n►YeaH1 Entertainment:    / @yeah1_giaitri   \n►YeaH1 Music:    / @yeah1music  \n\n📣 Subscribe kênh YeaH1 ONE để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4n8zC5R\n©️ TÂN BINH TOÀN NĂNG thuộc sở hữu của YeaH1 ONE và được bảo vệ bản quyền bởi YeaH1 ONE",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannang2025",
+          "text": "#tanbinhtoannang2025"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showitall",
+          "text": "#showitall"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showtanbinhtoannang",
+          "text": "#showtanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chuongtrinhtanbinhtoannang",
+          "text": "#chuongtrinhtanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/soobin",
+          "text": "#SOOBIN"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/slimv",
+          "text": "#SlimV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showthucte",
+          "text": "#showthucte"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chuongtrinhamnhac",
+          "text": "#chuongtrinhamnhac"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangtap4",
+          "text": "#tanbinhtoannangtap4"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangmua3",
+          "text": "#tanbinhtoannangmua3"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangmoinhat",
+          "text": "#tanbinhtoannangmoinhat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/justb",
+          "text": "#JUSTB"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/%EC%A0%80%EC%8A%A4%ED%8A%B8%EB%B9%84",
+          "text": "#저스트비"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/%E3%82%AD%E3%83%89%E3%83%95%E3%82%A7%E3%83%8E",
+          "text": "#キドフェノ"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/kidphenomenon",
+          "text": "#KIDPHENOMENON"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangtap4full",
+          "text": "#tanbinhtoannangtap4full"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tap4tanbinhtoannang",
+          "text": "#tap4tanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannang",
+          "text": "#tanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangshowitall",
+          "text": "#tanbinhtoannangshowitall"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=aKBwDFoYKX0&list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL&index=12&t=846s",
+          "text": "14:06"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=aKBwDFoYKX0&list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL&index=12&t=1303s",
+          "text": "21:43"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=aKBwDFoYKX0&list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL&index=12&t=3411s",
+          "text": "56:51"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=aKBwDFoYKX0&list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL&index=12&t=4013s",
+          "text": "1:06:53"
+        },
+        {
+          "url": "https://www.facebook.com/TanBinhToanNang/",
+          "text": "  / tanbinhtoannang  "
+        },
+        {
+          "url": "https://www.tiktok.com/@tanbinhtoannang",
+          "text": "  / tanbinhtoannang  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44",
+          "text": "   • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+          "text": "   • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3%E2%96%BA",
+          "text": "https://www.youtube.com/playlist?list..."
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY",
+          "text": "   • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC_np0YZuvNMIJceE6jHeggQ",
+          "text": "   / @yeah1one  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCh_zF2FsiCflCPgYDudtcqg",
+          "text": "   / @yeah1show  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCecta98cdYVFV6L_lfH__IA",
+          "text": "   / @yeah1_giaitri  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCI2OiZs5aVcyBUBVsgovzng",
+          "text": "   / @yeah1music  "
+        },
+        {
+          "url": "https://bit.ly/4n8zC5R",
+          "text": "https://bit.ly/4n8zC5R"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 11,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL",
+      "isMonetized": null,
+      "hashtags": [
+        "#showitall",
+        "#SOOBIN",
+        "#KIDPHENOMENON"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tân Binh Toàn Năng 2025- Tập 11| “Chữa lành” không thành, mọi thứ như \"hoá điên\" với các Tân Binh",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "nldxUlVYhwg",
+      "url": "https://www.youtube.com/watch?v=nldxUlVYhwg&list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL&index=5",
+      "thumbnailUrl": "https://i.ytimg.com/vi/nldxUlVYhwg/maxresdefault.jpg",
+      "viewCount": 4378018,
+      "date": "2025-12-13T13:30:07.000Z",
+      "likes": 62000,
+      "location": null,
+      "channelName": "YeaH1 ONE",
+      "channelUrl": "https://www.youtube.com/@YeaH1ONE",
+      "channelUsername": "YeaH1ONE",
+      "collaborators": null,
+      "channelId": "UC_np0YZuvNMIJceE6jHeggQ",
+      "numberOfSubscribers": 5350000,
+      "duration": "02:24:04",
+      "commentsCount": 12298,
+      "text": "Tân Binh Toàn Năng 2025- Tập 11| “Chữa lành” không thành, mọi thứ như \"hoá điên\" với các Tân Binh\n\n#tanbinhtoannang2025  #showitall #YeaH1#showtanbinhtoannang #chuongtrinhtanbinhtoannang #SOOBIN #SlimV #showthucte #chuongtrinhamnhac #tanbinhtoannangtap11  #tanbinhtoannangmua3 #tanbinhtoannangmoinhat #tanbinhtoannangtap11full #tap11tanbinhtoannang #tanbinhtoannang #tanbinhtoannangshowitall #gameshow #show2025 \n \n\n---------------------------------------------- \nChương trình truyền hình thực tế âm nhạc, nơi 11 “Tân binh Thăng Cấp” chính thức bước ra ánh sáng, sẵn sàng đại diện Việt Nam thi đấu cùng các nhóm nhạc quốc tế.\n\n“Tân Binh Toàn Năng” sẽ phát sóng trên khung giờ vàng VTV3 và hệ thống kênh YeaH1 bắt đầu từ tháng 10/2025. Format sống còn đầy thử thách, chương trình mang sứ mệnh giới thiệu thế hệ nghệ sĩ thần tượng mới của Việt Nam, khẳng định bản lĩnh và bứt phá trên sân khấu toàn cầu. \n\n11 bạn Tân Binh sẽ đối đầu trực tiếp với những nhóm nhạc quốc tế đến từ nhiều quốc gia để thể hiện bản lĩnh của một thế hệ nghệ sĩ mới, dám vượt qua mọi thách thức để mang niềm tự hào Việt Nam đi xa.\n\n📺 Chương trình phát sóng thứ 7 hằng tuần lúc 20h trên VTV3, 20h30 trên Youtube YeaH1 và chính thức có mặt tại ứng dụng giải trí MangoPlus\n\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Tân Binh Toàn Năng tại:\n📍FanPage: https://www.facebook.com/TanBinhToanNang/\n📍TikTok: https://www.tiktok.com/@tanbinhtoannang \n\n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng: https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44\n►Anh Trai Vượt Ngàn Chông Gai 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq\n►Chị Đẹp Đạp Gió 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF\n►Chị Đẹp Đạp Gió Rẽ Sóng 2023: https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A\n►Mẹ Siêu Nhân: https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3►\n ►Gia Đình Haha: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY\n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 ONE: https://www.youtube.com/@YeaH1ONE\n►YeaH1 SHOW: https://www.youtube.com/@YEAH1SHOW \n►YeaH1 Entertainment: https://www.youtube.com/@YEAH1_GIAITRI \n►YeaH1 Music: https://www.youtube.com/@yeah1music\n\n📣 Subscribe kênh YeaH1 ONE để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4n8zC5R\n©️ TÂN BINH TOÀN NĂNG thuộc sở hữu của YeaH1 ONE và được bảo vệ bản quyền bởi YeaH1 ONE",
+      "translatedText": "Tân Binh Toàn Năng 2025- Tập 11| “Chữa lành” không thành, mọi thứ như \"hoá điên\" với các Tân Binh\n\n#tanbinhtoannang2025  #showitall #YeaH1#showtanbinhtoannang #chuongtrinhtanbinhtoannang #SOOBIN #SlimV #showthucte #chuongtrinhamnhac #tanbinhtoannangtap11  #tanbinhtoannangmua3 #tanbinhtoannangmoinhat #tanbinhtoannangtap11full #tap11tanbinhtoannang #tanbinhtoannang #tanbinhtoannangshowitall #gameshow #show2025 \n \n\n---------------------------------------------- \nChương trình truyền hình thực tế âm nhạc, nơi 11 “Tân binh Thăng Cấp” chính thức bước ra ánh sáng, sẵn sàng đại diện Việt Nam thi đấu cùng các nhóm nhạc quốc tế.\n\n“Tân Binh Toàn Năng” sẽ phát sóng trên khung giờ vàng VTV3 và hệ thống kênh YeaH1 bắt đầu từ tháng 10/2025. Format sống còn đầy thử thách, chương trình mang sứ mệnh giới thiệu thế hệ nghệ sĩ thần tượng mới của Việt Nam, khẳng định bản lĩnh và bứt phá trên sân khấu toàn cầu. \n\n11 bạn Tân Binh sẽ đối đầu trực tiếp với những nhóm nhạc quốc tế đến từ nhiều quốc gia để thể hiện bản lĩnh của một thế hệ nghệ sĩ mới, dám vượt qua mọi thách thức để mang niềm tự hào Việt Nam đi xa.\n\n📺 Chương trình phát sóng thứ 7 hằng tuần lúc 20h trên VTV3, 20h30 trên Youtube YeaH1 và chính thức có mặt tại ứng dụng giải trí MangoPlus\n\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Tân Binh Toàn Năng tại:\n📍FanPage:   / tanbinhtoannang  \n📍TikTok:   / tanbinhtoannang   \n\n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng:    • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  \n►Anh Trai Vượt Ngàn Chông Gai 2024:    • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  \n►Chị Đẹp Đạp Gió 2024:    • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  \n►Chị Đẹp Đạp Gió Rẽ Sóng 2023:    • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  \n►Mẹ Siêu Nhân: https://www.youtube.com/playlist?list...\n ►Gia Đình Haha:    • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  \n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 ONE:    / @yeah1one  \n►YeaH1 SHOW:    / @yeah1show   \n►YeaH1 Entertainment:    / @yeah1_giaitri   \n►YeaH1 Music:    / @yeah1music  \n\n📣 Subscribe kênh YeaH1 ONE để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4n8zC5R\n©️ TÂN BINH TOÀN NĂNG thuộc sở hữu của YeaH1 ONE và được bảo vệ bản quyền bởi YeaH1 ONE",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannang2025",
+          "text": "#tanbinhtoannang2025"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showitall",
+          "text": "#showitall"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showtanbinhtoannang",
+          "text": "#showtanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chuongtrinhtanbinhtoannang",
+          "text": "#chuongtrinhtanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/soobin",
+          "text": "#SOOBIN"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/slimv",
+          "text": "#SlimV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showthucte",
+          "text": "#showthucte"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chuongtrinhamnhac",
+          "text": "#chuongtrinhamnhac"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangtap11",
+          "text": "#tanbinhtoannangtap11"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangmua3",
+          "text": "#tanbinhtoannangmua3"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangmoinhat",
+          "text": "#tanbinhtoannangmoinhat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangtap11full",
+          "text": "#tanbinhtoannangtap11full"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tap11tanbinhtoannang",
+          "text": "#tap11tanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannang",
+          "text": "#tanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangshowitall",
+          "text": "#tanbinhtoannangshowitall"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gameshow",
+          "text": "#gameshow"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/show2025",
+          "text": "#show2025"
+        },
+        {
+          "url": "https://www.facebook.com/TanBinhToanNang/",
+          "text": "  / tanbinhtoannang  "
+        },
+        {
+          "url": "https://www.tiktok.com/@tanbinhtoannang",
+          "text": "  / tanbinhtoannang  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44",
+          "text": "   • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+          "text": "   • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3%E2%96%BA",
+          "text": "https://www.youtube.com/playlist?list..."
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY",
+          "text": "   • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC_np0YZuvNMIJceE6jHeggQ",
+          "text": "   / @yeah1one  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCh_zF2FsiCflCPgYDudtcqg",
+          "text": "   / @yeah1show  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCecta98cdYVFV6L_lfH__IA",
+          "text": "   / @yeah1_giaitri  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCI2OiZs5aVcyBUBVsgovzng",
+          "text": "   / @yeah1music  "
+        },
+        {
+          "url": "https://bit.ly/4n8zC5R",
+          "text": "https://bit.ly/4n8zC5R"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 4,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL",
+      "isMonetized": null,
+      "hashtags": [
+        "#showitall",
+        "#SOOBIN",
+        "#tanbinhtoannang"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tân Binh Toàn Năng 2025 - Tập 15 | Đội hình Debut xuất hiện, ai sẽ là người đi đến cuối cùng?",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "KQQPuP-2Tgs",
+      "url": "https://www.youtube.com/watch?v=KQQPuP-2Tgs&list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL&index=1",
+      "thumbnailUrl": "https://i.ytimg.com/vi/KQQPuP-2Tgs/maxresdefault.jpg",
+      "viewCount": 4271236,
+      "date": "2026-01-17T13:30:11.000Z",
+      "likes": 73000,
+      "location": null,
+      "channelName": "YeaH1 ONE",
+      "channelUrl": "https://www.youtube.com/@YeaH1ONE",
+      "channelUsername": "YeaH1ONE",
+      "collaborators": null,
+      "channelId": "UC_np0YZuvNMIJceE6jHeggQ",
+      "numberOfSubscribers": 5350000,
+      "duration": "02:46:34",
+      "commentsCount": 22529,
+      "text": "Tân Binh Toàn Năng 2025 - Tập 15 | Đội hình Debut xuất hiện, ai sẽ là người đi đến cuối cùng?\n\n#tanbinhtoannang2025  #showitall #YeaH1#showtanbinhtoannang #chuongtrinhtanbinhtoannang #SOOBIN #SlimV #showthucte #chuongtrinhamnhac #tanbinhtoannangtap15   #tanbinhtoannangmua3  #tanbinhtoannangtap15full #tap15tanbinhtoannang #tanbinhtoannang #tanbinhtoannangshowitall #gameshow #show2025 #TEMPEST #템페스트\n \n---------------------------------------------- \nChương trình truyền hình thực tế âm nhạc, nơi 11 “Tân binh Thăng Cấp” chính thức bước ra ánh sáng, sẵn sàng đại diện Việt Nam thi đấu cùng các nhóm nhạc quốc tế.\n\n“Tân Binh Toàn Năng” sẽ phát sóng trên khung giờ vàng VTV3 và hệ thống kênh YeaH1 bắt đầu từ tháng 10/2025. Format sống còn đầy thử thách, chương trình mang sứ mệnh giới thiệu thế hệ nghệ sĩ thần tượng mới của Việt Nam, khẳng định bản lĩnh và bứt phá trên sân khấu toàn cầu. \n\n11 bạn Tân Binh sẽ đối đầu trực tiếp với những nhóm nhạc quốc tế đến từ nhiều quốc gia để thể hiện bản lĩnh của một thế hệ nghệ sĩ mới, dám vượt qua mọi thách thức để mang niềm tự hào Việt Nam đi xa.\n\n📺 Chương trình phát sóng thứ 7 hằng tuần lúc 20h trên VTV3, 20h30 trên Youtube YeaH1 và chính thức có mặt tại ứng dụng giải trí MangoPlus\n\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Tân Binh Toàn Năng tại:\n📍FanPage: https://www.facebook.com/TanBinhToanNang/\n📍TikTok: https://www.tiktok.com/@tanbinhtoannang \n\n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng: https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44\n►Anh Trai Vượt Ngàn Chông Gai 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq\n►Chị Đẹp Đạp Gió 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF\n►Chị Đẹp Đạp Gió Rẽ Sóng 2023: https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A\n►Mẹ Siêu Nhân: https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3►\n ►Gia Đình Haha: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY\n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 ONE: https://www.youtube.com/@YeaH1ONE\n►YeaH1 SHOW: https://www.youtube.com/@YEAH1SHOW \n►YeaH1 Entertainment: https://www.youtube.com/@YEAH1_GIAITRI \n►YeaH1 Music: https://www.youtube.com/@yeah1music\n\n📣 Subscribe kênh YeaH1 ONE để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4n8zC5R\n©️ TÂN BINH TOÀN NĂNG thuộc sở hữu của YeaH1 ONE và được bảo vệ bản quyền bởi YeaH1 ONE",
+      "translatedText": "Tân Binh Toàn Năng 2025 - Tập 15 | Đội hình Debut xuất hiện, ai sẽ là người đi đến cuối cùng?\n\n#tanbinhtoannang2025  #showitall #YeaH1#showtanbinhtoannang #chuongtrinhtanbinhtoannang #SOOBIN #SlimV #showthucte #chuongtrinhamnhac #tanbinhtoannangtap15   #tanbinhtoannangmua3  #tanbinhtoannangtap15full #tap15tanbinhtoannang #tanbinhtoannang #tanbinhtoannangshowitall #gameshow #show2025 #TEMPEST #템페스트\n \n---------------------------------------------- \nChương trình truyền hình thực tế âm nhạc, nơi 11 “Tân binh Thăng Cấp” chính thức bước ra ánh sáng, sẵn sàng đại diện Việt Nam thi đấu cùng các nhóm nhạc quốc tế.\n\n“Tân Binh Toàn Năng” sẽ phát sóng trên khung giờ vàng VTV3 và hệ thống kênh YeaH1 bắt đầu từ tháng 10/2025. Format sống còn đầy thử thách, chương trình mang sứ mệnh giới thiệu thế hệ nghệ sĩ thần tượng mới của Việt Nam, khẳng định bản lĩnh và bứt phá trên sân khấu toàn cầu. \n\n11 bạn Tân Binh sẽ đối đầu trực tiếp với những nhóm nhạc quốc tế đến từ nhiều quốc gia để thể hiện bản lĩnh của một thế hệ nghệ sĩ mới, dám vượt qua mọi thách thức để mang niềm tự hào Việt Nam đi xa.\n\n📺 Chương trình phát sóng thứ 7 hằng tuần lúc 20h trên VTV3, 20h30 trên Youtube YeaH1 và chính thức có mặt tại ứng dụng giải trí MangoPlus\n\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Tân Binh Toàn Năng tại:\n📍FanPage:   / tanbinhtoannang  \n📍TikTok:   / tanbinhtoannang   \n\n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng:    • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  \n►Anh Trai Vượt Ngàn Chông Gai 2024:    • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  \n►Chị Đẹp Đạp Gió 2024:    • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  \n►Chị Đẹp Đạp Gió Rẽ Sóng 2023:    • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  \n►Mẹ Siêu Nhân: https://www.youtube.com/playlist?list...\n ►Gia Đình Haha:    • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  \n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 ONE:    / @yeah1one  \n►YeaH1 SHOW:    / @yeah1show   \n►YeaH1 Entertainment:    / @yeah1_giaitri   \n►YeaH1 Music:    / @yeah1music  \n\n📣 Subscribe kênh YeaH1 ONE để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4n8zC5R\n©️ TÂN BINH TOÀN NĂNG thuộc sở hữu của YeaH1 ONE và được bảo vệ bản quyền bởi YeaH1 ONE",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannang2025",
+          "text": "#tanbinhtoannang2025"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showitall",
+          "text": "#showitall"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showtanbinhtoannang",
+          "text": "#showtanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chuongtrinhtanbinhtoannang",
+          "text": "#chuongtrinhtanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/soobin",
+          "text": "#SOOBIN"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/slimv",
+          "text": "#SlimV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showthucte",
+          "text": "#showthucte"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chuongtrinhamnhac",
+          "text": "#chuongtrinhamnhac"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangtap15",
+          "text": "#tanbinhtoannangtap15"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangmua3",
+          "text": "#tanbinhtoannangmua3"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangtap15full",
+          "text": "#tanbinhtoannangtap15full"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tap15tanbinhtoannang",
+          "text": "#tap15tanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannang",
+          "text": "#tanbinhtoannang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tanbinhtoannangshowitall",
+          "text": "#tanbinhtoannangshowitall"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gameshow",
+          "text": "#gameshow"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/show2025",
+          "text": "#show2025"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tempest",
+          "text": "#TEMPEST"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/%ED%85%9C%ED%8E%98%EC%8A%A4%ED%8A%B8",
+          "text": "#템페스트"
+        },
+        {
+          "url": "https://www.facebook.com/TanBinhToanNang/",
+          "text": "  / tanbinhtoannang  "
+        },
+        {
+          "url": "https://www.tiktok.com/@tanbinhtoannang",
+          "text": "  / tanbinhtoannang  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44",
+          "text": "   • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+          "text": "   • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3%E2%96%BA",
+          "text": "https://www.youtube.com/playlist?list..."
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY",
+          "text": "   • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC_np0YZuvNMIJceE6jHeggQ",
+          "text": "   / @yeah1one  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCh_zF2FsiCflCPgYDudtcqg",
+          "text": "   / @yeah1show  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCecta98cdYVFV6L_lfH__IA",
+          "text": "   / @yeah1_giaitri  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCI2OiZs5aVcyBUBVsgovzng",
+          "text": "   / @yeah1music  "
+        },
+        {
+          "url": "https://bit.ly/4n8zC5R",
+          "text": "https://bit.ly/4n8zC5R"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 0,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL",
+      "isMonetized": null,
+      "hashtags": [
+        "#showitall",
+        "#SOOBIN",
+        "#TEMPEST"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL",
+      "isPaidContent": false
+    }
+  ]
+}

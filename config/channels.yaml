@@ -1,4 +1,10 @@
 channels:
+  UC2fu6CiFfNYz5UFORvFyc0w:
+    channel_name: Vie Channel - MUSIC
+    channel_authority: official_music_channel
+    authority_notes: >-
+      Official Vie music/performance channel. It is an authority for provenance but music assets
+      remain excluded unless a full numbered episode is independently source-bound.
   UCkna2OcuN1E6u5I8GVtdkOw:
     channel_name: Vie Channel
     channel_authority: primary_broadcaster

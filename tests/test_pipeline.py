@@ -123,5 +123,6 @@ def test_airing_season_can_publish_views_to_date_before_five_episodes(tmp_path: 
     with (output / "season_summary.csv").open(encoding="utf-8-sig") as stream:
         summary = next(csv.DictReader(stream))
     assert summary["qc_status"] == "WARNING"
+    assert summary["missing_episode_count"] == "0"
     assert summary["total_views"] == "600"
     assert "Views-to-date" in summary["notes"]

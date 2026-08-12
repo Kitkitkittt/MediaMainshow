@@ -1,0 +1,3263 @@
+{
+  "actor_name": "streamers/youtube-scraper",
+  "actor_run_id": "E7hmhsxT1EyJjWMbe",
+  "dataset_id": "pqpWfCwGMs9eXukPe",
+  "actor_build_id": "SUk0475fgtCh9zqMt",
+  "retrieved_at": "2026-08-12T14:07:02.326255+07:00",
+  "actor_input": {
+    "maxResults": 35,
+    "maxResultsShorts": 0,
+    "maxResultStreams": 0,
+    "startUrls": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ"
+      }
+    ],
+    "sourceBindingUrl": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ"
+  },
+  "run_metadata": {
+    "status": "SUCCEEDED",
+    "startedAt": "2026-08-12T07:06:28.562Z",
+    "finishedAt": "2026-08-12T07:06:55.276Z",
+    "usageTotalUsd": 0.07200000000000001,
+    "chargedEventCounts": {
+      "result": 24,
+      "date-filter": 0,
+      "ai-video-description": 0,
+      "ai-video-summary": 0
+    }
+  },
+  "items": [
+    {
+      "title": "2 Ngày 1 Đêm-Mùa 2 | Tập 42: Phương Ly chọn lối đi riêng, Dương Lâm yếu nghề làm rớt miếng Gien - nỳ",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "u5ap3C664B8",
+      "url": "https://www.youtube.com/watch?v=u5ap3C664B8&list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ&index=9",
+      "thumbnailUrl": "https://i.ytimg.com/vi/u5ap3C664B8/maxresdefault.jpg",
+      "viewCount": 3283575,
+      "date": "2023-12-14T13:30:21.000Z",
+      "likes": 19000,
+      "location": null,
+      "channelName": "2 NGÀY 1 ĐÊM VIETNAM",
+      "channelUrl": "https://www.youtube.com/@2NGAY1DEM",
+      "channelUsername": "2NGAY1DEM",
+      "collaborators": null,
+      "channelId": "UChGncdgzOKmp5XQTnQa2h4w",
+      "numberOfSubscribers": 1650000,
+      "duration": "01:34:40",
+      "commentsCount": 773,
+      "text": "2 Ngày 1 Đêm - Mùa 2 | Tập 42: Phương Ly chọn lối đi riêng, Dương Lâm yếu nghề làm rớt miếng Gien - nỳ\n\n6 anh em 2 Ngày 1 Đêm sẽ tiếp tục hành trình chinh phục những thử thách tại Hoà Bình. Tập này Gien - nỳ sẽ đem đến một bất ngờ lớn cho khán giả và cả dàn cast. Chờ xem đó là bất ngờ gì nhé!\n\nXem TRỌN BỘ 2 Ngày 1 Đêm Mùa 2 ➡️ https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ\n\n🎧 Nghe Theme song 2 Ngày 1 Đêm  👉 https://VieNETWORK.bfan.link/2N1D\n\n💕Sở hữu các sản phẩm Merchandise 2 Ngày 1 Đêm tại https://vieshop.vn/\n\n#2Ngay1Dem #2Ngày1Đêm #Mùa2 #2Ngày1ĐêmMùa2 #2Ngay1DemMua2 #Tập42 #PhươngLy\n#TrườngGiang #KiềuMinhTuấn #LêDươngBảoLâm #NgôKiếnHuy #CrisPhan #HIEUTHUHAI\n\n🏕 Chuyến đi 2 Ngày 1 Đêm bắt đầu từ cuộc gặp gỡ của những người đàn ông từ những hoàn cảnh, những cá tính khác nhau nhưng để hết tất cả sau lưng vào tham gia một cuộc hành trình khám phá mọi miền đất nước và khám phá bản thân. Trở lại với phiên bản Mùa 2 với 3 tính chất được thăng hạng 2X (Bất Ngờ - Khổ Đau - Tiếng cười) hứa hẹn những tình huống dở khóc dở cười đến khán giả. \n\n⏰Đón xem 2 NGÀY 1 ĐÊM - MÙA 2 vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  @dongtaypromotionofficial  và  @2NGAY1DEM        \n  \n📣 Subscribe kênh 2 NGÀY 1 ĐÊM VIETNAM để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/2N1DVietnam\n\n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK\n\n\n\n👉 Theo dõi các kênh chính thức của 2 Ngày 1 Đêm Vietnam:\n► YouTube: https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w\n► Fanpage: https://www.facebook.com/2Ngay1DemVietNam.DongTay\n► Instagram: https://www.instagram.com/2days1nightvietnamofficial/\n► TikTok: https://www.tiktok.com/@2ngay1demvietnam",
+      "translatedText": "2 Ngày 1 Đêm - Mùa 2 | Tập 42: Phương Ly chọn lối đi riêng, Dương Lâm yếu nghề làm rớt miếng Gien - nỳ\n\n6 anh em 2 Ngày 1 Đêm sẽ tiếp tục hành trình chinh phục những thử thách tại Hoà Bình. Tập này Gien - nỳ sẽ đem đến một bất ngờ lớn cho khán giả và cả dàn cast. Chờ xem đó là bất ngờ gì nhé!\n\nXem TRỌN BỘ 2 Ngày 1 Đêm Mùa 2 ➡️    • 🌈 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 2 | Phiên bả...  \n\n🎧 Nghe Theme song 2 Ngày 1 Đêm  👉 https://VieNETWORK.bfan.link/2N1D\n\n💕Sở hữu các sản phẩm Merchandise 2 Ngày 1 Đêm tại https://vieshop.vn/\n\n#2Ngay1Dem #2Ngày1Đêm #Mùa2 #2Ngày1ĐêmMùa2 #2Ngay1DemMua2 #Tập42 #PhươngLy\n#TrườngGiang #KiềuMinhTuấn #LêDươngBảoLâm #NgôKiếnHuy #CrisPhan #HIEUTHUHAI\n\n🏕 Chuyến đi 2 Ngày 1 Đêm bắt đầu từ cuộc gặp gỡ của những người đàn ông từ những hoàn cảnh, những cá tính khác nhau nhưng để hết tất cả sau lưng vào tham gia một cuộc hành trình khám phá mọi miền đất nước và khám phá bản thân. Trở lại với phiên bản Mùa 2 với 3 tính chất được thăng hạng 2X (Bất Ngờ - Khổ Đau - Tiếng cười) hứa hẹn những tình huống dở khóc dở cười đến khán giả. \n\n⏰Đón xem 2 NGÀY 1 ĐÊM - MÙA 2 vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  ‪@dongtaypromotionofficial‬  và  ‪@2NGAY1DEM‬        \n  \n📣 Subscribe kênh 2 NGÀY 1 ĐÊM VIETNAM để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/2N1DVietnam\n\n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK\n\n\n\n👉 Theo dõi các kênh chính thức của 2 Ngày 1 Đêm Vietnam:\n► YouTube:    / @2ngay1dem  \n► Fanpage:   / 2ngay1demvietnam.dongtay  \n► Instagram:   / 2days1nightvietnamofficial  \n► TikTok:   / 2ngay1demvietnam  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+          "text": "   • 🌈 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 2 | Phiên bả...  "
+        },
+        {
+          "url": "https://VieNETWORK.bfan.link/2N1D",
+          "text": "https://VieNETWORK.bfan.link/2N1D"
+        },
+        {
+          "url": "https://vieshop.vn/",
+          "text": "https://vieshop.vn/"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ngay1dem",
+          "text": "#2Ngay1Dem"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ng%C3%A0y1%C4%91%C3%AAm",
+          "text": "#2Ngày1Đêm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/m%C3%B9a2",
+          "text": "#Mùa2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ng%C3%A0y1%C4%91%C3%AAmm%C3%B9a2",
+          "text": "#2Ngày1ĐêmMùa2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ngay1demmua2",
+          "text": "#2Ngay1DemMua2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/t%E1%BA%ADp42",
+          "text": "#Tập42"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ph%C6%B0%C6%A1ngly",
+          "text": "#PhươngLy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tr%C6%B0%E1%BB%9Dnggiang",
+          "text": "#TrườngGiang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ki%E1%BB%81uminhtu%E1%BA%A5n",
+          "text": "#KiềuMinhTuấn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%AAd%C6%B0%C6%A1ngb%E1%BA%A3ol%C3%A2m",
+          "text": "#LêDươngBảoLâm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ng%C3%B4ki%E1%BA%BFnhuy",
+          "text": "#NgôKiếnHuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/crisphan",
+          "text": "#CrisPhan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hieuthuhai",
+          "text": "#HIEUTHUHAI"
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "‪@dongtaypromotionofficial‬"
+        },
+        {
+          "url": "https://www.youtube.com/@2NGAY1DEM",
+          "text": "‪@2NGAY1DEM‬"
+        },
+        {
+          "url": "https://bit.ly/2N1DVietnam",
+          "text": "https://bit.ly/2N1DVietnam"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w",
+          "text": "   / @2ngay1dem  "
+        },
+        {
+          "url": "https://www.facebook.com/2Ngay1DemVietNam.DongTay",
+          "text": "  / 2ngay1demvietnam.dongtay  "
+        },
+        {
+          "url": "https://www.instagram.com/2days1nightvietnamofficial/",
+          "text": "  / 2days1nightvietnamofficial  "
+        },
+        {
+          "url": "https://www.tiktok.com/@2ngay1demvietnam",
+          "text": "  / 2ngay1demvietnam  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 8,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isPaidContent": false
+    },
+    {
+      "title": "2 Ngày 1 Đêm - Mùa 2 | Tập 32: Dương Lâm rap chấn động, Kiều Minh Tuấn thất thanh vì bị đột kích",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "CS8sFyH3e6U",
+      "url": "https://www.youtube.com/watch?v=CS8sFyH3e6U&list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ&index=19",
+      "thumbnailUrl": "https://i.ytimg.com/vi/CS8sFyH3e6U/maxresdefault.jpg",
+      "viewCount": 14186963,
+      "date": "2023-10-01T13:40:10.000Z",
+      "likes": 139000,
+      "location": null,
+      "channelName": "2 NGÀY 1 ĐÊM VIETNAM",
+      "channelUrl": "https://www.youtube.com/@2NGAY1DEM",
+      "channelUsername": "2NGAY1DEM",
+      "collaborators": null,
+      "channelId": "UChGncdgzOKmp5XQTnQa2h4w",
+      "numberOfSubscribers": 1650000,
+      "duration": "01:27:22",
+      "commentsCount": 10476,
+      "text": "2 Ngày 1 Đêm - Mùa 2 | Tập 32: Dương Lâm rap chấn động, Kiều Minh Tuấn thất thanh vì bị đột kích\n\n2 Ngày 1 Đêm Mùa 2 chính thức lên sóng với hành trình đầu tiên tại Đà Nẵng. Cùng chờ đón màn trở lại bùng nổ và cười thả ga cùng 6 anh em nhé!\n\nXem TRỌN BỘ 2 Ngày 1 Đêm Mùa 2 ➡️ https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ\n\n🎧 Nghe Theme song 2 Ngày 1 Đêm  👉 https://VieNETWORK.bfan.link/2N1D\n\n💕Sở hữu các sản phẩm Merchandise 2 Ngày 1 Đêm tại https://vieshop.vn/\n\n#2Ngay1Dem #2Ngày1Đêm #Mùa2 #2Ngày1ĐêmMùa2 #2Ngay1DemMua2 #Tập32 #DongTayPromotion #tuongotCHINSU #Wakeup247\n#TrườngGiang #KiềuMinhTuấn #LêDươngBảoLâm #NgôKiếnHuy #CrisPhan #HIEUTHUHAI \n\n🏕 Chuyến đi 2 Ngày 1 Đêm bắt đầu từ cuộc gặp gỡ của những người đàn ông từ những hoàn cảnh, những cá tính khác nhau nhưng để hết tất cả sau lưng vào tham gia một cuộc hành trình khám phá mọi miền đất nước và khám phá bản thân. Trở lại với phiên bản Mùa 2 với 3 tính chất được thăng hạng 2X (Bất Ngờ - Khổ Đau - Tiếng cười) hứa hẹn những tình huống dở khóc dở cười đến khán giả.  \n\n⏰Đón xem 2 NGÀY 1 ĐÊM - MÙA 2 vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  @dongtaypromotionofficial  và @2NGAY1DEM \n  \n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK\n\n\n\n👉 Theo dõi các kênh chính thức của 2 Ngày 1 Đêm Vietnam:\n► YouTube: https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w\n► Fanpage: https://www.facebook.com/2Ngay1DemVietNam.DongTay\n► Instagram: https://www.instagram.com/2days1nightvietnamofficial/\n► TikTok: https://www.tiktok.com/@2ngay1demvietnam",
+      "translatedText": "2 Ngày 1 Đêm - Mùa 2 | Tập 32: Dương Lâm rap chấn động, Kiều Minh Tuấn thất thanh vì bị đột kích\n\n2 Ngày 1 Đêm Mùa 2 chính thức lên sóng với hành trình đầu tiên tại Đà Nẵng. Cùng chờ đón màn trở lại bùng nổ và cười thả ga cùng 6 anh em nhé!\n\nXem TRỌN BỘ 2 Ngày 1 Đêm Mùa 2 ➡️    • 🌈 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 2 | Phiên bả...  \n\n🎧 Nghe Theme song 2 Ngày 1 Đêm  👉 https://VieNETWORK.bfan.link/2N1D\n\n💕Sở hữu các sản phẩm Merchandise 2 Ngày 1 Đêm tại https://vieshop.vn/\n\n#2Ngay1Dem #2Ngày1Đêm #Mùa2 #2Ngày1ĐêmMùa2 #2Ngay1DemMua2 #Tập32 #DongTayPromotion #tuongotCHINSU #Wakeup247\n#TrườngGiang #KiềuMinhTuấn #LêDươngBảoLâm #NgôKiếnHuy #CrisPhan #HIEUTHUHAI \n\n🏕 Chuyến đi 2 Ngày 1 Đêm bắt đầu từ cuộc gặp gỡ của những người đàn ông từ những hoàn cảnh, những cá tính khác nhau nhưng để hết tất cả sau lưng vào tham gia một cuộc hành trình khám phá mọi miền đất nước và khám phá bản thân. Trở lại với phiên bản Mùa 2 với 3 tính chất được thăng hạng 2X (Bất Ngờ - Khổ Đau - Tiếng cười) hứa hẹn những tình huống dở khóc dở cười đến khán giả.  \n\n⏰Đón xem 2 NGÀY 1 ĐÊM - MÙA 2 vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  ‪@dongtaypromotionofficial‬  và ‪@2NGAY1DEM‬ \n  \n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK\n\n\n\n👉 Theo dõi các kênh chính thức của 2 Ngày 1 Đêm Vietnam:\n► YouTube:    / @2ngay1dem  \n► Fanpage:   / 2ngay1demvietnam.dongtay  \n► Instagram:   / 2days1nightvietnamofficial  \n► TikTok:   / 2ngay1demvietnam  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+          "text": "   • 🌈 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 2 | Phiên bả...  "
+        },
+        {
+          "url": "https://VieNETWORK.bfan.link/2N1D",
+          "text": "https://VieNETWORK.bfan.link/2N1D"
+        },
+        {
+          "url": "https://vieshop.vn/",
+          "text": "https://vieshop.vn/"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ngay1dem",
+          "text": "#2Ngay1Dem"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ng%C3%A0y1%C4%91%C3%AAm",
+          "text": "#2Ngày1Đêm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/m%C3%B9a2",
+          "text": "#Mùa2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ng%C3%A0y1%C4%91%C3%AAmm%C3%B9a2",
+          "text": "#2Ngày1ĐêmMùa2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ngay1demmua2",
+          "text": "#2Ngay1DemMua2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/t%E1%BA%ADp32",
+          "text": "#Tập32"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dongtaypromotion",
+          "text": "#DongTayPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tuongotchinsu",
+          "text": "#tuongotCHINSU"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/wakeup247",
+          "text": "#Wakeup247"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tr%C6%B0%E1%BB%9Dnggiang",
+          "text": "#TrườngGiang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ki%E1%BB%81uminhtu%E1%BA%A5n",
+          "text": "#KiềuMinhTuấn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%AAd%C6%B0%C6%A1ngb%E1%BA%A3ol%C3%A2m",
+          "text": "#LêDươngBảoLâm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ng%C3%B4ki%E1%BA%BFnhuy",
+          "text": "#NgôKiếnHuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/crisphan",
+          "text": "#CrisPhan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hieuthuhai",
+          "text": "#HIEUTHUHAI"
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "‪@dongtaypromotionofficial‬"
+        },
+        {
+          "url": "https://www.youtube.com/@2NGAY1DEM",
+          "text": "‪@2NGAY1DEM‬"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w",
+          "text": "   / @2ngay1dem  "
+        },
+        {
+          "url": "https://www.facebook.com/2Ngay1DemVietNam.DongTay",
+          "text": "  / 2ngay1demvietnam.dongtay  "
+        },
+        {
+          "url": "https://www.instagram.com/2days1nightvietnamofficial/",
+          "text": "  / 2days1nightvietnamofficial  "
+        },
+        {
+          "url": "https://www.tiktok.com/@2ngay1demvietnam",
+          "text": "  / 2ngay1demvietnam  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 18,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isPaidContent": false
+    },
+    {
+      "title": "2 Ngày 1 Đêm - Mùa 2 |Tập 43: Ngô Kiến Huy thách đấu ekip, Kiều Minh Tuấn cứu Phương Ly \"thoát đói\"",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "m5zha0M89YU",
+      "url": "https://www.youtube.com/watch?v=m5zha0M89YU&list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ&index=8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/m5zha0M89YU/maxresdefault.jpg",
+      "viewCount": 3228111,
+      "date": "2023-12-20T13:30:17.000Z",
+      "likes": 16000,
+      "location": null,
+      "channelName": "2 NGÀY 1 ĐÊM VIETNAM",
+      "channelUrl": "https://www.youtube.com/@2NGAY1DEM",
+      "channelUsername": "2NGAY1DEM",
+      "collaborators": null,
+      "channelId": "UChGncdgzOKmp5XQTnQa2h4w",
+      "numberOfSubscribers": 1650000,
+      "duration": "01:51:31",
+      "commentsCount": 3224,
+      "text": "2 Ngày 1 Đêm - Mùa 2 | Tập 43: Ngô Kiến Huy thách đấu ekip, Kiều Minh Tuấn cứu Phương Ly \"thoát đói\" \n\nNhững thử thách quyết định ăn sướng - ngủ sướng tuần này hứa hẹn sẽ cực hấp dẫn. Bật mí trong tập này dàn cast 2 Ngày 1 Đêm sẽ chơi lớn thách đấu ekip nha.\n\nXem TRỌN BỘ 2 Ngày 1 Đêm Mùa 2 ➡️ https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ\n\n🎧 Nghe Theme song 2 Ngày 1 Đêm  👉 https://VieNETWORK.bfan.link/2N1D\n\n💕Sở hữu các sản phẩm Merchandise 2 Ngày 1 Đêm tại https://vieshop.vn/\n\n#2Ngay1Dem #2Ngày1Đêm #Mùa2 #2Ngày1ĐêmMùa2 #2Ngay1DemMua2 #Tập43 #PhươngLy\n#TrườngGiang #KiềuMinhTuấn #LêDươngBảoLâm #NgôKiếnHuy #CrisPhan #HIEUTHUHAI\n\n🏕 Chuyến đi 2 Ngày 1 Đêm bắt đầu từ cuộc gặp gỡ của những người đàn ông từ những hoàn cảnh, những cá tính khác nhau nhưng để hết tất cả sau lưng vào tham gia một cuộc hành trình khám phá mọi miền đất nước và khám phá bản thân. Trở lại với phiên bản Mùa 2 với 3 tính chất được thăng hạng 2X (Bất Ngờ - Khổ Đau - Tiếng cười) hứa hẹn những tình huống dở khóc dở cười đến khán giả. \n\n⏰Đón xem 2 NGÀY 1 ĐÊM - MÙA 2 vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  @dongtaypromotionofficial  và  @2NGAY1DEM        \n  \n📣 Subscribe kênh 2 NGÀY 1 ĐÊM VIETNAM để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/2N1DVietnam\n\n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK\n\n\n\n👉 Theo dõi các kênh chính thức của 2 Ngày 1 Đêm Vietnam:\n► YouTube: https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w\n► Fanpage: https://www.facebook.com/2Ngay1DemVietNam.DongTay\n► Instagram: https://www.instagram.com/2days1nightvietnamofficial/\n► TikTok: https://www.tiktok.com/@2ngay1demvietnam",
+      "translatedText": "2 Ngày 1 Đêm - Mùa 2 | Tập 43: Ngô Kiến Huy thách đấu ekip, Kiều Minh Tuấn cứu Phương Ly \"thoát đói\" \n\nNhững thử thách quyết định ăn sướng - ngủ sướng tuần này hứa hẹn sẽ cực hấp dẫn. Bật mí trong tập này dàn cast 2 Ngày 1 Đêm sẽ chơi lớn thách đấu ekip nha.\n\nXem TRỌN BỘ 2 Ngày 1 Đêm Mùa 2 ➡️    • 🌈 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 2 | Phiên bả...  \n\n🎧 Nghe Theme song 2 Ngày 1 Đêm  👉 https://VieNETWORK.bfan.link/2N1D\n\n💕Sở hữu các sản phẩm Merchandise 2 Ngày 1 Đêm tại https://vieshop.vn/\n\n#2Ngay1Dem #2Ngày1Đêm #Mùa2 #2Ngày1ĐêmMùa2 #2Ngay1DemMua2 #Tập43 #PhươngLy\n#TrườngGiang #KiềuMinhTuấn #LêDươngBảoLâm #NgôKiếnHuy #CrisPhan #HIEUTHUHAI\n\n🏕 Chuyến đi 2 Ngày 1 Đêm bắt đầu từ cuộc gặp gỡ của những người đàn ông từ những hoàn cảnh, những cá tính khác nhau nhưng để hết tất cả sau lưng vào tham gia một cuộc hành trình khám phá mọi miền đất nước và khám phá bản thân. Trở lại với phiên bản Mùa 2 với 3 tính chất được thăng hạng 2X (Bất Ngờ - Khổ Đau - Tiếng cười) hứa hẹn những tình huống dở khóc dở cười đến khán giả. \n\n⏰Đón xem 2 NGÀY 1 ĐÊM - MÙA 2 vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  ‪@dongtaypromotionofficial‬  và  ‪@2NGAY1DEM‬        \n  \n📣 Subscribe kênh 2 NGÀY 1 ĐÊM VIETNAM để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/2N1DVietnam\n\n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK\n\n\n\n👉 Theo dõi các kênh chính thức của 2 Ngày 1 Đêm Vietnam:\n► YouTube:    / @2ngay1dem  \n► Fanpage:   / 2ngay1demvietnam.dongtay  \n► Instagram:   / 2days1nightvietnamofficial  \n► TikTok:   / 2ngay1demvietnam  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+          "text": "   • 🌈 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 2 | Phiên bả...  "
+        },
+        {
+          "url": "https://VieNETWORK.bfan.link/2N1D",
+          "text": "https://VieNETWORK.bfan.link/2N1D"
+        },
+        {
+          "url": "https://vieshop.vn/",
+          "text": "https://vieshop.vn/"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ngay1dem",
+          "text": "#2Ngay1Dem"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ng%C3%A0y1%C4%91%C3%AAm",
+          "text": "#2Ngày1Đêm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/m%C3%B9a2",
+          "text": "#Mùa2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ng%C3%A0y1%C4%91%C3%AAmm%C3%B9a2",
+          "text": "#2Ngày1ĐêmMùa2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ngay1demmua2",
+          "text": "#2Ngay1DemMua2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/t%E1%BA%ADp43",
+          "text": "#Tập43"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ph%C6%B0%C6%A1ngly",
+          "text": "#PhươngLy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tr%C6%B0%E1%BB%9Dnggiang",
+          "text": "#TrườngGiang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ki%E1%BB%81uminhtu%E1%BA%A5n",
+          "text": "#KiềuMinhTuấn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%AAd%C6%B0%C6%A1ngb%E1%BA%A3ol%C3%A2m",
+          "text": "#LêDươngBảoLâm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ng%C3%B4ki%E1%BA%BFnhuy",
+          "text": "#NgôKiếnHuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/crisphan",
+          "text": "#CrisPhan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hieuthuhai",
+          "text": "#HIEUTHUHAI"
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "‪@dongtaypromotionofficial‬"
+        },
+        {
+          "url": "https://www.youtube.com/@2NGAY1DEM",
+          "text": "‪@2NGAY1DEM‬"
+        },
+        {
+          "url": "https://bit.ly/2N1DVietnam",
+          "text": "https://bit.ly/2N1DVietnam"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w",
+          "text": "   / @2ngay1dem  "
+        },
+        {
+          "url": "https://www.facebook.com/2Ngay1DemVietNam.DongTay",
+          "text": "  / 2ngay1demvietnam.dongtay  "
+        },
+        {
+          "url": "https://www.instagram.com/2days1nightvietnamofficial/",
+          "text": "  / 2days1nightvietnamofficial  "
+        },
+        {
+          "url": "https://www.tiktok.com/@2ngay1demvietnam",
+          "text": "  / 2ngay1demvietnam  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 7,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isMonetized": null,
+      "hashtags": [
+        "#Mùa2",
+        "#2Ngay1Dem",
+        "#2Ngày1Đêm"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isPaidContent": false
+    },
+    {
+      "title": "2 Ngày 1 Đêm-Mùa 2 |Tập 40: Cris Phan bộc lộ tài năng diễn xuất, Ngô Kiến Huy \"combat\" với Dương Lâm",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "99jkGbsgp3o",
+      "url": "https://www.youtube.com/watch?v=99jkGbsgp3o&list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ&index=11",
+      "thumbnailUrl": "https://i.ytimg.com/vi/99jkGbsgp3o/maxresdefault.jpg",
+      "viewCount": 11216632,
+      "date": "2023-11-26T13:40:10.000Z",
+      "likes": 81000,
+      "location": null,
+      "channelName": "2 NGÀY 1 ĐÊM VIETNAM",
+      "channelUrl": "https://www.youtube.com/@2NGAY1DEM",
+      "channelUsername": "2NGAY1DEM",
+      "collaborators": null,
+      "channelId": "UChGncdgzOKmp5XQTnQa2h4w",
+      "numberOfSubscribers": 1650000,
+      "duration": "01:26:25",
+      "commentsCount": 6297,
+      "text": "2 Ngày 1 Đêm - Mùa 2 |Tập 40: Cris Phan bộc lộ tài năng diễn xuất, Ngô Kiến Huy \"combat\" với Dương Lâm\n\nTuần này, Ngô Kiến Huy và Ngọc Phước sẽ được đoàn tụ với anh em sau ngày dài bơ phờ vì bị \"đày\" ra đảo bắt nhum. Cùng xem những thử thách cười banh nóc trong tập tối nay nhé.\n\nXem TRỌN BỘ 2 Ngày 1 Đêm Mùa 2 ➡️ https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ\n\n🎧 Nghe Theme song 2 Ngày 1 Đêm  👉 https://VieNETWORK.bfan.link/2N1D\n\n💕Sở hữu các sản phẩm Merchandise 2 Ngày 1 Đêm tại https://vieshop.vn/\n\n#2Ngay1Dem #2Ngày1Đêm #Mùa2 #2Ngày1ĐêmMùa2 #2Ngay1DemMua2 #Tập40 #DongTayPromotion #TrườngGiang #KiềuMinhTuấn #LêDươngBảoLâm #NgôKiếnHuy #CrisPhan #HIEUTHUHAI #LâmVỹDạ #Puka #NamThư #MinhTú #NgọcPhước #KhaLy\n\n🏕 Chuyến đi 2 Ngày 1 Đêm bắt đầu từ cuộc gặp gỡ của những người đàn ông từ những hoàn cảnh, những cá tính khác nhau nhưng để hết tất cả sau lưng vào tham gia một cuộc hành trình khám phá mọi miền đất nước và khám phá bản thân. Trở lại với phiên bản Mùa 2 với 3 tính chất được thăng hạng 2X (Bất Ngờ - Khổ Đau - Tiếng cười) hứa hẹn những tình huống dở khóc dở cười đến khán giả. \n\n⏰Đón xem 2 NGÀY 1 ĐÊM - MÙA 2 vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  @dongtaypromotionofficial  và  @2NGAY1DEM        \n  \n📣 Subscribe kênh 2 NGÀY 1 ĐÊM VIETNAM để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/2N1DVietnam\n\n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK\n\n\n\n👉 Theo dõi các kênh chính thức của 2 Ngày 1 Đêm Vietnam:\n► YouTube: https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w\n► Fanpage: https://www.facebook.com/2Ngay1DemVietNam.DongTay\n► Instagram: https://www.instagram.com/2days1nightvietnamofficial/\n► TikTok: https://www.tiktok.com/@2ngay1demvietnam",
+      "translatedText": "2 Ngày 1 Đêm - Mùa 2 |Tập 40: Cris Phan bộc lộ tài năng diễn xuất, Ngô Kiến Huy \"combat\" với Dương Lâm\n\nTuần này, Ngô Kiến Huy và Ngọc Phước sẽ được đoàn tụ với anh em sau ngày dài bơ phờ vì bị \"đày\" ra đảo bắt nhum. Cùng xem những thử thách cười banh nóc trong tập tối nay nhé.\n\nXem TRỌN BỘ 2 Ngày 1 Đêm Mùa 2 ➡️    • 🌈 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 2 | Phiên bả...  \n\n🎧 Nghe Theme song 2 Ngày 1 Đêm  👉 https://VieNETWORK.bfan.link/2N1D\n\n💕Sở hữu các sản phẩm Merchandise 2 Ngày 1 Đêm tại https://vieshop.vn/\n\n#2Ngay1Dem #2Ngày1Đêm #Mùa2 #2Ngày1ĐêmMùa2 #2Ngay1DemMua2 #Tập40 #DongTayPromotion #TrườngGiang #KiềuMinhTuấn #LêDươngBảoLâm #NgôKiếnHuy #CrisPhan #HIEUTHUHAI #LâmVỹDạ #Puka #NamThư #MinhTú #NgọcPhước #KhaLy\n\n🏕 Chuyến đi 2 Ngày 1 Đêm bắt đầu từ cuộc gặp gỡ của những người đàn ông từ những hoàn cảnh, những cá tính khác nhau nhưng để hết tất cả sau lưng vào tham gia một cuộc hành trình khám phá mọi miền đất nước và khám phá bản thân. Trở lại với phiên bản Mùa 2 với 3 tính chất được thăng hạng 2X (Bất Ngờ - Khổ Đau - Tiếng cười) hứa hẹn những tình huống dở khóc dở cười đến khán giả. \n\n⏰Đón xem 2 NGÀY 1 ĐÊM - MÙA 2 vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  ‪@dongtaypromotionofficial‬  và  ‪@2NGAY1DEM‬        \n  \n📣 Subscribe kênh 2 NGÀY 1 ĐÊM VIETNAM để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/2N1DVietnam\n\n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK\n\n\n\n👉 Theo dõi các kênh chính thức của 2 Ngày 1 Đêm Vietnam:\n► YouTube:    / @2ngay1dem  \n► Fanpage:   / 2ngay1demvietnam.dongtay  \n► Instagram:   / 2days1nightvietnamofficial  \n► TikTok:   / 2ngay1demvietnam  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+          "text": "   • 🌈 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 2 | Phiên bả...  "
+        },
+        {
+          "url": "https://VieNETWORK.bfan.link/2N1D",
+          "text": "https://VieNETWORK.bfan.link/2N1D"
+        },
+        {
+          "url": "https://vieshop.vn/",
+          "text": "https://vieshop.vn/"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ngay1dem",
+          "text": "#2Ngay1Dem"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ng%C3%A0y1%C4%91%C3%AAm",
+          "text": "#2Ngày1Đêm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/m%C3%B9a2",
+          "text": "#Mùa2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ng%C3%A0y1%C4%91%C3%AAmm%C3%B9a2",
+          "text": "#2Ngày1ĐêmMùa2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ngay1demmua2",
+          "text": "#2Ngay1DemMua2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/t%E1%BA%ADp40",
+          "text": "#Tập40"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dongtaypromotion",
+          "text": "#DongTayPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tr%C6%B0%E1%BB%9Dnggiang",
+          "text": "#TrườngGiang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ki%E1%BB%81uminhtu%E1%BA%A5n",
+          "text": "#KiềuMinhTuấn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%AAd%C6%B0%C6%A1ngb%E1%BA%A3ol%C3%A2m",
+          "text": "#LêDươngBảoLâm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ng%C3%B4ki%E1%BA%BFnhuy",
+          "text": "#NgôKiếnHuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/crisphan",
+          "text": "#CrisPhan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hieuthuhai",
+          "text": "#HIEUTHUHAI"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%A2mv%E1%BB%B9d%E1%BA%A1",
+          "text": "#LâmVỹDạ"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/puka",
+          "text": "#Puka"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/namth%C6%B0",
+          "text": "#NamThư"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/minht%C3%BA",
+          "text": "#MinhTú"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ng%E1%BB%8Dcph%C6%B0%E1%BB%9Bc",
+          "text": "#NgọcPhước"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/khaly",
+          "text": "#KhaLy"
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "‪@dongtaypromotionofficial‬"
+        },
+        {
+          "url": "https://www.youtube.com/@2NGAY1DEM",
+          "text": "‪@2NGAY1DEM‬"
+        },
+        {
+          "url": "https://bit.ly/2N1DVietnam",
+          "text": "https://bit.ly/2N1DVietnam"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w",
+          "text": "   / @2ngay1dem  "
+        },
+        {
+          "url": "https://www.facebook.com/2Ngay1DemVietNam.DongTay",
+          "text": "  / 2ngay1demvietnam.dongtay  "
+        },
+        {
+          "url": "https://www.instagram.com/2days1nightvietnamofficial/",
+          "text": "  / 2days1nightvietnamofficial  "
+        },
+        {
+          "url": "https://www.tiktok.com/@2ngay1demvietnam",
+          "text": "  / 2ngay1demvietnam  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 10,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isPaidContent": false
+    },
+    {
+      "title": "2 Ngày 1 Đêm - Mùa 2 | Tập 33: Mỹ Tâm xuất hiện - Ngô Kiến Huy và dàn 'fanboy' đứng ngồi không yên",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "BS3hs8aS1B0",
+      "url": "https://www.youtube.com/watch?v=BS3hs8aS1B0&list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ&index=18",
+      "thumbnailUrl": "https://i.ytimg.com/vi/BS3hs8aS1B0/maxresdefault.jpg",
+      "viewCount": 15490199,
+      "date": "2023-10-08T13:40:12.000Z",
+      "likes": 153000,
+      "location": null,
+      "channelName": "2 NGÀY 1 ĐÊM VIETNAM",
+      "channelUrl": "https://www.youtube.com/@2NGAY1DEM",
+      "channelUsername": "2NGAY1DEM",
+      "collaborators": null,
+      "channelId": "UChGncdgzOKmp5XQTnQa2h4w",
+      "numberOfSubscribers": 1650000,
+      "duration": "01:26:27",
+      "commentsCount": 10415,
+      "text": "2 Ngày 1 Đêm - Mùa 2 | Tập 33: Mỹ Tâm xuất hiện - Ngô Kiến Huy và dàn 'fanboy' đứng ngồi không yên\n\nCuối cùng thì mong ước của 6 anh em cũng thành hiện thực rồi nè. Chị đẹp Mỹ Tâm đã xuất hiện tại 2 Ngày 1 Đêm 😍. Để xem chị đẹp \"hoà tan\" vào dàn cast thế nào nhé!\n\nXem TRỌN BỘ 2 Ngày 1 Đêm Mùa 2 ➡️ https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ\n\n🎧 Nghe Theme song 2 Ngày 1 Đêm  👉 https://VieNETWORK.bfan.link/2N1D\n\n💕Sở hữu các sản phẩm Merchandise 2 Ngày 1 Đêm tại https://vieshop.vn/\n\n#2Ngay1Dem #2Ngày1Đêm #Mùa2 #2Ngày1ĐêmMùa2 #2Ngay1DemMua2 #Tập33 #DongTayPromotion #tuongotCHINSU\n#TrườngGiang #KiềuMinhTuấn #LêDươngBảoLâm #NgôKiếnHuy #CrisPhan #HIEUTHUHAI #MỹTâm\n\n🏕 Chuyến đi 2 Ngày 1 Đêm bắt đầu từ cuộc gặp gỡ của những người đàn ông từ những hoàn cảnh, những cá tính khác nhau nhưng để hết tất cả sau lưng vào tham gia một cuộc hành trình khám phá mọi miền đất nước và khám phá bản thân. Trở lại với phiên bản Mùa 2 với 3 tính chất được thăng hạng 2X (Bất Ngờ - Khổ Đau - Tiếng cười) hứa hẹn những tình huống dở khóc dở cười đến khán giả.  \n\n⏰Đón xem 2 NGÀY 1 ĐÊM - MÙA 2 vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh​⁠@dongtaypromotionofficial và ​⁠@2NGAY1DEM \n  \n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK\n\n\n\n👉 Theo dõi các kênh chính thức của 2 Ngày 1 Đêm Vietnam:\n► YouTube: https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w\n► Fanpage: https://www.facebook.com/2Ngay1DemVietNam.DongTay\n► Instagram: https://www.instagram.com/2days1nightvietnamofficial/\n► TikTok: https://www.tiktok.com/@2ngay1demvietnamh",
+      "translatedText": "2 Ngày 1 Đêm - Mùa 2 | Tập 33: Mỹ Tâm xuất hiện - Ngô Kiến Huy và dàn 'fanboy' đứng ngồi không yên\n\nCuối cùng thì mong ước của 6 anh em cũng thành hiện thực rồi nè. Chị đẹp Mỹ Tâm đã xuất hiện tại 2 Ngày 1 Đêm 😍. Để xem chị đẹp \"hoà tan\" vào dàn cast thế nào nhé!\n\nXem TRỌN BỘ 2 Ngày 1 Đêm Mùa 2 ➡️    • 🌈 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 2 | Phiên bả...  \n\n🎧 Nghe Theme song 2 Ngày 1 Đêm  👉 https://VieNETWORK.bfan.link/2N1D\n\n💕Sở hữu các sản phẩm Merchandise 2 Ngày 1 Đêm tại https://vieshop.vn/\n\n#2Ngay1Dem #2Ngày1Đêm #Mùa2 #2Ngày1ĐêmMùa2 #2Ngay1DemMua2 #Tập33 #DongTayPromotion #tuongotCHINSU\n#TrườngGiang #KiềuMinhTuấn #LêDươngBảoLâm #NgôKiếnHuy #CrisPhan #HIEUTHUHAI #MỹTâm\n\n🏕 Chuyến đi 2 Ngày 1 Đêm bắt đầu từ cuộc gặp gỡ của những người đàn ông từ những hoàn cảnh, những cá tính khác nhau nhưng để hết tất cả sau lưng vào tham gia một cuộc hành trình khám phá mọi miền đất nước và khám phá bản thân. Trở lại với phiên bản Mùa 2 với 3 tính chất được thăng hạng 2X (Bất Ngờ - Khổ Đau - Tiếng cười) hứa hẹn những tình huống dở khóc dở cười đến khán giả.  \n\n⏰Đón xem 2 NGÀY 1 ĐÊM - MÙA 2 vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh​⁠‪@dongtaypromotionofficial‬ và ​⁠‪@2NGAY1DEM‬ \n  \n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK\n\n\n\n👉 Theo dõi các kênh chính thức của 2 Ngày 1 Đêm Vietnam:\n► YouTube:    / @2ngay1dem  \n► Fanpage:   / 2ngay1demvietnam.dongtay  \n► Instagram:   / 2days1nightvietnamofficial  \n► TikTok:   / 2ngay1demvietnamh  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+          "text": "   • 🌈 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 2 | Phiên bả...  "
+        },
+        {
+          "url": "https://VieNETWORK.bfan.link/2N1D",
+          "text": "https://VieNETWORK.bfan.link/2N1D"
+        },
+        {
+          "url": "https://vieshop.vn/",
+          "text": "https://vieshop.vn/"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ngay1dem",
+          "text": "#2Ngay1Dem"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ng%C3%A0y1%C4%91%C3%AAm",
+          "text": "#2Ngày1Đêm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/m%C3%B9a2",
+          "text": "#Mùa2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ng%C3%A0y1%C4%91%C3%AAmm%C3%B9a2",
+          "text": "#2Ngày1ĐêmMùa2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ngay1demmua2",
+          "text": "#2Ngay1DemMua2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/t%E1%BA%ADp33",
+          "text": "#Tập33"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dongtaypromotion",
+          "text": "#DongTayPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tuongotchinsu",
+          "text": "#tuongotCHINSU"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tr%C6%B0%E1%BB%9Dnggiang",
+          "text": "#TrườngGiang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ki%E1%BB%81uminhtu%E1%BA%A5n",
+          "text": "#KiềuMinhTuấn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%AAd%C6%B0%C6%A1ngb%E1%BA%A3ol%C3%A2m",
+          "text": "#LêDươngBảoLâm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ng%C3%B4ki%E1%BA%BFnhuy",
+          "text": "#NgôKiếnHuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/crisphan",
+          "text": "#CrisPhan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hieuthuhai",
+          "text": "#HIEUTHUHAI"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/m%E1%BB%B9t%C3%A2m",
+          "text": "#MỹTâm"
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "‪@dongtaypromotionofficial‬"
+        },
+        {
+          "url": "https://www.youtube.com/@2NGAY1DEM",
+          "text": "‪@2NGAY1DEM‬"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w",
+          "text": "   / @2ngay1dem  "
+        },
+        {
+          "url": "https://www.facebook.com/2Ngay1DemVietNam.DongTay",
+          "text": "  / 2ngay1demvietnam.dongtay  "
+        },
+        {
+          "url": "https://www.instagram.com/2days1nightvietnamofficial/",
+          "text": "  / 2days1nightvietnamofficial  "
+        },
+        {
+          "url": "https://www.tiktok.com/@2ngay1demvietnamh",
+          "text": "  / 2ngay1demvietnamh  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 17,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isPaidContent": false
+    },
+    {
+      "title": "2 Ngày 1 Đêm-Mùa 2| Tập 49: Trường Giang-Dương Lâm so chuẩn ‘ông Địa’, Ngô Kiến Huy suýt hóa băng đá",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "eWMJrhtoMdQ",
+      "url": "https://www.youtube.com/watch?v=eWMJrhtoMdQ&list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ&index=2",
+      "thumbnailUrl": "https://i.ytimg.com/vi/eWMJrhtoMdQ/maxresdefault.jpg",
+      "viewCount": 13097426,
+      "date": "2024-01-28T13:40:11.000Z",
+      "likes": 81000,
+      "location": null,
+      "channelName": "2 NGÀY 1 ĐÊM VIETNAM",
+      "channelUrl": "https://www.youtube.com/@2NGAY1DEM",
+      "channelUsername": "2NGAY1DEM",
+      "collaborators": null,
+      "channelId": "UChGncdgzOKmp5XQTnQa2h4w",
+      "numberOfSubscribers": 1650000,
+      "duration": "02:13:37",
+      "commentsCount": 3844,
+      "text": "2 Ngày 1 Đêm - Mùa 2 | Tập 49:  Trường Giang-Dương Lâm so chuẩn ‘ông Địa’, Ngô Kiến Huy suýt hóa băng đá\n\n6 anh em 2 Ngày 1 Đêm sẽ có những trải nghiệm thú vị \"lần đầu tiên\" tại thành phố mang tên Bác. Cùng đón xem đó những thử thách nào nhé!\n\nXem TRỌN BỘ 2 Ngày 1 Đêm Mùa 2 ➡️ https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ\n\n🎧 Nghe Theme song 2 Ngày 1 Đêm  👉 https://VieNETWORK.bfan.link/2N1D\n\n💕Sở hữu các sản phẩm Merchandise 2 Ngày 1 Đêm tại https://vieshop.vn/\n\n#2Ngay1Dem #2Ngày1Đêm #Mùa2 #2Ngày1ĐêmMùa2 #2Ngay1DemMua2 #Tập49\n#TrườngGiang #KiềuMinhTuấn #LêDươngBảoLâm #NgôKiếnHuy #HIEUTHUHAI #CrisPhan \n\n🏕 Chuyến đi 2 Ngày 1 Đêm bắt đầu từ cuộc gặp gỡ của những người đàn ông từ những hoàn cảnh, những cá tính khác nhau nhưng để hết tất cả sau lưng vào tham gia một cuộc hành trình khám phá mọi miền đất nước và khám phá bản thân. Trở lại với phiên bản Mùa 2 với 3 tính chất được thăng hạng 2X (Bất Ngờ - Khổ Đau - Tiếng cười) hứa hẹn những tình huống dở khóc dở cười đến khán giả.\n\n⏰Đón xem 2 NGÀY 1 ĐÊM - MÙA 2 vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh @dongtaypromotionofficial  và kênh @2NGAY1DEM \n  \n📣 Subscribe kênh 2 NGÀY 1 ĐÊM VIETNAM để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/2N1DVietnam\n\n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK\n\n\n\n👉 Theo dõi các kênh chính thức của 2 Ngày 1 Đêm Vietnam:\n► YouTube: https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w\n► Fanpage: https://www.facebook.com/2Ngay1DemVietNam.DongTay\n► Instagram: https://www.instagram.com/2days1nightvietnamofficial/\n► TikTok: https://www.tiktok.com/@2ngay1demvietnam",
+      "translatedText": "2 Ngày 1 Đêm - Mùa 2 | Tập 49:  Trường Giang-Dương Lâm so chuẩn ‘ông Địa’, Ngô Kiến Huy suýt hóa băng đá\n\n6 anh em 2 Ngày 1 Đêm sẽ có những trải nghiệm thú vị \"lần đầu tiên\" tại thành phố mang tên Bác. Cùng đón xem đó những thử thách nào nhé!\n\nXem TRỌN BỘ 2 Ngày 1 Đêm Mùa 2 ➡️    • 🌈 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 2 | Phiên bả...  \n\n🎧 Nghe Theme song 2 Ngày 1 Đêm  👉 https://VieNETWORK.bfan.link/2N1D\n\n💕Sở hữu các sản phẩm Merchandise 2 Ngày 1 Đêm tại https://vieshop.vn/\n\n#2Ngay1Dem #2Ngày1Đêm #Mùa2 #2Ngày1ĐêmMùa2 #2Ngay1DemMua2 #Tập49\n#TrườngGiang #KiềuMinhTuấn #LêDươngBảoLâm #NgôKiếnHuy #HIEUTHUHAI #CrisPhan \n\n🏕 Chuyến đi 2 Ngày 1 Đêm bắt đầu từ cuộc gặp gỡ của những người đàn ông từ những hoàn cảnh, những cá tính khác nhau nhưng để hết tất cả sau lưng vào tham gia một cuộc hành trình khám phá mọi miền đất nước và khám phá bản thân. Trở lại với phiên bản Mùa 2 với 3 tính chất được thăng hạng 2X (Bất Ngờ - Khổ Đau - Tiếng cười) hứa hẹn những tình huống dở khóc dở cười đến khán giả.\n\n⏰Đón xem 2 NGÀY 1 ĐÊM - MÙA 2 vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh ‪@dongtaypromotionofficial‬  và kênh ‪@2NGAY1DEM‬ \n  \n📣 Subscribe kênh 2 NGÀY 1 ĐÊM VIETNAM để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/2N1DVietnam\n\n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK\n\n\n\n👉 Theo dõi các kênh chính thức của 2 Ngày 1 Đêm Vietnam:\n► YouTube:    / @2ngay1dem  \n► Fanpage:   / 2ngay1demvietnam.dongtay  \n► Instagram:   / 2days1nightvietnamofficial  \n► TikTok:   / 2ngay1demvietnam  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+          "text": "   • 🌈 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 2 | Phiên bả...  "
+        },
+        {
+          "url": "https://VieNETWORK.bfan.link/2N1D",
+          "text": "https://VieNETWORK.bfan.link/2N1D"
+        },
+        {
+          "url": "https://vieshop.vn/",
+          "text": "https://vieshop.vn/"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ngay1dem",
+          "text": "#2Ngay1Dem"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ng%C3%A0y1%C4%91%C3%AAm",
+          "text": "#2Ngày1Đêm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/m%C3%B9a2",
+          "text": "#Mùa2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ng%C3%A0y1%C4%91%C3%AAmm%C3%B9a2",
+          "text": "#2Ngày1ĐêmMùa2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ngay1demmua2",
+          "text": "#2Ngay1DemMua2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/t%E1%BA%ADp49",
+          "text": "#Tập49"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tr%C6%B0%E1%BB%9Dnggiang",
+          "text": "#TrườngGiang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ki%E1%BB%81uminhtu%E1%BA%A5n",
+          "text": "#KiềuMinhTuấn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%AAd%C6%B0%C6%A1ngb%E1%BA%A3ol%C3%A2m",
+          "text": "#LêDươngBảoLâm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ng%C3%B4ki%E1%BA%BFnhuy",
+          "text": "#NgôKiếnHuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hieuthuhai",
+          "text": "#HIEUTHUHAI"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/crisphan",
+          "text": "#CrisPhan"
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "‪@dongtaypromotionofficial‬"
+        },
+        {
+          "url": "https://www.youtube.com/@2NGAY1DEM",
+          "text": "‪@2NGAY1DEM‬"
+        },
+        {
+          "url": "https://bit.ly/2N1DVietnam",
+          "text": "https://bit.ly/2N1DVietnam"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w",
+          "text": "   / @2ngay1dem  "
+        },
+        {
+          "url": "https://www.facebook.com/2Ngay1DemVietNam.DongTay",
+          "text": "  / 2ngay1demvietnam.dongtay  "
+        },
+        {
+          "url": "https://www.instagram.com/2days1nightvietnamofficial/",
+          "text": "  / 2days1nightvietnamofficial  "
+        },
+        {
+          "url": "https://www.tiktok.com/@2ngay1demvietnam",
+          "text": "  / 2ngay1demvietnam  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 1,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isPaidContent": false
+    },
+    {
+      "title": "2 Ngày 1 Đêm - Mùa 2|Tập 34: Dương Lâm-Cris Phan trừng mắt hù doạ anh em, HIEUTHUHAI ra oai sức mạnh",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "TfG9UihtD4I",
+      "url": "https://www.youtube.com/watch?v=TfG9UihtD4I&list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ&index=17",
+      "thumbnailUrl": "https://i.ytimg.com/vi/TfG9UihtD4I/maxresdefault.jpg",
+      "viewCount": 13962797,
+      "date": "2023-10-15T13:40:12.000Z",
+      "likes": 101000,
+      "location": null,
+      "channelName": "2 NGÀY 1 ĐÊM VIETNAM",
+      "channelUrl": "https://www.youtube.com/@2NGAY1DEM",
+      "channelUsername": "2NGAY1DEM",
+      "collaborators": null,
+      "channelId": "UChGncdgzOKmp5XQTnQa2h4w",
+      "numberOfSubscribers": 1650000,
+      "duration": "01:51:45",
+      "commentsCount": 4940,
+      "text": "2 Ngày 1 Đêm - Mùa 2 | Tập 34: Dương Lâm-Cris Phan trừng mắt hù doạ anh em, HIEUTHUHAI ra oai sức mạnh\n\nBiệt đội 2 Ngày 1 Đêm đã có mặt tại Nghệ An cùng 2 khách mời đặc biệt. Cùng chờ xem những màn tranh đấu thể lực \"cực căng\" nhưng không kém phần giải trí giữa các team nhé! \n\nXem TRỌN BỘ 2 Ngày 1 Đêm Mùa 2 ➡️ https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ\n\n🎧 Nghe Theme song 2 Ngày 1 Đêm  👉 https://VieNETWORK.bfan.link/2N1D\n\n💕Sở hữu các sản phẩm Merchandise 2 Ngày 1 Đêm tại https://vieshop.vn/\n\n#2Ngay1Dem #2Ngày1Đêm #Mùa2 #2Ngày1ĐêmMùa2 #2Ngay1DemMua2 #Tập34 #DongTayPromotion #TrườngGiang #KiềuMinhTuấn #LêDươngBảoLâm #NgôKiếnHuy #CrisPhan #HIEUTHUHAI #HuyKhánh #ĐứcThịnh\n\n🏕 Chuyến đi 2 Ngày 1 Đêm bắt đầu từ cuộc gặp gỡ của những người đàn ông từ những hoàn cảnh, những cá tính khác nhau nhưng để hết tất cả sau lưng vào tham gia một cuộc hành trình khám phá mọi miền đất nước và khám phá bản thân. Trở lại với phiên bản Mùa 2 với 3 tính chất được thăng hạng 2X (Bất Ngờ - Khổ Đau - Tiếng cười) hứa hẹn những tình huống dở khóc dở cười đến khán giả.  \n\n⏰Đón xem 2 NGÀY 1 ĐÊM - MÙA 2 vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  @dongtaypromotionofficial và  @2NGAY1DEM        \n  \n📣 Subscribe kênh 2 NGÀY 1 ĐÊM VIETNAM để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/2N1DVietnam\n\n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK\n\n\n\n👉 Theo dõi các kênh chính thức của 2 Ngày 1 Đêm Vietnam:\n► YouTube: https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w\n► Fanpage: https://www.facebook.com/2Ngay1DemVietNam.DongTay\n► Instagram: https://www.instagram.com/2days1nightvietnamofficial/\n► TikTok: https://www.tiktok.com/@2ngay1demvietnam",
+      "translatedText": "2 Ngày 1 Đêm - Mùa 2 | Tập 34: Dương Lâm-Cris Phan trừng mắt hù doạ anh em, HIEUTHUHAI ra oai sức mạnh\n\nBiệt đội 2 Ngày 1 Đêm đã có mặt tại Nghệ An cùng 2 khách mời đặc biệt. Cùng chờ xem những màn tranh đấu thể lực \"cực căng\" nhưng không kém phần giải trí giữa các team nhé! \n\nXem TRỌN BỘ 2 Ngày 1 Đêm Mùa 2 ➡️    • 🌈 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 2 | Phiên bả...  \n\n🎧 Nghe Theme song 2 Ngày 1 Đêm  👉 https://VieNETWORK.bfan.link/2N1D\n\n💕Sở hữu các sản phẩm Merchandise 2 Ngày 1 Đêm tại https://vieshop.vn/\n\n#2Ngay1Dem #2Ngày1Đêm #Mùa2 #2Ngày1ĐêmMùa2 #2Ngay1DemMua2 #Tập34 #DongTayPromotion #TrườngGiang #KiềuMinhTuấn #LêDươngBảoLâm #NgôKiếnHuy #CrisPhan #HIEUTHUHAI #HuyKhánh #ĐứcThịnh\n\n🏕 Chuyến đi 2 Ngày 1 Đêm bắt đầu từ cuộc gặp gỡ của những người đàn ông từ những hoàn cảnh, những cá tính khác nhau nhưng để hết tất cả sau lưng vào tham gia một cuộc hành trình khám phá mọi miền đất nước và khám phá bản thân. Trở lại với phiên bản Mùa 2 với 3 tính chất được thăng hạng 2X (Bất Ngờ - Khổ Đau - Tiếng cười) hứa hẹn những tình huống dở khóc dở cười đến khán giả.  \n\n⏰Đón xem 2 NGÀY 1 ĐÊM - MÙA 2 vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  ‪@dongtaypromotionofficial‬ và  ‪@2NGAY1DEM‬        \n  \n📣 Subscribe kênh 2 NGÀY 1 ĐÊM VIETNAM để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/2N1DVietnam\n\n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK\n\n\n\n👉 Theo dõi các kênh chính thức của 2 Ngày 1 Đêm Vietnam:\n► YouTube:    / @2ngay1dem  \n► Fanpage:   / 2ngay1demvietnam.dongtay  \n► Instagram:   / 2days1nightvietnamofficial  \n► TikTok:   / 2ngay1demvietnam  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+          "text": "   • 🌈 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 2 | Phiên bả...  "
+        },
+        {
+          "url": "https://VieNETWORK.bfan.link/2N1D",
+          "text": "https://VieNETWORK.bfan.link/2N1D"
+        },
+        {
+          "url": "https://vieshop.vn/",
+          "text": "https://vieshop.vn/"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ngay1dem",
+          "text": "#2Ngay1Dem"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ng%C3%A0y1%C4%91%C3%AAm",
+          "text": "#2Ngày1Đêm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/m%C3%B9a2",
+          "text": "#Mùa2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ng%C3%A0y1%C4%91%C3%AAmm%C3%B9a2",
+          "text": "#2Ngày1ĐêmMùa2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ngay1demmua2",
+          "text": "#2Ngay1DemMua2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/t%E1%BA%ADp34",
+          "text": "#Tập34"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dongtaypromotion",
+          "text": "#DongTayPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tr%C6%B0%E1%BB%9Dnggiang",
+          "text": "#TrườngGiang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ki%E1%BB%81uminhtu%E1%BA%A5n",
+          "text": "#KiềuMinhTuấn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%AAd%C6%B0%C6%A1ngb%E1%BA%A3ol%C3%A2m",
+          "text": "#LêDươngBảoLâm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ng%C3%B4ki%E1%BA%BFnhuy",
+          "text": "#NgôKiếnHuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/crisphan",
+          "text": "#CrisPhan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hieuthuhai",
+          "text": "#HIEUTHUHAI"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huykh%C3%A1nh",
+          "text": "#HuyKhánh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/%C4%91%E1%BB%A9cth%E1%BB%8Bnh",
+          "text": "#ĐứcThịnh"
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "‪@dongtaypromotionofficial‬"
+        },
+        {
+          "url": "https://www.youtube.com/@2NGAY1DEM",
+          "text": "‪@2NGAY1DEM‬"
+        },
+        {
+          "url": "https://bit.ly/2N1DVietnam",
+          "text": "https://bit.ly/2N1DVietnam"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w",
+          "text": "   / @2ngay1dem  "
+        },
+        {
+          "url": "https://www.facebook.com/2Ngay1DemVietNam.DongTay",
+          "text": "  / 2ngay1demvietnam.dongtay  "
+        },
+        {
+          "url": "https://www.instagram.com/2days1nightvietnamofficial/",
+          "text": "  / 2days1nightvietnamofficial  "
+        },
+        {
+          "url": "https://www.tiktok.com/@2ngay1demvietnam",
+          "text": "  / 2ngay1demvietnam  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 16,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isMonetized": null,
+      "hashtags": [
+        "#Mùa2",
+        "#2Ngay1Dem",
+        "#2Ngày1Đêm"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isPaidContent": false
+    },
+    {
+      "title": "2 Ngày 1 Đêm-Mùa 2|Tập 50: Ngô Kiến Huy nhận chứng chỉ “thiên tai”, Cris vỡ oà với bữa cơm đoàn viên",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "EqvPUqcMXIc",
+      "url": "https://www.youtube.com/watch?v=EqvPUqcMXIc&list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ&index=1",
+      "thumbnailUrl": "https://i.ytimg.com/vi/EqvPUqcMXIc/maxresdefault.jpg",
+      "viewCount": 11063800,
+      "date": "2024-02-04T13:40:11.000Z",
+      "likes": 94000,
+      "location": null,
+      "channelName": "2 NGÀY 1 ĐÊM VIETNAM",
+      "channelUrl": "https://www.youtube.com/@2NGAY1DEM",
+      "channelUsername": "2NGAY1DEM",
+      "collaborators": null,
+      "channelId": "UChGncdgzOKmp5XQTnQa2h4w",
+      "numberOfSubscribers": 1650000,
+      "duration": "01:49:21",
+      "commentsCount": 4175,
+      "text": "2 Ngày 1 Đêm - Mùa 2 | Tập 50: Ngô Kiến Huy nhận chứng chỉ “thiên tai”, Cris vỡ oà với bữa cơm đoàn viên\n\nVậy là hành trình 2 Ngày 1 Đêm Mùa 2 của 6 anh em đã khép lại với những kỷ niệm khó quên, đặc biệt là sự ủng hộ nồng nhiệt của khán giả. Mong một năm mới an lành cho tất cả những khán giả thân yêu và hẹn gặp lại ở mùa 3 nhé!\n\nXem TRỌN BỘ 2 Ngày 1 Đêm Mùa 2 ➡️ https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ\n\n🎧 Nghe Theme song 2 Ngày 1 Đêm  👉 https://VieNETWORK.bfan.link/2N1D\n\n💕Sở hữu các sản phẩm Merchandise 2 Ngày 1 Đêm tại https://vieshop.vn/\n\n#2Ngay1Dem #2Ngày1Đêm #Mùa2 #2Ngày1ĐêmMùa2 #2Ngay1DemMua2 #Tập50\n#TrườngGiang #KiềuMinhTuấn #LêDươngBảoLâm #NgôKiếnHuy #HIEUTHUHAI #CrisPhan \n\n🏕 Chuyến đi 2 Ngày 1 Đêm bắt đầu từ cuộc gặp gỡ của những người đàn ông từ những hoàn cảnh, những cá tính khác nhau nhưng để hết tất cả sau lưng vào tham gia một cuộc hành trình khám phá mọi miền đất nước và khám phá bản thân. Trở lại với phiên bản Mùa 2 với 3 tính chất được thăng hạng 2X (Bất Ngờ - Khổ Đau - Tiếng cười) hứa hẹn những tình huống dở khóc dở cười đến khán giả. \n\n⏰Đón xem 2 NGÀY 1 ĐÊM - MÙA 2 vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  @dongtaypromotionofficial  và  @2NGAY1DEM        \n  \n📣 Subscribe kênh 2 NGÀY 1 ĐÊM VIETNAM để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/2N1DVietnam\n\n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK\n\n\n\n👉 Theo dõi các kênh chính thức của 2 Ngày 1 Đêm Vietnam:\n► YouTube: https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w\n► Fanpage: https://www.facebook.com/2Ngay1DemVietNam.DongTay\n► Instagram: https://www.instagram.com/2days1nightvietnamofficial/\n► TikTok: https://www.tiktok.com/@2ngay1demvietnam",
+      "translatedText": "2 Ngày 1 Đêm - Mùa 2 | Tập 50: Ngô Kiến Huy nhận chứng chỉ “thiên tai”, Cris vỡ oà với bữa cơm đoàn viên\n\nVậy là hành trình 2 Ngày 1 Đêm Mùa 2 của 6 anh em đã khép lại với những kỷ niệm khó quên, đặc biệt là sự ủng hộ nồng nhiệt của khán giả. Mong một năm mới an lành cho tất cả những khán giả thân yêu và hẹn gặp lại ở mùa 3 nhé!\n\nXem TRỌN BỘ 2 Ngày 1 Đêm Mùa 2 ➡️    • 🌈 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 2 | Phiên bả...  \n\n🎧 Nghe Theme song 2 Ngày 1 Đêm  👉 https://VieNETWORK.bfan.link/2N1D\n\n💕Sở hữu các sản phẩm Merchandise 2 Ngày 1 Đêm tại https://vieshop.vn/\n\n#2Ngay1Dem #2Ngày1Đêm #Mùa2 #2Ngày1ĐêmMùa2 #2Ngay1DemMua2 #Tập50\n#TrườngGiang #KiềuMinhTuấn #LêDươngBảoLâm #NgôKiếnHuy #HIEUTHUHAI #CrisPhan \n\n🏕 Chuyến đi 2 Ngày 1 Đêm bắt đầu từ cuộc gặp gỡ của những người đàn ông từ những hoàn cảnh, những cá tính khác nhau nhưng để hết tất cả sau lưng vào tham gia một cuộc hành trình khám phá mọi miền đất nước và khám phá bản thân. Trở lại với phiên bản Mùa 2 với 3 tính chất được thăng hạng 2X (Bất Ngờ - Khổ Đau - Tiếng cười) hứa hẹn những tình huống dở khóc dở cười đến khán giả. \n\n⏰Đón xem 2 NGÀY 1 ĐÊM - MÙA 2 vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  ‪@dongtaypromotionofficial‬  và  ‪@2NGAY1DEM‬        \n  \n📣 Subscribe kênh 2 NGÀY 1 ĐÊM VIETNAM để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/2N1DVietnam\n\n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK\n\n\n\n👉 Theo dõi các kênh chính thức của 2 Ngày 1 Đêm Vietnam:\n► YouTube:    / @2ngay1dem  \n► Fanpage:   / 2ngay1demvietnam.dongtay  \n► Instagram:   / 2days1nightvietnamofficial  \n► TikTok:   / 2ngay1demvietnam  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+          "text": "   • 🌈 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 2 | Phiên bả...  "
+        },
+        {
+          "url": "https://VieNETWORK.bfan.link/2N1D",
+          "text": "https://VieNETWORK.bfan.link/2N1D"
+        },
+        {
+          "url": "https://vieshop.vn/",
+          "text": "https://vieshop.vn/"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ngay1dem",
+          "text": "#2Ngay1Dem"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ng%C3%A0y1%C4%91%C3%AAm",
+          "text": "#2Ngày1Đêm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/m%C3%B9a2",
+          "text": "#Mùa2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ng%C3%A0y1%C4%91%C3%AAmm%C3%B9a2",
+          "text": "#2Ngày1ĐêmMùa2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ngay1demmua2",
+          "text": "#2Ngay1DemMua2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/t%E1%BA%ADp50",
+          "text": "#Tập50"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tr%C6%B0%E1%BB%9Dnggiang",
+          "text": "#TrườngGiang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ki%E1%BB%81uminhtu%E1%BA%A5n",
+          "text": "#KiềuMinhTuấn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%AAd%C6%B0%C6%A1ngb%E1%BA%A3ol%C3%A2m",
+          "text": "#LêDươngBảoLâm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ng%C3%B4ki%E1%BA%BFnhuy",
+          "text": "#NgôKiếnHuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hieuthuhai",
+          "text": "#HIEUTHUHAI"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/crisphan",
+          "text": "#CrisPhan"
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "‪@dongtaypromotionofficial‬"
+        },
+        {
+          "url": "https://www.youtube.com/@2NGAY1DEM",
+          "text": "‪@2NGAY1DEM‬"
+        },
+        {
+          "url": "https://bit.ly/2N1DVietnam",
+          "text": "https://bit.ly/2N1DVietnam"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w",
+          "text": "   / @2ngay1dem  "
+        },
+        {
+          "url": "https://www.facebook.com/2Ngay1DemVietNam.DongTay",
+          "text": "  / 2ngay1demvietnam.dongtay  "
+        },
+        {
+          "url": "https://www.instagram.com/2days1nightvietnamofficial/",
+          "text": "  / 2days1nightvietnamofficial  "
+        },
+        {
+          "url": "https://www.tiktok.com/@2ngay1demvietnam",
+          "text": "  / 2ngay1demvietnam  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 0,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isPaidContent": false
+    },
+    {
+      "title": "2 Ngày 1 Đêm - Mùa 2 |Tập 35: HIEUTHUHAI \"báo\" Trường Giang, Dương Lâm \"tét mông\" với Kiều Minh Tuấn",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "gTGn3RzPAzg",
+      "url": "https://www.youtube.com/watch?v=gTGn3RzPAzg&list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ&index=16",
+      "thumbnailUrl": "https://i.ytimg.com/vi/gTGn3RzPAzg/maxresdefault.jpg",
+      "viewCount": 13305416,
+      "date": "2023-10-22T13:40:12.000Z",
+      "likes": 99000,
+      "location": null,
+      "channelName": "2 NGÀY 1 ĐÊM VIETNAM",
+      "channelUrl": "https://www.youtube.com/@2NGAY1DEM",
+      "channelUsername": "2NGAY1DEM",
+      "collaborators": null,
+      "channelId": "UChGncdgzOKmp5XQTnQa2h4w",
+      "numberOfSubscribers": 1650000,
+      "duration": "01:47:27",
+      "commentsCount": 6049,
+      "text": "2 Ngày 1 Đêm - Mùa 2 | Tập 35: HIEUTHUHAI \"báo\" Trường Giang, Dương Lâm \"tét mông\" với Kiều Minh Tuấn\n\nTuần này hứa hẹn cười banh nóc với những game siêu lầy lội nha. Hai khách mời Đức Thịnh và Huy Khánh phải trải qua \"kiếp nạn\" gì nữa đây?\n\nXem TRỌN BỘ 2 Ngày 1 Đêm Mùa 2 ➡️ https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ\n\n🎧 Nghe Theme song 2 Ngày 1 Đêm  👉 https://VieNETWORK.bfan.link/2N1D\n\n💕Sở hữu các sản phẩm Merchandise 2 Ngày 1 Đêm tại https://vieshop.vn/\n\n#2Ngay1Dem #2Ngày1Đêm #Mùa2 #2Ngày1ĐêmMùa2 #2Ngay1DemMua2 #Tập35 #DongTayPromotion #TrườngGiang #KiềuMinhTuấn #LêDươngBảoLâm #NgôKiếnHuy #CrisPhan #HIEUTHUHAI #HuyKhánh #ĐứcThịnh\n\n🏕 Chuyến đi 2 Ngày 1 Đêm bắt đầu từ cuộc gặp gỡ của những người đàn ông từ những hoàn cảnh, những cá tính khác nhau nhưng để hết tất cả sau lưng vào tham gia một cuộc hành trình khám phá mọi miền đất nước và khám phá bản thân. Trở lại với phiên bản Mùa 2 với 3 tính chất được thăng hạng 2X (Bất Ngờ - Khổ Đau - Tiếng cười) hứa hẹn những tình huống dở khóc dở cười đến khán giả.  \n\n⏰Đón xem 2 NGÀY 1 ĐÊM - MÙA 2 vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  @dongtaypromotionofficial và  @2NGAY1DEM        \n  \n📣 Subscribe kênh 2 NGÀY 1 ĐÊM VIETNAM để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/2N1DVietnam\n\n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK\n\n\n\n👉 Theo dõi các kênh chính thức của 2 Ngày 1 Đêm Vietnam:\n► YouTube: https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w\n► Fanpage: https://www.facebook.com/2Ngay1DemVietNam.DongTay\n► Instagram: https://www.instagram.com/2days1nightvietnamofficial/\n► TikTok: https://www.tiktok.com/@2ngay1demvietnam",
+      "translatedText": "2 Ngày 1 Đêm - Mùa 2 | Tập 35: HIEUTHUHAI \"báo\" Trường Giang, Dương Lâm \"tét mông\" với Kiều Minh Tuấn\n\nTuần này hứa hẹn cười banh nóc với những game siêu lầy lội nha. Hai khách mời Đức Thịnh và Huy Khánh phải trải qua \"kiếp nạn\" gì nữa đây?\n\nXem TRỌN BỘ 2 Ngày 1 Đêm Mùa 2 ➡️    • 🌈 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 2 | Phiên bả...  \n\n🎧 Nghe Theme song 2 Ngày 1 Đêm  👉 https://VieNETWORK.bfan.link/2N1D\n\n💕Sở hữu các sản phẩm Merchandise 2 Ngày 1 Đêm tại https://vieshop.vn/\n\n#2Ngay1Dem #2Ngày1Đêm #Mùa2 #2Ngày1ĐêmMùa2 #2Ngay1DemMua2 #Tập35 #DongTayPromotion #TrườngGiang #KiềuMinhTuấn #LêDươngBảoLâm #NgôKiếnHuy #CrisPhan #HIEUTHUHAI #HuyKhánh #ĐứcThịnh\n\n🏕 Chuyến đi 2 Ngày 1 Đêm bắt đầu từ cuộc gặp gỡ của những người đàn ông từ những hoàn cảnh, những cá tính khác nhau nhưng để hết tất cả sau lưng vào tham gia một cuộc hành trình khám phá mọi miền đất nước và khám phá bản thân. Trở lại với phiên bản Mùa 2 với 3 tính chất được thăng hạng 2X (Bất Ngờ - Khổ Đau - Tiếng cười) hứa hẹn những tình huống dở khóc dở cười đến khán giả.  \n\n⏰Đón xem 2 NGÀY 1 ĐÊM - MÙA 2 vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  ‪@dongtaypromotionofficial‬ và  ‪@2NGAY1DEM‬        \n  \n📣 Subscribe kênh 2 NGÀY 1 ĐÊM VIETNAM để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/2N1DVietnam\n\n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK\n\n\n\n👉 Theo dõi các kênh chính thức của 2 Ngày 1 Đêm Vietnam:\n► YouTube:    / @2ngay1dem  \n► Fanpage:   / 2ngay1demvietnam.dongtay  \n► Instagram:   / 2days1nightvietnamofficial  \n► TikTok:   / 2ngay1demvietnam  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+          "text": "   • 🌈 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 2 | Phiên bả...  "
+        },
+        {
+          "url": "https://VieNETWORK.bfan.link/2N1D",
+          "text": "https://VieNETWORK.bfan.link/2N1D"
+        },
+        {
+          "url": "https://vieshop.vn/",
+          "text": "https://vieshop.vn/"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ngay1dem",
+          "text": "#2Ngay1Dem"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ng%C3%A0y1%C4%91%C3%AAm",
+          "text": "#2Ngày1Đêm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/m%C3%B9a2",
+          "text": "#Mùa2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ng%C3%A0y1%C4%91%C3%AAmm%C3%B9a2",
+          "text": "#2Ngày1ĐêmMùa2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ngay1demmua2",
+          "text": "#2Ngay1DemMua2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/t%E1%BA%ADp35",
+          "text": "#Tập35"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dongtaypromotion",
+          "text": "#DongTayPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tr%C6%B0%E1%BB%9Dnggiang",
+          "text": "#TrườngGiang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ki%E1%BB%81uminhtu%E1%BA%A5n",
+          "text": "#KiềuMinhTuấn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%AAd%C6%B0%C6%A1ngb%E1%BA%A3ol%C3%A2m",
+          "text": "#LêDươngBảoLâm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ng%C3%B4ki%E1%BA%BFnhuy",
+          "text": "#NgôKiếnHuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/crisphan",
+          "text": "#CrisPhan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hieuthuhai",
+          "text": "#HIEUTHUHAI"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huykh%C3%A1nh",
+          "text": "#HuyKhánh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/%C4%91%E1%BB%A9cth%E1%BB%8Bnh",
+          "text": "#ĐứcThịnh"
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "‪@dongtaypromotionofficial‬"
+        },
+        {
+          "url": "https://www.youtube.com/@2NGAY1DEM",
+          "text": "‪@2NGAY1DEM‬"
+        },
+        {
+          "url": "https://bit.ly/2N1DVietnam",
+          "text": "https://bit.ly/2N1DVietnam"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w",
+          "text": "   / @2ngay1dem  "
+        },
+        {
+          "url": "https://www.facebook.com/2Ngay1DemVietNam.DongTay",
+          "text": "  / 2ngay1demvietnam.dongtay  "
+        },
+        {
+          "url": "https://www.instagram.com/2days1nightvietnamofficial/",
+          "text": "  / 2days1nightvietnamofficial  "
+        },
+        {
+          "url": "https://www.tiktok.com/@2ngay1demvietnam",
+          "text": "  / 2ngay1demvietnam  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 15,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isMonetized": null,
+      "hashtags": [
+        "#Mùa2",
+        "#2Ngay1Dem",
+        "#2Ngày1Đêm"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isPaidContent": false
+    },
+    {
+      "title": "2 Ngày 1 Đêm - Mùa 2 | Tập 37: BigDaddy phục vụ múa đèn, Dương Lâm \"chặn\" đường ăn của anh em",
+      "translatedTitle": "2 Days 1 Night - Season 2 | Episode 37: BigDaddy performs a lantern dance, Duong Lam \"blocks\" the...",
+      "type": "video",
+      "id": "Ycoic6Tjcc0",
+      "url": "https://www.youtube.com/watch?v=Ycoic6Tjcc0&list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ&index=14",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Ycoic6Tjcc0/maxresdefault.jpg",
+      "viewCount": 4016682,
+      "date": "2023-11-09T13:30:13.000Z",
+      "likes": 21000,
+      "location": null,
+      "channelName": "2 NGÀY 1 ĐÊM VIETNAM",
+      "channelUrl": "https://www.youtube.com/@2NGAY1DEM",
+      "channelUsername": "2NGAY1DEM",
+      "collaborators": null,
+      "channelId": "UChGncdgzOKmp5XQTnQa2h4w",
+      "numberOfSubscribers": 1650000,
+      "duration": "01:40:43",
+      "commentsCount": 606,
+      "text": "2 Ngày 1 Đêm - Mùa 2 | Tập 37: BigDaddy phục vụ múa đèn, Dương Lâm \"chặn\" đường ăn của anh em\n\nVới màn chào đón khách mời không hề nhẹ nhàng, dàn cast 2 Ngày 1 Đêm hứa hẹn sẽ không để B Ray và BigDaddy \"thảnh thơi\" trong hành trình tại Bình Định.Chờ xem 2 khách mời sẽ đón nhận và vượt qua những thử thách trong tập này thế nào nhé!\n\nXem TRỌN BỘ 2 Ngày 1 Đêm Mùa 2 ➡️ https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ\n\n🎧 Nghe Theme song 2 Ngày 1 Đêm  👉 https://VieNETWORK.bfan.link/2N1D\n\n💕Sở hữu các sản phẩm Merchandise 2 Ngày 1 Đêm tại https://vieshop.vn/\n\n#2Ngay1Dem #2Ngày1Đêm #Mùa2 #2Ngày1ĐêmMùa2 #2Ngay1DemMua2 #Tập37 #DongTayPromotion #TrườngGiang #KiềuMinhTuấn #LêDươngBảoLâm #NgôKiếnHuy #CrisPhan #HIEUTHUHAI #BRay #BigDaddy\n\n🏕 Chuyến đi 2 Ngày 1 Đêm bắt đầu từ cuộc gặp gỡ của những người đàn ông từ những hoàn cảnh, những cá tính khác nhau nhưng để hết tất cả sau lưng vào tham gia một cuộc hành trình khám phá mọi miền đất nước và khám phá bản thân. Trở lại với phiên bản Mùa 2 với 3 tính chất được thăng hạng 2X (Bất Ngờ - Khổ Đau - Tiếng cười) hứa hẹn những tình huống dở khóc dở cười đến khán giả. \n\n⏰Đón xem 2 NGÀY 1 ĐÊM - MÙA 2 vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  @dongtaypromotionofficial  và @2NGAY1DEM        \n  \n📣 Subscribe kênh 2 NGÀY 1 ĐÊM VIETNAM để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/2N1DVietnam\n\n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK\n\n\n\n👉 Theo dõi các kênh chính thức của 2 Ngày 1 Đêm Vietnam:\n► YouTube: https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w\n► Fanpage: https://www.facebook.com/2Ngay1DemVietNam.DongTay\n► Instagram: https://www.instagram.com/2days1nightvietnamofficial/\n► TikTok: https://www.tiktok.com/@2ngay1demvietnam",
+      "translatedText": "2 Days 1 Night - Season 2 | Episode 37: BigDaddy Serves with Lantern Dance, Duong Lam \"Blocks\" the Guys' Eating Route\n\nWith a not-so-gentle welcome for the guests, the cast of 2 Days 1 Night promises not to let B Ray and BigDaddy have an easy time on their journey in Binh Dinh. Let's see how the two guests will receive and overcome the challenges in this episode!\n\nWatch the FULL 2 Days 1 Night Season 2 ➡️    • 🌈 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 2 | Phiên bả...  \n\n🎧 Listen to the 2 Days 1 Night Theme Song 👉 https://VieNETWORK.bfan.link/2N1D\n\n💕 Own 2 Days 1 Night Merchandise products at https://vieshop.vn/\n\n#2Days1Night #2Days1Night #Season2 #2Days1NightSeason2 #2Days1NightSeason2 #Episode37 #DongTayPromotion #TruongGiang #KieuMinhTuan #LeDuongBaoLam #NgoKienHuy #CrisPhan #HIEUTHUHAI #BRay #BigDaddy\n\n🏕 The 2 Days 1 Night trip begins From the encounter of men from diverse backgrounds and personalities, who leave everything behind to embark on a journey of discovery across the country and self-discovery. Returning in Season 2 with three upgraded elements (Surprise - Suffering - Laughter), promising hilarious and heartwarming situations for viewers.\n\n⏰ Watch 2 DAYS 1 NIGHT - SEASON 2 at:\n\n📺 8:30 PM every Sunday on HTV7 and the VieON entertainment app\n▶️ 8:40 PM on @dongtaypromotionofficial and @2NGAY1DEM\n\n📣 Subscribe to the 2 DAYS 1 NIGHT VIETNAM channel to watch the EARLIEST and NEWEST episodes: https://bit.ly/2N1DVietnam\n\n©️ 2 Days 1 Night Vietnam is owned by Dong Tay Promotion and protected by copyright by VieNETWORK\n\n👉 Follow the official channels of 2 Days 1 Night Vietnam:\n\n► YouTube:    / @2ngay1dem  \n\n► Fanpage:   / 2ngay1demvietnam.dongtay  \n► Instagram:   / 2days1nightvietnamofficial  \n► TikTok:   / 2ngay1demvietnam  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+          "text": "   • 🌈 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 2 | Phiên bả...  "
+        },
+        {
+          "url": "https://VieNETWORK.bfan.link/2N1D",
+          "text": "https://VieNETWORK.bfan.link/2N1D"
+        },
+        {
+          "url": "https://vieshop.vn/",
+          "text": "https://vieshop.vn/"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2days1night",
+          "text": "#2Days1Night"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2days1night",
+          "text": "#2Days1Night"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/season2",
+          "text": "#Season2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2days1nightseason2",
+          "text": "#2Days1NightSeason2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2days1nightseason2",
+          "text": "#2Days1NightSeason2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/episode37",
+          "text": "#Episode37"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dongtaypromotion",
+          "text": "#DongTayPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/truonggiang",
+          "text": "#TruongGiang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/kieuminhtuan",
+          "text": "#KieuMinhTuan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/leduongbaolam",
+          "text": "#LeDuongBaoLam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngokienhuy",
+          "text": "#NgoKienHuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/crisphan",
+          "text": "#CrisPhan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hieuthuhai",
+          "text": "#HIEUTHUHAI"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bray",
+          "text": "#BRay"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bigdaddy",
+          "text": "#BigDaddy"
+        },
+        {
+          "url": "https://bit.ly/2N1DVietnam",
+          "text": "https://bit.ly/2N1DVietnam"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w",
+          "text": "   / @2ngay1dem  "
+        },
+        {
+          "url": "https://www.facebook.com/2ngay1DemVietNam.DongTay",
+          "text": "  / 2ngay1demvietnam.dongtay  "
+        },
+        {
+          "url": "https://www.instagram.com/2days1nightvietnamofficial/",
+          "text": "  / 2days1nightvietnamofficial  "
+        },
+        {
+          "url": "https://www.tiktok.com/@2ngay1demvietnam",
+          "text": "  / 2ngay1demvietnam  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 13,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isPaidContent": false
+    },
+    {
+      "title": "Chỉ còn 2 NGÀY nữa!! Diệu Lâm cô nương núp lùm \"huỷ hoại\" nhan sắc HIEUTHUHAI | 2 Ngày 1 Đêm Mùa 2",
+      "translatedTitle": "Only 2 DAYS left!! Lady Dieu Lam ambushes and \"ruins\" HIEUTHUHAI's looks | 2 Days 1 Night Season 2",
+      "type": "video",
+      "id": "18Om1Z4AkPU",
+      "url": "https://www.youtube.com/watch?v=18Om1Z4AkPU&list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ&index=23",
+      "thumbnailUrl": "https://i.ytimg.com/vi/18Om1Z4AkPU/maxresdefault.jpg",
+      "viewCount": 162993,
+      "date": "2023-09-29T13:00:01.000Z",
+      "likes": 2400,
+      "location": null,
+      "channelName": "2 NGÀY 1 ĐÊM VIETNAM",
+      "channelUrl": "https://www.youtube.com/@2NGAY1DEM",
+      "channelUsername": "2NGAY1DEM",
+      "collaborators": null,
+      "channelId": "UChGncdgzOKmp5XQTnQa2h4w",
+      "numberOfSubscribers": 1650000,
+      "duration": "00:06:13",
+      "commentsCount": 81,
+      "text": "Chỉ còn 2 NGÀY nữa!! Diệu Lâm cô nương núp lùm \"huỷ hoại\" nhan sắc HIEUTHUHAI | 2 Ngày 1 Đêm Mùa 2    \n\n#2Ngay1Dem #2Ngày1Đêm #Mùa2 #2Ngày1ĐêmMùa2 #2Ngay1DemMua2 #2N1Đ #DongTayPromotion\n#TrườngGiang #KiềuMinhTuấn #LêDươngBảoLâm #NgôKiếnHuy #CrisPhan #HIEUTHUHAI #HậuTrường2Ngày1Đêm #BTS2Ngày1Đêm\n\nChuyến đi 2 Ngày 1 Đêm bắt đầu từ cuộc gặp gỡ của những người đàn ông từ những hoàn cảnh, những cá tính khác nhau nhưng để hết tất cả sau lưng vào tham gia một cuộc hành trình khám phá mọi miền đất nước và khám phá bản thân. Trở lại với phiên bản Mùa 2 với 3 tính chất được thăng hạng 2X (Bất Ngờ - Khổ Đau - Tiếng cười) hứa hẹn những tình huống dở khóc dở cười đến khán giả.  \n\n⏰Đón xem 2 NGÀY 1 ĐÊM - MÙA 2 vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh @dongtaypromotionofficial  và @2NGAY1DEM \n  \n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK\n\n📣 Subscribe kênh 2 NGÀY 1 ĐÊM VIETNAM để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/2N1DVietnam\n\n\n\n👉 Theo dõi các kênh chính thức của 2 Ngày 1 Đêm Vietnam:\n► YouTube: https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w\n► Fanpage: https://www.facebook.com/2Ngay1DemVietNam.DongTay\n► Instagram: https://www.instagram.com/2days1nightvietnamofficial/\n► TikTok: https://www.tiktok.com/@2ngay1demvietnam",
+      "translatedText": "Only 2 DAYS left!! Miss Dieu Lam hides in the bushes and \"ruins\" HIEUTHUHAI's beauty | 2 Days 1 Night Season 2\n\n#2Days1Night #2Days1Night #Season2 #2Days1NightSeason2 #2Days1NightSeason2 #2N1D #DongTayPromotion\n\n#TruongGiang #KieuMinhTuan #LeDuongBaoLam #NgoKienHuy #CrisPhan #HIEUTHUHAI #BehindTheScenes2Days1Night #BTS2Days1Night\n\nThe 2 Days 1 Night trip begins with the meeting of men from different backgrounds and personalities, but they leave everything behind to participate in a journey to explore the country and discover themselves. Returning for Season 2 with 3 upgraded elements (Surprise - Suffering - Laughter), promising hilarious and heartwarming situations for viewers.\n\n⏰ Watch 2 DAYS 1 NIGHT - SEASON 2 at:\n\n📺 8:30 PM every Sunday on HTV7 and the VieON entertainment app\n▶️ 8:40 PM on @dongtaypromotionofficial and @2NGAY1DEM\n\n©️ 2 Days 1 Night Vietnam is owned by Dong Tay Promotion and protected by copyright by VieNETWORK\n\n📣 Subscribe to the 2 DAYS 1 NIGHT VIETNAM channel to watch the EARLIEST and NEWEST episodes: https://bit.ly/2N1DVietnam\n\n👉 Follow the official channels of 2 Days 1 Night Vietnam:\n\n► YouTube:    / @2ngay1dem  \n\n► Fanpage:   / 2ngay1demvietnam.dongtay  \n► Instagram:   / 2days1nightvietnamofficial  \n► TikTok:   / 2ngay1demvietnam  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/2days1night",
+          "text": "#2Days1Night"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2days1night",
+          "text": "#2Days1Night"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/season2",
+          "text": "#Season2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2days1nightseason2",
+          "text": "#2Days1NightSeason2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2days1nightseason2",
+          "text": "#2Days1NightSeason2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2n1d",
+          "text": "#2N1D"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dongtaypromotion",
+          "text": "#DongTayPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/truonggiang",
+          "text": "#TruongGiang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/kieuminhtuan",
+          "text": "#KieuMinhTuan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/leduongbaolam",
+          "text": "#LeDuongBaoLam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngokienhuy",
+          "text": "#NgoKienHuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/crisphan",
+          "text": "#CrisPhan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hieuthuhai",
+          "text": "#HIEUTHUHAI"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/behindthescenes2days1night",
+          "text": "#BehindTheScenes2Days1Night"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bts2days1night",
+          "text": "#BTS2Days1Night"
+        },
+        {
+          "url": "https://bit.ly/2N1DVietnam",
+          "text": "https://bit.ly/2N1DVietnam"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w",
+          "text": "   / @2ngay1dem  "
+        },
+        {
+          "url": "https://www.facebook.com/2ngay1DemVietNam.DongTay",
+          "text": "  / 2ngay1demvietnam.dongtay  "
+        },
+        {
+          "url": "https://www.instagram.com/2days1nightvietnamofficial/",
+          "text": "  / 2days1nightvietnamofficial  "
+        },
+        {
+          "url": "https://www.tiktok.com/@2ngay1demvietnam",
+          "text": "  / 2ngay1demvietnam  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 22,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isMonetized": null,
+      "hashtags": [
+        "#Mùa2",
+        "#2Ngay1Dem",
+        "#2Ngày1Đêm"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isPaidContent": false
+    },
+    {
+      "title": "2 Ngày 1 Đêm - Mùa 2 | Tập 41: HIEUTHUHAI nổi đóa với Dương Lâm, PuKa thừa cơ đính chính tin đồn",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "XHihpeX3glU",
+      "url": "https://www.youtube.com/watch?v=XHihpeX3glU&list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ&index=10",
+      "thumbnailUrl": "https://i.ytimg.com/vi/XHihpeX3glU/maxresdefault.jpg",
+      "viewCount": 10852926,
+      "date": "2023-12-03T13:40:09.000Z",
+      "likes": 83000,
+      "location": null,
+      "channelName": "2 NGÀY 1 ĐÊM VIETNAM",
+      "channelUrl": "https://www.youtube.com/@2NGAY1DEM",
+      "channelUsername": "2NGAY1DEM",
+      "collaborators": null,
+      "channelId": "UChGncdgzOKmp5XQTnQa2h4w",
+      "numberOfSubscribers": 1650000,
+      "duration": "01:37:34",
+      "commentsCount": 6622,
+      "text": "2 Ngày 1 Đêm - Mùa 2 | Tập 41: HIEUTHUHAI nổi đóa với Dương Lâm, PuKa thừa cơ đính chính tin đồn\n\nDàn cast cùng 6 khách mời đã trải qua những thử thách thú vị tại Phú Yên. Với chủ đề \"Tình bạn bất diệt\", hành trình này chắc chắn sẽ để lại những khoảnh khắc đáng nhớ chỉ có tại 2 Ngày 1 Đêm.\n\nXem TRỌN BỘ 2 Ngày 1 Đêm Mùa 2 ➡️ https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ\n\n🎧 Nghe Theme song 2 Ngày 1 Đêm  👉 https://VieNETWORK.bfan.link/2N1D\n\n💕Sở hữu các sản phẩm Merchandise 2 Ngày 1 Đêm tại https://vieshop.vn/\n\n#2Ngay1Dem #2Ngày1Đêm #Mùa2 #2Ngày1ĐêmMùa2 #2Ngay1DemMua2 #Tập41 #DongTayPromotion #TrườngGiang #KiềuMinhTuấn #LêDươngBảoLâm #NgôKiếnHuy #CrisPhan #HIEUTHUHAI #LâmVỹDạ #Puka #NamThư #MinhTú #NgọcPhước #KhaLy\n\n🏕 Chuyến đi 2 Ngày 1 Đêm bắt đầu từ cuộc gặp gỡ của những người đàn ông từ những hoàn cảnh, những cá tính khác nhau nhưng để hết tất cả sau lưng vào tham gia một cuộc hành trình khám phá mọi miền đất nước và khám phá bản thân. Trở lại với phiên bản Mùa 2 với 3 tính chất được thăng hạng 2X (Bất Ngờ - Khổ Đau - Tiếng cười) hứa hẹn những tình huống dở khóc dở cười đến khán giả. \n\n⏰Đón xem 2 NGÀY 1 ĐÊM - MÙA 2 vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  @dongtaypromotionofficial và  @2NGAY1DEM        \n  \n📣 Subscribe kênh 2 NGÀY 1 ĐÊM VIETNAM để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/2N1DVietnam\n\n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK\n\n\n\n👉 Theo dõi các kênh chính thức của 2 Ngày 1 Đêm Vietnam:\n► YouTube: https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w\n► Fanpage: https://www.facebook.com/2Ngay1DemVietNam.DongTay\n► Instagram: https://www.instagram.com/2days1nightvietnamofficial/\n► TikTok: https://www.tiktok.com/@2ngay1demvietnam",
+      "translatedText": "2 Ngày 1 Đêm - Mùa 2 | Tập 41: HIEUTHUHAI nổi đóa với Dương Lâm, PuKa thừa cơ đính chính tin đồn\n\nDàn cast cùng 6 khách mời đã trải qua những thử thách thú vị tại Phú Yên. Với chủ đề \"Tình bạn bất diệt\", hành trình này chắc chắn sẽ để lại những khoảnh khắc đáng nhớ chỉ có tại 2 Ngày 1 Đêm.\n\nXem TRỌN BỘ 2 Ngày 1 Đêm Mùa 2 ➡️    • 🌈 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 2 | Phiên bả...  \n\n🎧 Nghe Theme song 2 Ngày 1 Đêm  👉 https://VieNETWORK.bfan.link/2N1D\n\n💕Sở hữu các sản phẩm Merchandise 2 Ngày 1 Đêm tại https://vieshop.vn/\n\n#2Ngay1Dem #2Ngày1Đêm #Mùa2 #2Ngày1ĐêmMùa2 #2Ngay1DemMua2 #Tập41 #DongTayPromotion #TrườngGiang #KiềuMinhTuấn #LêDươngBảoLâm #NgôKiếnHuy #CrisPhan #HIEUTHUHAI #LâmVỹDạ #Puka #NamThư #MinhTú #NgọcPhước #KhaLy\n\n🏕 Chuyến đi 2 Ngày 1 Đêm bắt đầu từ cuộc gặp gỡ của những người đàn ông từ những hoàn cảnh, những cá tính khác nhau nhưng để hết tất cả sau lưng vào tham gia một cuộc hành trình khám phá mọi miền đất nước và khám phá bản thân. Trở lại với phiên bản Mùa 2 với 3 tính chất được thăng hạng 2X (Bất Ngờ - Khổ Đau - Tiếng cười) hứa hẹn những tình huống dở khóc dở cười đến khán giả. \n\n⏰Đón xem 2 NGÀY 1 ĐÊM - MÙA 2 vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  ‪@dongtaypromotionofficial‬ và  ‪@2NGAY1DEM‬        \n  \n📣 Subscribe kênh 2 NGÀY 1 ĐÊM VIETNAM để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/2N1DVietnam\n\n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK\n\n\n\n👉 Theo dõi các kênh chính thức của 2 Ngày 1 Đêm Vietnam:\n► YouTube:    / @2ngay1dem  \n► Fanpage:   / 2ngay1demvietnam.dongtay  \n► Instagram:   / 2days1nightvietnamofficial  \n► TikTok:   / 2ngay1demvietnam  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+          "text": "   • 🌈 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 2 | Phiên bả...  "
+        },
+        {
+          "url": "https://VieNETWORK.bfan.link/2N1D",
+          "text": "https://VieNETWORK.bfan.link/2N1D"
+        },
+        {
+          "url": "https://vieshop.vn/",
+          "text": "https://vieshop.vn/"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ngay1dem",
+          "text": "#2Ngay1Dem"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ng%C3%A0y1%C4%91%C3%AAm",
+          "text": "#2Ngày1Đêm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/m%C3%B9a2",
+          "text": "#Mùa2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ng%C3%A0y1%C4%91%C3%AAmm%C3%B9a2",
+          "text": "#2Ngày1ĐêmMùa2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ngay1demmua2",
+          "text": "#2Ngay1DemMua2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/t%E1%BA%ADp41",
+          "text": "#Tập41"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dongtaypromotion",
+          "text": "#DongTayPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tr%C6%B0%E1%BB%9Dnggiang",
+          "text": "#TrườngGiang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ki%E1%BB%81uminhtu%E1%BA%A5n",
+          "text": "#KiềuMinhTuấn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%AAd%C6%B0%C6%A1ngb%E1%BA%A3ol%C3%A2m",
+          "text": "#LêDươngBảoLâm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ng%C3%B4ki%E1%BA%BFnhuy",
+          "text": "#NgôKiếnHuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/crisphan",
+          "text": "#CrisPhan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hieuthuhai",
+          "text": "#HIEUTHUHAI"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%A2mv%E1%BB%B9d%E1%BA%A1",
+          "text": "#LâmVỹDạ"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/puka",
+          "text": "#Puka"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/namth%C6%B0",
+          "text": "#NamThư"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/minht%C3%BA",
+          "text": "#MinhTú"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ng%E1%BB%8Dcph%C6%B0%E1%BB%9Bc",
+          "text": "#NgọcPhước"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/khaly",
+          "text": "#KhaLy"
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "‪@dongtaypromotionofficial‬"
+        },
+        {
+          "url": "https://www.youtube.com/@2NGAY1DEM",
+          "text": "‪@2NGAY1DEM‬"
+        },
+        {
+          "url": "https://bit.ly/2N1DVietnam",
+          "text": "https://bit.ly/2N1DVietnam"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w",
+          "text": "   / @2ngay1dem  "
+        },
+        {
+          "url": "https://www.facebook.com/2Ngay1DemVietNam.DongTay",
+          "text": "  / 2ngay1demvietnam.dongtay  "
+        },
+        {
+          "url": "https://www.instagram.com/2days1nightvietnamofficial/",
+          "text": "  / 2days1nightvietnamofficial  "
+        },
+        {
+          "url": "https://www.tiktok.com/@2ngay1demvietnam",
+          "text": "  / 2ngay1demvietnam  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 9,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isPaidContent": false
+    },
+    {
+      "title": "2 Ngày 1 Đêm Việt Nam - Mùa 2 đã trở lại | Official Trailer",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "0tYQFSvQacI",
+      "url": "https://www.youtube.com/watch?v=0tYQFSvQacI&list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ&index=25",
+      "thumbnailUrl": "https://i.ytimg.com/vi/0tYQFSvQacI/maxresdefault.jpg",
+      "viewCount": 260083,
+      "date": "2023-09-27T13:22:51.000Z",
+      "likes": 5900,
+      "location": null,
+      "channelName": "2 NGÀY 1 ĐÊM VIETNAM",
+      "channelUrl": "https://www.youtube.com/@2NGAY1DEM",
+      "channelUsername": "2NGAY1DEM",
+      "collaborators": null,
+      "channelId": "UChGncdgzOKmp5XQTnQa2h4w",
+      "numberOfSubscribers": 1650000,
+      "duration": "00:01:18",
+      "commentsCount": 563,
+      "text": "2 Ngày 1 Đêm Việt Nam - Mùa 2 đã trở lại | Official Trailer\n\nChuyến đi 2 Ngày 1 Đêm bắt đầu từ cuộc gặp gỡ của những người đàn ông từ những hoàn cảnh, những cá tính khác nhau nhưng để hết tất cả sau lưng vào tham gia một cuộc hành trình khám phá mọi miền đất nước và khám phá bản thân. Trở lại với phiên bản Mùa 2 với 3 tính chất được thăng hạng 2X (Bất Ngờ - Khổ Đau - Tiếng cười) hứa hẹn những tình huống dở khóc dở cười đến khán giả.      \n\n#2Ngay1Dem #2Ngày1Đêm #2Ngày1ĐêmMùa2 #2Ngay1DemMua2 #2N1Đ #DongTayPromotion\n#TrườngGiang #KiềuMinhTuấn #LêDươngBảoLâm #NgôKiếnHuy #CrisPhan #HIEUTHUHAI #HậuTrường2Ngày1Đêm #BTS2Ngày1Đêm\n\n⏰Đón xem 2 NGÀY 1 ĐÊM - MÙA 2 vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  @dongtaypromotionofficial  và @2NGAY1DEM \n\n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK\n\n\n\n👉 Theo dõi các kênh chính thức của 2 Ngày 1 Đêm Vietnam:\n► YouTube: https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w\n► Fanpage: https://www.facebook.com/2Ngay1DemVietNam.DongTay\n► Instagram: https://www.instagram.com/2days1nightvietnamofficial/\n► TikTok: https://www.tiktok.com/@2ngay1demvietnam",
+      "translatedText": "2 Ngày 1 Đêm Việt Nam - Mùa 2 đã trở lại | Official Trailer\n\nChuyến đi 2 Ngày 1 Đêm bắt đầu từ cuộc gặp gỡ của những người đàn ông từ những hoàn cảnh, những cá tính khác nhau nhưng để hết tất cả sau lưng vào tham gia một cuộc hành trình khám phá mọi miền đất nước và khám phá bản thân. Trở lại với phiên bản Mùa 2 với 3 tính chất được thăng hạng 2X (Bất Ngờ - Khổ Đau - Tiếng cười) hứa hẹn những tình huống dở khóc dở cười đến khán giả.      \n\n#2Ngay1Dem #2Ngày1Đêm #2Ngày1ĐêmMùa2 #2Ngay1DemMua2 #2N1Đ #DongTayPromotion\n#TrườngGiang #KiềuMinhTuấn #LêDươngBảoLâm #NgôKiếnHuy #CrisPhan #HIEUTHUHAI #HậuTrường2Ngày1Đêm #BTS2Ngày1Đêm\n\n⏰Đón xem 2 NGÀY 1 ĐÊM - MÙA 2 vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  ‪@dongtaypromotionofficial‬  và ‪@2NGAY1DEM‬ \n\n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK\n\n\n\n👉 Theo dõi các kênh chính thức của 2 Ngày 1 Đêm Vietnam:\n► YouTube:    / @2ngay1dem  \n► Fanpage:   / 2ngay1demvietnam.dongtay  \n► Instagram:   / 2days1nightvietnamofficial  \n► TikTok:   / 2ngay1demvietnam  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/2ngay1dem",
+          "text": "#2Ngay1Dem"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ng%C3%A0y1%C4%91%C3%AAm",
+          "text": "#2Ngày1Đêm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ng%C3%A0y1%C4%91%C3%AAmm%C3%B9a2",
+          "text": "#2Ngày1ĐêmMùa2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ngay1demmua2",
+          "text": "#2Ngay1DemMua2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2n1%C4%91",
+          "text": "#2N1Đ"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dongtaypromotion",
+          "text": "#DongTayPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tr%C6%B0%E1%BB%9Dnggiang",
+          "text": "#TrườngGiang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ki%E1%BB%81uminhtu%E1%BA%A5n",
+          "text": "#KiềuMinhTuấn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%AAd%C6%B0%C6%A1ngb%E1%BA%A3ol%C3%A2m",
+          "text": "#LêDươngBảoLâm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ng%C3%B4ki%E1%BA%BFnhuy",
+          "text": "#NgôKiếnHuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/crisphan",
+          "text": "#CrisPhan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hieuthuhai",
+          "text": "#HIEUTHUHAI"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/h%E1%BA%ADutr%C6%B0%E1%BB%9Dng2ng%C3%A0y1%C4%91%C3%AAm",
+          "text": "#HậuTrường2Ngày1Đêm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bts2ng%C3%A0y1%C4%91%C3%AAm",
+          "text": "#BTS2Ngày1Đêm"
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "‪@dongtaypromotionofficial‬"
+        },
+        {
+          "url": "https://www.youtube.com/@2NGAY1DEM",
+          "text": "‪@2NGAY1DEM‬"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w",
+          "text": "   / @2ngay1dem  "
+        },
+        {
+          "url": "https://www.facebook.com/2Ngay1DemVietNam.DongTay",
+          "text": "  / 2ngay1demvietnam.dongtay  "
+        },
+        {
+          "url": "https://www.instagram.com/2days1nightvietnamofficial/",
+          "text": "  / 2days1nightvietnamofficial  "
+        },
+        {
+          "url": "https://www.tiktok.com/@2ngay1demvietnam",
+          "text": "  / 2ngay1demvietnam  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 24,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isMonetized": null,
+      "hashtags": [
+        "#2Ngay1Dem",
+        "#2Ngày1Đêm",
+        "#TrườngGiang"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isPaidContent": false
+    },
+    {
+      "title": "2 Ngày 1 Đêm - Mùa 2 |Tập 44: Trường Giang bị Dương Lâm \"tẩm bột\", Song Luân quăng miếng \"lạnh ngắt\"",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "t2m_Yd_pLjo",
+      "url": "https://www.youtube.com/watch?v=t2m_Yd_pLjo&list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ&index=7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/t2m_Yd_pLjo/maxresdefault.jpg",
+      "viewCount": 3575084,
+      "date": "2023-12-27T13:30:19.000Z",
+      "likes": 18000,
+      "location": null,
+      "channelName": "2 NGÀY 1 ĐÊM VIETNAM",
+      "channelUrl": "https://www.youtube.com/@2NGAY1DEM",
+      "channelUsername": "2NGAY1DEM",
+      "collaborators": null,
+      "channelId": "UChGncdgzOKmp5XQTnQa2h4w",
+      "numberOfSubscribers": 1650000,
+      "duration": "01:42:23",
+      "commentsCount": 454,
+      "text": "2 Ngày 1 Đêm - Mùa 2 | Tập 44: Trường Giang bị Dương Lâm \"tẩm bột\", Song Luân quăng miếng \"lạnh ngắt\"\n\nXem TRỌN BỘ 2 Ngày 1 Đêm Mùa 2 ➡️ https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ\n\n🎧 Nghe Theme song 2 Ngày 1 Đêm  👉 https://VieNETWORK.bfan.link/2N1D\n\n💕Sở hữu các sản phẩm Merchandise 2 Ngày 1 Đêm tại https://vieshop.vn/\n\n#2Ngay1Dem #2Ngày1Đêm #Mùa2 #2Ngày1ĐêmMùa2 #2Ngay1DemMua2 #Tập44 \n#TrườngGiang #KiềuMinhTuấn #LêDươngBảoLâm #NgôKiếnHuy #CrisPhan #HIEUTHUHAI\n\n🏕 Chuyến đi 2 Ngày 1 Đêm bắt đầu từ cuộc gặp gỡ của những người đàn ông từ những hoàn cảnh, những cá tính khác nhau nhưng để hết tất cả sau lưng vào tham gia một cuộc hành trình khám phá mọi miền đất nước và khám phá bản thân. Trở lại với phiên bản Mùa 2 với 3 tính chất được thăng hạng 2X (Bất Ngờ - Khổ Đau - Tiếng cười) hứa hẹn những tình huống dở khóc dở cười đến khán giả. \n\n⏰Đón xem 2 NGÀY 1 ĐÊM - MÙA 2 vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  @dongtaypromotionofficial  và  @2NGAY1DEM        \n  \n📣 Subscribe kênh 2 NGÀY 1 ĐÊM VIETNAM để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/2N1DVietnam\n\n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK\n\n\n\n👉 Theo dõi các kênh chính thức của 2 Ngày 1 Đêm Vietnam:\n► YouTube: https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w\n► Fanpage: https://www.facebook.com/2Ngay1DemVietNam.DongTay\n► Instagram: https://www.instagram.com/2days1nightvietnamofficial/\n► TikTok: https://www.tiktok.com/@2ngay1demvietnam",
+      "translatedText": "2 Ngày 1 Đêm - Mùa 2 | Tập 44: Trường Giang bị Dương Lâm \"tẩm bột\", Song Luân quăng miếng \"lạnh ngắt\"\n\nXem TRỌN BỘ 2 Ngày 1 Đêm Mùa 2 ➡️    • 🌈 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 2 | Phiên bả...  \n\n🎧 Nghe Theme song 2 Ngày 1 Đêm  👉 https://VieNETWORK.bfan.link/2N1D\n\n💕Sở hữu các sản phẩm Merchandise 2 Ngày 1 Đêm tại https://vieshop.vn/\n\n#2Ngay1Dem #2Ngày1Đêm #Mùa2 #2Ngày1ĐêmMùa2 #2Ngay1DemMua2 #Tập44 \n#TrườngGiang #KiềuMinhTuấn #LêDươngBảoLâm #NgôKiếnHuy #CrisPhan #HIEUTHUHAI\n\n🏕 Chuyến đi 2 Ngày 1 Đêm bắt đầu từ cuộc gặp gỡ của những người đàn ông từ những hoàn cảnh, những cá tính khác nhau nhưng để hết tất cả sau lưng vào tham gia một cuộc hành trình khám phá mọi miền đất nước và khám phá bản thân. Trở lại với phiên bản Mùa 2 với 3 tính chất được thăng hạng 2X (Bất Ngờ - Khổ Đau - Tiếng cười) hứa hẹn những tình huống dở khóc dở cười đến khán giả. \n\n⏰Đón xem 2 NGÀY 1 ĐÊM - MÙA 2 vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  ‪@dongtaypromotionofficial‬  và  ‪@2NGAY1DEM‬        \n  \n📣 Subscribe kênh 2 NGÀY 1 ĐÊM VIETNAM để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/2N1DVietnam\n\n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK\n\n\n\n👉 Theo dõi các kênh chính thức của 2 Ngày 1 Đêm Vietnam:\n► YouTube:    / @2ngay1dem  \n► Fanpage: https://www.facebook.com/2Ngay1DemVietNam....\n► Instagram: https://www.instagram.com/2days1nightvietn...\n► TikTok: https://www.tiktok.com/@2ngay1demvietnam",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+          "text": "   • 🌈 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 2 | Phiên bả...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ngay1dem",
+          "text": "#2Ngay1Dem"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ng%C3%A0y1%C4%91%C3%AAm",
+          "text": "#2Ngày1Đêm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/m%C3%B9a2",
+          "text": "#Mùa2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ng%C3%A0y1%C4%91%C3%AAmm%C3%B9a2",
+          "text": "#2Ngày1ĐêmMùa2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ngay1demmua2",
+          "text": "#2Ngay1DemMua2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/t%E1%BA%ADp44",
+          "text": "#Tập44"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tr%C6%B0%E1%BB%9Dnggiang",
+          "text": "#TrườngGiang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ki%E1%BB%81uminhtu%E1%BA%A5n",
+          "text": "#KiềuMinhTuấn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%AAd%C6%B0%C6%A1ngb%E1%BA%A3ol%C3%A2m",
+          "text": "#LêDươngBảoLâm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ng%C3%B4ki%E1%BA%BFnhuy",
+          "text": "#NgôKiếnHuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/crisphan",
+          "text": "#CrisPhan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hieuthuhai",
+          "text": "#HIEUTHUHAI"
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "‪@dongtaypromotionofficial‬"
+        },
+        {
+          "url": "https://www.youtube.com/@2NGAY1DEM",
+          "text": "‪@2NGAY1DEM‬"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w",
+          "text": "   / @2ngay1dem  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 6,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isPaidContent": false
+    },
+    {
+      "title": "2 Ngày 1 Đêm - Mùa 2 | Tập 36: Dương Lâm quyết vùi dập nhan sắc B Ray, BigDaddy tung chiêu xin ăn",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "ObrjrJufWzA",
+      "url": "https://www.youtube.com/watch?v=ObrjrJufWzA&list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ&index=15",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ObrjrJufWzA/maxresdefault.jpg",
+      "viewCount": 4964742,
+      "date": "2023-11-02T13:30:15.000Z",
+      "likes": 24000,
+      "location": null,
+      "channelName": "2 NGÀY 1 ĐÊM VIETNAM",
+      "channelUrl": "https://www.youtube.com/@2NGAY1DEM",
+      "channelUsername": "2NGAY1DEM",
+      "collaborators": null,
+      "channelId": "UChGncdgzOKmp5XQTnQa2h4w",
+      "numberOfSubscribers": 1650000,
+      "duration": "01:21:00",
+      "commentsCount": 465,
+      "text": "2 Ngày 1 Đêm - Mùa 2 | Tập 36: Dương Lâm quyết vùi dập nhan sắc B Ray, BigDaddy tung chiêu xin ăn\n\n2 Ngày 1 Đêm đã có mặt tại Bình Định rồi đây!! Khách mời tập này sẽ là 2 rapper tài năng B Ray và BigDaddy. Để xem 2 anh chàng có \"sống sót\" qua chuyến này không nha!\n\nXem TRỌN BỘ 2 Ngày 1 Đêm Mùa 2 ➡️ https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ\n\n🎧 Nghe Theme song 2 Ngày 1 Đêm  👉 https://VieNETWORK.bfan.link/2N1D\n\n💕Sở hữu các sản phẩm Merchandise 2 Ngày 1 Đêm tại https://vieshop.vn/\n\n#2Ngay1Dem #2Ngày1Đêm #Mùa2 #2Ngày1ĐêmMùa2 #2Ngay1DemMua2 #Tập36 #DongTayPromotion #TrườngGiang #KiềuMinhTuấn #LêDươngBảoLâm #NgôKiếnHuy #CrisPhan #HIEUTHUHAI #BRay #BigDaddy\n\n🏕 Chuyến đi 2 Ngày 1 Đêm bắt đầu từ cuộc gặp gỡ của những người đàn ông từ những hoàn cảnh, những cá tính khác nhau nhưng để hết tất cả sau lưng vào tham gia một cuộc hành trình khám phá mọi miền đất nước và khám phá bản thân. Trở lại với phiên bản Mùa 2 với 3 tính chất được thăng hạng 2X (Bất Ngờ - Khổ Đau - Tiếng cười) hứa hẹn những tình huống dở khóc dở cười đến khán giả. \n\n⏰Đón xem 2 NGÀY 1 ĐÊM - MÙA 2 vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  @dongtaypromotionofficial và  @2NGAY1DEM        \n  \n📣 Subscribe kênh 2 NGÀY 1 ĐÊM VIETNAM để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/2N1DVietnam\n\n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK\n\n\n\n👉 Theo dõi các kênh chính thức của 2 Ngày 1 Đêm Vietnam:\n► YouTube: https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w\n► Fanpage: https://www.facebook.com/2Ngay1DemVietNam.DongTay\n► Instagram: https://www.instagram.com/2days1nightvietnamofficial/\n► TikTok: https://www.tiktok.com/@2ngay1demvietnam",
+      "translatedText": "2 Ngày 1 Đêm - Mùa 2 | Tập 36: Dương Lâm quyết vùi dập nhan sắc B Ray, BigDaddy tung chiêu xin ăn\n\n2 Ngày 1 Đêm đã có mặt tại Bình Định rồi đây!! Khách mời tập này sẽ là 2 rapper tài năng B Ray và BigDaddy. Để xem 2 anh chàng có \"sống sót\" qua chuyến này không nha!\n\nXem TRỌN BỘ 2 Ngày 1 Đêm Mùa 2 ➡️    • 🌈 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 2 | Phiên bả...  \n\n🎧 Nghe Theme song 2 Ngày 1 Đêm  👉 https://VieNETWORK.bfan.link/2N1D\n\n💕Sở hữu các sản phẩm Merchandise 2 Ngày 1 Đêm tại https://vieshop.vn/\n\n#2Ngay1Dem #2Ngày1Đêm #Mùa2 #2Ngày1ĐêmMùa2 #2Ngay1DemMua2 #Tập36 #DongTayPromotion #TrườngGiang #KiềuMinhTuấn #LêDươngBảoLâm #NgôKiếnHuy #CrisPhan #HIEUTHUHAI #BRay #BigDaddy\n\n🏕 Chuyến đi 2 Ngày 1 Đêm bắt đầu từ cuộc gặp gỡ của những người đàn ông từ những hoàn cảnh, những cá tính khác nhau nhưng để hết tất cả sau lưng vào tham gia một cuộc hành trình khám phá mọi miền đất nước và khám phá bản thân. Trở lại với phiên bản Mùa 2 với 3 tính chất được thăng hạng 2X (Bất Ngờ - Khổ Đau - Tiếng cười) hứa hẹn những tình huống dở khóc dở cười đến khán giả. \n\n⏰Đón xem 2 NGÀY 1 ĐÊM - MÙA 2 vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  ‪@dongtaypromotionofficial‬ và  ‪@2NGAY1DEM‬        \n  \n📣 Subscribe kênh 2 NGÀY 1 ĐÊM VIETNAM để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/2N1DVietnam\n\n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK\n\n\n\n👉 Theo dõi các kênh chính thức của 2 Ngày 1 Đêm Vietnam:\n► YouTube:    / @2ngay1dem  \n► Fanpage:   / 2ngay1demvietnam.dongtay  \n► Instagram:   / 2days1nightvietnamofficial  \n► TikTok:   / 2ngay1demvietnam  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+          "text": "   • 🌈 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 2 | Phiên bả...  "
+        },
+        {
+          "url": "https://VieNETWORK.bfan.link/2N1D",
+          "text": "https://VieNETWORK.bfan.link/2N1D"
+        },
+        {
+          "url": "https://vieshop.vn/",
+          "text": "https://vieshop.vn/"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ngay1dem",
+          "text": "#2Ngay1Dem"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ng%C3%A0y1%C4%91%C3%AAm",
+          "text": "#2Ngày1Đêm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/m%C3%B9a2",
+          "text": "#Mùa2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ng%C3%A0y1%C4%91%C3%AAmm%C3%B9a2",
+          "text": "#2Ngày1ĐêmMùa2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ngay1demmua2",
+          "text": "#2Ngay1DemMua2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/t%E1%BA%ADp36",
+          "text": "#Tập36"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dongtaypromotion",
+          "text": "#DongTayPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tr%C6%B0%E1%BB%9Dnggiang",
+          "text": "#TrườngGiang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ki%E1%BB%81uminhtu%E1%BA%A5n",
+          "text": "#KiềuMinhTuấn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%AAd%C6%B0%C6%A1ngb%E1%BA%A3ol%C3%A2m",
+          "text": "#LêDươngBảoLâm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ng%C3%B4ki%E1%BA%BFnhuy",
+          "text": "#NgôKiếnHuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/crisphan",
+          "text": "#CrisPhan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hieuthuhai",
+          "text": "#HIEUTHUHAI"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bray",
+          "text": "#BRay"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bigdaddy",
+          "text": "#BigDaddy"
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "‪@dongtaypromotionofficial‬"
+        },
+        {
+          "url": "https://www.youtube.com/@2NGAY1DEM",
+          "text": "‪@2NGAY1DEM‬"
+        },
+        {
+          "url": "https://bit.ly/2N1DVietnam",
+          "text": "https://bit.ly/2N1DVietnam"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w",
+          "text": "   / @2ngay1dem  "
+        },
+        {
+          "url": "https://www.facebook.com/2Ngay1DemVietNam.DongTay",
+          "text": "  / 2ngay1demvietnam.dongtay  "
+        },
+        {
+          "url": "https://www.instagram.com/2days1nightvietnamofficial/",
+          "text": "  / 2days1nightvietnamofficial  "
+        },
+        {
+          "url": "https://www.tiktok.com/@2ngay1demvietnam",
+          "text": "  / 2ngay1demvietnam  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 14,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isMonetized": null,
+      "hashtags": [
+        "#Mùa2",
+        "#2Ngay1Dem",
+        "#BRay"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isPaidContent": false
+    },
+    {
+      "title": "2 Ngày 1 Đêm - Mùa 2 |Tập 39: Ngô Kiến Huy - Ngọc Phước bị gài bẫy, Kiều Minh Tuấn trả đũa bất thành",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "lhznO_xsbfU",
+      "url": "https://www.youtube.com/watch?v=lhznO_xsbfU&list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ&index=12",
+      "thumbnailUrl": "https://i.ytimg.com/vi/lhznO_xsbfU/maxresdefault.jpg",
+      "viewCount": 11263631,
+      "date": "2023-11-19T13:40:10.000Z",
+      "likes": 89000,
+      "location": null,
+      "channelName": "2 NGÀY 1 ĐÊM VIETNAM",
+      "channelUrl": "https://www.youtube.com/@2NGAY1DEM",
+      "channelUsername": "2NGAY1DEM",
+      "collaborators": null,
+      "channelId": "UChGncdgzOKmp5XQTnQa2h4w",
+      "numberOfSubscribers": 1650000,
+      "duration": "01:37:54",
+      "commentsCount": 6016,
+      "text": "2 Ngày 1 Đêm - Mùa 2 | Tập 39: Ngô Kiến Huy - Ngọc Phước bị gài bẫy, Kiều Minh Tuấn trả đũa bất thành\n\n2 Ngày 1 Đêm tiếp tục hành trình mới tại Phú Yên - là vùng đất nổi tiếng với vẻ đẹp hoang sơ và hùng vĩ. Dàn khách mời cực \"hùng hậu\" trong chặng này hứa hẹn sẽ mang đến những màn tranh đấu hết mình và cực kỳ gay cấn.\n\nXem TRỌN BỘ 2 Ngày 1 Đêm Mùa 2 ➡️ https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ\n\n🎧 Nghe Theme song 2 Ngày 1 Đêm  👉 https://VieNETWORK.bfan.link/2N1D\n\n💕Sở hữu các sản phẩm Merchandise 2 Ngày 1 Đêm tại https://vieshop.vn/\n\n#2Ngay1Dem #2Ngày1Đêm #Mùa2 #2Ngày1ĐêmMùa2 #2Ngay1DemMua2 #Tập39 #DongTayPromotion #TrườngGiang #KiềuMinhTuấn #LêDươngBảoLâm #NgôKiếnHuy #CrisPhan #HIEUTHUHAI #LâmVỹDạ #Puka #NamThư #MinhTú #NgọcPhước #KhaLy\n\n🏕 Chuyến đi 2 Ngày 1 Đêm bắt đầu từ cuộc gặp gỡ của những người đàn ông từ những hoàn cảnh, những cá tính khác nhau nhưng để hết tất cả sau lưng vào tham gia một cuộc hành trình khám phá mọi miền đất nước và khám phá bản thân. Trở lại với phiên bản Mùa 2 với 3 tính chất được thăng hạng 2X (Bất Ngờ - Khổ Đau - Tiếng cười) hứa hẹn những tình huống dở khóc dở cười đến khán giả. \n\n⏰Đón xem 2 NGÀY 1 ĐÊM - MÙA 2 vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  @dongtaypromotionofficial  và  @2NGAY1DEM      \n  \n📣 Subscribe kênh 2 NGÀY 1 ĐÊM VIETNAM để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/2N1DVietnam\n\n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK\n\n\n\n👉 Theo dõi các kênh chính thức của 2 Ngày 1 Đêm Vietnam:\n► YouTube: https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w\n► Fanpage: https://www.facebook.com/2Ngay1DemVietNam.DongTay\n► Instagram: https://www.instagram.com/2days1nightvietnamofficial/\n► TikTok: https://www.tiktok.com/@2ngay1demvietnam",
+      "translatedText": "2 Ngày 1 Đêm - Mùa 2 | Tập 39: Ngô Kiến Huy - Ngọc Phước bị gài bẫy, Kiều Minh Tuấn trả đũa bất thành\n\n2 Ngày 1 Đêm tiếp tục hành trình mới tại Phú Yên - là vùng đất nổi tiếng với vẻ đẹp hoang sơ và hùng vĩ. Dàn khách mời cực \"hùng hậu\" trong chặng này hứa hẹn sẽ mang đến những màn tranh đấu hết mình và cực kỳ gay cấn.\n\nXem TRỌN BỘ 2 Ngày 1 Đêm Mùa 2 ➡️    • 🌈 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 2 | Phiên bả...  \n\n🎧 Nghe Theme song 2 Ngày 1 Đêm  👉 https://VieNETWORK.bfan.link/2N1D\n\n💕Sở hữu các sản phẩm Merchandise 2 Ngày 1 Đêm tại https://vieshop.vn/\n\n#2Ngay1Dem #2Ngày1Đêm #Mùa2 #2Ngày1ĐêmMùa2 #2Ngay1DemMua2 #Tập39 #DongTayPromotion #TrườngGiang #KiềuMinhTuấn #LêDươngBảoLâm #NgôKiếnHuy #CrisPhan #HIEUTHUHAI #LâmVỹDạ #Puka #NamThư #MinhTú #NgọcPhước #KhaLy\n\n🏕 Chuyến đi 2 Ngày 1 Đêm bắt đầu từ cuộc gặp gỡ của những người đàn ông từ những hoàn cảnh, những cá tính khác nhau nhưng để hết tất cả sau lưng vào tham gia một cuộc hành trình khám phá mọi miền đất nước và khám phá bản thân. Trở lại với phiên bản Mùa 2 với 3 tính chất được thăng hạng 2X (Bất Ngờ - Khổ Đau - Tiếng cười) hứa hẹn những tình huống dở khóc dở cười đến khán giả. \n\n⏰Đón xem 2 NGÀY 1 ĐÊM - MÙA 2 vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  ‪@dongtaypromotionofficial‬  và  ‪@2NGAY1DEM‬      \n  \n📣 Subscribe kênh 2 NGÀY 1 ĐÊM VIETNAM để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/2N1DVietnam\n\n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK\n\n\n\n👉 Theo dõi các kênh chính thức của 2 Ngày 1 Đêm Vietnam:\n► YouTube:    / @2ngay1dem  \n► Fanpage:   / 2ngay1demvietnam.dongtay  \n► Instagram:   / 2days1nightvietnamofficial  \n► TikTok:   / 2ngay1demvietnam  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+          "text": "   • 🌈 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 2 | Phiên bả...  "
+        },
+        {
+          "url": "https://VieNETWORK.bfan.link/2N1D",
+          "text": "https://VieNETWORK.bfan.link/2N1D"
+        },
+        {
+          "url": "https://vieshop.vn/",
+          "text": "https://vieshop.vn/"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ngay1dem",
+          "text": "#2Ngay1Dem"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ng%C3%A0y1%C4%91%C3%AAm",
+          "text": "#2Ngày1Đêm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/m%C3%B9a2",
+          "text": "#Mùa2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ng%C3%A0y1%C4%91%C3%AAmm%C3%B9a2",
+          "text": "#2Ngày1ĐêmMùa2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ngay1demmua2",
+          "text": "#2Ngay1DemMua2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/t%E1%BA%ADp39",
+          "text": "#Tập39"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dongtaypromotion",
+          "text": "#DongTayPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tr%C6%B0%E1%BB%9Dnggiang",
+          "text": "#TrườngGiang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ki%E1%BB%81uminhtu%E1%BA%A5n",
+          "text": "#KiềuMinhTuấn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%AAd%C6%B0%C6%A1ngb%E1%BA%A3ol%C3%A2m",
+          "text": "#LêDươngBảoLâm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ng%C3%B4ki%E1%BA%BFnhuy",
+          "text": "#NgôKiếnHuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/crisphan",
+          "text": "#CrisPhan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hieuthuhai",
+          "text": "#HIEUTHUHAI"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%A2mv%E1%BB%B9d%E1%BA%A1",
+          "text": "#LâmVỹDạ"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/puka",
+          "text": "#Puka"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/namth%C6%B0",
+          "text": "#NamThư"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/minht%C3%BA",
+          "text": "#MinhTú"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ng%E1%BB%8Dcph%C6%B0%E1%BB%9Bc",
+          "text": "#NgọcPhước"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/khaly",
+          "text": "#KhaLy"
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "‪@dongtaypromotionofficial‬"
+        },
+        {
+          "url": "https://www.youtube.com/@2NGAY1DEM",
+          "text": "‪@2NGAY1DEM‬"
+        },
+        {
+          "url": "https://bit.ly/2N1DVietnam",
+          "text": "https://bit.ly/2N1DVietnam"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w",
+          "text": "   / @2ngay1dem  "
+        },
+        {
+          "url": "https://www.facebook.com/2Ngay1DemVietNam.DongTay",
+          "text": "  / 2ngay1demvietnam.dongtay  "
+        },
+        {
+          "url": "https://www.instagram.com/2days1nightvietnamofficial/",
+          "text": "  / 2days1nightvietnamofficial  "
+        },
+        {
+          "url": "https://www.tiktok.com/@2ngay1demvietnam",
+          "text": "  / 2ngay1demvietnam  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 11,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isPaidContent": false
+    },
+    {
+      "title": "Chỉ còn 1 NGÀY nữa!! Có ai hóng anh em tụi tui tiểu phẩm hông? | 2 Ngày 1 Đêm Mùa 2",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "OqRc822B6fs",
+      "url": "https://www.youtube.com/watch?v=OqRc822B6fs&list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ&index=21",
+      "thumbnailUrl": "https://i.ytimg.com/vi/OqRc822B6fs/maxresdefault.jpg",
+      "viewCount": 64897,
+      "date": "2023-09-30T13:00:16.000Z",
+      "likes": 1100,
+      "location": null,
+      "channelName": "2 NGÀY 1 ĐÊM VIETNAM",
+      "channelUrl": "https://www.youtube.com/@2NGAY1DEM",
+      "channelUsername": "2NGAY1DEM",
+      "collaborators": null,
+      "channelId": "UChGncdgzOKmp5XQTnQa2h4w",
+      "numberOfSubscribers": 1650000,
+      "duration": "00:01:17",
+      "commentsCount": 57,
+      "text": "Chỉ còn 1 NGÀY nữa!! Có ai hóng anh em tụi tui tiểu phẩm hông? | 2 Ngày 1 Đêm Mùa 2\n\n#2Ngay1Dem #2Ngày1Đêm #Mùa2 #2Ngày1ĐêmMùa2 #2Ngay1DemMua2 #2N1Đ #DongTayPromotion\n#TrườngGiang #KiềuMinhTuấn #LêDươngBảoLâm #NgôKiếnHuy #CrisPhan #HIEUTHUHAI #HậuTrường2Ngày1Đêm #BTS2Ngày1Đêm\n\nChuyến đi 2 Ngày 1 Đêm bắt đầu từ cuộc gặp gỡ của những người đàn ông từ những hoàn cảnh, những cá tính khác nhau nhưng để hết tất cả sau lưng vào tham gia một cuộc hành trình khám phá mọi miền đất nước và khám phá bản thân. Trở lại với phiên bản Mùa 2 với 3 tính chất được thăng hạng 2X (Bất Ngờ - Khổ Đau - Tiếng cười) hứa hẹn những tình huống dở khóc dở cười đến khán giả.  \n\n⏰Đón xem 2 NGÀY 1 ĐÊM - MÙA 2 vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh @dongtaypromotionofficial và @2NGAY1DEM \n  \n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK\n\n\n\n👉 Theo dõi các kênh chính thức của 2 Ngày 1 Đêm Vietnam:\n► YouTube: https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w\n► Fanpage: https://www.facebook.com/2Ngay1DemVietNam.DongTay\n► Instagram: https://www.instagram.com/2days1nightvietnamofficial/\n► TikTok: https://www.tiktok.com/@2ngay1demvietnam",
+      "translatedText": "Ch��� còn 1 NGÀY nữa!! Có ai hóng anh em tụi tui tiểu phẩm hông? | 2 Ngày 1 Đêm Mùa 2\n\n#2Ngay1Dem #2Ngày1Đêm #Mùa2 #2Ngày1ĐêmMùa2 #2Ngay1DemMua2 #2N1Đ #DongTayPromotion\n#TrườngGiang #KiềuMinhTuấn #LêDươngBảoLâm #NgôKiếnHuy #CrisPhan #HIEUTHUHAI #HậuTrường2Ngày1Đêm #BTS2Ngày1Đêm\n\nChuyến đi 2 Ngày 1 Đêm bắt đầu từ cuộc gặp gỡ của những người đàn ông từ những hoàn cảnh, những cá tính khác nhau nhưng để hết tất cả sau lưng vào tham gia một cuộc hành trình khám phá mọi miền đất nước và khám phá bản thân. Trở lại với phiên bản Mùa 2 với 3 tính chất được thăng hạng 2X (Bất Ngờ - Khổ Đau - Tiếng cười) hứa hẹn những tình huống dở khóc dở cười đến khán giả.  \n\n⏰Đón xem 2 NGÀY 1 ĐÊM - MÙA 2 vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh @dongtaypromotionofficial và ‪@2NGAY1DEM‬ \n  \n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK\n\n\n\n👉 Theo dõi các kênh chính thức của 2 Ngày 1 Đêm Vietnam:\n► YouTube:    / @2ngay1dem  \n► Fanpage:   / 2ngay1demvietnam.dongtay  \n► Instagram:   / 2days1nightvietnamofficial  \n► TikTok:   / 2ngay1demvietnam  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/2ngay1dem",
+          "text": "\n\n#2Ngay1D"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ng%C3%A0y1%C4%91%C3%AAm",
+          "text": "m #2Ngày1Đ"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/m%C3%B9a2",
+          "text": "m #Mù"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ng%C3%A0y1%C4%91%C3%AAmm%C3%B9a2",
+          "text": "2 #2Ngày1ĐêmMù"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ngay1demmua2",
+          "text": "2 #2Ngay1DemMu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2n1%C4%91",
+          "text": "2 #2N"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dongtaypromotion",
+          "text": "Đ #DongTayPromoti"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tr%C6%B0%E1%BB%9Dnggiang",
+          "text": "n\n#TrườngGia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ki%E1%BB%81uminhtu%E1%BA%A5n",
+          "text": "g #KiềuMinhTu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%AAd%C6%B0%C6%A1ngb%E1%BA%A3ol%C3%A2m",
+          "text": "n #LêDươngBảoL"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ng%C3%B4ki%E1%BA%BFnhuy",
+          "text": "m #NgôKiếnH"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/crisphan",
+          "text": "y #CrisPh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hieuthuhai",
+          "text": "n #HIEUTHUH"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/h%E1%BA%ADutr%C6%B0%E1%BB%9Dng2ng%C3%A0y1%C4%91%C3%AAm",
+          "text": "I #HậuTrường2Ngày1Đ"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bts2ng%C3%A0y1%C4%91%C3%AAm",
+          "text": "m #BTS2Ngày1Đ"
+        },
+        {
+          "url": "https://www.youtube.com/@2NGAY1DEM",
+          "text": "à ‪@2NGAY1DE"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w",
+          "text": ":    / @2ngay1dem"
+        },
+        {
+          "url": "https://www.facebook.com/2Ngay1DemVietNam.DongTay",
+          "text": ":   / 2ngay1demvietnam.dongtay"
+        },
+        {
+          "url": "https://www.instagram.com/2days1nightvietnamofficial/",
+          "text": ":   / 2days1nightvietnamofficial"
+        },
+        {
+          "url": "https://www.tiktok.com/@2ngay1demvietnam",
+          "text": ":   / 2ngay1demvietnam"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 20,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isMonetized": null,
+      "hashtags": [
+        "#Mùa2",
+        "#2Ngay1Dem",
+        "#2Ngày1Đêm"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isPaidContent": false
+    },
+    {
+      "title": "2 Ngày 1 Đêm-Mùa 2 | Tập 38: Dương Lâm tung đòn chí mạng báo B Ray, HIEUTHUHAI tẩu thoát lên nóc nhà",
+      "translatedTitle": "2 Days 1 Night - Season 2 | Episode 38: Duong Lam lands a fatal blow on B Ray, HIEUTHUHAI escapes...",
+      "type": "video",
+      "id": "eNWB79yOKe0",
+      "url": "https://www.youtube.com/watch?v=eNWB79yOKe0&list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ&index=13",
+      "thumbnailUrl": "https://i.ytimg.com/vi/eNWB79yOKe0/maxresdefault.jpg",
+      "viewCount": 3028485,
+      "date": "2023-11-16T13:30:14.000Z",
+      "likes": 15000,
+      "location": null,
+      "channelName": "2 NGÀY 1 ĐÊM VIETNAM",
+      "channelUrl": "https://www.youtube.com/@2NGAY1DEM",
+      "channelUsername": "2NGAY1DEM",
+      "collaborators": null,
+      "channelId": "UChGncdgzOKmp5XQTnQa2h4w",
+      "numberOfSubscribers": 1650000,
+      "duration": "01:28:27",
+      "commentsCount": 397,
+      "text": "2 Ngày 1 Đêm - Mùa 2 | Tập 38: Dương Lâm tung đòn chí mạng báo B Ray, HIEUTHUHAI tẩu thoát lên nóc nhà\n\nTuần này dàn cast và khách mời sẽ trải qua những thử thách cuối cùng tại Bình Định, khép lại một hành trình đầy thú vị và nhiều tiếng cười. Chờ xem những màn tấu hài siêu lầy lội của biệt đội 2 Ngày 1 Đêm nhé!\n\nXem TRỌN BỘ 2 Ngày 1 Đêm Mùa 2 ➡️ https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ\n\n🎧 Nghe Theme song 2 Ngày 1 Đêm  👉 https://VieNETWORK.bfan.link/2N1D\n\n💕Sở hữu các sản phẩm Merchandise 2 Ngày 1 Đêm tại https://vieshop.vn/\n\n#2Ngay1Dem #2Ngày1Đêm #Mùa2 #2Ngày1ĐêmMùa2 #2Ngay1DemMua2 #Tập38 #DongTayPromotion #TrườngGiang #KiềuMinhTuấn #LêDươngBảoLâm #NgôKiếnHuy #CrisPhan #HIEUTHUHAI #BRay #BigDaddy\n\n🏕 Chuyến đi 2 Ngày 1 Đêm bắt đầu từ cuộc gặp gỡ của những người đàn ông từ những hoàn cảnh, những cá tính khác nhau nhưng để hết tất cả sau lưng vào tham gia một cuộc hành trình khám phá mọi miền đất nước và khám phá bản thân. Trở lại với phiên bản Mùa 2 với 3 tính chất được thăng hạng 2X (Bất Ngờ - Khổ Đau - Tiếng cười) hứa hẹn những tình huống dở khóc dở cười đến khán giả. \n\n⏰Đón xem 2 NGÀY 1 ĐÊM - MÙA 2 vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh @dongtaypromotionofficial  và  @2NGAY1DEM       \n  \n📣 Subscribe kênh 2 NGÀY 1 ĐÊM VIETNAM để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/2N1DVietnam\n\n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK\n\n\n\n👉 Theo dõi các kênh chính thức của 2 Ngày 1 Đêm Vietnam:\n► YouTube: https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w\n► Fanpage: https://www.facebook.com/2Ngay1DemVietNam.DongTay\n► Instagram: https://www.instagram.com/2days1nightvietnamofficial/\n► TikTok: https://www.tiktok.com/@2ngay1demvietnam",
+      "translatedText": "2 Days 1 Night - Season 2 | Episode 38: Duong Lam delivers a fatal blow to B Ray, HIEUTHUHAI escapes to the rooftop\n\nThis week, the cast and guests will face the final challenges in Binh Dinh, concluding a journey full of fun and laughter. Get ready to see the hilarious antics of the 2 Days 1 Night team!\n\nWatch the FULL 2 Days 1 Night Season 2 ➡️    • 🌈 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 2 | Phiên bả...  \n\n🎧 Listen to the 2 Days 1 Night Theme Song 👉 https://VieNETWORK.bfan.link/2N1D\n\n💕 Own 2 Days 1 Night Merchandise products at https://vieshop.vn/\n\n#2Days1Night #2Days1Night #Season2 #2Days1NightSeason2 #2Days1NightSeason2 #Episode38 #DongTayPromotion #TruongGiang #KieuMinhTuan #LeDuongBaoLam #NgoKienHuy #CrisPhan #HIEUTHUHAI #BRay #BigDaddy\n\n🏕 The 2 Days 1 Night trip begins From the encounter of men from diverse backgrounds and personalities, who leave everything behind to embark on a journey of discovery across the country and self-discovery. Returning in Season 2 with three upgraded elements (Surprise - Suffering - Laughter), promising hilarious and heartwarming situations for viewers.\n\n⏰ Watch 2 DAYS 1 NIGHT - SEASON 2 at:\n\n📺 8:30 PM every Sunday on HTV7 and the VieON entertainment app\n▶️ 8:40 PM on @dongtaypromotionofficial and @2NGAY1DEM\n\n📣 Subscribe to the 2 DAYS 1 NIGHT VIETNAM channel to watch the EARLIEST and NEWEST episodes: https://bit.ly/2N1DVietnam\n\n©️ 2 Days 1 Night Vietnam is owned by Dong Tay Promotion and protected by copyright by VieNETWORK\n\n👉 Follow the official channels of 2 Days 1 Night Vietnam:\n\n► YouTube:    / @2ngay1dem  \n\n► Fanpage:   / 2ngay1demvietnam.dongtay  \n► Instagram:   / 2days1nightvietnamofficial  \n► TikTok:   / 2ngay1demvietnam  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+          "text": "   • 🌈 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 2 | Phiên bả...  "
+        },
+        {
+          "url": "https://VieNETWORK.bfan.link/2N1D",
+          "text": "https://VieNETWORK.bfan.link/2N1D"
+        },
+        {
+          "url": "https://vieshop.vn/",
+          "text": "https://vieshop.vn/"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2days1night",
+          "text": "#2Days1Night"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2days1night",
+          "text": "#2Days1Night"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/season2",
+          "text": "#Season2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2days1nightseason2",
+          "text": "#2Days1NightSeason2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2days1nightseason2",
+          "text": "#2Days1NightSeason2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/episode38",
+          "text": "#Episode38"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dongtaypromotion",
+          "text": "#DongTayPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/truonggiang",
+          "text": "#TruongGiang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/kieuminhtuan",
+          "text": "#KieuMinhTuan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/leduongbaolam",
+          "text": "#LeDuongBaoLam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngokienhuy",
+          "text": "#NgoKienHuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/crisphan",
+          "text": "#CrisPhan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hieuthuhai",
+          "text": "#HIEUTHUHAI"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bray",
+          "text": "#BRay"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bigdaddy",
+          "text": "#BigDaddy"
+        },
+        {
+          "url": "https://bit.ly/2N1DVietnam",
+          "text": "https://bit.ly/2N1DVietnam"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w",
+          "text": "   / @2ngay1dem  "
+        },
+        {
+          "url": "https://www.facebook.com/2ngay1DemVietNam.DongTay",
+          "text": "  / 2ngay1demvietnam.dongtay  "
+        },
+        {
+          "url": "https://www.instagram.com/2days1nightvietnamofficial/",
+          "text": "  / 2days1nightvietnamofficial  "
+        },
+        {
+          "url": "https://www.tiktok.com/@2ngay1demvietnam",
+          "text": "  / 2ngay1demvietnam  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 12,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isPaidContent": false
+    },
+    {
+      "title": "Đón xem TỐI NAY !! Sẵn sàng với những trận cười \"vô tri\" cùng 2 Ngày 1 Đêm Mùa 2 chưa cả nhà ơii",
+      "translatedTitle": "Watch TONIGHT!! Are you ready for some mindless laughs with 2 Days & 1 Night Season 2, everyone?",
+      "type": "video",
+      "id": "i6y1UAQwGvA",
+      "url": "https://www.youtube.com/watch?v=i6y1UAQwGvA&list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ&index=20",
+      "thumbnailUrl": "https://i.ytimg.com/vi/i6y1UAQwGvA/maxresdefault.jpg",
+      "viewCount": 122626,
+      "date": "2023-10-01T04:00:32.000Z",
+      "likes": 2100,
+      "location": null,
+      "channelName": "2 NGÀY 1 ĐÊM VIETNAM",
+      "channelUrl": "https://www.youtube.com/@2NGAY1DEM",
+      "channelUsername": "2NGAY1DEM",
+      "collaborators": null,
+      "channelId": "UChGncdgzOKmp5XQTnQa2h4w",
+      "numberOfSubscribers": 1650000,
+      "duration": "00:02:29",
+      "commentsCount": 120,
+      "text": "Đón xem TỐI NAY !! Sẵn sàng với những trận cười \"vô tri\" cùng 2 Ngày 1 Đêm Mùa 2 chưa cả nhà ơii\n\n#2Ngay1Dem #2Ngày1Đêm #Mùa2 #2Ngày1ĐêmMùa2 #2Ngay1DemMua2 #2N1Đ #DongTayPromotion\n#TrườngGiang #KiềuMinhTuấn #LêDươngBảoLâm #NgôKiếnHuy #CrisPhan #HIEUTHUHAI #HậuTrường2Ngày1Đêm #BTS2Ngày1Đêm\n\nChuyến đi 2 Ngày 1 Đêm bắt đầu từ cuộc gặp gỡ của những người đàn ông từ những hoàn cảnh, những cá tính khác nhau nhưng để hết tất cả sau lưng vào tham gia một cuộc hành trình khám phá mọi miền đất nước và khám phá bản thân. Trở lại với phiên bản Mùa 2 với 3 tính chất được thăng hạng 2X (Bất Ngờ - Khổ Đau - Tiếng cười) hứa hẹn những tình huống dở khóc dở cười đến khán giả.  \n\n⏰Đón xem 2 NGÀY 1 ĐÊM - MÙA 2 vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh @dongtaypromotionofficial  và  @2NGAY1DEM \n  \n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK\n\n\n\n👉 Theo dõi các kênh chính thức của 2 Ngày 1 Đêm Vietnam:\n► YouTube: https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w\n► Fanpage: https://www.facebook.com/2Ngay1DemVietNam.DongTay\n► Instagram: https://www.instagram.com/2days1nightvietnamofficial/\n► TikTok: https://www.tiktok.com/@2ngay1demvietnam",
+      "translatedText": "Watch TONIGHT!! Are you ready for some \"senseless\" laughter with 2 Days 1 Night Season 2, everyone?!\n\n#2Days1Night #2Days1Night #Season2 #2Days1NightSeason2 #2Days1NightSeason2 #2N1D #DongTayPromotion\n\n#TruongGiang #KieuMinhTuan #LeDuongBaoLam #NgoKienHuy #CrisPhan #HIEUTHUHAI #BehindTheScenes2Days1Night #BTS2Days1Night\n\nThe 2 Days 1 Night journey begins with the meeting of men from different backgrounds and personalities, but they leave everything behind to embark on a journey to explore the country and discover themselves. Returning with Season 2, featuring 3 upgraded elements (Surprise - Suffering - Laughter), promises hilarious and heartwarming situations for viewers.\n\n⏰ Watch 2 DAYS 1 NIGHT - SEASON 2 at:\n\n📺 8:30 PM every Sunday on HTV7 and the VieON entertainment app\n▶️ 8:40 PM on @dongtaypromotionofficial and @2NGAY1DEM\n\n©️ 2 Days 1 Night Vietnam is owned by Dong Tay Promotion and protected by copyright by VieNETWORK\n\n👉 Follow the official channels of 2 Days 1 Night Vietnam:\n\n► YouTube:    / @2ngay1dem  \n► Fanpage:   / 2ngay1demvietnam.dongtay  \n► Instagram:   / 2days1nightvietnamofficial  \n► TikTok:   / 2ngay1demvietnam  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/2days1night",
+          "text": "#2Days1Night"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2days1night",
+          "text": "#2Days1Night"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/season2",
+          "text": "#Season2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2days1nightseason2",
+          "text": "#2Days1NightSeason2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2days1nightseason2",
+          "text": "#2Days1NightSeason2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2n1d",
+          "text": "#2N1D"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dongtaypromotion",
+          "text": "#DongTayPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/truonggiang",
+          "text": "#TruongGiang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/kieuminhtuan",
+          "text": "#KieuMinhTuan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/leduongbaolam",
+          "text": "#LeDuongBaoLam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngokienhuy",
+          "text": "#NgoKienHuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/crisphan",
+          "text": "#CrisPhan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hieuthuhai",
+          "text": "#HIEUTHUHAI"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/behindthescenes2days1night",
+          "text": "#BehindTheScenes2Days1Night"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bts2days1night",
+          "text": "#BTS2Days1Night"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w",
+          "text": "   / @2ngay1dem  "
+        },
+        {
+          "url": "https://www.facebook.com/2Ngay1DemVietNam.DongTay",
+          "text": "  / 2ngay1demvietnam.dongtay  "
+        },
+        {
+          "url": "https://www.instagram.com/2days1nightvietnamofficial/",
+          "text": "  / 2days1nightvietnamofficial  "
+        },
+        {
+          "url": "https://www.tiktok.com/@2ngay1demvietnam",
+          "text": "  / 2ngay1demvietnam  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 19,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isMonetized": null,
+      "hashtags": [
+        "#Mùa2",
+        "#2Ngay1Dem",
+        "#2Ngày1Đêm"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isPaidContent": false
+    },
+    {
+      "title": "2 Ngày 1 Đêm - Mùa 2 | Tập 46: Cris Phan khoe gia thế khủng, “cua tặc” Dương Lâm đột kích HIEUTHUHAI",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "GmfB9eF9lY8",
+      "url": "https://www.youtube.com/watch?v=GmfB9eF9lY8&list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ&index=5",
+      "thumbnailUrl": "https://i.ytimg.com/vi/GmfB9eF9lY8/maxresdefault.jpg",
+      "viewCount": 10495134,
+      "date": "2024-01-07T13:40:08.000Z",
+      "likes": 83000,
+      "location": null,
+      "channelName": "2 NGÀY 1 ĐÊM VIETNAM",
+      "channelUrl": "https://www.youtube.com/@2NGAY1DEM",
+      "channelUsername": "2NGAY1DEM",
+      "collaborators": null,
+      "channelId": "UChGncdgzOKmp5XQTnQa2h4w",
+      "numberOfSubscribers": 1650000,
+      "duration": "01:30:39",
+      "commentsCount": 4762,
+      "text": "2 Ngày 1 Đêm - Mùa 2 | Tập 46: Cris Phan khoe gia thế khủng, “cua tặc” Dương Lâm đột kích HIEUTHUHAI\n\n2 Ngày 1 Đêm đã có mặt tại Cà Mau cả nhà ơi. Bật mí khách mời tuần này bao vui, bao \"ồn\" nha. \nDàn cast và khách mời liệu có vượt qua những thử thách sông nước tuần này hay không? Chờ xem nhé!\n\nXem TRỌN BỘ 2 Ngày 1 ��êm Mùa 2 ➡️ https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ\n\n🎧 Nghe Theme song 2 Ngày 1 Đêm  👉 https://VieNETWORK.bfan.link/2N1D\n\n💕Sở hữu các sản phẩm Merchandise 2 Ngày 1 Đêm tại https://vieshop.vn/\n\n#2Ngay1Dem #2Ngày1Đêm #Mùa2 #2Ngày1ĐêmMùa2 #2Ngay1DemMua2 #Tập46\n#TrườngGiang #KiềuMinhTuấn #LêDươngBảoLâm #NgôKiếnHuy \n#CrisPhan #HIEUTHUHAI #HuỳnhLập #VõTấnPhát\n\n🏕 Chuyến đi 2 Ngày 1 Đêm bắt đầu từ cuộc gặp gỡ của những người đàn ông từ những hoàn cảnh, những cá tính khác nhau nhưng để hết tất cả sau lưng vào tham gia một cuộc hành trình khám phá mọi miền đất nước và khám phá bản thân. Trở lại với phiên bản Mùa 2 với 3 tính chất được thăng hạng 2X (Bất Ngờ - Khổ Đau - Tiếng cười) hứa hẹn những tình huống dở khóc dở cười đến khán giả. \n\n⏰Đón xem 2 NGÀY 1 ĐÊM - MÙA 2 vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  @dongtaypromotionofficial  và  @2NGAY1DEM        \n  \n📣 Subscribe kênh 2 NGÀY 1 ĐÊM VIETNAM để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/2N1DVietnam\n\n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK\n\n\n\n👉 Theo dõi các kênh chính thức của 2 Ngày 1 Đêm Vietnam:\n► YouTube: https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w\n► Fanpage: https://www.facebook.com/2Ngay1DemVietNam.DongTay\n► Instagram: https://www.instagram.com/2days1nightvietnamofficial/\n► TikTok: https://www.tiktok.com/@2ngay1demvietnam",
+      "translatedText": "2 Ngày 1 Đêm - Mùa 2 | Tập 46: Cris Phan khoe gia thế khủng, “cua tặc” Dương Lâm đột kích HIEUTHUHAI\n\n2 Ngày 1 Đêm đã có mặt tại Cà Mau cả nhà ơi. Bật mí khách mời tuần này bao vui, bao \"ồn\" nha. \nDàn cast và khách mời liệu có vượt qua những thử thách sông nước tuần này hay không? Chờ xem nhé!\n\nXem TRỌN BỘ 2 Ngày 1 Đêm Mùa 2 ➡️    • 🌈 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 2 | Phiên bả...  \n\n🎧 Nghe Theme song 2 Ngày 1 Đêm  👉 https://VieNETWORK.bfan.link/2N1D\n\n💕Sở hữu các sản phẩm Merchandise 2 Ngày 1 Đêm tại https://vieshop.vn/\n\n#2Ngay1Dem #2Ngày1Đêm #Mùa2 #2Ngày1ĐêmMùa2 #2Ngay1DemMua2 #Tập46\n#TrườngGiang #KiềuMinhTuấn #LêDươngBảoLâm #NgôKiếnHuy \n#CrisPhan #HIEUTHUHAI #HuỳnhLập #VõTấnPhát\n\n🏕 Chuyến đi 2 Ngày 1 Đêm bắt đầu từ cuộc gặp gỡ của những người đàn ông từ những hoàn cảnh, những cá tính khác nhau nhưng để hết tất cả sau lưng vào tham gia một cuộc hành trình khám phá mọi miền đất nước và khám phá bản thân. Trở lại với phiên bản Mùa 2 với 3 tính chất được thăng hạng 2X (Bất Ngờ - Khổ Đau - Tiếng cười) hứa hẹn những tình huống dở khóc dở cười đến khán giả. \n\n⏰Đón xem 2 NGÀY 1 ĐÊM - MÙA 2 vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  ‪@dongtaypromotionofficial‬  và  ‪@2NGAY1DEM‬        \n  \n📣 Subscribe kênh 2 NGÀY 1 ĐÊM VIETNAM để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/2N1DVietnam\n\n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK\n\n\n\n👉 Theo dõi các kênh chính thức của 2 Ngày 1 Đêm Vietnam:\n► YouTube:    / @2ngay1dem  \n► Fanpage:   / 2ngay1demvietnam.dongtay  \n► Instagram:   / 2days1nightvietnamofficial  \n► TikTok:   / 2ngay1demvietnam  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+          "text": "   • 🌈 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 2 | Phiên bả...  "
+        },
+        {
+          "url": "https://VieNETWORK.bfan.link/2N1D",
+          "text": "https://VieNETWORK.bfan.link/2N1D"
+        },
+        {
+          "url": "https://vieshop.vn/",
+          "text": "https://vieshop.vn/"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ngay1dem",
+          "text": "#2Ngay1Dem"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ng%C3%A0y1%C4%91%C3%AAm",
+          "text": "#2Ngày1Đêm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/m%C3%B9a2",
+          "text": "#Mùa2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ng%C3%A0y1%C4%91%C3%AAmm%C3%B9a2",
+          "text": "#2Ngày1ĐêmMùa2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ngay1demmua2",
+          "text": "#2Ngay1DemMua2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/t%E1%BA%ADp46",
+          "text": "#Tập46"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tr%C6%B0%E1%BB%9Dnggiang",
+          "text": "#TrườngGiang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ki%E1%BB%81uminhtu%E1%BA%A5n",
+          "text": "#KiềuMinhTuấn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%AAd%C6%B0%C6%A1ngb%E1%BA%A3ol%C3%A2m",
+          "text": "#LêDươngBảoLâm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ng%C3%B4ki%E1%BA%BFnhuy",
+          "text": "#NgôKiếnHuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/crisphan",
+          "text": "#CrisPhan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hieuthuhai",
+          "text": "#HIEUTHUHAI"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hu%E1%BB%B3nhl%E1%BA%ADp",
+          "text": "#HuỳnhLập"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/v%C3%B5t%E1%BA%A5nph%C3%A1t",
+          "text": "#VõTấnPhát"
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "‪@dongtaypromotionofficial‬"
+        },
+        {
+          "url": "https://www.youtube.com/@2NGAY1DEM",
+          "text": "‪@2NGAY1DEM‬"
+        },
+        {
+          "url": "https://bit.ly/2N1DVietnam",
+          "text": "https://bit.ly/2N1DVietnam"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w",
+          "text": "   / @2ngay1dem  "
+        },
+        {
+          "url": "https://www.facebook.com/2Ngay1DemVietNam.DongTay",
+          "text": "  / 2ngay1demvietnam.dongtay  "
+        },
+        {
+          "url": "https://www.instagram.com/2days1nightvietnamofficial/",
+          "text": "  / 2days1nightvietnamofficial  "
+        },
+        {
+          "url": "https://www.tiktok.com/@2ngay1demvietnam",
+          "text": "  / 2ngay1demvietnam  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 4,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isPaidContent": false
+    },
+    {
+      "title": "2 Ngày 1 Đêm-Mùa 2|Tập 47: \"Cua lực sĩ\" Dương Lâm vất vả gánh team, Huỳnh Lập \"đỡ đẻ\" cho HIEUTHUHAI",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "S3UAxkUn1zg",
+      "url": "https://www.youtube.com/watch?v=S3UAxkUn1zg&list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ&index=4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/S3UAxkUn1zg/maxresdefault.jpg",
+      "viewCount": 6337470,
+      "date": "2024-01-17T13:30:09.000Z",
+      "likes": 28000,
+      "location": null,
+      "channelName": "2 NGÀY 1 ĐÊM VIETNAM",
+      "channelUrl": "https://www.youtube.com/@2NGAY1DEM",
+      "channelUsername": "2NGAY1DEM",
+      "collaborators": null,
+      "channelId": "UChGncdgzOKmp5XQTnQa2h4w",
+      "numberOfSubscribers": 1650000,
+      "duration": "01:57:51",
+      "commentsCount": 748,
+      "text": "2 Ngày 1 Đêm - Mùa 2 | Tập 47: \"Cua lực sĩ\" Dương Lâm vất vả gánh team, Huỳnh Lập \"đỡ đẻ\" cho HIEUTHUHAI\n\nXem TRỌN BỘ 2 Ngày 1 Đêm Mùa 2 ➡️ https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ\n\n🎧 Nghe Theme song 2 Ngày 1 Đêm  👉 https://VieNETWORK.bfan.link/2N1D\n\n💕Sở hữu các sản phẩm Merchandise 2 Ngày 1 Đêm tại https://vieshop.vn/\n\n#2Ngay1Dem #2Ngày1Đêm #Mùa2 #2Ngày1ĐêmMùa2 #2Ngay1DemMua2 #Tập47\n#TrườngGiang #KiềuMinhTuấn #LêDươngBảoLâm #NgôKiếnHuy #HIEUTHUHAI\n#CrisPhan #HIEUTHUHAI #HuỳnhLập #VõTấnPhát\n\n🏕 Chuyến đi 2 Ngày 1 Đêm bắt đầu từ cuộc gặp gỡ của những người đàn ông từ những hoàn cảnh, những cá tính khác nhau nhưng để hết tất cả sau lưng vào tham gia một cuộc hành trình khám phá mọi miền đất nước và khám phá bản thân. Trở lại với phiên bản Mùa 2 với 3 tính chất được thăng hạng 2X (Bất Ngờ - Khổ Đau - Tiếng cười) hứa hẹn những tình huống dở khóc dở cười đến khán giả.\n\n⏰Đón xem 2 NGÀY 1 ĐÊM - MÙA 2 vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  @dongtaypromotionofficial  và  @2NGAY1DEM        \n  \n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK.\n\n📣 Subscribe kênh 2 NGÀY 1 ĐÊM VIETNAM để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/2N1DVietnam\n\n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK\n\n\n\n👉 Theo dõi các kênh chính thức của 2 Ngày 1 Đêm Vietnam:\n► YouTube: https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w\n► Fanpage: https://www.facebook.com/2Ngay1DemVietNam.DongTay\n► Instagram: https://www.instagram.com/2days1nightvietnamofficial/\n► TikTok: https://www.tiktok.com/@2ngay1demvietnam",
+      "translatedText": "2 Ngày 1 Đêm - Mùa 2 | Tập 47: \"Cua lực sĩ\" Dương Lâm vất vả gánh team, Huỳnh Lập \"đỡ đẻ\" cho HIEUTHUHAI\n\nXem TRỌN BỘ 2 Ngày 1 Đêm Mùa 2 ➡️    • 🌈 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 2 | Phiên bả...  \n\n🎧 Nghe Theme song 2 Ngày 1 Đêm  👉 https://VieNETWORK.bfan.link/2N1D\n\n💕Sở hữu các sản phẩm Merchandise 2 Ngày 1 Đêm tại https://vieshop.vn/\n\n#2Ngay1Dem #2Ngày1Đêm #Mùa2 #2Ngày1ĐêmMùa2 #2Ngay1DemMua2 #Tập47\n#TrườngGiang #KiềuMinhTuấn #LêDươngBảoLâm #NgôKiếnHuy #HIEUTHUHAI\n#CrisPhan #HIEUTHUHAI #HuỳnhLập #VõTấnPhát\n\n🏕 Chuyến đi 2 Ngày 1 Đêm bắt đầu từ cuộc gặp gỡ của những người đàn ông từ những hoàn cảnh, những cá tính khác nhau nhưng để hết tất cả sau lưng vào tham gia một cuộc hành trình khám phá mọi miền đất nước và khám phá bản thân. Trở lại với phiên bản Mùa 2 với 3 tính chất được thăng hạng 2X (Bất Ngờ - Khổ Đau - Tiếng cười) hứa hẹn những tình huống dở khóc dở cười đến khán giả.\n\n⏰Đón xem 2 NGÀY 1 ĐÊM - MÙA 2 vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  ‪@dongtaypromotionofficial‬  và  ‪@2NGAY1DEM‬        \n  \n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK.\n\n📣 Subscribe kênh 2 NGÀY 1 ĐÊM VIETNAM để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/2N1DVietnam\n\n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK\n\n\n\n👉 Theo dõi các kênh chính thức của 2 Ngày 1 Đêm Vietnam:\n► YouTube:    / @2ngay1dem  \n► Fanpage:   / 2ngay1demvietnam.dongtay  \n► Instagram:   / 2days1nightvietnamofficial  \n► TikTok:   / 2ngay1demvietnam  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+          "text": "   • 🌈 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 2 | Phiên bả...  "
+        },
+        {
+          "url": "https://VieNETWORK.bfan.link/2N1D",
+          "text": "https://VieNETWORK.bfan.link/2N1D"
+        },
+        {
+          "url": "https://vieshop.vn/",
+          "text": "https://vieshop.vn/"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ngay1dem",
+          "text": "#2Ngay1Dem"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ng%C3%A0y1%C4%91%C3%AAm",
+          "text": "#2Ngày1Đêm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/m%C3%B9a2",
+          "text": "#Mùa2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ng%C3%A0y1%C4%91%C3%AAmm%C3%B9a2",
+          "text": "#2Ngày1ĐêmMùa2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ngay1demmua2",
+          "text": "#2Ngay1DemMua2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/t%E1%BA%ADp47",
+          "text": "#Tập47"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tr%C6%B0%E1%BB%9Dnggiang",
+          "text": "#TrườngGiang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ki%E1%BB%81uminhtu%E1%BA%A5n",
+          "text": "#KiềuMinhTuấn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%AAd%C6%B0%C6%A1ngb%E1%BA%A3ol%C3%A2m",
+          "text": "#LêDươngBảoLâm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ng%C3%B4ki%E1%BA%BFnhuy",
+          "text": "#NgôKiếnHuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hieuthuhai",
+          "text": "#HIEUTHUHAI"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/crisphan",
+          "text": "#CrisPhan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hieuthuhai",
+          "text": "#HIEUTHUHAI"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hu%E1%BB%B3nhl%E1%BA%ADp",
+          "text": "#HuỳnhLập"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/v%C3%B5t%E1%BA%A5nph%C3%A1t",
+          "text": "#VõTấnPhát"
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "‪@dongtaypromotionofficial‬"
+        },
+        {
+          "url": "https://www.youtube.com/@2NGAY1DEM",
+          "text": "‪@2NGAY1DEM‬"
+        },
+        {
+          "url": "https://bit.ly/2N1DVietnam",
+          "text": "https://bit.ly/2N1DVietnam"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w",
+          "text": "   / @2ngay1dem  "
+        },
+        {
+          "url": "https://www.facebook.com/2Ngay1DemVietNam.DongTay",
+          "text": "  / 2ngay1demvietnam.dongtay  "
+        },
+        {
+          "url": "https://www.instagram.com/2days1nightvietnamofficial/",
+          "text": "  / 2days1nightvietnamofficial  "
+        },
+        {
+          "url": "https://www.tiktok.com/@2ngay1demvietnam",
+          "text": "  / 2ngay1demvietnam  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 3,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isPaidContent": false
+    },
+    {
+      "title": "2 Ngày 1 Đêm-Mùa 2|Tập 48: Trường Giang cắm đầu sau pha đột kích, Dương Lâm nhảy sào theo cách riêng",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "67c__GrqNWk",
+      "url": "https://www.youtube.com/watch?v=67c__GrqNWk&list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ&index=3",
+      "thumbnailUrl": "https://i.ytimg.com/vi/67c__GrqNWk/maxresdefault.jpg",
+      "viewCount": 1946753,
+      "date": "2024-01-24T13:30:03.000Z",
+      "likes": 12000,
+      "location": null,
+      "channelName": "2 NGÀY 1 ĐÊM VIETNAM",
+      "channelUrl": "https://www.youtube.com/@2NGAY1DEM",
+      "channelUsername": "2NGAY1DEM",
+      "collaborators": null,
+      "channelId": "UChGncdgzOKmp5XQTnQa2h4w",
+      "numberOfSubscribers": 1650000,
+      "duration": "01:44:40",
+      "commentsCount": 363,
+      "text": "2 Ngày 1 Đêm - Mùa 2 | Tập 48: Trường Giang cắm đầu sau pha đột kích, Dương Lâm nhảy sào theo cách riêng\n\nXem TRỌN BỘ 2 Ngày 1 Đêm Mùa 2 ➡️ https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ\n\n🎧 Nghe Theme song 2 Ngày 1 Đêm  👉 https://VieNETWORK.bfan.link/2N1D\n\n💕Sở hữu các sản phẩm Merchandise 2 Ngày 1 Đêm tại https://vieshop.vn/\n\n#2Ngay1Dem #2Ngày1Đêm #Mùa2 #2Ngày1ĐêmMùa2 #2Ngay1DemMua2 #Tập48\n#TrườngGiang #KiềuMinhTuấn #LêDươngBảoLâm #NgôKiếnHuy #HIEUTHUHAI #CrisPhan \n\n🏕 Chuyến đi 2 Ngày 1 Đêm bắt đầu từ cuộc gặp gỡ của những người đàn ông từ những hoàn cảnh, những cá tính khác nhau nhưng để hết tất cả sau lưng vào tham gia một cuộc hành trình khám phá mọi miền đất nước và khám phá bản thân. Trở lại với phiên bản Mùa 2 với 3 tính chất được thăng hạng 2X (Bất Ngờ - Khổ Đau - Tiếng cười) hứa hẹn những tình huống dở khóc dở cười đến khán giả.\n\n⏰Đón xem 2 NGÀY 1 ĐÊM - MÙA 2 vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  @dongtaypromotionofficial  và  @2NGAY1DEM        \n  \n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK.\n\n📣 Subscribe kênh 2 NGÀY 1 ĐÊM VIETNAM để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/2N1DVietnam\n\n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK\n\n\n\n👉 Theo dõi các kênh chính thức của 2 Ngày 1 Đêm Vietnam:\n► YouTube: https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w\n► Fanpage: https://www.facebook.com/2Ngay1DemVietNam.DongTay\n► Instagram: https://www.instagram.com/2days1nightvietnamofficial/\n► TikTok: https://www.tiktok.com/@2ngay1demvietnam",
+      "translatedText": "2 Ngày 1 Đêm - Mùa 2 | Tập 48: Trường Giang cắm đầu sau pha đột kích, Dương Lâm nhảy sào theo cách riêng\n\nXem TRỌN BỘ 2 Ngày 1 Đêm Mùa 2 ➡️    • 🌈 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 2 | Phiên bả...  \n\n🎧 Nghe Theme song 2 Ngày 1 Đêm  👉 https://VieNETWORK.bfan.link/2N1D\n\n💕Sở hữu các sản phẩm Merchandise 2 Ngày 1 Đêm tại https://vieshop.vn/\n\n#2Ngay1Dem #2Ngày1Đêm #Mùa2 #2Ngày1ĐêmMùa2 #2Ngay1DemMua2 #Tập48\n#TrườngGiang #KiềuMinhTuấn #LêDươngBảoLâm #NgôKiếnHuy #HIEUTHUHAI #CrisPhan \n\n🏕 Chuyến đi 2 Ngày 1 Đêm bắt đầu từ cuộc gặp gỡ của những người đàn ông từ những hoàn cảnh, những cá tính khác nhau nhưng để hết tất cả sau lưng vào tham gia một cuộc hành trình khám phá mọi miền đất nước và khám phá bản thân. Trở lại với phiên bản Mùa 2 với 3 tính chất được thăng hạng 2X (Bất Ngờ - Khổ Đau - Tiếng cười) hứa hẹn những tình huống dở khóc dở cười đến khán giả.\n\n⏰Đón xem 2 NGÀY 1 ĐÊM - MÙA 2 vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  ‪@dongtaypromotionofficial‬  và  ‪@2NGAY1DEM‬        \n  \n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK.\n\n📣 Subscribe kênh 2 NGÀY 1 ĐÊM VIETNAM để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/2N1DVietnam\n\n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK\n\n\n\n👉 Theo dõi các kênh chính thức của 2 Ngày 1 Đêm Vietnam:\n► YouTube:    / @2ngay1dem  \n► Fanpage:   / 2ngay1demvietnam.dongtay  \n► Instagram:   / 2days1nightvietnamofficial  \n► TikTok:   / 2ngay1demvietnam  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+          "text": "   • 🌈 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 2 | Phiên bả...  "
+        },
+        {
+          "url": "https://VieNETWORK.bfan.link/2N1D",
+          "text": "https://VieNETWORK.bfan.link/2N1D"
+        },
+        {
+          "url": "https://vieshop.vn/",
+          "text": "https://vieshop.vn/"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ngay1dem",
+          "text": "#2Ngay1Dem"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ng%C3%A0y1%C4%91%C3%AAm",
+          "text": "#2Ngày1Đêm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/m%C3%B9a2",
+          "text": "#Mùa2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ng%C3%A0y1%C4%91%C3%AAmm%C3%B9a2",
+          "text": "#2Ngày1ĐêmMùa2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ngay1demmua2",
+          "text": "#2Ngay1DemMua2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/t%E1%BA%ADp48",
+          "text": "#Tập48"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tr%C6%B0%E1%BB%9Dnggiang",
+          "text": "#TrườngGiang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ki%E1%BB%81uminhtu%E1%BA%A5n",
+          "text": "#KiềuMinhTuấn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%AAd%C6%B0%C6%A1ngb%E1%BA%A3ol%C3%A2m",
+          "text": "#LêDươngBảoLâm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ng%C3%B4ki%E1%BA%BFnhuy",
+          "text": "#NgôKiếnHuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hieuthuhai",
+          "text": "#HIEUTHUHAI"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/crisphan",
+          "text": "#CrisPhan"
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "‪@dongtaypromotionofficial‬"
+        },
+        {
+          "url": "https://www.youtube.com/@2NGAY1DEM",
+          "text": "‪@2NGAY1DEM‬"
+        },
+        {
+          "url": "https://bit.ly/2N1DVietnam",
+          "text": "https://bit.ly/2N1DVietnam"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w",
+          "text": "   / @2ngay1dem  "
+        },
+        {
+          "url": "https://www.facebook.com/2Ngay1DemVietNam.DongTay",
+          "text": "  / 2ngay1demvietnam.dongtay  "
+        },
+        {
+          "url": "https://www.instagram.com/2days1nightvietnamofficial/",
+          "text": "  / 2days1nightvietnamofficial  "
+        },
+        {
+          "url": "https://www.tiktok.com/@2ngay1demvietnam",
+          "text": "  / 2ngay1demvietnam  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 2,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isMonetized": null,
+      "hashtags": [
+        "#Mùa2",
+        "#2Ngay1Dem",
+        "#2Ngày1Đêm"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isPaidContent": false
+    },
+    {
+      "title": "2 Ngày 1 Đêm - Mùa 2 |Tập 45: Ngô Kiến Huy \"choáy\" cùng vũ điệu chào xuân, Anh Tú tranh cúp \"mỏ hỗn”",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "Z5LfBM6J5oU",
+      "url": "https://www.youtube.com/watch?v=Z5LfBM6J5oU&list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ&index=6",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Z5LfBM6J5oU/maxresdefault.jpg",
+      "viewCount": 10273640,
+      "date": "2023-12-31T13:40:07.000Z",
+      "likes": 74000,
+      "location": null,
+      "channelName": "2 NGÀY 1 ĐÊM VIETNAM",
+      "channelUrl": "https://www.youtube.com/@2NGAY1DEM",
+      "channelUsername": "2NGAY1DEM",
+      "collaborators": null,
+      "channelId": "UChGncdgzOKmp5XQTnQa2h4w",
+      "numberOfSubscribers": 1650000,
+      "duration": "01:46:09",
+      "commentsCount": 3255,
+      "text": "2 Ngày 1 Đêm - Mùa 2 | Tập 45: 2 Ngày 1 Đêm - Mùa 2 | Tập 45: Ngô Kiến Huy \"choáy\" cùng vũ điệu chào xuân, Anh Tú tranh cúp \"mỏ hỗn\"\n\nTiếp tục hành trình 2 Ngày 1 Đêm tại Phú Quốc, cuộc chiến \"ngọc trai\" có khiến tình anh em \"tan rã\"? Song Luân và Anh Tú sẽ phải trải qua kiếp nạn gì trong tuần này? Chờ xem nhé!\n\nXem TRỌN BỘ 2 Ngày 1 Đêm Mùa 2 ➡️ https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ\n\n🎧 Nghe Theme song 2 Ngày 1 Đêm  👉 https://VieNETWORK.bfan.link/2N1D\n\n💕Sở hữu các sản phẩm Merchandise 2 Ngày 1 Đêm tại https://vieshop.vn/\n\n#2Ngay1Dem #2Ngày1Đêm #Mùa2 #2Ngày1ĐêmMùa2 #2Ngay1DemMua2 #Tập45\n#TrườngGiang #KiềuMinhTuấn #LêDươngBảoLâm #NgôKiếnHuy \n#CrisPhan #HIEUTHUHAI #SongLuân #AnhTú\n\n🏕 Chuyến đi 2 Ngày 1 Đêm bắt đầu từ cuộc gặp gỡ của những người đàn ông từ những hoàn cảnh, những cá tính khác nhau nhưng để hết tất cả sau lưng vào tham gia một cuộc hành trình khám phá mọi miền đất nước và khám phá bản thân. Trở lại với phiên bản Mùa 2 với 3 tính chất được thăng hạng 2X (Bất Ngờ - Khổ Đau - Tiếng cười) hứa hẹn những tình huống dở khóc dở cười đến khán giả. \n\n⏰Đón xem 2 NGÀY 1 ĐÊM - MÙA 2 vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  @dongtaypromotionofficial  và  @2NGAY1DEM        \n  \n📣 Subscribe kênh 2 NGÀY 1 ĐÊM VIETNAM để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/2N1DVietnam\n\n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK\n\n\n\n👉 Theo dõi các kênh chính thức của 2 Ngày 1 Đêm Vietnam:\n► YouTube: https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w\n► Fanpage: https://www.facebook.com/2Ngay1DemVietNam.DongTay\n► Instagram: https://www.instagram.com/2days1nightvietnamofficial/\n► TikTok: https://www.tiktok.com/@2ngay1demvietnam",
+      "translatedText": "2 Ngày 1 Đêm - Mùa 2 | Tập 45: 2 Ngày 1 Đêm - Mùa 2 | Tập 45: Ngô Kiến Huy \"choáy\" cùng vũ điệu chào xuân, Anh Tú tranh cúp \"mỏ hỗn\"\n\nTiếp tục hành trình 2 Ngày 1 Đêm tại Phú Quốc, cuộc chiến \"ngọc trai\" có khiến tình anh em \"tan rã\"? Song Luân và Anh Tú sẽ phải trải qua kiếp nạn gì trong tuần này? Chờ xem nhé!\n\nXem TRỌN BỘ 2 Ngày 1 Đêm Mùa 2 ➡️    • 🌈 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 2 | Phiên bả...  \n\n🎧 Nghe Theme song 2 Ngày 1 Đêm  👉 https://VieNETWORK.bfan.link/2N1D\n\n💕Sở hữu các sản phẩm Merchandise 2 Ngày 1 Đêm tại https://vieshop.vn/\n\n#2Ngay1Dem #2Ngày1Đêm #Mùa2 #2Ngày1ĐêmMùa2 #2Ngay1DemMua2 #Tập45\n#TrườngGiang #KiềuMinhTuấn #LêDươngBảoLâm #NgôKiếnHuy \n#CrisPhan #HIEUTHUHAI #SongLuân #AnhTú\n\n🏕 Chuyến đi 2 Ngày 1 Đêm bắt đầu từ cuộc gặp gỡ của những người đàn ông từ những hoàn cảnh, những cá tính khác nhau nhưng để hết tất cả sau lưng vào tham gia một cuộc hành trình khám phá mọi miền đất nước và khám phá bản thân. Trở lại với phiên bản Mùa 2 với 3 tính chất được thăng hạng 2X (Bất Ngờ - Khổ Đau - Tiếng cười) hứa hẹn những tình huống dở khóc dở cười đến khán giả. \n\n⏰Đón xem 2 NGÀY 1 ĐÊM - MÙA 2 vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  ‪@dongtaypromotionofficial‬  và  ‪@2NGAY1DEM‬        \n  \n📣 Subscribe kênh 2 NGÀY 1 ĐÊM VIETNAM để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/2N1DVietnam\n\n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK\n\n\n\n👉 Theo dõi các kênh chính thức của 2 Ngày 1 Đêm Vietnam:\n► YouTube:    / @2ngay1dem  \n► Fanpage:   / 2ngay1demvietnam.dongtay  \n► Instagram:   / 2days1nightvietnamofficial  \n► TikTok:   / 2ngay1demvietnam  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+          "text": "   • 🌈 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 2 | Phiên bả...  "
+        },
+        {
+          "url": "https://VieNETWORK.bfan.link/2N1D",
+          "text": "https://VieNETWORK.bfan.link/2N1D"
+        },
+        {
+          "url": "https://vieshop.vn/",
+          "text": "https://vieshop.vn/"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ngay1dem",
+          "text": "#2Ngay1Dem"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ng%C3%A0y1%C4%91%C3%AAm",
+          "text": "#2Ngày1Đêm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/m%C3%B9a2",
+          "text": "#Mùa2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ng%C3%A0y1%C4%91%C3%AAmm%C3%B9a2",
+          "text": "#2Ngày1ĐêmMùa2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ngay1demmua2",
+          "text": "#2Ngay1DemMua2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/t%E1%BA%ADp45",
+          "text": "#Tập45"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tr%C6%B0%E1%BB%9Dnggiang",
+          "text": "#TrườngGiang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ki%E1%BB%81uminhtu%E1%BA%A5n",
+          "text": "#KiềuMinhTuấn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%AAd%C6%B0%C6%A1ngb%E1%BA%A3ol%C3%A2m",
+          "text": "#LêDươngBảoLâm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ng%C3%B4ki%E1%BA%BFnhuy",
+          "text": "#NgôKiếnHuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/crisphan",
+          "text": "#CrisPhan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hieuthuhai",
+          "text": "#HIEUTHUHAI"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/songlu%C3%A2n",
+          "text": "#SongLuân"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anht%C3%BA",
+          "text": "#AnhTú"
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "‪@dongtaypromotionofficial‬"
+        },
+        {
+          "url": "https://www.youtube.com/@2NGAY1DEM",
+          "text": "‪@2NGAY1DEM‬"
+        },
+        {
+          "url": "https://bit.ly/2N1DVietnam",
+          "text": "https://bit.ly/2N1DVietnam"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w",
+          "text": "   / @2ngay1dem  "
+        },
+        {
+          "url": "https://www.facebook.com/2Ngay1DemVietNam.DongTay",
+          "text": "  / 2ngay1demvietnam.dongtay  "
+        },
+        {
+          "url": "https://www.instagram.com/2days1nightvietnamofficial/",
+          "text": "  / 2days1nightvietnamofficial  "
+        },
+        {
+          "url": "https://www.tiktok.com/@2ngay1demvietnam",
+          "text": "  / 2ngay1demvietnam  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 5,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isPaidContent": false
+    },
+    {
+      "title": "Teaser Tập 32 - 2 Ngày 1 Đêm Mùa 2: Ngô Kiến Huy liệu có thoát khỏi vận đen với \"ly nước may mắn\"?",
+      "translatedTitle": "Teaser Episode 32 - 2 Days 1 Night Season 2: Will Ngo Kien Huy escape his streak of bad luck with...",
+      "type": "video",
+      "id": "RRVFuLHKLB4",
+      "url": "https://www.youtube.com/watch?v=RRVFuLHKLB4&list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ&index=22",
+      "thumbnailUrl": "https://i.ytimg.com/vi/RRVFuLHKLB4/maxresdefault.jpg",
+      "viewCount": 366580,
+      "date": "2023-09-30T03:00:15.000Z",
+      "likes": 6100,
+      "location": null,
+      "channelName": "2 NGÀY 1 ĐÊM VIETNAM",
+      "channelUrl": "https://www.youtube.com/@2NGAY1DEM",
+      "channelUsername": "2NGAY1DEM",
+      "collaborators": null,
+      "channelId": "UChGncdgzOKmp5XQTnQa2h4w",
+      "numberOfSubscribers": 1650000,
+      "duration": "00:02:54",
+      "commentsCount": 413,
+      "text": "Teaser Tập 32 - 2 Ngày 1 Đêm Mùa 2: Ngô Kiến Huy liệu có thoát khỏi vận đen với \"ly nước may mắn\"?\n\n#2Ngay1Dem #2Ngày1Đêm #Mùa2 #2Ngày1ĐêmMùa2 #2Ngay1DemMua2 #2N1Đ #TeaserTập32 #DongTayPromotion\n#TrườngGiang #KiềuMinhTuấn #LêDươngBảoLâm #NgôKiếnHuy #CrisPhan #HIEUTHUHAI #HậuTrường2Ngày1Đêm #BTS2Ngày1Đêm\n\nChuyến đi 2 Ngày 1 Đêm bắt đầu từ cuộc gặp gỡ của những người đàn ông từ những hoàn cảnh, những cá tính khác nhau nhưng để hết tất cả sau lưng vào tham gia một cuộc hành trình khám phá mọi miền đất nước và khám phá bản thân. Trở lại với phiên bản Mùa 2 với 3 tính chất được thăng hạng 2X (Bất Ngờ - Khổ Đau - Tiếng cười) hứa hẹn những tình huống dở khóc dở cười đến khán giả.  \n\n⏰Đón xem 2 NGÀY 1 ĐÊM - MÙA 2 vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  @dongtaypromotionofficial   và   @2NGAY1DEM  \n  \n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK\n\n\n\n👉 Theo dõi các kênh chính thức của 2 Ngày 1 Đêm Vietnam:\n► YouTube: https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w\n► Fanpage: https://www.facebook.com/2Ngay1DemVietNam.DongTay\n► Instagram: https://www.instagram.com/2days1nightvietnamofficial/\n► TikTok: https://www.tiktok.com/@2ngay1demvietnam",
+      "translatedText": "Teaser Episode 32 - 2 Days 1 Night Season 2: Will Ngo Kien Huy escape his bad luck with the \"lucky glass of water\"?\n\n#2Days1Night #2Days1Night #Season2 #2Days1NightSeason2 #2Days1NightSeason2 #2N1D #TeaserEpisode32 #DongTayPromotion\n\n#TruongGiang #KieuMinhTuan #LeDuongBaoLam #NgoKienHuy #CrisPhan #HIEUTHUHAI #BehindTheScenes2Days1Night #BTS2Days1Night\n\nThe 2 Days 1 Night trip begins with the meeting of men from different backgrounds and personalities, but they leave everything behind to embark on a journey to explore the country and discover themselves. Returning for Season 2 with 3 upgraded elements (Surprise - Suffering - Laughter), promising hilarious and heartwarming situations for viewers.\n\n⏰ Watch 2 DAYS 1 NIGHT - SEASON 2 at:\n\n📺 8:30 PM every Sunday on HTV7 and the VieON entertainment app\n▶️ 8:40 PM on @dongtaypromotionofficial and @2NGAY1DEM\n\n©️ 2 Days 1 Night Vietnam is owned by Dong Tay Promotion and protected by copyright by VieNETWORK\n\n👉 Follow the official channels of 2 Days 1 Night Vietnam:\n\n► YouTube:    / @2ngay1dem  \n► Fanpage:   / 2ngay1demvietnam.dongtay  \n► Instagram:   / 2days1nightvietnamofficial  \n► TikTok:   / 2ngay1demvietnam  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/2days1night",
+          "text": "#2Days1Night"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2days1night",
+          "text": "#2Days1Night"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/season2",
+          "text": "#Season2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2days1nightseason2",
+          "text": "#2Days1NightSeason2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2days1nightseason2",
+          "text": "#2Days1NightSeason2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2n1d",
+          "text": "#2N1D"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/teaserepisode32",
+          "text": "#TeaserEpisode32"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dongtaypromotion",
+          "text": "#DongTayPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/truonggiang",
+          "text": "#TruongGiang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/kieuminhtuan",
+          "text": "#KieuMinhTuan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/leduongbaolam",
+          "text": "#LeDuongBaoLam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngokienhuy",
+          "text": "#NgoKienHuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/crisphan",
+          "text": "#CrisPhan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hieuthuhai",
+          "text": "#HIEUTHUHAI"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/behindthescenes2days1night",
+          "text": "#BehindTheScenes2Days1Night"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bts2days1night",
+          "text": "#BTS2Days1Night"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w",
+          "text": "   / @2ngay1dem  "
+        },
+        {
+          "url": "https://www.facebook.com/2Ngay1DemVietNam.DongTay",
+          "text": "  / 2ngay1demvietnam.dongtay  "
+        },
+        {
+          "url": "https://www.instagram.com/2days1nightvietnamofficial/",
+          "text": "  / 2days1nightvietnamofficial  "
+        },
+        {
+          "url": "https://www.tiktok.com/@2ngay1demvietnam",
+          "text": "  / 2ngay1demvietnam  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 21,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isMonetized": null,
+      "hashtags": [
+        "#Mùa2",
+        "#2Ngay1Dem",
+        "#2Ngày1Đêm"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isPaidContent": false
+    },
+    {
+      "title": "Chỉ còn 3 NGÀY nữa!! Ngô Kiến Huy bị hội anh em xa lánh vì sợ lây vận xui | 2 Ngày 1 Đêm Mùa 2",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "-0zOfN0IOzM",
+      "url": "https://www.youtube.com/watch?v=-0zOfN0IOzM&list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ&index=24",
+      "thumbnailUrl": "https://i.ytimg.com/vi/-0zOfN0IOzM/maxresdefault.jpg",
+      "viewCount": 103094,
+      "date": "2023-09-28T13:00:00.000Z",
+      "likes": 1900,
+      "location": null,
+      "channelName": "2 NGÀY 1 ĐÊM VIETNAM",
+      "channelUrl": "https://www.youtube.com/@2NGAY1DEM",
+      "channelUsername": "2NGAY1DEM",
+      "collaborators": null,
+      "channelId": "UChGncdgzOKmp5XQTnQa2h4w",
+      "numberOfSubscribers": 1650000,
+      "duration": "00:03:28",
+      "commentsCount": 86,
+      "text": "Chỉ còn 3 NGÀY nữa!! Ngô Kiến Huy bị hội anh em xa lánh vì sợ lây vận xui | 2 Ngày 1 Đêm Mùa 2\n\n#2Ngay1Dem #2Ngày1Đêm #Mùa2 #2Ngày1ĐêmMùa2 #2Ngay1DemMua2 #2N1Đ #DongTayPromotion\n#TrườngGiang #KiềuMinhTuấn #LêDươngBảoLâm #NgôKiếnHuy #CrisPhan #HIEUTHUHAI #HậuTrường2Ngày1Đêm #BTS2Ngày1Đêm\n\nChuyến đi 2 Ngày 1 Đêm bắt đầu từ cuộc gặp gỡ của những người đàn ông từ những hoàn cảnh, những cá tính khác nhau nhưng để hết tất cả sau lưng vào tham gia một cuộc hành trình khám phá mọi miền đất nước và khám phá bản thân. Trở lại với phiên bản Mùa 2 với 3 tính chất được thăng hạng 2X (Bất Ngờ - Khổ Đau - Tiếng cười) hứa hẹn những tình huống dở khóc dở cười đến khán giả.  \n\n⏰Đón xem 2 NGÀY 1 ĐÊM - MÙA 2 vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  @dongtaypromotionofficial và @2NGAY1DEM \n  \n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK\n\n📣 Subscribe kênh 2 NGÀY 1 ĐÊM VIETNAM để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/2N1DVietnam\n\n\n\n👉 Theo dõi các kênh chính thức của 2 Ngày 1 Đêm Vietnam:\n► YouTube: https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w\n► Fanpage: https://www.facebook.com/2Ngay1DemVietNam.DongTay\n► Instagram: https://www.instagram.com/2days1nightvietnamofficial/\n► TikTok: https://www.tiktok.com/@2ngay1demvietnam",
+      "translatedText": "Chỉ còn 3 NGÀY nữa!! Ngô Kiến Huy bị hội anh em xa lánh vì sợ lây vận xui | 2 Ngày 1 Đêm Mùa 2\n\n#2Ngay1Dem #2Ngày1Đêm #Mùa2 #2Ngày1ĐêmMùa2 #2Ngay1DemMua2 #2N1Đ #DongTayPromotion\n#TrườngGiang #KiềuMinhTuấn #LêDươngBảoLâm #NgôKiếnHuy #CrisPhan #HIEUTHUHAI #HậuTrường2Ngày1Đêm #BTS2Ngày1Đêm\n\nChuyến đi 2 Ngày 1 Đêm bắt đầu từ cuộc gặp gỡ của những người đàn ông từ những hoàn cảnh, những cá tính khác nhau nhưng để hết tất cả sau lưng vào tham gia một cuộc hành trình khám phá mọi miền đất nước và khám phá bản thân. Trở lại với phiên bản Mùa 2 với 3 tính chất được thăng hạng 2X (Bất Ngờ - Khổ Đau - Tiếng cười) hứa hẹn những tình huống dở khóc dở cười đến khán giả.  \n\n⏰Đón xem 2 NGÀY 1 ĐÊM - MÙA 2 vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  ‪@dongtaypromotionofficial‬ và ‪@2NGAY1DEM‬ \n  \n©️ 2 Ngày 1 Đêm Việt Nam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK\n\n📣 Subscribe kênh 2 NGÀY 1 ĐÊM VIETNAM để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/2N1DVietnam\n\n\n\n👉 Theo dõi các kênh chính thức của 2 Ngày 1 Đêm Vietnam:\n► YouTube:    / @2ngay1dem  \n► Fanpage:   / 2ngay1demvietnam.dongtay  \n► Instagram:   / 2days1nightvietnamofficial  \n► TikTok:   / 2ngay1demvietnam  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/2ngay1dem",
+          "text": "#2Ngay1Dem"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ng%C3%A0y1%C4%91%C3%AAm",
+          "text": "#2Ngày1Đêm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/m%C3%B9a2",
+          "text": "#Mùa2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ng%C3%A0y1%C4%91%C3%AAmm%C3%B9a2",
+          "text": "#2Ngày1ĐêmMùa2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2ngay1demmua2",
+          "text": "#2Ngay1DemMua2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/2n1%C4%91",
+          "text": "#2N1Đ"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dongtaypromotion",
+          "text": "#DongTayPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tr%C6%B0%E1%BB%9Dnggiang",
+          "text": "#TrườngGiang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ki%E1%BB%81uminhtu%E1%BA%A5n",
+          "text": "#KiềuMinhTuấn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%AAd%C6%B0%C6%A1ngb%E1%BA%A3ol%C3%A2m",
+          "text": "#LêDươngBảoLâm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ng%C3%B4ki%E1%BA%BFnhuy",
+          "text": "#NgôKiếnHuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/crisphan",
+          "text": "#CrisPhan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hieuthuhai",
+          "text": "#HIEUTHUHAI"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/h%E1%BA%ADutr%C6%B0%E1%BB%9Dng2ng%C3%A0y1%C4%91%C3%AAm",
+          "text": "#HậuTrường2Ngày1Đêm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bts2ng%C3%A0y1%C4%91%C3%AAm",
+          "text": "#BTS2Ngày1Đêm"
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "‪@dongtaypromotionofficial‬"
+        },
+        {
+          "url": "https://www.youtube.com/@2NGAY1DEM",
+          "text": "‪@2NGAY1DEM‬"
+        },
+        {
+          "url": "https://bit.ly/2N1DVietnam",
+          "text": "https://bit.ly/2N1DVietnam"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UChGncdgzOKmp5XQTnQa2h4w",
+          "text": "   / @2ngay1dem  "
+        },
+        {
+          "url": "https://www.facebook.com/2Ngay1DemVietNam.DongTay",
+          "text": "  / 2ngay1demvietnam.dongtay  "
+        },
+        {
+          "url": "https://www.instagram.com/2days1nightvietnamofficial/",
+          "text": "  / 2days1nightvietnamofficial  "
+        },
+        {
+          "url": "https://www.tiktok.com/@2ngay1demvietnam",
+          "text": "  / 2ngay1demvietnam  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 23,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isMonetized": null,
+      "hashtags": [
+        "#Mùa2",
+        "#2Ngay1Dem",
+        "#2Ngày1Đêm"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLY-AuYi7sTugYnwSrAy9DQtC-sAoitZDJ",
+      "isPaidContent": false
+    }
+  ]
+}

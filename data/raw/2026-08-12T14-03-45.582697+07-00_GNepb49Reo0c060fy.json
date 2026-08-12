@@ -1,0 +1,185 @@
+{
+  "actor_name": "streamers/youtube-scraper",
+  "actor_run_id": "GNepb49Reo0c060fy",
+  "dataset_id": "C244HyHG5hyCWzmWr",
+  "actor_build_id": "SUk0475fgtCh9zqMt",
+  "retrieved_at": "2026-08-12T14:03:45.582697+07:00",
+  "actor_input": {
+    "maxResults": 1,
+    "maxResultsShorts": 0,
+    "maxResultStreams": 0,
+    "startUrls": [
+      {
+        "url": "https://www.youtube.com/watch?v=4au37MyRqS0"
+      }
+    ],
+    "sourceBindingUrl": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5ANJruYBhSGi5UBRUIhQTbi"
+  },
+  "run_metadata": {
+    "status": "SUCCEEDED",
+    "startedAt": "2026-08-12T07:03:28.267Z",
+    "finishedAt": "2026-08-12T07:03:38.536Z",
+    "usageTotalUsd": 0,
+    "chargedEventCounts": {
+      "result": 0,
+      "date-filter": 0,
+      "ai-video-description": 0,
+      "ai-video-summary": 0
+    }
+  },
+  "items": [
+    {
+      "title": "Ca Sĩ Mặt Nạ Mùa 2 - Tập 2: Xuất hiện Mascot đôi tham gia tranh tài | The Masked Singer Vietnam",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "4au37MyRqS0",
+      "url": "https://www.youtube.com/watch?v=4au37MyRqS0",
+      "thumbnailUrl": "https://i.ytimg.com/vi/4au37MyRqS0/maxresdefault.jpg",
+      "viewCount": 4950093,
+      "date": "2023-08-11T14:00:11.000Z",
+      "likes": 33000,
+      "location": null,
+      "channelName": "Vie GIẢITRÍ",
+      "channelUrl": "https://www.youtube.com/@VieGI%E1%BA%A2ITR%C3%8D",
+      "channelUsername": "VieGI%E1%BA%A2ITR%C3%8D",
+      "collaborators": null,
+      "channelId": "UC2Lgi2uPsOcCVF3imz7l2mg",
+      "numberOfSubscribers": 3130000,
+      "duration": "01:50:00",
+      "commentsCount": 12192,
+      "text": "Ca Sĩ Mặt Nạ Mùa 2 - Tập 2: Xuất hiện Mascot đôi tham gia tranh tài | The Masked Singer Vietnam\n\n https://click.vieon.vn/wSBG/ytcsmnm2\n\n#TheMaskedSingerVietNam #Mùa2 #CaSĩMặtNạ #TMS2\n#VieChannel  #VieGIẢITRÍ #VieON #DatVietVAC\n#TrấnThành #TócTiên #BíchPhương #NgôKiếnHuy #BảoAnh\n\nPlaylist Tập 2 - Ca Sĩ Mặt Nạ - The Masked Singer Vietnam Mùa 2\n\n00:00 | Intro\n12:15 | Bước Qua Đời Nhau - Cừu Bông\n33:45 | Ngày Mai Người Ta Lấy Chồng - Voi Bản Đôn\n59:07 | Đừng Ngoảnh Lại & Để Em Rời Xa - Cá Ngựa Đôi\n1:19:10 | Yêu Như Ngày Yêu Cuối - Cún Tóc Lô\n1:40:17 | Tận Cùng Của Nỗi Nhớ - Battle\n------------\n👉 Đăng ký ngay thẻ tín dụng VIB LazCard:\n\n🔹 Hoàn đến 50% chi tiêu tại LAZADA.\n🔹 03 mã miễn phí vận chuyển mỗi tháng khi mua hàng tại Lazada\n🔹 Hoàn 100% phí thường niên năm đầu\n🔹 Hoàn thêm 100% giá trị giao dịch đầu tiên.\n\nSở hữu ngay chỉ trong 30 phút: https://bit.ly/VIBLazCardxTMS\n------------\nVới hương vị tươi mát, sảng khoái, bia Pháp cao cấp - 1664 Blanc cho tiệc vui thêm bất ngờ, khoảnh khắc thêm đáng nhớ.\nThưởng thức ngay tại: https://bit.ly/3OoAAu2\n\n★ Mọi nhu cầu quảng cáo và tài trợ xin liên hệ: Công Ty Cổ Phần Vie Channel\n► Hotline: 0907.950.371 (Mr. Đức Khoa)\n► Email: khoa.nguyen@viechannel.vn hoặc sales@viechannel.vn\n\n📣 Đừng quên subscribe để xem thật nhiều chương trình mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieGIẢITRÍ\n\n\n\nXem các chương trình hấp dẫn khác của Vie GIẢITRÍ:\n►Rap Việt Full: https://bit.ly/RAPVIETSS3\n►Người Ấy Là Ai Full: https://bit.ly/NALASS5\n►Hoa Vương Full: https://bit.ly/HoaVươngFull\n►The Masked Singer Vietnam Full: https://bit.ly/TMSVNSS2\n\nXem thêm trên hệ thống Vie GIẢITRÍ:\n►Website: https://giaitritv.vn\n►Fanpage: https://www.facebook.com/VieGIAITRI",
+      "translatedText": "Ca Sĩ Mặt Nạ Mùa 2 - Tập 2: Xuất hiện Mascot đôi tham gia tranh tài | The Masked Singer Vietnam\n\n https://click.vieon.vn/wSBG/ytcsmnm2\n\n#TheMaskedSingerVietNam #Mùa2 #CaSĩMặtNạ #TMS2\n#VieChannel  #VieGIẢITRÍ #VieON #DatVietVAC\n#TrấnThành #TócTiên #BíchPhương #NgôKiếnHuy #BảoAnh\n\nPlaylist Tập 2 - Ca Sĩ Mặt Nạ - The Masked Singer Vietnam Mùa 2\n\n00:00 | Intro\n12:15 | Bước Qua Đời Nhau - Cừu Bông\n33:45 | Ngày Mai Người Ta Lấy Chồng - Voi Bản Đôn\n59:07 | Đừng Ngoảnh Lại & Để Em Rời Xa - Cá Ngựa Đôi\n1:19:10 | Yêu Như Ngày Yêu Cuối - Cún Tóc Lô\n1:40:17 | Tận Cùng Của Nỗi Nhớ - Battle\n------------\n👉 Đăng ký ngay thẻ tín dụng VIB LazCard:\n\n🔹 Hoàn đến 50% chi tiêu tại LAZADA.\n🔹 03 mã miễn phí vận chuyển mỗi tháng khi mua hàng tại Lazada\n🔹 Hoàn 100% phí thường niên năm đầu\n🔹 Hoàn thêm 100% giá trị giao dịch đầu tiên.\n\nSở hữu ngay chỉ trong 30 phút: https://bit.ly/VIBLazCardxTMS\n------------\nVới hương vị tươi mát, sảng khoái, bia Pháp cao cấp - 1664 Blanc cho tiệc vui thêm bất ngờ, khoảnh khắc thêm đáng nhớ.\nThưởng thức ngay tại: https://bit.ly/3OoAAu2\n\n★ Mọi nhu cầu quảng cáo và tài trợ xin liên hệ: Công Ty Cổ Phần Vie Channel\n► Hotline: 0907.950.371 (Mr. Đức Khoa)\n► Email: khoa.nguyen@viechannel.vn hoặc sales@viechannel.vn\n\n📣 Đừng quên subscribe để xem thật nhiều chương trình mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieGIẢITRÍ\n\n\n\nXem các chương trình hấp dẫn khác của Vie GIẢITRÍ:\n►Rap Việt Full: https://bit.ly/RAPVIETSS3\n►Người Ấy Là Ai Full: https://bit.ly/NALASS5\n►Hoa Vương Full: https://bit.ly/HoaVươngFull\n►The Masked Singer Vietnam Full: https://bit.ly/TMSVNSS2\n\nXem thêm trên hệ thống Vie GIẢITRÍ:\n►Website: https://giaitritv.vn\n►Fanpage:   / viegiaitri  ",
+      "descriptionLinks": [
+        {
+          "url": "https://click.vieon.vn/wSBG/ytcsmnm2",
+          "text": "https://click.vieon.vn/wSBG/ytcsmnm2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/themaskedsingervietnam",
+          "text": "#TheMaskedSingerVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/m%C3%B9a2",
+          "text": "#Mùa2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/cas%C4%A9m%E1%BA%B7tn%E1%BA%A1",
+          "text": "#CaSĩMặtNạ"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tms2",
+          "text": "#TMS2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viechannel",
+          "text": "#VieChannel"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viegi%E1%BA%A3itr%C3%AD",
+          "text": "#VieGIẢITRÍ"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vieon",
+          "text": "#VieON"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/datvietvac",
+          "text": "#DatVietVAC"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tr%E1%BA%A5nth%C3%A0nh",
+          "text": "#TrấnThành"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/t%C3%B3cti%C3%AAn",
+          "text": "#TócTiên"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/b%C3%ADchph%C6%B0%C6%A1ng",
+          "text": "#BíchPhương"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ng%C3%B4ki%E1%BA%BFnhuy",
+          "text": "#NgôKiếnHuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/b%E1%BA%A3oanh",
+          "text": "#BảoAnh"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=4au37MyRqS0",
+          "text": "00:00"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=4au37MyRqS0&t=735s",
+          "text": "12:15"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=4au37MyRqS0&t=2025s",
+          "text": "33:45"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=4au37MyRqS0&t=3547s",
+          "text": "59:07"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=4au37MyRqS0&t=4750s",
+          "text": "1:19:10"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=4au37MyRqS0&t=6017s",
+          "text": "1:40:17"
+        },
+        {
+          "url": "https://bit.ly/VIBLazCardxTMS",
+          "text": "https://bit.ly/VIBLazCardxTMS"
+        },
+        {
+          "url": "https://bit.ly/3OoAAu2",
+          "text": "https://bit.ly/3OoAAu2"
+        },
+        {
+          "url": "http://bit.ly/VieGIẢITRÍ",
+          "text": "http://bit.ly/VieGIẢITRÍ"
+        },
+        {
+          "url": "https://bit.ly/RAPVIETSS3",
+          "text": "https://bit.ly/RAPVIETSS3"
+        },
+        {
+          "url": "https://bit.ly/NALASS5",
+          "text": "https://bit.ly/NALASS5"
+        },
+        {
+          "url": "https://bit.ly/HoaVươngFull",
+          "text": "https://bit.ly/HoaVươngFull"
+        },
+        {
+          "url": "https://bit.ly/TMSVNSS2",
+          "text": "https://bit.ly/TMSVNSS2"
+        },
+        {
+          "url": "https://giaitritv.vn/",
+          "text": "https://giaitritv.vn"
+        },
+        {
+          "url": "https://www.facebook.com/VieGIAITRI",
+          "text": "  / viegiaitri  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "commentsTurnedOff": false,
+      "isMonetized": null,
+      "hashtags": [
+        "#TheMaskedSingerVietNam",
+        "#Mùa2",
+        "#VieGIẢITRÍ"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/watch?v=4au37MyRqS0",
+      "isPaidContent": false
+    }
+  ]
+}

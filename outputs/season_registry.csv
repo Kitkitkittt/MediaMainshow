@@ -28,11 +28,11 @@ NHVDDP,NHVDDP_2024,Nữ Hoàng Vũ Đạo Đường Phố Mùa 1,2024,1,complete
 2N1D,2N1D_S2,2 Ngày 1 Đêm Mùa 2,2023,2,completed,19,,,,,episodic_reality,source_verified
 2N1D,2N1D_S3,2 Ngày 1 Đêm Mùa 3,2024,3,completed,30,,,,,episodic_reality,source_verified
 2N1D,2N1D_S4,2 Ngày 1 Đêm Mùa 4,2025,4,completed,17,,,,,episodic_reality,source_verified
-RMVN,RMVN_S1,Chạy Đi Chờ Chi Mùa 1,2019,1,completed,15,,,,,episodic_reality,source_verified
+RMVN,RMVN_S1,Chạy Đi Chờ Chi Mùa 1,2019,1,completed,15,,,,,episodic_reality,actor_no_videos
 RMVN,RMVN_S2,Chơi Là Chạy Mùa 2,2021,2,completed,15,,,,,episodic_reality,source_verified
 RMVN,RMVN_S3,Chạy Ngay Đi Mùa 3,2025,3,completed,16,,,,,episodic_reality,source_verified
 RMVN,RMVN_2026,Chạy Ngay Đi 2026,2026,4,airing,,,,,,episodic_reality,official_channel_source_gap
-GDHAHA,GDHAHA_S1,Gia Đình Haha Mùa 1,2025,1,completed,20,,,,,episodic_reality,source_verified
+GDHAHA,GDHAHA_S1,Gia Đình Haha Mùa 1,2025,1,completed,20,,,,,episodic_reality,actor_no_videos
 GDHAHA,GDHAHA_S2,Quán Nhà Haha Mùa 2,2026,2,upcoming,,,,,,episodic_reality,announced_not_published
 SNN,SNN_S1,Sao Nhập Ngũ Mùa 1 - Vượt Qua Giới Hạn,2017,1,completed,,,,,,episodic_reality,mixed_source
 SNN,SNN_S2,Sao Nhập Ngũ Mùa 2 - Thử Thách Bản Lĩnh,2017,2,completed,,,,,,episodic_reality,mixed_source
@@ -49,7 +49,7 @@ SNN,SNN_2024_M,Sao Nhập Ngũ - Không Khoan Nhượng,2024,12,completed,,,,,,e
 SNN,SNN_2024_F,Sao Nhập Ngũ - Gót Hồng Trên Lửa Đạn,2024,13,completed,,,,,,episodic_reality,mixed_source
 SNN,SNN_2025,Sao Nhập Ngũ - Khi Tổ Quốc Gọi Tên,2025,14,completed,16,,,,,episodic_reality,source_verified
 SNN,SNN_2026,Sao Nhập Ngũ 2026,2026,15,airing,,,,,,episodic_reality,mixed_source
-CSQC,CSQC_2025,Chiến Sĩ Quả Cảm Mùa 1,2025,1,completed,15,,,,,closed_season,source_verified
+CSQC,CSQC_2025,Chiến Sĩ Quả Cảm Mùa 1,2025,1,completed,15,,,,,closed_season,actor_no_videos
 DTGT,DTGT_2025,Đấu Trường Gia Tốc Mùa 1,2025,1,completed,12,,,,,closed_season,source_verified
 TD1K2,TD1K2_2025,Tổ Đội 1 Không 2 Mùa 1,2025,1,completed,12,,,,,closed_season,source_verified
 BTST,BTST_2024,Bậc Thầy Săn Thưởng Mùa 1,2024,1,completed,21,,,,,closed_season,mixed_source

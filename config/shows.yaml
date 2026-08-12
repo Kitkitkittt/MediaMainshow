@@ -275,7 +275,7 @@ shows:
   OURSONG:
     tier: 2
     name: "Bài Hát Của Chúng Ta"
-    aliases: ["Bài Hát Của Chúng Ta", "Bai Hat Cua Chung Ta", "Our Song Vietnam"]
+    aliases: ["Bài Hát Của Chúng Ta", "Bai Hat Cua Chung Ta", "Our Song Vietnam", "Our Song Việt Nam"]
     comparison_group: music_talent
     peer_role: direct_peer
     format_type: closed_season

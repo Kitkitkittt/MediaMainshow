@@ -1,0 +1,349 @@
+{
+  "actor_name": "streamers/youtube-scraper",
+  "actor_run_id": "VfvjyiLQHspIx2k0C",
+  "dataset_id": "RXAHCZuGGkWy28uei",
+  "actor_build_id": "SUk0475fgtCh9zqMt",
+  "retrieved_at": "2026-08-12T14:53:42.428185+07:00",
+  "actor_input": {
+    "maxResults": 30,
+    "maxResultsShorts": 0,
+    "maxResultStreams": 0,
+    "startUrls": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5DWTxwel5hsaLSOlpzgayQ5"
+      }
+    ],
+    "sourceBindingUrl": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5DWTxwel5hsaLSOlpzgayQ5"
+  },
+  "run_metadata": {
+    "status": "SUCCEEDED",
+    "startedAt": "2026-08-12T07:53:08.592Z",
+    "finishedAt": "2026-08-12T07:53:36.507Z",
+    "usageTotalUsd": 0.008,
+    "chargedEventCounts": {
+      "result": 2,
+      "date-filter": 0,
+      "ai-video-description": 0,
+      "ai-video-summary": 0
+    }
+  },
+  "items": [
+    {
+      "title": "#2 Sóng VieON – Đêm nhạc giải trí đỉnh cao quy tụ hàng trăm nghệ sĩ hot nhất showbiz Việt hiện nay",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "jovFja8QNVM",
+      "url": "https://www.youtube.com/watch?v=jovFja8QNVM&list=PLxKLMN7WdG5DWTxwel5hsaLSOlpzgayQ5&index=2",
+      "thumbnailUrl": "https://i.ytimg.com/vi/jovFja8QNVM/maxresdefault.jpg",
+      "viewCount": 1310031,
+      "date": "2020-06-19T13:00:30.000Z",
+      "likes": 11000,
+      "location": null,
+      "channelName": "Vie Channel ",
+      "channelUrl": "https://www.youtube.com/@VieChannelOfficial",
+      "channelUsername": "VieChannelOfficial",
+      "collaborators": null,
+      "channelId": "UCkna2OcuN1E6u5I8GVtdkOw",
+      "numberOfSubscribers": 11500000,
+      "duration": "01:22:08",
+      "commentsCount": 939,
+      "text": "Đêm nhạc quy tụ những ngôi sao âm nhạc được yêu mến hiện nay như Tóc Tiên, Jack (J97), Bảo Anh, Chi Pu, Vũ Cát Tường… Tại sân khấu của Sóng, Jack cũng sẽ lần đầu tiên hát live một ca khúc chưa bao giờ được trình diễn trên sân khấu lớn trước đây để tặng fan. Tên của bài hát được giữ bí mật đến phút cuối cùng để gây hào hứng cho khán giả.\n\nCác nghệ sĩ tham gia: Trường Giang, Bảo Anh, Hương Giang, Tóc Tiên, Jack, Chi Pu, Vũ Cát Tường, Trong Hiếu, Dalab, Shin Hồng Vịnh, Ngọc Sơn, Nguyễn Hưng, Lyly, Lê Hiếu, Jun Phạm, Huy R, Han Sara, Hoàng Yến, Đạt G,...\n\nXem Full các nội dung giải trí Siêu Hot trên VieON\n🔥Bom tấn Truyền hình - Gạo Nếp Gạo Tẻ: https://bit.ly/gao-nep-gao-te-p2\n🔥Siêu phẩm hành động - Hải Đường Trong Gió: https://bit.ly/HaiDuongTrongGio\n🔥Siêu đại tiệc âm nhạc Sóng VieON: https://bit.ly/SongVieon\n🔥Không Thể Rời Mắt - Original Mini Drama: https://bit.ly/khong-the-roi-mat\n\nTải ngay VieON: https://click.vieon.vn/hjsB/mpndownloadapp\n\n#SóngVieON #Sóng #VieON\n#Sóng_VieON #Chương_Trình_Sóng #Đêm_Nhạc_Sóng\n\n📣 Đừng quên subscribe để xem thật nhiều phim mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieChannelHTV2\n\nXem các chương trình hấp dẫn khác của Vie Channel - HTV2:\n►Siêu Trí Tuệ Full: http://bit.ly/2O1w4To\n►Ai Là Số 1 Full: https://bit.ly/2xMrL9I\n►Đưa Em Về Nhà Full: https://bit.ly/3bRRzAh\n►Người Ấy Là Ai Full: http://bit.ly/2AQHuDT\n►Nhanh Như Chớp Nhí Full: https://bit.ly/2ANAYjb\n►Gạo Nếp Gạo Tẻ Full: http://bit.ly/2qyKoag\n►Phiên Tòa Tình Yêu Full: http://bit.ly/2F8ataA\n\nHoặc xem thêm trên hệ thống Vie Channel - HTV2:\n►Website: http://viechannel.vn/\n►Fanpage: https://www.facebook.com/VieChannelHTV2/\n►Instagram: https://www.instagram.com/viechannelhtv2/",
+      "translatedText": "Đêm nhạc quy tụ những ngôi sao âm nhạc được yêu mến hiện nay như Tóc Tiên, Jack (J97), Bảo Anh, Chi Pu, Vũ Cát Tường… Tại sân khấu của Sóng, Jack cũng sẽ lần đầu tiên hát live một ca khúc chưa bao giờ được trình diễn trên sân khấu lớn trước đây để tặng fan. Tên của bài hát được giữ bí mật đến phút cuối cùng để gây hào hứng cho khán giả.\n\nCác nghệ sĩ tham gia: Trường Giang, Bảo Anh, Hương Giang, Tóc Tiên, Jack, Chi Pu, Vũ Cát Tường, Trong Hiếu, Dalab, Shin Hồng Vịnh, Ngọc Sơn, Nguyễn Hưng, Lyly, Lê Hiếu, Jun Phạm, Huy R, Han Sara, Hoàng Yến, Đạt G,...\n\nXem Full các nội dung giải trí Siêu Hot trên VieON\n🔥Bom tấn Truyền hình - Gạo Nếp Gạo Tẻ: https://bit.ly/gao-nep-gao-te-p2\n🔥Siêu phẩm hành động - Hải Đường Trong Gió: https://bit.ly/HaiDuongTrongGio\n🔥Siêu đại tiệc âm nhạc Sóng VieON: https://bit.ly/SongVieon\n🔥Không Thể Rời Mắt - Original Mini Drama: https://bit.ly/khong-the-roi-mat\n\nTải ngay VieON: https://click.vieon.vn/hjsB/mpndownlo...\n\n#SóngVieON #Sóng #VieON\n#Sóng_VieON #Chương_Trình_Sóng #Đêm_Nhạc_Sóng\n\n📣 Đừng quên subscribe để xem thật nhiều phim mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieChannelHTV2\n\nXem các chương trình hấp dẫn khác của Vie Channel - HTV2:\n►Siêu Trí Tuệ Full: http://bit.ly/2O1w4To\n►Ai Là Số 1 Full: https://bit.ly/2xMrL9I\n►Đưa Em Về Nhà Full: https://bit.ly/3bRRzAh\n►Người Ấy Là Ai Full: http://bit.ly/2AQHuDT\n►Nhanh Như Chớp Nhí Full: https://bit.ly/2ANAYjb\n►Gạo Nếp Gạo Tẻ Full: http://bit.ly/2qyKoag\n►Phiên Tòa Tình Yêu Full: http://bit.ly/2F8ataA\n\nHoặc xem thêm trên hệ thống Vie Channel - HTV2:\n►Website: http://viechannel.vn/\n►Fanpage:   / viechannelhtv2  \n►Instagram:   / viechannelhtv2  ",
+      "descriptionLinks": [
+        {
+          "url": "https://bit.ly/gao-nep-gao-te-p2",
+          "text": "https://bit.ly/gao-nep-gao-te-p2"
+        },
+        {
+          "url": "https://bit.ly/HaiDuongTrongGio",
+          "text": "https://bit.ly/HaiDuongTrongGio"
+        },
+        {
+          "url": "https://bit.ly/SongVieon",
+          "text": "https://bit.ly/SongVieon"
+        },
+        {
+          "url": "https://bit.ly/khong-the-roi-mat",
+          "text": "https://bit.ly/khong-the-roi-mat"
+        },
+        {
+          "url": "https://click.vieon.vn/hjsB/mpndownloadapp",
+          "text": "https://click.vieon.vn/hjsB/mpndownlo..."
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ngvieon",
+          "text": "#SóngVieON"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ng",
+          "text": "#Sóng"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vieon",
+          "text": "#VieON"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ng_vieon",
+          "text": "#Sóng_VieON"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ch%C6%B0%C6%A1ng_tr%C3%ACnh_s%C3%B3ng",
+          "text": "#Chương_Trình_Sóng"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/%C4%91%C3%AAm_nh%E1%BA%A1c_s%C3%B3ng",
+          "text": "#Đêm_Nhạc_Sóng"
+        },
+        {
+          "url": "http://bit.ly/VieChannelHTV2",
+          "text": "http://bit.ly/VieChannelHTV2"
+        },
+        {
+          "url": "http://bit.ly/2O1w4To",
+          "text": "http://bit.ly/2O1w4To"
+        },
+        {
+          "url": "https://bit.ly/2xMrL9I",
+          "text": "https://bit.ly/2xMrL9I"
+        },
+        {
+          "url": "https://bit.ly/3bRRzAh",
+          "text": "https://bit.ly/3bRRzAh"
+        },
+        {
+          "url": "http://bit.ly/2AQHuDT",
+          "text": "http://bit.ly/2AQHuDT"
+        },
+        {
+          "url": "https://bit.ly/2ANAYjb",
+          "text": "https://bit.ly/2ANAYjb"
+        },
+        {
+          "url": "http://bit.ly/2qyKoag",
+          "text": "http://bit.ly/2qyKoag"
+        },
+        {
+          "url": "http://bit.ly/2F8ataA",
+          "text": "http://bit.ly/2F8ataA"
+        },
+        {
+          "url": "http://viechannel.vn/",
+          "text": "http://viechannel.vn/"
+        },
+        {
+          "url": "https://www.facebook.com/VieChannelHTV2/",
+          "text": "  / viechannelhtv2  "
+        },
+        {
+          "url": "https://www.instagram.com/viechannelhtv2/",
+          "text": "  / viechannelhtv2  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 1,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5DWTxwel5hsaLSOlpzgayQ5",
+      "isMonetized": null,
+      "hashtags": [
+        "#VieON",
+        "#SóngVieON",
+        "#Sóng"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5DWTxwel5hsaLSOlpzgayQ5",
+      "isPaidContent": false
+    },
+    {
+      "title": "#3 Sóng VieON – Đêm nhạc giải trí đỉnh cao quy tụ hàng trăm nghệ sĩ hot nhất showbiz Việt hiện nay",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "agXFJH4kvCY",
+      "url": "https://www.youtube.com/watch?v=agXFJH4kvCY&list=PLxKLMN7WdG5DWTxwel5hsaLSOlpzgayQ5&index=3",
+      "thumbnailUrl": "https://i.ytimg.com/vi/agXFJH4kvCY/maxresdefault.jpg",
+      "viewCount": 165038,
+      "date": "2020-07-13T12:00:01.000Z",
+      "likes": 1300,
+      "location": null,
+      "channelName": "Vie Channel ",
+      "channelUrl": "https://www.youtube.com/@VieChannelOfficial",
+      "channelUsername": "VieChannelOfficial",
+      "collaborators": null,
+      "channelId": "UCkna2OcuN1E6u5I8GVtdkOw",
+      "numberOfSubscribers": 11500000,
+      "duration": "01:11:56",
+      "commentsCount": 105,
+      "text": "Đêm nhạc quy tụ những ngôi sao âm nhạc được yêu mến hiện nay như Tóc Tiên, Jack (J97), Bảo Anh, Chi Pu, Vũ Cát Tường… Tại sân khấu của Sóng, Jack cũng sẽ lần đầu tiên hát live một ca khúc chưa bao giờ được trình diễn trên sân khấu lớn trước đây để tặng fan. Tên của bài hát được giữ bí mật đến phút cuối cùng để gây hào hứng cho khán giả.\n\nCác nghệ sĩ tham gia: Trường Giang, Bảo Anh, Hương Giang, Tóc Tiên, Jack, Chi Pu, Vũ Cát Tường, Trong Hiếu, Dalab, Shin Hồng Vịnh, Ngọc Sơn, Nguyễn Hưng, Lyly, Lê Hiếu, Jun Phạm, Huy R, Han Sara, Hoàng Yến, Đạt G,...\n\nXem Full các nội dung giải trí Siêu Hot trên VieON\n🔥Bom tấn Truyền hình - Gạo Nếp Gạo Tẻ: https://bit.ly/gao-nep-gao-te-p2\n🔥Siêu phẩm hành động - Hải Đường Trong Gió: https://bit.ly/HaiDuongTrongGio\n🔥Siêu đại tiệc âm nhạc Sóng VieON: https://bit.ly/SongVieon\n🔥Không Thể Rời Mắt - Original Mini Drama: https://bit.ly/khong-the-roi-mat\n\nTải ngay VieON: https://click.vieon.vn/hjsB/mpndownloadapp\n\n#SóngVieON #Sóng #VieON\n#Sóng_VieON #Chương_Trình_Sóng #Đêm_Nhạc_Sóng\n\n📣 Đừng quên subscribe để xem thật nhiều phim mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieChannelHTV2\n\nXem các chương trình hấp dẫn khác của Vie Channel - HTV2:\n►Siêu Trí Tuệ Full: http://bit.ly/2O1w4To\n►Ai Là Số 1 Full: https://bit.ly/2xMrL9I\n►Đưa Em Về Nhà Full: https://bit.ly/3bRRzAh\n►Người Ấy Là Ai Full: http://bit.ly/2AQHuDT\n►Nhanh Như Chớp Nhí Full: https://bit.ly/2ANAYjb\n►Gạo Nếp Gạo Tẻ Full: http://bit.ly/2qyKoag\n►Phiên Tòa Tình Yêu Full: http://bit.ly/2F8ataA\n\nHoặc xem thêm trên hệ thống Vie Channel - HTV2:\n►Website: http://viechannel.vn/\n►Fanpage: https://www.facebook.com/VieChannelHTV2/\n►Instagram: https://www.instagram.com/viechannelhtv2/",
+      "translatedText": "Đêm nhạc quy tụ những ngôi sao âm nhạc được yêu mến hiện nay như Tóc Tiên, Jack (J97), Bảo Anh, Chi Pu, Vũ Cát Tường… Tại sân khấu của Sóng, Jack cũng sẽ lần đầu tiên hát live một ca khúc chưa bao giờ được trình diễn trên sân khấu lớn trước đây để tặng fan. Tên của bài hát được giữ bí mật đến phút cuối cùng để gây hào hứng cho khán giả.\n\nCác nghệ sĩ tham gia: Trường Giang, Bảo Anh, Hương Giang, Tóc Tiên, Jack, Chi Pu, Vũ Cát Tường, Trong Hiếu, Dalab, Shin Hồng Vịnh, Ngọc Sơn, Nguyễn Hưng, Lyly, Lê Hiếu, Jun Phạm, Huy R, Han Sara, Hoàng Yến, Đạt G,...\n\nXem Full các nội dung giải trí Siêu Hot trên VieON\n🔥Bom tấn Truyền hình - Gạo Nếp Gạo Tẻ: https://bit.ly/gao-nep-gao-te-p2\n🔥Siêu phẩm hành động - Hải Đường Trong Gió: https://bit.ly/HaiDuongTrongGio\n����Siêu đại tiệc âm nhạc Sóng VieON: https://bit.ly/SongVieon\n🔥Không Thể Rời Mắt - Original Mini Drama: https://bit.ly/khong-the-roi-mat\n\nTải ngay VieON: https://click.vieon.vn/hjsB/mpndownloadapp\n\n#SóngVieON #Sóng #VieON\n#Sóng_VieON #Chương_Trình_Sóng #Đêm_Nhạc_Sóng\n\n📣 Đừng quên subscribe để xem thật nhiều phim mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieChannelHTV2\n\nXem các chương trình hấp dẫn khác của Vie Channel - HTV2:\n►Siêu Trí Tuệ Full: http://bit.ly/2O1w4To\n►Ai Là Số 1 Full: https://bit.ly/2xMrL9I\n►Đưa Em Về Nhà Full: https://bit.ly/3bRRzAh\n►Người Ấy Là Ai Full: http://bit.ly/2AQHuDT\n►Nhanh Như Chớp Nhí Full: https://bit.ly/2ANAYjb\n►Gạo Nếp Gạo Tẻ Full: http://bit.ly/2qyKoag\n►Phiên Tòa Tình Yêu Full: http://bit.ly/2F8ataA\n\nHoặc xem thêm trên hệ thống Vie Channel - HTV2:\n►Website: http://viechannel.vn/\n►Fanpage: https://www.facebook.com/VieChannelHTV2/\n►Instagram: https://www.instagram.com/viechannelhtv2/",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ngvieon",
+          "text": "\n\n#SóngVie"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ng",
+          "text": "N #Só"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vieon",
+          "text": "g #Vie"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ng_vieon",
+          "text": "N\n#Sóng_Vie"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ch%C6%B0%C6%A1ng_tr%C3%ACnh_s%C3%B3ng",
+          "text": "N #Chương_Trình_Só"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/%C4%91%C3%AAm_nh%E1%BA%A1c_s%C3%B3ng",
+          "text": "g #Đêm_Nhạc_Só"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 2,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5DWTxwel5hsaLSOlpzgayQ5",
+      "isMonetized": null,
+      "hashtags": [
+        "#VieON",
+        "#SóngVieON",
+        "#Sóng"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5DWTxwel5hsaLSOlpzgayQ5",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sóng VieON – Đêm nhạc giải trí đỉnh cao quy tụ hàng trăm nghệ sĩ hot nhất showbiz Việt Nam hiện nay",
+      "translatedTitle": "VieON Wave – The ultimate entertainment music night bringing together hundreds of the hottest art...",
+      "type": "video",
+      "id": "bQ2RZ03fV8I",
+      "url": "https://www.youtube.com/watch?v=bQ2RZ03fV8I&list=PLxKLMN7WdG5DWTxwel5hsaLSOlpzgayQ5&index=1",
+      "thumbnailUrl": "https://i.ytimg.com/vi/bQ2RZ03fV8I/maxresdefault.jpg",
+      "viewCount": 3987411,
+      "date": "2020-06-15T12:27:09.000Z",
+      "likes": 58000,
+      "location": null,
+      "channelName": "Vie Channel ",
+      "channelUrl": "https://www.youtube.com/@VieChannelOfficial",
+      "channelUsername": "VieChannelOfficial",
+      "collaborators": null,
+      "channelId": "UCkna2OcuN1E6u5I8GVtdkOw",
+      "numberOfSubscribers": 11500000,
+      "duration": "00:34:45",
+      "commentsCount": 5226,
+      "text": "Đêm nhạc quy tụ những ngôi sao âm nhạc được yêu mến hiện nay như Tóc Tiên, Jack (J97), Bảo Anh, Chi Pu, Vũ Cát Tường… Tại sân khấu của Sóng, Jack cũng sẽ lần đầu tiên hát live một ca khúc chưa bao giờ được trình diễn trên sân khấu lớn trước đây để tặng fan. Tên của bài hát được giữ bí mật đến phút cuối cùng để gây hào hứng cho khán giả.\n\nCác nghệ sĩ tham gia: Trường Giang, Bảo Anh, Hương Giang, Tóc Tiên, Jack, Chi Pu, Vũ Cát Tường, Trong Hiếu, Dalab, Shin Hồng Vịnh, Ngọc Sơn, Nguyễn Hưng, Lyly, Lê Hiếu, Jun Phạm, Huy R, Han Sara, Hoàng Yến, Đạt G,...\n\nXem Full các nội dung giải trí Siêu Hot trên VieON\n🔥Bom tấn Truyền hình - Gạo Nếp Gạo Tẻ: https://bit.ly/gao-nep-gao-te-p2\n🔥Siêu phẩm hành động - Hải Đường Trong Gió: https://bit.ly/HaiDuongTrongGio\n🔥Siêu đại tiệc âm nhạc Sóng VieON: https://bit.ly/SongVieon\n🔥Không Thể Rời Mắt - Original Mini Drama: https://bit.ly/khong-the-roi-mat\n\nTải ngay VieON: https://click.vieon.vn/hjsB/mpndownloadapp\n\n#SóngVieON #Sóng #VieON\n#Sóng_VieON #Chương_Trình_Sóng #Đêm_Nhạc_Sóng\n\n📣 Đừng quên subscribe để xem thật nhiều phim mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieChannelHTV2\n\nXem các chương trình hấp dẫn khác của Vie Channel - HTV2:\n►Siêu Trí Tuệ Full: http://bit.ly/2O1w4To\n►Ai Là Số 1 Full: https://bit.ly/2xMrL9I\n►Đưa Em Về Nhà Full: https://bit.ly/3bRRzAh\n►Người Ấy Là Ai Full: http://bit.ly/2AQHuDT\n►Nhanh Như Chớp Nhí Full: https://bit.ly/2ANAYjb\n►Gạo Nếp Gạo Tẻ Full: http://bit.ly/2qyKoag\n►Phiên Tòa Tình Yêu Full: http://bit.ly/2F8ataA\n\nHoặc xem thêm trên hệ thống Vie Channel - HTV2:\n►Website: http://viechannel.vn/\n►Fanpage: https://www.facebook.com/VieChannelHTV2/\n►Instagram: https://www.instagram.com/viechannelhtv2/",
+      "translatedText": "The concert will bring together beloved music stars such as Toc Tien, Jack (J97), Bao Anh, Chi Pu, Vu Cat Tuong… At the Song stage, Jack will also perform live for the first time a song he has never performed on a large stage before, as a gift to his fans. The name of the song will be kept secret until the last minute to create excitement for the audience.\n\nParticipating artists: Truong Giang, Bao Anh, Huong Giang, Toc Tien, Jack, Chi Pu, Vu Cat Tuong, Trong Hieu, Dalab, Shin Hong Vinh, Ngoc Son, Nguyen Hung, Lyly, Le Hieu, Jun Pham, Huy R, Han Sara, Hoang Yen, Dat G,...\n\nWatch the full list of super hot entertainment content on VieON\n🔥TV Blockbuster - Sticky Rice, White Rice: https://bit.ly/gao-nep-gao-te-p2\n🔥Action masterpiece - Hai Duong Trong Gio: https://bit.ly/HaiDuongTrongGio\n🔥VieON Waves Music Festival: https://bit.ly/SongVieon\n🔥Can't Take My Eyes Off You - Original Mini Drama: https://bit.ly/khong-the-roi-mat\n\nDownload VieON now: https://click.vieon.vn/hjsB/mpndownlo...\n\n#SongVieON #Song #VieON\n\n#VieON_Waves #Waves_Program #Waves_Music_Night\n\n📣 Don't forget to subscribe to watch lots of new movies! 🎈 Subscribe now: http://bit.ly/VieChannelHTV2\n\nWatch other exciting programs on Vie Channel - HTV2:\n►Super Intelligence Full: http://bit.ly/2O1w4To\n►Who Is Number 1 Full: https://bit.ly/2xMrL9I\n►Bring Her Home Full: https://bit.ly/3bRRzAh\n►Who Is That Person Full: http://bit.ly/2AQHuDT\n►Fast as Lightning Kids Full: https://bit.ly/2ANAYjb\n►Sticky Rice Full: http://bit.ly/2qyKoag\n►Love Court Full: http://bit.ly/2F8ataA\n\nOr watch more on the Vie Channel - HTV2 system:\n\n►Website: http://viechannel.vn/\n►Fanpage:   / viechannelhtv2  \n►Instagram:   / viechannelhtv2  ",
+      "descriptionLinks": [
+        {
+          "url": "https://bit.ly/gao-nep-gao-te-p2",
+          "text": "https://bit.ly/gao-nep-gao-te-p2"
+        },
+        {
+          "url": "https://bit.ly/HaiDuongTrongGio",
+          "text": "https://bit.ly/HaiDuongTrongGio"
+        },
+        {
+          "url": "https://bit.ly/SongVieon",
+          "text": "https://bit.ly/SongVieon"
+        },
+        {
+          "url": "https://bit.ly/khong-the-roi-mat",
+          "text": "https://bit.ly/khong-the-roi-mat"
+        },
+        {
+          "url": "https://click.vieon.vn/hjsB/mpndownloadapp",
+          "text": "https://click.vieon.vn/hjsB/mpndownlo..."
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/songvieon",
+          "text": "#SongVieON"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song",
+          "text": "#Song"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vieon",
+          "text": "#VieON"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vieon_waves",
+          "text": "#VieON_Waves"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/waves_program",
+          "text": "#Waves_Program"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/waves_music_night",
+          "text": "#Waves_Music_Night"
+        },
+        {
+          "url": "http://bit.ly/VieChannelHTV2",
+          "text": "http://bit.ly/VieChannelHTV2"
+        },
+        {
+          "url": "http://bit.ly/2O1w4To",
+          "text": "http://bit.ly/2O1w4To"
+        },
+        {
+          "url": "https://bit.ly/2xMrL9I",
+          "text": "https://bit.ly/2xMrL9I"
+        },
+        {
+          "url": "https://bit.ly/3bRRzAh",
+          "text": "https://bit.ly/3bRRzAh"
+        },
+        {
+          "url": "http://bit.ly/2AQHuDT",
+          "text": "http://bit.ly/2AQHuDT"
+        },
+        {
+          "url": "https://bit.ly/2ANAYjb",
+          "text": "https://bit.ly/2ANAYjb"
+        },
+        {
+          "url": "http://bit.ly/2qyKoag",
+          "text": "http://bit.ly/2qyKoag"
+        },
+        {
+          "url": "http://bit.ly/2F8ataA",
+          "text": "http://bit.ly/2F8ataA"
+        },
+        {
+          "url": "http://viechannel.vn/",
+          "text": "http://viechannel.vn/"
+        },
+        {
+          "url": "https://www.facebook.com/VieChannelHTV2/",
+          "text": "  / viechannelhtv2  "
+        },
+        {
+          "url": "https://www.instagram.com/viechannelhtv2/",
+          "text": "  / viechannelhtv2  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 0,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5DWTxwel5hsaLSOlpzgayQ5",
+      "isMonetized": null,
+      "hashtags": [
+        "#VieON",
+        "#SóngVieON",
+        "#Sóng"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLxKLMN7WdG5DWTxwel5hsaLSOlpzgayQ5",
+      "isPaidContent": false
+    }
+  ]
+}

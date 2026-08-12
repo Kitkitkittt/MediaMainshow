@@ -1,0 +1,962 @@
+{
+  "actor_name": "streamers/youtube-scraper",
+  "actor_run_id": "ghsYKcYOGoFFvhmmg",
+  "dataset_id": "KaAGjgqnUDBLL3mMd",
+  "actor_build_id": "SUk0475fgtCh9zqMt",
+  "retrieved_at": "2026-08-12T14:15:37.416276+07:00",
+  "actor_input": {
+    "maxResults": 36,
+    "maxResultsShorts": 0,
+    "maxResultStreams": 0,
+    "startUrls": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoGXjo5DpopjFxHny_Ep9hH"
+      }
+    ],
+    "sourceBindingUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoGXjo5DpopjFxHny_Ep9hH"
+  },
+  "run_metadata": {
+    "status": "SUCCEEDED",
+    "startedAt": "2026-08-12T07:15:16.728Z",
+    "finishedAt": "2026-08-12T07:15:30.603Z",
+    "usageTotalUsd": 0.036000000000000004,
+    "chargedEventCounts": {
+      "result": 10,
+      "date-filter": 0,
+      "ai-video-description": 0,
+      "ai-video-summary": 0
+    }
+  },
+  "items": [
+    {
+      "title": "TẬP 1 I MẸ VẮNG NHÀ BA LÀ SIÊU NHÂN l Khắc Việt, JustaTee, Đức Thịnh, L. Thế Thành làm \"siêu nhân\"",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "xUfuXW0HlUA",
+      "url": "https://www.youtube.com/watch?v=xUfuXW0HlUA&list=PLC_d5n_vB0CoGXjo5DpopjFxHny_Ep9hH&index=3",
+      "thumbnailUrl": "https://i.ytimg.com/vi/xUfuXW0HlUA/maxresdefault.jpg",
+      "viewCount": 2985602,
+      "date": "2022-04-28T14:30:13.000Z",
+      "likes": 33000,
+      "location": null,
+      "channelName": "Mẹ Vắng Nhà - Ba Là Siêu Nhân",
+      "channelUrl": "https://www.youtube.com/@MeVangNhaBaLaSieuNhan",
+      "channelUsername": "MeVangNhaBaLaSieuNhan",
+      "collaborators": null,
+      "channelId": "UCT4q1IIX1rWoN95I-_89aVw",
+      "numberOfSubscribers": 309000,
+      "duration": "00:52:28",
+      "commentsCount": 1081,
+      "text": "🔥 \"MẸ VẮNG NHÀ, BA LÀ SIÊU NHÂN\" là phiên bản Việt hóa của chương trình truyền hình thực tế ăn khách được phát sóng trên kênh KBS2: The Return Of Superman\n🔥 Với sự tham gia của các gia đình nghệ sĩ nổi tiếng: Cùng đón xem các ông bố siêu nhân sẽ loay hoay ra sao cùng các con khi không có sự xuất hiện của  mẹ. Hài hước, vui nhộn hay thật \"rối trí\".\n🔥 Đón xem: \"Mẹ vắng nhà - Ba là siêu nhân\" Từ ngày 28/04/2022 vào các khung giờ:\n      💓 20h30 Thứ năm hàng tuần trên HTV7\n      💓 21h30 cùng ngày trên Youtube l Mocha l TV360 l FPT\n      💓 9h00 Thứ 6 hàng tuần trên QPVN từ ngày 06/05/2022\n      💓 20h00 Thứ 6 hàng tuần trên SCTV6 từ ngày 06/05/2022\n-------------------------------------------------------------------------------------------\n🔥 Production Team\nChỉ đạo sản xuất: Võ Thanh Hải & Cao Phương Liên\nChỉ đạo nội dung: Lê Anh Ngọc\nGiám sát sản xuất: Ngô Quang Tùng\nTổng Đạo diễn: Lương Hải Khoa\nĐạo diễn: Lê Đức Cường \nTổ chức sản xuất: Nguyễn Nga \nBiên tập: Ngô Trang & Mai Hằng & Tuấn Nghĩa \nD.O.P: Đoàn Ngọc Ước & Mai Trùng Khánh \nQuay phim: Thế Chiến; Thái Ngân; Tuấn Vũ; Ngọc Thắng; Thành Nam; Quang Huy\nÂm thanh: Ngọc Hùng & Duy Mạnh & Nguyễn Tiến\nQuản lý thiết bị & lưu trữ: Thành Linh \nHọa sĩ bối cảnh: Thanh Thuận\nĐạo diễn hậu kỳ: Hải Khoa Lương & Bùi Tiến Dũng\nBiên tập hậu kỳ: Ngô Trang; Mai Hằng; Minh Hoàng\nHình hiệu & Thiết kế & Đồ họa: Hồng Hạnh Siliez & Sương Bi\nNgười dẫn chuyện: Tú Trinh\nKỹ thuật hậu kỳ: Thanh Tùng, Anh Đức, Chí Dũng, Anh Hiệp; Thu Nga\nPhụ trách Truyền thông: Nga Nguyễn, Đỗ Hương, Hương Thùy\nTruyền thông social: Kim Ngọc; Quỳnh Anh; Nguyễn Châm; Trần Quỳnh; Mỹ Mỹ; Hằng Nga; Đào Hậu: Khánh Linh; Trần Phương; Hải Đăng; Bá Linh; Long \nBảo trợ truyền thông: Tiin.vn\n==============================================\n🔥 ĐĂNG KÝ xem clip mới: http://goo.gl/fzXdBO\n🔥 Fanpage The Return of Superman Vietnam:   / mevangnhabalasieunhan  \n=============================\n© Bản quyền thuộc về Viettel Media\n🔥 Viettel Media - Hệ sinh thái Quảng cáo số đa nền tảng hàng đầu tại Việt Nam\n       Liên hệ quảng cáo, thuê tài khoản: https://www.viettelmedia.vn/ads?utm_s...\n       LH quảng cáo tài trợ: 0965079955/0985903900\n#FrisoGold #MạnhMẽTừBênTrong #TiêuHoáKhoẻ #HấpThuNhanh #ĐạmMềmNhỏTựNhiên\n#KhănướtMamamy #ChủĐộngNgừaHămChămTừngKẽNgách #HệSảnPhẩmAnToànChoCảTrẻSơSinh",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "http://goo.gl/fzXdBO",
+          "text": "http://goo.gl/fzXdBO"
+        },
+        {
+          "url": "https://www.facebook.com/mevangnhabalasieunhan",
+          "text": "  / mevangnhabalasieunhan  "
+        },
+        {
+          "url": "https://www.viettelmedia.vn/ads?utm_source=youtube",
+          "text": "https://www.viettelmedia.vn/ads?utm_s..."
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/frisogold",
+          "text": "#FrisoGold"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/m%E1%BA%A1nhm%E1%BA%BDt%E1%BB%ABb%C3%AAntrong",
+          "text": "#MạnhMẽTừBênTrong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ti%C3%AAuho%C3%A1kho%E1%BA%BB",
+          "text": "#TiêuHoáKhoẻ"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/h%E1%BA%A5pthunhanh",
+          "text": "#HấpThuNhanh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/%C4%91%E1%BA%A1mm%E1%BB%81mnh%E1%BB%8Ft%E1%BB%B1nhi%C3%AAn",
+          "text": "#ĐạmMềmNhỏTựNhiên"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/kh%C4%83n%C6%B0%E1%BB%9Btmamamy",
+          "text": "#KhănướtMamamy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ch%E1%BB%A7%C4%91%E1%BB%99ngng%E1%BB%ABah%C4%83mch%C4%83mt%E1%BB%ABngk%E1%BA%BDng%C3%A1ch",
+          "text": "#ChủĐộngNgừaHămChămTừngKẽNgách"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/h%E1%BB%87s%E1%BA%A3nph%E1%BA%A9manto%C3%A0nchoc%E1%BA%A3tr%E1%BA%BBs%C6%A1sinh",
+          "text": "#HệSảnPhẩmAnToànChoCảTrẻSơSinh"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 2,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoGXjo5DpopjFxHny_Ep9hH",
+      "isMonetized": null,
+      "hashtags": [
+        "#FrisoGold",
+        "#MạnhMẽTừBênTrong",
+        "#TiêuHoáKhoẻ"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoGXjo5DpopjFxHny_Ep9hH",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sống đủ 168 giờ - TẬP 8 | Sao nhập ngũ (SS5) : Không Gục Ngã",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "7ZTDUWsvyJ8",
+      "url": "https://www.youtube.com/watch?v=7ZTDUWsvyJ8&list=PLC_d5n_vB0CoGXjo5DpopjFxHny_Ep9hH&index=10",
+      "thumbnailUrl": "https://i.ytimg.com/vi/7ZTDUWsvyJ8/maxresdefault.jpg",
+      "viewCount": 627633,
+      "date": "2018-07-07T13:12:38.000Z",
+      "likes": 3000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:30:37",
+      "commentsCount": 373,
+      "text": "Gin Tuấn Kiệt \"cute pho mai que\" song ca với đồng đội; Hoàng Tôn nhận hoa bắn giỏi; Gia Bảo kìm nén nước mắt nói lời chia tay\nXem ngay Tập 8 tại địa chỉ: http://phim.keeng.vn/sao-nhap-ngu-ss5...   \nHoàn toàn miễn phí, không cần đăng ký.\nĐón xem các tập mới nhất lúc:\n9h00 sáng thứ 7 hàng tuần trên Kênh TH QPVN\n9h30 cùng ngày trên Keeng Movies tại địa chỉ: https://phim.keeng.vn\ntrên Mocha Video tại địa chỉ: https://video.mocha.com.vn\nSubcibe Kênh Youtube và đón xem Sao nhập ngũ lúc 20h00 Thứ Bảy hàng tuần theo địa chỉ https://goo.gl/ybxi9X\nFollow Fanpage chương trình để có thông tin mới nhất, có thêm cơ hội giao lưu với các nghệ sỹ tham gia chương trình, chơi minigame đón nhận quà tặng trị giá từ 500.000 vnđ đến 2.000.000 vnđ. Địa chỉ Fanpage: https://goo.gl/Du9VqY\n----------------------------\n\"Sao nhập ngũ (SS5): Không gục ngã\" chính thức lên sóng từ ngày 12/05/2018, với sự tham gia của 3 nghệ sỹ Gin Tuấn Kiệt, Hoàng Tôn và Bảo Kun tại Lữ đoàn Pháo binh 45 - đơn vị đã bắn phát đạn đầu tiên, mở màn cho chiến thắng Điện Biên Phủ lịch sử. 3 chàng \"chiến sĩ trẻ\" chắc chắn sẽ phải đối mặt với những thử thách khắc nghiệt, đôi khi đến mức nghẹt thở. \n\nSao nhập ngũ - Chương trình truyền hình thực tế về quân đội đầu tiên tại Việt Nam với sự tham gia của nhiều nhân vật nổi tiếng. \nChương trình đã được Cục Bản quyền tác giả, Bộ Văn hóa-Thể thao và Du lịch cấp giấy chứng nhận bản quyền.\n-------------------\nLiên hệ quảng cáo/tài trợ chương trình\nMr Quang Tùng: 096872.6872\n-------------\nDirector: Lương Hải Khoa\nAssistant Director: Lê Đức Cường; Leo Kây; Duy Ekin.\nProducer & PM: Nguyễn Nga\nDP: Đoàn Ngọc Ước & Mai Trùng Khánh\nCameraman: Hồng Thái, Thái Ngân; Tuấn Vũ; Tuấn Huy; Ngọc Thắng\nG&E: Lương Thành Linh; Hồng Quân; Vũ Ánh; Đức Lân; Tuấn Hiệp; Tuấn Anh.\nFly: Linh Lương; Ước Ngọc\nSet Decorator: Sông Đào; Hải Kẹo\nPA: Ngọc Hoàng; Văn Tuyên; Hà Thanh\nEditor: Thanh Liêm; Thanh Tùng; Anh Đức\n\n#saonhapnguss5 #Gintuankiet #Hoangton #Baokun #Ginious #viettel #viettelmedia #qpvn #keengmovies #mochavideo",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "http://phim.keeng.vn/sao-nhap-ngu-ss5-khong-guc-nga-tap-8-song-du-168-gio-f912984.html",
+          "text": "http://phim.keeng.vn/sao-nhap-ngu-ss5..."
+        },
+        {
+          "url": "https://phim.keeng.vn/",
+          "text": "https://phim.keeng.vn"
+        },
+        {
+          "url": "https://video.mocha.com.vn/",
+          "text": "https://video.mocha.com.vn"
+        },
+        {
+          "url": "https://goo.gl/ybxi9X",
+          "text": "https://goo.gl/ybxi9X"
+        },
+        {
+          "url": "https://goo.gl/Du9VqY",
+          "text": "https://goo.gl/Du9VqY"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapnguss5",
+          "text": "#saonhapnguss5"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gintuankiet",
+          "text": "#Gintuankiet"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hoangton",
+          "text": "#Hoangton"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/baokun",
+          "text": "#Baokun"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ginious",
+          "text": "#Ginious"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettel",
+          "text": "#viettel"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#viettelmedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/qpvn",
+          "text": "#qpvn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/keengmovies",
+          "text": "#keengmovies"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mochavideo",
+          "text": "#mochavideo"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 9,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoGXjo5DpopjFxHny_Ep9hH",
+      "isMonetized": null,
+      "hashtags": [
+        "#Hoangton",
+        "#viettel",
+        "#qpvn"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoGXjo5DpopjFxHny_Ep9hH",
+      "isPaidContent": false
+    },
+    {
+      "title": "Vượt ngưỡng - TẬP 5 | Sao nhập ngũ (SS5) : Không Gục Ngã",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "ecy0B8KMWlE",
+      "url": "https://www.youtube.com/watch?v=ecy0B8KMWlE&list=PLC_d5n_vB0CoGXjo5DpopjFxHny_Ep9hH&index=7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ecy0B8KMWlE/maxresdefault.jpg",
+      "viewCount": 667703,
+      "date": "2018-06-16T13:00:10.000Z",
+      "likes": 3400,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:28:56",
+      "commentsCount": 1001,
+      "text": "Gin Tuấn Kiệt băng mình qua lửa đạn\nBảo Kun vượt qua chính mình xuất sắc\nHoàng Tôn \"hy sinh\" trên chiến trường\nXem ngay TẬP 6 trên Keeng Movies tại địa chỉ: \nhttp://phim.keeng.vn/sao-nhap-ngu-ss5...\nĐón xem các tập mới nhất lúc:\n9h00 sáng thứ 7 hàng tuần trên Kênh TH QPVN\n9h30 cùng ngày trên Keeng Movies tại địa chỉ: https://phim.keeng.vn\ntrên Mocha Video tại địa chỉ: https://video.mocha.com.vn\nSubcibe Kênh Youtube và đón xem Sao nhập ngũ lúc 20h00 Thứ Bảy hàng tuần theo địa chỉ https://goo.gl/ybxi9X\nFollow Fanpage chương trình để có thông tin mới nhất, có thêm cơ hội giao lưu với các nghệ sỹ tham gia chương trình, chơi minigame đón nhận quà tặng trị giá từ 500.000 vnđ đến 2.000.000 vnđ. Địa chỉ Fanpage: https://goo.gl/Du9VqY\n----------------------------\n\"Sao nhập ngũ (SS5): Không gục ngã\" chính thức lên sóng từ ngày 12/05/2018, với sự tham gia của 3 nghệ sỹ Gin Tuấn Kiệt, Hoàng Tôn và Bảo Kun tại Lữ đoàn Pháo binh 45 - đơn vị đã bắn phát đạn đầu tiên, mở màn cho chiến thắng Điện Biên Phủ lịch sử. 3 chàng \"chiến sĩ trẻ\" chắc chắn sẽ phải đối mặt với những thử thách khắc nghiệt, đôi khi đến mức nghẹt thở. \n\nSao nhập ngũ - Chương trình truyền hình thực tế về quân đội đầu tiên tại Việt Nam với sự tham gia của nhiều nhân vật nổi tiếng. \nChương trình đã được Cục Bản quyền tác giả, Bộ Văn hóa-Thể thao và Du lịch cấp giấy chứng nhận bản quyền.\n-------------------\nLiên hệ quảng cáo/tài trợ chương trình\nMr Quang Tùng: 096872.6872\n-------------\nDirector: Lương Hải Khoa\nAssistant Director: Lê Đức Cường; Leo Kây; Duy Ekin.\nProducer & PM: Nguyễn Nga\nDP: Đoàn Ngọc Ước & Mai Trùng Khánh\nCameraman: Hồng Thái, Thái Ngân; Tuấn Vũ; Tuấn Huy; Ngọc Thắng\nG&E: Lương Thành Linh; Hồng Quân; Vũ Ánh; Đức Lân; Tuấn Hiệp; Tuấn Anh.\nFly: Linh Lương; Ước Ngọc\nSet Decorator: Sông Đào; Hải Kẹo\nPA: Ngọc Hoàng; Văn Tuyên; Hà Thanh\nEditor: Thanh Liêm; Thanh Tùng; Anh Đức\n\n#saonhapnguss5 #Gintuankiet #Hoangton #Baokun #Ginious #viettel #viettelmedia #qpvn #keengmovies #mochavideo",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "http://phim.keeng.vn/sao-nhap-ngu-ss5-khong-guc-nga-tap-4-tot-cung-gioi-han-f912982.html",
+          "text": "http://phim.keeng.vn/sao-nhap-ngu-ss5..."
+        },
+        {
+          "url": "https://phim.keeng.vn/",
+          "text": "https://phim.keeng.vn"
+        },
+        {
+          "url": "https://video.mocha.com.vn/",
+          "text": "https://video.mocha.com.vn"
+        },
+        {
+          "url": "https://goo.gl/ybxi9X",
+          "text": "https://goo.gl/ybxi9X"
+        },
+        {
+          "url": "https://goo.gl/Du9VqY",
+          "text": "https://goo.gl/Du9VqY"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapnguss5",
+          "text": "#saonhapnguss5"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gintuankiet",
+          "text": "#Gintuankiet"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hoangton",
+          "text": "#Hoangton"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/baokun",
+          "text": "#Baokun"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ginious",
+          "text": "#Ginious"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettel",
+          "text": "#viettel"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#viettelmedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/qpvn",
+          "text": "#qpvn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/keengmovies",
+          "text": "#keengmovies"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mochavideo",
+          "text": "#mochavideo"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 6,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoGXjo5DpopjFxHny_Ep9hH",
+      "isMonetized": null,
+      "hashtags": [
+        "#Hoangton",
+        "#viettel",
+        "#qpvn"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoGXjo5DpopjFxHny_Ep9hH",
+      "isPaidContent": false
+    },
+    {
+      "title": "Thử thách đầu tiên - TẬP 1 | Sao nhập ngũ (SS5) : Không Gục Ngã",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "JZM_FC5vnoI",
+      "url": "https://www.youtube.com/watch?v=JZM_FC5vnoI&list=PLC_d5n_vB0CoGXjo5DpopjFxHny_Ep9hH&index=1",
+      "thumbnailUrl": "https://i.ytimg.com/vi/JZM_FC5vnoI/maxresdefault.jpg",
+      "viewCount": 1957206,
+      "date": "2018-05-19T13:00:06.000Z",
+      "likes": 10000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:30:31",
+      "commentsCount": 1389,
+      "text": "Bảo Kun gào thét giữa thao trường; Gin Tuấn Kiệt dễ thương muốn xỉu; Hoàng Tôn mạnh mẽ như Thần Thor.\nXem ngay TẬP 2 trên Keeng Movies tại địa chỉ: http://phim.keeng.vn/Sn-f912978.html\nĐón xem các tập mới nhất lúc:\n9h00 sáng thứ 7 hàng tuần trên Kênh TH QPVN\n9h30 cùng ngày trên Keeng Movies tại địa chỉ: https://phim.keeng.vn\ntrên Mocha Video tại địa chỉ: https://video.mocha.com.vn\nSubcibe Kênh Youtube và đón xem Sao nhập ngũ lúc 10h00 sáng Chủ nhật hàng tuần theo địa chỉ https://goo.gl/ybxi9X\nFollow Fanpage chương trình để có thông tin mới nhất, có thêm cơ hội giao lưu với các nghệ sỹ tham gia chương trình, chơi minigame đón nhận quà tặng trị giá từ 500.000 vnđ đến 2.000.000 vnđ. Địa chỉ Fanpage: https://goo.gl/Du9VqY\n----------------------------\n\"Sao nhập ngũ (SS5): Không gục ngã\" chính thức lên sóng từ ngày 12/05/2018, với sự tham gia của 3 nghệ sỹ Gin Tuấn Kiệt, Hoàng Tôn và Bảo Kun tại Lữ đoàn Pháo binh 45 - đơn vị đã bắn phát đạn đầu tiên, mở màn cho chiến thắng Điện Biên Phủ lịch sử. 3 chàng \"chiến sĩ trẻ\" chắc chắn sẽ phải đối mặt với những thử thách khắc nghiệt, đôi khi đến mức nghẹt thở. \n\nSao nhập ngũ - Chương trình truyền hình thực tế về quân đội đầu tiên tại Việt Nam với sự tham gia của nhiều nhân vật nổi tiếng. \nChương trình đã được Cục Bản quyền tác giả, Bộ Văn hóa-Thể thao và Du lịch cấp giấy chứng nhận bản quyền.\n-------------------\nLiên hệ quảng cáo/tài trợ chương trình\nMr Quang Tùng: 096872.6872\n-------------\nDirector: Lương Hải Khoa\nAssistant Director: Lê Đức Cường; Leo Kây; Duy Ekin.\nProducer & PM: Nguyễn Nga\nDP: Đoàn Ngọc Ước & Mai Trùng Khánh\nCameraman: Hồng Thái, Thái Ngân; Tuấn Vũ; Tuấn Huy; Ngọc Thắng\nG&E: Lương Thành Linh; Hồng Quân; Vũ Ánh; Đức Lân; Tuấn Hiệp; Tuấn Anh.\nFly: Linh Lương; Ước Ngọc\nSet Decorator: Sông Đào; Hải Kẹo\nPA: Ngọc Hoàng; Văn Tuyên; Hà Thanh\nEditor: Thanh Liêm; Thanh Tùng; Anh Đức\n\n#saonhapnguss5 #Gintuankiet #Hoangton #Baokun #Ginious #viettel #viettelmedia #qpvn #keengmovies #mochavideo",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "http://phim.keeng.vn/Sn-f912978.html",
+          "text": "http://phim.keeng.vn/Sn-f912978.html"
+        },
+        {
+          "url": "https://phim.keeng.vn/",
+          "text": "https://phim.keeng.vn"
+        },
+        {
+          "url": "https://video.mocha.com.vn/",
+          "text": "https://video.mocha.com.vn"
+        },
+        {
+          "url": "https://goo.gl/ybxi9X",
+          "text": "https://goo.gl/ybxi9X"
+        },
+        {
+          "url": "https://goo.gl/Du9VqY",
+          "text": "https://goo.gl/Du9VqY"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapnguss5",
+          "text": "#saonhapnguss5"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gintuankiet",
+          "text": "#Gintuankiet"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hoangton",
+          "text": "#Hoangton"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/baokun",
+          "text": "#Baokun"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ginious",
+          "text": "#Ginious"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettel",
+          "text": "#viettel"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#viettelmedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/qpvn",
+          "text": "#qpvn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/keengmovies",
+          "text": "#keengmovies"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mochavideo",
+          "text": "#mochavideo"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 0,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoGXjo5DpopjFxHny_Ep9hH",
+      "isMonetized": null,
+      "hashtags": [
+        "#Hoangton",
+        "#viettel",
+        "#qpvn"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoGXjo5DpopjFxHny_Ep9hH",
+      "isPaidContent": false
+    },
+    {
+      "title": "Trong thân pháo - TẬP 7 | Sao nhập ngũ (SS5) : Không Gục Ngã",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "KwWG6N2GChw",
+      "url": "https://www.youtube.com/watch?v=KwWG6N2GChw&list=PLC_d5n_vB0CoGXjo5DpopjFxHny_Ep9hH&index=9",
+      "thumbnailUrl": "https://i.ytimg.com/vi/KwWG6N2GChw/maxresdefault.jpg",
+      "viewCount": 676635,
+      "date": "2018-06-30T13:00:01.000Z",
+      "likes": 2700,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:29:04",
+      "commentsCount": 478,
+      "text": "Tiểu đội trưởng Gin bỏ rơi đồng đội đi thu hút địch. Bảo Kun phá kỷ lục nạp đạn. Hoàng Tôn vượt qua nỗi sợ cầm súng bắn rất sung.\n\nCài ngay App Keeng và Mocha để xem Sao nhập ngũ mới nhất. \nĐón xem các tập mới nhất lúc:\n9h00 sáng thứ 7 hàng tuần trên Kênh TH QPVN\n9h30 cùng ngày trên Keeng Movies tại địa chỉ: https://phim.keeng.vn\ntrên Mocha Video tại địa chỉ: https://video.mocha.com.vn\nSubcibe Kênh Youtube và đón xem Sao nhập ngũ lúc 20h00 Thứ Bảy hàng tuần theo địa chỉ https://goo.gl/ybxi9X\nFollow Fanpage chương trình để có thông tin mới nhất, có thêm cơ hội giao lưu với các nghệ sỹ tham gia chương trình, chơi minigame đón nhận quà tặng trị giá từ 500.000 vnđ đến 2.000.000 vnđ. Địa chỉ Fanpage: https://goo.gl/Du9VqY\n----------------------------\n\"Sao nhập ngũ (SS5): Không gục ngã\" chính thức lên sóng từ ngày 12/05/2018, với sự tham gia của 3 nghệ sỹ Gin Tuấn Kiệt, Hoàng Tôn và Bảo Kun tại Lữ đoàn Pháo binh 45 - đơn vị đã bắn phát đạn đầu tiên, mở màn cho chiến thắng Điện Biên Phủ lịch sử. 3 chàng \"chiến sĩ trẻ\" chắc chắn sẽ phải đối mặt với những thử thách khắc nghiệt, đôi khi đến mức nghẹt thở. \n\nSao nhập ngũ - Chương trình truyền hình thực tế về quân đội đầu tiên tại Việt Nam với sự tham gia của nhiều nhân vật nổi tiếng. \nChương trình đã được Cục Bản quyền tác giả, Bộ Văn hóa-Thể thao và Du lịch cấp giấy chứng nhận bản quyền.\n-------------------\nLiên hệ quảng cáo/tài trợ chương trình\nMr Quang Tùng: 096872.6872\n-------------\nDirector: Lương Hải Khoa\nAssistant Director: Lê Đức Cường; Leo Kây; Duy Ekin.\nProducer & PM: Nguyễn Nga\nDP: Đoàn Ngọc Ước & Mai Trùng Khánh\nCameraman: Hồng Thái, Thái Ngân; Tuấn Vũ; Tuấn Huy; Ngọc Thắng\nG&E: Lương Thành Linh; Hồng Quân; Vũ Ánh; Đức Lân; Tuấn Hiệp; Tuấn Anh.\nFly: Linh Lương; Ước Ngọc\nSet Decorator: Sông Đào; Hải Kẹo\nPA: Ngọc Hoàng; Văn Tuyên; Hà Thanh\nEditor: Thanh Liêm; Thanh Tùng; Anh Đức\n\n#saonhapnguss5 #Gintuankiet #Hoangton #Baokun #Ginious #viettel #viettelmedia #qpvn #keengmovies #mochavideo",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://phim.keeng.vn/",
+          "text": "https://phim.keeng.vn"
+        },
+        {
+          "url": "https://video.mocha.com.vn/",
+          "text": "https://video.mocha.com.vn"
+        },
+        {
+          "url": "https://goo.gl/ybxi9X",
+          "text": "https://goo.gl/ybxi9X"
+        },
+        {
+          "url": "https://goo.gl/Du9VqY",
+          "text": "https://goo.gl/Du9VqY"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapnguss5",
+          "text": "#saonhapnguss5"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gintuankiet",
+          "text": "#Gintuankiet"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hoangton",
+          "text": "#Hoangton"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/baokun",
+          "text": "#Baokun"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ginious",
+          "text": "#Ginious"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettel",
+          "text": "#viettel"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#viettelmedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/qpvn",
+          "text": "#qpvn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/keengmovies",
+          "text": "#keengmovies"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mochavideo",
+          "text": "#mochavideo"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 8,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoGXjo5DpopjFxHny_Ep9hH",
+      "isMonetized": null,
+      "hashtags": [
+        "#Hoangton",
+        "#viettel",
+        "#qpvn"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoGXjo5DpopjFxHny_Ep9hH",
+      "isPaidContent": false
+    },
+    {
+      "title": "Nỗi sợ của Hoàng Tôn - TẬP 6 | Sao nhập ngũ (SS5) : Không Gục Ngã",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "ntPRle4WH3E",
+      "url": "https://www.youtube.com/watch?v=ntPRle4WH3E&list=PLC_d5n_vB0CoGXjo5DpopjFxHny_Ep9hH&index=8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ntPRle4WH3E/maxresdefault.jpg",
+      "viewCount": 872513,
+      "date": "2018-06-23T13:00:04.000Z",
+      "likes": 3400,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:30:20",
+      "commentsCount": 613,
+      "text": "Cười rụng rốn với các pha cứu thương của Gin Tuấn Kiệt & Hoàng Tôn & Gia Bảo\n\nXem ngay TẬP 7 trên Keeng Movies tại địa chỉ: \nhttp://phim.keeng.vn/sao-nhap-ngu-ss5...\nhoặc trên Mocha Video theo link: http://video.mocha.com.vn/sao-nhap-ng...\nĐón xem các tập mới nhất lúc:\n9h00 sáng thứ 7 hàng tuần trên Kênh TH QPVN\n9h30 cùng ngày trên Keeng Movies tại địa chỉ: https://phim.keeng.vn\ntrên Mocha Video tại địa chỉ: https://video.mocha.com.vn\nSubcibe Kênh Youtube và đón xem Sao nhập ngũ lúc 20h00 Thứ Bảy hàng tuần theo địa chỉ https://goo.gl/ybxi9X\nFollow Fanpage chương trình để có thông tin mới nhất, có thêm cơ hội giao lưu với các nghệ sỹ tham gia chương trình, chơi minigame đón nhận quà tặng trị giá từ 500.000 vnđ đến 2.000.000 vnđ. Địa chỉ Fanpage: https://goo.gl/Du9VqY\n----------------------------\n\"Sao nhập ngũ (SS5): Không gục ngã\" chính thức lên sóng từ ngày 12/05/2018, với sự tham gia của 3 nghệ sỹ Gin Tuấn Kiệt, Hoàng Tôn và Bảo Kun tại Lữ đoàn Pháo binh 45 - đơn vị đã bắn phát đạn đầu tiên, mở màn cho chiến thắng Điện Biên Phủ lịch sử. 3 chàng \"chiến sĩ trẻ\" chắc chắn sẽ phải đối mặt với những thử thách khắc nghiệt, đôi khi đến mức nghẹt thở. \n\nSao nhập ngũ - Chương trình truyền hình thực tế về quân đội đầu tiên tại Việt Nam với sự tham gia của nhiều nhân vật nổi tiếng. \nChương trình đã được Cục Bản quyền tác giả, Bộ Văn hóa-Thể thao và Du lịch cấp giấy chứng nhận bản quyền.\n-------------------\nLiên hệ quảng cáo/tài trợ chương trình\nMr Quang Tùng: 096872.6872\n-------------\nDirector: Lương Hải Khoa\nAssistant Director: Lê Đức Cường; Leo Kây; Duy Ekin.\nProducer & PM: Nguyễn Nga\nDP: Đoàn Ngọc Ước & Mai Trùng Khánh\nCameraman: Hồng Thái, Thái Ngân; Tuấn Vũ; Tuấn Huy; Ngọc Thắng\nG&E: Lương Thành Linh; Hồng Quân; Vũ Ánh; Đức Lân; Tuấn Hiệp; Tuấn Anh.\nFly: Linh Lương; Ước Ngọc\nSet Decorator: Sông Đào; Hải Kẹo\nPA: Ngọc Hoàng; Văn Tuyên; Hà Thanh\nEditor: Thanh Liêm; Thanh Tùng; Anh Đức\n\n#saonhapnguss5 #Gintuankiet #Hoangton #Baokun #Ginious #viettel #viettelmedia #qpvn #keengmovies #mochavideo",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "http://phim.keeng.vn/sao-nhap-ngu-ss5-khong-guc-nga-tap-4-tot-cung-gioi-han-f912983.html",
+          "text": "http://phim.keeng.vn/sao-nhap-ngu-ss5..."
+        },
+        {
+          "url": "http://video.mocha.com.vn/sao-nhap-ngu-ss5-trong-than-phao--tap-7-v1506190.html",
+          "text": "http://video.mocha.com.vn/sao-nhap-ng..."
+        },
+        {
+          "url": "https://phim.keeng.vn/",
+          "text": "https://phim.keeng.vn"
+        },
+        {
+          "url": "https://video.mocha.com.vn/",
+          "text": "https://video.mocha.com.vn"
+        },
+        {
+          "url": "https://goo.gl/ybxi9X",
+          "text": "https://goo.gl/ybxi9X"
+        },
+        {
+          "url": "https://goo.gl/Du9VqY",
+          "text": "https://goo.gl/Du9VqY"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapnguss5",
+          "text": "#saonhapnguss5"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gintuankiet",
+          "text": "#Gintuankiet"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hoangton",
+          "text": "#Hoangton"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/baokun",
+          "text": "#Baokun"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ginious",
+          "text": "#Ginious"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettel",
+          "text": "#viettel"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#viettelmedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/qpvn",
+          "text": "#qpvn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/keengmovies",
+          "text": "#keengmovies"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mochavideo",
+          "text": "#mochavideo"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 7,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoGXjo5DpopjFxHny_Ep9hH",
+      "isMonetized": null,
+      "hashtags": [
+        "#Hoangton",
+        "#viettel",
+        "#qpvn"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoGXjo5DpopjFxHny_Ep9hH",
+      "isPaidContent": false
+    },
+    {
+      "title": "Người được chọn - TẬP 2 | Sao nhập ngũ (SS5) : Không Gục Ngã",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "lk3yxseFqVI",
+      "url": "https://www.youtube.com/watch?v=lk3yxseFqVI&list=PLC_d5n_vB0CoGXjo5DpopjFxHny_Ep9hH&index=4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/lk3yxseFqVI/maxresdefault.jpg",
+      "viewCount": 1460661,
+      "date": "2018-05-26T13:00:08.000Z",
+      "likes": 5200,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:29:52",
+      "commentsCount": 939,
+      "text": "Gin Tuấn Kiệt bị \"quật ngã\" trong đêm.\nXem ngay TẬP 3 trên Keeng Movies tại địa chỉ: \nhttp://phim.keeng.vn\nĐón xem các tập mới nhất lúc:\n9h00 sáng thứ 7 hàng tuần trên Kênh TH QPVN\n9h30 cùng ngày trên Keeng Movies tại địa chỉ: https://phim.keeng.vn\ntrên Mocha Video tại địa chỉ: https://video.mocha.com.vn\nSubcibe Kênh Youtube và đón xem Sao nhập ngũ lúc 10h00 sáng Chủ nhật hàng tuần theo địa chỉ https://goo.gl/ybxi9X\nFollow Fanpage chương trình để có thông tin mới nhất, có thêm cơ hội giao lưu với các nghệ sỹ tham gia chương trình, chơi minigame đón nhận quà tặng trị giá từ 500.000 vnđ đến 2.000.000 vnđ. Địa chỉ Fanpage: https://goo.gl/Du9VqY\n----------------------------\n\"Sao nhập ngũ (SS5): Không gục ngã\" chính thức lên sóng từ ngày 12/05/2018, với sự tham gia của 3 nghệ sỹ Gin Tuấn Kiệt, Hoàng Tôn và Bảo Kun tại Lữ đoàn Pháo binh 45 - đơn vị đã bắn phát đạn đầu tiên, mở màn cho chiến thắng Điện Biên Phủ lịch sử. 3 chàng \"chiến sĩ trẻ\" chắc chắn sẽ phải đối mặt với những thử thách khắc nghiệt, đôi khi đến mức nghẹt thở. \n\nSao nhập ngũ - Chương trình truyền hình thực tế về quân đội đầu tiên tại Việt Nam với sự tham gia của nhiều nhân vật nổi tiếng. \nChương trình đã được Cục Bản quyền tác giả, Bộ Văn hóa-Thể thao và Du lịch cấp giấy chứng nhận bản quyền.\n-------------------\nLiên hệ quảng cáo/tài trợ chương trình\nMr Quang Tùng: 096872.6872\n-------------\nDirector: Lương Hải Khoa\nAssistant Director: Lê Đức Cường; Leo Kây; Duy Ekin.\nProducer & PM: Nguyễn Nga\nDP: Đoàn Ngọc Ước & Mai Trùng Khánh\nCameraman: Hồng Thái, Thái Ngân; Tuấn Vũ; Tuấn Huy; Ngọc Thắng\nG&E: Lương Thành Linh; Hồng Quân; Vũ Ánh; Đức Lân; Tuấn Hiệp; Tuấn Anh.\nFly: Linh Lương; Ước Ngọc\nSet Decorator: Sông Đào; Hải Kẹo\nPA: Ngọc Hoàng; Văn Tuyên; Hà Thanh\nEditor: Thanh Liêm; Thanh Tùng; Anh Đức\n\n#saonhapnguss5 #Gintuankiet #Hoangton #Baokun #Ginious #viettel #viettelmedia #qpvn #keengmovies #mochavideo",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "http://phim.keeng.vn/",
+          "text": "http://phim.keeng.vn"
+        },
+        {
+          "url": "https://phim.keeng.vn/",
+          "text": "https://phim.keeng.vn"
+        },
+        {
+          "url": "https://video.mocha.com.vn/",
+          "text": "https://video.mocha.com.vn"
+        },
+        {
+          "url": "https://goo.gl/ybxi9X",
+          "text": "https://goo.gl/ybxi9X"
+        },
+        {
+          "url": "https://goo.gl/Du9VqY",
+          "text": "https://goo.gl/Du9VqY"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapnguss5",
+          "text": "#saonhapnguss5"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gintuankiet",
+          "text": "#Gintuankiet"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hoangton",
+          "text": "#Hoangton"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/baokun",
+          "text": "#Baokun"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ginious",
+          "text": "#Ginious"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettel",
+          "text": "#viettel"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#viettelmedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/qpvn",
+          "text": "#qpvn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/keengmovies",
+          "text": "#keengmovies"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mochavideo",
+          "text": "#mochavideo"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 3,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoGXjo5DpopjFxHny_Ep9hH",
+      "isMonetized": null,
+      "hashtags": [
+        "#Hoangton",
+        "#viettel",
+        "#qpvn"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoGXjo5DpopjFxHny_Ep9hH",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tột cùng giới hạn - TẬP 4 | Sao nhập ngũ (SS5) : Không Gục Ngã",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "mUwsf3m-75U",
+      "url": "https://www.youtube.com/watch?v=mUwsf3m-75U&list=PLC_d5n_vB0CoGXjo5DpopjFxHny_Ep9hH&index=6",
+      "thumbnailUrl": "https://i.ytimg.com/vi/mUwsf3m-75U/maxresdefault.jpg",
+      "viewCount": 876825,
+      "date": "2018-06-10T00:53:42.000Z",
+      "likes": 3500,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:30:53",
+      "commentsCount": 763,
+      "text": "Bảo Kun \"gục ngã\" giữa thao trường. Gin Tuấn Kiệt gặp khó khi bê đạn. Hoàng Tôn nỗ lưc nạp đạn.\nXem ngay TẬP 5 trên Keeng Movies tại địa chỉ: \nhttp://phim.keeng.vn/sao-nhap-ngu-ss5...\nĐón xem các tập mới nhất lúc:\n9h00 sáng thứ 7 hàng tuần trên Kênh TH QPVN\n9h30 cùng ngày trên Keeng Movies tại địa chỉ: https://phim.keeng.vn\ntrên Mocha Video tại địa chỉ: https://video.mocha.com.vn\nSubcibe Kênh Youtube và đón xem Sao nhập ngũ lúc 20h00 Thứ Bảy hàng tuần theo địa chỉ https://goo.gl/ybxi9X\nFollow Fanpage chương trình để có thông tin mới nhất, có thêm cơ hội giao lưu với các nghệ sỹ tham gia chương trình, chơi minigame đón nhận quà tặng trị giá từ 500.000 vnđ đến 2.000.000 vnđ. Địa chỉ Fanpage: https://goo.gl/Du9VqY\n----------------------------\n\"Sao nhập ngũ (SS5): Không gục ngã\" chính thức lên sóng từ ngày 12/05/2018, với sự tham gia của 3 nghệ sỹ Gin Tuấn Kiệt, Hoàng Tôn và Bảo Kun tại Lữ đoàn Pháo binh 45 - đơn vị đã bắn phát đạn đầu tiên, mở màn cho chiến thắng Điện Biên Phủ lịch sử. 3 chàng \"chiến sĩ trẻ\" chắc chắn sẽ phải đối mặt với những thử thách khắc nghiệt, đôi khi đến mức nghẹt thở. \n\nSao nhập ngũ - Chương trình truyền hình thực tế về quân đội đầu tiên tại Việt Nam với sự tham gia của nhiều nhân vật nổi tiếng. \nChương trình đã được Cục Bản quyền tác giả, Bộ Văn hóa-Thể thao và Du lịch cấp giấy chứng nhận bản quyền.\n-------------------\nLiên hệ quảng cáo/tài trợ chương trình\nMr Quang Tùng: 096872.6872\n-------------\nDirector: Lương Hải Khoa\nAssistant Director: Lê Đức Cường; Leo Kây; Duy Ekin.\nProducer & PM: Nguyễn Nga\nDP: Đoàn Ngọc Ước & Mai Trùng Khánh\nCameraman: Hồng Thái, Thái Ngân; Tuấn Vũ; Tuấn Huy; Ngọc Thắng\nG&E: Lương Thành Linh; Hồng Quân; Vũ Ánh; Đức Lân; Tuấn Hiệp; Tuấn Anh.\nFly: Linh Lương; Ước Ngọc\nSet Decorator: Sông Đào; Hải Kẹo\nPA: Ngọc Hoàng; Văn Tuyên; Hà Thanh\nEditor: Thanh Liêm; Thanh Tùng; Anh Đức\n\n#saonhapnguss5 #Gintuankiet #Hoangton #Baokun #Ginious #viettel #viettelmedia #qpvn #keengmovies #mochavideo",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "http://phim.keeng.vn/sao-nhap-ngu-ss5-khong-guc-nga-tap-4-tot-cung-gioi-han-f912981.html",
+          "text": "http://phim.keeng.vn/sao-nhap-ngu-ss5..."
+        },
+        {
+          "url": "https://phim.keeng.vn/",
+          "text": "https://phim.keeng.vn"
+        },
+        {
+          "url": "https://video.mocha.com.vn/",
+          "text": "https://video.mocha.com.vn"
+        },
+        {
+          "url": "https://goo.gl/ybxi9X",
+          "text": "https://goo.gl/ybxi9X"
+        },
+        {
+          "url": "https://goo.gl/Du9VqY",
+          "text": "https://goo.gl/Du9VqY"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapnguss5",
+          "text": "#saonhapnguss5"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gintuankiet",
+          "text": "#Gintuankiet"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hoangton",
+          "text": "#Hoangton"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/baokun",
+          "text": "#Baokun"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ginious",
+          "text": "#Ginious"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettel",
+          "text": "#viettel"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#viettelmedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/qpvn",
+          "text": "#qpvn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/keengmovies",
+          "text": "#keengmovies"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mochavideo",
+          "text": "#mochavideo"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 5,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoGXjo5DpopjFxHny_Ep9hH",
+      "isMonetized": null,
+      "hashtags": [
+        "#Hoangton",
+        "#viettel",
+        "#qpvn"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoGXjo5DpopjFxHny_Ep9hH",
+      "isPaidContent": false
+    },
+    {
+      "title": "Bản lĩnh của Pháo thủ - TẬP 3 | Sao nhập ngũ (SS5) : Không Gục Ngã",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "H6bG6MdRwKU",
+      "url": "https://www.youtube.com/watch?v=H6bG6MdRwKU&list=PLC_d5n_vB0CoGXjo5DpopjFxHny_Ep9hH&index=5",
+      "thumbnailUrl": "https://i.ytimg.com/vi/H6bG6MdRwKU/maxresdefault.jpg",
+      "viewCount": 922524,
+      "date": "2018-06-02T13:00:03.000Z",
+      "likes": 3800,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:29:15",
+      "commentsCount": 612,
+      "text": "Bảo Kun \"gào thét\" giữa thao trường; Hoàng Tôn đãng trí không nhớ nổi bài học; Gin Tuấn Kiệt bị quật ngã trong đêm.\n- Xem ngay TẬP 4 trên Keeng Movies tại địa chỉ: \nhttp://phim.keeng.vn/sao-nhap-ngu-ss5-khong-guc-nga-tap-4-tot-cung-gioi-han-f912980.html\n- Đón xem các tập mới nhất lúc:\n9h00 sáng thứ 7 hàng tuần trên Kênh TH QPVN\n9h30 cùng ngày trên Keeng Movies tại địa chỉ: https://phim.keeng.vn\ntrên Mocha Video tại địa chỉ: https://video.mocha.com.vn\n- Subcibe Kênh Youtube và đón xem Sao nhập ngũ lúc 20h00 Thứ Bảy hàng tuần theo địa chỉ https://goo.gl/ybxi9X\n- Follow Fanpage chương trình để có thông tin mới nhất, có thêm cơ hội giao lưu với các nghệ sỹ tham gia chương trình, chơi minigame đón nhận quà tặng trị giá từ 500.000 vnđ đến 2.000.000 vnđ. Địa chỉ Fanpage: https://goo.gl/Du9VqY\n----------------------------\n\"Sao nhập ngũ (SS5): Không gục ngã\" chính thức lên sóng từ ngày 12/05/2018, với sự tham gia của 3 nghệ sỹ Gin Tuấn Kiệt, Hoàng Tôn và Bảo Kun tại Lữ đoàn Pháo binh 45 - đơn vị đã bắn phát đạn đầu tiên, mở màn cho chiến thắng Điện Biên Phủ lịch sử. 3 chàng \"chiến sĩ trẻ\" chắc chắn sẽ phải đối mặt với những thử thách khắc nghiệt, đôi khi đến mức nghẹt thở. \n\nSao nhập ngũ - Chương trình truyền hình thực tế về quân đội đầu tiên tại Việt Nam với sự tham gia của nhiều nhân vật nổi tiếng. \nChương trình đã được Cục Bản quyền tác giả, Bộ Văn hóa-Thể thao và Du lịch cấp giấy chứng nhận bản quyền.\n-------------------\nLiên hệ quảng cáo/tài trợ chương trình\nMr Quang Tùng: 096872.6872\n-------------\nDirector: Lương Hải Khoa\nAssistant Director: Lê Đức Cường; Leo Kây; Duy Ekin.\nProducer & PM: Nguyễn Nga\nDP: Đoàn Ngọc Ước & Mai Trùng Khánh\nCameraman: Hồng Thái, Thái Ngân; Tuấn Vũ; Tuấn Huy; Ngọc Thắng\nG&E: Lương Thành Linh; Hồng Quân; Vũ Ánh; Đức Lân; Tuấn Hiệp; Tuấn Anh.\nFly: Linh Lương; Ước Ngọc\nSet Decorator: Sông Đào; Hải Kẹo\nPA: Ngọc Hoàng; Văn Tuyên; Hà Thanh\nEditor: Thanh Liêm; Thanh Tùng; Anh Đức\n\n#saonhapnguss5 #Gintuankiet #Hoangton #Baokun #Ginious #viettel #viettelmedia #qpvn #keengmovies #mochavideo",
+      "translatedText": "Bảo Kun \"gào thét\" giữa thao trường; Hoàng Tôn đãng trí không nhớ nổi bài học; Gin Tuấn Kiệt bị quật ngã trong đêm.\nXem ngay TẬP 4 trên Keeng Movies tại địa chỉ: \nhttp://phim.keeng.vn/sao-nhap-ngu-ss5...\nĐón xem các tập mới nhất lúc:\n9h00 sáng thứ 7 hàng tuần trên Kênh TH QPVN\n9h30 cùng ngày trên Keeng Movies tại địa chỉ: https://phim.keeng.vn\ntrên Mocha Video tại địa chỉ: https://video.mocha.com.vn\nSubcibe Kênh Youtube và đón xem Sao nhập ngũ lúc 20h00 Thứ Bảy hàng tuần theo địa chỉ https://goo.gl/ybxi9X\nFollow Fanpage chương trình để có thông tin mới nhất, có thêm cơ hội giao lưu với các nghệ sỹ tham gia chương trình, chơi minigame đón nhận quà tặng trị giá từ 500.000 vnđ đến 2.000.000 vnđ. Địa chỉ Fanpage: https://goo.gl/Du9VqY\n----------------------------\n\"Sao nhập ngũ (SS5): Không gục ngã\" chính thức lên sóng từ ngày 12/05/2018, với sự tham gia của 3 nghệ sỹ Gin Tuấn Kiệt, Hoàng Tôn và Bảo Kun tại Lữ đoàn Pháo binh 45 - đơn vị đã bắn phát đạn đầu tiên, mở màn cho chiến thắng Điện Biên Phủ lịch sử. 3 chàng \"chiến sĩ trẻ\" chắc chắn sẽ phải đối mặt với những thử thách khắc nghiệt, đôi khi đến mức nghẹt thở. \n\nSao nhập ngũ - Chương trình truyền hình thực tế về quân đội đầu tiên tại Việt Nam với sự tham gia của nhiều nhân vật n���i tiếng. \nChương trình đã được Cục Bản quyền tác giả, Bộ Văn hóa-Thể thao và Du lịch cấp giấy chứng nhận bản quyền.\n-------------------\nLiên hệ quảng cáo/tài trợ chương trình\nMr Quang Tùng: 096872.6872\n-------------\nDirector: Lương Hải Khoa\nAssistant Director: Lê Đức Cường; Leo Kây; Duy Ekin.\nProducer & PM: Nguyễn Nga\nDP: Đoàn Ngọc Ước & Mai Trùng Khánh\nCameraman: Hồng Thái, Thái Ngân; Tuấn Vũ; Tuấn Huy; Ngọc Thắng\nG&E: Lương Thành Linh; Hồng Quân; Vũ Ánh; Đức Lân; Tuấn Hiệp; Tuấn Anh.\nFly: Linh Lương; Ước Ngọc\nSet Decorator: Sông Đào; Hải Kẹo\nPA: Ngọc Hoàng; Văn Tuyên; Hà Thanh\nEditor: Thanh Liêm; Thanh Tùng; Anh Đức\n\n#saonhapnguss5 #Gintuankiet #Hoangton #Baokun #Ginious #viettel #viettelmedia #qpvn #keengmovies #mochavideo",
+      "descriptionLinks": [
+        {
+          "url": "http://phim.keeng.vn/sao-nhap-ngu-ss5-khong-guc-nga-tap-4-tot-cung-gioi-han-f912980.html",
+          "text": "http://phim.keeng.vn/sao-nhap-ngu-ss5..."
+        },
+        {
+          "url": "https://phim.keeng.vn/",
+          "text": "https://phim.keeng.vn"
+        },
+        {
+          "url": "https://video.mocha.com.vn/",
+          "text": "https://video.mocha.com.vn"
+        },
+        {
+          "url": "https://goo.gl/ybxi9X",
+          "text": "https://goo.gl/ybxi9X"
+        },
+        {
+          "url": "https://goo.gl/Du9VqY",
+          "text": "https://goo.gl/Du9VqY"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapnguss5",
+          "text": "\n\n#saonhapngus"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gintuankiet",
+          "text": "5 #Gintuanki"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hoangton",
+          "text": "t #Hoangt"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/baokun",
+          "text": "n #Baok"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ginious",
+          "text": "n #Ginio"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettel",
+          "text": "s #viett"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "l #viettelmed"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/qpvn",
+          "text": "a #qp"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/keengmovies",
+          "text": "n #keengmovi"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mochavideo",
+          "text": "s #mochavid"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 4,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoGXjo5DpopjFxHny_Ep9hH",
+      "isMonetized": null,
+      "hashtags": [
+        "#Hoangton",
+        "#viettel",
+        "#qpvn"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoGXjo5DpopjFxHny_Ep9hH",
+      "isPaidContent": false
+    },
+    {
+      "title": "Kem Xôi TV: Tập 1 | Lũ đàn ông bội bạc | Kem Xôi TV Season 3 | Hài Ngắn Hay Nhất 2022",
+      "translatedTitle": "Kem Xôi TV: Tập 1 | Lũ đàn ông bội bạc | Kem Xôi TV Season 3 | Hài Ng���n Hay Nhất 2022",
+      "type": "video",
+      "id": "DKFo-oYseQU",
+      "url": "https://www.youtube.com/watch?v=DKFo-oYseQU&list=PLC_d5n_vB0CoGXjo5DpopjFxHny_Ep9hH&index=2",
+      "thumbnailUrl": "https://i.ytimg.com/vi/DKFo-oYseQU/maxresdefault.jpg",
+      "viewCount": 134700,
+      "date": "2022-07-28T14:00:13.000Z",
+      "likes": 1800,
+      "location": null,
+      "channelName": "Kem Xôi TV - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@KemXoiTVViettelMedia",
+      "channelUsername": "KemXoiTVViettelMedia",
+      "collaborators": null,
+      "channelId": "UCPu7cX9LrVOlCDK905T9tVw",
+      "numberOfSubscribers": 2110000,
+      "duration": "00:08:52",
+      "commentsCount": 453,
+      "text": "Kem Xôi TV: Tập 1 | Lũ đàn ông bội bạc | Kem Xôi TV Season 3 | Hài Ngắn Hay Nhất 2022\n\nMời các bạn cùng xem tập đầu tiên của Kem Xôi TV Season 3 với sự trở lại của Minh Tít, Thương Cin, Yến Xôi, Nam \"vong đái\"... Các clip siêu hài: Mặt nạ kiểu bắt cóc, Tiền ải tiền ai, Lũ đàn ông bội bạc chắc chắn sẽ mang lại những tiếng cười sảng khoái.\n\n👉 Link đăng kí trở thành diễn viên Kem Xôi TV: https://bit.ly/castingform2022\n--------------------------------------------------------\nThực hiện bởi: Kem Xôi TV\nVới sự tham gia của Đạo Diễn: Minh Tít\nDiễn viên: Minh Tít, Yến Xôi, Thương Cin, Tạ Nam...và các diễn viên khác\nBiên kịch: Team Minh Tít Entertainment, Thu Trang, Hạnh Nhân\nDOP: Hồng Thái\nQuay phim: Hồng Thái - Văn Thảo - Văn Chiên\nTổ chức sản xuất: Trang Dương\nMỹ thuật: Trang Dương - Hương Linh\nÂm thanh: Quốc Hưng\nÁnh sáng: Lê Minh\nTrang điểm: Link Make Academy\nHậu kỳ: Trường Giang - Diệu Linh - Quốc Hưng\nLái xe: Ngọc Hoàng\n\nClick để xem tất cả các clip của Kem Xôi TV https://goo.gl/36440G\nĐăng ký nhận tin khi có clip mới: http://goo.gl/2Efo1i\nFanpage chính thức:   / kemxoiofficial  \n--------------------------------------------------------\n© Bản quyền thuộc về Viettel Media\n🔥 Viettel Media - Hệ sinh thái Quảng cáo số đa nền tảng hàng đầu tại Việt Nam\nLiên hệ quảng cáo, thuê tài khoản: https://www.viettelmedia.vn/ads?utm_s...\nHotline: 0969 16 17 18",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bit.ly/castingform2022",
+          "text": "https://bit.ly/castingform2022"
+        },
+        {
+          "url": "https://goo.gl/36440G",
+          "text": "https://goo.gl/36440G"
+        },
+        {
+          "url": "http://goo.gl/2Efo1i",
+          "text": "http://goo.gl/2Efo1i"
+        },
+        {
+          "url": "https://www.facebook.com/KemXoiOfficial",
+          "text": "  / kemxoiofficial  "
+        },
+        {
+          "url": "https://www.viettelmedia.vn/ads?utm_source=youtube",
+          "text": "https://www.viettelmedia.vn/ads?utm_s..."
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 1,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoGXjo5DpopjFxHny_Ep9hH",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CoGXjo5DpopjFxHny_Ep9hH",
+      "isPaidContent": false
+    }
+  ]
+}

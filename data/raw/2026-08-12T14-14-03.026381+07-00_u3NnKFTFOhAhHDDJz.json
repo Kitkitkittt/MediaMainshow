@@ -1,0 +1,514 @@
+{
+  "actor_name": "streamers/youtube-scraper",
+  "actor_run_id": "u3NnKFTFOhAhHDDJz",
+  "dataset_id": "z2f4VX6fRp09BpK26",
+  "actor_build_id": "SUk0475fgtCh9zqMt",
+  "retrieved_at": "2026-08-12T14:14:03.026381+07:00",
+  "actor_input": {
+    "maxResults": 36,
+    "maxResultsShorts": 0,
+    "maxResultStreams": 0,
+    "startUrls": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CrwHkJz3hUNhzdEMhzHiIvg"
+      }
+    ],
+    "sourceBindingUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CrwHkJz3hUNhzdEMhzHiIvg"
+  },
+  "run_metadata": {
+    "status": "SUCCEEDED",
+    "startedAt": "2026-08-12T07:13:09.680Z",
+    "finishedAt": "2026-08-12T07:13:56.600Z",
+    "usageTotalUsd": 0.036000000000000004,
+    "chargedEventCounts": {
+      "result": 9,
+      "date-filter": 0,
+      "ai-video-description": 0,
+      "ai-video-summary": 0
+    }
+  },
+  "items": [
+    {
+      "title": "Kem Xôi TV: Tập 1 | Lũ đàn ông bội bạc | Kem Xôi TV Season 3 | Hài Ngắn Hay Nhất 2022",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "DKFo-oYseQU",
+      "url": "https://www.youtube.com/watch?v=DKFo-oYseQU&list=PLC_d5n_vB0CrwHkJz3hUNhzdEMhzHiIvg&index=2",
+      "thumbnailUrl": "https://i.ytimg.com/vi/DKFo-oYseQU/maxresdefault.jpg",
+      "viewCount": 134700,
+      "date": "2022-07-28T14:00:13.000Z",
+      "likes": 1800,
+      "location": null,
+      "channelName": "Kem Xôi TV - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@KemXoiTVViettelMedia",
+      "channelUsername": "KemXoiTVViettelMedia",
+      "collaborators": null,
+      "channelId": "UCPu7cX9LrVOlCDK905T9tVw",
+      "numberOfSubscribers": 2110000,
+      "duration": "00:08:52",
+      "commentsCount": 453,
+      "text": "Kem Xôi TV: Tập 1 | Lũ đàn ông bội bạc | Kem Xôi TV Season 3 | Hài Ngắn Hay Nhất 2022\n\nMời các bạn cùng xem tập đầu tiên của Kem Xôi TV Season 3 với sự trở lại của Minh Tít, Thương Cin, Yến Xôi, Nam \"vong đái\"... Các clip siêu hài: Mặt nạ kiểu bắt cóc, Tiền ải tiền ai, Lũ đàn ông bội bạc chắc chắn sẽ mang lại những tiếng cười sảng khoái.\n\n👉 Link đăng kí trở thành diễn viên Kem Xôi TV: https://bit.ly/castingform2022\n--------------------------------------------------------\nThực hiện bởi: Kem Xôi TV\nVới sự tham gia của Đạo Diễn: Minh Tít\nDiễn viên: Minh Tít, Yến Xôi, Thương Cin, Tạ Nam...và các diễn viên khác\nBiên kịch: Team Minh Tít Entertainment, Thu Trang, Hạnh Nhân\nDOP: Hồng Thái\nQuay phim: Hồng Thái - Văn Thảo - Văn Chiên\nTổ chức sản xuất: Trang Dương\nMỹ thuật: Trang Dương - Hương Linh\nÂm thanh: Quốc Hưng\nÁnh sáng: Lê Minh\nTrang điểm: Link Make Academy\nHậu kỳ: Trường Giang - Diệu Linh - Quốc Hưng\nLái xe: Ngọc Hoàng\n\nClick để xem tất cả các clip của Kem Xôi TV https://goo.gl/36440G\nĐăng ký nhận tin khi có clip mới: http://goo.gl/2Efo1i\nFanpage chính thức:   / kemxoiofficial  \n--------------------------------------------------------\n© Bản quyền thuộc về Viettel Media\n🔥 Viettel Media - Hệ sinh thái Quảng cáo số đa nền tảng hàng đầu tại Việt Nam\nLiên hệ quảng cáo, thuê tài khoản: https://www.viettelmedia.vn/ads?utm_s...\nHotline: 0969 16 17 18",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bit.ly/castingform2022",
+          "text": "https://bit.ly/castingform2022"
+        },
+        {
+          "url": "https://goo.gl/36440G",
+          "text": "https://goo.gl/36440G"
+        },
+        {
+          "url": "http://goo.gl/2Efo1i",
+          "text": "http://goo.gl/2Efo1i"
+        },
+        {
+          "url": "https://www.facebook.com/KemXoiOfficial",
+          "text": "  / kemxoiofficial  "
+        },
+        {
+          "url": "https://www.viettelmedia.vn/ads?utm_source=youtube",
+          "text": "https://www.viettelmedia.vn/ads?utm_s..."
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 1,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CrwHkJz3hUNhzdEMhzHiIvg",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CrwHkJz3hUNhzdEMhzHiIvg",
+      "isPaidContent": false
+    },
+    {
+      "title": "TẬP 1 I MẸ VẮNG NHÀ BA LÀ SIÊU NHÂN l Khắc Việt, JustaTee, Đức Thịnh, L. Thế Thành làm \"siêu nhân\"",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "xUfuXW0HlUA",
+      "url": "https://www.youtube.com/watch?v=xUfuXW0HlUA&list=PLC_d5n_vB0CrwHkJz3hUNhzdEMhzHiIvg&index=3",
+      "thumbnailUrl": "https://i.ytimg.com/vi/xUfuXW0HlUA/maxresdefault.jpg",
+      "viewCount": 2985599,
+      "date": "2022-04-28T14:30:13.000Z",
+      "likes": 33000,
+      "location": null,
+      "channelName": "Mẹ Vắng Nhà - Ba Là Siêu Nhân",
+      "channelUrl": "https://www.youtube.com/@MeVangNhaBaLaSieuNhan",
+      "channelUsername": "MeVangNhaBaLaSieuNhan",
+      "collaborators": null,
+      "channelId": "UCT4q1IIX1rWoN95I-_89aVw",
+      "numberOfSubscribers": 309000,
+      "duration": "00:52:28",
+      "commentsCount": 1081,
+      "text": "🔥 \"MẸ VẮNG NHÀ, BA LÀ SIÊU NHÂN\" là phiên bản Việt hóa của chương trình truyền hình thực tế ăn khách được phát sóng trên kênh KBS2: The Return Of Superman\n🔥 Với sự tham gia của các gia đình nghệ sĩ nổi tiếng: Cùng đón xem các ông bố siêu nhân sẽ loay hoay ra sao cùng các con khi không có sự xuất hiện của  mẹ. Hài hước, vui nhộn hay thật \"rối trí\".\n🔥 Đón xem: \"Mẹ vắng nhà - Ba là siêu nhân\" Từ ngày 28/04/2022 vào các khung giờ:\n      💓 20h30 Thứ năm hàng tuần trên HTV7\n      💓 21h30 cùng ngày trên Youtube l Mocha l TV360 l FPT\n      💓 9h00 Thứ 6 hàng tuần trên QPVN từ ngày 06/05/2022\n      💓 20h00 Thứ 6 hàng tuần trên SCTV6 từ ngày 06/05/2022\n-------------------------------------------------------------------------------------------\n🔥 Production Team\nChỉ đạo sản xuất: Võ Thanh Hải & Cao Phương Liên\nChỉ đạo nội dung: Lê Anh Ngọc\nGiám sát sản xuất: Ngô Quang Tùng\nTổng Đạo diễn: Lương Hải Khoa\nĐạo diễn: Lê Đức Cường \nTổ chức sản xuất: Nguyễn Nga \nBiên tập: Ngô Trang & Mai Hằng & Tuấn Nghĩa \nD.O.P: Đoàn Ngọc Ước & Mai Trùng Khánh \nQuay phim: Thế Chiến; Thái Ngân; Tuấn Vũ; Ngọc Thắng; Thành Nam; Quang Huy\nÂm thanh: Ngọc Hùng & Duy Mạnh & Nguyễn Tiến\nQuản lý thiết bị & lưu trữ: Thành Linh \nHọa sĩ bối cảnh: Thanh Thuận\nĐạo diễn hậu kỳ: Hải Khoa Lương & Bùi Tiến Dũng\nBiên tập hậu kỳ: Ngô Trang; Mai Hằng; Minh Hoàng\nHình hiệu & Thiết kế & Đồ họa: Hồng Hạnh Siliez & Sương Bi\nNgười dẫn chuyện: Tú Trinh\nKỹ thuật hậu kỳ: Thanh Tùng, Anh Đức, Chí Dũng, Anh Hiệp; Thu Nga\nPhụ trách Truyền thông: Nga Nguyễn, Đỗ Hương, Hương Thùy\nTruyền thông social: Kim Ngọc; Quỳnh Anh; Nguyễn Châm; Trần Quỳnh; Mỹ Mỹ; Hằng Nga; Đào Hậu: Khánh Linh; Trần Phương; Hải Đăng; Bá Linh; Long \nBảo trợ truyền thông: Tiin.vn\n==============================================\n🔥 ĐĂNG KÝ xem clip mới: http://goo.gl/fzXdBO\n🔥 Fanpage The Return of Superman Vietnam:   / mevangnhabalasieunhan  \n=============================\n© Bản quyền thuộc về Viettel Media\n🔥 Viettel Media - Hệ sinh thái Quảng cáo số đa nền tảng hàng đầu tại Việt Nam\n       Liên hệ quảng cáo, thuê tài khoản: https://www.viettelmedia.vn/ads?utm_s...\n       LH quảng cáo tài trợ: 0965079955/0985903900\n#FrisoGold #MạnhMẽTừBênTrong #TiêuHoáKhoẻ #HấpThuNhanh #ĐạmMềmNhỏTựNhiên\n#KhănướtMamamy #ChủĐộngNgừaHămChămTừngKẽNgách #HệSảnPhẩmAnToànChoCảTrẻSơSinh",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "http://goo.gl/fzXdBO",
+          "text": "http://goo.gl/fzXdBO"
+        },
+        {
+          "url": "https://www.facebook.com/mevangnhabalasieunhan",
+          "text": "  / mevangnhabalasieunhan  "
+        },
+        {
+          "url": "https://www.viettelmedia.vn/ads?utm_source=youtube",
+          "text": "https://www.viettelmedia.vn/ads?utm_s..."
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/frisogold",
+          "text": "#FrisoGold"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/m%E1%BA%A1nhm%E1%BA%BDt%E1%BB%ABb%C3%AAntrong",
+          "text": "#MạnhMẽTừBênTrong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ti%C3%AAuho%C3%A1kho%E1%BA%BB",
+          "text": "#TiêuHoáKhoẻ"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/h%E1%BA%A5pthunhanh",
+          "text": "#HấpThuNhanh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/%C4%91%E1%BA%A1mm%E1%BB%81mnh%E1%BB%8Ft%E1%BB%B1nhi%C3%AAn",
+          "text": "#ĐạmMềmNhỏTựNhiên"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/kh%C4%83n%C6%B0%E1%BB%9Btmamamy",
+          "text": "#KhănướtMamamy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ch%E1%BB%A7%C4%91%E1%BB%99ngng%E1%BB%ABah%C4%83mch%C4%83mt%E1%BB%ABngk%E1%BA%BDng%C3%A1ch",
+          "text": "#ChủĐộngNgừaHămChămTừngKẽNgách"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/h%E1%BB%87s%E1%BA%A3nph%E1%BA%A9manto%C3%A0nchoc%E1%BA%A3tr%E1%BA%BBs%C6%A1sinh",
+          "text": "#HệSảnPhẩmAnToànChoCảTrẻSơSinh"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 2,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CrwHkJz3hUNhzdEMhzHiIvg",
+      "isMonetized": null,
+      "hashtags": [
+        "#FrisoGold",
+        "#MạnhMẽTừBênTrong",
+        "#TiêuHoáKhoẻ"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CrwHkJz3hUNhzdEMhzHiIvg",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ (SS2): TTBL | Tập 8: Quốc Thiên hoá \"vua đầu bếp\" nhưng vẫn bị Xuân Phúc \"đá xoáy\"",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "Z_l7jaC3iDs",
+      "url": "https://www.youtube.com/watch?v=Z_l7jaC3iDs&list=PLC_d5n_vB0CrwHkJz3hUNhzdEMhzHiIvg&index=10",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Z_l7jaC3iDs/maxresdefault.jpg",
+      "viewCount": 1551235,
+      "date": "2017-04-30T13:00:06.000Z",
+      "likes": 5900,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:29:48",
+      "commentsCount": 278,
+      "text": "Sao nhập ngũ (SS2): TTBL | Tập 8: Quốc Thiên hoá \"vua đầu bếp\" nhưng vẫn bị Xuân Phúc \"đá xoáy\"\n--------------------------------------------------------------------\nThời gian huấn luyện đã đi đến những ngày cuối cùng, cả ba nhân vật đã thể hiện bản lĩnh của mình khi dũng cảm vượt qua những khó khăn và hạnh phúc hơn sự trưởng thành đó được ghi nhận bởi những người đồng đội và người thân của họ.\nTập 8 - cũng là tập cuối cùng của phần 2 - thử thách bản lĩnh, Quốc Thiên, Xuân Phúc và Bình An sẽ phải trải qua những thử thách \"khó nhằn\", điều này khiến họ sẽ phải vận dụng các kỹ năng đã được học trong tuần qua. Chúng ta hãy cùng chờ đón xem ngày cuối cùng của đợt huấn luyện sẽ diễn ra như thế nào?   \nSao nhập ngũ - Chương trình truyền hình thực tế về quân đội đầu tiên tại Việt Nam với sự tham gia của nhiều nhân vật nổi tiếng. \nChương trình đã được Cục Bản quyền tác giả, Bộ Văn hóa-Thể thao và Du lịch cấp giấy chứng nhận bản quyền.\nSubcribe tại:    / saonhapngu-qpvn  \nFanpage:   / saonhapngu  ",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/saonhapngu-qpvn",
+          "text": "   / saonhapngu-qpvn  "
+        },
+        {
+          "url": "https://www.facebook.com/saonhapngu",
+          "text": "  / saonhapngu  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 9,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CrwHkJz3hUNhzdEMhzHiIvg",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CrwHkJz3hUNhzdEMhzHiIvg",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ (SS2): TTBL | Tập 1: Quốc Thiên bị \"cưỡng chế\" cắt tóc",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "QpYxylNudVw",
+      "url": "https://www.youtube.com/watch?v=QpYxylNudVw&list=PLC_d5n_vB0CrwHkJz3hUNhzdEMhzHiIvg&index=1",
+      "thumbnailUrl": "https://i.ytimg.com/vi/QpYxylNudVw/maxresdefault.jpg",
+      "viewCount": 3479870,
+      "date": "2017-03-12T12:38:44.000Z",
+      "likes": 9900,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:28:35",
+      "commentsCount": 735,
+      "text": "Sao nhập ngũ (SS2): TTBL | Tập 1: Quốc Thiên bị \"cưỡng chế\" cắt tóc\nLữ đoàn đặc công 113 là một trong những đơn vị luôn sẵn sàng chiến đấu. Để có những trận đánh xuất quỷ nhập thần, các chiến sĩ đặc công phải trải qua một quá trình khổ luyện trên thao trường bãi tập, trong mọi điều kiện thời tiết và hoàn cảnh khó khăn khắc nghiệt nhất. Những bài tập của chiến sĩ đặc công luôn vượt qua những giới hạn, sức chịu đựng của con người.\nBà chàng trai, với 3 cá tính khác nhau, họ tham gia quân ngũ với những lý do riêng. Bình An, muốn khắc phục điểm yếu để hoàn thiện bản thân. Diễn viên Xuân Phúc muốn thử thách bản lĩnh đàn ông của mình. Ca sĩ Quốc Thiên lại muốn có những trải nghiệm mới, tìm niềm vui trong môi trường quân ngũ. \nSao nhập ngũ - Chương trình truyền hình thực tế về quân đội đầu tiên tại Việt Nam với sự tham gia của nhiều nhân vật nổi tiếng. \nChương trình đã được Cục Bản quyền tác giả, Bộ Văn hóa-Thể thao và Du lịch cấp giấy chứng nhận bản quyền.\n\nSubcribe tại:    / saonhapngu-qpvn  \nFanpage:   / saonhapngu  ",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/saonhapngu-qpvn",
+          "text": "   / saonhapngu-qpvn  "
+        },
+        {
+          "url": "https://www.facebook.com/saonhapngu",
+          "text": "  / saonhapngu  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 0,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CrwHkJz3hUNhzdEMhzHiIvg",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CrwHkJz3hUNhzdEMhzHiIvg",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ (SS2) | TTBL | Tập 7: Quốc Thiên gặp nạn",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "jSlmcORLztM",
+      "url": "https://www.youtube.com/watch?v=jSlmcORLztM&list=PLC_d5n_vB0CrwHkJz3hUNhzdEMhzHiIvg&index=9",
+      "thumbnailUrl": "https://i.ytimg.com/vi/jSlmcORLztM/maxresdefault.jpg",
+      "viewCount": 1177567,
+      "date": "2017-04-23T13:00:03.000Z",
+      "likes": 4100,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:28:49",
+      "commentsCount": 302,
+      "text": "Sao nhập ngũ (SS2) | TTBL | Tập 7: Quốc Thiên gặp nạn\nNhân vật trải nghiệm: Diễn viên Bình An, Ca sỹ Quốc Thiên, Diễn viên Xuân Phúc\nTrải qua những thử thách khó khăn, nhưng người “lính mới” đã trưởng thành hơn hẳn. Cả 3 đều nhận ra những thiếu sót, hạn chế của bản thân cũng chính nhờ môi trường huấn luyện nghiêm khắc của quân đội. Để rồi họ càng quyết tâm hơn trong những ngày \"tại ngũ\" cuối cùng. Và những thử thách vẫn chưa dừng lại, nhất là với Quốc Thiên….\nSao nhập ngũ - Chương trình truyền hình thực tế về quân đội đầu tiên tại Việt Nam với sự tham gia của nhiều nhân vật nổi tiếng. \nChương trình đã được Cục Bản quyền tác giả, Bộ Văn hóa-Thể thao và Du lịch cấp giấy chứng nhận bản quyền.\nSubcribe tại:    / saonhapngu-qpvn  \nFanpage:   / saonhapngu  ",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/saonhapngu-qpvn",
+          "text": "   / saonhapngu-qpvn  "
+        },
+        {
+          "url": "https://www.facebook.com/saonhapngu",
+          "text": "  / saonhapngu  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 8,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CrwHkJz3hUNhzdEMhzHiIvg",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CrwHkJz3hUNhzdEMhzHiIvg",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ (SS2): TTBL | Tập 5: Bình An nỗ lực đến đổ máu, Xuân Phúc chặt gạch suýt gãy tay",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "cGexxUoGZaQ",
+      "url": "https://www.youtube.com/watch?v=cGexxUoGZaQ&list=PLC_d5n_vB0CrwHkJz3hUNhzdEMhzHiIvg&index=7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/cGexxUoGZaQ/maxresdefault.jpg",
+      "viewCount": 1886899,
+      "date": "2017-04-09T13:00:04.000Z",
+      "likes": 7300,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:29:07",
+      "commentsCount": 418,
+      "text": "Sao nhập ngũ (SS2): TTBL|Tập 5: Bình An nỗ lực đến đổ máu, Xuân Phúc chặt gạch suýt gãy tay\n---------------------------------------------------\nBình An trở lại luyện tập và cả 3 nhân vật bước vào giai đoạn \"nóng bỏng\" nhất của đợt huấn luyện. Thử thách mà các chàng trai phải đối mặt là kỹ năng đặc biệt của lính đặc công: Khí công. Càng khó khăn hơn khi biết rằng, cả 3 không có nhiều thời gian để tập luyện như các chiến sĩ cũ của đơn vị. Tuy nhiên, ai cũng đã chứng tỏ sự cố gắng của mình trong các bài \"test\" sức chịu đựng của cơ thể. Bình An chứng tỏ nỗ lực vượt trội dù điều đó khiến anh phải đổ máu. Xuân Phúc và Quốc Thiên cũng không tỏ ra thua kém khi dũng cảm thử sức với các thử thách mà chỉ có \"lính cũ\" mới dám thực hiện.\nSao nhập ngũ - Chương trình truyền hình thực tế về quân đội đầu tiên tại Việt Nam với sự tham gia của nhiều nhân vật nổi tiếng. \nChương trình đã được Cục Bản quyền tác giả, Bộ Văn hóa-Thể thao và Du lịch cấp giấy chứng nhận bản quyền.\nSubcribe tại:    / saonhapngu-qpvn  \nFanpage:   / saonhapngu  ",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/saonhapngu-qpvn",
+          "text": "   / saonhapngu-qpvn  "
+        },
+        {
+          "url": "https://www.facebook.com/saonhapngu",
+          "text": "  / saonhapngu  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 6,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CrwHkJz3hUNhzdEMhzHiIvg",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CrwHkJz3hUNhzdEMhzHiIvg",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ (SS2): TTBL | Tập 6 | Đặc công: \"Quá nhanh, quá nguy hiểm\"!",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "v-zN69ZizsU",
+      "url": "https://www.youtube.com/watch?v=v-zN69ZizsU&list=PLC_d5n_vB0CrwHkJz3hUNhzdEMhzHiIvg&index=8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/v-zN69ZizsU/maxresdefault.jpg",
+      "viewCount": 1498209,
+      "date": "2017-04-16T13:00:04.000Z",
+      "likes": 4800,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:27:41",
+      "commentsCount": 314,
+      "text": "Sao nhập ngũ (SS2): TTBL | Tập 6 | Đặc công: \"Quá nhanh, quá nguy hiểm\"!\n------------------------------------------------------------------------------\nNhân vật trải nghiệm: Diễn viên Bình An, Ca sỹ Quốc Thiên, Diễn viên Xuân Phúc\nTrong ngày huấn luyện tiếp theo, các nhân vật bước vào bài test đòi hỏi tốc độ và sự chính xác cực cao: giải cứu con tin bị khủng bố bắt giữ. Phần huấn luyện này được chia làm 2 nội dung: sử dụng súng tiểu liên Micro Uzi tiêu diệt mục tiêu và tụt dây tiếp cận, giải cứu con tin. Trước khi bước vào huấn luyện, 3 nhân vật đã được thị phạm kỹ năng điêu luyện của các chiến sĩ đặc công QĐNDVN, và chỉ có thể thốt lên rằng: quá nhanh, quá nguy hiểm! Lần đầu tiên được trải nghiệm những kỹ năng có độ khó cao, các nhân vật của chúng ta đều tỏ ra hết sức cẩn trọng.....\nSao nhập ngũ - Chương trình truyền hình thực tế về quân đội đầu tiên tại Việt Nam với sự tham gia của nhiều nhân vật nổi tiếng. \nChương trình đã được Cục Bản quyền tác giả, Bộ Văn hóa-Thể thao và Du lịch cấp giấy chứng nhận bản quyền.\nSubcribe tại:    / saonhapngu-qpvn  \nFanpage:   / saonhapngu  ",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/saonhapngu-qpvn",
+          "text": "   / saonhapngu-qpvn  "
+        },
+        {
+          "url": "https://www.facebook.com/saonhapngu",
+          "text": "  / saonhapngu  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 7,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CrwHkJz3hUNhzdEMhzHiIvg",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CrwHkJz3hUNhzdEMhzHiIvg",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ (SS2): TTBL | Tập 4 : Thử Thách Bản Lĩnh - Hot boy \"mong manh\" gục ngã trước giá lạnh",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "4OMVZNCm4ZA",
+      "url": "https://www.youtube.com/watch?v=4OMVZNCm4ZA&list=PLC_d5n_vB0CrwHkJz3hUNhzdEMhzHiIvg&index=6",
+      "thumbnailUrl": "https://i.ytimg.com/vi/4OMVZNCm4ZA/maxresdefault.jpg",
+      "viewCount": 1918653,
+      "date": "2017-04-02T13:00:00.000Z",
+      "likes": 5800,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:28:59",
+      "commentsCount": 360,
+      "text": "Sao nhập ngũ (SS2): TTBL|Tập 4: Hot boy \"mong manh\" gục ngã trước giá lạnh\nChưa đi hết 1 nửa chặng đường thử thách nhưng đã có những tình huống ngoài dự tính. Chàng hot boy Bình An tỏ ra khá \"mong manh\" khi dính cảm vì phải tắm nước lạnh (ngày luyện tập thứ 2) và phải nghỉ ngày luyện tập thứ 3. Quốc Thiên và Xuân Phúc muốn qua sự cố này, Bình An sẽ trở nên cứng cáp hơn. Trong ngày luyện tập tiếp theo, các chiến sĩ đã có những giây phút giao lưu vui vẻ, đoàn kết giúp Bình An thoải mái và vững vàng hơn khi trở lại luyện tập...\n\nSao nhập ngũ - Chương trình truyền hình thực tế về quân đội đầu tiên tại Việt Nam với sự tham gia của nhiều nhân vật nổi tiếng. \nChương trình đã được Cục Bản quyền tác giả, Bộ Văn hóa-Thể thao và Du lịch cấp giấy chứng nhận bản quyền.\nSubcribe tại:    / saonhapngu-qpvn  \nFanpage:   / saonhapngu  ",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/saonhapngu-qpvn",
+          "text": "   / saonhapngu-qpvn  "
+        },
+        {
+          "url": "https://www.facebook.com/saonhapngu",
+          "text": "  / saonhapngu  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 5,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CrwHkJz3hUNhzdEMhzHiIvg",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CrwHkJz3hUNhzdEMhzHiIvg",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ (SS2): TTBL | Tập 3: Quốc Thiên bỏ cuộc vì bị rắn cắn",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "_jM2Ca_MQLw",
+      "url": "https://www.youtube.com/watch?v=_jM2Ca_MQLw&list=PLC_d5n_vB0CrwHkJz3hUNhzdEMhzHiIvg&index=5",
+      "thumbnailUrl": "https://i.ytimg.com/vi/_jM2Ca_MQLw/maxresdefault.jpg",
+      "viewCount": 2339217,
+      "date": "2017-03-26T13:00:05.000Z",
+      "likes": 7600,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:27:17",
+      "commentsCount": 372,
+      "text": "Sao nhập ngũ (SS2): TTBL | Tập 3: Quốc Thiên bỏ cuộc vì bị rắn cắn\n--------------------------------------------------------------------------------------------\nNgày huấn luyện thứ 3 đã diễn ra 1 cách không hề dễ dàng với 3 nhân vật. Bước vào nội dung thú vị nhưng cũng rất thử thách là \"Ngụy trang\", cả 3 phải đối mặt với cái lạnh cắt da, cắt thịt với chỉ 1 chiếc quần trên người. Đã có người muốn bỏ cuộc. Và thực tế, đến phần khó khăn nhất trong bài huấn luyện là ngụy trang trên địa hình thực tế, Quốc Thiên đã không vượt qua được nỗi sợ hãi của bản thân. Bình An và Xuân Phúc đã có thể hiện tốt hơn Quốc Thiên ở bài huấn luyện này. Tuy nhiên, với riêng Bình An, thử thách trong ngày huấn luyện thứ 3 vẫn chưa kết thúc......\nSao nhập ngũ - Chương trình truyền hình thực tế về quân đội đầu tiên tại Việt Nam với sự tham gia của nhiều nhân vật nổi tiếng. \nChương trình đã được Cục Bản quyền tác giả, Bộ Văn hóa-Thể thao và Du lịch cấp giấy chứng nhận bản quyền.\nSubcribe tại:    / saonhapngu-qpvn  \nFanpage:   / saonhapngu  ",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/saonhapngu-qpvn",
+          "text": "   / saonhapngu-qpvn  "
+        },
+        {
+          "url": "https://www.facebook.com/saonhapngu",
+          "text": "  / saonhapngu  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 4,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CrwHkJz3hUNhzdEMhzHiIvg",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CrwHkJz3hUNhzdEMhzHiIvg",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ (SS2): TTBL | Tập 2: Xuân Phúc thành \"thương binh\", Quốc Thiên hóa \"vua\" leo dây",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "pcvvMYvJeNE",
+      "url": "https://www.youtube.com/watch?v=pcvvMYvJeNE&list=PLC_d5n_vB0CrwHkJz3hUNhzdEMhzHiIvg&index=4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/pcvvMYvJeNE/maxresdefault.jpg",
+      "viewCount": 2005020,
+      "date": "2017-03-19T13:00:05.000Z",
+      "likes": 5100,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:28:27",
+      "commentsCount": 636,
+      "text": "Sao nhập ngũ (SS2): TTBL|Tập 2: Xuân Phúc thành \"thương binh\", Quốc Thiên hóa \"vua\" leo dây\n----------------------------------------------------------\nBước vào ngày huấn luyện đầu tiên, các nhân vật bắt đầu đối mặt với những thử thách khó khăn. Xuân Phúc đã gặp phải chấn thương và phải nhờ tới sự hỗ trợ của quân y. Trong khi đó, Quốc Thiên gây bất ngờ khi chứng tỏ bản lĩnh trong các bài huấn luyện. Còn Bình An lại đang tỏ ra hơi \"đuối\" hơn 2 người đồng đội.\n\nSao nhập ngũ - Chương trình truyền hình thực tế về quân đội đầu tiên tại Việt Nam với sự tham gia của nhiều nhân vật nổi tiếng. \nChương trình đã được Cục Bản quyền tác giả, Bộ Văn hóa-Thể thao và Du lịch cấp giấy chứng nhận bản quyền.\nSubcribe tại:    / saonhapngu-qpvn  \nFanpage:   / saonhapngu  ",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/saonhapngu-qpvn",
+          "text": "   / saonhapngu-qpvn  "
+        },
+        {
+          "url": "https://www.facebook.com/saonhapngu",
+          "text": "  / saonhapngu  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 3,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CrwHkJz3hUNhzdEMhzHiIvg",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CrwHkJz3hUNhzdEMhzHiIvg",
+      "isPaidContent": false
+    }
+  ]
+}

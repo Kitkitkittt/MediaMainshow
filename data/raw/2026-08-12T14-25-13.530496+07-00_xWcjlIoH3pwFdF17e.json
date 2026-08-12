@@ -1,0 +1,1223 @@
+{
+  "actor_name": "streamers/youtube-scraper",
+  "actor_run_id": "xWcjlIoH3pwFdF17e",
+  "dataset_id": "Xr1LHB2RLjcqlStjD",
+  "actor_build_id": "SUk0475fgtCh9zqMt",
+  "retrieved_at": "2026-08-12T14:25:13.530496+07:00",
+  "actor_input": {
+    "maxResults": 36,
+    "maxResultsShorts": 0,
+    "maxResultStreams": 0,
+    "startUrls": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG"
+      }
+    ],
+    "sourceBindingUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG"
+  },
+  "run_metadata": {
+    "status": "SUCCEEDED",
+    "startedAt": "2026-08-12T07:23:54.079Z",
+    "finishedAt": "2026-08-12T07:25:06.936Z",
+    "usageTotalUsd": 0.064,
+    "chargedEventCounts": {
+      "result": 16,
+      "date-filter": 0,
+      "ai-video-description": 0,
+      "ai-video-summary": 0
+    }
+  },
+  "items": [
+    {
+      "title": "Sao Nhập Ngũ 2024 Tập 12: Các chiến sĩ đồng loạt KIỆT SỨC; Mai Tài Phến muốn sớm 'KẾT THÚC'?",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "8EgRWxUn9zc",
+      "url": "https://www.youtube.com/watch?v=8EgRWxUn9zc&list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG&index=12",
+      "thumbnailUrl": "https://i.ytimg.com/vi/8EgRWxUn9zc/maxresdefault.jpg",
+      "viewCount": 731348,
+      "date": "2024-03-14T13:30:07.000Z",
+      "likes": 5900,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "01:10:35",
+      "commentsCount": 441,
+      "text": "#saonhapngu #viettelmedia #xemesis #maitaiphen #soobin #tuantran #huynhlap #phatla #16typh\n🔥 Sao Nhập Ngũ 2024 – Không khoan nhượng - \"Không khoan nhượng với chính bản thân, không đầu hàng trước khó khăn thử thách\"\n8 chiến sĩ Nghiêm Anh Hiếu, Mai Tài Phến, Nguyễn Huỳnh Sơn, Trần Duy Tuấn, Huỳnh Ngọc Lập, La Vĩnh Phát, Phạm Hoàng Hải, Nguyễn Việt Hoàng nhập cuộc ngay từ phút đầu tiên, căng thẳng, gay cấn và 'không khoan nhượng'. Những chiến sĩ mới có vượt qua được thử thách hoàn thành được nhiệm vụ đặt ra?\n🔥 Đón xem Sao nhập ngũ 2024 thứ 5 hàng tuần từ ngày 14/12:\n💓 9H15 Thứ 5 trên Kênh TH QPVN\n💓20h20 Thứ 5 trên Kênh HTV7\n💓 20H30 Thứ 5 trên TV360 | Youtube | Mocha\n💓 12H00 Thứ 7 trên Kênh TH SCTV6\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn chính: Lê Quý Giáp\n• Tổ chức sản xuất:  Hà Vân Anh, Hương Lê, Như Oanh\n• Biên tập: Bùi Tiến Dũng, Trang Ngô, Hồ Thảo Nguyên, Ngô Nghĩa, Bùi Hương, Mai Hằng, Thu Hiền, Hà Phương\n• D.O.P: Đoàn Ngọc Ước  \n• Quay phim: Thế Chiến; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Quang Huy; Hồng Phương; Thanh Tĩnh; Văn Sướng; Văn Quân; Văn Công; Hoàng Cường; Quốc Huy; Văn San; Văn Hoan; Văn Hạnh; Thái Ngân. \n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ; Ngọc Toàn; Minh Quân; Văn Hưng; Hải Nam; Văn Điểu; Tiến Thuận; Thanh Hải; Cao Xuân; Đình Trọng; Viết Trùng; Quốc Trung; Đình Thọ; Huy Phương; Bảo Khang. \n• Âm thanh: Nguyễn Ngọc Hùng\n• Nhiếp Ảnh: Hùng Quách\n• Chịu trách nhiệm hậu kỳ: Thanh Liêm \n• Quản lý thiết bị: Thành Linh, Văn Hải, Nguyễn Hồ Lê Thi\n• Hỗ trợ sản xuất: Ngọc Hoàng; Trọng Lợi; Văn Tuyên; Thanh Thuận. \n• Dựng phim: Anh Đức, Chí Dũng, Nguyễn Hồ Lê Thi, Nguyễn Trường Giang, Phùng Thanh Tùng\n• Đồ họa: Thế Lượng, Chí Dũng, Phantom, Hêlô, Ngọc Thảo, Huyền Thương, Xuân Thắng\n• Phụ trách Truyền thông: Lê Diễm Quỳnh Anh, Hà Phan, Trà Trang\n• Truyền thông social: Quỳnh Anh, Long, Khánh Linh, Bá Linh\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#viettelmedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/xemesis",
+          "text": "#xemesis"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/maitaiphen",
+          "text": "#maitaiphen"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/soobin",
+          "text": "#soobin"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tuantran",
+          "text": "#tuantran"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huynhlap",
+          "text": "#huynhlap"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phatla",
+          "text": "#phatla"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/16typh",
+          "text": "#16typh"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 11,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG",
+      "isMonetized": null,
+      "hashtags": [
+        "#soobin",
+        "#huynhlap",
+        "#saonhapngu"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao Nhập Ngũ 2024 Tập 14: Xoài Non s.ố.c khi gặp lại Xemesis; Tuấn Trần bất bình với Mono, Phát La",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "ivVvelmmwMs",
+      "url": "https://www.youtube.com/watch?v=ivVvelmmwMs&list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG&index=14",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ivVvelmmwMs/maxresdefault.jpg",
+      "viewCount": 991564,
+      "date": "2024-03-28T13:30:07.000Z",
+      "likes": 7100,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "01:15:44",
+      "commentsCount": 426,
+      "text": "#saonhapngu #viettelmedia #xemesis #maitaiphen #soobin #tuantran #huynhlap #phatla #16typh #mono \n🔥 Sao Nhập Ngũ 2024 – Không khoan nhượng - \"Không khoan nhượng với chính bản thân, không đầu hàng trước khó khăn thử thách\"\n8 chiến sĩ Nghiêm Anh Hiếu, Mai Tài Phến, Nguyễn Huỳnh Sơn, Trần Duy Tuấn, Huỳnh Ngọc Lập, La Vĩnh Phát, Phạm Hoàng Hải, Nguyễn Việt Hoàng nhập cuộc ngay từ phút đầu tiên, căng thẳng, gay cấn và 'không khoan nhượng'. Những chiến sĩ mới có vượt qua được thử thách hoàn thành được nhiệm vụ đặt ra?\n🔥 Đón xem Sao nhập ngũ 2024 thứ 5 hàng tuần từ ngày 14/12:\n💓 9H15 Thứ 5 trên Kênh TH QPVN\n💓20h20 Thứ 5 trên Kênh HTV7\n💓 20H30 Thứ 5 trên TV360 | Youtube | Mocha\n💓 12H00 Thứ 7 trên Kênh TH SCTV6\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn chính: Lê Quý Giáp\n• Tổ chức sản xuất:  Hà Vân Anh, Hương Lê, Như Oanh\n• Biên tập: Bùi Tiến Dũng, Trang Ngô, Hồ Thảo Nguyên, Ngô Nghĩa, Bùi Hương, Mai Hằng, Thu Hiền, Hà Phương\n• D.O.P: Đoàn Ngọc Ước  \n• Quay phim: Thế Chiến; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Quang Huy; Hồng Phương; Thanh Tĩnh; Văn Sướng; Văn Quân; Văn Công; Hoàng Cường; Quốc Huy; Văn San; Văn Hoan; Văn Hạnh; Thái Ngân. \n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ; Ngọc Toàn; Minh Quân; Văn Hưng; Hải Nam; Văn Điểu; Tiến Thuận; Thanh Hải; Cao Xuân; Đình Trọng; Viết Trùng; Quốc Trung; Đình Thọ; Huy Phương; Bảo Khang. \n• Âm thanh: Nguyễn Ngọc Hùng\n• Nhiếp Ảnh: Hùng Quách\n• Chịu trách nhiệm hậu kỳ: Thanh Liêm \n• Quản lý thiết bị: Thành Linh, Văn Hải, Nguyễn Hồ Lê Thi\n• Hỗ trợ sản xuất: Ngọc Hoàng; Trọng Lợi; Văn Tuyên; Thanh Thuận. \n• Dựng phim: Anh Đức, Chí Dũng, Nguyễn Hồ Lê Thi, Nguyễn Trường Giang, Phùng Thanh Tùng\n• Đồ họa: Thế Lượng, Chí Dũng, Phantom, Hêlô, Ngọc Thảo, Huyền Thương, Xuân Thắng\n• Phụ trách Truyền thông: Lê Diễm Quỳnh Anh, Hà Phan, Trà Trang\n• Truyền thông social: Quỳnh Anh, Long, Khánh Linh, Bá Linh\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#viettelmedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/xemesis",
+          "text": "#xemesis"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/maitaiphen",
+          "text": "#maitaiphen"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/soobin",
+          "text": "#soobin"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tuantran",
+          "text": "#tuantran"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huynhlap",
+          "text": "#huynhlap"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phatla",
+          "text": "#phatla"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/16typh",
+          "text": "#16typh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mono",
+          "text": "#mono"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 13,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG",
+      "isMonetized": null,
+      "hashtags": [
+        "#soobin",
+        "#huynhlap",
+        "#mono"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao Nhập Ngũ 2024 Tập 2 | Hãy hành động, đừng xin lỗi!| Bài học đắt giá về tinh thần đồng đội",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "kGejtgZN_2Y",
+      "url": "https://www.youtube.com/watch?v=kGejtgZN_2Y&list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG&index=2",
+      "thumbnailUrl": "https://i.ytimg.com/vi/kGejtgZN_2Y/maxresdefault.jpg",
+      "viewCount": 4333839,
+      "date": "2023-12-21T13:30:11.000Z",
+      "likes": 37000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "01:26:37",
+      "commentsCount": 3055,
+      "text": "🔥 Sao Nhập Ngũ 2024 – Không khoan nhượng - \"Không khoan nhượng với chính bản thân, không đầu hàng trước khó khăn thử thách\"\n8 chiến sĩ Nghiêm Anh Hiếu, Mai Tài Phến, Nguyễn Huỳnh Sơn, Trần Duy Tuấn, Huỳnh Ngọc Lập, La Vĩnh Phát, Phạm Hoàng Hải, Nguyễn Việt Hoàng chắc chắn sẽ hoàn thành tốt nhiệm vụ!\n🔥 Đón xem Sao nhập ngũ 2024 thứ 5 hàng tuần từ ngày 14/12:\n💓 9H15 Thứ 5 trên Kênh TH QPVN\n💓20h20 Thứ 5 trên Kênh HTV7\n💓 20H30 Thứ 5 trên TV360 | Youtube | Mocha\n💓 12H00 Thứ 7 trên Kênh TH SCTV6\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn chính: Lê Quý Giáp\n• Tổ chức sản xuất:  Hà Vân Anh, Hương Lê, Như Oanh\n• Biên tập: Bùi Tiến Dũng, Trang Ngô, Nguyên Nguyên, Ngô Nghĩa, Bùi Hương, Mai Hằng\n• D.O.P: Đoàn Ngọc Ước  \n• Quay phim: Thế Chiến; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Quang Huy; Hồng Phương; Thanh Tĩnh; Văn Sướng; Văn Quân; Văn Công; Hoàng Cường; Quốc Huy; Văn San; Văn Hoan; Văn Hạnh; Thái Ngân. \n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ; Ngọc Toàn; Minh Quân; Văn Hưng; Hải Nam; Văn Điểu; Tiến Thuận; Thanh Hải; Cao Xuân; Đình Trọng; Viết Trùng; Quốc Trung; Đình Thọ; Huy Phương; Bảo Khang. \n• Âm thanh: Nguyễn Ngọc Hùng\n• Nhiếp Ảnh: Hùng Quách\n• Quản lý thiết bị: Thành Linh, Văn Hải, Lê Thi\n• Hỗ trợ sản xuất: Ngọc Hoàng; Trọng Lợi; Văn Tuyên; Thanh Thuận.\n• Dựng phim: Anh Đức, Chí Dũng, Lê Thi\n• Đồ họa: Thế Lượng, Ngọc Thảo\n• Phụ trách Truyền thông: Quỳnh Anh, Hà Phan, Trà Trang\n• Truyền thông social: Long, Khánh Linh, Bá Linh\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548\n#saonhapngu #xemesis #maitaiphen #tuantran #soobin #huynhlap #phatla #16typh #mono",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/xemesis",
+          "text": "#xemesis"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/maitaiphen",
+          "text": "#maitaiphen"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tuantran",
+          "text": "#tuantran"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/soobin",
+          "text": "#soobin"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huynhlap",
+          "text": "#huynhlap"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phatla",
+          "text": "#phatla"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/16typh",
+          "text": "#16typh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mono",
+          "text": "#mono"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 1,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG",
+      "isMonetized": null,
+      "hashtags": [
+        "#soobin",
+        "#huynhlap",
+        "#mono"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao Nhập Ngũ 2024 Tập 10: Độ Mixi gửi lời chào tạm biệt; Việt Hoàng 'xanh mặt' vì bị khiển trách",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "Fyh2pUWNx78",
+      "url": "https://www.youtube.com/watch?v=Fyh2pUWNx78&list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG&index=10",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Fyh2pUWNx78/maxresdefault.jpg",
+      "viewCount": 1064884,
+      "date": "2024-02-29T13:30:11.000Z",
+      "likes": 8800,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:58:28",
+      "commentsCount": 477,
+      "text": "#saonhapngu #viettelmedia #xemesis #maitaiphen #soobin #tuantran #huynhlap #phatla #16typh \n🔥 Sao Nhập Ngũ 2024 – Không khoan nhượng - \"Không khoan nhượng với chính bản thân, không đầu hàng trước khó khăn thử thách\"\n8 chiến sĩ Nghiêm Anh Hiếu, Mai Tài Phến, Nguyễn Huỳnh Sơn, Trần Duy Tuấn, Huỳnh Ngọc Lập, La Vĩnh Phát, Phạm Hoàng Hải, Nguyễn Việt Hoàng nhập cuộc ngay từ phút đầu tiên, căng thẳng, gay cấn và 'không khoan nhượng'. Những chiến sĩ mới có vượt qua được thử thách hoàn thành được nhiệm vụ đặt ra?\n🔥 Đón xem Sao nhập ngũ 2024 thứ 5 hàng tuần từ ngày 14/12:\n💓 9H15 Thứ 5 trên Kênh TH QPVN\n💓20h20 Thứ 5 trên Kênh HTV7\n💓 20H30 Thứ 5 trên TV360 | Youtube | Mocha\n💓 12H00 Thứ 7 trên Kênh TH SCTV6\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn chính: Lê Quý Giáp\n• Tổ chức sản xuất:  Hà Vân Anh, Hương Lê, Như Oanh\n• Biên tập: Bùi Tiến Dũng, Trang Ngô, Hồ Thảo Nguyên, Ngô Nghĩa, Bùi Hương, Mai Hằng, Thu Hiền, Hà Phương\n• D.O.P: Đoàn Ngọc Ước  \n• Quay phim: Thế Chiến; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Quang Huy; Hồng Phương; Thanh Tĩnh; Văn Sướng; Văn Quân; Văn Công; Hoàng Cường; Quốc Huy; Văn San; Văn Hoan; Văn Hạnh; Thái Ngân. \n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ; Ngọc Toàn; Minh Quân; Văn Hưng; Hải Nam; Văn Điểu; Tiến Thuận; Thanh Hải; Cao Xuân; Đình Trọng; Viết Trùng; Quốc Trung; Đình Thọ; Huy Phương; Bảo Khang. \n• Âm thanh: Nguyễn Ngọc Hùng\n• Nhiếp Ảnh: Hùng Quách\n• Chịu trách nhiệm hậu kỳ: Thanh Liêm \n• Quản lý thiết bị: Thành Linh, Văn Hải, Nguyễn Hồ Lê Thi\n• Hỗ trợ sản xuất: Ngọc Hoàng; Trọng Lợi; Văn Tuyên; Thanh Thuận. \n• Dựng phim: Anh Đức, Chí Dũng, Nguyễn Hồ Lê Thi, Nguyễn Trường Giang, Phùng Thanh Tùng\n• Đồ họa: Thế Lượng, Chí Dũng, Phantom, Hêlô, Ngọc Thảo, Huyền Thương, Xuân Thắng\n• Phụ trách Truyền thông: Quỳnh Anh, Hà Phan, Trà Trang\n• Truyền thông social: Quỳnh Anh, Long, Khánh Linh, Bá Linh\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#viettelmedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/xemesis",
+          "text": "#xemesis"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/maitaiphen",
+          "text": "#maitaiphen"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/soobin",
+          "text": "#soobin"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tuantran",
+          "text": "#tuantran"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huynhlap",
+          "text": "#huynhlap"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phatla",
+          "text": "#phatla"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/16typh",
+          "text": "#16typh"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 9,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG",
+      "isMonetized": null,
+      "hashtags": [
+        "#soobin",
+        "#huynhlap",
+        "#saonhapngu"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao Nhập Ngũ 2024 Tập 5: Vàng thật không sợ lửa | Nước mắt không có nghĩa là yếu đuối!",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "IRCpkYg8BiI",
+      "url": "https://www.youtube.com/watch?v=IRCpkYg8BiI&list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG&index=5",
+      "thumbnailUrl": "https://i.ytimg.com/vi/IRCpkYg8BiI/maxresdefault.jpg",
+      "viewCount": 1704414,
+      "date": "2024-01-11T13:30:11.000Z",
+      "likes": 16000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "01:00:05",
+      "commentsCount": 1602,
+      "text": "#saonhapngu #viettelmedia #xemesis #maitaiphen #soobin #tuantran #huynhlap #phatla #16typh \n🔥 Sao Nhập Ngũ 2024 – Không khoan nhượng - \"Không khoan nhượng với chính bản thân, không đầu hàng trước khó khăn thử thách\"\n8 chiến sĩ Nghiêm Anh Hiếu, Mai Tài Phến, Nguyễn Huỳnh Sơn, Trần Duy Tuấn, Huỳnh Ngọc Lập, La Vĩnh Phát, Phạm Hoàng Hải, Nguyễn Việt Hoàng nhập cuộc ngay từ phút đầu tiên, căng thẳng, gay cấn và 'không khoan nhượng'. Những chiến sĩ mới có vượt qua được thử thách hoàn thành được nhiệm vụ đặt ra?\n🔥 Đón xem Sao nhập ngũ 2024 thứ 5 hàng tuần từ ngày 14/12:\n💓 9H15 Thứ 5 trên Kênh TH QPVN\n💓20h20 Thứ 5 trên Kênh HTV7\n💓 20H30 Thứ 5 trên TV360 | Youtube | Mocha\n💓 12H00 Thứ 7 trên Kênh TH SCTV6\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn chính: Lê Quý Giáp\n• Tổ chức sản xuất:  Hà Vân Anh, Hương Lê, Như Oanh\n• Biên tập: Bùi Tiến Dũng, Trang Ngô, Hồ Thảo Nguyên, Ngô Nghĩa, Bùi Hương, Mai Hằng, Thu Hiền, Hà Phương\n• D.O.P: Đoàn Ngọc Ước  \n• Quay phim: Thế Chiến; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Quang Huy; Hồng Phương; Thanh Tĩnh; Văn Sướng; Văn Quân; Văn Công; Hoàng Cường; Quốc Huy; Văn San; Văn Hoan; Văn Hạnh; Thái Ngân. \n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ; Ngọc Toàn; Minh Quân; Văn Hưng; Hải Nam; Văn Điểu; Tiến Thuận; Thanh Hải; Cao Xuân; Đình Trọng; Viết Trùng; Quốc Trung; Đình Thọ; Huy Phương; Bảo Khang. \n• Âm thanh: Nguyễn Ngọc Hùng\n• Nhiếp Ảnh: Hùng Quách\n• Chịu trách nhiệm hậu kỳ: Thanh Liêm \n• Quản lý thiết bị: Thành Linh, Văn Hải, Nguyễn Hồ Lê Thi\n• Hỗ trợ sản xuất: Ngọc Hoàng; Trọng Lợi; Văn Tuyên; Thanh Thuận. \n• Dựng phim: Anh Đức, Chí Dũng, Nguyễn Hồ Lê Thi, Nguyễn Trường Giang, Phùng Thanh Tùng\n• Đồ họa: Thế Lượng, Chí Dũng, Phantom, Hêlô, Ngọc Thảo, Huyền Thương, Xuân Thắng\n• Phụ trách Truyền thông: Quỳnh Anh, Hà Phan, Trà Trang\n• Truyền thông social: Long, Khánh Linh, Bá Linh\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#viettelmedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/xemesis",
+          "text": "#xemesis"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/maitaiphen",
+          "text": "#maitaiphen"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/soobin",
+          "text": "#soobin"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tuantran",
+          "text": "#tuantran"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huynhlap",
+          "text": "#huynhlap"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phatla",
+          "text": "#phatla"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/16typh",
+          "text": "#16typh"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 4,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG",
+      "isMonetized": null,
+      "hashtags": [
+        "#soobin",
+        "#huynhlap",
+        "#saonhapngu"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao Nhập Ngũ 2024  Tập 4: Phá vỡ lực cản! | CUỘC CHIẾN THỂ LỰC 'không khoan nhượng' với bất kỳ ai",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "7rNu9hVbyQM",
+      "url": "https://www.youtube.com/watch?v=7rNu9hVbyQM&list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG&index=4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/7rNu9hVbyQM/maxresdefault.jpg",
+      "viewCount": 2324151,
+      "date": "2024-01-04T13:30:09.000Z",
+      "likes": 19000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "01:06:45",
+      "commentsCount": 1920,
+      "text": "#saonhapngu #viettelmedia #xemesis #maitaiphen #soobin #tuantran #huynhlap #phatla #16typh #mono \n🔥 Sao Nhập Ngũ 2024 – Không khoan nhượng - \"Không khoan nhượng với chính bản thân, không đầu hàng trước khó khăn thử thách\"\n8 chiến sĩ Nghiêm Anh Hiếu, Mai Tài Phến, Nguyễn Huỳnh Sơn, Trần Duy Tuấn, Huỳnh Ngọc Lập, La Vĩnh Phát, Phạm Hoàng Hải, Nguyễn Việt Hoàng nhập cuộc ngay từ phút đầu tiên, căng thẳng, gay cấn và 'không khoan nhượng'. Những chiến sĩ mới có vượt qua được thử thách hoàn thành được nhiệm vụ đặt ra?\n🔥 Đón xem Sao nhập ngũ 2024 thứ 5 hàng tuần từ ngày 14/12:\n💓 9H15 Thứ 5 trên Kênh TH QPVN\n💓20h20 Thứ 5 trên Kênh HTV7\n💓 20H30 Thứ 5 trên TV360 | Youtube | Mocha\n💓 12H00 Thứ 7 trên Kênh TH SCTV6\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn chính: Lê Quý Giáp\n• Tổ chức sản xuất:  Hà Vân Anh, Hương Lê, Như Oanh\n• Biên tập: Bùi Tiến Dũng, Trang Ngô, Hồ Thảo Nguyên, Ngô Nghĩa, Bùi Hương, Mai Hằng, Thu Hiền, Hà Phương\n• D.O.P: Đoàn Ngọc Ước  \n• Quay phim: Thế Chiến; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Quang Huy; Hồng Phương; Thanh Tĩnh; Văn Sướng; Văn Quân; Văn Công; Hoàng Cường; Quốc Huy; Văn San; Văn Hoan; Văn Hạnh; Thái Ngân. \n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ; Ngọc Toàn; Minh Quân; Văn Hưng; Hải Nam; Văn Điểu; Tiến Thuận; Thanh Hải; Cao Xuân; Đình Trọng; Viết Trùng; Quốc Trung; Đình Thọ; Huy Phương; Bảo Khang. \n• Âm thanh: Nguyễn Ngọc Hùng\n• Nhiếp Ảnh: Hùng Quách\n• Chịu trách nhiệm hậu kỳ: Thanh Liêm \n• Quản lý thiết bị: Thành Linh, Văn Hải, Nguyễn Hồ Lê Thi\n• Hỗ trợ sản xuất: Ngọc Hoàng; Trọng Lợi; Văn Tuyên; Thanh Thuận. \n• Dựng phim: Anh Đức, Chí Dũng, Nguyễn Hồ Lê Thi, Nguyễn Trường Giang, Phùng Thanh Tùng\n• Đồ họa: Thế Lượng, Chí Dũng, Phantom, Hêlô, Ngọc Thảo, Huyền Thương, Xuân Thắng\n• Phụ trách Truyền thông: Quỳnh Anh, Hà Phan, Trà Trang\n• Truyền thông social: Quỳnh Anh, Long, Khánh Linh, Bá Linh\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#viettelmedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/xemesis",
+          "text": "#xemesis"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/maitaiphen",
+          "text": "#maitaiphen"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/soobin",
+          "text": "#soobin"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tuantran",
+          "text": "#tuantran"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huynhlap",
+          "text": "#huynhlap"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phatla",
+          "text": "#phatla"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/16typh",
+          "text": "#16typh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mono",
+          "text": "#mono"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 3,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG",
+      "isMonetized": null,
+      "hashtags": [
+        "#soobin",
+        "#huynhlap",
+        "#mono"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao Nhập Ngũ 2024 Tập 9: 'Xinh ngoan yêu' hạ đo ván Phát La; Tuấn Trần Huỳnh Lập 'kẻ cắp gặp bà già'",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "fW0G1pLraV0",
+      "url": "https://www.youtube.com/watch?v=fW0G1pLraV0&list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG&index=9",
+      "thumbnailUrl": "https://i.ytimg.com/vi/fW0G1pLraV0/maxresdefault.jpg",
+      "viewCount": 1241874,
+      "date": "2024-02-22T13:30:08.000Z",
+      "likes": 10000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:54:20",
+      "commentsCount": 493,
+      "text": "#saonhapngu #viettelmedia #xemesis #maitaiphen #soobin #tuantran #huynhlap #phatla #16typh \n🔥 Sao Nhập Ngũ 2024 – Không khoan nhượng - \"Không khoan nhượng với chính bản thân, không đầu hàng trước khó khăn thử thách\"\n8 chiến sĩ Nghiêm Anh Hiếu, Mai Tài Phến, Nguyễn Huỳnh Sơn, Trần Duy Tuấn, Huỳnh Ngọc Lập, La Vĩnh Phát, Phạm Hoàng Hải, Nguyễn Việt Hoàng nhập cuộc ngay từ phút đầu tiên, căng thẳng, gay cấn và 'không khoan nhượng'. Những chiến sĩ mới có vượt qua được thử thách hoàn thành được nhiệm vụ đặt ra?\n🔥 Đón xem Sao nhập ngũ 2024 thứ 5 hàng tuần từ ngày 14/12:\n💓 9H15 Thứ 5 trên Kênh TH QPVN\n💓20h20 Thứ 5 trên Kênh HTV7\n💓 20H30 Thứ 5 trên TV360 | Youtube | Mocha\n💓 12H00 Thứ 7 trên Kênh TH SCTV6\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn chính: Lê Quý Giáp\n• Tổ chức sản xuất:  Hà Vân Anh, Hương Lê, Như Oanh\n• Biên tập: Bùi Tiến Dũng, Trang Ngô, Hồ Thảo Nguyên, Ngô Nghĩa, Bùi Hương, Mai Hằng, Thu Hiền, Hà Phương\n• D.O.P: Đoàn Ngọc Ước  \n• Quay phim: Thế Chiến; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Quang Huy; Hồng Phương; Thanh Tĩnh; Văn Sướng; Văn Quân; Văn Công; Hoàng Cường; Quốc Huy; Văn San; Văn Hoan; Văn Hạnh; Thái Ngân. \n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ; Ngọc Toàn; Minh Quân; Văn Hưng; Hải Nam; Văn Điểu; Tiến Thuận; Thanh Hải; Cao Xuân; Đình Trọng; Viết Trùng; Quốc Trung; Đình Thọ; Huy Phương; Bảo Khang. \n• Âm thanh: Nguyễn Ngọc Hùng\n• Nhiếp Ảnh: Hùng Quách\n• Chịu trách nhiệm hậu kỳ: Thanh Liêm \n• Quản lý thiết bị: Thành Linh, Văn Hải, Nguyễn Hồ Lê Thi\n• Hỗ trợ sản xuất: Ngọc Hoàng; Trọng Lợi; Văn Tuyên; Thanh Thuận. \n• Dựng phim: Anh Đức, Chí Dũng, Nguyễn Hồ Lê Thi, Nguyễn Trường Giang, Phùng Thanh Tùng\n• Đồ họa: Thế Lượng, Chí Dũng, Phantom, Hêlô, Ngọc Thảo, Huyền Thương, Xuân Thắng\n• Phụ trách Truyền thông: Quỳnh Anh, Hà Phan, Trà Trang\n• Truyền thông social: Quỳnh Anh, Long, Khánh Linh, Bá Linh\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#viettelmedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/xemesis",
+          "text": "#xemesis"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/maitaiphen",
+          "text": "#maitaiphen"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/soobin",
+          "text": "#soobin"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tuantran",
+          "text": "#tuantran"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huynhlap",
+          "text": "#huynhlap"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phatla",
+          "text": "#phatla"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/16typh",
+          "text": "#16typh"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 8,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG",
+      "isMonetized": null,
+      "hashtags": [
+        "#soobin",
+        "#huynhlap",
+        "#saonhapngu"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao Nhập Ngũ 2024 Tập 3: Ở đây, đơn vị là nhà! | Tắm chung bể, ăn chung nồi, đêm rét chung chăn",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "Jb2TneI1XJc",
+      "url": "https://www.youtube.com/watch?v=Jb2TneI1XJc&list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG&index=3",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Jb2TneI1XJc/maxresdefault.jpg",
+      "viewCount": 3010406,
+      "date": "2023-12-28T13:30:10.000Z",
+      "likes": 24000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "01:00:15",
+      "commentsCount": 1739,
+      "text": "🔥 Sao Nhập Ngũ 2024 – Không khoan nhượng - \"Không khoan nhượng với chính bản thân, không đầu hàng trước khó khăn thử thách\"\n8 chiến sĩ Nghiêm Anh Hiếu, Mai Tài Phến, Nguyễn Huỳnh Sơn, Trần Duy Tuấn, Huỳnh Ngọc Lập, La Vĩnh Phát, Phạm Hoàng Hải, Nguyễn Việt Hoàng chắc chắn sẽ hoàn thành tốt nhiệm vụ!\n🔥 Đón xem Sao nhập ngũ 2024 thứ 5 hàng tuần từ ngày 14/12:\n💓 9H15 Thứ 5 trên Kênh TH QPVN\n💓20h20 Thứ 5 trên Kênh HTV7\n💓 20H30 Thứ 5 trên TV360 | Youtube | Mocha\n💓 12H00 Thứ 7 trên Kênh TH SCTV6\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn chính: Lê Quý Giáp\n• Tổ chức sản xuất:  Hà Vân Anh, Hương Lê, Như Oanh\n• Biên tập: Bùi Tiến Dũng, Trang Ngô, Nguyên Nguyên, Ngô Nghĩa, Bùi Hương, Mai Hằng\n• D.O.P: Đoàn Ngọc Ước  \n• Quay phim: Thế Chiến; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Quang Huy; Hồng Phương; Thanh Tĩnh; Văn Sướng; Văn Quân; Văn Công; Hoàng Cường; Quốc Huy; Văn San; Văn Hoan; Văn Hạnh; Thái Ngân. \n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ; Ngọc Toàn; Minh Quân; Văn Hưng; Hải Nam; Văn Điểu; Tiến Thuận; Thanh Hải; Cao Xuân; Đình Trọng; Viết Trùng; Quốc Trung; Đình Thọ; Huy Phương; Bảo Khang. \n• Âm thanh: Nguyễn Ngọc Hùng\n• Nhiếp Ảnh: Hùng Quách\n• Quản lý thiết bị: Thành Linh, Văn Hải, Lê Thi\n• Hỗ trợ sản xuất: Ngọc Hoàng; Trọng Lợi; Văn Tuyên; Thanh Thuận.\n• Dựng phim: Anh Đức, Chí Dũng, Lê Thi\n• Đồ họa: Thế Lượng, Ngọc Thảo\n• Phụ trách Truyền thông: Quỳnh Anh, Hà Phan, Trà Trang\n• Truyền thông social: Long, Khánh Linh, Bá Linh\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548",
+      "translatedText": null,
+      "descriptionLinks": null,
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 2,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao Nhập Ngũ 2024 Tập 13: Mẹ SOOBIN nức nở không nhận ra con; Tuấn Trần Mai Tài Phến cũng phải khóc",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "gpnnL_z8Csk",
+      "url": "https://www.youtube.com/watch?v=gpnnL_z8Csk&list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG&index=13",
+      "thumbnailUrl": "https://i.ytimg.com/vi/gpnnL_z8Csk/maxresdefault.jpg",
+      "viewCount": 890691,
+      "date": "2024-03-21T13:30:07.000Z",
+      "likes": 7900,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "01:40:55",
+      "commentsCount": 800,
+      "text": "#saonhapngu #viettelmedia #xemesis #maitaiphen #soobin #tuantran #huynhlap #phatla #16typh #mono \n🔥 Sao Nhập Ngũ 2024 – Không khoan nhượng - \"Không khoan nhượng với chính bản thân, không đầu hàng trước khó khăn thử thách\"\n8 chiến sĩ Nghiêm Anh Hiếu, Mai Tài Phến, Nguyễn Huỳnh Sơn, Trần Duy Tuấn, Huỳnh Ngọc Lập, La Vĩnh Phát, Phạm Hoàng Hải, Nguyễn Việt Hoàng nhập cuộc ngay từ phút đầu tiên, căng thẳng, gay cấn và 'không khoan nhượng'. Những chiến sĩ mới có vượt qua được thử thách hoàn thành được nhiệm vụ đặt ra?\n🔥 Đón xem Sao nhập ngũ 2024 thứ 5 hàng tuần từ ngày 14/12:\n💓 9H15 Thứ 5 trên Kênh TH QPVN\n💓20h20 Thứ 5 trên Kênh HTV7\n💓 20H30 Thứ 5 trên TV360 | Youtube | Mocha\n💓 12H00 Thứ 7 trên Kênh TH SCTV6\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn chính: Lê Quý Giáp\n• Tổ chức sản xuất:  Hà Vân Anh, Hương Lê, Như Oanh\n• Biên tập: Bùi Tiến Dũng, Trang Ngô, Hồ Thảo Nguyên, Ngô Nghĩa, Bùi Hương, Mai Hằng, Thu Hiền, Hà Phương\n• D.O.P: Đoàn Ngọc Ước  \n• Quay phim: Thế Chiến; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Quang Huy; Hồng Phương; Thanh Tĩnh; Văn Sướng; Văn Quân; Văn Công; Hoàng Cường; Quốc Huy; Văn San; Văn Hoan; Văn Hạnh; Thái Ngân. \n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ; Ngọc Toàn; Minh Quân; Văn Hưng; Hải Nam; Văn Điểu; Tiến Thuận; Thanh Hải; Cao Xuân; Đình Trọng; Viết Trùng; Quốc Trung; Đình Thọ; Huy Phương; Bảo Khang. \n• Âm thanh: Nguyễn Ngọc Hùng\n• Nhiếp Ảnh: Hùng Quách\n• Chịu trách nhiệm hậu kỳ: Thanh Liêm \n• Quản lý thiết bị: Thành Linh, Văn Hải, Nguyễn Hồ Lê Thi\n• Hỗ trợ sản xuất: Ngọc Hoàng; Trọng Lợi; Văn Tuyên; Thanh Thuận. \n• Dựng phim: Anh Đức, Chí Dũng, Nguyễn Hồ Lê Thi, Nguyễn Trường Giang, Phùng Thanh Tùng\n• Đồ họa: Thế Lượng, Chí Dũng, Phantom, Hêlô, Ngọc Thảo, Huyền Thương, Xuân Thắng\n• Phụ trách Truyền thông: Lê Diễm Quỳnh Anh, Hà Phan, Trà Trang\n• Truyền thông social: Quỳnh Anh, Long, Khánh Linh, Bá Linh\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#viettelmedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/xemesis",
+          "text": "#xemesis"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/maitaiphen",
+          "text": "#maitaiphen"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/soobin",
+          "text": "#soobin"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tuantran",
+          "text": "#tuantran"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huynhlap",
+          "text": "#huynhlap"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phatla",
+          "text": "#phatla"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/16typh",
+          "text": "#16typh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mono",
+          "text": "#mono"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 12,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG",
+      "isMonetized": null,
+      "hashtags": [
+        "#soobin",
+        "#huynhlap",
+        "#mono"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao Nhập Ngũ 2024 Tập 8: Đối đầu | 8 chiến sĩ căng thẳng trước màn thách đấu của xạ thủ tài ba",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "oo1fBkliyFw",
+      "url": "https://www.youtube.com/watch?v=oo1fBkliyFw&list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG&index=8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/oo1fBkliyFw/maxresdefault.jpg",
+      "viewCount": 1375761,
+      "date": "2024-02-01T13:30:11.000Z",
+      "likes": 12000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:57:52",
+      "commentsCount": 687,
+      "text": "#saonhapngu #viettelmedia #xemesis #maitaiphen #soobin #tuantran #huynhlap #phatla #16typh #mono \n🔥 Sao Nhập Ngũ 2024 – Không khoan nhượng - \"Không khoan nhượng với chính bản thân, không đầu hàng trước khó khăn thử thách\"\n8 chiến sĩ Nghiêm Anh Hiếu, Mai Tài Phến, Nguyễn Huỳnh Sơn, Trần Duy Tuấn, Huỳnh Ngọc Lập, La Vĩnh Phát, Phạm Hoàng Hải, Nguyễn Việt Hoàng nhập cuộc ngay từ phút đầu tiên, căng thẳng, gay cấn và 'không khoan nhượng'. Những chiến sĩ mới có vượt qua được thử thách hoàn thành được nhiệm vụ đặt ra?\n🔥 Đón xem Sao nhập ngũ 2024 thứ 5 hàng tuần từ ngày 14/12:\n💓 9H15 Thứ 5 trên Kênh TH QPVN\n💓20h20 Thứ 5 trên Kênh HTV7\n💓 20H30 Thứ 5 trên TV360 | Youtube | Mocha\n💓 12H00 Thứ 7 trên Kênh TH SCTV6\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn chính: Lê Quý Giáp\n• Tổ chức sản xuất:  Hà Vân Anh, Hương Lê, Như Oanh\n• Biên tập: Bùi Tiến Dũng, Trang Ngô, Hồ Thảo Nguyên, Ngô Nghĩa, Bùi Hương, Mai Hằng, Thu Hiền, Hà Phương\n• D.O.P: Đoàn Ngọc Ước  \n• Quay phim: Thế Chiến; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Quang Huy; Hồng Phương; Thanh Tĩnh; Văn Sướng; Văn Quân; Văn Công; Hoàng Cường; Quốc Huy; Văn San; Văn Hoan; Văn Hạnh; Thái Ngân. \n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ; Ngọc Toàn; Minh Quân; Văn Hưng; Hải Nam; Văn Điểu; Tiến Thuận; Thanh Hải; Cao Xuân; Đình Trọng; Viết Trùng; Quốc Trung; Đình Thọ; Huy Phương; Bảo Khang. \n• Âm thanh: Nguyễn Ngọc Hùng\n• Nhiếp Ảnh: Hùng Quách\n• Chịu trách nhiệm hậu kỳ: Thanh Liêm \n• Quản lý thiết bị: Thành Linh, Văn Hải, Nguyễn Hồ Lê Thi\n• Hỗ trợ sản xuất: Ngọc Hoàng; Trọng Lợi; Văn Tuyên; Thanh Thuận. \n• Dựng phim: Anh Đức, Chí Dũng, Nguyễn Hồ Lê Thi, Nguyễn Trường Giang, Phùng Thanh Tùng\n• Đồ họa: Thế Lượng, Chí Dũng, Phantom, Hêlô, Ngọc Thảo, Huyền Thương, Xuân Thắng\n• Phụ trách Truyền thông: Lê Diễm Quỳnh Anh, Hà Phan, Trà Trang\n• Truyền thông social: Quỳnh Anh, Long, Khánh Linh, Bá Linh\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#viettelmedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/xemesis",
+          "text": "#xemesis"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/maitaiphen",
+          "text": "#maitaiphen"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/soobin",
+          "text": "#soobin"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tuantran",
+          "text": "#tuantran"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huynhlap",
+          "text": "#huynhlap"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phatla",
+          "text": "#phatla"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/16typh",
+          "text": "#16typh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mono",
+          "text": "#mono"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 7,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG",
+      "isMonetized": null,
+      "hashtags": [
+        "#soobin",
+        "#huynhlap",
+        "#mono"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao Nhập Ngũ 2024 Tập 11: Việt Hoàng bị phạt làm gương vì 'quen miệng'; Xemesis bất ngờ hát bài 'tủ'",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "JOGxUdI72l8",
+      "url": "https://www.youtube.com/watch?v=JOGxUdI72l8&list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG&index=11",
+      "thumbnailUrl": "https://i.ytimg.com/vi/JOGxUdI72l8/maxresdefault.jpg",
+      "viewCount": 932689,
+      "date": "2024-03-07T13:30:07.000Z",
+      "likes": 6400,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "01:16:57",
+      "commentsCount": 431,
+      "text": "#saonhapngu #viettelmedia #xemesis #maitaiphen #soobin #tuantran #huynhlap #phatla #16typh\n🔥 Sao Nhập Ngũ 2024 – Không khoan nhượng - \"Không khoan nhượng với chính bản thân, không đầu hàng trước khó khăn thử thách\"\n8 chiến sĩ Nghiêm Anh Hiếu, Mai Tài Phến, Nguyễn Huỳnh Sơn, Trần Duy Tuấn, Huỳnh Ngọc Lập, La Vĩnh Phát, Phạm Hoàng Hải, Nguyễn Việt Hoàng nhập cuộc ngay từ phút đầu tiên, căng thẳng, gay cấn và 'không khoan nhượng'. Những chiến sĩ mới có vượt qua được thử thách hoàn thành được nhiệm vụ đặt ra?\n🔥 Đón xem Sao nhập ngũ 2024 thứ 5 hàng tuần từ ngày 14/12:\n💓 9H15 Thứ 5 trên Kênh TH QPVN\n💓20h20 Thứ 5 trên Kênh HTV7\n💓 20H30 Thứ 5 trên TV360 | Youtube | Mocha\n💓 12H00 Thứ 7 trên Kênh TH SCTV6\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn chính: Lê Quý Giáp\n• Tổ chức sản xuất:  Hà Vân Anh, Hương Lê, Như Oanh\n• Biên tập: Bùi Tiến Dũng, Trang Ngô, Hồ Thảo Nguyên, Ngô Nghĩa, Bùi Hương, Mai Hằng, Thu Hiền, Hà Phương\n• D.O.P: Đoàn Ngọc Ước  \n• Quay phim: Thế Chiến; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Quang Huy; Hồng Phương; Thanh Tĩnh; Văn Sướng; Văn Quân; Văn Công; Hoàng Cường; Quốc Huy; Văn San; Văn Hoan; Văn Hạnh; Thái Ngân. \n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ; Ngọc Toàn; Minh Quân; Văn Hưng; Hải Nam; Văn Điểu; Tiến Thuận; Thanh Hải; Cao Xuân; Đình Trọng; Viết Trùng; Quốc Trung; Đình Thọ; Huy Phương; Bảo Khang. \n• Âm thanh: Nguyễn Ngọc Hùng\n• Nhiếp Ảnh: Hùng Quách\n• Chịu trách nhiệm hậu kỳ: Thanh Liêm \n• Quản lý thiết bị: Thành Linh, Văn Hải, Nguyễn Hồ Lê Thi\n• Hỗ trợ sản xuất: Ngọc Hoàng; Trọng Lợi; Văn Tuyên; Thanh Thuận. \n• Dựng phim: Anh Đức, Chí Dũng, Nguyễn Hồ Lê Thi, Nguyễn Trường Giang, Phùng Thanh Tùng\n• Đồ họa: Thế Lượng, Chí Dũng, Phantom, Hêlô, Ngọc Thảo, Huyền Thương, Xuân Thắng\n• Phụ trách Truyền thông: Lê Diễm Quỳnh Anh, Hà Phan, Trà Trang\n• Truyền thông social: Quỳnh Anh, Long, Khánh Linh, Bá Linh\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#viettelmedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/xemesis",
+          "text": "#xemesis"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/maitaiphen",
+          "text": "#maitaiphen"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/soobin",
+          "text": "#soobin"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tuantran",
+          "text": "#tuantran"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huynhlap",
+          "text": "#huynhlap"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phatla",
+          "text": "#phatla"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/16typh",
+          "text": "#16typh"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 10,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG",
+      "isMonetized": null,
+      "hashtags": [
+        "#soobin",
+        "#huynhlap",
+        "#saonhapngu"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao Nhập Ngũ 2024 Tập Cuối: Những chiến binh Thành Đồng | Vì sao phải đổ máu, mồ hôi và nước mắt?",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "XumCPx9_jwM",
+      "url": "https://www.youtube.com/watch?v=XumCPx9_jwM&list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG&index=16",
+      "thumbnailUrl": "https://i.ytimg.com/vi/XumCPx9_jwM/maxresdefault.jpg",
+      "viewCount": 762641,
+      "date": "2024-04-11T13:30:07.000Z",
+      "likes": 8200,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "01:26:08",
+      "commentsCount": 1028,
+      "text": "#saonhapngu #viettelmedia #xemesis #maitaiphen #soobin #tuantran #huynhlap #phatla #16typh #mono \n🔥 Sao Nhập Ngũ 2024 – Không khoan nhượng - \"Không khoan nhượng với chính bản thân, không đầu hàng trước khó khăn thử thách\"\n8 chiến sĩ Nghiêm Anh Hiếu, Mai Tài Phến, Nguyễn Huỳnh Sơn, Trần Duy Tuấn, Huỳnh Ngọc Lập, La Vĩnh Phát, Phạm Hoàng Hải, Nguyễn Việt Hoàng nhập cuộc ngay từ phút đầu tiên, căng thẳng, gay cấn và 'không khoan nhượng'. Những chiến sĩ mới có vượt qua được thử thách hoàn thành được nhiệm vụ đặt ra?\n🔥 Đón xem Sao nhập ngũ 2024 thứ 5 hàng tuần từ ngày 14/12:\n💓 9H15 Thứ 5 trên Kênh TH QPVN\n💓20h20 Thứ 5 trên Kênh HTV7\n💓 20H30 Thứ 5 trên TV360 | Youtube | Mocha\n💓 12H00 Thứ 7 trên Kênh TH SCTV6\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn chính: Lê Quý Giáp\n• Tổ chức sản xuất:  Hà Vân Anh, Hương Lê, Như Oanh\n• Biên tập: Bùi Tiến Dũng, Trang Ngô, Hồ Thảo Nguyên, Ngô Nghĩa, Bùi Hương, Mai Hằng, Thu Hiền, Hà Phương\n• D.O.P: Đoàn Ngọc Ước  \n• Quay phim: Thế Chiến; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Quang Huy; Hồng Phương; Thanh Tĩnh; Văn Sướng; Văn Quân; Văn Công; Hoàng Cường; Quốc Huy; Văn San; Văn Hoan; Văn Hạnh; Thái Ngân. \n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ; Ngọc Toàn; Minh Quân; Văn Hưng; Hải Nam; Văn Điểu; Tiến Thuận; Thanh Hải; Cao Xuân; Đình Trọng; Viết Trùng; Quốc Trung; Đình Thọ; Huy Phương; Bảo Khang. \n• Âm thanh: Nguyễn Ngọc Hùng\n• Nhiếp Ảnh: Hùng Quách\n• Chịu trách nhiệm hậu kỳ: Thanh Liêm \n• Quản lý thiết bị: Thành Linh, Văn Hải, Nguyễn Hồ Lê Thi\n• Hỗ trợ sản xuất: Ngọc Hoàng; Trọng Lợi; Văn Tuyên; Thanh Thuận. \n• Dựng phim: Anh Đức, Chí Dũng, Nguyễn Hồ Lê Thi, Nguyễn Trường Giang, Phùng Thanh Tùng\n• Đồ họa: Thế Lượng, Chí Dũng, Phantom, Hêlô, Ngọc Thảo, Huyền Thương, Xuân Thắng\n• Phụ trách Truyền thông: Lê Diễm Quỳnh Anh, Hà Phan, Trà Trang\n• Truyền thông social: Quỳnh Anh, Long, Khánh Linh, Bá Linh\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#viettelmedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/xemesis",
+          "text": "#xemesis"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/maitaiphen",
+          "text": "#maitaiphen"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/soobin",
+          "text": "#soobin"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tuantran",
+          "text": "#tuantran"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huynhlap",
+          "text": "#huynhlap"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phatla",
+          "text": "#phatla"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/16typh",
+          "text": "#16typh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mono",
+          "text": "#mono"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 15,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG",
+      "isMonetized": null,
+      "hashtags": [
+        "#soobin",
+        "#huynhlap",
+        "#mono"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao Nhập Ngũ 2024 Tập 7: Nỗi sợ | Xemesis đối đầu 16TYPH, Huỳnh Lập mạnh mẽ bức tốc về đích",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "7ZL_H2emZGM",
+      "url": "https://www.youtube.com/watch?v=7ZL_H2emZGM&list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG&index=7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/7ZL_H2emZGM/maxresdefault.jpg",
+      "viewCount": 1465414,
+      "date": "2024-01-25T13:30:07.000Z",
+      "likes": 13000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "01:10:02",
+      "commentsCount": 1318,
+      "text": "#saonhapngu #viettelmedia #xemesis #maitaiphen #soobin #tuantran #huynhlap #phatla #16typh #mono \n🔥 Sao Nhập Ngũ 2024 – Không khoan nhượng - \"Không khoan nhượng với chính bản thân, không đầu hàng trước khó khăn thử thách\"\n8 chiến sĩ Nghiêm Anh Hiếu, Mai Tài Phến, Nguyễn Huỳnh Sơn, Trần Duy Tuấn, Huỳnh Ngọc Lập, La Vĩnh Phát, Phạm Hoàng Hải, Nguyễn Việt Hoàng nhập cuộc ngay từ phút đầu tiên, căng thẳng, gay cấn và 'không khoan nhượng'. Những chiến sĩ mới có vượt qua được thử thách hoàn thành được nhiệm vụ đặt ra?\n🔥 Đón xem Sao nhập ngũ 2024 thứ 5 hàng tuần từ ngày 14/12:\n💓 9H15 Thứ 5 trên Kênh TH QPVN\n💓20h20 Thứ 5 trên Kênh HTV7\n💓 20H30 Thứ 5 trên TV360 | Youtube | Mocha\n💓 12H00 Thứ 7 trên Kênh TH SCTV6\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn chính: Lê Quý Giáp\n• Tổ chức sản xuất:  Hà Vân Anh, Hương Lê, Như Oanh\n• Biên tập: Bùi Tiến Dũng, Trang Ngô, Hồ Thảo Nguyên, Ngô Nghĩa, Bùi Hương, Mai Hằng, Thu Hiền, Hà Phương\n• D.O.P: Đoàn Ngọc Ước  \n• Quay phim: Thế Chiến; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Quang Huy; Hồng Phương; Thanh Tĩnh; Văn Sướng; Văn Quân; Văn Công; Hoàng Cường; Quốc Huy; Văn San; Văn Hoan; Văn Hạnh; Thái Ngân. \n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ; Ngọc Toàn; Minh Quân; Văn Hưng; Hải Nam; Văn Điểu; Tiến Thuận; Thanh Hải; Cao Xuân; Đình Trọng; Viết Trùng; Quốc Trung; Đình Thọ; Huy Phương; Bảo Khang. \n• Âm thanh: Nguyễn Ngọc Hùng\n• Nhiếp Ảnh: Hùng Quách\n• Chịu trách nhiệm hậu kỳ: Thanh Liêm \n• Quản lý thiết bị: Thành Linh, Văn Hải, Nguyễn Hồ Lê Thi\n• Hỗ trợ sản xuất: Ngọc Hoàng; Trọng Lợi; Văn Tuyên; Thanh Thuận. \n• Dựng phim: Anh Đức, Chí Dũng, Nguyễn Hồ Lê Thi, Nguyễn Trường Giang, Phùng Thanh Tùng\n• Đồ họa: Thế Lượng, Chí Dũng, Phantom, Hêlô, Ngọc Thảo, Huyền Thương, Xuân Thắng\n• Phụ trách Truyền thông: Hà Phan, Trà Trang\n• Truyền thông social: Quỳnh Anh, Long, Khánh Linh, Bá Linh\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#viettelmedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/xemesis",
+          "text": "#xemesis"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/maitaiphen",
+          "text": "#maitaiphen"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/soobin",
+          "text": "#soobin"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tuantran",
+          "text": "#tuantran"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huynhlap",
+          "text": "#huynhlap"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phatla",
+          "text": "#phatla"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/16typh",
+          "text": "#16typh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mono",
+          "text": "#mono"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 6,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG",
+      "isMonetized": null,
+      "hashtags": [
+        "#soobin",
+        "#huynhlap",
+        "#mono"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG",
+      "isPaidContent": false
+    },
+    {
+      "title": "SAO NHẬP NGŨ 2024 TẬP 1 | Cú \"S.Ố.C\" đầu tiên | 8 chiến sĩ ĐỐI ĐẦU trên VÕ ĐÀI khốc liệt",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "15bZv083Ww0",
+      "url": "https://www.youtube.com/watch?v=15bZv083Ww0&list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG&index=1",
+      "thumbnailUrl": "https://i.ytimg.com/vi/15bZv083Ww0/maxresdefault.jpg",
+      "viewCount": 5455573,
+      "date": "2023-12-14T13:30:10.000Z",
+      "likes": 57000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:58:39",
+      "commentsCount": 5190,
+      "text": "#saonhapngu #viettelmedia #xemesis #maitaiphen #soobin #tuantran #huynhlap #phatla #16typh #mono \n🔥 Sao Nhập Ngũ 2024 – Không khoan nhượng - \"Không khoan nhượng với chính bản thân, không đầu hàng trước khó khăn thử thách\"\n8 chiến sĩ Nghiêm Anh Hiếu, Mai Tài Phến, Nguyễn Huỳnh Sơn, Trần Duy Tuấn, Huỳnh Ngọc Lập, La Vĩnh Phát, Phạm Hoàng Hải, Nguyễn Việt Hoàng nhập cuộc ngay từ phút đầu tiên, căng thẳng, gay cấn và 'không khoan nhượng'. Những chiến sĩ mới có vượt qua được thử thách hoàn thành được nhiệm vụ đặt ra?\n🔥 Đón xem Sao nhập ngũ 2024 thứ 5 hàng tuần từ ngày 14/12:\n💓 9H15 Thứ 5 trên Kênh TH QPVN\n💓20h20 Thứ 5 trên Kênh HTV7\n💓 20H30 Thứ 5 trên TV360 | Youtube | Mocha\n💓 12H00 Thứ 7 trên Kênh TH SCTV6\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn chính: Lê Quý Giáp\n• Tổ chức sản xuất:  Hà Vân Anh, Hương Lê, Như Oanh\n• Biên tập: Bùi Tiến Dũng, Trang Ngô, Hồ Thảo Nguyên, Ngô Nghĩa, Bùi Hương, Mai Hằng, Thu Hiền, Hà Phương\n• D.O.P: Đoàn Ngọc Ước  \n• Quay phim: Thế Chiến; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Quang Huy; Hồng Phương; Thanh Tĩnh; Văn Sướng; Văn Quân; Văn Công; Hoàng Cường; Quốc Huy; Văn San; Văn Hoan; Văn Hạnh; Thái Ngân. \n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ; Ngọc Toàn; Minh Quân; Văn Hưng; Hải Nam; Văn Điểu; Tiến Thuận; Thanh Hải; Cao Xuân; Đình Trọng; Viết Trùng; Quốc Trung; Đình Thọ; Huy Phương; Bảo Khang. \n• Âm thanh: Nguyễn Ngọc Hùng\n• Nhiếp Ảnh: Hùng Quách\n• Chịu trách nhiệm hậu kỳ: Thanh Liêm \n• Quản lý thiết bị: Thành Linh, Văn Hải, Nguyễn Hồ Lê Thi\n• Hỗ trợ sản xuất: Ngọc Hoàng; Trọng Lợi; Văn Tuyên; Thanh Thuận. \n• Dựng phim: Anh Đức, Chí Dũng, Nguyễn Hồ Lê Thi, Nguyễn Trường Giang, Phùng Thanh Tùng\n• Đồ họa: Thế Lượng, Chí Dũng, Phantom, Hêlô, Ngọc Thảo, Huyền Thương, Xuân Thắng\n• Phụ trách Truyền thông: Lê Diễm Quỳnh Anh, Hà Phan, Trà Trang\n• Truyền thông social: Quỳnh Anh, Long, Khánh Linh, Bá Linh\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#viettelmedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/xemesis",
+          "text": "#xemesis"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/maitaiphen",
+          "text": "#maitaiphen"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/soobin",
+          "text": "#soobin"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tuantran",
+          "text": "#tuantran"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huynhlap",
+          "text": "#huynhlap"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phatla",
+          "text": "#phatla"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/16typh",
+          "text": "#16typh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mono",
+          "text": "#mono"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 0,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG",
+      "isMonetized": null,
+      "hashtags": [
+        "#soobin",
+        "#huynhlap",
+        "#mono"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao Nhập Ngũ 2024 Tập 15: Đoàn kết là sức mạnh | Bùn trên người nhưng nắng ở trong tim",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "OXGroRMVTdg",
+      "url": "https://www.youtube.com/watch?v=OXGroRMVTdg&list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG&index=15",
+      "thumbnailUrl": "https://i.ytimg.com/vi/OXGroRMVTdg/maxresdefault.jpg",
+      "viewCount": 704794,
+      "date": "2024-04-04T13:30:07.000Z",
+      "likes": 6500,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "01:24:29",
+      "commentsCount": 672,
+      "text": "#saonhapngu #viettelmedia #xemesis #maitaiphen #soobin #tuantran #huynhlap #phatla #16typh #mono \n🔥 Sao Nhập Ngũ 2024 – Không khoan nhượng - \"Không khoan nhượng với chính bản thân, không đầu hàng trước khó khăn thử thách\"\n8 chiến sĩ Nghiêm Anh Hiếu, Mai Tài Phến, Nguyễn Huỳnh Sơn, Trần Duy Tuấn, Huỳnh Ngọc Lập, La Vĩnh Phát, Phạm Hoàng Hải, Nguyễn Việt Hoàng nhập cuộc ngay từ phút đầu tiên, căng thẳng, gay cấn và 'không khoan nhượng'. Những chiến sĩ mới có vượt qua được thử thách hoàn thành được nhiệm vụ đặt ra?\n🔥 Đón xem Sao nhập ngũ 2024 thứ 5 hàng tuần từ ngày 14/12:\n💓 9H15 Thứ 5 trên Kênh TH QPVN\n💓20h20 Thứ 5 trên Kênh HTV7\n💓 20H30 Thứ 5 trên TV360 | Youtube | Mocha\n💓 12H00 Thứ 7 trên Kênh TH SCTV6\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn chính: Lê Quý Giáp\n• Tổ chức sản xuất:  Hà Vân Anh, Hương Lê, Như Oanh\n• Biên tập: Bùi Tiến Dũng, Trang Ngô, Hồ Thảo Nguyên, Ngô Nghĩa, Bùi Hương, Mai Hằng, Thu Hiền, Hà Phương\n• D.O.P: Đoàn Ngọc Ư��c  \n• Quay phim: Thế Chiến; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Quang Huy; Hồng Phương; Thanh Tĩnh; Văn Sướng; Văn Quân; Văn Công; Hoàng Cường; Quốc Huy; Văn San; Văn Hoan; Văn Hạnh; Thái Ngân. \n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ; Ngọc Toàn; Minh Quân; Văn Hưng; Hải Nam; Văn Điểu; Tiến Thuận; Thanh Hải; Cao Xuân; Đình Trọng; Viết Trùng; Quốc Trung; Đình Thọ; Huy Phương; Bảo Khang. \n• Âm thanh: Nguyễn Ngọc Hùng\n• Nhiếp Ảnh: Hùng Quách\n• Chịu trách nhiệm hậu kỳ: Thanh Liêm \n• Quản lý thiết bị: Thành Linh, Văn Hải, Nguyễn Hồ Lê Thi\n• Hỗ trợ sản xuất: Ngọc Hoàng; Trọng Lợi; Văn Tuyên; Thanh Thuận. \n• Dựng phim: Anh Đức, Chí Dũng, Nguyễn Hồ Lê Thi, Nguyễn Trường Giang, Phùng Thanh Tùng\n• Đồ họa: Thế Lượng, Chí Dũng, Phantom, Hêlô, Ngọc Thảo, Huyền Thương, Xuân Thắng\n• Phụ trách Truyền thông: Lê Diễm Quỳnh Anh, Hà Phan, Trà Trang\n• Truyền thông social: Quỳnh Anh, Long, Khánh Linh, Bá Linh\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#viettelmedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/xemesis",
+          "text": "#xemesis"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/maitaiphen",
+          "text": "#maitaiphen"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/soobin",
+          "text": "#soobin"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tuantran",
+          "text": "#tuantran"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huynhlap",
+          "text": "#huynhlap"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phatla",
+          "text": "#phatla"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/16typh",
+          "text": "#16typh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mono",
+          "text": "#mono"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 14,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG",
+      "isMonetized": null,
+      "hashtags": [
+        "#soobin",
+        "#huynhlap",
+        "#mono"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao Nhập Ngũ 2024 Tập 6: Đạn lửa và thách thức; SOOBIN, Xemesis, Phát La đối mặt với biến cố bất ngờ",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "hEZys7KGiH8",
+      "url": "https://www.youtube.com/watch?v=hEZys7KGiH8&list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG&index=6",
+      "thumbnailUrl": "https://i.ytimg.com/vi/hEZys7KGiH8/maxresdefault.jpg",
+      "viewCount": 1603381,
+      "date": "2024-01-18T13:30:09.000Z",
+      "likes": 12000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:56:57",
+      "commentsCount": 1013,
+      "text": "#saonhapngu #viettelmedia #xemesis #maitaiphen #soobin #tuantran #huynhlap #phatla #16typh \n🔥 Sao Nhập Ngũ 2024 – Không khoan nhượng - \"Không khoan nhượng với chính bản thân, không đầu hàng trước khó khăn thử thách\"\n8 chiến sĩ Nghiêm Anh Hiếu, Mai Tài Phến, Nguyễn Huỳnh Sơn, Trần Duy Tuấn, Huỳnh Ngọc Lập, La Vĩnh Phát, Phạm Hoàng Hải, Nguyễn Việt Hoàng nhập cuộc ngay từ phút đầu tiên, căng thẳng, gay cấn và 'không khoan nhượng'. Những chiến sĩ mới có vượt qua được thử thách hoàn thành được nhiệm vụ đặt ra?\n🔥 Đón xem Sao nhập ngũ 2024 thứ 5 hàng tuần từ ngày 14/12:\n💓 9H15 Thứ 5 trên Kênh TH QPVN\n💓20h20 Thứ 5 trên Kênh HTV7\n💓 20H30 Thứ 5 trên TV360 | Youtube | Mocha\n💓 12H00 Thứ 7 trên Kênh TH SCTV6\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn chính: Lê Quý Giáp\n• Tổ chức sản xuất:  Hà Vân Anh, Hương Lê, Như Oanh\n• Biên tập: Bùi Tiến Dũng, Trang Ngô, Hồ Thảo Nguyên, Ngô Nghĩa, Bùi Hương, Mai Hằng, Thu Hiền, Hà Phương\n• D.O.P: Đoàn Ngọc Ước  \n• Quay phim: Thế Chiến; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Quang Huy; Hồng Phương; Thanh Tĩnh; Văn Sướng; Văn Quân; Văn Công; Hoàng Cường; Quốc Huy; Văn San; Văn Hoan; Văn Hạnh; Thái Ngân. \n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ; Ngọc Toàn; Minh Quân; Văn Hưng; Hải Nam; Văn Điểu; Tiến Thuận; Thanh Hải; Cao Xuân; Đình Trọng; Viết Trùng; Quốc Trung; Đình Thọ; Huy Phương; Bảo Khang. \n• Âm thanh: Nguyễn Ngọc Hùng\n• Nhiếp Ảnh: Hùng Quách\n• Chịu trách nhiệm hậu kỳ: Thanh Liêm \n• Quản lý thiết bị: Thành Linh, Văn Hải, Nguyễn Hồ Lê Thi\n• Hỗ trợ sản xuất: Ngọc Hoàng; Trọng Lợi; Văn Tuyên; Thanh Thuận. \n• Dựng phim: Anh Đức, Chí Dũng, Nguyễn Hồ Lê Thi, Nguyễn Trường Giang, Phùng Thanh Tùng\n• Đồ họa: Thế Lượng, Chí Dũng, Phantom, Hêlô, Ngọc Thảo, Huyền Thương, Xuân Thắng\n• Phụ trách Truyền thông: Lê Diễm Quỳnh Anh, Hà Phan, Trà Trang\n• Truyền thông social: Quỳnh Anh, Long, Khánh Linh, Bá Linh\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#viettelmedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/xemesis",
+          "text": "#xemesis"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/maitaiphen",
+          "text": "#maitaiphen"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/soobin",
+          "text": "#soobin"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tuantran",
+          "text": "#tuantran"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huynhlap",
+          "text": "#huynhlap"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phatla",
+          "text": "#phatla"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/16typh",
+          "text": "#16typh"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 5,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG",
+      "isMonetized": null,
+      "hashtags": [
+        "#soobin",
+        "#huynhlap",
+        "#saonhapngu"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG",
+      "isPaidContent": false
+    }
+  ]
+}
