@@ -1,0 +1,56 @@
+{
+  "actor_name": "apidojo/youtube-scraper-api",
+  "actor_run_id": "nwyoqUcy8ejtMNKDP",
+  "dataset_id": "AgIFuyYunacWJ2DS9",
+  "actor_build_id": "h8l90vf75JthhYS6q",
+  "retrieved_at": "2026-08-12T12:37:32.440428+07:00",
+  "actor_input": {},
+  "run_metadata": {
+    "status": "SUCCEEDED",
+    "startedAt": "2026-08-12T05:36:35.339Z",
+    "finishedAt": "2026-08-12T05:36:39.260Z",
+    "usageTotalUsd": 0.005,
+    "chargedEventCounts": {
+      "dataset-item": 10,
+      "query-event": 0,
+      "search-query": 0,
+      "playlist-query": 0,
+      "get-trending-event": 0,
+      "include-shorts-event": 0,
+      "single-item-query": 0,
+      "include-live-streams-event": 0
+    }
+  },
+  "items": [
+    {
+      "demo": true
+    },
+    {
+      "demo": true
+    },
+    {
+      "demo": true
+    },
+    {
+      "demo": true
+    },
+    {
+      "demo": true
+    },
+    {
+      "demo": true
+    },
+    {
+      "demo": true
+    },
+    {
+      "demo": true
+    },
+    {
+      "demo": true
+    },
+    {
+      "demo": true
+    }
+  ]
+}

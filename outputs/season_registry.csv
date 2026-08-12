@@ -1,0 +1,8 @@
+﻿show_id,season_id,season_name,season_year,season_number,season_status,expected_episode_count,official_playlist_id,official_playlist_url,season_start_date,season_end_date,format_type,review_status
+ATSH,ATSH_2024,"Anh Trai ""Say Hi"" 2024",2024,1,completed,14,PLxKLMN7WdG5AYDsDPTbq7zZTpOTGH7ay6,https://www.youtube.com/playlist?list=PLxKLMN7WdG5AYDsDPTbq7zZTpOTGH7ay6,,,closed_season,pilot_verified
+ATSH,ATSH_2025,"Anh Trai ""Say Hi"" 2025",2025,2,completed,,,,,,closed_season,needs_source_verification
+EXSH,EXSH_2025,"Em Xinh ""Say Hi"" 2025",2025,1,completed,,,,,,closed_season,needs_source_verification
+THSH,THSH_2026,"Tinh Hà ""Say Hi"" 2026",2026,1,unknown,,,,,,closed_season,needs_source_verification
+ATVNCG,ATVNCG_2024,Anh Trai Vượt Ngàn Chông Gai 2024,2024,1,completed,,,,,,closed_season,needs_source_verification
+CDDG,CDDG_2023,Chị Đẹp Đạp Gió Rẽ Sóng 2023,2023,1,completed,,,,,,closed_season,needs_source_verification
+CDDG,CDDG_2024,Chị Đẹp Đạp Gió 2024,2024,2,completed,,,,,,closed_season,needs_source_verification
