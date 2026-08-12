@@ -6,6 +6,7 @@ from pathlib import Path
 
 from .apify import ApifyYouTubeClient, load_apify_token, save_raw_run
 from .config import find_season, load_project_config, season_sources
+from .discovery import discover_unknown_shows
 from .pipeline import build_pilot
 from .population import build_all, pending_sources
 from .registry import write_config_registries
@@ -90,6 +91,9 @@ def main() -> None:
     populate_parser.add_argument("--tier", type=int)
     populate_parser.add_argument("--budget-cap-usd", type=float, required=True)
     populate_parser.add_argument("--limit-seasons", type=int)
+    subparsers.add_parser(
+        "discover-unknown", help="Cluster unknown episodic shows from cached official-channel runs"
+    )
     args = parser.parse_args()
 
     logging.basicConfig(level=logging.INFO, format="%(levelname)s %(name)s %(message)s")
@@ -126,6 +130,10 @@ def main() -> None:
             root / "data" / "raw", config, tier=args.tier
         ):
             print(f"{show_id}\t{season['season_id']}\t{source['url']}")
+        return
+    if args.command == "discover-unknown":
+        result = discover_unknown_shows(root / "data" / "raw", root / "outputs", config)
+        logging.info("Unknown-show discovery %s", result)
         return
     if args.command == "extract-season":
         show_id, _, season = find_season(config, args.season_id)
