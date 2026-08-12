@@ -90,8 +90,13 @@ def main() -> None:
     )
     resume_parser.add_argument("run_id")
     resume_parser.add_argument("--show", default="ATSH")
+    resume_parser.add_argument("--season")
     resume_parser.add_argument("--actor", default=DEFAULT_ACTOR)
-    subparsers.add_parser("build-all", help="Rebuild every configured season from cached runs")
+    resume_parser.add_argument("--output", type=Path, default=Path("outputs"))
+    build_all_parser = subparsers.add_parser(
+        "build-all", help="Rebuild every configured season from cached runs"
+    )
+    build_all_parser.add_argument("--output", type=Path, default=Path("outputs"))
     pending_parser = subparsers.add_parser(
         "pending", help="List configured canonical sources without successful raw receipts"
     )
@@ -104,15 +109,19 @@ def main() -> None:
     extract_parser.add_argument("--max-charge-usd", type=float, default=1.0)
     extract_parser.add_argument("--extraction-url")
     extract_parser.add_argument("--query", action="append", dest="queries")
+    extract_parser.add_argument("--actor")
+    extract_parser.add_argument("--output", type=Path, default=Path("outputs"))
     populate_parser = subparsers.add_parser(
         "extract-pending", help="Extract pending configured sources within one cumulative cap"
     )
     populate_parser.add_argument("--tier", type=int)
     populate_parser.add_argument("--budget-cap-usd", type=float, required=True)
     populate_parser.add_argument("--limit-seasons", type=int)
-    subparsers.add_parser(
+    populate_parser.add_argument("--output", type=Path, default=Path("outputs"))
+    discover_parser = subparsers.add_parser(
         "discover-unknown", help="Cluster unknown episodic shows from cached official-channel runs"
     )
+    discover_parser.add_argument("--output", type=Path, default=Path("outputs"))
     args = parser.parse_args()
 
     logging.basicConfig(level=logging.INFO, format="%(levelname)s %(name)s %(message)s")
@@ -135,13 +144,17 @@ def main() -> None:
     if args.command == "resume":
         with ApifyYouTubeClient(load_apify_token()) as client:
             run = client.fetch(args.actor, args.run_id)
+        if args.season:
+            show_id, _, season = find_season(config, args.season)
+            run = _bind_receipt_source(run, _canonical_source(season))
+        else:
+            show_id = args.show
         raw_path = save_raw_run(run, root / "data" / "raw")
-        write_config_registries(config, root / "outputs")
-        result = build_pilot(raw_path, root / "outputs", config, args.show)
-        logging.info("Resumed pilot raw=%s outputs=%s", raw_path, result)
+        result = build_all(root / "data" / "raw", root / args.output, config)
+        logging.info("Resumed show=%s raw=%s outputs=%s", show_id, raw_path, result)
         return
     if args.command == "build-all":
-        result = build_all(root / "data" / "raw", root / "outputs", config)
+        result = build_all(root / "data" / "raw", root / args.output, config)
         logging.info("Built consolidated outputs %s", result)
         return
     if args.command == "pending":
@@ -151,13 +164,13 @@ def main() -> None:
             print(f"{show_id}\t{season['season_id']}\t{source['url']}")
         return
     if args.command == "discover-unknown":
-        result = discover_unknown_shows(root / "data" / "raw", root / "outputs", config)
+        result = discover_unknown_shows(root / "data" / "raw", root / args.output, config)
         logging.info("Unknown-show discovery %s", result)
         return
     if args.command == "extract-season":
         show_id, _, season = find_season(config, args.season_id)
         source = _canonical_source(season)
-        actor = str(source.get("actor", DEFAULT_ACTOR))
+        actor = str(args.actor or source.get("actor", DEFAULT_ACTOR))
         max_results = int(args.max_results or source.get("max_results", 50))
         extraction_source = dict(source)
         if args.extraction_url:
@@ -175,7 +188,7 @@ def main() -> None:
             )
         run = _bind_receipt_source(run, source)
         raw_path = save_raw_run(run, root / "data" / "raw")
-        result = build_all(root / "data" / "raw", root / "outputs", config)
+        result = build_all(root / "data" / "raw", root / args.output, config)
         logging.info(
             "Extracted show=%s season=%s raw=%s result=%s",
             show_id,
@@ -214,7 +227,7 @@ def main() -> None:
                     cost,
                     spent,
                 )
-        result = build_all(root / "data" / "raw", root / "outputs", config)
+        result = build_all(root / "data" / "raw", root / args.output, config)
         logging.info("Extraction wave complete spent_usd=%.4f result=%s", spent, result)
         return
     show = config.shows[args.show]

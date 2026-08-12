@@ -190,13 +190,27 @@ shows:
         year: 2020
         status: completed
         expected_episode_count: 16
-        review_status: verified_count_source_gap
+        review_status: official_channel_search
+        sources:
+          - source_type: official_channel_search
+            url: https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw/search?query=Rap%20Viet%202020%20Tap
+            channel_id: UCkna2OcuN1E6u5I8GVtdkOw
+            queries: ["Rap Việt 2020 Tập Full"]
+            max_results: 60
+            canonical_enumeration: true
       - season_id: RAPVIET_2021
         season_name: "Rap Việt Mùa 2"
         year: 2021
         status: completed
         expected_episode_count: 16
-        review_status: verified_count_source_gap
+        review_status: official_channel_search
+        sources:
+          - source_type: official_channel_search
+            url: https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw/search?query=Rap%20Viet%202021%20Tap
+            channel_id: UCkna2OcuN1E6u5I8GVtdkOw
+            queries: ["Rap Việt Mùa 2 Tập Full"]
+            max_results: 60
+            canonical_enumeration: true
       - season_id: RAPVIET_2023
         season_name: "Rap Việt Mùa 3"
         year: 2023
@@ -210,7 +224,14 @@ shows:
         year: 2024
         status: completed
         expected_episode_count: null
-        review_status: count_conflict_source_gap
+        review_status: count_conflict_official_channel_search
+        sources:
+          - source_type: official_channel_search
+            url: https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw/search?query=Rap%20Viet%202024%20Tap
+            channel_id: UCkna2OcuN1E6u5I8GVtdkOw
+            queries: ["Rap Việt 2024 Tập Full"]
+            max_results: 60
+            canonical_enumeration: true
         notes: VieON has 16 catalog entries; YouTube final is numbered Tập 15.
   TMSVN:
     tier: 2
@@ -228,7 +249,14 @@ shows:
         year: 2022
         status: completed
         expected_episode_count: 16
-        review_status: verified_count_source_gap
+        review_status: official_channel_search
+        sources:
+          - source_type: official_channel_search
+            url: https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw/search?query=Ca%20Si%20Mat%20Na%202022%20Tap
+            channel_id: UCkna2OcuN1E6u5I8GVtdkOw
+            queries: ["Ca Sĩ Mặt Nạ 2022 Tập Full"]
+            max_results: 60
+            canonical_enumeration: true
         notes: Award and reveal program is a separate special, not episode 17.
       - season_id: TMSVN_2023
         season_name: "The Masked Singer Vietnam Mùa 2"
@@ -314,7 +342,14 @@ shows:
         year: 2023
         status: completed
         expected_episode_count: 16
-        review_status: verified_count_source_gap
+        review_status: official_channel_search
+        sources:
+          - source_type: official_channel_search
+            url: https://www.youtube.com/channel/UCs0N0TBi2j156kZ4AOnnB2g/search?query=Vietnam%20Idol%202023%20Tap
+            channel_id: UCs0N0TBi2j156kZ4AOnnB2g
+            queries: ["Vietnam Idol 2023 Tập Full"]
+            max_results: 60
+            canonical_enumeration: true
   NHVDDP:
     tier: 2
     name: "Nữ Hoàng Vũ Đạo Đường Phố"

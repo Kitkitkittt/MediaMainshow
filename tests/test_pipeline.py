@@ -126,3 +126,29 @@ def test_airing_season_can_publish_views_to_date_before_five_episodes(tmp_path: 
     assert summary["missing_episode_count"] == "0"
     assert summary["total_views"] == "600"
     assert "Views-to-date" in summary["notes"]
+
+
+def test_upcoming_season_with_no_main_episode_is_not_a_failure(tmp_path: Path) -> None:
+    root = Path(__file__).resolve().parents[1]
+    raw = tmp_path / "raw.json"
+    raw.write_text(
+        json.dumps(
+            {
+                "actor_name": "fixture/actor",
+                "actor_run_id": "upcoming-run",
+                "dataset_id": "upcoming-dataset",
+                "retrieved_at": "2026-08-12T12:00:00+07:00",
+                "actor_input": {
+                    "sourceBindingUrl": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE"
+                },
+                "items": [],
+            }
+        ),
+        encoding="utf-8",
+    )
+    output = tmp_path / "output"
+    build_pilot(raw, output, load_project_config(root), "SNN", season_id="SNN_2026")
+    with (output / "season_summary.csv").open(encoding="utf-8-sig") as stream:
+        summary = next(csv.DictReader(stream))
+    assert summary["qc_status"] == "NOT_STARTED"
+    assert summary["total_views"] == ""

@@ -20,6 +20,7 @@ EPISODE_COLUMNS = (
     "season_year",
     "season_status",
     "format_type",
+    "video_type",
     "episode_no",
     "episode_label",
     "part_no",
@@ -166,11 +167,16 @@ def build_pilot(
             config.classifier,
             official_channel=official_channel,
             official_full_playlist=official_playlist,
+            excluded_channel=authority in {"official_music_channel", "unofficial"},
+            season=season,
         )
         manual_decision = config.decisions.get(candidate.video_id, {})
         if manual_decision and manual_decision.get("season_id") not in (None, season["season_id"]):
             manual_decision = {}
         decision = str(manual_decision.get("decision", classification.decision)).upper()
+        episode_no = manual_decision.get("episode_no", classification.episode_no)
+        episode_label = manual_decision.get("episode_label", classification.episode_label)
+        video_type = manual_decision.get("video_type", classification.video_type)
         duplicate_video = candidate.video_id in seen_video_ids
         seen_video_ids.add(candidate.video_id)
         canonical = decision == "INCLUDE" and not duplicate_video
@@ -186,8 +192,9 @@ def build_pilot(
             "season_year": season["year"],
             "season_status": season["status"],
             "format_type": show["format_type"],
-            "episode_no": classification.episode_no,
-            "episode_label": "",
+            "video_type": video_type,
+            "episode_no": episode_no,
+            "episode_label": episode_label or "",
             "part_no": "",
             "video_id": candidate.video_id,
             "video_url": candidate.video_url,
@@ -240,14 +247,14 @@ def build_pilot(
             "comment_count": candidate.comment_count,
         }
         episode_rows.append(row)
-        if classification.episode_no is not None and canonical:
-            logical[classification.episode_no].append(row)
+        if episode_no is not None and canonical:
+            logical[int(episode_no)].append(row)
         if decision == "REVIEW" or duplicate_video:
             review_rows.append(
                 {
                     "show": show["name"],
                     "season": season["season_id"],
-                    "episode_candidate": classification.episode_no,
+                    "episode_candidate": episode_no,
                     "video_id": candidate.video_id,
                     "title": candidate.title,
                     "channel": candidate.channel_name,
@@ -346,12 +353,15 @@ def build_pilot(
         range(episode_start, max(episode_numbers, default=episode_start - 1) + 1)
     )
     is_airing = season.get("status") == "airing"
+    is_upcoming = season.get("status") in {"upcoming", "announced"}
     completeness_mismatch = bool(
         expected and not is_airing and len(set(episode_numbers)) != expected
     )
     duration_warnings = any(row["duration_flag"] not in ("", "normal") for row in canonical_rows)
     qc_status = (
-        "FAIL"
+        "NOT_STARTED"
+        if is_upcoming and not canonical_rows
+        else "FAIL"
         if duplicate_logical or not contiguous or not canonical_rows or completeness_mismatch
         else "WARNING"
     )
@@ -364,7 +374,9 @@ def build_pilot(
         and not duration_warnings
     ):
         qc_status = "PASS"
-    publish_metrics = qc_status != "FAIL" and len(views) == len(canonical_rows)
+    publish_metrics = (
+        bool(canonical_rows) and qc_status != "FAIL" and len(views) == len(canonical_rows)
+    )
     max_row = max(canonical_rows, key=lambda row: row["view_count"] or -1, default=None)
     min_row = min(
         canonical_rows,
@@ -395,7 +407,7 @@ def build_pilot(
             "missing_episode_count": (
                 missing_aired_episodes
                 if is_airing
-                else (expected - len(set(episode_numbers)))
+                else max(expected - len(set(episode_numbers)), 0)
                 if expected
                 else ""
             ),

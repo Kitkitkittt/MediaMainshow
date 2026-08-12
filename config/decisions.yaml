@@ -6,4 +6,26 @@
 #     decision: INCLUDE
 #     canonical: true
 #     reason: Original upload in the verified full-show playlist.
-decisions: {}
+decisions:
+  aFaJcDCzlio:
+    season_id: XHTDRLX_S1
+    decision: INCLUDE
+    canonical: true
+    episode_no: 10
+    episode_label: special episode
+    video_type: special_episode
+    reason: >-
+      Official long-form mid-season special in the verified 11-program season sequence; assigned
+      E10 so the separately published final remains E11.
+  IyKYci8EkRQ:
+    season_id: HTRR_2023
+    decision: EXCLUDE
+    canonical: false
+    reason: >-
+      Official archive extra labelled Tập 21, outside the source-bound 20-episode main season.
+  v7Wv1olzyNA:
+    season_id: THSH_2026
+    decision: EXCLUDE
+    canonical: false
+    reason: >-
+      Long derivative segment that references episode 5 but is not the canonical full episode.

@@ -1,0 +1,1756 @@
+{
+  "actor_name": "streamers/youtube-scraper",
+  "actor_run_id": "nfq80lHW2xWgqZyZj",
+  "dataset_id": "2dq4cu0ljiVjy1qrU",
+  "actor_build_id": "SUk0475fgtCh9zqMt",
+  "retrieved_at": "2026-08-12T18:39:04.110834+07:00",
+  "actor_input": {
+    "maxResults": 10,
+    "maxResultsShorts": 0,
+    "maxResultStreams": 0,
+    "searchQueries": [
+      "Chiến Sĩ Quả Cảm Tập 2 Full"
+    ],
+    "sourceBindingUrl": "https://www.youtube.com/channel/UC7TbGjadpjgOfnUoA-iW6Dg/search?query=Chien%20Si%20Qua%20Cam%20Tap"
+  },
+  "run_metadata": {
+    "status": "SUCCEEDED",
+    "startedAt": "2026-08-12T11:38:40.179Z",
+    "finishedAt": "2026-08-12T11:39:03.347Z",
+    "usageTotalUsd": 0.032,
+    "chargedEventCounts": {
+      "result": 8,
+      "date-filter": 0,
+      "ai-video-description": 0,
+      "ai-video-summary": 0
+    }
+  },
+  "items": [
+    {
+      "title": "Dương Lâm từ \"giao tiếp\" đến \"trêu ghẹo\" cảnh khuyển và cái kết phải nhận lấy | Chiến Sĩ Quả Cảm",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "Rw10Ovvp8sk",
+      "url": "https://www.youtube.com/watch?v=Rw10Ovvp8sk",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Rw10Ovvp8sk/maxresdefault.jpg",
+      "viewCount": 777654,
+      "date": "2025-09-29T13:00:54.000Z",
+      "likes": 2600,
+      "location": null,
+      "channelName": "Chiến Sĩ Quả Cảm",
+      "channelUrl": "https://www.youtube.com/@ChienSiQuaCam",
+      "channelUsername": "ChienSiQuaCam",
+      "collaborators": null,
+      "channelId": "UC7TbGjadpjgOfnUoA-iW6Dg",
+      "numberOfSubscribers": 178000,
+      "duration": "00:19:08",
+      "commentsCount": 92,
+      "text": "Dương Lâm từ \"giao tiếp\" đến \"trêu ghẹo\" cảnh khuyển và cái kết phải nhận lấy | Chiến Sĩ Quả Cảm\n► Full Tập 10: https://youtu.be/_wHGVRkZEAs\n#ChienSiQuaCam #BoCongan #Zeit #CSQC \n#chuongtrinhthucte #gameshow #canhsatcodong #leduongbaolam #lienbinhphat #mono #songluan #tienluat #thanhtrung #quocthien #nekole #phanmanhquynh #ngokienhuy #longhatnhai #kieuminhtuan #binzdapoet #binz #hungnguyen \n\n► Xem Full Chiến Sĩ Quả Cảm tại: https://www.youtube.com/playlist?list=PLCgARQSDdGSz-rFWvFVciI3bvFFHhaD82\n📣 Đăng ký kênh Chiến Sĩ Quả Cảm để xem các nội dung hấp dẫn: http://youtube.com/channel/UC7TbGjadpjgOfnUoA-iW6Dg?sub_confirmation=1\n\nCHIẾN SĨ QUẢ CẢM - Chương trình truyền hình thực tế nhập vai về lực lượng Công an Nhân dân đầu tiên của Việt Nam.\n⏰ Đón xem Chiến Sĩ Quả Cảm phát sóng Chủ nhật hàng tuần\n📺 20H00 trên VTV3 | 20H30 trên YouTube Chiến Sĩ Quả Cảm & MZ Channel\n\n#Vietcombank #VCBDigibank  #BIDV #vungbuoctienphong #AgribankĐồnghành #AgribankChiếnsĩquảcảm  #FamiCanxi #CungcapTramPhan  #Chinsu #Vanmonngonbungvi  #Petrolimex #XangdauPetrolimex #PetrolimexAviation #NhienlieubayPetrolimex #PGTANKER #HaitrinhxanhTuonglaixanh #SeABank #BRGgolf  #BRGhospitality\n\n_Các cảnh quay trong video được thực hiện chuyên nghiệp dưới sự giám sát nghiêm ngặt của chuyên gia và đội ngũ kỹ thuật. Vui lòng không tự ý tái hiện hoặc làm theo dưới bất kỳ hình thức nào._\n\n💥CHIẾN SĨ QUẢ CẢM - Lấy cảm hứng từ những câu chuyện có thật cùng tư liệu quý giá, “Chiến Sĩ Quả Cảm” tái hiện sinh động hình ảnh chiến sĩ Công an Nhân dân - bản lĩnh, nhân văn, luôn “vì nước quên thân, vì dân phục vụ”. Chương trình mong muốn không chỉ lan tỏa các giá trị chân - thiện - mỹ, mà còn mang đến góc nhìn mới mẻ, sâu sắc về vai trò và ý nghĩa của lực lượng Công an Nhân dân trong công cuộc bảo vệ an ninh quốc gia, ổn định kinh tế - chính trị - xã hội. Qua đó, góp phần khơi dậy niềm tự hào và tinh thần trách nhiệm trong thế hệ trẻ.\n\n🛡️Trong mùa đầu tiên, các nghệ sĩ gồm: Tiến Luật, Thành Trung, Kiều Minh Tuấn, Quốc Thiên, Binz, Ngô Kiến Huy, Lê Dương Bảo Lâm, Phan Mạnh Quỳnh, Neko Lê, Liên Bỉnh Phát, Song Luân, Long Hạt Nhài, Hưng Nguyễn, MONO sẽ hóa thân thành chiến sĩ Phòng cháy chữa cháy, Cứu nạn cứu hộ và Cảnh sát cơ động, trải nghiệm huấn luyện và thực chiến cùng các đơn vị tinh nhuệ. Không có kịch bản được báo trước. Không có diễn tập. Mọi cảm xúc, phản ứng và hành động đều chân thực, sống động.\n\n► Fanpage: https://www.facebook.com/ChienSiQuaCam.MZChannel\n► Instagram: https://www.instagram.com/chiensiquacam\n► TikTok: https://www.tiktok.com/@chiensiquacam.mzchannel | MZ Channel: https://www.tiktok.com/@mzchannel.official\n► YouTube: https://www.youtube.com/@ChienSiQuaCam | MZ Channel: https://www.youtube.com/@mzchannel.official\n\n📩 Liên hệ đồng hành: donghanh@chiensiquacam.vn \n📩 Liên hệ truyền thông: truyenthong@chiensiquacam.vn\n\n© Bản quyền thuộc về Bộ Công an và Công ty Zeit Media.",
+      "translatedText": "Dương Lâm từ \"giao tiếp\" đến \"trêu ghẹo\" cảnh khuyển và cái kết phải nhận lấy | Chiến Sĩ Quả Cảm\n► Full Tập 10:    • CHIẾN SĨ QUẢ CẢM Tập 10 | Đối đầu KH.ỦNG B...  \n#ChienSiQuaCam #BoCongan #Zeit #CSQC \n#chuongtrinhthucte #gameshow #canhsatcodong #leduongbaolam #lienbinhphat #mono #songluan #tienluat #thanhtrung #quocthien #nekole #phanmanhquynh #ngokienhuy #longhatnhai #kieuminhtuan #binzdapoet #binz #hungnguyen \n\n► Xem Full Chiến Sĩ Quả Cảm tại:    • FULL - CHIẾN SĨ QUẢ CẢM © Bản quyền thuộc ...  \n📣 Đăng ký kênh Chiến Sĩ Quả Cảm để xem các nội dung hấp dẫn:    / @chiensiquacam  \n\nCHIẾN SĨ QUẢ CẢM - Chương trình truyền hình thực tế nhập vai về lực lượng Công an Nhân dân đầu tiên của Việt Nam.\n⏰ Đón xem Chiến Sĩ Quả Cảm phát sóng Chủ nhật hàng tuần\n📺 20H00 trên VTV3 | 20H30 trên YouTube Chiến Sĩ Quả Cảm & MZ Channel\n\n#Vietcombank #VCBDigibank  #BIDV #vungbuoctienphong #AgribankĐồnghành #AgribankChiếnsĩquảcảm  #FamiCanxi #CungcapTramPhan  #Chinsu #Vanmonngonbungvi  #Petrolimex #XangdauPetrolimex #PetrolimexAviation #NhienlieubayPetrolimex #PGTANKER #HaitrinhxanhTuonglaixanh #SeABank #BRGgolf  #BRGhospitality\n\nCác cảnh quay trong video được thực hiện chuyên nghiệp dưới sự giám sát nghiêm ngặt của chuyên gia và đội ngũ kỹ thuật. Vui lòng không tự ý tái hiện hoặc làm theo dưới bất kỳ hình thức nào.\n\n💥CHIẾN SĨ QUẢ CẢM - Lấy cảm hứng từ những câu chuyện có thật cùng tư liệu quý giá, “Chiến Sĩ Quả Cảm” tái hiện sinh động hình ảnh chiến sĩ Công an Nhân dân - bản lĩnh, nhân văn, luôn “vì nước quên thân, vì dân phục vụ”. Chương trình mong muốn không chỉ lan tỏa các giá trị chân - thiện - mỹ, mà còn mang đến góc nhìn mới mẻ, sâu sắc về vai trò và ý nghĩa của lực lượng Công an Nhân dân trong công cuộc bảo vệ an ninh quốc gia, ổn định kinh tế - chính trị - xã hội. Qua đó, góp phần khơi dậy niềm tự hào và tinh thần trách nhiệm trong thế hệ trẻ.\n\n🛡️Trong mùa đầu tiên, các nghệ sĩ gồm: Tiến Luật, Thành Trung, Kiều Minh Tuấn, Quốc Thiên, Binz, Ngô Kiến Huy, Lê Dương Bảo Lâm, Phan Mạnh Quỳnh, Neko Lê, Liên Bỉnh Phát, Song Luân, Long Hạt Nhài, Hưng Nguyễn, MONO sẽ hóa thân thành chiến sĩ Phòng cháy chữa cháy, Cứu nạn cứu hộ và Cảnh sát cơ động, trải nghiệm huấn luyện và thực chiến cùng các đơn vị tinh nhuệ. Không có kịch bản được báo trước. Không có diễn tập. Mọi cảm xúc, phản ứng và hành động đều chân thực, sống động.\n\n► Fanpage:   / chiensiquacam.mzchannel  \n► Instagram:   / chiensiquacam  \n► TikTok:   / chiensiquacam.mzchannel   | MZ Channel:   / mzchannel.official  \n► YouTube:    / @chiensiquacam   | MZ Channel:    / @mzchannel.official  \n\n📩 Liên hệ đồng hành: donghanh@chiensiquacam.vn \n📩 Liên hệ truyền thông: truyenthong@chiensiquacam.vn\n\n© Bản quyền thuộc về Bộ Công an và Công ty Zeit Media.",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/watch?v=_wHGVRkZEAs",
+          "text": "   • CHIẾN SĨ QUẢ CẢM Tập 10 | Đối đầu KH.ỦNG B...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chiensiquacam",
+          "text": "#ChienSiQuaCam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bocongan",
+          "text": "#BoCongan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/zeit",
+          "text": "#Zeit"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/csqc",
+          "text": "#CSQC"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chuongtrinhthucte",
+          "text": "#chuongtrinhthucte"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gameshow",
+          "text": "#gameshow"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/canhsatcodong",
+          "text": "#canhsatcodong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/leduongbaolam",
+          "text": "#leduongbaolam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lienbinhphat",
+          "text": "#lienbinhphat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mono",
+          "text": "#mono"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/songluan",
+          "text": "#songluan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tienluat",
+          "text": "#tienluat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thanhtrung",
+          "text": "#thanhtrung"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quocthien",
+          "text": "#quocthien"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/nekole",
+          "text": "#nekole"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phanmanhquynh",
+          "text": "#phanmanhquynh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngokienhuy",
+          "text": "#ngokienhuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/longhatnhai",
+          "text": "#longhatnhai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/kieuminhtuan",
+          "text": "#kieuminhtuan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/binzdapoet",
+          "text": "#binzdapoet"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/binz",
+          "text": "#binz"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hungnguyen",
+          "text": "#hungnguyen"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLCgARQSDdGSz-rFWvFVciI3bvFFHhaD82",
+          "text": "   • FULL - CHIẾN SĨ QUẢ CẢM © Bản quyền thuộc ...  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC7TbGjadpjgOfnUoA-iW6Dg",
+          "text": "   / @chiensiquacam  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vietcombank",
+          "text": "#Vietcombank"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vcbdigibank",
+          "text": "#VCBDigibank"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bidv",
+          "text": "#BIDV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vungbuoctienphong",
+          "text": "#vungbuoctienphong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/agribank%C4%91%E1%BB%93ngh%C3%A0nh",
+          "text": "#AgribankĐồnghành"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/agribankchi%E1%BA%BFns%C4%A9qu%E1%BA%A3c%E1%BA%A3m",
+          "text": "#AgribankChiếnsĩquảcảm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/famicanxi",
+          "text": "#FamiCanxi"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/cungcaptramphan",
+          "text": "#CungcapTramPhan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chinsu",
+          "text": "#Chinsu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vanmonngonbungvi",
+          "text": "#Vanmonngonbungvi"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/petrolimex",
+          "text": "#Petrolimex"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/xangdaupetrolimex",
+          "text": "#XangdauPetrolimex"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/petrolimexaviation",
+          "text": "#PetrolimexAviation"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/nhienlieubaypetrolimex",
+          "text": "#NhienlieubayPetrolimex"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/pgtanker",
+          "text": "#PGTANKER"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/haitrinhxanhtuonglaixanh",
+          "text": "#HaitrinhxanhTuonglaixanh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/seabank",
+          "text": "#SeABank"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/brggolf",
+          "text": "#BRGgolf"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/brghospitality",
+          "text": "#BRGhospitality"
+        },
+        {
+          "url": "https://www.facebook.com/ChienSiQuaCam.MZChannel",
+          "text": "  / chiensiquacam.mzchannel  "
+        },
+        {
+          "url": "https://www.instagram.com/chiensiquacam",
+          "text": "  / chiensiquacam  "
+        },
+        {
+          "url": "https://www.tiktok.com/@chiensiquacam.mzchannel",
+          "text": "  / chiensiquacam.mzchannel  "
+        },
+        {
+          "url": "https://www.tiktok.com/@mzchannel.official",
+          "text": "  / mzchannel.official  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC7TbGjadpjgOfnUoA-iW6Dg",
+          "text": "   / @chiensiquacam  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCT6NvrJ5DXwEsLRrY3NM02w",
+          "text": "   / @mzchannel.official  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 5,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+S%C4%A9+Qu%E1%BA%A3+C%E1%BA%A3m+T%E1%BA%ADp+2+Full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [
+        "#phanmanhquynh",
+        "#quocthien",
+        "#binz"
+      ],
+      "isMembersOnly": false,
+      "input": "Chiến Sĩ Quả Cảm Tập 2 Full",
+      "isPaidContent": false
+    },
+    {
+      "title": "CHIẾN SĨ QUẢ CẢM Tập 3| Dương Lâm bật khóc giữa biển lửa, chuyện gì đang xảy ra với Phan Mạnh Quỳnh?",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "T7SWpaJ3u1E",
+      "url": "https://www.youtube.com/watch?v=T7SWpaJ3u1E",
+      "thumbnailUrl": "https://i.ytimg.com/vi/T7SWpaJ3u1E/maxresdefault.jpg",
+      "viewCount": 4008068,
+      "date": "2025-08-10T13:30:06.000Z",
+      "likes": 63000,
+      "location": null,
+      "channelName": "Chiến Sĩ Quả Cảm",
+      "channelUrl": "https://www.youtube.com/@ChienSiQuaCam",
+      "channelUsername": "ChienSiQuaCam",
+      "collaborators": null,
+      "channelId": "UC7TbGjadpjgOfnUoA-iW6Dg",
+      "numberOfSubscribers": 178000,
+      "duration": "01:45:02",
+      "commentsCount": 2422,
+      "text": "CHIẾN SĨ QUẢ CẢM Tập 3| Dương Lâm bật khóc giữa biển lửa, chuyện gì đang xảy ra với Phan Mạnh Quỳnh?\n#ChienSiQuaCam #BoCongan #Zeit #CSQC\n#chuongtrinhthucte #gameshow #linhcuuhoa #línhcứuhỏa #leduongbaolam #lienbinhphat #mono #songluan #tienluat #thanhtrung #quocthien #nekole #phanmanhquynh #ngokienhuy #longhatnhai #kieuminhtuan #binzdapoet #binz #hungnguyen \n\n► Xem Full Chiến Sĩ Quả Cảm tại: https://www.youtube.com/playlist?list=PLCgARQSDdGSz-rFWvFVciI3bvFFHhaD82\n📣 Đăng ký kênh Chiến Sĩ Quả Cảm để xem các nội dung hấp dẫn: http://youtube.com/channel/UC7TbGjadpjgOfnUoA-iW6Dg?sub_confirmation=1\n\nCHIẾN SĨ QUẢ CẢM - Chương trình truyền hình thực tế nhập vai về lực lượng Công an Nhân dân đầu tiên của Việt Nam.\n⏰ Đón xem Chiến Sĩ Quả Cảm phát sóng Chủ nhật hàng tuần\n📺 20H00 trên VTV3 | 20H30 trên YouTube Chiến Sĩ Quả Cảm & MZ Channel\n\n_Các cảnh quay trong video được thực hiện chuyên nghiệp dưới sự giám sát nghiêm ngặt của chuyên gia và đội ngũ kỹ thuật. Vui lòng không tự ý tái hiện hoặc làm theo dưới bất kỳ hình thức nào._\n\n💥CHIẾN SĨ QUẢ CẢM - Lấy cảm hứng từ những câu chuyện có thật cùng tư liệu quý giá, “Chiến Sĩ Quả Cảm” tái hiện sinh động hình ảnh chiến sĩ Công an Nhân dân - bản lĩnh, nhân văn, luôn “vì nước quên thân, vì dân phục vụ”. Chương trình mong muốn không chỉ lan tỏa các giá trị chân - thiện - mỹ, mà còn mang đến góc nhìn mới mẻ, sâu sắc về vai trò và ý nghĩa của lực lượng Công an Nhân dân trong công cuộc bảo vệ an ninh quốc gia, ổn định kinh tế - chính trị - xã hội. Qua đó, góp phần khơi dậy niềm tự hào và tinh thần trách nhiệm trong thế hệ trẻ.\n\n🛡️Trong mùa đầu tiên, các nghệ sĩ gồm: Tiến Luật, Thành Trung, Kiều Minh Tuấn, Quốc Thiên, Binz, Ngô Kiến Huy, Lê Dương Bảo Lâm, Phan Mạnh Quỳnh, Neko Lê, Liên Bỉnh Phát, Song Luân, Long Hạt Nhài, Hưng Nguyễn, MONO sẽ hóa thân thành chiến sĩ Phòng cháy chữa cháy, Cứu nạn c��u hộ và Cảnh sát cơ động, trải nghiệm huấn luyện và thực chiến cùng các đơn vị tinh nhuệ. Không có kịch bản được báo trước. Không có diễn tập. Mọi cảm xúc, phản ứng và hành động đều chân thực, sống động.\n\n► Fanpage: https://www.facebook.com/ChienSiQuaCam.MZChannel\n► Instagram: https://www.instagram.com/chiensiquacam\n► TikTok: https://www.tiktok.com/@chiensiquacam.mzchannel | MZ Channel: https://www.tiktok.com/@mzchannel.official\n► YouTube: https://www.youtube.com/@ChienSiQuaCam | MZ Channel: https://www.youtube.com/@mzchannel.official\n\n📩 Liên hệ đồng hành: donghanh@chiensiquacam.vn \n📩 Liên hệ truyền thông: truyenthong@chiensiquacam.vn\n\n© Bản quyền thuộc về Bộ Công an và Công ty Zeit Media.",
+      "translatedText": "CHIẾN SĨ QUẢ CẢM Tập 3| Dương Lâm bật khóc giữa biển lửa, chuyện gì đang xảy ra với Phan Mạnh Quỳnh?\n#ChienSiQuaCam #BoCongan #Zeit #CSQC\n#chuongtrinhthucte #gameshow #linhcuuhoa #línhcứuhỏa #leduongbaolam #lienbinhphat #mono #songluan #tienluat #thanhtrung #quocthien #nekole #phanmanhquynh #ngokienhuy #longhatnhai #kieuminhtuan #binzdapoet #binz #hungnguyen \n\n► Xem Full Chiến Sĩ Quả Cảm tại:    • FULL - CHIẾN SĨ QUẢ CẢM © Bản quyền thuộc ...  \n📣 Đăng ký kênh Chiến Sĩ Quả Cảm để xem các nội dung hấp dẫn:    / @chiensiquacam  \n\nCHIẾN SĨ QUẢ CẢM - Chương trình truyền hình thực tế nhập vai về lực lượng Công an Nhân dân đầu tiên của Việt Nam.\n⏰ Đón xem Chiến Sĩ Quả Cảm phát sóng Chủ nhật hàng tuần\n📺 20H00 trên VTV3 | 20H30 trên YouTube Chiến Sĩ Quả Cảm & MZ Channel\n\nCác cảnh quay trong video được thực hiện chuyên nghiệp dưới sự giám sát nghiêm ngặt của chuyên gia và đội ngũ kỹ thuật. Vui lòng không tự ý tái hiện hoặc làm theo dưới bất kỳ hình thức nào.\n\n💥CHIẾN SĨ QUẢ CẢM - Lấy cảm hứng từ những câu chuyện có thật cùng tư liệu quý giá, “Chiến Sĩ Quả Cảm” tái hiện sinh động hình ảnh chiến sĩ Công an Nhân dân - bản lĩnh, nhân văn, luôn “vì nước quên thân, vì dân phục vụ”. Chương trình mong muốn không chỉ lan tỏa các giá trị chân - thiện - mỹ, mà còn mang đến góc nhìn mới mẻ, sâu sắc về vai trò và ý nghĩa của lực lượng Công an Nhân dân trong công cuộc bảo vệ an ninh quốc gia, ổn định kinh tế - chính trị - xã hội. Qua đó, góp phần khơi dậy niềm tự hào và tinh thần trách nhiệm trong thế hệ trẻ.\n\n🛡️Trong mùa đầu tiên, các nghệ sĩ gồm: Tiến Luật, Thành Trung, Kiều Minh Tuấn, Quốc Thiên, Binz, Ngô Kiến Huy, Lê Dương Bảo Lâm, Phan Mạnh Quỳnh, Neko Lê, Liên Bỉnh Phát, Song Luân, Long Hạt Nhài, Hưng Nguyễn, MONO sẽ hóa thân thành chiến sĩ Phòng cháy chữa cháy, Cứu nạn cứu hộ và Cảnh sát cơ động, trải nghiệm huấn luyện và thực chiến cùng các đơn vị tinh nhuệ. Không có kịch bản được báo trước. Không có diễn tập. Mọi cảm xúc, phản ứng và hành động đều chân thực, sống động.\n\n► Fanpage:   / chiensiquacam.mzchannel  \n► Instagram:   / chiensiquacam  \n► TikTok:   / chiensiquacam.mzchannel   | MZ Channel:   / mzchannel.official  \n► YouTube:    / @chiensiquacam   | MZ Channel:    / @mzchannel.official  \n\n📩 Liên hệ đồng hành: donghanh@chiensiquacam.vn \n📩 Liên hệ truyền thông: truyenthong@chiensiquacam.vn\n\n© Bản quyền thuộc về Bộ Công an và Công ty Zeit Media.",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/chiensiquacam",
+          "text": "#ChienSiQuaCam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bocongan",
+          "text": "#BoCongan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/zeit",
+          "text": "#Zeit"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/csqc",
+          "text": "#CSQC"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chuongtrinhthucte",
+          "text": "#chuongtrinhthucte"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gameshow",
+          "text": "#gameshow"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/linhcuuhoa",
+          "text": "#linhcuuhoa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%ADnhc%E1%BB%A9uh%E1%BB%8Fa",
+          "text": "#línhcứuhỏa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/leduongbaolam",
+          "text": "#leduongbaolam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lienbinhphat",
+          "text": "#lienbinhphat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mono",
+          "text": "#mono"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/songluan",
+          "text": "#songluan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tienluat",
+          "text": "#tienluat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thanhtrung",
+          "text": "#thanhtrung"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quocthien",
+          "text": "#quocthien"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/nekole",
+          "text": "#nekole"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phanmanhquynh",
+          "text": "#phanmanhquynh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngokienhuy",
+          "text": "#ngokienhuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/longhatnhai",
+          "text": "#longhatnhai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/kieuminhtuan",
+          "text": "#kieuminhtuan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/binzdapoet",
+          "text": "#binzdapoet"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/binz",
+          "text": "#binz"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hungnguyen",
+          "text": "#hungnguyen"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLCgARQSDdGSz-rFWvFVciI3bvFFHhaD82",
+          "text": "   • FULL - CHIẾN SĨ QUẢ CẢM © Bản quyền thuộc ...  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC7TbGjadpjgOfnUoA-iW6Dg",
+          "text": "   / @chiensiquacam  "
+        },
+        {
+          "url": "https://www.facebook.com/ChienSiQuaCam.MZChannel",
+          "text": "  / chiensiquacam.mzchannel  "
+        },
+        {
+          "url": "https://www.instagram.com/chiensiquacam",
+          "text": "  / chiensiquacam  "
+        },
+        {
+          "url": "https://www.tiktok.com/@chiensiquacam.mzchannel",
+          "text": "  / chiensiquacam.mzchannel  "
+        },
+        {
+          "url": "https://www.tiktok.com/@mzchannel.official",
+          "text": "  / mzchannel.official  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC7TbGjadpjgOfnUoA-iW6Dg",
+          "text": "   / @chiensiquacam  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCT6NvrJ5DXwEsLRrY3NM02w",
+          "text": "   / @mzchannel.official  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 1,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+S%C4%A9+Qu%E1%BA%A3+C%E1%BA%A3m+T%E1%BA%ADp+2+Full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [
+        "#phanmanhquynh",
+        "#quocthien",
+        "#linhcuuhoa"
+      ],
+      "isMembersOnly": false,
+      "input": "Chiến Sĩ Quả Cảm Tập 2 Full",
+      "isPaidContent": false
+    },
+    {
+      "title": "24 GIỜ QUẢ CẢM Tập 2 | Cười ra nước mắt với REACTION chiếc miệng \"nuốt được camera\" của Dương Lâm",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "ykre84hl-T8",
+      "url": "https://www.youtube.com/watch?v=ykre84hl-T8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ykre84hl-T8/maxresdefault.jpg",
+      "viewCount": 106343,
+      "date": "2025-08-16T11:01:29.000Z",
+      "likes": 555,
+      "location": null,
+      "channelName": "Chiến Sĩ Quả Cảm",
+      "channelUrl": "https://www.youtube.com/@ChienSiQuaCam",
+      "channelUsername": "ChienSiQuaCam",
+      "collaborators": null,
+      "channelId": "UC7TbGjadpjgOfnUoA-iW6Dg",
+      "numberOfSubscribers": 178000,
+      "duration": "00:15:29",
+      "commentsCount": 25,
+      "text": "24 GIỜ QUẢ CẢM Tập 2 | Cười ra nước mắt với REACTION chiếc miệng \"nuốt được camera\" của Dương Lâm\n► Full Tập 3: https://youtu.be/T7SWpaJ3u1E\n#ChienSiQuaCam #BoCongan #Zeit #CSQC\n#chuongtrinhthucte #gameshow #linhcuuhoa #línhcứuhỏa #leduongbaolam #lienbinhphat #mono #songluan #tienluat #thanhtrung #quocthien #nekole #phanmanhquynh #ngokienhuy #longhatnhai #kieuminhtuan #binzdapoet #binz #hungnguyen \n\n► Xem Full Chiến Sĩ Quả Cảm tại: https://www.youtube.com/playlist?list=PLCgARQSDdGSz-rFWvFVciI3bvFFHhaD82\n📣 Đăng ký kênh Chiến Sĩ Quả Cảm để xem các nội dung hấp dẫn: http://youtube.com/channel/UC7TbGjadpjgOfnUoA-iW6Dg?sub_confirmation=1\n\nCHIẾN SĨ QUẢ CẢM - Chương trình truyền hình thực tế nhập vai về lực lượng Công an Nhân dân đầu tiên của Việt Nam.\n⏰ Đón xem Chiến Sĩ Quả Cảm phát sóng Chủ nhật hàng tuần\n📺 20H00 trên VTV3 | 20H30 trên YouTube Chiến Sĩ Quả Cảm & MZ Channel\n\n_Các cảnh quay trong video được thực hiện chuyên nghiệp dưới sự giám sát nghiêm ngặt của chuyên gia và đội ngũ kỹ thuật. Vui lòng không tự ý tái hiện hoặc làm theo dưới bất kỳ hình thức nào._\n\n💥CHIẾN SĨ QUẢ CẢM - Lấy cảm hứng từ những câu chuyện có thật cùng tư liệu quý giá, “Chiến Sĩ Quả Cảm” tái hiện sinh động hình ảnh chiến sĩ Công an Nhân dân - bản lĩnh, nhân văn, luôn “vì nước quên thân, vì dân phục vụ”. Chương trình mong muốn không chỉ lan tỏa các giá trị chân - thiện - mỹ, mà còn mang đến góc nhìn mới mẻ, sâu sắc về vai trò và ý nghĩa của lực lượng Công an Nhân dân trong công cuộc bảo vệ an ninh quốc gia, ổn định kinh tế - chính trị - xã hội. Qua đó, góp phần khơi dậy niềm tự hào và tinh thần trách nhiệm trong thế hệ trẻ.\n\n🛡️Trong mùa đầu tiên, các nghệ sĩ gồm: Tiến Luật, Thành Trung, Kiều Minh Tuấn, Quốc Thiên, Binz, Ngô Kiến Huy, Lê Dương Bảo Lâm, Phan Mạnh Quỳnh, Neko Lê, Liên Bỉnh Phát, Song Luân, Long Hạt Nhài, Hưng Nguyễn, MONO sẽ hóa thân thành chiến sĩ Phòng cháy chữa cháy, Cứu nạn cứu hộ và Cảnh sát cơ động, trải nghiệm huấn luyện và thực chiến cùng các đơn vị tinh nhuệ. Không có kịch bản được báo trước. Không có diễn tập. Mọi cảm xúc, phản ứng và hành động đều chân thực, sống động.\n\n► Fanpage: https://www.facebook.com/ChienSiQuaCam.MZChannel\n► Instagram: https://www.instagram.com/chiensiquacam\n► TikTok: https://www.tiktok.com/@chiensiquacam.mzchannel | MZ Channel: https://www.tiktok.com/@mzchannel.official\n► YouTube: https://www.youtube.com/@ChienSiQuaCam | MZ Channel: https://www.youtube.com/@mzchannel.official\n\n📩 Liên hệ đồng hành: donghanh@chiensiquacam.vn \n📩 Liên hệ truyền thông: truyenthong@chiensiquacam.vn\n\n© Bản quyền thuộc về Bộ Công an và Công ty Zeit Media.",
+      "translatedText": "24 GIỜ QUẢ CẢM Tập 2 | Cười ra nước mắt với REACTION chiếc miệng \"nuốt được camera\" của Dương Lâm\n► Full Tập 3:    • CHIẾN SĨ QUẢ CẢM Tập 3| Dương Lâm bật khóc...  \n#ChienSiQuaCam #BoCongan #Zeit #CSQC\n#chuongtrinhthucte #gameshow #linhcuuhoa #línhcứuhỏa #leduongbaolam #lienbinhphat #mono #songluan #tienluat #thanhtrung #quocthien #nekole #phanmanhquynh #ngokienhuy #longhatnhai #kieuminhtuan #binzdapoet #binz #hungnguyen \n\n► Xem Full Chiến Sĩ Quả Cảm tại:    • FULL - CHIẾN SĨ QUẢ CẢM © Bản quyền thuộc ...  \n📣 Đăng ký kênh Chiến Sĩ Quả Cảm để xem các nội dung hấp dẫn:    / @chiensiquacam  \n\nCHIẾN SĨ QUẢ CẢM - Chương trình truyền hình thực tế nhập vai về lực lượng Công an Nhân dân đầu tiên của Việt Nam.\n⏰ Đón xem Chiến Sĩ Quả Cảm phát sóng Chủ nhật hàng tuần\n📺 20H00 trên VTV3 | 20H30 trên YouTube Chiến Sĩ Quả Cảm & MZ Channel\n\nCác cảnh quay trong video được thực hiện chuyên nghiệp dưới sự giám sát nghiêm ngặt của chuyên gia và đội ngũ kỹ thuật. Vui lòng không tự ý tái hiện hoặc làm theo dưới bất kỳ hình thức nào.\n\n💥CHIẾN SĨ QUẢ CẢM - Lấy cảm hứng từ những câu chuyện có thật cùng tư liệu quý giá, “Chiến Sĩ Quả Cảm” tái hiện sinh động hình ảnh chiến sĩ Công an Nhân dân - bản lĩnh, nhân văn, luôn “vì nước quên thân, vì dân phục vụ”. Chương trình mong muốn không chỉ lan tỏa các giá trị chân - thiện - mỹ, mà còn mang đến góc nhìn mới mẻ, sâu sắc về vai trò và ý nghĩa của lực lượng Công an Nhân dân trong công cuộc bảo vệ an ninh quốc gia, ổn định kinh tế - chính trị - xã hội. Qua đó, góp phần khơi dậy niềm tự hào và tinh thần trách nhiệm trong thế hệ trẻ.\n\n🛡️Trong mùa đầu tiên, các nghệ sĩ gồm: Tiến Luật, Thành Trung, Kiều Minh Tuấn, Quốc Thiên, Binz, Ngô Kiến Huy, Lê Dương Bảo Lâm, Phan Mạnh Quỳnh, Neko Lê, Liên Bỉnh Phát, Song Luân, Long Hạt Nhài, Hưng Nguyễn, MONO sẽ hóa thân thành chiến sĩ Phòng cháy chữa cháy, Cứu nạn cứu hộ và Cảnh sát cơ động, trải nghiệm huấn luyện và thực chiến cùng các đơn vị tinh nhuệ. Không có kịch bản được báo trước. Không có diễn tập. Mọi cảm xúc, phản ứng và hành động đều chân thực, sống động.\n\n► Fanpage:   / chiensiquacam.mzchannel  \n► Instagram:   / chiensiquacam  \n► TikTok:   / chiensiquacam.mzchannel   | MZ Channel:   / mzchannel.official  \n► YouTube:    / @chiensiquacam   | MZ Channel:    / @mzchannel.official  \n\n📩 Liên hệ đồng hành: donghanh@chiensiquacam.vn \n📩 Liên hệ truyền thông: truyenthong@chiensiquacam.vn\n\n© Bản quyền thuộc về Bộ Công an và Công ty Zeit Media.",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/watch?v=T7SWpaJ3u1E",
+          "text": "   • CHIẾN SĨ QUẢ CẢM Tập 3| Dương Lâm bật khóc...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chiensiquacam",
+          "text": "#ChienSiQuaCam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bocongan",
+          "text": "#BoCongan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/zeit",
+          "text": "#Zeit"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/csqc",
+          "text": "#CSQC"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chuongtrinhthucte",
+          "text": "#chuongtrinhthucte"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gameshow",
+          "text": "#gameshow"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/linhcuuhoa",
+          "text": "#linhcuuhoa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%ADnhc%E1%BB%A9uh%E1%BB%8Fa",
+          "text": "#línhcứuhỏa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/leduongbaolam",
+          "text": "#leduongbaolam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lienbinhphat",
+          "text": "#lienbinhphat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mono",
+          "text": "#mono"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/songluan",
+          "text": "#songluan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tienluat",
+          "text": "#tienluat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thanhtrung",
+          "text": "#thanhtrung"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quocthien",
+          "text": "#quocthien"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/nekole",
+          "text": "#nekole"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phanmanhquynh",
+          "text": "#phanmanhquynh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngokienhuy",
+          "text": "#ngokienhuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/longhatnhai",
+          "text": "#longhatnhai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/kieuminhtuan",
+          "text": "#kieuminhtuan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/binzdapoet",
+          "text": "#binzdapoet"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/binz",
+          "text": "#binz"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hungnguyen",
+          "text": "#hungnguyen"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLCgARQSDdGSz-rFWvFVciI3bvFFHhaD82",
+          "text": "   • FULL - CHIẾN SĨ QUẢ CẢM © Bản quyền thuộc ...  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC7TbGjadpjgOfnUoA-iW6Dg",
+          "text": "   / @chiensiquacam  "
+        },
+        {
+          "url": "https://www.facebook.com/ChienSiQuaCam.MZChannel",
+          "text": "  / chiensiquacam.mzchannel  "
+        },
+        {
+          "url": "https://www.instagram.com/chiensiquacam",
+          "text": "  / chiensiquacam  "
+        },
+        {
+          "url": "https://www.tiktok.com/@chiensiquacam.mzchannel",
+          "text": "  / chiensiquacam.mzchannel  "
+        },
+        {
+          "url": "https://www.tiktok.com/@mzchannel.official",
+          "text": "  / mzchannel.official  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC7TbGjadpjgOfnUoA-iW6Dg",
+          "text": "   / @chiensiquacam  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCT6NvrJ5DXwEsLRrY3NM02w",
+          "text": "   / @mzchannel.official  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 2,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+S%C4%A9+Qu%E1%BA%A3+C%E1%BA%A3m+T%E1%BA%ADp+2+Full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [
+        "#phanmanhquynh",
+        "#quocthien",
+        "#linhcuuhoa"
+      ],
+      "isMembersOnly": false,
+      "input": "Chiến Sĩ Quả Cảm Tập 2 Full",
+      "isPaidContent": false
+    },
+    {
+      "title": "THỰC CHIẾN: Nhập vai Cảnh sát cơ động, truy quét các tội phạm kh.ủng bố tại nhà hoang | #CSQC",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "TZLzgYq-b0U",
+      "url": "https://www.youtube.com/watch?v=TZLzgYq-b0U",
+      "thumbnailUrl": "https://i.ytimg.com/vi/TZLzgYq-b0U/maxresdefault.jpg",
+      "viewCount": 233319,
+      "date": "2025-09-30T10:26:23.000Z",
+      "likes": 1000,
+      "location": null,
+      "channelName": "Chiến Sĩ Quả Cảm",
+      "channelUrl": "https://www.youtube.com/@ChienSiQuaCam",
+      "channelUsername": "ChienSiQuaCam",
+      "collaborators": null,
+      "channelId": "UC7TbGjadpjgOfnUoA-iW6Dg",
+      "numberOfSubscribers": 178000,
+      "duration": "00:30:37",
+      "commentsCount": 75,
+      "text": "THỰC CHIẾN: Nhập vai Cảnh sát cơ động, truy quét các tội phạm kh.ủng bố tại nhà hoang | #CSQC\n► Full Tập 10: https://youtu.be/_wHGVRkZEAs\n#ChienSiQuaCam #BoCongan #Zeit #CSQC \n#chuongtrinhthucte #gameshow #canhsatcodong #leduongbaolam #lienbinhphat #mono #songluan #tienluat #thanhtrung #quocthien #nekole #phanmanhquynh #ngokienhuy #longhatnhai #kieuminhtuan #binzdapoet #binz #hungnguyen \n\n► Xem Full Chiến Sĩ Quả Cảm tại: https://www.youtube.com/playlist?list=PLCgARQSDdGSz-rFWvFVciI3bvFFHhaD82\n📣 Đăng ký kênh Chiến Sĩ Quả Cảm để xem các nội dung hấp dẫn: http://youtube.com/channel/UC7TbGjadpjgOfnUoA-iW6Dg?sub_confirmation=1\n\nCHIẾN SĨ QUẢ CẢM - Chương trình truyền hình thực tế nhập vai về lực lượng Công an Nhân dân đầu tiên của Việt Nam.\n⏰ Đón xem Chiến Sĩ Quả Cảm phát sóng Chủ nhật hàng tuần\n📺 20H00 trên VTV3 | 20H30 trên YouTube Chiến Sĩ Quả Cảm & MZ Channel\n\n#Vietcombank #VCBDigibank  #BIDV #vungbuoctienphong #VietinBank #Songkhongtheladieukhongthe #Chinsu  #Cacombiendong #Petrolimex #XangdauPetrolimex #PetrolimexAviation #NhienlieubayPetrolimex #PGTANKER #HaitrinhxanhTuonglaixanh #SeABank #BRGgolf  #BRGhospitality\n\n_Các cảnh quay trong video được thực hiện chuyên nghiệp dưới sự giám sát nghiêm ngặt của chuyên gia và đội ngũ kỹ thuật. Vui lòng không tự ý tái hiện hoặc làm theo dưới bất kỳ hình thức nào._\n\n💥CHIẾN SĨ QUẢ CẢM - Lấy cảm hứng từ những câu chuyện có thật cùng tư liệu quý giá, “Chiến Sĩ Quả Cảm” tái hiện sinh động hình ảnh chiến sĩ Công an Nhân dân - bản lĩnh, nhân văn, luôn “vì nước quên thân, vì dân phục vụ”. Chương trình mong muốn không chỉ lan tỏa các giá trị chân - thiện - mỹ, mà còn mang đến góc nhìn mới mẻ, sâu sắc về vai trò và ý nghĩa của lực lượng Công an Nhân dân trong công cuộc bảo vệ an ninh quốc gia, ổn định kinh tế - chính trị - xã hội. Qua đó, góp phần khơi dậy niềm tự hào và tinh thần trách nhiệm trong thế hệ trẻ.\n\n🛡️Trong mùa đầu tiên, các nghệ sĩ gồm: Tiến Luật, Thành Trung, Kiều Minh Tuấn, Quốc Thiên, Binz, Ngô Kiến Huy, Lê Dương Bảo Lâm, Phan Mạnh Quỳnh, Neko Lê, Liên Bỉnh Phát, Song Luân, Long Hạt Nhài, Hưng Nguyễn, MONO sẽ hóa thân thành chiến sĩ Phòng cháy chữa cháy, Cứu nạn cứu hộ và Cảnh sát cơ động, trải nghiệm huấn luyện và thực chiến cùng các đơn vị tinh nhuệ. Không có kịch bản được báo trước. Không có diễn tập. Mọi cảm xúc, phản ứng và hành động đều chân thực, sống động.\n\n► Fanpage: https://www.facebook.com/ChienSiQuaCam.MZChannel\n► Instagram: https://www.instagram.com/chiensiquacam\n► TikTok: https://www.tiktok.com/@chiensiquacam.mzchannel | MZ Channel: https://www.tiktok.com/@mzchannel.official\n► YouTube: https://www.youtube.com/@ChienSiQuaCam | MZ Channel: https://www.youtube.com/@mzchannel.official\n\n📩 Liên hệ đồng hành: donghanh@chiensiquacam.vn \n📩 Liên hệ truyền thông: truyenthong@chiensiquacam.vn\n\n© Bản quyền thuộc về Bộ Công an và Công ty Zeit Media.",
+      "translatedText": "THỰC CHIẾN: Nhập vai Cảnh sát cơ động, truy quét các tội phạm kh.ủng bố tại nhà hoang | #CSQC\n► Full Tập 10:    • CHIẾN SĨ QUẢ CẢM Tập 10 | Đối đầu KH.ỦNG B...  \n#ChienSiQuaCam #BoCongan #Zeit #CSQC \n#chuongtrinhthucte #gameshow #canhsatcodong #leduongbaolam #lienbinhphat #mono #songluan #tienluat #thanhtrung #quocthien #nekole #phanmanhquynh #ngokienhuy #longhatnhai #kieuminhtuan #binzdapoet #binz #hungnguyen \n\n► Xem Full Chiến Sĩ Quả Cảm tại:    • FULL - CHIẾN SĨ QUẢ CẢM © Bản quyền thuộc ...  \n📣 Đăng ký kênh Chiến Sĩ Quả Cảm để xem các nội dung hấp dẫn:    / @chiensiquacam  \n\nCHIẾN SĨ QUẢ CẢM - Chương trình truyền hình thực tế nhập vai về lực lượng Công an Nhân dân đầu tiên của Việt Nam.\n⏰ Đón xem Chiến Sĩ Quả Cảm phát sóng Chủ nhật hàng tuần\n📺 20H00 trên VTV3 | 20H30 trên YouTube Chiến Sĩ Quả Cảm & MZ Channel\n\n#Vietcombank #VCBDigibank  #BIDV #vungbuoctienphong #VietinBank #Songkhongtheladieukhongthe #Chinsu  #Cacombiendong #Petrolimex #XangdauPetrolimex #PetrolimexAviation #NhienlieubayPetrolimex #PGTANKER #HaitrinhxanhTuonglaixanh #SeABank #BRGgolf  #BRGhospitality\n\nCác cảnh quay trong video được thực hiện chuyên nghiệp dưới sự giám sát nghiêm ngặt của chuyên gia và đội ngũ kỹ thuật. Vui lòng không tự ý tái hiện hoặc làm theo dưới bất kỳ hình thức nào.\n\n💥CHIẾN SĨ QUẢ CẢM - Lấy cảm hứng từ những câu chuyện có thật cùng tư liệu quý giá, “Chiến Sĩ Quả Cảm” tái hiện sinh động hình ảnh chiến sĩ Công an Nhân dân - bản lĩnh, nhân văn, luôn “vì nước quên thân, vì dân phục vụ”. Chương trình mong muốn không chỉ lan tỏa các giá trị chân - thiện - mỹ, mà còn mang đến góc nhìn mới mẻ, sâu sắc về vai trò và ý nghĩa của lực lượng Công an Nhân dân trong công cuộc bảo vệ an ninh quốc gia, ổn định kinh tế - chính trị - xã hội. Qua đó, góp phần khơi dậy niềm tự hào và tinh thần trách nhiệm trong thế hệ trẻ.\n\n🛡️Trong mùa đầu tiên, các nghệ sĩ gồm: Tiến Luật, Thành Trung, Kiều Minh Tuấn, Quốc Thiên, Binz, Ngô Kiến Huy, Lê Dương Bảo Lâm, Phan Mạnh Quỳnh, Neko Lê, Liên Bỉnh Phát, Song Luân, Long Hạt Nhài, Hưng Nguyễn, MONO sẽ hóa thân thành chiến sĩ Phòng cháy chữa cháy, Cứu nạn cứu hộ và Cảnh sát cơ động, trải nghiệm huấn luyện và thực chiến cùng các đơn vị tinh nhuệ. Không có kịch bản được báo trước. Không có diễn tập. Mọi cảm xúc, phản ứng và hành động đều chân thực, sống động.\n\n► Fanpage:   / chiensiquacam.mzchannel  \n► Instagram:   / chiensiquacam  \n► TikTok:   / chiensiquacam.mzchannel   | MZ Channel:   / mzchannel.official  \n► YouTube:    / @chiensiquacam   | MZ Channel:    / @mzchannel.official  \n\n📩 Liên hệ đồng hành: donghanh@chiensiquacam.vn \n📩 Liên hệ truyền thông: truyenthong@chiensiquacam.vn\n\n© Bản quyền thuộc về Bộ Công an và Công ty Zeit Media.",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/csqc",
+          "text": "#CSQC"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=_wHGVRkZEAs&pp=0gcJCR0AztywvtLA",
+          "text": "   • CHIẾN SĨ QUẢ CẢM Tập 10 | Đối đầu KH.ỦNG B...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chiensiquacam",
+          "text": "#ChienSiQuaCam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bocongan",
+          "text": "#BoCongan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/zeit",
+          "text": "#Zeit"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/csqc",
+          "text": "#CSQC"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chuongtrinhthucte",
+          "text": "#chuongtrinhthucte"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gameshow",
+          "text": "#gameshow"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/canhsatcodong",
+          "text": "#canhsatcodong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/leduongbaolam",
+          "text": "#leduongbaolam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lienbinhphat",
+          "text": "#lienbinhphat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mono",
+          "text": "#mono"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/songluan",
+          "text": "#songluan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tienluat",
+          "text": "#tienluat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thanhtrung",
+          "text": "#thanhtrung"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quocthien",
+          "text": "#quocthien"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/nekole",
+          "text": "#nekole"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phanmanhquynh",
+          "text": "#phanmanhquynh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngokienhuy",
+          "text": "#ngokienhuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/longhatnhai",
+          "text": "#longhatnhai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/kieuminhtuan",
+          "text": "#kieuminhtuan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/binzdapoet",
+          "text": "#binzdapoet"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/binz",
+          "text": "#binz"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hungnguyen",
+          "text": "#hungnguyen"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLCgARQSDdGSz-rFWvFVciI3bvFFHhaD82",
+          "text": "   • FULL - CHIẾN SĨ QUẢ CẢM © Bản quyền thuộc ...  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC7TbGjadpjgOfnUoA-iW6Dg",
+          "text": "   / @chiensiquacam  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vietcombank",
+          "text": "#Vietcombank"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vcbdigibank",
+          "text": "#VCBDigibank"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bidv",
+          "text": "#BIDV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vungbuoctienphong",
+          "text": "#vungbuoctienphong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vietinbank",
+          "text": "#VietinBank"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/songkhongtheladieukhongthe",
+          "text": "#Songkhongtheladieukhongthe"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chinsu",
+          "text": "#Chinsu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/cacombiendong",
+          "text": "#Cacombiendong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/petrolimex",
+          "text": "#Petrolimex"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/xangdaupetrolimex",
+          "text": "#XangdauPetrolimex"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/petrolimexaviation",
+          "text": "#PetrolimexAviation"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/nhienlieubaypetrolimex",
+          "text": "#NhienlieubayPetrolimex"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/pgtanker",
+          "text": "#PGTANKER"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/haitrinhxanhtuonglaixanh",
+          "text": "#HaitrinhxanhTuonglaixanh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/seabank",
+          "text": "#SeABank"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/brggolf",
+          "text": "#BRGgolf"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/brghospitality",
+          "text": "#BRGhospitality"
+        },
+        {
+          "url": "https://www.facebook.com/ChienSiQuaCam.MZChannel",
+          "text": "  / chiensiquacam.mzchannel  "
+        },
+        {
+          "url": "https://www.instagram.com/chiensiquacam",
+          "text": "  / chiensiquacam  "
+        },
+        {
+          "url": "https://www.tiktok.com/@chiensiquacam.mzchannel",
+          "text": "  / chiensiquacam.mzchannel  "
+        },
+        {
+          "url": "https://www.tiktok.com/@mzchannel.official",
+          "text": "  / mzchannel.official  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC7TbGjadpjgOfnUoA-iW6Dg",
+          "text": "   / @chiensiquacam  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCT6NvrJ5DXwEsLRrY3NM02w",
+          "text": "   / @mzchannel.official  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 7,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+S%C4%A9+Qu%E1%BA%A3+C%E1%BA%A3m+T%E1%BA%ADp+2+Full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "Chiến Sĩ Quả Cảm Tập 2 Full",
+      "isPaidContent": false
+    },
+    {
+      "title": "24 GIỜ QUẢ CẢM Tập 11 | Dương Lâm, Quốc Thiên, Kiều Minh Tuấn mukbang cơm trưa sau khi \"ngâm nước\"",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "3RGmOhnHf3M",
+      "url": "https://www.youtube.com/watch?v=3RGmOhnHf3M",
+      "thumbnailUrl": "https://i.ytimg.com/vi/3RGmOhnHf3M/maxresdefault.jpg",
+      "viewCount": 148551,
+      "date": "2025-09-25T13:00:07.000Z",
+      "likes": 837,
+      "location": null,
+      "channelName": "Chiến Sĩ Quả Cảm",
+      "channelUrl": "https://www.youtube.com/@ChienSiQuaCam",
+      "channelUsername": "ChienSiQuaCam",
+      "collaborators": null,
+      "channelId": "UC7TbGjadpjgOfnUoA-iW6Dg",
+      "numberOfSubscribers": 178000,
+      "duration": "00:08:02",
+      "commentsCount": 27,
+      "text": "24 GIỜ QUẢ CẢM Tập 11 | Dương Lâm, Quốc Thiên, Kiều Minh Tuấn mukbang cơm trưa sau khi \"ngâm nước\"\n► Full Tập 9: https://youtu.be/oEA4LQ1jpmU\n#ChienSiQuaCam #BoCongan #Zeit #CSQC #24GioQuaCam\n#chuongtrinhthucte #gameshow #linhcuuhoa #línhcứuhỏa #leduongbaolam #lienbinhphat #mono #songluan #tienluat #thanhtrung #quocthien #nekole #phanmanhquynh #ngokienhuy #longhatnhai #kieuminhtuan #binzdapoet #binz #hungnguyen \n\n► Xem Full Chiến Sĩ Quả Cảm tại: https://www.youtube.com/playlist?list=PLCgARQSDdGSz-rFWvFVciI3bvFFHhaD82\n📣 Đăng ký kênh Chiến Sĩ Quả Cảm để xem các nội dung hấp dẫn: http://youtube.com/channel/UC7TbGjadpjgOfnUoA-iW6Dg?sub_confirmation=1\n\nCHIẾN SĨ QUẢ CẢM - Chương trình truyền hình thực tế nhập vai về lực lượng Công an Nhân dân đầu tiên của Việt Nam.\n⏰ Đón xem Chiến Sĩ Quả Cảm phát sóng Chủ nhật hàng tuần\n📺 20H00 trên VTV3 | 20H30 trên YouTube Chiến Sĩ Quả Cảm & MZ Channel\n\n_Các cảnh quay trong video được thực hiện chuyên nghiệp dưới sự giám sát nghiêm ngặt của chuyên gia và đội ngũ kỹ thuật. Vui lòng không tự ý tái hiện hoặc làm theo dưới bất kỳ hình thức nào._\n\n💥CHIẾN SĨ QUẢ CẢM - Lấy cảm hứng từ những câu chuyện có thật cùng tư liệu quý giá, “Chiến Sĩ Quả Cảm” tái hiện sinh động hình ảnh chiến sĩ Công an Nhân dân - bản lĩnh, nhân văn, luôn “vì nước quên thân, vì dân phục vụ”. Chương trình mong muốn không chỉ lan tỏa các giá trị chân - thiện - mỹ, mà còn mang đến góc nhìn mới mẻ, sâu sắc về vai trò và ý nghĩa của lực lượng Công an Nhân dân trong công cuộc bảo vệ an ninh quốc gia, ổn định kinh tế - chính trị - xã hội. Qua đó, góp phần khơi dậy niềm tự hào và tinh thần trách nhiệm trong thế hệ trẻ.\n\n🛡️Trong mùa đầu tiên, các nghệ sĩ gồm: Tiến Luật, Thành Trung, Kiều Minh Tuấn, Quốc Thiên, Binz, Ngô Kiến Huy, Lê Dương Bảo Lâm, Phan Mạnh Quỳnh, Neko Lê, Liên Bỉnh Phát, Song Luân, Long Hạt Nhài, Hưng Nguyễn, MONO sẽ hóa thân thành chiến sĩ Phòng cháy chữa cháy, Cứu nạn cứu hộ và Cảnh sát cơ động, trải nghiệm huấn luyện và thực chiến cùng các đơn vị tinh nhuệ. Không có kịch bản được báo trước. Không có diễn tập. Mọi cảm xúc, phản ứng và hành động đều chân thực, sống động.\n\n► Fanpage: https://www.facebook.com/ChienSiQuaCam.MZChannel\n► Instagram: https://www.instagram.com/chiensiquacam\n► TikTok: https://www.tiktok.com/@chiensiquacam.mzchannel | MZ Channel: https://www.tiktok.com/@mzchannel.official\n► YouTube: https://www.youtube.com/@ChienSiQuaCam | MZ Channel: https://www.youtube.com/@mzchannel.official\n\n📩 Liên hệ đồng hành: donghanh@chiensiquacam.vn \n📩 Liên hệ truyền thông: truyenthong@chiensiquacam.vn\n\n© Bản quyền thuộc về Bộ Công an và Công ty Zeit Media.",
+      "translatedText": "24 GIỜ QUẢ CẢM Tập 11 | Dương Lâm, Quốc Thiên, Kiều Minh Tuấn mukbang cơm trưa sau khi \"ngâm nước\"\n► Full Tập 9:    • CHIẾN SĨ QUẢ CẢM Tập 9 | GIAO CHIẾN ĐẦM LẦ...  \n#ChienSiQuaCam #BoCongan #Zeit #CSQC #24GioQuaCam\n#chuongtrinhthucte #gameshow #linhcuuhoa #línhcứuhỏa #leduongbaolam #lienbinhphat #mono #songluan #tienluat #thanhtrung #quocthien #nekole #phanmanhquynh #ngokienhuy #longhatnhai #kieuminhtuan #binzdapoet #binz #hungnguyen \n\n► Xem Full Chiến Sĩ Quả Cảm tại:    • FULL - CHIẾN SĨ QUẢ CẢM © Bản quyền thuộc ...  \n📣 Đăng ký kênh Chiến Sĩ Quả Cảm để xem các nội dung hấp dẫn:    / @chiensiquacam  \n\nCHIẾN SĨ QUẢ CẢM - Chương trình truyền hình thực tế nhập vai về lực lượng Công an Nhân dân đầu tiên của Việt Nam.\n⏰ Đón xem Chiến Sĩ Quả Cảm phát sóng Chủ nhật hàng tuần\n📺 20H00 trên VTV3 | 20H30 trên YouTube Chiến Sĩ Quả Cảm & MZ Channel\n\nCác cảnh quay trong video được thực hiện chuyên nghiệp dưới sự giám sát nghiêm ngặt của chuyên gia và đội ngũ kỹ thuật. Vui lòng không tự ý tái hiện hoặc làm theo dưới bất kỳ hình thức nào.\n\n💥CHIẾN SĨ QUẢ CẢM - Lấy cảm hứng từ những câu chuyện có thật cùng tư liệu quý giá, “Chiến Sĩ Quả Cảm” tái hiện sinh động hình ảnh chiến sĩ Công an Nhân dân - bản lĩnh, nhân văn, luôn “vì nước quên thân, vì dân phục vụ”. Chương trình mong muốn không chỉ lan tỏa các giá trị chân - thiện - mỹ, mà còn mang đến góc nhìn mới mẻ, sâu sắc về vai trò và ý nghĩa của lực lượng Công an Nhân dân trong công cuộc bảo vệ an ninh quốc gia, ổn định kinh tế - chính trị - xã hội. Qua đó, góp phần khơi dậy niềm tự hào và tinh thần trách nhiệm trong thế hệ trẻ.\n\n🛡️Trong mùa đầu tiên, các nghệ sĩ gồm: Tiến Luật, Thành Trung, Kiều Minh Tuấn, Quốc Thiên, Binz, Ngô Kiến Huy, Lê Dương Bảo Lâm, Phan Mạnh Quỳnh, Neko Lê, Liên Bỉnh Phát, Song Luân, Long Hạt Nhài, Hưng Nguyễn, MONO sẽ hóa thân thành chiến sĩ Phòng cháy chữa cháy, Cứu nạn cứu hộ và Cảnh sát cơ động, trải nghiệm huấn luyện và thực chiến cùng các đơn vị tinh nhuệ. Không có kịch bản được báo trước. Không có diễn tập. Mọi cảm xúc, phản ứng và hành động đều chân thực, sống động.\n\n► Fanpage:   / chiensiquacam.mzchannel  \n► Instagram:   / chiensiquacam  \n► TikTok:   / chiensiquacam.mzchannel   | MZ Channel:   / mzchannel.official  \n► YouTube:    / @chiensiquacam   | MZ Channel:    / @mzchannel.official  \n\n📩 Liên hệ đồng hành: donghanh@chiensiquacam.vn \n📩 Liên hệ truyền thông: truyenthong@chiensiquacam.vn\n\n© Bản quyền thuộc về Bộ Công an và Công ty Zeit Media.",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/watch?v=oEA4LQ1jpmU&pp=0gcJCR0AztywvtLA",
+          "text": "   • CHIẾN SĨ QUẢ CẢM Tập 9 | GIAO CHIẾN ĐẦM LẦ...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chiensiquacam",
+          "text": "#ChienSiQuaCam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bocongan",
+          "text": "#BoCongan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/zeit",
+          "text": "#Zeit"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/csqc",
+          "text": "#CSQC"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/24gioquacam",
+          "text": "#24GioQuaCam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chuongtrinhthucte",
+          "text": "#chuongtrinhthucte"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gameshow",
+          "text": "#gameshow"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/linhcuuhoa",
+          "text": "#linhcuuhoa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%ADnhc%E1%BB%A9uh%E1%BB%8Fa",
+          "text": "#línhcứuhỏa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/leduongbaolam",
+          "text": "#leduongbaolam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lienbinhphat",
+          "text": "#lienbinhphat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mono",
+          "text": "#mono"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/songluan",
+          "text": "#songluan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tienluat",
+          "text": "#tienluat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thanhtrung",
+          "text": "#thanhtrung"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quocthien",
+          "text": "#quocthien"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/nekole",
+          "text": "#nekole"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phanmanhquynh",
+          "text": "#phanmanhquynh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngokienhuy",
+          "text": "#ngokienhuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/longhatnhai",
+          "text": "#longhatnhai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/kieuminhtuan",
+          "text": "#kieuminhtuan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/binzdapoet",
+          "text": "#binzdapoet"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/binz",
+          "text": "#binz"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hungnguyen",
+          "text": "#hungnguyen"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLCgARQSDdGSz-rFWvFVciI3bvFFHhaD82",
+          "text": "   • FULL - CHIẾN SĨ QUẢ CẢM © Bản quyền thuộc ...  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC7TbGjadpjgOfnUoA-iW6Dg",
+          "text": "   / @chiensiquacam  "
+        },
+        {
+          "url": "https://www.facebook.com/ChienSiQuaCam.MZChannel",
+          "text": "  / chiensiquacam.mzchannel  "
+        },
+        {
+          "url": "https://www.instagram.com/chiensiquacam",
+          "text": "  / chiensiquacam  "
+        },
+        {
+          "url": "https://www.tiktok.com/@chiensiquacam.mzchannel",
+          "text": "  / chiensiquacam.mzchannel  "
+        },
+        {
+          "url": "https://www.tiktok.com/@mzchannel.official",
+          "text": "  / mzchannel.official  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC7TbGjadpjgOfnUoA-iW6Dg",
+          "text": "   / @chiensiquacam  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCT6NvrJ5DXwEsLRrY3NM02w",
+          "text": "   / @mzchannel.official  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 3,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+S%C4%A9+Qu%E1%BA%A3+C%E1%BA%A3m+T%E1%BA%ADp+2+Full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [
+        "#phanmanhquynh",
+        "#quocthien",
+        "#linhcuuhoa"
+      ],
+      "isMembersOnly": false,
+      "input": "Chiến Sĩ Quả Cảm Tập 2 Full",
+      "isPaidContent": false
+    },
+    {
+      "title": "CHIẾN SĨ QUẢ CẢM Tập 2|Liên Bỉnh Phát bị thương vẫn xông pha, Mono & Ngô Kiến Huy CHIẾN THẮNG nỗi sợ",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "z6XD4fEAGmA",
+      "url": "https://www.youtube.com/watch?v=z6XD4fEAGmA",
+      "thumbnailUrl": "https://i.ytimg.com/vi/z6XD4fEAGmA/maxresdefault.jpg",
+      "viewCount": 4863139,
+      "date": "2025-08-03T13:30:06.000Z",
+      "likes": 62000,
+      "location": null,
+      "channelName": "Chiến Sĩ Quả Cảm",
+      "channelUrl": "https://www.youtube.com/@ChienSiQuaCam",
+      "channelUsername": "ChienSiQuaCam",
+      "collaborators": null,
+      "channelId": "UC7TbGjadpjgOfnUoA-iW6Dg",
+      "numberOfSubscribers": 178000,
+      "duration": "01:29:58",
+      "commentsCount": 3492,
+      "text": "CHIẾN SĨ QUẢ CẢM Tập 2|Liên Bỉnh Phát bị thương vẫn xông pha, Mono & Ngô Kiến Huy CHIẾN THẮNG nỗi sợ\n#ChienSiQuaCam #BoCongan #Zeit #CSQC\n#chuongtrinhthucte #gameshow #linhcuuhoa #línhcứuhỏa #leduongbaolam #lienbinhphat #mono #songluan #tienluat #thanhtrung #quocthien #nekole #phanmanhquynh #ngokienhuy #longhatnhai #kieuminhtuan #binzdapoet #binz #hungnguyen \n\n► Xem Full Chiến Sĩ Quả Cảm tại: https://www.youtube.com/playlist?list=PLCgARQSDdGSz-rFWvFVciI3bvFFHhaD82\n📣 Đăng ký kênh Chiến Sĩ Quả Cảm để xem các nội dung hấp dẫn: http://youtube.com/channel/UC7TbGjadpjgOfnUoA-iW6Dg?sub_confirmation=1\n\nCHIẾN SĨ QUẢ CẢM - Chương trình truyền hình thực tế nhập vai về lực lượng Công an Nhân dân đầu tiên của Việt Nam.\n⏰ Đón xem Chiến Sĩ Quả Cảm phát sóng Chủ nhật hàng tuần\n📺 20H00 trên VTV3 | 20H30 trên YouTube Chiến Sĩ Quả Cảm & MZ Channel\n\n_Các cảnh quay trong video được thực hiện chuyên nghiệp dưới sự giám sát nghiêm ngặt của chuyên gia và đội ngũ kỹ thuật. Vui lòng không tự ý tái hiện hoặc làm theo dưới bất kỳ hình thức nào._\n\n💥CHIẾN SĨ QUẢ CẢM - Lấy cảm hứng từ những câu chuyện có thật cùng tư liệu quý giá, “Chiến Sĩ Quả Cảm” tái hiện sinh động hình ảnh chiến sĩ Công an Nhân dân - bản lĩnh, nhân văn, luôn “vì nước quên thân, vì dân phục vụ”. Chương trình mong muốn không chỉ lan tỏa các giá trị chân - thiện - mỹ, mà còn mang đến góc nhìn mới mẻ, sâu sắc về vai trò và ý nghĩa của lực lượng Công an Nhân dân trong công cuộc bảo vệ an ninh quốc gia, ổn định kinh tế - chính trị - xã hội. Qua đó, góp phần khơi dậy niềm tự hào và tinh thần trách nhiệm trong thế hệ trẻ.\n\n🛡️Trong mùa đầu tiên, các nghệ sĩ gồm: Tiến Luật, Thành Trung, Kiều Minh Tuấn, Quốc Thiên, Binz, Ngô Kiến Huy, Lê Dương Bảo Lâm, Phan Mạnh Quỳnh, Neko Lê, Liên Bỉnh Phát, Song Luân, Long Hạt Nhài, Hưng Nguyễn, MONO sẽ hóa thân thành chiến sĩ Phòng cháy chữa cháy, Cứu nạn cứu hộ và Cảnh sát cơ động, trải nghiệm huấn luyện và thực chiến cùng các đơn vị tinh nhuệ. Không có kịch bản được báo trước. Không có diễn tập. Mọi cảm xúc, phản ứng và hành động đều chân thực, sống động.\n\n► Fanpage: https://www.facebook.com/ChienSiQuaCam.MZChannel\n► Instagram: https://www.instagram.com/chiensiquacam\n► TikTok: https://www.tiktok.com/@chiensiquacam.mzchannel | MZ Channel: https://www.tiktok.com/@mzchannel.official\n► YouTube: https://www.youtube.com/@ChienSiQuaCam | MZ Channel: https://www.youtube.com/@mzchannel.official\n\n📩 Liên hệ đồng hành: donghanh@chiensiquacam.vn \n📩 Liên hệ truyền thông: truyenthong@chiensiquacam.vn\n\n© Bản quyền thuộc về Bộ Công an và Công ty Zeit Media.",
+      "translatedText": "CHIẾN SĨ QUẢ CẢM Tập 2|Liên Bỉnh Phát bị thương vẫn xông pha, Mono & Ngô Kiến Huy CHIẾN THẮNG nỗi sợ\n#ChienSiQuaCam #BoCongan #Zeit #CSQC\n#chuongtrinhthucte #gameshow #linhcuuhoa #línhcứuhỏa #leduongbaolam #lienbinhphat #mono #songluan #tienluat #thanhtrung #quocthien #nekole #phanmanhquynh #ngokienhuy #longhatnhai #kieuminhtuan #binzdapoet #binz #hungnguyen \n\n► Xem Full Chiến Sĩ Quả Cảm tại:    • FULL - CHIẾN SĨ QUẢ CẢM © Bản quyền thuộc ...  \n📣 Đăng ký kênh Chiến Sĩ Quả Cảm để xem các nội dung hấp dẫn:    / @chiensiquacam  \n\nCHIẾN SĨ QUẢ CẢM - Chương trình truyền hình thực tế nhập vai về lực lượng Công an Nhân dân đầu tiên của Việt Nam.\n⏰ Đón xem Chiến Sĩ Quả Cảm phát sóng Chủ nhật hàng tuần\n📺 20H00 trên VTV3 | 20H30 trên YouTube Chiến Sĩ Quả Cảm & MZ Channel\n\nCác cảnh quay trong video được thực hiện chuyên nghiệp dưới sự giám sát nghiêm ngặt của chuyên gia và đội ngũ kỹ thuật. Vui lòng không tự ý tái hiện hoặc làm theo dưới bất kỳ hình thức nào.\n\n💥CHIẾN SĨ QUẢ CẢM - Lấy cảm hứng từ những câu chuyện có thật cùng tư liệu quý giá, “Chiến Sĩ Quả Cảm” tái hiện sinh động hình ảnh chiến sĩ Công an Nhân dân - bản lĩnh, nhân văn, luôn “vì nước quên thân, vì dân phục vụ”. Chương trình mong muốn không chỉ lan tỏa các giá trị chân - thiện - mỹ, mà còn mang đến góc nhìn mới mẻ, sâu sắc về vai trò và ý nghĩa của lực lượng Công an Nhân dân trong công cuộc bảo vệ an ninh quốc gia, ổn định kinh tế - chính trị - xã hội. Qua đó, góp phần khơi dậy niềm tự hào và tinh thần trách nhiệm trong thế hệ trẻ.\n\n🛡️Trong mùa đầu tiên, các nghệ sĩ gồm: Tiến Luật, Thành Trung, Kiều Minh Tuấn, Quốc Thiên, Binz, Ngô Kiến Huy, Lê Dương Bảo Lâm, Phan Mạnh Quỳnh, Neko Lê, Liên Bỉnh Phát, Song Luân, Long Hạt Nhài, Hưng Nguyễn, MONO sẽ hóa thân thành chiến sĩ Phòng cháy chữa cháy, Cứu nạn cứu hộ và Cảnh sát cơ động, trải nghiệm huấn luyện và thực chiến cùng các đơn vị tinh nhuệ. Không có kịch bản được báo trước. Không có diễn tập. Mọi cảm xúc, phản ứng và hành động đều chân thực, sống động.\n\n► Fanpage:   / chiensiquacam.mzchannel  \n► Instagram:   / chiensiquacam  \n► TikTok:   / chiensiquacam.mzchannel   | MZ Channel:   / mzchannel.official  \n► YouTube:    / @chiensiquacam   | MZ Channel:    / @mzchannel.official  \n\n📩 Liên hệ đồng hành: donghanh@chiensiquacam.vn \n📩 Liên hệ truyền thông: truyenthong@chiensiquacam.vn\n\n© Bản quyền thuộc về Bộ Công an và Công ty Zeit Media.",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/chiensiquacam",
+          "text": "#ChienSiQuaCam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bocongan",
+          "text": "#BoCongan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/zeit",
+          "text": "#Zeit"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/csqc",
+          "text": "#CSQC"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chuongtrinhthucte",
+          "text": "#chuongtrinhthucte"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gameshow",
+          "text": "#gameshow"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/linhcuuhoa",
+          "text": "#linhcuuhoa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%ADnhc%E1%BB%A9uh%E1%BB%8Fa",
+          "text": "#línhcứuhỏa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/leduongbaolam",
+          "text": "#leduongbaolam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lienbinhphat",
+          "text": "#lienbinhphat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mono",
+          "text": "#mono"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/songluan",
+          "text": "#songluan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tienluat",
+          "text": "#tienluat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thanhtrung",
+          "text": "#thanhtrung"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quocthien",
+          "text": "#quocthien"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/nekole",
+          "text": "#nekole"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phanmanhquynh",
+          "text": "#phanmanhquynh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngokienhuy",
+          "text": "#ngokienhuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/longhatnhai",
+          "text": "#longhatnhai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/kieuminhtuan",
+          "text": "#kieuminhtuan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/binzdapoet",
+          "text": "#binzdapoet"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/binz",
+          "text": "#binz"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hungnguyen",
+          "text": "#hungnguyen"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLCgARQSDdGSz-rFWvFVciI3bvFFHhaD82",
+          "text": "   • FULL - CHIẾN SĨ QUẢ CẢM © Bản quyền thuộc ...  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC7TbGjadpjgOfnUoA-iW6Dg",
+          "text": "   / @chiensiquacam  "
+        },
+        {
+          "url": "https://www.facebook.com/ChienSiQuaCam.MZChannel",
+          "text": "  / chiensiquacam.mzchannel  "
+        },
+        {
+          "url": "https://www.instagram.com/chiensiquacam",
+          "text": "  / chiensiquacam  "
+        },
+        {
+          "url": "https://www.tiktok.com/@chiensiquacam.mzchannel",
+          "text": "  / chiensiquacam.mzchannel  "
+        },
+        {
+          "url": "https://www.tiktok.com/@mzchannel.official",
+          "text": "  / mzchannel.official  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC7TbGjadpjgOfnUoA-iW6Dg",
+          "text": "   / @chiensiquacam  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCT6NvrJ5DXwEsLRrY3NM02w",
+          "text": "   / @mzchannel.official  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 0,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+S%C4%A9+Qu%E1%BA%A3+C%E1%BA%A3m+T%E1%BA%ADp+2+Full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [
+        "#phanmanhquynh",
+        "#quocthien",
+        "#linhcuuhoa"
+      ],
+      "isMembersOnly": false,
+      "input": "Chiến Sĩ Quả Cảm Tập 2 Full",
+      "isPaidContent": false
+    },
+    {
+      "title": "CHIẾN SĨ QUẢ CẢM Tập 5 | Thực chiến kịch tính ở CHUNG CƯ CAO TẦNG, dàn \"CHỊ ĐẸP\" đổ bộ tiếp sức",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "HmlAJ2KncUA",
+      "url": "https://www.youtube.com/watch?v=HmlAJ2KncUA",
+      "thumbnailUrl": "https://i.ytimg.com/vi/HmlAJ2KncUA/maxresdefault.jpg",
+      "viewCount": 3587958,
+      "date": "2025-08-24T13:30:06.000Z",
+      "likes": 64000,
+      "location": null,
+      "channelName": "Chiến Sĩ Quả Cảm",
+      "channelUrl": "https://www.youtube.com/@ChienSiQuaCam",
+      "channelUsername": "ChienSiQuaCam",
+      "collaborators": null,
+      "channelId": "UC7TbGjadpjgOfnUoA-iW6Dg",
+      "numberOfSubscribers": 178000,
+      "duration": "02:16:40",
+      "commentsCount": 3579,
+      "text": "CHIẾN SĨ QUẢ CẢM Tập 5 | Thực chiến kịch tính ở CHUNG CƯ CAO TẦNG, dàn \"CHỊ ĐẸP\" đổ bộ tiếp sức\n#ChienSiQuaCam #BoCongan #Zeit #CSQC\n#chuongtrinhthucte #gameshow #linhcuuhoa #línhcứuhỏa #leduongbaolam #lienbinhphat #mono #songluan #tienluat #thanhtrung #quocthien #nekole #phanmanhquynh #ngokienhuy #longhatnhai #kieuminhtuan #binzdapoet #binz #hungnguyen \n\n► Xem Full Chiến Sĩ Quả Cảm tại: https://www.youtube.com/playlist?list=PLCgARQSDdGSz-rFWvFVciI3bvFFHhaD82\n📣 Đăng ký kênh Chiến Sĩ Quả Cảm để xem các nội dung hấp dẫn: http://youtube.com/channel/UC7TbGjadpjgOfnUoA-iW6Dg?sub_confirmation=1\n\nCHIẾN SĨ QUẢ CẢM - Chương trình truyền hình thực tế nhập vai về lực lượng Công an Nhân dân đầu tiên của Việt Nam.\n⏰ Đón xem Chiến Sĩ Quả Cảm phát sóng Chủ nhật hàng tuần\n📺 20H00 trên VTV3 | 20H30 trên YouTube Chiến Sĩ Quả Cảm & MZ Channel\n\n_Các cảnh quay trong video được thực hiện chuyên nghiệp dưới sự giám sát nghiêm ngặt của chuyên gia và đội ngũ kỹ thuật. Vui lòng không tự ý tái hiện hoặc làm theo dưới bất kỳ hình thức nào._\n\n💥CHIẾN SĨ QUẢ CẢM - Lấy cảm hứng từ những câu chuyện có thật cùng tư liệu quý giá, “Chiến Sĩ Quả Cảm” tái hiện sinh động hình ảnh chiến sĩ Công an Nhân dân - bản lĩnh, nhân văn, luôn “vì nước quên thân, vì dân phục vụ”. Chương trình mong muốn không chỉ lan tỏa các giá trị chân - thiện - mỹ, mà còn mang đến góc nhìn mới mẻ, sâu sắc về vai trò và ý nghĩa của lực lượng Công an Nhân dân trong công cuộc bảo vệ an ninh quốc gia, ổn định kinh tế - chính trị - xã hội. Qua đó, góp phần khơi dậy niềm tự hào và tinh thần trách nhiệm trong thế hệ trẻ.\n\n🛡️Trong mùa đầu tiên, các nghệ sĩ gồm: Tiến Luật, Thành Trung, Kiều Minh Tuấn, Quốc Thiên, Binz, Ngô Kiến Huy, Lê Dương Bảo Lâm, Phan Mạnh Quỳnh, Neko Lê, Liên Bỉnh Phát, Song Luân, Long Hạt Nhài, Hưng Nguyễn, MONO sẽ hóa thân thành chiến sĩ Phòng cháy chữa cháy, Cứu nạn cứu hộ và Cảnh sát cơ động, trải nghiệm huấn luyện và thực chiến cùng các đơn vị tinh nhuệ. Không có kịch bản được báo trước. Không có diễn tập. Mọi cảm xúc, phản ứng và hành động đều chân thực, sống động.\n\n► Fanpage: https://www.facebook.com/ChienSiQuaCam.MZChannel\n► Instagram: https://www.instagram.com/chiensiquacam\n► TikTok: https://www.tiktok.com/@chiensiquacam.mzchannel | MZ Channel: https://www.tiktok.com/@mzchannel.official\n► YouTube: https://www.youtube.com/@ChienSiQuaCam | MZ Channel: https://www.youtube.com/@mzchannel.official\n\n📩 Liên hệ đồng hành: donghanh@chiensiquacam.vn \n📩 Liên hệ truyền thông: truyenthong@chiensiquacam.vn\n\n© Bản quyền thuộc về Bộ Công an và Công ty Zeit Media.",
+      "translatedText": "CHIẾN SĨ QUẢ CẢM Tập 5 | Thực chiến kịch tính ở CHUNG CƯ CAO TẦNG, dàn \"CHỊ ĐẸP\" đổ bộ tiếp sức\n#ChienSiQuaCam #BoCongan #Zeit #CSQC\n#chuongtrinhthucte #gameshow #linhcuuhoa #línhcứuhỏa #leduongbaolam #lienbinhphat #mono #songluan #tienluat #thanhtrung #quocthien #nekole #phanmanhquynh #ngokienhuy #longhatnhai #kieuminhtuan #binzdapoet #binz #hungnguyen \n\n► Xem Full Chiến Sĩ Quả Cảm tại:    • FULL - CHIẾN SĨ QUẢ CẢM © Bản quyền thuộc ...  \n📣 Đăng ký kênh Chiến Sĩ Quả Cảm để xem các nội dung hấp dẫn:    / @chiensiquacam  \n\nCHIẾN SĨ QUẢ CẢM - Chương trình truyền hình thực tế nhập vai về lực lượng Công an Nhân dân đầu tiên của Việt Nam.\n⏰ Đón xem Chiến Sĩ Quả Cảm phát sóng Chủ nhật hàng tuần\n📺 20H00 trên VTV3 | 20H30 trên YouTube Chiến Sĩ Quả Cảm & MZ Channel\n\nCác cảnh quay trong video được thực hiện chuyên nghiệp dưới sự giám sát nghiêm ngặt của chuyên gia và đội ngũ kỹ thuật. Vui lòng không tự ý tái hiện hoặc làm theo dưới bất kỳ hình thức nào.\n\n💥CHIẾN SĨ QUẢ CẢM - Lấy cảm hứng từ những câu chuyện có thật cùng tư liệu quý giá, “Chiến Sĩ Quả Cảm” tái hiện sinh động hình ảnh chiến sĩ Công an Nhân dân - bản lĩnh, nhân văn, luôn “vì nước quên thân, vì dân phục vụ”. Chương trình mong muốn không chỉ lan tỏa các giá trị chân - thiện - mỹ, mà còn mang đến góc nhìn mới mẻ, sâu sắc về vai trò và ý nghĩa của lực lượng Công an Nhân dân trong công cuộc bảo vệ an ninh quốc gia, ổn định kinh tế - chính trị - xã hội. Qua đó, góp phần khơi dậy niềm tự hào và tinh thần trách nhiệm trong thế hệ trẻ.\n\n🛡️Trong mùa đầu tiên, các nghệ sĩ gồm: Tiến Luật, Thành Trung, Kiều Minh Tuấn, Quốc Thiên, Binz, Ngô Kiến Huy, Lê Dương Bảo Lâm, Phan Mạnh Quỳnh, Neko Lê, Liên Bỉnh Phát, Song Luân, Long Hạt Nhài, Hưng Nguyễn, MONO sẽ hóa thân thành chiến sĩ Phòng cháy chữa cháy, Cứu nạn cứu hộ và Cảnh sát cơ động, trải nghiệm huấn luyện và thực chiến cùng các đơn vị tinh nhuệ. Không có kịch bản được báo trước. Không có diễn tập. Mọi cảm xúc, phản ứng và hành động đều chân thực, sống động.\n\n► Fanpage:   / chiensiquacam.mzchannel  \n► Instagram:   / chiensiquacam  \n► TikTok:   / chiensiquacam.mzchannel   | MZ Channel:   / mzchannel.official  \n► YouTube:    / @chiensiquacam   | MZ Channel:    / @mzchannel.official  \n\n📩 Liên hệ đồng hành: donghanh@chiensiquacam.vn \n📩 Liên hệ truyền thông: truyenthong@chiensiquacam.vn\n\n© Bản quyền thuộc về Bộ Công an và Công ty Zeit Media.",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/chiensiquacam",
+          "text": "#ChienSiQuaCam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bocongan",
+          "text": "#BoCongan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/zeit",
+          "text": "#Zeit"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/csqc",
+          "text": "#CSQC"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chuongtrinhthucte",
+          "text": "#chuongtrinhthucte"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gameshow",
+          "text": "#gameshow"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/linhcuuhoa",
+          "text": "#linhcuuhoa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%ADnhc%E1%BB%A9uh%E1%BB%8Fa",
+          "text": "#línhcứuhỏa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/leduongbaolam",
+          "text": "#leduongbaolam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lienbinhphat",
+          "text": "#lienbinhphat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mono",
+          "text": "#mono"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/songluan",
+          "text": "#songluan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tienluat",
+          "text": "#tienluat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thanhtrung",
+          "text": "#thanhtrung"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quocthien",
+          "text": "#quocthien"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/nekole",
+          "text": "#nekole"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phanmanhquynh",
+          "text": "#phanmanhquynh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngokienhuy",
+          "text": "#ngokienhuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/longhatnhai",
+          "text": "#longhatnhai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/kieuminhtuan",
+          "text": "#kieuminhtuan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/binzdapoet",
+          "text": "#binzdapoet"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/binz",
+          "text": "#binz"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hungnguyen",
+          "text": "#hungnguyen"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLCgARQSDdGSz-rFWvFVciI3bvFFHhaD82",
+          "text": "   • FULL - CHIẾN SĨ QUẢ CẢM © Bản quyền thuộc ...  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC7TbGjadpjgOfnUoA-iW6Dg",
+          "text": "   / @chiensiquacam  "
+        },
+        {
+          "url": "https://www.facebook.com/ChienSiQuaCam.MZChannel",
+          "text": "  / chiensiquacam.mzchannel  "
+        },
+        {
+          "url": "https://www.instagram.com/chiensiquacam",
+          "text": "  / chiensiquacam  "
+        },
+        {
+          "url": "https://www.tiktok.com/@chiensiquacam.mzchannel",
+          "text": "  / chiensiquacam.mzchannel  "
+        },
+        {
+          "url": "https://www.tiktok.com/@mzchannel.official",
+          "text": "  / mzchannel.official  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC7TbGjadpjgOfnUoA-iW6Dg",
+          "text": "   / @chiensiquacam  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCT6NvrJ5DXwEsLRrY3NM02w",
+          "text": "   / @mzchannel.official  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 9,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+S%C4%A9+Qu%E1%BA%A3+C%E1%BA%A3m+T%E1%BA%ADp+2+Full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [
+        "#phanmanhquynh",
+        "#quocthien",
+        "#linhcuuhoa"
+      ],
+      "isMembersOnly": false,
+      "input": "Chiến Sĩ Quả Cảm Tập 2 Full",
+      "isPaidContent": false
+    },
+    {
+      "title": "[Neko Reaction] Chiến Sĩ Quả Cảm - Tập 2",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "Fm4I_CFJMNw",
+      "url": "https://www.youtube.com/watch?v=Fm4I_CFJMNw",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Fm4I_CFJMNw/maxresdefault.jpg",
+      "viewCount": 32648,
+      "date": "2025-08-12T08:51:31.000Z",
+      "likes": 821,
+      "location": null,
+      "channelName": "Neko Land",
+      "channelUrl": "https://www.youtube.com/@NekoLandYT",
+      "channelUsername": "NekoLandYT",
+      "collaborators": null,
+      "channelId": "UC-TSfTBp87R0Xiw8nD4PlBg",
+      "numberOfSubscribers": 389000,
+      "duration": "01:47:10",
+      "commentsCount": 35,
+      "text": "[Neko Reaction] Chiến Sĩ Quả Cảm - Tập 2\n#nekoland #nekoreaction #ChienSiQuaCam #BoCongan #CSQC\n----------------------------------------------------------------------------------------------\n👉Neko Rection Mua Vui: https://www.youtube.com/watch?v=fNTYL1tyQU4&list=PLlHulr2cJNdJEMVjaEAxEDl2J6IW7Y7g0\n👉Phản Phong Thần: https://www.youtube.com/watch?v=WS75BBGJ-9k&list=PLlHulr2cJNdIf7HhU838xAblGgwjE7QhZ\n👉Hắc Ám Tây Du: https://www.youtube.com/watch?v=Gu00o9fkYpI&list=PLlHulr2cJNdLTyZZ0AXhXVv7dSLGvkB9n\n---------------------------------------------------------------------------------------------------\nĐể theo dõi thông tin Neko Lê 💙\n🙀Facebook Neko Lê: https://www.facebook.com/neko.light\n😽Fanpage Neko Lê: https://www.facebook.com/nekolefanpage\n😸Fanpage Neko Land: https://www.facebook.com/nekolandpage\n😻Instagram Neko Lê: https://www.instagram.com/neko.le23\n😼Tiktok Neko Lê: https://www.tiktok.com/@neko.land23\n😺Kênh thông báo FB: https://www.facebook.com/messages/t/7936705016456848\n😺Kênh thông báo IG: https://www.instagram.com/channel/AbYzOKTyteIrUyqh/\n😺Tham gia cộng đồng Neko Lê nhỏ nhẹ: https://www.facebook.com/groups/5892618167507797\n---------------------------------------------------------------------------------------------------\n© Bản quyền thuộc về Neko Land© \nCopyright by Neko Land \n☞ Do not Reup",
+      "translatedText": "[Neko Reaction] Chiến Sĩ Quả Cảm - Tập 2\n#nekoland #nekoreaction #ChienSiQuaCam #BoCongan #CSQC\n----------------------------------------------------------------------------------------------\n👉Neko Rection Mua Vui:    • [Neko Reaction] 2 ngày 1 đêm tập 36 mùa 2 ...  \n👉Phản Phong Thần:    • Phản Phong Thần Tập 1  \n👉Hắc Ám Tây Du:    • Hắc Ám Tây Du tập 158  \n---------------------------------------------------------------------------------------------------\nĐể theo dõi thông tin Neko Lê 💙\n🙀Facebook Neko Lê:   / neko.light  \n😽Fanpage Neko Lê:   / nekolefanpage  \n😸Fanpage Neko Land:   / nekolandpage  \n😻Instagram Neko Lê:   / neko.le23  \n😼Tiktok Neko Lê:   / neko.land23  \n😺Kênh thông báo FB:   / 7936705016456848  \n😺Kênh thông báo IG:   / abyzoktyteiruyqh  \n😺Tham gia cộng đồng Neko Lê nhỏ nhẹ:   / 5892618167507797  \n---------------------------------------------------------------------------------------------------\n© Bản quyền thuộc về Neko Land© \nCopyright by Neko Land \n☞ Do not Reup",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/nekoland",
+          "text": "#nekoland"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/nekoreaction",
+          "text": "#nekoreaction"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chiensiquacam",
+          "text": "#ChienSiQuaCam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bocongan",
+          "text": "#BoCongan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/csqc",
+          "text": "#CSQC"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=fNTYL1tyQU4&list=PLlHulr2cJNdJEMVjaEAxEDl2J6IW7Y7g0&index=1",
+          "text": "   • [Neko Reaction] 2 ngày 1 đêm tập 36 mùa 2 ...  "
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=WS75BBGJ-9k&list=PLlHulr2cJNdIf7HhU838xAblGgwjE7QhZ&index=1",
+          "text": "   • Phản Phong Thần Tập 1  "
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=Gu00o9fkYpI&list=PLlHulr2cJNdLTyZZ0AXhXVv7dSLGvkB9n&index=1",
+          "text": "   • Hắc Ám Tây Du tập 158  "
+        },
+        {
+          "url": "https://www.facebook.com/neko.light",
+          "text": "  / neko.light  "
+        },
+        {
+          "url": "https://www.facebook.com/nekolefanpage",
+          "text": "  / nekolefanpage  "
+        },
+        {
+          "url": "https://www.facebook.com/nekolandpage",
+          "text": "  / nekolandpage  "
+        },
+        {
+          "url": "https://www.instagram.com/neko.le23",
+          "text": "  / neko.le23  "
+        },
+        {
+          "url": "https://www.tiktok.com/@neko.land23",
+          "text": "  / neko.land23  "
+        },
+        {
+          "url": "https://www.facebook.com/messages/t/7936705016456848",
+          "text": "  / 7936705016456848  "
+        },
+        {
+          "url": "https://www.instagram.com/channel/AbYzOKTyteIrUyqh/",
+          "text": "  / abyzoktyteiruyqh  "
+        },
+        {
+          "url": "https://www.facebook.com/groups/5892618167507797",
+          "text": "  / 5892618167507797  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 8,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+S%C4%A9+Qu%E1%BA%A3+C%E1%BA%A3m+T%E1%BA%ADp+2+Full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [
+        "#CSQC",
+        "#ChienSiQuaCam",
+        "#BoCongan"
+      ],
+      "isMembersOnly": false,
+      "input": "Chiến Sĩ Quả Cảm Tập 2 Full",
+      "isPaidContent": false
+    },
+    {
+      "title": "CHIẾN SĨ QUẢ CẢM Tập 1 | Hành trình bắt đầu: Ngạt khói, ngất xỉu, VƯỢT QUA hay BỎ CUỘC?",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "ULT3FbPW_MM",
+      "url": "https://www.youtube.com/watch?v=ULT3FbPW_MM",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ULT3FbPW_MM/maxresdefault.jpg",
+      "viewCount": 7965022,
+      "date": "2025-07-27T13:30:07.000Z",
+      "likes": 107000,
+      "location": null,
+      "channelName": "Chiến Sĩ Quả Cảm",
+      "channelUrl": "https://www.youtube.com/@ChienSiQuaCam",
+      "channelUsername": "ChienSiQuaCam",
+      "collaborators": null,
+      "channelId": "UC7TbGjadpjgOfnUoA-iW6Dg",
+      "numberOfSubscribers": 178000,
+      "duration": "02:18:24",
+      "commentsCount": 7678,
+      "text": "CHIẾN SĨ QUẢ CẢM Tập 1 | Hành trình bắt đầu: Ngạt khói, ngất xỉu, VƯỢT QUA hay BỎ CUỘC?\n#ChienSiQuaCam #BoCongan #Zeit #CSQC\n#chuongtrinhthucte #gameshow #linhcuuhoa #línhcứuhỏa #leduongbaolam #lienbinhphat #mono #songluan #tienluat #thanhtrung #quocthien #nekole #phanmanhquynh #ngokienhuy #longhatnhai #kieuminhtuan #binzdapoet #binz #hungnguyen \n\n► Xem Full Chiến Sĩ Quả Cảm tại: https://www.youtube.com/playlist?list=PLCgARQSDdGSz-rFWvFVciI3bvFFHhaD82\n📣 Đăng ký kênh Chiến Sĩ Quả Cảm để xem các nội dung hấp dẫn: http://youtube.com/channel/UC7TbGjadpjgOfnUoA-iW6Dg?sub_confirmation=1\n\nCHIẾN SĨ QUẢ CẢM - Chương trình truyền hình thực tế nhập vai về lực lượng Công an Nhân dân đầu tiên của Việt Nam.\n⏰ Đón xem Chiến Sĩ Quả Cảm phát sóng Chủ nhật hàng tuần\n📺 20H00 trên VTV3 | 20H30 trên YouTube Chiến Sĩ Quả Cảm & MZ Channel\n\n_Các cảnh quay trong video được thực hiện chuyên nghiệp dưới sự giám sát nghiêm ngặt của chuyên gia và đội ngũ kỹ thuật. Vui lòng không tự ý tái hiện hoặc làm theo dưới bất kỳ hình thức nào._\n\n💥CHIẾN SĨ QUẢ CẢM - Lấy cảm hứng từ những câu chuyện có thật cùng tư liệu quý giá, “Chiến Sĩ Quả Cảm” tái hiện sinh động hình ảnh chiến sĩ Công an Nhân dân - bản lĩnh, nhân văn, luôn “vì nước quên thân, vì dân phục vụ”. Chương trình mong muốn không chỉ lan tỏa các giá trị chân - thiện - mỹ, mà còn mang đến góc nhìn mới mẻ, sâu sắc về vai trò và ý nghĩa của lực lượng Công an Nhân dân trong công cuộc bảo vệ an ninh quốc gia, ổn định kinh tế - chính trị - xã hội. Qua đó, góp phần khơi dậy niềm tự hào và tinh thần trách nhiệm trong thế hệ trẻ.\n\n🛡️Trong mùa đầu tiên, các nghệ sĩ gồm: Tiến Luật, Thành Trung, Kiều Minh Tuấn, Quốc Thiên, Binz, Ngô Kiến Huy, Lê Dương Bảo Lâm, Phan Mạnh Quỳnh, Neko Lê, Liên Bỉnh Phát, Song Luân, Long Hạt Nhài, Hưng Nguyễn, MONO sẽ hóa thân thành chiến sĩ Phòng cháy chữa cháy, Cứu nạn cứu hộ và Cảnh sát cơ động, trải nghiệm huấn luyện và thực chiến cùng các đơn vị tinh nhuệ. Không có kịch bản được báo trước. Không có diễn tập. Mọi cảm xúc, phản ứng và hành động đều chân thực, sống động.\n\n► Fanpage: https://www.facebook.com/ChienSiQuaCam.MZChannel\n► Instagram: https://www.instagram.com/chiensiquacam\n► TikTok: https://www.tiktok.com/@chiensiquacam.mzchannel | MZ Channel: https://www.tiktok.com/@mzchannel.official\n► YouTube: https://www.youtube.com/@ChienSiQuaCam | MZ Channel: https://www.youtube.com/@mzchannel.official\n\n📩 Liên hệ đồng hành: donghanh@chiensiquacam.vn \n📩 Liên hệ truyền thông: truyenthong@chiensiquacam.vn\n\n© Bản quyền thuộc về Bộ Công an và Công ty Zeit Media.",
+      "translatedText": "CHIẾN SĨ QUẢ CẢM Tập 1 | Hành trình bắt đầu: Ngạt khói, ngất xỉu, VƯỢT QUA hay BỎ CUỘC?\n#ChienSiQuaCam #BoCongan #Zeit #CSQC\n#chuongtrinhthucte #gameshow #linhcuuhoa #línhcứuhỏa #leduongbaolam #lienbinhphat #mono #songluan #tienluat #thanhtrung #quocthien #nekole #phanmanhquynh #ngokienhuy #longhatnhai #kieuminhtuan #binzdapoet #binz #hungnguyen \n\n► Xem Full Chiến Sĩ Quả Cảm tại:    • FULL - CHIẾN SĨ QUẢ CẢM © Bản quyền thuộc ...  \n📣 Đăng ký kênh Chiến Sĩ Quả Cảm để xem các nội dung hấp dẫn:    / @chiensiquacam  \n\nCHIẾN SĨ QUẢ CẢM - Chương trình truyền hình thực tế nhập vai về lực lượng Công an Nhân dân đầu tiên của Việt Nam.\n⏰ Đón xem Chiến Sĩ Quả Cảm phát sóng Chủ nhật hàng tuần\n📺 20H00 trên VTV3 | 20H30 trên YouTube Chiến Sĩ Quả Cảm & MZ Channel\n\nCác cảnh quay trong video được thực hiện chuyên nghiệp dưới sự giám sát nghiêm ngặt của chuyên gia và đội ngũ kỹ thuật. Vui lòng không tự ý tái hiện hoặc làm theo dưới bất kỳ hình thức nào.\n\n💥CHIẾN SĨ QUẢ CẢM - Lấy cảm hứng từ những câu chuyện có thật cùng tư liệu quý giá, “Chiến Sĩ Quả Cảm” tái hiện sinh động hình ảnh chiến sĩ Công an Nhân dân - bản lĩnh, nhân văn, luôn “vì nước quên thân, vì dân phục vụ”. Chương trình mong muốn không chỉ lan tỏa các giá trị chân - thiện - mỹ, mà còn mang đến góc nhìn mới mẻ, sâu sắc về vai trò và ý nghĩa của lực lượng Công an Nhân dân trong công cuộc bảo vệ an ninh quốc gia, ổn định kinh tế - chính trị - xã hội. Qua đó, góp phần khơi dậy niềm tự hào và tinh thần trách nhiệm trong thế hệ trẻ.\n\n🛡️Trong mùa đầu tiên, các nghệ sĩ gồm: Tiến Luật, Thành Trung, Kiều Minh Tuấn, Quốc Thiên, Binz, Ngô Kiến Huy, Lê Dương Bảo Lâm, Phan Mạnh Quỳnh, Neko Lê, Liên Bỉnh Phát, Song Luân, Long Hạt Nhài, Hưng Nguyễn, MONO sẽ hóa thân thành chiến sĩ Phòng cháy chữa cháy, Cứu nạn cứu hộ và Cảnh sát cơ động, trải nghiệm huấn luyện và thực chiến cùng các đơn vị tinh nhuệ. Không có kịch bản được báo trước. Không có diễn tập. Mọi cảm xúc, phản ứng và hành động đều chân thực, sống động.\n\n► Fanpage:   / chiensiquacam.mzchannel  \n► Instagram:   / chiensiquacam  \n► TikTok:   / chiensiquacam.mzchannel   | MZ Channel:   / mzchannel.official  \n► YouTube:    / @chiensiquacam   | MZ Channel:    / @mzchannel.official  \n\n📩 Liên hệ đồng hành: donghanh@chiensiquacam.vn \n📩 Liên hệ truyền thông: truyenthong@chiensiquacam.vn\n\n© Bản quyền thuộc về Bộ Công an và Công ty Zeit Media.",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/chiensiquacam",
+          "text": "#ChienSiQuaCam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bocongan",
+          "text": "#BoCongan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/zeit",
+          "text": "#Zeit"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/csqc",
+          "text": "#CSQC"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chuongtrinhthucte",
+          "text": "#chuongtrinhthucte"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gameshow",
+          "text": "#gameshow"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/linhcuuhoa",
+          "text": "#linhcuuhoa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%ADnhc%E1%BB%A9uh%E1%BB%8Fa",
+          "text": "#línhcứuhỏa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/leduongbaolam",
+          "text": "#leduongbaolam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lienbinhphat",
+          "text": "#lienbinhphat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mono",
+          "text": "#mono"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/songluan",
+          "text": "#songluan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tienluat",
+          "text": "#tienluat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thanhtrung",
+          "text": "#thanhtrung"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quocthien",
+          "text": "#quocthien"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/nekole",
+          "text": "#nekole"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phanmanhquynh",
+          "text": "#phanmanhquynh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngokienhuy",
+          "text": "#ngokienhuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/longhatnhai",
+          "text": "#longhatnhai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/kieuminhtuan",
+          "text": "#kieuminhtuan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/binzdapoet",
+          "text": "#binzdapoet"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/binz",
+          "text": "#binz"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hungnguyen",
+          "text": "#hungnguyen"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLCgARQSDdGSz-rFWvFVciI3bvFFHhaD82",
+          "text": "   • FULL - CHIẾN SĨ QUẢ CẢM © Bản quyền thuộc ...  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC7TbGjadpjgOfnUoA-iW6Dg",
+          "text": "   / @chiensiquacam  "
+        },
+        {
+          "url": "https://www.facebook.com/ChienSiQuaCam.MZChannel",
+          "text": "  / chiensiquacam.mzchannel  "
+        },
+        {
+          "url": "https://www.instagram.com/chiensiquacam",
+          "text": "  / chiensiquacam  "
+        },
+        {
+          "url": "https://www.tiktok.com/@chiensiquacam.mzchannel",
+          "text": "  / chiensiquacam.mzchannel  "
+        },
+        {
+          "url": "https://www.tiktok.com/@mzchannel.official",
+          "text": "  / mzchannel.official  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC7TbGjadpjgOfnUoA-iW6Dg",
+          "text": "   / @chiensiquacam  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCT6NvrJ5DXwEsLRrY3NM02w",
+          "text": "   / @mzchannel.official  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 6,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+S%C4%A9+Qu%E1%BA%A3+C%E1%BA%A3m+T%E1%BA%ADp+2+Full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [
+        "#phanmanhquynh",
+        "#quocthien",
+        "#linhcuuhoa"
+      ],
+      "isMembersOnly": false,
+      "input": "Chiến Sĩ Quả Cảm Tập 2 Full",
+      "isPaidContent": false
+    },
+    {
+      "title": "CHIẾN SĨ QUẢ CẢM Tập 4 | Liên hoàn thử thách hiểm nguy: cháy tàu giữa sông, cứu người dưới vách núi",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "l1P0Sx8u1q0",
+      "url": "https://www.youtube.com/watch?v=l1P0Sx8u1q0",
+      "thumbnailUrl": "https://i.ytimg.com/vi/l1P0Sx8u1q0/maxresdefault.jpg",
+      "viewCount": 3709155,
+      "date": "2025-08-17T13:30:06.000Z",
+      "likes": 57000,
+      "location": null,
+      "channelName": "Chiến Sĩ Quả Cảm",
+      "channelUrl": "https://www.youtube.com/@ChienSiQuaCam",
+      "channelUsername": "ChienSiQuaCam",
+      "collaborators": null,
+      "channelId": "UC7TbGjadpjgOfnUoA-iW6Dg",
+      "numberOfSubscribers": 178000,
+      "duration": "02:17:56",
+      "commentsCount": 2045,
+      "text": "CHIẾN SĨ QUẢ CẢM Tập 4 | Liên hoàn thử thách hiểm nguy: cháy tàu giữa sông, cứu người dưới vách núi\n#ChienSiQuaCam #BoCongan #Zeit #CSQC\n#chuongtrinhthucte #gameshow #linhcuuhoa #línhcứuhỏa #leduongbaolam #lienbinhphat #mono #songluan #tienluat #thanhtrung #quocthien #nekole #phanmanhquynh #ngokienhuy #longhatnhai #kieuminhtuan #binzdapoet #binz #hungnguyen \n\n► Xem Full Chiến Sĩ Quả Cảm tại: https://www.youtube.com/playlist?list=PLCgARQSDdGSz-rFWvFVciI3bvFFHhaD82\n📣 Đăng ký kênh Chiến Sĩ Quả Cảm để xem các nội dung hấp dẫn: http://youtube.com/channel/UC7TbGjadpjgOfnUoA-iW6Dg?sub_confirmation=1\n\nCHIẾN SĨ QUẢ CẢM - Chương trình truyền hình thực tế nhập vai về lực lượng Công an Nhân dân đầu tiên của Việt Nam.\n⏰ Đón xem Chiến Sĩ Quả Cảm phát sóng Chủ nhật hàng tuần\n📺 20H00 trên VTV3 | 20H30 trên YouTube Chiến Sĩ Quả Cảm & MZ Channel\n\n_Các cảnh quay trong video được thực hiện chuyên nghiệp dưới sự giám sát nghiêm ngặt của chuyên gia và đội ngũ kỹ thuật. Vui lòng không tự ý tái hiện hoặc làm theo dưới bất kỳ hình thức nào._\n\n💥CHIẾN SĨ QUẢ CẢM - Lấy cảm hứng từ những câu chuyện có thật cùng tư liệu quý giá, “Chiến Sĩ Quả Cảm” tái hiện sinh động hình ảnh chiến sĩ Công an Nhân dân - bản lĩnh, nhân văn, luôn “vì nước quên thân, vì dân phục vụ”. Chương trình mong muốn không chỉ lan tỏa các giá trị chân - thiện - mỹ, mà còn mang đến góc nhìn mới mẻ, sâu sắc về vai trò và ý nghĩa của lực lượng Công an Nhân dân trong công cuộc bảo vệ an ninh quốc gia, ổn định kinh tế - chính trị - xã hội. Qua đó, góp phần khơi dậy niềm tự hào và tinh thần trách nhiệm trong thế hệ trẻ.\n\n🛡️Trong mùa đầu tiên, các nghệ sĩ gồm: Tiến Luật, Thành Trung, Kiều Minh Tuấn, Quốc Thiên, Binz, Ngô Kiến Huy, Lê Dương Bảo Lâm, Phan Mạnh Quỳnh, Neko Lê, Liên Bỉnh Phát, Song Luân, Long Hạt Nhài, Hưng Nguyễn, MONO sẽ hóa thân thành chiến sĩ Phòng cháy chữa cháy, Cứu nạn cứu hộ và Cảnh sát cơ động, trải nghiệm huấn luyện và thực chiến cùng các đơn vị tinh nhuệ. Không có kịch bản được báo trước. Không có diễn tập. Mọi cảm xúc, phản ứng và hành động đều chân thực, sống động.\n\n► Fanpage: https://www.facebook.com/ChienSiQuaCam.MZChannel\n► Instagram: https://www.instagram.com/chiensiquacam\n► TikTok: https://www.tiktok.com/@chiensiquacam.mzchannel | MZ Channel: https://www.tiktok.com/@mzchannel.official\n► YouTube: https://www.youtube.com/@ChienSiQuaCam | MZ Channel: https://www.youtube.com/@mzchannel.official\n\n📩 Liên hệ đồng hành: donghanh@chiensiquacam.vn \n📩 Liên hệ truyền thông: truyenthong@chiensiquacam.vn\n\n© Bản quyền thuộc về Bộ Công an và Công ty Zeit Media.",
+      "translatedText": "CHIẾN SĨ QUẢ CẢM Tập 4 | Liên hoàn thử thách hiểm nguy: cháy tàu giữa sông, cứu người dưới vách núi\n#ChienSiQuaCam #BoCongan #Zeit #CSQC\n#chuongtrinhthucte #gameshow #linhcuuhoa #línhcứuhỏa #leduongbaolam #lienbinhphat #mono #songluan #tienluat #thanhtrung #quocthien #nekole #phanmanhquynh #ngokienhuy #longhatnhai #kieuminhtuan #binzdapoet #binz #hungnguyen \n\n► Xem Full Chiến Sĩ Quả Cảm tại:    • FULL - CHIẾN SĨ QUẢ CẢM © Bản quyền thuộc ...  \n📣 Đăng ký kênh Chiến Sĩ Quả Cảm để xem các nội dung hấp dẫn:    / @chiensiquacam  \n\nCHIẾN SĨ QUẢ CẢM - Chương trình truyền hình thực tế nhập vai về lực lượng Công an Nhân dân đầu tiên của Việt Nam.\n⏰ Đón xem Chiến Sĩ Quả Cảm phát sóng Chủ nhật hàng tuần\n📺 20H00 trên VTV3 | 20H30 trên YouTube Chiến Sĩ Quả Cảm & MZ Channel\n\nCác cảnh quay trong video được thực hiện chuyên nghiệp dưới sự giám sát nghiêm ngặt của chuyên gia và đội ngũ kỹ thuật. Vui lòng không tự ý tái hiện hoặc làm theo dưới bất kỳ hình thức nào.\n\n💥CHIẾN SĨ QUẢ CẢM - Lấy cảm hứng từ những câu chuyện có thật cùng tư liệu quý giá, “Chiến Sĩ Quả Cảm” tái hiện sinh động hình ảnh chiến sĩ Công an Nhân dân - bản lĩnh, nhân văn, luôn “vì nước quên thân, vì dân phục vụ”. Chương trình mong muốn không chỉ lan tỏa các giá trị chân - thiện - mỹ, mà còn mang đến góc nhìn mới mẻ, sâu sắc về vai trò và ý nghĩa của lực lượng Công an Nhân dân trong công cuộc bảo vệ an ninh quốc gia, ổn định kinh tế - chính trị - xã hội. Qua đó, góp phần khơi dậy niềm tự hào và tinh thần trách nhiệm trong thế hệ trẻ.\n\n🛡️Trong mùa đầu tiên, các nghệ sĩ gồm: Tiến Luật, Thành Trung, Kiều Minh Tuấn, Quốc Thiên, Binz, Ngô Kiến Huy, Lê Dương Bảo Lâm, Phan Mạnh Quỳnh, Neko Lê, Liên Bỉnh Phát, Song Luân, Long Hạt Nhài, Hưng Nguyễn, MONO sẽ hóa thân thành chiến sĩ Phòng cháy chữa cháy, Cứu nạn cứu hộ và Cảnh sát cơ động, trải nghiệm huấn luyện và thực chiến cùng các đơn vị tinh nhuệ. Không có kịch bản được báo trước. Không có diễn tập. Mọi cảm xúc, phản ứng và hành động đều chân thực, sống động.\n\n► Fanpage:   / chiensiquacam.mzchannel  \n► Instagram:   / chiensiquacam  \n► TikTok:   / chiensiquacam.mzchannel   | MZ Channel:   / mzchannel.official  \n► YouTube:    / @chiensiquacam   | MZ Channel:    / @mzchannel.official  \n\n📩 Liên hệ đồng hành: donghanh@chiensiquacam.vn \n📩 Liên hệ truyền thông: truyenthong@chiensiquacam.vn\n\n© Bản quyền thuộc về Bộ Công an và Công ty Zeit Media.",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/chiensiquacam",
+          "text": "#ChienSiQuaCam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bocongan",
+          "text": "#BoCongan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/zeit",
+          "text": "#Zeit"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/csqc",
+          "text": "#CSQC"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chuongtrinhthucte",
+          "text": "#chuongtrinhthucte"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gameshow",
+          "text": "#gameshow"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/linhcuuhoa",
+          "text": "#linhcuuhoa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%ADnhc%E1%BB%A9uh%E1%BB%8Fa",
+          "text": "#línhcứuhỏa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/leduongbaolam",
+          "text": "#leduongbaolam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lienbinhphat",
+          "text": "#lienbinhphat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mono",
+          "text": "#mono"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/songluan",
+          "text": "#songluan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tienluat",
+          "text": "#tienluat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thanhtrung",
+          "text": "#thanhtrung"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quocthien",
+          "text": "#quocthien"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/nekole",
+          "text": "#nekole"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phanmanhquynh",
+          "text": "#phanmanhquynh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngokienhuy",
+          "text": "#ngokienhuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/longhatnhai",
+          "text": "#longhatnhai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/kieuminhtuan",
+          "text": "#kieuminhtuan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/binzdapoet",
+          "text": "#binzdapoet"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/binz",
+          "text": "#binz"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hungnguyen",
+          "text": "#hungnguyen"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLCgARQSDdGSz-rFWvFVciI3bvFFHhaD82",
+          "text": "   • FULL - CHIẾN SĨ QUẢ CẢM © Bản quyền thuộc ...  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC7TbGjadpjgOfnUoA-iW6Dg",
+          "text": "   / @chiensiquacam  "
+        },
+        {
+          "url": "https://www.facebook.com/ChienSiQuaCam.MZChannel",
+          "text": "  / chiensiquacam.mzchannel  "
+        },
+        {
+          "url": "https://www.instagram.com/chiensiquacam",
+          "text": "  / chiensiquacam  "
+        },
+        {
+          "url": "https://www.tiktok.com/@chiensiquacam.mzchannel",
+          "text": "  / chiensiquacam.mzchannel  "
+        },
+        {
+          "url": "https://www.tiktok.com/@mzchannel.official",
+          "text": "  / mzchannel.official  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC7TbGjadpjgOfnUoA-iW6Dg",
+          "text": "   / @chiensiquacam  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCT6NvrJ5DXwEsLRrY3NM02w",
+          "text": "   / @mzchannel.official  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 4,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+S%C4%A9+Qu%E1%BA%A3+C%E1%BA%A3m+T%E1%BA%ADp+2+Full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [
+        "#phanmanhquynh",
+        "#quocthien",
+        "#linhcuuhoa"
+      ],
+      "isMembersOnly": false,
+      "input": "Chiến Sĩ Quả Cảm Tập 2 Full",
+      "isPaidContent": false
+    }
+  ]
+}

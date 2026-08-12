@@ -1,0 +1,2060 @@
+{
+  "actor_name": "streamers/youtube-scraper",
+  "actor_run_id": "7Kw6a9f9wseVSZBaW",
+  "dataset_id": "R18olNmEQZFgald7L",
+  "actor_build_id": "SUk0475fgtCh9zqMt",
+  "retrieved_at": "2026-08-12T18:38:24.594334+07:00",
+  "actor_input": {
+    "maxResults": 10,
+    "maxResultsShorts": 0,
+    "maxResultStreams": 0,
+    "searchQueries": [
+      "Gia Đình Haha Tập 12 Full"
+    ],
+    "sourceBindingUrl": "https://www.youtube.com/channel/UCh_zF2FsiCflCPgYDudtcqg/search?query=Gia%20Dinh%20Haha%20Tap"
+  },
+  "run_metadata": {
+    "status": "SUCCEEDED",
+    "startedAt": "2026-08-12T11:36:46.362Z",
+    "finishedAt": "2026-08-12T11:38:17.987Z",
+    "usageTotalUsd": 0.004,
+    "chargedEventCounts": {
+      "result": 7,
+      "date-filter": 0,
+      "ai-video-description": 0,
+      "ai-video-summary": 0
+    }
+  },
+  "items": [
+    {
+      "title": "Gia đình Haha - Tập 11 | Chú thím Chín bật khóc trong bữa tối chia tay Jun Phạm và mọi người",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "2Mv3GJygGPw",
+      "url": "https://www.youtube.com/watch?v=2Mv3GJygGPw",
+      "thumbnailUrl": "https://i.ytimg.com/vi/2Mv3GJygGPw/maxresdefault.jpg",
+      "viewCount": 5835307,
+      "date": "2025-08-23T13:30:06.000Z",
+      "likes": 74000,
+      "location": null,
+      "channelName": "YEAH1 SHOW",
+      "channelUrl": "https://www.youtube.com/@YEAH1SHOW",
+      "channelUsername": "YEAH1SHOW",
+      "collaborators": [
+        {
+          "name": "YEAH1 SHOW",
+          "username": "YEAH1SHOW",
+          "url": "https://www.youtube.com/@YEAH1SHOW",
+          "channelId": "UCh_zF2FsiCflCPgYDudtcqg"
+        },
+        {
+          "name": "YeaH1 Giải Trí",
+          "username": "YEAH1_GIAITRI",
+          "url": "https://www.youtube.com/@YEAH1_GIAITRI",
+          "channelId": "UCecta98cdYVFV6L_lfH__IA"
+        },
+        {
+          "name": "YeaH1 ONE",
+          "username": "YeaH1ONE",
+          "url": "https://www.youtube.com/@YeaH1ONE",
+          "channelId": "UC_np0YZuvNMIJceE6jHeggQ"
+        },
+        {
+          "name": "YeaH1 Trending",
+          "username": "YeaH1Trending",
+          "url": "https://www.youtube.com/@YeaH1Trending",
+          "channelId": "UCO4hOvuIUEx1rPHldofBCnw"
+        }
+      ],
+      "channelId": "UCh_zF2FsiCflCPgYDudtcqg",
+      "numberOfSubscribers": 765000,
+      "duration": "03:50:43",
+      "commentsCount": 5050,
+      "text": "Gia đình Haha - Tập 11 | Chú thím Chín bật khóc trong bữa tối chia tay Jun Phạm và mọi người\n\n'Gia đình Haha' mùa đầu tiên có sự tham gia của 5 thành viên là Jun Phạm, Bùi Công Nam, Ngọc Thanh Tâm, Rhymastic và Duy Khánh. Họ sẽ cùng sống và làm việc với người dân ở nông thôn.\n\n“Gia Đình Haha” được thực hiện dựa trên sự kế thừa những dấu ấn tuyệt đẹp từ 'Gia Tộc Toàn Năng Anh Tài - Chị Đẹp'. Bởi vậy, YeaH1 cam kết sẽ mang tới cho khán giả một chương trình tích cực,  một lời tri ân sâu sắc, những kết nối có giá trị tới vùng đất chương trình đi qua. Đây cũng là cách YeaH1 đáp đền những tình cảm yêu thương mà quý khán giả đã dành tặng cho mình trong thời gian qua.\n\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Gia Đình Haha tại:\n\n📍FanPage: https://www.facebook.com/giadinhaha \n📍TikTok: https://www.tiktok.com/@giadinhhaha_official \n\n📺 Chương trình truyền hình thực tế “Gia đình Haha-Những ngày trời bao la” sẽ lên sóng ngày 14.6.2025 lúc 20:00 trên VTV3 và 20:30 trên Youtube Yeah1. Chương trình được Việt hoá và mua bản quyền từ HaHa Farmer của MangoTV\n\n#GiaDinhHaha #HahaFarmerVietNam #YeaH1 #GĐHH #giadinhhahashow  #duykhanhofficial #Rhymastic #ngocthanhtam #Junpham #buicongnam #giadinhhahatap11 #tap11giadinhhaha #giadinhhaha #giadinhhahamoinhat #thanhduy #aiphuong #chuongtrinhmoi #chuongtrinhthucte #giaitri #giảitrí #funnyfamilymoments  \n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng: https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44\n►Anh Trai Vượt Ngàn Chông Gai 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq\n►Chị Đẹp Đạp Gió 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF\n►Chị Đẹp Đạp Gió Rẽ Sóng 2023: https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A\n►Mẹ Siêu Nhân: https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3\n► Gia Đình Haha: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY\n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 SHOW: https://www.youtube.com/@YEAH1SHOW \n►YeaH1 Entertainment: https://www.youtube.com/@YEAH1_GIAITRI \n►YeaH1 Music: https://www.youtube.com/@yeah1music\n\n📣 Subscribe kênh Yeah1 Show để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4n8zC5R\n©️Bản quyền thuộc YeaH1 - nhà sản xuất các chương trình giải trí hàng đầu như Gia Đình Haha, Tân Binh Toàn Năng, Anh Trai Vượt Ngàn Chông Gai, Chị Đẹp Đạp Gió Rẽ Sóng, Dẫn Dụ Em Vào Lòng\nTham khảo các sản phẩm công nghệ, thời trang, sản phẩm tiêu dùng\n• Tương ớt CHIN-SU  ❤️\n  – Dùng cho bếp đông người, quán nhỏ hoặc gia đình hay nấu ăn  \n  👉 Link 1: https://s.shopee.vn/7AXzMVvxSt\n  👉 Link 2: https://s.shopee.vn/3B1qbAtSS2\n  👉 Link 3: https://s.shopee.vn/9pYkXR7kEU\n  👉 Link 4: https://s.shopee.vn/4fqeNwvw8o\n\nTham khảo thêm các sản phẩm tiêu dùng từ Gia Đình Haha:\nJubilant Bandana:\nhttps://benandtod.com/products/khan-kk-4150-be166\nBeaming Safari Jacket: \nhttps://benandtod.com/products/ao-vest-av-ag-rb3130-be163\nJolly Tee:\nhttps://benandtod.com/products/ao-thun-at-r1210-be164\nJolly Kid Tee:\nhttps://benandtod.com/products/ao-thun-at-kid-r1210-be165",
+      "translatedText": "Gia đình Haha - Tập 11 | Chú thím Chín bật khóc trong bữa tối chia tay Jun Phạm và mọi người\n\n'Gia đình Haha' mùa đầu tiên có sự tham gia của 5 thành viên là Jun Phạm, Bùi Công Nam, Ngọc Thanh Tâm, Rhymastic và Duy Khánh. Họ sẽ cùng sống và làm việc với người dân ở nông thôn.\n\n“Gia Đình Haha” được thực hiện dựa trên sự kế thừa những dấu ấn tuyệt đẹp từ 'Gia Tộc Toàn Năng Anh Tài - Chị Đẹp'. Bởi vậy, YeaH1 cam kết sẽ mang tới cho khán giả một chương trình tích cực,  một lời tri ân sâu sắc, những kết nối có giá trị tới vùng đất chương trình đi qua. Đây cũng là cách YeaH1 đáp đền những tình cảm yêu thương mà quý khán giả đã dành tặng cho mình trong thời gian qua.\n\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Gia Đình Haha tại:\n\n📍FanPage: https://www.facebook.com/giadinhaha \n📍TikTok: https://www.tiktok.com/@giadinhhaha_official \n\n📺 Chương trình truyền hình thực tế “Gia đình Haha-Những ngày trời bao la” sẽ lên sóng ngày 14.6.2025 lúc 20:00 trên VTV3 và 20:30 trên Youtube Yeah1. Chương trình được Việt hoá và mua bản quyền từ HaHa Farmer của MangoTV\n\n#GiaDinhHaha #HahaFarmerVietNam #YeaH1 #GĐHH #giadinhhahashow  #duykhanhofficial #Rhymastic #ngocthanhtam #Junpham #buicongnam #giadinhhahatap11 #tap11giadinhhaha #giadinhhaha #giadinhhahamoinhat #thanhduy #aiphuong #chuongtrinhmoi #chuongtrinhthucte #giaitri #giảitrí #funnyfamilymoments  \n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng:    • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  \n►Anh Trai Vượt Ngàn Chông Gai 2024:    • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  \n►Chị Đẹp Đạp Gió 2024:    • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  \n►Chị Đẹp Đạp Gió Rẽ Sóng 2023:    • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  \n►Mẹ Siêu Nhân:    • MẸ SIÊU NHÂN 2024 | Bản Quyền của YeaH1  \n► Gia Đình Haha:    • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  \n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 SHOW:    / @yeah1show   \n►YeaH1 Entertainment:    / @yeah1_giaitri   \n►YeaH1 Music:    / @yeah1music  \n\n📣 Subscribe kênh Yeah1 Show để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4n8zC5R\n©️Bản quyền thuộc YeaH1 - nhà sản xuất các chương trình giải trí hàng đầu như Gia Đình Haha, Tân Binh Toàn Năng, Anh Trai Vượt Ngàn Chông Gai, Chị Đẹp Đạp Gió Rẽ Sóng, Dẫn Dụ Em Vào Lòng\nTham khảo các sản phẩm công nghệ, thời trang, sản phẩm tiêu dùng\n• Tương ớt CHIN-SU  ❤️\n  – Dùng cho bếp đông người, quán nhỏ hoặc gia đình hay nấu ăn  \n  👉 Link 1: https://s.shopee.vn/7AXzMVvxSt\n  👉 Link 2: https://s.shopee.vn/3B1qbAtSS2\n  👉 Link 3: https://s.shopee.vn/9pYkXR7kEU\n  👉 Link 4: https://s.shopee.vn/4fqeNwvw8o\n\nTham khảo thêm các sản phẩm tiêu dùng từ Gia Đình Haha:\nJubilant Bandana:\nhttps://benandtod.com/products/khan-kk-415...\nBeaming Safari Jacket: \nhttps://benandtod.com/products/ao-vest-av-...\nJolly Tee:\nhttps://benandtod.com/products/ao-thun-at-...\nJolly Kid Tee:\nhttps://benandtod.com/products/ao-thun-at-...",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/watch?v=2Mv3GJygGPw&t=1200s",
+          "text": "20:00"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=2Mv3GJygGPw&t=1230s",
+          "text": "20:30"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhaha",
+          "text": "#GiaDinhHaha"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hahafarmervietnam",
+          "text": "#HahaFarmerVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/g%C4%91hh",
+          "text": "#GĐHH"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhahashow",
+          "text": "#giadinhhahashow"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/duykhanhofficial",
+          "text": "#duykhanhofficial"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/rhymastic",
+          "text": "#Rhymastic"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngocthanhtam",
+          "text": "#ngocthanhtam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junpham",
+          "text": "#Junpham"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/buicongnam",
+          "text": "#buicongnam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhahatap11",
+          "text": "#giadinhhahatap11"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tap11giadinhhaha",
+          "text": "#tap11giadinhhaha"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhaha",
+          "text": "#giadinhhaha"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhahamoinhat",
+          "text": "#giadinhhahamoinhat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thanhduy",
+          "text": "#thanhduy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/aiphuong",
+          "text": "#aiphuong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chuongtrinhmoi",
+          "text": "#chuongtrinhmoi"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chuongtrinhthucte",
+          "text": "#chuongtrinhthucte"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giaitri",
+          "text": "#giaitri"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gi%E1%BA%A3itr%C3%AD",
+          "text": "#giảitrí"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/funnyfamilymoments",
+          "text": "#funnyfamilymoments"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44",
+          "text": "   • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+          "text": "   • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3",
+          "text": "   • MẸ SIÊU NHÂN 2024 | Bản Quyền của YeaH1  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY",
+          "text": "   • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCh_zF2FsiCflCPgYDudtcqg",
+          "text": "   / @yeah1show  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCecta98cdYVFV6L_lfH__IA",
+          "text": "   / @yeah1_giaitri  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCI2OiZs5aVcyBUBVsgovzng",
+          "text": "   / @yeah1music  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 7,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=Gia+%C4%90%C3%ACnh+Haha+T%E1%BA%ADp+12+Full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [
+        "#aiphuong",
+        "#GiaDinhHaha",
+        "#buicongnam"
+      ],
+      "isMembersOnly": false,
+      "input": "Gia Đình Haha Tập 12 Full",
+      "isPaidContent": false
+    },
+    {
+      "title": "Gia đình Haha - Chặng 4 Full | Đắk Lắk – Nơi lưu giữ bao yêu thương khó quên",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "KUU3O9WvC9U",
+      "url": "https://www.youtube.com/watch?v=KUU3O9WvC9U",
+      "thumbnailUrl": "https://i.ytimg.com/vi/KUU3O9WvC9U/maxresdefault.jpg",
+      "viewCount": 317351,
+      "date": "2025-09-28T11:00:06.000Z",
+      "likes": 1800,
+      "location": null,
+      "channelName": "YEAH1 SHOW",
+      "channelUrl": "https://www.youtube.com/@YEAH1SHOW",
+      "channelUsername": "YEAH1SHOW",
+      "collaborators": null,
+      "channelId": "UCh_zF2FsiCflCPgYDudtcqg",
+      "numberOfSubscribers": 765000,
+      "duration": "11:40:02",
+      "commentsCount": 71,
+      "text": "Gia đình Haha - Chặng 4 Full | Đắk Lắk – Nơi lưu giữ bao yêu thương khó quên\n\n'Gia đình Haha' mùa đầu tiên có sự tham gia của 5 thành viên là Jun Phạm, Bùi Công Nam, Ngọc Thanh Tâm, Rhymastic và Duy Khánh. Họ sẽ cùng sống và làm việc với người dân ở nông thôn.\n\n“Gia Đình Haha” được thực hiện dựa trên sự kế thừa những dấu ấn tuyệt đẹp từ 'Gia Tộc Toàn Năng Anh Tài - Chị Đẹp'. Bởi vậy, YeaH1 cam kết sẽ mang tới cho khán giả một chương trình tích cực,  một lời tri ân sâu sắc, những kết nối có giá trị tới vùng đất chương trình đi qua. Đây cũng là cách YeaH1 đáp đền những tình cảm yêu thương mà quý khán giả đã dành tặng cho mình trong thời gian qua.\n\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Gia Đình Haha tại:\n\n📍FanPage: https://www.facebook.com/giadinhaha \n📍TikTok: https://www.tiktok.com/@giadinhhaha_official \n\n📺 Chương trình truyền hình thực tế “Gia đình Haha-Những ngày trời bao la” sẽ lên sóng ngày 14.6.2025 lúc 20:00 trên VTV3 và 20:30 trên Youtube Yeah1. Chương trình được Việt hoá và mua bản quyền từ HaHa Farmer của MangoTV\n\n#GiaDinhHaha #HahaFarmerVietNam #YeaH1 #GĐHH #giadinhhahashow  #duykhanhofficial #Rhymastic #ngocthanhtam #Junpham #buicongnam #giadinhhahatap15 #tap15giadinhhaha #giadinhhaha #giadinhhahamoinhat #toctien #STRONG #STRONGTrongHieu #giadinhhahavtv3 #dulich #dulichvietnam #giadinhhahatapcuoi\n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng: https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44\n►Anh Trai Vượt Ngàn Chông Gai 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq\n►Chị Đẹp Đạp Gió 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF\n►Chị Đẹp Đạp Gió Rẽ Sóng 2023: https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A\n►Mẹ Siêu Nhân: https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3\n► Gia Đình Haha: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY\n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 SHOW: https://www.youtube.com/@YEAH1SHOW \n►YeaH1 Entertainment: https://www.youtube.com/@YEAH1_GIAITRI \n►YeaH1 Music: https://www.youtube.com/@yeah1music\n\nTham khảo các sản phẩm công nghệ, thời trang, sản phẩm tiêu dùng\n🍽️ Gia vị – bếp núc gia đình:\n• Nước mắm Nam Ngư Ớt Tỏi Lý Sơn  \n  – Loại tụi mình hay dùng cho các bữa ăn gia đình, nêm nếm nhanh, vị đậm đà  \n  👉 Link 1: https://s.shopee.vn/9KbkxNXEBk\n  👉 Link 2: https://s.shopee.vn/5q1smxXhmE\n• Tương ớt CHIN-SU  \n  – Dùng cho bếp đông người, quán nhỏ hoặc gia đình hay nấu ăn  \n  👉 Link 1: https://s.shopee.vn/1Vstd1R3Gx\n  👉 Link 2: https://s.shopee.vn/AKUI9GxUKf\n\nTham khảo thêm các sản phẩm tiêu dùng từ Gia Đình Haha:\nJubilant Bandana:\nhttps://benandtod.com/products/khan-kk-4150-be166\nBeaming Safari Jacket: \nhttps://benandtod.com/products/ao-vest-av-ag-rb3130-be163\nJolly Tee:\nhttps://benandtod.com/products/ao-thun-at-r1210-be164\nJolly Kid Tee:\nhttps://benandtod.com/products/ao-thun-at-kid-r1210-be165\n\n\n📣 Subscribe kênh Yeah1 Show để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4n8zC5R\n©️ Gia Đình Haha thuộc sở hữu của Yeah 1 Show và được bảo vệ bản quyền bởi Yeah 1 Show\n©️Bản quyền thuộc YeaH1 - nhà sản xuất các chương trình giải trí hàng đầu như Gia Đình Haha, Tân Binh Toàn Năng, Anh Trai Vượt Ngàn Chông Gai, Chị Đẹp Đạp Gió Rẽ Sóng, Dẫn Dụ Em Vào Lòng",
+      "translatedText": "Gia đình Haha - Chặng 4 Full | Đắk Lắk – Nơi lưu giữ bao yêu thương khó quên\n\n'Gia đình Haha' mùa đầu tiên có sự tham gia của 5 thành viên là Jun Phạm, Bùi Công Nam, Ngọc Thanh Tâm, Rhymastic và Duy Khánh. Họ sẽ cùng sống và làm việc với người dân ở nông thôn.\n\n“Gia Đình Haha” được thực hiện dựa trên sự kế thừa những dấu ấn tuyệt đẹp từ 'Gia Tộc Toàn Năng Anh Tài - Chị Đẹp'. Bởi vậy, YeaH1 cam kết sẽ mang tới cho khán giả một chương trình tích cực,  một lời tri ân sâu sắc, những kết nối có giá trị tới vùng đất chương trình đi qua. Đây cũng là cách YeaH1 đáp đền những tình cảm yêu thương mà quý khán giả đã dành tặng cho mình trong thời gian qua.\n\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Gia Đình Haha tại:\n\n📍FanPage:   / giadinhaha   \n📍TikTok:   / giadinhhaha_official   \n\n📺 Chương trình truyền hình thực tế “Gia đình Haha-Những ngày trời bao la” sẽ lên sóng ngày 14.6.2025 lúc 20:00 trên VTV3 và 20:30 trên Youtube Yeah1. Chương trình được Việt hoá và mua bản quyền từ HaHa Farmer của MangoTV\n\n#GiaDinhHaha #HahaFarmerVietNam #YeaH1 #GĐHH #giadinhhahashow  #duykhanhofficial #Rhymastic #ngocthanhtam #Junpham #buicongnam #giadinhhahatap15 #tap15giadinhhaha #giadinhhaha #giadinhhahamoinhat #toctien #STRONG #STRONGTrongHieu #giadinhhahavtv3 #dulich #dulichvietnam #giadinhhahatapcuoi\n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng:    • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  \n►Anh Trai Vượt Ngàn Chông Gai 2024:    • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  \n►Chị Đẹp Đạp Gió 2024:    • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  \n►Chị Đẹp Đạp Gió Rẽ Sóng 2023:    • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  \n►Mẹ Siêu Nhân:    • MẸ SIÊU NHÂN 2024 | Bản Quyền của YeaH1  \n► Gia Đình Haha:    • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  \n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 SHOW:    / @yeah1show   \n►YeaH1 Entertainment:    / @yeah1_giaitri   \n►YeaH1 Music:    / @yeah1music  \n\nTham khảo các sản phẩm công nghệ, thời trang, sản phẩm tiêu dùng\n🍽️ Gia vị – bếp núc gia đình:\n• Nước mắm Nam Ngư Ớt Tỏi Lý Sơn  \n  – Loại tụi mình hay dùng cho các bữa ăn gia đình, nêm nếm nhanh, vị đậm đà  \n  👉 Link 1: https://s.shopee.vn/9KbkxNXEBk\n  👉 Link 2: https://s.shopee.vn/5q1smxXhmE\n• Tương ớt CHIN-SU  \n  – Dùng cho bếp đông người, quán nhỏ hoặc gia đình hay nấu ăn  \n  👉 Link 1: https://s.shopee.vn/1Vstd1R3Gx\n  👉 Link 2: https://s.shopee.vn/AKUI9GxUKf\n\nTham khảo thêm các sản phẩm tiêu dùng từ Gia Đình Haha:\nJubilant Bandana:\nhttps://benandtod.com/products/khan-k...\nBeaming Safari Jacket: \nhttps://benandtod.com/products/ao-ves...\nJolly Tee:\nhttps://benandtod.com/products/ao-thu...\nJolly Kid Tee:\nhttps://benandtod.com/products/ao-thu...\n\n\n📣 Subscribe kênh Yeah1 Show để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4n8zC5R\n©️ Gia Đình Haha thuộc sở hữu của Yeah 1 Show và được bảo vệ bản quyền bởi Yeah 1 Show\n©️Bản quyền thuộc YeaH1 - nhà sản xuất các chương trình giải trí hàng đầu như Gia Đình Haha, Tân Binh Toàn Năng, Anh Trai Vượt Ngàn Chông Gai, Chị Đẹp Đạp Gió Rẽ Sóng, Dẫn Dụ Em Vào Lòng",
+      "descriptionLinks": [
+        {
+          "url": "https://www.facebook.com/giadinhaha",
+          "text": "  / giadinhaha  "
+        },
+        {
+          "url": "https://www.tiktok.com/@giadinhhaha_official",
+          "text": "  / giadinhhaha_official  "
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=KUU3O9WvC9U&t=1200s",
+          "text": "20:00"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=KUU3O9WvC9U&t=1230s",
+          "text": "20:30"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhaha",
+          "text": "#GiaDinhHaha"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hahafarmervietnam",
+          "text": "#HahaFarmerVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/g%C4%91hh",
+          "text": "#GĐHH"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhahashow",
+          "text": "#giadinhhahashow"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/duykhanhofficial",
+          "text": "#duykhanhofficial"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/rhymastic",
+          "text": "#Rhymastic"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngocthanhtam",
+          "text": "#ngocthanhtam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junpham",
+          "text": "#Junpham"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/buicongnam",
+          "text": "#buicongnam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhahatap15",
+          "text": "#giadinhhahatap15"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tap15giadinhhaha",
+          "text": "#tap15giadinhhaha"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhaha",
+          "text": "#giadinhhaha"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhahamoinhat",
+          "text": "#giadinhhahamoinhat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/toctien",
+          "text": "#toctien"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/strong",
+          "text": "#STRONG"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/strongtronghieu",
+          "text": "#STRONGTrongHieu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhahavtv3",
+          "text": "#giadinhhahavtv3"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dulich",
+          "text": "#dulich"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dulichvietnam",
+          "text": "#dulichvietnam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhahatapcuoi",
+          "text": "#giadinhhahatapcuoi"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44",
+          "text": "   • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+          "text": "   • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3",
+          "text": "   • MẸ SIÊU NHÂN 2024 | Bản Quyền của YeaH1  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY",
+          "text": "   • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCh_zF2FsiCflCPgYDudtcqg",
+          "text": "   / @yeah1show  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCecta98cdYVFV6L_lfH__IA",
+          "text": "   / @yeah1_giaitri  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCI2OiZs5aVcyBUBVsgovzng",
+          "text": "   / @yeah1music  "
+        },
+        {
+          "url": "https://s.shopee.vn/9KbkxNXEBk",
+          "text": "https://s.shopee.vn/9KbkxNXEBk"
+        },
+        {
+          "url": "https://s.shopee.vn/5q1smxXhmE",
+          "text": "https://s.shopee.vn/5q1smxXhmE"
+        },
+        {
+          "url": "https://s.shopee.vn/1Vstd1R3Gx",
+          "text": "https://s.shopee.vn/1Vstd1R3Gx"
+        },
+        {
+          "url": "https://s.shopee.vn/AKUI9GxUKf",
+          "text": "https://s.shopee.vn/AKUI9GxUKf"
+        },
+        {
+          "url": "https://benandtod.com/products/khan-kk-4150-be166",
+          "text": "https://benandtod.com/products/khan-k..."
+        },
+        {
+          "url": "https://benandtod.com/products/ao-vest-av-ag-rb3130-be163",
+          "text": "https://benandtod.com/products/ao-ves..."
+        },
+        {
+          "url": "https://benandtod.com/products/ao-thun-at-r1210-be164",
+          "text": "https://benandtod.com/products/ao-thu..."
+        },
+        {
+          "url": "https://benandtod.com/products/ao-thun-at-kid-r1210-be165",
+          "text": "https://benandtod.com/products/ao-thu..."
+        },
+        {
+          "url": "https://bit.ly/4n8zC5R",
+          "text": "https://bit.ly/4n8zC5R"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 5,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=Gia+%C4%90%C3%ACnh+Haha+T%E1%BA%ADp+12+Full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "Gia Đình Haha Tập 12 Full",
+      "isPaidContent": false
+    },
+    {
+      "title": "Gia đình Haha - Chặng 3 Full | Miền Tây – Nơi chan chứa những tình cảm bất ngờ",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "c8x7Tqt1_ro",
+      "url": "https://www.youtube.com/watch?v=c8x7Tqt1_ro",
+      "thumbnailUrl": "https://i.ytimg.com/vi/c8x7Tqt1_ro/maxresdefault.jpg",
+      "viewCount": 607432,
+      "date": "2025-09-28T01:00:06.000Z",
+      "likes": 3800,
+      "location": null,
+      "channelName": "YEAH1 SHOW",
+      "channelUrl": "https://www.youtube.com/@YEAH1SHOW",
+      "channelUsername": "YEAH1SHOW",
+      "collaborators": null,
+      "channelId": "UCh_zF2FsiCflCPgYDudtcqg",
+      "numberOfSubscribers": 765000,
+      "duration": "11:38:33",
+      "commentsCount": 114,
+      "text": "Gia đình Haha - Chặng 3 Full | Miền Tây – Nơi chan chứa những tình cảm bất ngờ\n\n'Gia đình Haha' mùa đầu tiên có sự tham gia của 5 thành viên là Jun Phạm, Bùi Công Nam, Ngọc Thanh Tâm, Rhymastic và Duy Khánh. Họ sẽ cùng sống và làm việc với người dân ở nông thôn.\n\n“Gia Đình Haha” được thực hiện dựa trên sự kế thừa những dấu ấn tuyệt đẹp từ 'Gia Tộc Toàn Năng Anh Tài - Chị Đẹp'. Bởi vậy, YeaH1 cam kết sẽ mang tới cho khán giả một chương trình tích cực,  một lời tri ân sâu sắc, những kết nối có giá trị tới vùng đất chương trình đi qua. Đây cũng là cách YeaH1 đáp đền những tình cảm yêu thương mà quý khán giả đã dành tặng cho mình trong thời gian qua.\n\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Gia Đình Haha tại:\n\n📍FanPage: https://www.facebook.com/giadinhaha \n📍TikTok: https://www.tiktok.com/@giadinhhaha_official \n\n📺 Chương trình truyền hình thực tế “Gia đình Haha-Những ngày trời bao la” sẽ lên sóng ngày 14.6.2025 lúc 20:00 trên VTV3 và 20:30 trên Youtube Yeah1. Chương trình được Việt hoá và mua bản quyền từ HaHa Farmer của MangoTV\n\n#GiaDinhHaha #HahaFarmerVietNam #YeaH1 #GĐHH #giadinhhahashow  #duykhanhofficial #Rhymastic #ngocthanhtam #Junpham #buicongnam #giadinhhahatap15 #tap15giadinhhaha #giadinhhaha #giadinhhahamoinhat #toctien #STRONG #STRONGTrongHieu #giadinhhahavtv3 #dulich #dulichvietnam #giadinhhahatapcuoi\n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng: https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44\n►Anh Trai Vượt Ngàn Chông Gai 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq\n►Chị Đẹp Đạp Gió 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF\n►Chị Đẹp Đạp Gió Rẽ Sóng 2023: https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A\n►Mẹ Siêu Nhân: https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3\n► Gia Đình Haha: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY\n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 SHOW: https://www.youtube.com/@YEAH1SHOW \n►YeaH1 Entertainment: https://www.youtube.com/@YEAH1_GIAITRI \n►YeaH1 Music: https://www.youtube.com/@yeah1music\n\nTham khảo các sản phẩm công nghệ, thời trang, sản phẩm tiêu dùng\n🍽️ Gia vị – bếp núc gia đình:\n• Nước mắm Nam Ngư Ớt Tỏi Lý Sơn  \n  – Loại tụi mình hay dùng cho các bữa ăn gia đình, nêm nếm nhanh, vị đậm đà  \n  👉 Link 1: https://s.shopee.vn/9KbkxNXEBk\n  👉 Link 2: https://s.shopee.vn/5q1smxXhmE\n• Tương ớt CHIN-SU  \n  – Dùng cho bếp đông người, quán nhỏ hoặc gia đình hay nấu ăn  \n  👉 Link 1: https://s.shopee.vn/1Vstd1R3Gx\n  👉 Link 2: https://s.shopee.vn/AKUI9GxUKf\n\nTham khảo thêm các sản phẩm tiêu dùng từ Gia Đình Haha:\nJubilant Bandana:\nhttps://benandtod.com/products/khan-kk-4150-be166\nBeaming Safari Jacket: \nhttps://benandtod.com/products/ao-vest-av-ag-rb3130-be163\nJolly Tee:\nhttps://benandtod.com/products/ao-thun-at-r1210-be164\nJolly Kid Tee:\nhttps://benandtod.com/products/ao-thun-at-kid-r1210-be165\n\n📣 Subscribe kênh Yeah1 Show để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4n8zC5R\n©️ Gia Đình Haha thuộc sở hữu của Yeah 1 Show và được bảo vệ bản quyền bởi Yeah 1 Show\n©️Bản quyền thuộc YeaH1 - nhà sản xuất các chương trình giải trí hàng đầu như Gia Đình Haha, Tân Binh Toàn Năng, Anh Trai Vượt Ngàn Chông Gai, Chị Đẹp Đạp Gió Rẽ Sóng, Dẫn Dụ Em Vào Lòng",
+      "translatedText": "Gia đình Haha - Chặng 3 Full | Miền Tây – Nơi chan chứa những tình cảm bất ngờ\n\n'Gia đình Haha' mùa đầu tiên có sự tham gia của 5 thành viên là Jun Phạm, Bùi Công Nam, Ngọc Thanh Tâm, Rhymastic và Duy Khánh. Họ sẽ cùng sống và làm việc với người dân ở nông thôn.\n\n“Gia Đình Haha” được thực hiện dựa trên sự kế thừa những dấu ấn tuyệt đẹp từ 'Gia Tộc Toàn Năng Anh Tài - Chị Đẹp'. Bởi vậy, YeaH1 cam kết sẽ mang tới cho khán giả một chương trình tích cực,  một lời tri ân sâu sắc, những kết nối có giá trị tới vùng đất chương trình đi qua. Đây cũng là cách YeaH1 đáp đền những tình cảm yêu thương mà quý khán giả đã dành tặng cho mình trong thời gian qua.\n\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Gia Đình Haha tại:\n\n📍FanPage:   / giadinhaha   \n📍TikTok:   / giadinhhaha_official   \n\n📺 Chương trình truyền hình thực tế “Gia đình Haha-Những ngày trời bao la” sẽ lên sóng ngày 14.6.2025 lúc 20:00 trên VTV3 và 20:30 trên Youtube Yeah1. Chương trình được Việt hoá và mua bản quyền từ HaHa Farmer của MangoTV\n\n#GiaDinhHaha #HahaFarmerVietNam #YeaH1 #GĐHH #giadinhhahashow  #duykhanhofficial #Rhymastic #ngocthanhtam #Junpham #buicongnam #giadinhhahatap15 #tap15giadinhhaha #giadinhhaha #giadinhhahamoinhat #toctien #STRONG #STRONGTrongHieu #giadinhhahavtv3 #dulich #dulichvietnam #giadinhhahatapcuoi\n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng:    • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  \n►Anh Trai Vượt Ngàn Chông Gai 2024:    • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  \n►Chị Đẹp Đạp Gió 2024:    • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  \n►Chị Đẹp Đạp Gió Rẽ Sóng 2023:    • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  \n►Mẹ Siêu Nhân:    • MẸ SIÊU NHÂN 2024 | Bản Quyền của YeaH1  \n► Gia Đình Haha:    • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  \n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 SHOW:    / @yeah1show   \n►YeaH1 Entertainment:    / @yeah1_giaitri   \n►YeaH1 Music:    / @yeah1music  \n\nTham khảo các sản phẩm công nghệ, thời trang, sản phẩm tiêu dùng\n🍽️ Gia vị – bếp núc gia đình:\n• Nước mắm Nam Ngư Ớt Tỏi Lý Sơn  \n  – Loại tụi mình hay dùng cho các bữa ăn gia đình, nêm nếm nhanh, vị đậm đà  \n  👉 Link 1: https://s.shopee.vn/9KbkxNXEBk\n  👉 Link 2: https://s.shopee.vn/5q1smxXhmE\n• Tương ớt CHIN-SU  \n  – Dùng cho bếp đông người, quán nhỏ hoặc gia đình hay nấu ăn  \n  👉 Link 1: https://s.shopee.vn/1Vstd1R3Gx\n  👉 Link 2: https://s.shopee.vn/AKUI9GxUKf\n\nTham khảo thêm các sản phẩm tiêu dùng từ Gia Đình Haha:\nJubilant Bandana:\nhttps://benandtod.com/products/khan-k...\nBeaming Safari Jacket: \nhttps://benandtod.com/products/ao-ves...\nJolly Tee:\nhttps://benandtod.com/products/ao-thu...\nJolly Kid Tee:\nhttps://benandtod.com/products/ao-thu...\n\n📣 Subscribe kênh Yeah1 Show để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4n8zC5R\n©️ Gia Đình Haha thuộc sở hữu của Yeah 1 Show và được bảo vệ bản quyền bởi Yeah 1 Show\n©️Bản quyền thuộc YeaH1 - nhà sản xuất các chương trình giải trí hàng đầu như Gia Đình Haha, Tân Binh Toàn Năng, Anh Trai Vượt Ngàn Chông Gai, Chị Đẹp Đạp Gió Rẽ Sóng, Dẫn Dụ Em Vào Lòng",
+      "descriptionLinks": [
+        {
+          "url": "https://www.facebook.com/giadinhaha",
+          "text": "  / giadinhaha  "
+        },
+        {
+          "url": "https://www.tiktok.com/@giadinhhaha_official",
+          "text": "  / giadinhhaha_official  "
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=c8x7Tqt1_ro&t=1200s",
+          "text": "20:00"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=c8x7Tqt1_ro&t=1230s",
+          "text": "20:30"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhaha",
+          "text": "#GiaDinhHaha"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hahafarmervietnam",
+          "text": "#HahaFarmerVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/g%C4%91hh",
+          "text": "#GĐHH"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhahashow",
+          "text": "#giadinhhahashow"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/duykhanhofficial",
+          "text": "#duykhanhofficial"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/rhymastic",
+          "text": "#Rhymastic"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngocthanhtam",
+          "text": "#ngocthanhtam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junpham",
+          "text": "#Junpham"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/buicongnam",
+          "text": "#buicongnam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhahatap15",
+          "text": "#giadinhhahatap15"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tap15giadinhhaha",
+          "text": "#tap15giadinhhaha"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhaha",
+          "text": "#giadinhhaha"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhahamoinhat",
+          "text": "#giadinhhahamoinhat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/toctien",
+          "text": "#toctien"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/strong",
+          "text": "#STRONG"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/strongtronghieu",
+          "text": "#STRONGTrongHieu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhahavtv3",
+          "text": "#giadinhhahavtv3"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dulich",
+          "text": "#dulich"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dulichvietnam",
+          "text": "#dulichvietnam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhahatapcuoi",
+          "text": "#giadinhhahatapcuoi"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44",
+          "text": "   • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+          "text": "   • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3",
+          "text": "   • MẸ SIÊU NHÂN 2024 | Bản Quyền của YeaH1  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY",
+          "text": "   • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCh_zF2FsiCflCPgYDudtcqg",
+          "text": "   / @yeah1show  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCecta98cdYVFV6L_lfH__IA",
+          "text": "   / @yeah1_giaitri  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCI2OiZs5aVcyBUBVsgovzng",
+          "text": "   / @yeah1music  "
+        },
+        {
+          "url": "https://s.shopee.vn/9KbkxNXEBk",
+          "text": "https://s.shopee.vn/9KbkxNXEBk"
+        },
+        {
+          "url": "https://s.shopee.vn/5q1smxXhmE",
+          "text": "https://s.shopee.vn/5q1smxXhmE"
+        },
+        {
+          "url": "https://s.shopee.vn/1Vstd1R3Gx",
+          "text": "https://s.shopee.vn/1Vstd1R3Gx"
+        },
+        {
+          "url": "https://s.shopee.vn/AKUI9GxUKf",
+          "text": "https://s.shopee.vn/AKUI9GxUKf"
+        },
+        {
+          "url": "https://benandtod.com/products/khan-kk-4150-be166",
+          "text": "https://benandtod.com/products/khan-k..."
+        },
+        {
+          "url": "https://benandtod.com/products/ao-vest-av-ag-rb3130-be163",
+          "text": "https://benandtod.com/products/ao-ves..."
+        },
+        {
+          "url": "https://benandtod.com/products/ao-thun-at-r1210-be164",
+          "text": "https://benandtod.com/products/ao-thu..."
+        },
+        {
+          "url": "https://benandtod.com/products/ao-thun-at-kid-r1210-be165",
+          "text": "https://benandtod.com/products/ao-thu..."
+        },
+        {
+          "url": "https://bit.ly/4n8zC5R",
+          "text": "https://bit.ly/4n8zC5R"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 8,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=Gia+%C4%90%C3%ACnh+Haha+T%E1%BA%ADp+12+Full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "Gia Đình Haha Tập 12 Full",
+      "isPaidContent": false
+    },
+    {
+      "title": "Gia Đình Haha - FULL CHẶNG 2 | Những ký ức đậm sâu cùng Gia Đình Haha tại Quảng Ngãi",
+      "translatedTitle": "Haha Family - FULL STAGE 2 | Deep memories with Haha Family in Quang Ngai",
+      "type": "video",
+      "id": "-oDRqSVjVGY",
+      "url": "https://www.youtube.com/watch?v=-oDRqSVjVGY",
+      "thumbnailUrl": "https://i.ytimg.com/vi/-oDRqSVjVGY/maxresdefault.jpg",
+      "viewCount": 475716,
+      "date": "2025-08-09T04:00:06.000Z",
+      "likes": 3400,
+      "location": null,
+      "channelName": "YeaH1 ONE",
+      "channelUrl": "https://www.youtube.com/@YeaH1ONE",
+      "channelUsername": "YeaH1ONE",
+      "collaborators": null,
+      "channelId": "UC_np0YZuvNMIJceE6jHeggQ",
+      "numberOfSubscribers": 5350000,
+      "duration": "08:26:25",
+      "commentsCount": 141,
+      "text": "Gia Đình Haha - FULL CHẶNG 2 | Những ký ức đậm sâu cùng Gia Đình Haha tại Quảng Ngãi\n\n📣 Subscribe kênh YeaH1 ONE để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/YeaH1ONE\n🌸 FULL SHOW Gia Đình HAHA: https://www.youtube.com/playlist?list=PLkdwPUk2nejDC9niKlL_votgm_WNljYH7\n🌸 Show Gia Đình HAHA: https://www.youtube.com/playlist?list=PLkdwPUk2nejBlHsUFRiqbCvbY_IbDwamb\n\n'Gia đình Haha' mùa đầu tiên có sự tham gia của 5 thành viên là Jun Phạm, Bùi Công Nam, Ngọc Thanh Tâm, Rhymastic và Duy Khánh. Họ sẽ cùng sống và làm việc với người dân ở nông thôn.\n\n\n“Gia Đình Haha” được thực hiện dựa trên sự kế thừa những dấu ấn tuyệt đẹp từ 'Gia Tộc Toàn Năng Anh Tài - Chị Đẹp'. Bởi vậy, YeaH1 cam kết sẽ mang tới cho khán giả một chương trình tích cực,  một lời tri ân sâu sắc, những kết nối có giá trị tới vùng đất chương trình đi qua. Đây cũng là cách YeaH1 đáp đền những tình cảm yêu thương mà quý khán giả đã dành tặng cho mình trong thời gian qua.\n\n📺 Chương trình truyền hình thực tế “Gia đình Haha-Những ngày trời bao la” sẽ lên sóng ngày 14.6.2025 lúc 20:00 trên VTV3 và 20:30 trên Youtube Yeah1. Chương trình được Việt hoá và mua bản quyền từ HaHa Farmer của MangoTV\n\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Gia Đình Haha tại:\n📍FanPage: https://www.facebook.com/giadinhaha\n📍TikTok:  https://www.tiktok.com/@giadinhhaha_official\n-------------------------------------------------------------------------\n#GiaDinhHaha #HahaFarmerVietNam #YeaH1 #duykhanhofficial #rhymastic #ngocthanhtam #junpham #buicongnam #giadinhhahatap4 #tap4giadinhhaha #giadinhhaha_hahafarmer #giadinhhahamoinhat\n-------------------------------------------------------------------------\nXem các chương trình hấp dẫn khác của YeaH1:\n► Gia Đình HaHa: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY\n► Tân Binh Toàn Năng: https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44 \n► Anh Trai Vượt Ngàn Chông Gai 2024:  https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq \n► Chị Đẹp Đạp Gió 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF   \n► Chị Đẹp Đạp Gió Rẽ Sóng 2023: https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A \n► Mẹ Siêu Nhân: https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3\n► SHORT DRAMA YeaH1: https://www.youtube.com/playlist?list=PL12uYpRGaZl2KntGTTdW46tENUZSRVMc2 \n► TLOO: https://www.youtube.com/playlist?list=PLWrySnXBHMJE4G3oyRZOixB_I04or2eBM \n► Đại Tiểu Thư: https://www.youtube.com/playlist?list=PLbP_2npTsLDnqDzUdMsd7QnVum-B0UNy2 \n► Anh Áo Đen: https://www.youtube.com/playlist?list=PL965xq4VOTyO5JporousDtVnGrFSqvxgb \n-----------------------------------------------------------------------------------\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 SHOW: https://www.youtube.com/channel/UCh_zF2FsiCflCPgYDudtcqg\n►YeaH1 Music: https://www.youtube.com/channel/UCI2OiZs5aVcyBUBVsgovzng \n►Short YeaH1: https://www.youtube.com/@YeaH1SHORTS\n-------------------------------------------------------------------------\n©️ Bản quyền thuộc sở hữu của YeaH1 và được bảo vệ bản quyền bởi YeaH1\n©️ Không được RE-UP lại dưới mọi hình thức",
+      "translatedText": "Haha Family - FULL STAGE 2 | Deep memories with Haha Family in Quang Ngai\n\n📣 Subscribe to YeaH1 ONE channel to watch the EARLIEST and NEWEST episodes: https://bit.ly/YeaH1ONE\n🌸 FULL SHOW Haha Family:    • Tập Full Chặng Gia Đình Haha | Bản Quyền T...  \n🌸 Haha Family Show:    • Show GIA ĐÌNH HAHA BEST CUT | Bản quyền th...  \n\n'Haha Family' season 1 has the participation of 5 members: Jun Pham, Bui Cong Nam, Ngoc Thanh Tam, Rhymastic and Duy Khanh. They will live and work with people in the countryside.\n\n\"Haha Family\" is made based on the inheritance of beautiful impressions from 'Gia Toc Toan Nang Anh Tai - Chi Dep'. Therefore, YeaH1 is committed to bringing to the audience a positive program, a deep gratitude, valuable connections to the land the program has passed through. This is also YeaH1's way of repaying the love that the audience has given to it in the past time. \n\n📺 The reality TV show \"Haha Family - The days of the vast sky\" will air on June 14, 2025 at 20:00 on VTV3 and 20:30 on Youtube Yeah1. The program is localized and copyrighted from HaHa Farmer of MangoTV\n\nPlease follow and wait for the latest information of Gia Dinh Haha at:\n📍FanPage:   / giadinhaha  \n📍TikTok:   / giadinhhaha_official  \n-----------------------------------------------------------------------------\n#GiaDinhHaha #HahaFarmerVietNam #YeaH1 #duykhanhofficial #rhymastic #ngocthanhtam #junpham #buicongnam #giadinhhahatap4 #tap4giadinhhaha #giadinhhaha_hahafarmer #giadinhhahamoinhat\n----------------------------------------------------------------------\nWatch other attractive programs of YeaH1:\n► Gia Dinh HaHa:    • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  \n► All-round Rookie:    • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  \n► Brother Overcoming a Thousand Thorns 2024:    • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  \n► Beautiful Sister Riding the Wind 2024:    • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  \n► Beautiful Sister Riding the Wind and Breaking the Waves 2023:    • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...   \n► Super Mom:    • MẸ SIÊU NHÂN 2024 | Bản Quyền của YeaH1   \n► SHORT DRAMA YeaH1:    • PHIM LẺ HAY MỚI NHẤT 2026 | SHORT YEAH1   \n► TLOO:    • TIỆM RAU LẠ LẮM SERIES | TLOO PHIM NGẮN HAY   \n► The Big Lady:    • ĐẠI TIỂU THƯ Trọn Bộ 4K | Phim Ngắn Tâm Lý...  \n► Black Shirt:    • ANH ÁO ĐEN - ĐẠI AN | Tổng Hợp Clip Hay Nhất   \n--------------------------------------------------------------------------------\nOr watch more on the YeaH1 system:\n►YeaH1 SHOW:    / @yeah1show  \n►YeaH1 Music:    / @yeah1music   \n►Short YeaH1:    / @shortyeah1  \n----------------------------------------------------------------------\n©️ Copyright owned by YeaH1 and copyright protected by YeaH1\n©️ Do not RE-UP in any form",
+      "descriptionLinks": [
+        {
+          "url": "https://bit.ly/YeaH1ONE",
+          "text": "https://bit.ly/YeaH1ONE"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLkdwPUk2nejDC9niKlL_votgm_WNljYH7",
+          "text": "   • Tập Full Chặng Gia Đình Haha | Bản Quyền T...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLkdwPUk2nejBlHsUFRiqbCvbY_IbDwamb",
+          "text": "   • Show GIA ĐÌNH HAHA BEST CUT | Bản quyền th...  "
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=-oDRqSVjVGY&t=1200s",
+          "text": "20:00"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=-oDRqSVjVGY&t=1230s",
+          "text": "20:30"
+        },
+        {
+          "url": "https://www.facebook.com/giadinhaha",
+          "text": "  / giadinhaha  "
+        },
+        {
+          "url": "https://www.tiktok.com/@giadinhhaha_official",
+          "text": "  / giadinhhaha_official  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhaha",
+          "text": "#GiaDinhHaha"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hahafarmervietnam",
+          "text": "#HahaFarmerVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/duykhanhofficial",
+          "text": "#duykhanhofficial"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/rhymastic",
+          "text": "#rhymastic"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngocthanhtam",
+          "text": "#ngocthanhtam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junpham",
+          "text": "#junpham"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/buicongnam",
+          "text": "#buicongnam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhahatap4",
+          "text": "#giadinhhahatap4"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tap4giadinhhaha",
+          "text": "#tap4giadinhhaha"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhaha_hahafarmer",
+          "text": "#giadinhhaha_hahafarmer"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhahamoinhat",
+          "text": "#giadinhhahamoinhat"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY",
+          "text": "   • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44",
+          "text": "   • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+          "text": "   • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3",
+          "text": "   • MẸ SIÊU NHÂN 2024 | Bản Quyền của YeaH1  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PL12uYpRGaZl2KntGTTdW46tENUZSRVMc2",
+          "text": "   • PHIM LẺ HAY MỚI NHẤT 2026 | SHORT YEAH1  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLWrySnXBHMJE4G3oyRZOixB_I04or2eBM",
+          "text": "   • TIỆM RAU LẠ LẮM SERIES | TLOO PHIM NGẮN HAY  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLbP_2npTsLDnqDzUdMsd7QnVum-B0UNy2",
+          "text": "   • ĐẠI TIỂU THƯ Trọn Bộ 4K | Phim Ngắn Tâm Lý...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PL965xq4VOTyO5JporousDtVnGrFSqvxgb",
+          "text": "   • ANH ÁO ĐEN - ĐẠI AN | Tổng Hợp Clip Hay Nhất  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCh_zF2FsiCflCPgYDudtcqg",
+          "text": "   / @yeah1show  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCI2OiZs5aVcyBUBVsgovzng",
+          "text": "   / @yeah1music  "
+        },
+        {
+          "url": "https://www.youtube.com/@ShortYeaH1",
+          "text": "   / @shortyeah1  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 9,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=Gia+%C4%90%C3%ACnh+Haha+T%E1%BA%ADp+12+Full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [
+        "#GiaDinhHaha",
+        "#buicongnam",
+        "#rhymastic"
+      ],
+      "isMembersOnly": false,
+      "input": "Gia Đình Haha Tập 12 Full",
+      "isPaidContent": false
+    },
+    {
+      "title": "Gia đình Haha - Tập 12 | Bùi Công Nam trở về quê nhà, Duy Khánh remake bản hit \"Kho Báu\" cực lầy",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "uET4fOlrwRw",
+      "url": "https://www.youtube.com/watch?v=uET4fOlrwRw",
+      "thumbnailUrl": "https://i.ytimg.com/vi/uET4fOlrwRw/maxresdefault.jpg",
+      "viewCount": 6553945,
+      "date": "2025-08-30T13:30:06.000Z",
+      "likes": 50000,
+      "location": null,
+      "channelName": "YEAH1 SHOW",
+      "channelUrl": "https://www.youtube.com/@YEAH1SHOW",
+      "channelUsername": "YEAH1SHOW",
+      "collaborators": [
+        {
+          "name": "YEAH1 SHOW",
+          "username": "YEAH1SHOW",
+          "url": "https://www.youtube.com/@YEAH1SHOW",
+          "channelId": "UCh_zF2FsiCflCPgYDudtcqg"
+        },
+        {
+          "name": "YeaH1 Giải Trí",
+          "username": "YEAH1_GIAITRI",
+          "url": "https://www.youtube.com/@YEAH1_GIAITRI",
+          "channelId": "UCecta98cdYVFV6L_lfH__IA"
+        },
+        {
+          "name": "YeaH1 ONE",
+          "username": "YeaH1ONE",
+          "url": "https://www.youtube.com/@YeaH1ONE",
+          "channelId": "UC_np0YZuvNMIJceE6jHeggQ"
+        },
+        {
+          "name": "YeaH1 Trending",
+          "username": "YeaH1Trending",
+          "url": "https://www.youtube.com/@YeaH1Trending",
+          "channelId": "UCO4hOvuIUEx1rPHldofBCnw"
+        }
+      ],
+      "channelId": "UCh_zF2FsiCflCPgYDudtcqg",
+      "numberOfSubscribers": 765000,
+      "duration": "03:01:36",
+      "commentsCount": 3844,
+      "text": "Gia đình Haha - Tập 12 | Bùi Công Nam trở về quê nhà, Duy Khánh remake bản hit \"Kho Báu\" cực lầy\n\n'Gia đình Haha' mùa đầu tiên có sự tham gia của 5 thành viên là Jun Phạm, Bùi Công Nam, Ngọc Thanh Tâm, Rhymastic và Duy Khánh. Họ sẽ cùng sống và làm việc với người dân ở nông thôn.\n\n“Gia Đình Haha” được thực hiện dựa trên sự kế thừa những dấu ấn tuyệt đẹp từ 'Gia Tộc Toàn Năng Anh Tài - Chị Đẹp'. Bởi vậy, YeaH1 cam kết sẽ mang tới cho khán giả một chương trình tích cực,  một lời tri ân sâu sắc, những kết nối có giá trị tới vùng đất chương trình đi qua. Đây cũng là cách YeaH1 đáp đền những tình cảm yêu thương mà quý khán giả đã dành tặng cho mình trong thời gian qua.\n\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Gia Đình Haha tại:\n\n📍FanPage: https://www.facebook.com/giadinhaha \n📍TikTok: https://www.tiktok.com/@giadinhhaha_official \n\n📺 Chương trình truyền hình thực tế “Gia đình Haha-Những ngày trời bao la” sẽ lên sóng ngày 14.6.2025 lúc 20:00 trên VTV3 và 20:30 trên Youtube Yeah1. Chương trình được Việt hoá và mua bản quyền từ HaHa Farmer của MangoTV\n\n#GiaDinhHaha #HahaFarmerVietNam #YeaH1 #GĐHH #giadinhhahashow  #duykhanhofficial #Rhymastic #ngocthanhtam #Junpham #buicongnam #giadinhhahatap12 #tap12giadinhhaha #giadinhhaha #giadinhhahamoinhat #toctien #STRONG #STRONGTrongHieu #dulich #dulichvietnam #chuongtrinhmoi #chuongtrinhthucte #vănhóa #giaitri #giảitrí #funnyfamilymoments  \n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng: https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44\n►Anh Trai Vượt Ngàn Chông Gai 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq\n►Chị Đẹp Đạp Gió 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF\n►Chị Đẹp Đạp Gió Rẽ Sóng 2023: https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A\n►Mẹ Siêu Nhân: https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3\n► Gia Đình Haha: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY\n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 SHOW: https://www.youtube.com/@YEAH1SHOW \n►YeaH1 Entertainment: https://www.youtube.com/@YEAH1_GIAITRI \n►YeaH1 Music: https://www.youtube.com/@yeah1music\n\n📣 Subscribe kênh Yeah1 Show để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4n8zC5R\n©️ Gia Đình Haha thuộc sở hữu của Yeah 1 Show và được bảo vệ bản quyền bởi Yeah 1 Show\n\nTham khảo thêm các sản phẩm tiêu dùng từ Gia Đình Haha:\nJubilant Bandana:\nhttps://benandtod.com/products/khan-kk-4150-be166\nBeaming Safari Jacket: \nhttps://benandtod.com/products/ao-vest-av-ag-rb3130-be163\nJolly Tee:\nhttps://benandtod.com/products/ao-thun-at-r1210-be164\nJolly Kid Tee:\nhttps://benandtod.com/products/ao-thun-at-kid-r1210-be165\n\n🍽️ Gia vị – bếp núc gia đình:\n• Nước mắm Nam Ngư \n  – Loại tụi mình hay dùng cho các bữa ăn gia đình, nêm nếm nhanh, vị đậm đà  \n  👉 Link 1: https://s.shopee.vn/2B9kT97T3g\n  👉 Link 2: https://s.shopee.vn/15FtAj8ga\n  👉 Link 3: https://s.shopee.vn/5q32puWq8b\n  👉 Link 4: https://s.shopee.vn/AKVSCBsxk1\n• Tương ớt CHIN-SU  ❤️\n  – Dùng cho bếp đông người, quán nhỏ hoặc gia đình hay nấu ăn  \n  👉 Link 1: https://s.shopee.vn/7AXzMVvxSt\n  👉 Link 2: https://s.shopee.vn/3B1qbAtSS2\n  👉 Link 3: https://s.shopee.vn/9pYkXR7kEU\n  👉 Link 4: https://s.shopee.vn/4fqeNwvw8o\n\n\n©️Bản quyền thuộc YeaH1 - nhà sản xuất các chương trình giải trí hàng đầu như Gia Đình Haha, Tân Binh Toàn Năng, Anh Trai Vượt Ngàn Chông Gai, Chị Đẹp Đạp Gió Rẽ Sóng",
+      "translatedText": "Gia đình Haha - Tập 12 | Bùi Công Nam trở về quê nhà, Duy Khánh remake bản hit \"Kho Báu\" cực lầy\n\n'Gia đình Haha' mùa đầu tiên có sự tham gia của 5 thành viên là Jun Phạm, Bùi Công Nam, Ngọc Thanh Tâm, Rhymastic và Duy Khánh. Họ sẽ cùng sống và làm việc với người dân ở nông thôn.\n\n“Gia Đình Haha” được thực hiện dựa trên sự kế thừa những dấu ấn tuyệt đẹp từ 'Gia Tộc Toàn Năng Anh Tài - Chị Đẹp'. Bởi vậy, YeaH1 cam kết sẽ mang tới cho khán giả một chương trình tích cực,  một lời tri ân sâu sắc, những kết nối có giá trị tới vùng đất chương trình đi qua. Đây cũng là cách YeaH1 đáp đền những tình cảm yêu thương mà quý khán giả đã dành tặng cho mình trong thời gian qua.\n\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Gia Đình Haha tại:\n\n📍FanPage:   / giadinhaha   \n📍TikTok:   / giadinhhaha_official   \n\n📺 Chương trình truyền hình thực tế “Gia đình Haha-Những ngày trời bao la” sẽ lên sóng ngày 14.6.2025 lúc 20:00 trên VTV3 và 20:30 trên Youtube Yeah1. Chương trình được Việt hoá và mua bản quyền từ HaHa Farmer của MangoTV\n\n#GiaDinhHaha #HahaFarmerVietNam #YeaH1 #GĐHH #giadinhhahashow  #duykhanhofficial #Rhymastic #ngocthanhtam #Junpham #buicongnam #giadinhhahatap12 #tap12giadinhhaha #giadinhhaha #giadinhhahamoinhat #toctien #STRONG #STRONGTrongHieu #dulich #dulichvietnam #chuongtrinhmoi #chuongtrinhthucte #vănhóa #giaitri #giảitrí #funnyfamilymoments  \n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng:    • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  \n►Anh Trai Vượt Ngàn Chông Gai 2024:    • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  \n►Chị Đẹp Đạp Gió 2024:    • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  \n►Chị Đẹp Đạp Gió Rẽ Sóng 2023:    • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  \n►Mẹ Siêu Nhân:    • MẸ SIÊU NHÂN 2024 | Bản Quyền của YeaH1  \n► Gia Đình Haha:    • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  \n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 SHOW:    / @yeah1show   \n►YeaH1 Entertainment:    / @yeah1_giaitri   \n►YeaH1 Music:    / @yeah1music  \n\n📣 Subscribe kênh Yeah1 Show để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4n8zC5R\n©️ Gia Đình Haha thuộc sở hữu của Yeah 1 Show và được bảo vệ bản quyền bởi Yeah 1 Show\n\nTham khảo thêm các sản phẩm tiêu dùng từ Gia Đình Haha:\nJubilant Bandana:\nhttps://benandtod.com/products/khan-k...\nBeaming Safari Jacket: \nhttps://benandtod.com/products/ao-ves...\nJolly Tee:\nhttps://benandtod.com/products/ao-thu...\nJolly Kid Tee:\nhttps://benandtod.com/products/ao-thu...\n\n🍽️ Gia vị – bếp núc gia đình:\n• Nước mắm Nam Ngư \n  – Loại tụi mình hay dùng cho các bữa ăn gia đình, nêm nếm nhanh, vị đậm đà  \n  👉 Link 1: https://s.shopee.vn/2B9kT97T3g\n  👉 Link 2: https://s.shopee.vn/15FtAj8ga\n  👉 Link 3: https://s.shopee.vn/5q32puWq8b\n  👉 Link 4: https://s.shopee.vn/AKVSCBsxk1\n• Tương ớt CHIN-SU  ❤️\n  – Dùng cho bếp đông người, quán nhỏ hoặc gia đình hay nấu ăn  \n  👉 Link 1: https://s.shopee.vn/7AXzMVvxSt\n  👉 Link 2: https://s.shopee.vn/3B1qbAtSS2\n  👉 Link 3: https://s.shopee.vn/9pYkXR7kEU\n  👉 Link 4: https://s.shopee.vn/4fqeNwvw8o\n\n\n©️Bản quyền thuộc YeaH1 - nhà sản xuất các chương trình giải trí hàng đầu như Gia Đình Haha, Tân Binh Toàn Năng, Anh Trai Vượt Ngàn Chông Gai, Chị Đẹp Đạp Gió Rẽ Sóng",
+      "descriptionLinks": [
+        {
+          "url": "https://www.facebook.com/giadinhaha",
+          "text": "  / giadinhaha  "
+        },
+        {
+          "url": "https://www.tiktok.com/@giadinhhaha_official",
+          "text": "  / giadinhhaha_official  "
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=uET4fOlrwRw&t=1200s",
+          "text": "20:00"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=uET4fOlrwRw&t=1230s",
+          "text": "20:30"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhaha",
+          "text": "#GiaDinhHaha"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hahafarmervietnam",
+          "text": "#HahaFarmerVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/g%C4%91hh",
+          "text": "#GĐHH"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhahashow",
+          "text": "#giadinhhahashow"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/duykhanhofficial",
+          "text": "#duykhanhofficial"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/rhymastic",
+          "text": "#Rhymastic"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngocthanhtam",
+          "text": "#ngocthanhtam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junpham",
+          "text": "#Junpham"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/buicongnam",
+          "text": "#buicongnam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhahatap12",
+          "text": "#giadinhhahatap12"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tap12giadinhhaha",
+          "text": "#tap12giadinhhaha"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhaha",
+          "text": "#giadinhhaha"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhahamoinhat",
+          "text": "#giadinhhahamoinhat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/toctien",
+          "text": "#toctien"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/strong",
+          "text": "#STRONG"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/strongtronghieu",
+          "text": "#STRONGTrongHieu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dulich",
+          "text": "#dulich"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dulichvietnam",
+          "text": "#dulichvietnam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chuongtrinhmoi",
+          "text": "#chuongtrinhmoi"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chuongtrinhthucte",
+          "text": "#chuongtrinhthucte"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/v%C4%83nh%C3%B3a",
+          "text": "#vănhóa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giaitri",
+          "text": "#giaitri"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gi%E1%BA%A3itr%C3%AD",
+          "text": "#giảitrí"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/funnyfamilymoments",
+          "text": "#funnyfamilymoments"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44",
+          "text": "   • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+          "text": "   • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3",
+          "text": "   • MẸ SIÊU NHÂN 2024 | Bản Quyền của YeaH1  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY",
+          "text": "   • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCh_zF2FsiCflCPgYDudtcqg",
+          "text": "   / @yeah1show  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCecta98cdYVFV6L_lfH__IA",
+          "text": "   / @yeah1_giaitri  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCI2OiZs5aVcyBUBVsgovzng",
+          "text": "   / @yeah1music  "
+        },
+        {
+          "url": "https://bit.ly/4n8zC5R",
+          "text": "https://bit.ly/4n8zC5R"
+        },
+        {
+          "url": "https://benandtod.com/products/khan-kk-4150-be166",
+          "text": "https://benandtod.com/products/khan-k..."
+        },
+        {
+          "url": "https://benandtod.com/products/ao-vest-av-ag-rb3130-be163",
+          "text": "https://benandtod.com/products/ao-ves..."
+        },
+        {
+          "url": "https://benandtod.com/products/ao-thun-at-r1210-be164",
+          "text": "https://benandtod.com/products/ao-thu..."
+        },
+        {
+          "url": "https://benandtod.com/products/ao-thun-at-kid-r1210-be165",
+          "text": "https://benandtod.com/products/ao-thu..."
+        },
+        {
+          "url": "https://s.shopee.vn/2B9kT97T3g",
+          "text": "https://s.shopee.vn/2B9kT97T3g"
+        },
+        {
+          "url": "https://s.shopee.vn/15FtAj8ga",
+          "text": "https://s.shopee.vn/15FtAj8ga"
+        },
+        {
+          "url": "https://s.shopee.vn/5q32puWq8b",
+          "text": "https://s.shopee.vn/5q32puWq8b"
+        },
+        {
+          "url": "https://s.shopee.vn/AKVSCBsxk1",
+          "text": "https://s.shopee.vn/AKVSCBsxk1"
+        },
+        {
+          "url": "https://s.shopee.vn/7AXzMVvxSt",
+          "text": "https://s.shopee.vn/7AXzMVvxSt"
+        },
+        {
+          "url": "https://s.shopee.vn/3B1qbAtSS2",
+          "text": "https://s.shopee.vn/3B1qbAtSS2"
+        },
+        {
+          "url": "https://s.shopee.vn/9pYkXR7kEU",
+          "text": "https://s.shopee.vn/9pYkXR7kEU"
+        },
+        {
+          "url": "https://s.shopee.vn/4fqeNwvw8o",
+          "text": "https://s.shopee.vn/4fqeNwvw8o"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 0,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=Gia+%C4%90%C3%ACnh+Haha+T%E1%BA%ADp+12+Full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [
+        "#GiaDinhHaha",
+        "#STRONGTrongHieu",
+        "#buicongnam"
+      ],
+      "isMembersOnly": false,
+      "input": "Gia Đình Haha Tập 12 Full",
+      "isPaidContent": false
+    },
+    {
+      "title": "(REACTION) GIA ĐÌNH HA HA TẬP 12| Lạc lối với chiến thần ngôn ngữ Y Xì Tron tại Đắk Lắk",
+      "translatedTitle": "(RECTION) HA HA FAMILY EPISODE 12 | Lost with the language god Y Xi Tron in Dak Lak",
+      "type": "video",
+      "id": "FZEmv_ITbRQ",
+      "url": "https://www.youtube.com/watch?v=FZEmv_ITbRQ",
+      "thumbnailUrl": "https://i.ytimg.com/vi/FZEmv_ITbRQ/maxresdefault.jpg",
+      "viewCount": 13225,
+      "date": "2025-09-01T04:44:01.000Z",
+      "likes": 231,
+      "location": null,
+      "channelName": "Đỏ Tía Lia Reaction",
+      "channelUrl": "https://www.youtube.com/@dotialia",
+      "channelUsername": "dotialia",
+      "collaborators": null,
+      "channelId": "UCN9LsCRJfal8Fo9RVQ-k-WA",
+      "numberOfSubscribers": 41600,
+      "duration": "03:14:36",
+      "commentsCount": 54,
+      "text": "Tôi cảm thấy ná thở với 3 nhân tố mới Y Xim - Y Xì Tron - Hờ Hững.\nLink video gốc: https://www.youtube.com/watch?v=uET4fOlrwRw\nBản quyền video thuộc về YEAH1 SHOW\n\n#GiaDinhHaha #HahaFarmerVietNam #YeaH1 #GĐHH #giadinhhahashow  #duykhanhofficial #Rhymastic #ngocthanhtam #Junpham #buicongnam #giadinhhahatap11 #tap11giadinhhaha #giadinhhaha #giadinhhahamoinhat #thanhduy #aiphuong",
+      "translatedText": "I feel breathless with the 3 new factors Y Xim - Y Xi Tron - Ho Hung.\n\nOriginal video link:    • Gia đình Haha - Tập 12 | Bùi Công Nam trở ...  \nVideo copyright belongs to YEAH1 SHOW\n\n#GiaDinhHaha #HahaFarmerVietNam #YeaH1 #GĐHH #giadinhhahashow #duykhanhofficial #Rhymastic #ngocthanhtam #Junpham #buicongnam #giadinhhahatap11 #tap11giadinhhaha #giadinhhaha #giadinhhahamoinhat #thanhduy #aiphuong",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/watch?v=uET4fOlrwRw",
+          "text": "   • Gia đình Haha - Tập 12 | Bùi Công Nam trở ...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhaha",
+          "text": "#GiaDinhHaha"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hahafarmervietnam",
+          "text": "#HahaFarmerVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/g%C4%91hh",
+          "text": "#GĐHH"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhahashow",
+          "text": "#giadinhhahashow"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/duykhanhofficial",
+          "text": "#duykhanhofficial"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/rhymastic",
+          "text": "#Rhymastic"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngocthanhtam",
+          "text": "#ngocthanhtam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junpham",
+          "text": "#Junpham"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/buicongnam",
+          "text": "#buicongnam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhahatap11",
+          "text": "#giadinhhahatap11"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tap11giadinhhaha",
+          "text": "#tap11giadinhhaha"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhaha",
+          "text": "#giadinhhaha"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhahamoinhat",
+          "text": "#giadinhhahamoinhat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thanhduy",
+          "text": "#thanhduy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/aiphuong",
+          "text": "#aiphuong"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 6,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=Gia+%C4%90%C3%ACnh+Haha+T%E1%BA%ADp+12+Full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [
+        "#aiphuong",
+        "#GiaDinhHaha",
+        "#buicongnam"
+      ],
+      "isMembersOnly": false,
+      "input": "Gia Đình Haha Tập 12 Full",
+      "isPaidContent": false
+    },
+    {
+      "title": "Gia Đình Haha [Chặng Đặc Biệt] - Tập 16 | Đi để trở về Bản Liền - Bình yên như trở về nhà",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "5lSgK1O2SSs",
+      "url": "https://www.youtube.com/watch?v=5lSgK1O2SSs",
+      "thumbnailUrl": "https://i.ytimg.com/vi/5lSgK1O2SSs/maxresdefault.jpg",
+      "viewCount": 5113366,
+      "date": "2026-01-18T13:30:06.000Z",
+      "likes": 58000,
+      "location": null,
+      "channelName": "YEAH1 SHOW",
+      "channelUrl": "https://www.youtube.com/@YEAH1SHOW",
+      "channelUsername": "YEAH1SHOW",
+      "collaborators": [
+        {
+          "name": "YEAH1 SHOW",
+          "username": "YEAH1SHOW",
+          "url": "https://www.youtube.com/@YEAH1SHOW",
+          "channelId": "UCh_zF2FsiCflCPgYDudtcqg"
+        },
+        {
+          "name": "YeaH1 Giải Trí",
+          "username": "YEAH1_GIAITRI",
+          "url": "https://www.youtube.com/@YEAH1_GIAITRI",
+          "channelId": "UCecta98cdYVFV6L_lfH__IA"
+        },
+        {
+          "name": "YeaH1 ONE",
+          "username": "YeaH1ONE",
+          "url": "https://www.youtube.com/@YeaH1ONE",
+          "channelId": "UC_np0YZuvNMIJceE6jHeggQ"
+        },
+        {
+          "name": "YeaH1 Trending",
+          "username": "YeaH1Trending",
+          "url": "https://www.youtube.com/@YeaH1Trending",
+          "channelId": "UCO4hOvuIUEx1rPHldofBCnw"
+        }
+      ],
+      "channelId": "UCh_zF2FsiCflCPgYDudtcqg",
+      "numberOfSubscribers": 765000,
+      "duration": "02:49:51",
+      "commentsCount": 3093,
+      "text": "Gia Đình Haha [Chặng Đặc Biệt] - Tập 16 | Đi để trở về Bản Liền - Bình yên như trở về nhà\n\nGia đình Haha - Chặng Đặc Biệt có sự tham gia của 5 thành viên là Jun Phạm, Bùi Công Nam, Ngọc Thanh Tâm, Rhymastic và Duy Khánh. Họ sẽ cùng sống và làm việc với người dân ở nông thôn.\n\n\n“Gia Đình Haha” được thực hiện dựa trên sự kế thừa những dấu ấn tuyệt đẹp từ 'Gia Tộc Toàn Năng Anh Tài - Chị Đẹp'. Bởi vậy, YeaH1 cam kết sẽ mang tới cho khán giả một chương trình tích cực,  một lời tri ân sâu sắc, những kết nối có giá trị tới vùng đất chương trình đi qua. Đây cũng là cách YeaH1 đáp đền những tình cảm yêu thương mà quý khán giả đã dành tặng cho mình trong thời gian qua.\n\n\n📺 Chương trình truyền hình thực tế Gia Đình Haha \"Chặng Đặc Biệt” sẽ phát sóng ngày 18.01.2026 lúc 20 giờ trên VTV3 & 20 giờ 30 trên YouTube YeaH1 Show \n\n#GiaDinhHaha #HahaFarmerVietNam #GiaDinhHahaChangDacBiet #YeaH1 #giadinhhahatapdacbiet #giadinhhahatapfull #giadinhhahatap16full #giadinhhahamoinhat #giadinhhahatap16  #tap16giadinhhahah #giadinhahatapmoi #giadinhhahashow #showgiadinhhaha #realityshow #dulich #dulichvietnam #vănhóa #junpham #ngocthanhtam #duykhanhofficial #buicongnam #rhymastic #giadinhhaha2026 #giadinhhahadacbiet #giaitri #giảitrí #funnyfamilymoments \n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng: https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44\n►Anh Trai Vượt Ngàn Chông Gai 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq\n►Chị Đẹp Đạp Gió 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF\n►Chị Đẹp Đạp Gió Rẽ Sóng 2023: https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A\n►Mẹ Siêu Nhân: https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3\n►Gia Đình HaHa: https://youtube.com/playlist?list=PLt3LgMEKzFxxPHTWK3GsTDfYx64u5aWkb&si=4ixzLc2U_j3RIe-o\n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 SHOW: https://www.youtube.com/@YEAH1SHOW \n►YeaH1 Entertainment: https://www.youtube.com/@YEAH1_GIAITRI \n►YeaH1 Music: https://www.youtube.com/@yeah1music\n\nTham khảo các sản phẩm công nghệ, thời trang, sản phẩm tiêu dùng\n• Cà phê là cà phê khiến chúng ta bị lôi cuốn\n  👉 Link 1: https://s.shopee.vn/4fttOW2csc\n  👉 Link 2: https://s.shopee.vn/1BK1E5oOMH\n  👉 Link 3: https://s.shopee.vn/5Aq9zRqpdR\n  👉 Link 4: https://s.shopee.vn/4VaTEWH3nY\n  👉 Link 5: https://s.shopee.vn/8ATlbGfOQ3\n  👉 Link 6: https://s.shopee.vn/2BCYSFh4MB\n  👉 Link 7: https://s.shopee.vn/3g1MF14Ii5\n  👉 Link 8: https://s.shopee.vn/4VaTEYgEpa\n• Bột Giặt Omo - Đụng là chạm các vết bẩn\n  👉 Link 1: https://s.shopee.vn/20t8Fz1vqT\n  👉 Link 2: https://s.shopee.vn/5fmQcjO8L0\n  👉 Link 3: https://s.shopee.vn/6pyO0svZSV\n  👉 Link 4: https://s.shopee.vn/7pqvCjiQIG\n🍽️ Gia vị – bếp núc gia đình:\n• Nước mắm Nam Ngư \n  – Loại tụi mình hay dùng cho các bữa ăn gia đình, nêm nếm nhanh, vị đậm đà  \n  👉 Link 1: https://s.shopee.vn/4Axcq0rZvB\n  👉 Link 2: https://s.shopee.vn/5L9aEAE9bk\n  👉 Link 3: https://s.shopee.vn/2qSFFZwBIv\n  👉 Link 4: https://s.shopee.vn/1gGHrRRz2Z\n• Tương ớt CHIN-SU  ❤️\n  – Dùng cho bếp đông người, quán nhỏ hoặc gia đình hay nấu ăn  \n  👉 Link 1: https://s.shopee.vn/6L27Q2QaVU\n  👉 Link 2: https://s.shopee.vn/qhArwd0gM\n  👉 Link 3: https://s.shopee.vn/7KuebuDNbw\n  👉 Link 4: https://s.shopee.vn/5L9aEEuflU\n\n©️Bản quyền thuộc YeaH1 - nhà sản xuất các chương trình giải trí hàng đầu như Gia Đình Haha, Tân Binh Toàn Năng, Anh Trai Vượt Ngàn Chông Gai, Chị Đẹp Đạp Gió Rẽ Sóng",
+      "translatedText": "Gia Đình Haha [Chặng Đặc Biệt] - Tập 16 | Đi để trở về Bản Liền - Bình yên như trở về nhà\n\nGia đình Haha - Chặng Đặc Biệt có sự tham gia của 5 thành viên là Jun Phạm, Bùi Công Nam, Ngọc Thanh Tâm, Rhymastic và Duy Khánh. Họ sẽ cùng sống và làm việc với người dân ở nông thôn.\n\n\n“Gia Đình Haha” được thực hiện dựa trên sự kế thừa những dấu ấn tuyệt đẹp từ 'Gia Tộc Toàn Năng Anh Tài - Chị Đẹp'. Bởi vậy, YeaH1 cam kết sẽ mang tới cho khán giả một chương trình tích cực,  một lời tri ân sâu sắc, những kết nối có giá trị tới vùng đất chương trình đi qua. Đây cũng là cách YeaH1 đáp đền những tình cảm yêu thương mà quý khán giả đã dành tặng cho mình trong thời gian qua.\n\n\n📺 Chương trình truyền hình thực tế Gia Đình Haha \"Chặng Đặc Biệt” sẽ phát sóng ngày 18.01.2026 lúc 20 giờ trên VTV3 & 20 giờ 30 trên YouTube YeaH1 Show \n\n#GiaDinhHaha #HahaFarmerVietNam #GiaDinhHahaChangDacBiet #YeaH1 #giadinhhahatapdacbiet #giadinhhahatapfull #giadinhhahatap16full #giadinhhahamoinhat #giadinhhahatap16  #tap16giadinhhahah #giadinhahatapmoi #giadinhhahashow #showgiadinhhaha #realityshow #dulich #dulichvietnam #vănhóa #junpham #ngocthanhtam #duykhanhofficial #buicongnam #rhymastic #giadinhhaha2026 #giadinhhahadacbiet #giaitri #giảitrí #funnyfamilymoments \n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng:    • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  \n►Anh Trai Vượt Ngàn Chông Gai 2024:    • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  \n►Chị Đẹp Đạp Gió 2024:    • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  \n►Chị Đẹp Đạp Gió Rẽ Sóng 2023:    • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  \n►Mẹ Siêu Nhân:    • MẸ SIÊU NHÂN 2024 | Bản Quyền của YeaH1  \n►Gia Đình HaHa:    • Playlist  \n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 SHOW:    / @yeah1show   \n►YeaH1 Entertainment:    / @yeah1_giaitri   \n►YeaH1 Music:    / @yeah1music  \n\nTham khảo các sản phẩm công nghệ, thời trang, sản phẩm tiêu dùng\n• Cà phê là cà phê khiến chúng ta bị lôi cuốn\n  👉 Link 1: https://s.shopee.vn/4fttOW2csc\n  👉 Link 2: https://s.shopee.vn/1BK1E5oOMH\n  👉 Link 3: https://s.shopee.vn/5Aq9zRqpdR\n  👉 Link 4: https://s.shopee.vn/4VaTEWH3nY\n  👉 Link 5: https://s.shopee.vn/8ATlbGfOQ3\n  👉 Link 6: https://s.shopee.vn/2BCYSFh4MB\n  👉 Link 7: https://s.shopee.vn/3g1MF14Ii5\n  👉 Link 8: https://s.shopee.vn/4VaTEYgEpa\n• Bột Giặt Omo - Đụng là chạm các vết bẩn\n  👉 Link 1: https://s.shopee.vn/20t8Fz1vqT\n  👉 Link 2: https://s.shopee.vn/5fmQcjO8L0\n  👉 Link 3: https://s.shopee.vn/6pyO0svZSV\n  👉 Link 4: https://s.shopee.vn/7pqvCjiQIG\n🍽️ Gia vị – bếp núc gia đình:\n• Nước mắm Nam Ngư \n  – Loại tụi mình hay dùng cho các bữa ăn gia đình, nêm nếm nhanh, vị đậm đà  \n  👉 Link 1: https://s.shopee.vn/4Axcq0rZvB\n  👉 Link 2: https://s.shopee.vn/5L9aEAE9bk\n  👉 Link 3: https://s.shopee.vn/2qSFFZwBIv\n  👉 Link 4: https://s.shopee.vn/1gGHrRRz2Z\n• Tương ớt CHIN-SU  ❤️\n  – Dùng cho bếp đông người, quán nhỏ hoặc gia đình hay nấu ăn  \n  👉 Link 1: https://s.shopee.vn/6L27Q2QaVU\n  👉 Link 2: https://s.shopee.vn/qhArwd0gM\n  👉 Link 3: https://s.shopee.vn/7KuebuDNbw\n  👉 Link 4: https://s.shopee.vn/5L9aEEuflU\n\n©️Bản quyền thuộc YeaH1 - nhà sản xuất các chương trình giải trí hàng đầu như Gia Đình Haha, Tân Binh Toàn Năng, Anh Trai Vượt Ngàn Chông Gai, Chị Đẹp Đạp Gió Rẽ Sóng",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhaha",
+          "text": "#GiaDinhHaha"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hahafarmervietnam",
+          "text": "#HahaFarmerVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhahachangdacbiet",
+          "text": "#GiaDinhHahaChangDacBiet"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhahatapdacbiet",
+          "text": "#giadinhhahatapdacbiet"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhahatapfull",
+          "text": "#giadinhhahatapfull"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhahatap16full",
+          "text": "#giadinhhahatap16full"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhahamoinhat",
+          "text": "#giadinhhahamoinhat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhahatap16",
+          "text": "#giadinhhahatap16"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tap16giadinhhahah",
+          "text": "#tap16giadinhhahah"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhahatapmoi",
+          "text": "#giadinhahatapmoi"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhahashow",
+          "text": "#giadinhhahashow"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showgiadinhhaha",
+          "text": "#showgiadinhhaha"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/realityshow",
+          "text": "#realityshow"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dulich",
+          "text": "#dulich"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dulichvietnam",
+          "text": "#dulichvietnam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/v%C4%83nh%C3%B3a",
+          "text": "#vănhóa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junpham",
+          "text": "#junpham"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngocthanhtam",
+          "text": "#ngocthanhtam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/duykhanhofficial",
+          "text": "#duykhanhofficial"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/buicongnam",
+          "text": "#buicongnam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/rhymastic",
+          "text": "#rhymastic"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhaha2026",
+          "text": "#giadinhhaha2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhahadacbiet",
+          "text": "#giadinhhahadacbiet"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giaitri",
+          "text": "#giaitri"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gi%E1%BA%A3itr%C3%AD",
+          "text": "#giảitrí"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/funnyfamilymoments",
+          "text": "#funnyfamilymoments"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44",
+          "text": "   • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+          "text": "   • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3",
+          "text": "   • MẸ SIÊU NHÂN 2024 | Bản Quyền của YeaH1  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxPHTWK3GsTDfYx64u5aWkb",
+          "text": "   • Playlist  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCh_zF2FsiCflCPgYDudtcqg",
+          "text": "   / @yeah1show  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCecta98cdYVFV6L_lfH__IA",
+          "text": "   / @yeah1_giaitri  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCI2OiZs5aVcyBUBVsgovzng",
+          "text": "   / @yeah1music  "
+        },
+        {
+          "url": "https://s.shopee.vn/4fttOW2csc",
+          "text": "https://s.shopee.vn/4fttOW2csc"
+        },
+        {
+          "url": "https://s.shopee.vn/1BK1E5oOMH",
+          "text": "https://s.shopee.vn/1BK1E5oOMH"
+        },
+        {
+          "url": "https://s.shopee.vn/5Aq9zRqpdR",
+          "text": "https://s.shopee.vn/5Aq9zRqpdR"
+        },
+        {
+          "url": "https://s.shopee.vn/4VaTEWH3nY",
+          "text": "https://s.shopee.vn/4VaTEWH3nY"
+        },
+        {
+          "url": "https://s.shopee.vn/8ATlbGfOQ3",
+          "text": "https://s.shopee.vn/8ATlbGfOQ3"
+        },
+        {
+          "url": "https://s.shopee.vn/2BCYSFh4MB",
+          "text": "https://s.shopee.vn/2BCYSFh4MB"
+        },
+        {
+          "url": "https://s.shopee.vn/3g1MF14Ii5",
+          "text": "https://s.shopee.vn/3g1MF14Ii5"
+        },
+        {
+          "url": "https://s.shopee.vn/4VaTEYgEpa",
+          "text": "https://s.shopee.vn/4VaTEYgEpa"
+        },
+        {
+          "url": "https://s.shopee.vn/20t8Fz1vqT",
+          "text": "https://s.shopee.vn/20t8Fz1vqT"
+        },
+        {
+          "url": "https://s.shopee.vn/5fmQcjO8L0",
+          "text": "https://s.shopee.vn/5fmQcjO8L0"
+        },
+        {
+          "url": "https://s.shopee.vn/6pyO0svZSV",
+          "text": "https://s.shopee.vn/6pyO0svZSV"
+        },
+        {
+          "url": "https://s.shopee.vn/7pqvCjiQIG",
+          "text": "https://s.shopee.vn/7pqvCjiQIG"
+        },
+        {
+          "url": "https://s.shopee.vn/4Axcq0rZvB",
+          "text": "https://s.shopee.vn/4Axcq0rZvB"
+        },
+        {
+          "url": "https://s.shopee.vn/5L9aEAE9bk",
+          "text": "https://s.shopee.vn/5L9aEAE9bk"
+        },
+        {
+          "url": "https://s.shopee.vn/2qSFFZwBIv",
+          "text": "https://s.shopee.vn/2qSFFZwBIv"
+        },
+        {
+          "url": "https://s.shopee.vn/1gGHrRRz2Z",
+          "text": "https://s.shopee.vn/1gGHrRRz2Z"
+        },
+        {
+          "url": "https://s.shopee.vn/6L27Q2QaVU",
+          "text": "https://s.shopee.vn/6L27Q2QaVU"
+        },
+        {
+          "url": "https://s.shopee.vn/qhArwd0gM",
+          "text": "https://s.shopee.vn/qhArwd0gM"
+        },
+        {
+          "url": "https://s.shopee.vn/7KuebuDNbw",
+          "text": "https://s.shopee.vn/7KuebuDNbw"
+        },
+        {
+          "url": "https://s.shopee.vn/5L9aEEuflU",
+          "text": "https://s.shopee.vn/5L9aEEuflU"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 4,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=Gia+%C4%90%C3%ACnh+Haha+T%E1%BA%ADp+12+Full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "Gia Đình Haha Tập 12 Full",
+      "isPaidContent": false
+    },
+    {
+      "title": "Gia Đình HaHa - EP 12 | Dàn Cast trải nghiệm về quê Bùi Công Nam và cái kết",
+      "translatedTitle": "HaHa Family - EP 12 | The cast experiences Bui Cong Nam's hometown and the ending",
+      "type": "video",
+      "id": "CIh5yer5S5Y",
+      "url": "https://www.youtube.com/watch?v=CIh5yer5S5Y",
+      "thumbnailUrl": "https://i.ytimg.com/vi/CIh5yer5S5Y/maxresdefault.jpg",
+      "viewCount": 17772,
+      "date": "2025-10-08T14:00:26.000Z",
+      "likes": 114,
+      "location": null,
+      "channelName": "YeaH1 ONE",
+      "channelUrl": "https://www.youtube.com/@YeaH1ONE",
+      "channelUsername": "YeaH1ONE",
+      "collaborators": null,
+      "channelId": "UC_np0YZuvNMIJceE6jHeggQ",
+      "numberOfSubscribers": 5350000,
+      "duration": "01:17:42",
+      "commentsCount": 3,
+      "text": "Gia Đình HaHa - EP 12 | Dàn Cast trải nghiệm về quê Bùi Công Nam và cái kết \n\n📣 Subscribe kênh YeaH1 ONE để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/YeaH1ONE\n'Gia đình Haha' mùa đầu tiên có sự tham gia của 5 thành viên là Jun Phạm, Bùi Công Nam, Ngọc Thanh Tâm, Rhymastic và Duy Khánh. Họ sẽ cùng sống và làm việc với người dân ở nông thôn.\n\n\n“Gia Đình Haha” được thực hiện dựa trên sự kế thừa những dấu ấn tuyệt đẹp từ 'Gia Tộc Toàn Năng Anh Tài - Chị Đẹp'. Bởi vậy, YeaH1 cam kết sẽ mang tới cho khán giả một chương trình tích cực,  một lời tri ân sâu sắc, những kết nối có giá trị tới vùng đất chương trình đi qua. Đây cũng là cách YeaH1 đáp đền những tình cảm yêu thương mà quý khán giả đã dành tặng cho mình trong thời gian qua.\n\n📺 Chương trình truyền hình thực tế “Gia đình Haha-Những ngày trời bao la” sẽ lên sóng ngày 14.6.2025 lúc 20:00 trên VTV3 và 20:30 trên Youtube Yeah1. Chương trình được Việt hoá và mua bản quyền từ HaHa Farmer của MangoTV\n\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Gia Đình Haha tại:\n📍FanPage: https://www.facebook.com/giadinhaha\n📍TikTok:  https://www.tiktok.com/@giadinhhaha_official\n-------------------------------------------------------------------------\n#GiaDinhHaha #HahaFarmerVietNam #YeaH1 #duykhanhofficial #rhymastic #ngocthanhtam #junpham #buicongnam #giadinhhahatap1 #tap1giadinhhaha #giadinhhaha #giadinhhaha_hahafarmer #giadinhhahamoinhat \n-------------------------------------------------------------------------\nXem các chương trình hấp dẫn khác của YeaH1:\n► Gia Đình HaHa: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY\n► Tân Binh Toàn Năng: https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44 \n► Anh Trai Vượt Ngàn Chông Gai 2024:  https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq \n► Chị Đẹp Đạp Gió 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF   \n► Chị Đẹp Đạp Gió Rẽ Sóng 2023: https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A \n► Mẹ Siêu Nhân: https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3\n► SHORT DRAMA YeaH1: https://www.youtube.com/playlist?list=PL12uYpRGaZl2KntGTTdW46tENUZSRVMc2 \n► TLOO: https://www.youtube.com/playlist?list=PLWrySnXBHMJE4G3oyRZOixB_I04or2eBM \n► Đại Tiểu Thư: https://www.youtube.com/playlist?list=PLbP_2npTsLDnqDzUdMsd7QnVum-B0UNy2 \n► Anh Áo Đen: https://www.youtube.com/playlist?list=PL965xq4VOTyO5JporousDtVnGrFSqvxgb \n-----------------------------------------------------------------------------------\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 SHOW: https://www.youtube.com/channel/UCh_zF2FsiCflCPgYDudtcqg\n►YeaH1 Music: https://www.youtube.com/channel/UCI2OiZs5aVcyBUBVsgovzng \n►Short YeaH1: https://www.youtube.com/@YeaH1SHORTS\n-----------------------------------------------------------------------------------\n©️ Bản quyền thuộc sở hữu của YeaH1 và được bảo vệ bản quyền bởi YeaH1\n©️ Không được RE-UP lại dưới mọi hình thức",
+      "translatedText": "HaHa Family - EP 12 | The cast experiences Bui Cong Nam's hometown and the ending \n\n📣 Subscribe to YeaH1 ONE channel to watch the EARLIEST and NEWEST episodes: https://bit.ly/YeaH1ONE\nThe first season of 'Haha Family' features 5 members: Jun Pham, Bui Cong Nam, Ngoc Thanh Tam, Rhymastic and Duy Khanh. They will live and work with people in the countryside.\n\n\"Haha Family\" is based on the inheritance of beautiful impressions from 'Gia Toc Toan Nang Anh Tai - Chi Dep'. Therefore, YeaH1 is committed to bringing the audience a positive program, a deep gratitude, and valuable connections to the land the program has passed through. This is also YeaH1's way of repaying the love that the audience has given it in the past time.\n\n📺 The reality TV show \"Haha Family - The Vast Sky Days\" will air on June 14, 2025 at 20:00 on VTV3 and 20:30 on Youtube Yeah1. The program is localized and copyrighted from HaHa Farmer of MangoTV\n\nLet's follow and wait for the latest information of Gia Dinh Haha at:\n📍FanPage:   / giadinhaha  \n📍TikTok:   / giadinhhaha_official  \n--------------------------------------------------------------------------------\n#GiaDinhHaha #HahaFarmerVietNam #YeaH1 #duykhanhofficial #rhymastic #ngocthanhtam #junpham #buicongnam #giadinhhahatap1 #tap1giadinhhaha #giadinhhaha #giadinhhaha_hahafarmer #giadinhhahamoinhat\n-------------------------------------------------------------------------\nWatch other attractive programs of YeaH1:\n► Gia Dinh HaHa:    • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  \n► All-round Rookie:    • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  \n► Brother Overcoming a Thousand Thorns 2024:    • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  \n► Beautiful Sister Riding the Wind 2024:    • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  \n► Beautiful Sister Riding the Wind and Breaking the Waves 2023:    • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...   \n► Super Mom:    • MẸ SIÊU NHÂN 2024 | Bản Quyền của YeaH1   \n► SHORT DRAMA YeaH1:    • PHIM LẺ HAY MỚI NHẤT 2026 | SHORT YEAH1   \n► TLOO:    • TIỆM RAU LẠ LẮM SERIES | TLOO PHIM NGẮN HAY   \n► The Big Lady:    • ĐẠI TIỂU THƯ Trọn Bộ 4K | Phim Ngắn Tâm Lý...  \n► Black Shirt:    • ANH ÁO ĐEN - ĐẠI AN | Tổng Hợp Clip Hay Nhất   \n--------------------------------------------------------------------------------\nOr watch more on the YeaH1 system:\n►YeaH1 SHOW:    / @yeah1show  \n►YeaH1 Music:    / @yeah1music   \n►Short YeaH1:    / @yeah1shorts  \n--------------------------------------------------------------------------------\n©️ Copyright owned by YeaH1 and protected by YeaH1\n©️ Do not RE-UP in any form",
+      "descriptionLinks": [
+        {
+          "url": "https://bit.ly/YeaH1ONE",
+          "text": "https://bit.ly/YeaH1ONE"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=CIh5yer5S5Y&t=1200s",
+          "text": "20:00"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=CIh5yer5S5Y&t=1230s",
+          "text": "20:30"
+        },
+        {
+          "url": "https://www.facebook.com/giadinhaha",
+          "text": "  / giadinhaha  "
+        },
+        {
+          "url": "https://www.tiktok.com/@giadinhhaha_official",
+          "text": "  / giadinhhaha_official  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhaha",
+          "text": "#GiaDinhHaha"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hahafarmervietnam",
+          "text": "#HahaFarmerVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/duykhanhofficial",
+          "text": "#duykhanhofficial"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/rhymastic",
+          "text": "#rhymastic"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngocthanhtam",
+          "text": "#ngocthanhtam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junpham",
+          "text": "#junpham"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/buicongnam",
+          "text": "#buicongnam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhahatap1",
+          "text": "#giadinhhahatap1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tap1giadinhhaha",
+          "text": "#tap1giadinhhaha"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhaha",
+          "text": "#giadinhhaha"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhaha_hahafarmer",
+          "text": "#giadinhhaha_hahafarmer"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhahamoinhat",
+          "text": "#giadinhhahamoinhat"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY",
+          "text": "   • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44",
+          "text": "   • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+          "text": "   • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3",
+          "text": "   • MẸ SIÊU NHÂN 2024 | Bản Quyền của YeaH1  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PL12uYpRGaZl2KntGTTdW46tENUZSRVMc2",
+          "text": "   • PHIM LẺ HAY MỚI NHẤT 2026 | SHORT YEAH1  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLWrySnXBHMJE4G3oyRZOixB_I04or2eBM",
+          "text": "   • TIỆM RAU LẠ LẮM SERIES | TLOO PHIM NGẮN HAY  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLbP_2npTsLDnqDzUdMsd7QnVum-B0UNy2",
+          "text": "   • ĐẠI TIỂU THƯ Trọn Bộ 4K | Phim Ngắn Tâm Lý...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PL965xq4VOTyO5JporousDtVnGrFSqvxgb",
+          "text": "   • ANH ÁO ĐEN - ĐẠI AN | Tổng Hợp Clip Hay Nhất  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCh_zF2FsiCflCPgYDudtcqg",
+          "text": "   / @yeah1show  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCI2OiZs5aVcyBUBVsgovzng",
+          "text": "   / @yeah1music  "
+        },
+        {
+          "url": "https://www.youtube.com/@YeaH1SHORTS",
+          "text": "   / @yeah1shorts  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 3,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=Gia+%C4%90%C3%ACnh+Haha+T%E1%BA%ADp+12+Full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [
+        "#GiaDinhHaha",
+        "#buicongnam",
+        "#rhymastic"
+      ],
+      "isMembersOnly": false,
+      "input": "Gia Đình Haha Tập 12 Full",
+      "isPaidContent": false
+    },
+    {
+      "title": "Gia đình Haha - Tập 13 | Phanh phui chuyện Duy Khánh ăn vụng, Jun Phạm cứu nguy kịp thời",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "WvaESMkCEXA",
+      "url": "https://www.youtube.com/watch?v=WvaESMkCEXA",
+      "thumbnailUrl": "https://i.ytimg.com/vi/WvaESMkCEXA/maxresdefault.jpg",
+      "viewCount": 5981738,
+      "date": "2025-09-06T13:30:06.000Z",
+      "likes": 37000,
+      "location": null,
+      "channelName": "YEAH1 SHOW",
+      "channelUrl": "https://www.youtube.com/@YEAH1SHOW",
+      "channelUsername": "YEAH1SHOW",
+      "collaborators": [
+        {
+          "name": "YEAH1 SHOW",
+          "username": "YEAH1SHOW",
+          "url": "https://www.youtube.com/@YEAH1SHOW",
+          "channelId": "UCh_zF2FsiCflCPgYDudtcqg"
+        },
+        {
+          "name": "YeaH1 Giải Trí",
+          "username": "YEAH1_GIAITRI",
+          "url": "https://www.youtube.com/@YEAH1_GIAITRI",
+          "channelId": "UCecta98cdYVFV6L_lfH__IA"
+        },
+        {
+          "name": "YeaH1 ONE",
+          "username": "YeaH1ONE",
+          "url": "https://www.youtube.com/@YeaH1ONE",
+          "channelId": "UC_np0YZuvNMIJceE6jHeggQ"
+        },
+        {
+          "name": "YeaH1 Trending",
+          "username": "YeaH1Trending",
+          "url": "https://www.youtube.com/@YeaH1Trending",
+          "channelId": "UCO4hOvuIUEx1rPHldofBCnw"
+        }
+      ],
+      "channelId": "UCh_zF2FsiCflCPgYDudtcqg",
+      "numberOfSubscribers": 765000,
+      "duration": "03:12:40",
+      "commentsCount": 2527,
+      "text": "Gia đình Haha - Tập 13 | Phanh phui chuyện Duy Khánh ăn vụng, Jun Phạm cứu nguy kịp thời\n\n'Gia đình Haha' mùa đầu tiên có sự tham gia của 5 thành viên là Jun Phạm, Bùi Công Nam, Ngọc Thanh Tâm, Rhymastic và Duy Khánh. Họ sẽ cùng sống và làm việc với người dân ở nông thôn.\n\n“Gia Đình Haha” được thực hiện dựa trên sự kế thừa những dấu ấn tuyệt đẹp từ 'Gia Tộc Toàn Năng Anh Tài - Chị Đẹp'. Bởi vậy, YeaH1 cam kết sẽ mang tới cho khán giả một chương trình tích cực,  một lời tri ân sâu sắc, những kết nối có giá trị tới vùng đất chương trình đi qua. Đây cũng là cách YeaH1 đáp đền những tình cảm yêu thương mà quý khán giả đã dành tặng cho mình trong thời gian qua.\n\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Gia Đình Haha tại:\n\n📍FanPage: https://www.facebook.com/giadinhaha \n📍TikTok: https://www.tiktok.com/@giadinhhaha_official \n\n📺 Chương trình truyền hình thực tế “Gia đình Haha-Những ngày trời bao la” sẽ lên sóng ngày 14.6.2025 lúc 20:00 trên VTV3 và 20:30 trên Youtube Yeah1. Chương trình được Việt hoá và mua bản quyền từ HaHa Farmer của MangoTV\n\n#GiaDinhHaha #HahaFarmerVietNam #YeaH1 #GĐHH #giadinhhahashow  #duykhanhofficial #Rhymastic #ngocthanhtam #Junpham #buicongnam #giadinhhahatap13 #tap13giadinhhaha #giadinhhaha #giadinhhahamoinhat #toctien #STRONG #STRONGTrongHieu #giadinhhahavtv3 #dulich #dulichvietnam #vănhóa #chuongtrinhmoi #chuongtrinhthucte #giaitri #giảitrí #funnyfamilymoments  \n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng: https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44\n►Anh Trai Vượt Ngàn Chông Gai 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq\n►Chị Đẹp Đạp Gió 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF\n►Chị Đẹp Đạp Gió Rẽ Sóng 2023: https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A\n►Mẹ Siêu Nhân: https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3\n► Gia Đình Haha: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY\n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 SHOW: https://www.youtube.com/@YEAH1SHOW \n►YeaH1 Entertainment: https://www.youtube.com/@YEAH1_GIAITRI \n►YeaH1 Music: https://www.youtube.com/@yeah1music\n\nTham khảo các sản phẩm công nghệ, thời trang, sản phẩm tiêu dùng\n🍽️ Gia vị – bếp núc gia đình:\nNước mắm Nam Ngư Ớt Tỏi Lý Sơn  \n  – Loại tụi mình hay dùng cho các bữa ăn gia đình, nêm nếm nhanh, vị đậm đà  \n  👉 Link 1: https://s.shopee.vn/AUmyOVNGEf\n  👉 Link 2: https://s.shopee.vn/1Vs9fzZ3o9\nTương ớt CHIN-SU  \n  – Dùng cho bếp đông người, quán nhỏ hoặc gia đình hay nấu ăn  \n  👉 Link 1: https://s.shopee.vn/7KpwcjYaMY\n  👉 Link 2: https://s.shopee.vn/7V9Mp5jO9Z \n\n📣 Subscribe kênh Yeah1 Show để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4n8zC5R\n©️Bản quyền thuộc YeaH1 - nhà sản xuất các chương trình giải trí hàng đầu như Gia Đình Haha, Tân Binh Toàn Năng, Anh Trai Vượt Ngàn Chông Gai, Chị Đẹp Đạp Gió Rẽ Sóng, Dẫn Dụ Em Vào Lòng",
+      "translatedText": "Gia đình Haha - Tập 13 | Phanh phui chuyện Duy Khánh ăn vụng, Jun Phạm cứu nguy kịp thời\n\n'Gia đình Haha' mùa đầu tiên có sự tham gia của 5 thành viên là Jun Phạm, Bùi Công Nam, Ngọc Thanh Tâm, Rhymastic và Duy Khánh. Họ sẽ cùng sống và làm việc với người dân ở nông thôn.\n\n“Gia Đình Haha” được thực hiện dựa trên sự kế thừa những dấu ấn tuyệt đẹp từ 'Gia Tộc Toàn Năng Anh Tài - Chị Đẹp'. Bởi vậy, YeaH1 cam kết sẽ mang tới cho khán giả một chương trình tích cực,  một lời tri ân sâu sắc, những kết nối có giá trị tới vùng đất chương trình đi qua. Đây cũng là cách YeaH1 đáp đền những tình cảm yêu thương mà quý khán giả đã dành tặng cho mình trong thời gian qua.\n\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Gia Đình Haha tại:\n\n📍FanPage:   / giadinhaha   \n📍TikTok:   / giadinhhaha_official   \n\n📺 Chương trình truyền hình thực tế “Gia đình Haha-Những ngày trời bao la” sẽ lên sóng ngày 14.6.2025 lúc 20:00 trên VTV3 và 20:30 trên Youtube Yeah1. Chương trình được Việt hoá và mua bản quyền từ HaHa Farmer của MangoTV\n\n#GiaDinhHaha #HahaFarmerVietNam #YeaH1 #GĐHH #giadinhhahashow  #duykhanhofficial #Rhymastic #ngocthanhtam #Junpham #buicongnam #giadinhhahatap13 #tap13giadinhhaha #giadinhhaha #giadinhhahamoinhat #toctien #STRONG #STRONGTrongHieu #giadinhhahavtv3 #dulich #dulichvietnam #vănhóa #chuongtrinhmoi #chuongtrinhthucte #giaitri #giảitrí #funnyfamilymoments  \n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng:    • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  \n►Anh Trai Vượt Ngàn Chông Gai 2024:    • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  \n►Chị Đẹp Đạp Gió 2024:    • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  \n►Chị Đẹp Đạp Gió Rẽ Sóng 2023:    • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  \n►Mẹ Siêu Nhân:    • MẸ SIÊU NHÂN 2024 | Bản Quyền của YeaH1  \n► Gia Đình Haha:    • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  \n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 SHOW:    / @yeah1show   \n►YeaH1 Entertainment:    / @yeah1_giaitri   \n►YeaH1 Music:    / @yeah1music  \n\nTham khảo các sản phẩm công nghệ, thời trang, sản phẩm tiêu dùng\n🍽️ Gia vị – bếp núc gia đình:\nNước mắm Nam Ngư Ớt Tỏi Lý Sơn  \n  – Loại tụi mình hay dùng cho các bữa ăn gia đình, nêm nếm nhanh, vị đậm đà  \n  👉 Link 1: https://s.shopee.vn/AUmyOVNGEf\n  👉 Link 2: https://s.shopee.vn/1Vs9fzZ3o9\nTương ớt CHIN-SU  \n  – Dùng cho bếp đông người, quán nhỏ hoặc gia đình hay nấu ăn  \n  👉 Link 1: https://s.shopee.vn/7KpwcjYaMY\n  👉 Link 2: https://s.shopee.vn/7V9Mp5jO9Z \n\n📣 Subscribe kênh Yeah1 Show để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4n8zC5R\n©️Bản quyền thuộc YeaH1 - nhà sản xuất các chương trình giải trí hàng đầu như Gia Đình Haha, Tân Binh Toàn Năng, Anh Trai Vượt Ngàn Chông Gai, Chị Đẹp Đạp Gió Rẽ Sóng, Dẫn Dụ Em Vào Lòng",
+      "descriptionLinks": [
+        {
+          "url": "https://www.facebook.com/giadinhaha",
+          "text": "  / giadinhaha  "
+        },
+        {
+          "url": "https://www.tiktok.com/@giadinhhaha_official",
+          "text": "  / giadinhhaha_official  "
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=WvaESMkCEXA&t=1200s",
+          "text": "20:00"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=WvaESMkCEXA&t=1230s",
+          "text": "20:30"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhaha",
+          "text": "#GiaDinhHaha"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hahafarmervietnam",
+          "text": "#HahaFarmerVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/g%C4%91hh",
+          "text": "#GĐHH"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhahashow",
+          "text": "#giadinhhahashow"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/duykhanhofficial",
+          "text": "#duykhanhofficial"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/rhymastic",
+          "text": "#Rhymastic"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngocthanhtam",
+          "text": "#ngocthanhtam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junpham",
+          "text": "#Junpham"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/buicongnam",
+          "text": "#buicongnam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhahatap13",
+          "text": "#giadinhhahatap13"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tap13giadinhhaha",
+          "text": "#tap13giadinhhaha"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhaha",
+          "text": "#giadinhhaha"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhahamoinhat",
+          "text": "#giadinhhahamoinhat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/toctien",
+          "text": "#toctien"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/strong",
+          "text": "#STRONG"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/strongtronghieu",
+          "text": "#STRONGTrongHieu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhahavtv3",
+          "text": "#giadinhhahavtv3"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dulich",
+          "text": "#dulich"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dulichvietnam",
+          "text": "#dulichvietnam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/v%C4%83nh%C3%B3a",
+          "text": "#vănhóa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chuongtrinhmoi",
+          "text": "#chuongtrinhmoi"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chuongtrinhthucte",
+          "text": "#chuongtrinhthucte"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giaitri",
+          "text": "#giaitri"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gi%E1%BA%A3itr%C3%AD",
+          "text": "#giảitrí"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/funnyfamilymoments",
+          "text": "#funnyfamilymoments"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44",
+          "text": "   • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+          "text": "   • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3",
+          "text": "   • MẸ SIÊU NHÂN 2024 | Bản Quyền của YeaH1  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY",
+          "text": "   • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCh_zF2FsiCflCPgYDudtcqg",
+          "text": "   / @yeah1show  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCecta98cdYVFV6L_lfH__IA",
+          "text": "   / @yeah1_giaitri  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCI2OiZs5aVcyBUBVsgovzng",
+          "text": "   / @yeah1music  "
+        },
+        {
+          "url": "https://s.shopee.vn/AUmyOVNGEf",
+          "text": "https://s.shopee.vn/AUmyOVNGEf"
+        },
+        {
+          "url": "https://s.shopee.vn/1Vs9fzZ3o9",
+          "text": "https://s.shopee.vn/1Vs9fzZ3o9"
+        },
+        {
+          "url": "https://s.shopee.vn/7KpwcjYaMY",
+          "text": "https://s.shopee.vn/7KpwcjYaMY"
+        },
+        {
+          "url": "https://s.shopee.vn/7V9Mp5jO9Z",
+          "text": "https://s.shopee.vn/7V9Mp5jO9Z"
+        },
+        {
+          "url": "https://bit.ly/4n8zC5R",
+          "text": "https://bit.ly/4n8zC5R"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 1,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=Gia+%C4%90%C3%ACnh+Haha+T%E1%BA%ADp+12+Full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "Gia Đình Haha Tập 12 Full",
+      "isPaidContent": false
+    },
+    {
+      "title": "Chuyện Nhà HaHa - Tập 12 | Bùi Công Nam, Ngọc Thanh Tâm “CẠN LỜI” vì (S)TRONG?",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "TlvigQNLvrU",
+      "url": "https://www.youtube.com/watch?v=TlvigQNLvrU",
+      "thumbnailUrl": "https://i.ytimg.com/vi/TlvigQNLvrU/maxresdefault.jpg",
+      "viewCount": 512496,
+      "date": "2025-09-09T13:30:06.000Z",
+      "likes": 5100,
+      "location": null,
+      "channelName": "YeaH1 Giải Trí",
+      "channelUrl": "https://www.youtube.com/@YEAH1_GIAITRI",
+      "channelUsername": "YEAH1_GIAITRI",
+      "collaborators": null,
+      "channelId": "UCecta98cdYVFV6L_lfH__IA",
+      "numberOfSubscribers": 302000,
+      "duration": "00:53:38",
+      "commentsCount": 257,
+      "text": "Chuyện Nhà HaHa - Tập 12 | Bùi Công Nam, Ngọc Thanh Tâm “CẠN LỜI” vì (S)TRONG?\n\n#GiaDinhHaha #HahaFarmerVietNam #YeaH1 #giadinhhaha #giadinhhahashow #giadinhhahafull #giadinhhahauncut #duykhanhofficial #rhymastic #ngocthanhtam #junpham #buicongnam #chuyennhahaha #chuongtrinhthucte #YEAH1 #YEAH1ENTERTAINMENT #YEAH1ENTER #chuyennhahahatap12 #showthucte #toctien #STRONG #STRONGTrongHieu\n\n----------------------------------------------\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Gia Đình Haha tại:\n\n📍FanPage: https://www.facebook.com/giadinhaha \n📍TikTok: https://www.tiktok.com/@giadinhhaha_official \n\n\n“CHUY��N NHÀ HAHA” - Series Đồng hành cùng Chương trình Gia Đình HaHa sẽ là nơi mang đến những câu chuyện, tình huống chưa lên sóng trong tập phát sóng chính; với vô vàn khoảnh khắc ăn - ở - ngủ - nghỉ - đi - chơi ê hề chưa hết chuyện. Những mảng miếng bị “cắt sóng” sẽ được tiết lộ và chia sẻ thêm khi nhiều thước phim hậu trường vui ơi là vui, ồn ơi là ồn được “phơi bày”.\n\nSeries đặc biệt này sẽ phát sóng vào Thứ Ba hằng tuần vào 20:30 trên hệ thống Youtube YeaH1.\n\n📺 Chương trình truyền hình thực tế “Gia đình Haha-Những ngày trời bao la” sẽ lên sóng ngày 14.6.2025 lúc 20:00 trên VTV3 và 20:30 trên Youtube Yeah1 Show. Chương trình được Việt hoá và mua bản quyền từ HaHa Farmer của MangoTV\n\n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n► Gia Đình Haha: https://www.youtube.com/playlist?list=PLt3LgMEKzFxxPHTWK3GsTDfYx64u5aWkb\n►Tân Binh Toàn Năng: https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44\n►Anh Trai Vượt Ngàn Chông Gai 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq\n►Chị Đẹp Đạp Gió 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF\n►Chị Đẹp Đạp Gió Rẽ Sóng 2023: https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A\n►Mẹ Siêu Nhân: https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3\n\n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 SHOW: https://www.youtube.com/@YEAH1SHOW \n►YeaH1 Entertainment: https://www.youtube.com/@YEAH1_GIAITRI \n►YeaH1 Music: https://www.youtube.com/@yeah1music\n\nTham khảo các sản phẩm công nghệ, thời trang, sản phẩm tiêu dùng\n🍽️ Gia vị – bếp núc gia đình:\n• Nước mắm Nam Ngư Ớt Tỏi Lý Sơn  \n  – Loại tụi mình hay dùng cho các bữa ăn gia đình, nêm nếm nhanh, vị đậm đà  \n  👉 Link 1: https://s.shopee.vn/AUmyOVNGEf\n  👉 Link 2: https://s.shopee.vn/1Vs9fzZ3o9\n• Tương ớt CHIN-SU  \n  – Dùng cho bếp đông người, quán nhỏ hoặc gia đình hay nấu ăn  \n  👉 Link 1: https://s.shopee.vn/7KpwcjYaMY\n  👉 Link 2: https://s.shopee.vn/7V9Mp5jO9Z \n\n\n📣 Subscribe kênh Yeah1 Show để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4n8zC5R\n©️ Gia Đình Haha thuộc sở hữu của Yeah 1 Show và được bảo vệ bản quyền bởi Yeah 1 Show\"\"\"",
+      "translatedText": "Chuyện Nhà HaHa - Tập 12 | Bùi Công Nam, Ngọc Thanh Tâm “CẠN LỜI” vì (S)TRONG?\n\n#GiaDinhHaha #HahaFarmerVietNam #YeaH1 #giadinhhaha #giadinhhahashow #giadinhhahafull #giadinhhahauncut #duykhanhofficial #rhymastic #ngocthanhtam #junpham #buicongnam #chuyennhahaha #chuongtrinhthucte #YEAH1 #YEAH1ENTERTAINMENT #YEAH1ENTER #chuyennhahahatap12 #showthucte #toctien #STRONG #STRONGTrongHieu\n\n----------------------------------------------\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Gia Đình Haha tại:\n\n📍FanPage:   / giadinhaha   \n📍TikTok:   / giadinhhaha_official   \n\n\n“CHUYỆN NHÀ HAHA” - Series Đồng hành cùng Chương trình Gia Đình HaHa sẽ là nơi mang đến những câu chuyện, tình huống chưa lên sóng trong tập phát sóng chính; với vô vàn khoảnh khắc ăn - ở - ngủ - nghỉ - đi - chơi ê hề chưa hết chuyện. Những mảng miếng bị “cắt sóng” sẽ được tiết lộ và chia sẻ thêm khi nhiều thước phim hậu trường vui ơi là vui, ồn ơi là ồn được “phơi bày”.\n\nSeries đặc biệt này sẽ phát sóng vào Thứ Ba hằng tuần vào 20:30 trên hệ thống Youtube YeaH1.\n\n📺 Chương trình truyền hình thực tế “Gia đình Haha-Những ngày trời bao la” sẽ lên sóng ngày 14.6.2025 lúc 20:00 trên VTV3 và 20:30 trên Youtube Yeah1 Show. Chương trình được Việt hoá và mua bản quyền từ HaHa Farmer của MangoTV\n\n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n► Gia Đình Haha:    • Playlist  \n►Tân Binh Toàn Năng:    • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  \n►Anh Trai Vượt Ngàn Chông Gai 2024:    • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  \n►Chị Đẹp Đạp Gió 2024:    • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  \n►Chị Đẹp Đạp Gió Rẽ Sóng 2023:    • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  \n►Mẹ Siêu Nhân:    • MẸ SIÊU NHÂN 2024 | Bản Quyền của YeaH1  \n\n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 SHOW:    / @yeah1show   \n►YeaH1 Entertainment:    / @yeah1_giaitri   \n►YeaH1 Music:    / @yeah1music  \n\nTham khảo các sản phẩm công nghệ, thời trang, sản phẩm tiêu dùng\n🍽️ Gia vị – bếp núc gia đình:\n• Nước mắm Nam Ngư Ớt Tỏi Lý Sơn  \n  – Loại tụi mình hay dùng cho các bữa ăn gia đình, nêm nếm nhanh, vị đậm đà  \n  👉 Link 1: https://s.shopee.vn/AUmyOVNGEf\n  👉 Link 2: https://s.shopee.vn/1Vs9fzZ3o9\n• Tương ớt CHIN-SU  \n  – Dùng cho bếp đông người, quán nhỏ hoặc gia đình hay nấu ăn  \n  👉 Link 1: https://s.shopee.vn/7KpwcjYaMY\n  👉 Link 2: https://s.shopee.vn/7V9Mp5jO9Z \n\n\n📣 Subscribe kênh Yeah1 Show để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4n8zC5R\n©️ Gia Đình Haha thuộc sở hữu của Yeah 1 Show và được bảo vệ bản quyền bởi Yeah 1 Show\"\"\"",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhaha",
+          "text": "#GiaDinhHaha"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hahafarmervietnam",
+          "text": "#HahaFarmerVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhaha",
+          "text": "#giadinhhaha"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhahashow",
+          "text": "#giadinhhahashow"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhahafull",
+          "text": "#giadinhhahafull"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/giadinhhahauncut",
+          "text": "#giadinhhahauncut"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/duykhanhofficial",
+          "text": "#duykhanhofficial"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/rhymastic",
+          "text": "#rhymastic"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngocthanhtam",
+          "text": "#ngocthanhtam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junpham",
+          "text": "#junpham"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/buicongnam",
+          "text": "#buicongnam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chuyennhahaha",
+          "text": "#chuyennhahaha"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chuongtrinhthucte",
+          "text": "#chuongtrinhthucte"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YEAH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1entertainment",
+          "text": "#YEAH1ENTERTAINMENT"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1enter",
+          "text": "#YEAH1ENTER"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chuyennhahahatap12",
+          "text": "#chuyennhahahatap12"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showthucte",
+          "text": "#showthucte"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/toctien",
+          "text": "#toctien"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/strong",
+          "text": "#STRONG"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/strongtronghieu",
+          "text": "#STRONGTrongHieu"
+        },
+        {
+          "url": "https://www.facebook.com/giadinhaha",
+          "text": "  / giadinhaha  "
+        },
+        {
+          "url": "https://www.tiktok.com/@giadinhhaha_official",
+          "text": "  / giadinhhaha_official  "
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=TlvigQNLvrU&t=1230s",
+          "text": "20:30"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=TlvigQNLvrU&t=1200s",
+          "text": "20:00"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=TlvigQNLvrU&t=1230s",
+          "text": "20:30"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxPHTWK3GsTDfYx64u5aWkb",
+          "text": "   • Playlist  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44",
+          "text": "   • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+          "text": "   • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3",
+          "text": "   • MẸ SIÊU NHÂN 2024 | Bản Quyền của YeaH1  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCh_zF2FsiCflCPgYDudtcqg",
+          "text": "   / @yeah1show  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCecta98cdYVFV6L_lfH__IA",
+          "text": "   / @yeah1_giaitri  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCI2OiZs5aVcyBUBVsgovzng",
+          "text": "   / @yeah1music  "
+        },
+        {
+          "url": "https://s.shopee.vn/AUmyOVNGEf",
+          "text": "https://s.shopee.vn/AUmyOVNGEf"
+        },
+        {
+          "url": "https://s.shopee.vn/1Vs9fzZ3o9",
+          "text": "https://s.shopee.vn/1Vs9fzZ3o9"
+        },
+        {
+          "url": "https://s.shopee.vn/7KpwcjYaMY",
+          "text": "https://s.shopee.vn/7KpwcjYaMY"
+        },
+        {
+          "url": "https://s.shopee.vn/7V9Mp5jO9Z",
+          "text": "https://s.shopee.vn/7V9Mp5jO9Z"
+        },
+        {
+          "url": "https://bit.ly/4n8zC5R",
+          "text": "https://bit.ly/4n8zC5R"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 2,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=Gia+%C4%90%C3%ACnh+Haha+T%E1%BA%ADp+12+Full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "Gia Đình Haha Tập 12 Full",
+      "isPaidContent": false
+    }
+  ]
+}

@@ -1,0 +1,942 @@
+{
+  "actor_name": "streamers/youtube-scraper",
+  "actor_run_id": "2HRJ1cw2tJ8EtS4Ng",
+  "dataset_id": "JSBSgFh7QVIgc2mla",
+  "actor_build_id": "SUk0475fgtCh9zqMt",
+  "retrieved_at": "2026-08-12T18:42:16.381726+07:00",
+  "actor_input": {
+    "maxResults": 10,
+    "maxResultsShorts": 0,
+    "maxResultStreams": 0,
+    "searchQueries": [
+      "Sao Nhập Ngũ 2023 Tập 5 Full"
+    ],
+    "sourceBindingUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CriKOGYS3OtwqdTUYU8Ex1-"
+  },
+  "run_metadata": {
+    "status": "SUCCEEDED",
+    "startedAt": "2026-08-12T11:41:40.933Z",
+    "finishedAt": "2026-08-12T11:42:12.407Z",
+    "usageTotalUsd": 0.04,
+    "chargedEventCounts": {
+      "result": 10,
+      "date-filter": 0,
+      "ai-video-description": 0,
+      "ai-video-summary": 0
+    }
+  },
+  "items": [
+    {
+      "title": "Sao nhập ngũ 2022 l TẬP 5 l Độ Mixi kiên quyết giữ \"nóc nhà\", Duy Khánh & Cara Phương bật khóc",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "vygw0ud_wzk",
+      "url": "https://www.youtube.com/watch?v=vygw0ud_wzk",
+      "thumbnailUrl": "https://i.ytimg.com/vi/vygw0ud_wzk/maxresdefault.jpg",
+      "viewCount": 9137620,
+      "date": "2022-04-02T13:30:17.000Z",
+      "likes": 95000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "01:05:10",
+      "commentsCount": 5868,
+      "text": "🔥 Sao nhập ngũ 2022 - Bước chân thần tốc - Hứa hẹn một mùa trải nghiệm đầy thú vị, mang đến những hình ảnh mới mẻ, đặc biệt của nghệ sĩ trải nghiệm. Quy tụ những lần 'khủng nhất' trong suốt 10 mùa phát sóng vừa qua. Dàn cast cực lầy nhưng đầy quyết tâm: Độ Mixi, S.T, Puka, Minh Tú, Anh Tú, Hòa Minzy, Duy Khánh,Cara. Quy mô trải nghiệm lớn nhất với sự kết hợp các đơn vị Bộ binh, Pháo binh, Tăng thiết giáp, Trinh sát.\n🔥Game bắn súng Badlanders tự hào tài trợ Gameshow siêu hạng Sao Nhập Ngũ! Cài Badlanders tại https://badlanders.onelink.me/4dWq/59... \n🔥Xem tập mới sớm nhất trên TV360, Tải app tại: http://s.viettel.vn/yt2\n🔥Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2022 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 13H00 Thứ 7 trên TV360\n     💓 20h00 Thứ 7 trên Kênh TH SCTV6\n     💓 20h00 Thứ 7 trên Mocha \n     💓 20h30 Thứ 7 trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Phó Tổng Đạo diễn: Lê Quý Giáp\n• Đạo diễn: Lê Đức Cường & Phạm Thanh Hảo\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Ngô Trang & Phương Thảo & Mai Hằng\n• D.O.P: Đoàn Ngọc Ước  & Mai Trùng Khánh\n• Quay phim: Thái Ngân; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Thành Nam; Hồng Phương; Tuấn Huy; Thanh Tĩnh; Văn Sướng; Văn Quân; Quang Anh; Thành Luân; Văn Tùng.\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Hoàng Chiến; Ngọc Quang; Tuấn Vũ; Anh Tú; Duy Lành; Quang Thuận; Trung Hiếu\n• Âm thanh: Huy Lương & Ngọc Hùng & Ngọc Hưng & Anh Thắng\n• Quản lý thiết bị: Thành Linh & Anh Đức\n• Hỗ trợ sản xuất: Đào Hà, Vân Anh, Thanh Thuận, Triệu Hương, Huy Hoàng, Đăng Kiên, Anh Tuấn, Trọng Lợi, Hà Thanh, Văn Huệ, Minh Tân\n• Đạo diễn hậu kỳ: Hải Khoa, Cường Lê, Quý Gíap, Thanh Hảo\n• Biên tập hậu kỳ: Phương Thảo; Ngô Trang; Tuấn Nghĩa; Thanh Liêm, Trần Hoàng\n• Kỹ thuật hậu kỳ: Thanh Tùng, Anh Đức, Hiệp Cine, Anh Hiệp\n• Đồ họa & thiết kế: Phùng Tùng & HaoMi & Hannah Ru\n• Phụ trách Truyền thông: Nga Nguyễn, Đỗ Hương, Châm Nguyễn\n• Truyền thông social: Trần Quỳnh; Mỹ Mỹ; Hằng Nga; Trà Trang; Khánh Linh; Trần Phương; Hải Đăng; Bá Linh; Long ....\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://badlanders.onelink.me/4dWq/595d3dee",
+          "text": "https://badlanders.onelink.me/4dWq/59..."
+        },
+        {
+          "url": "http://s.viettel.vn/yt2",
+          "text": "http://s.viettel.vn/yt2"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 4,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=Sao+Nh%E1%BA%ADp+Ng%C5%A9+2023+T%E1%BA%ADp+5+Full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "Sao Nhập Ngũ 2023 Tập 5 Full",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao Nhập Ngũ 2024 Tập 5: Vàng thật không sợ lửa | Nước mắt không có nghĩa là yếu đuối!",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "IRCpkYg8BiI",
+      "url": "https://www.youtube.com/watch?v=IRCpkYg8BiI",
+      "thumbnailUrl": "https://i.ytimg.com/vi/IRCpkYg8BiI/maxresdefault.jpg",
+      "viewCount": 1704424,
+      "date": "2024-01-11T13:30:11.000Z",
+      "likes": 16000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "01:00:05",
+      "commentsCount": 1602,
+      "text": "#saonhapngu #viettelmedia #xemesis #maitaiphen #soobin #tuantran #huynhlap #phatla #16typh \n🔥 Sao Nhập Ngũ 2024 – Không khoan nhượng - \"Không khoan nhượng với chính bản thân, không đầu hàng trước khó khăn thử thách\"\n8 chiến sĩ Nghiêm Anh Hiếu, Mai Tài Phến, Nguyễn Huỳnh Sơn, Trần Duy Tuấn, Huỳnh Ngọc Lập, La Vĩnh Phát, Phạm Hoàng Hải, Nguyễn Việt Hoàng nhập cuộc ngay từ phút đầu tiên, căng thẳng, gay cấn và 'không khoan nhượng'. Những chiến sĩ mới có vượt qua được thử thách hoàn thành được nhiệm vụ đặt ra?\n🔥 Đón xem Sao nhập ngũ 2024 thứ 5 hàng tuần từ ngày 14/12:\n💓 9H15 Thứ 5 trên Kênh TH QPVN\n💓20h20 Thứ 5 trên Kênh HTV7\n💓 20H30 Thứ 5 trên TV360 | Youtube | Mocha\n💓 12H00 Thứ 7 trên Kênh TH SCTV6\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn chính: Lê Quý Giáp\n• Tổ chức sản xuất:  Hà Vân Anh, Hương Lê, Như Oanh\n• Biên tập: Bùi Tiến Dũng, Trang Ngô, Hồ Thảo Nguyên, Ngô Nghĩa, Bùi Hương, Mai Hằng, Thu Hiền, Hà Phương\n• D.O.P: Đoàn Ngọc Ước  \n• Quay phim: Thế Chiến; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Quang Huy; Hồng Phương; Thanh Tĩnh; Văn Sướng; Văn Quân; Văn Công; Hoàng Cường; Quốc Huy; Văn San; Văn Hoan; Văn Hạnh; Thái Ngân. \n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ; Ngọc Toàn; Minh Quân; Văn Hưng; Hải Nam; Văn Điểu; Tiến Thuận; Thanh Hải; Cao Xuân; Đình Trọng; Viết Trùng; Quốc Trung; Đình Thọ; Huy Phương; Bảo Khang. \n• Âm thanh: Nguyễn Ngọc Hùng\n• Nhiếp Ảnh: Hùng Quách\n• Chịu trách nhiệm hậu kỳ: Thanh Liêm \n• Quản lý thiết bị: Thành Linh, Văn Hải, Nguyễn Hồ Lê Thi\n• Hỗ trợ sản xuất: Ngọc Hoàng; Trọng Lợi; Văn Tuyên; Thanh Thuận. \n• Dựng phim: Anh Đức, Chí Dũng, Nguyễn Hồ Lê Thi, Nguyễn Trường Giang, Phùng Thanh Tùng\n• Đồ họa: Thế Lượng, Chí Dũng, Phantom, Hêlô, Ngọc Thảo, Huyền Thương, Xuân Thắng\n• Phụ trách Truyền thông: Quỳnh Anh, Hà Phan, Trà Trang\n• Truyền thông social: Long, Khánh Linh, Bá Linh\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#viettelmedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/xemesis",
+          "text": "#xemesis"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/maitaiphen",
+          "text": "#maitaiphen"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/soobin",
+          "text": "#soobin"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tuantran",
+          "text": "#tuantran"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huynhlap",
+          "text": "#huynhlap"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phatla",
+          "text": "#phatla"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/16typh",
+          "text": "#16typh"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 1,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=Sao+Nh%E1%BA%ADp+Ng%C5%A9+2023+T%E1%BA%ADp+5+Full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [
+        "#soobin",
+        "#huynhlap",
+        "#saonhapngu"
+      ],
+      "isMembersOnly": false,
+      "input": "Sao Nhập Ngũ 2023 Tập 5 Full",
+      "isPaidContent": false
+    },
+    {
+      "title": "Chi Pu, Soobin, Mono XÚC ĐỘNG, KHÓC ÒA khi gặp bố mẹ ngay trong đơn vị l SAO NHẬP NGŨ 2025",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "yUWVDSH6HbU",
+      "url": "https://www.youtube.com/watch?v=yUWVDSH6HbU",
+      "thumbnailUrl": "https://i.ytimg.com/vi/yUWVDSH6HbU/maxresdefault.jpg",
+      "viewCount": 303323,
+      "date": "2025-10-23T14:14:50.000Z",
+      "likes": 1700,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:17:41",
+      "commentsCount": 68,
+      "text": "Chi Pu, Soobin, Mono XÚC ĐỘNG, ÒA KHÓC gặp bố mẹ ngay trong đơn vị l SAO NHẬP NGŨ 2025\n\n► Xem Full Sao Nhập Ngũ 2025 tại: https://www.youtube.com/playlist?list=PLC_d5n_vB0Cq3f_8Fj98GNIcl7l7tnjAp\n📣 Đăng ký kênh Sao Nhập Ngũ để xem các nội dung hấp dẫn:  https://www.youtube.com/@SaonhapnguViettelMedia\n\n🔥 Sao Nhập Ngũ 2025 - Khi Tổ quốc gọi tên\n👉🏻 Từ 03/08 lúc 12h00 trưa trên kênh QPVN và TV360\n❤️‍🔥 Từ 06/08 lúc 21h10 trên kênh HTV7 và Youtube\n⭐ 12h00 trưa Chủ Nhật trên kênh SCTV6\n\n🔥 Sao Nhập Ngũ 2025 - Khi Tổ quốc gọi tên có số lượng dàn cast lớn nhất, gấp 3 lần các mùa trước.\nCụ thể, chương trình bao gồm 8 đội trưởng: Độ Mixi, Tim, Huỳnh Anh, Bình An, Diệu Nhi, Hòa Minzy, Chi Pu, Linh Ngọc Đàm.\nCác nghệ sĩ đã từng tham gia Sao Nhập Ngũ sẽ quay trở lại với chương trình lần thứ 2: Hương Giang, Diệu Nhi, Thanh Duy, Jun Phạm, Xuân Phúc, Minh Tú, Trương Nam Thành, Mạc Văn Khoa, Hậu Hoàng, Anh Tú, Duy Khánh, Huỳnh Lập, Cara, Kỳ Duyên, Thiên Ân.\nVà những “tân binh” lần đầu tiên tham gia chương trình: Ninh Dương Lan Ngọc, Trang Pháp, Tăng Phúc, Diệp Lâm Anh, Pewpew, Ly Ly, Double 2T, Hải Đăng Doo.\nSao Nhập Ngũ 2025 - Khi Tổ quốc gọi tên mang đậm “chất hành động” và được thiết kế như một trại huấn luyện thực chiến. Các nhân vật bước qua 4 giai đoạn huấn luyện: Đối mặt với giới hạn bản thân; rèn luyện sức mạnh chiến thuật; lý tưởng phục vụ nhân dân; khi Tổ quốc gọi tên. Sức hút của Sao nhập ngũ 2025 là trải nghiệm “Chảo lửa thách đấu”. Tại đây, các nhân vật đua tài về thể lực, vận dụng kỹ năng được huấn luyện và phát huy tinh thần đồng đội.\n\n#saonhapngu #saonhapngu2025 #viettelmedia #khitoquocgoiten #domixi #chipu #huonggiang #hoaminzy #dieunhi #thanhduy #duykhanh #anhtu #lyly #hauhoang #tangphuc #minhtu #macvankhoa #trangphap #haidangdoo #dieplamanh #tim #huynhanh #linhngocdam #kyduyen #thienan #pewpew #ninhduonglanngoc #junpham #truongnamthanh #haidangdoo #xuanphuc #cara #huynhlap #double2t #binhan\n\n🔥 Production Team\n• Chỉ đạo sản xuất: Cao Phương Liên\n• Chỉ đạo nội dung: Lê Anh Ngọc\n• Giám sát sản xuất: Lisuki\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn chính: Lê Quý Giáp\n• Tổ chức sản xuất: Hà Vân Anh, Trang Dương, Trịnh Thái Bảo, Chiên Phạm\n• Biên tâp tiền kỳ: Ngô Trang, Tuấn Nghĩa, Thu Nguyên, Tuấn Nghĩa, Thanh Vân, Vân Anh, Nguyễn Đăng Hoàng\n• Phụ trách kinh doanh - Tài trợ: Nguyễn Thị Tuyết Mai - Bảo Khuê\n• Phụ trách truyền thông: Nguyễn Nga\n• Phụ trách báo chí - PR: Trà Trang\n• Truyền thông social: Hà Phan, Nguyễn Phạm Thùy Dương, Tuấn Anh, Hoài Nguyễn, Thanh Trà, Hồng My, Huyền My\n• D.O.P: Đoàn Ngọc Ước, Trần Tuấn Vũ\n• Quay phim: Nguyễn Văn Chiên, Lê Quang Huy, Nguyễn Mạnh Cường, Nguyễn Tuấn Anh 88, Lương Tuấn Khanh, Hoàng Ngọc An, Phạm Văn Tân, Phạm Hồng Thái, Tô Xuân Quang, Đỗ Dương Bách, Cồ Hữu Khiêm, Kiều Hồng Phương, Hoàng Tấn Phát, Mai Văn Dầu, Ngô Quang Anh, Nguyễn Tuấn Anh, Vũ Công Trương, Lê Quang Vinh, Đỗ Văn Bình, Ngô Thanh Tĩnh , Trương Quốc Huy, Nguyễn Văn Thùy, Nguyễn Duy Thanh, Nguyễn Văn Quân, Đinh Văn Hạnh, Vũ Sướng\n• Âm thanh: Đoàn Xuân Lộc, Nguyễn Đức Thàn, Nguyễn Trung Hiếu, Nguyễn Ngọc Quang, Nguyễn Văn Tới, Nguyễn Văn Sơn\n• Âm thanh ánh sáng đấu trường: Fantasies Show Light – Sáng Châu\n• Kỹ thuật đấu trường: Dương Quang Minh Creative\n• Nhiếp ảnh: Hiếu Trần, Dương Anh Tuấn, Hoàng Trung Hải, Nguyễn Phú Hưng, Vũ Quang Phúc, Phạm Minh Đức\n• Hỗ trợ sản xuất: Lê Ngọc Hoàng, Lê Văn Tuyên, Lê Đăng Kiên, Nguyễn Hà Thanh, Phạm Văn Việt, Nguyễn Huy Hoàng, Nguyễn Mạnh Kiên, Nguyễn Đức Anh\n• Trợ lý sản xuất: Tạ Như Oanh, Nguyễn Đỗ Thảo My, Đỗ Ánh Dương\n• Quản lý thiết bị - kỹ thuật: Phạm Hải Đăng, Đỗ Quang Trung\n• Quản lý dữ liệu: Nguyễn Văn Hải, Diệp Đình Long\n• Kỹ thuật flycam: Lương Thành Linh\n• Thể hiện lời bình: Quang Quý\n• Họa sỹ - đạo cụ: Trần Thế Tam, Cao Văn Hải, Nguyễn Tôn Thắng, Hoàng Anh Văn, Trần Văn Tiến, Vũ Sơn Lâm, Nguyễn Văn Mạnh, Trần Quốc Bảo, Hoàng Bá Tuấn, Mai Văn Sang, Phạm Hoàng An, Trần Văn Đồng, Trần Thế Thành, Trần Văn Hoan, Đào Quý Trung\n• Kỹ thuật ánh sáng: Lê Minh, Nguyễn Quý Mùi, Đỗ Minh Quân, Bùi Ngọc Toán, Lê Bá Công, Nguyễn Văn Huy\n• Kỹ thuật máy: Lê Việt Anh, Phạm Gia Hùng, Lê Văn Thiện, Lê Duy Đức, Nguyễn Xuân Thành, Lê Viết Kiên, Vũ Văn Tú, Vũ Hà Bắc, Nguyễn Thanh Tùng, Nguyễn Quang Thuận, Lê Ngọc Đức, Lê Ngọc Hà, Trần Văn Đức, Nguyễn Văn Tuyên, Nhóm Kỹ thuật máy HC Media\n• Kỹ thuật dựng: Phùng Thanh Tùng, Nguyễn Văn Hải\n• Đạo diễn hậu kỳ: Lương Hải Khoa, Lê Quý Giáp, Việt Hùng\n• Biên tập hậu kỳ: Bùi Tiến Dũng, Ngô Trang, Thu Nguyên, Ngô Lâm Vũ, Tuấn Nghĩa, Phạm Thanh Vân, Bùi Lê Vân Anh, Nguyễn Đăng Hoàng, Viết Lâm, Mai Hằng\n• Hình hiệu: Trường Giang, Việt Hùng\n• Đồ họa: Trường Giang, Tùng Tôm\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0774.101.997",
+      "translatedText": "Chi Pu, Soobin, Mono XÚC ĐỘNG, ÒA KHÓC gặp bố mẹ ngay trong đơn vị l SAO NHẬP NGŨ 2025\n\n► Xem Full Sao Nhập Ngũ 2025 tại:    • TẬP FULL l SAO NHẬP NGŨ 2025 - KHI TỔ QUỐC...  \n📣 Đăng ký kênh Sao Nhập Ngũ để xem các nội dung hấp dẫn:     / @saonhapnguviettelmedia  \n\n🔥 Sao Nhập Ngũ 2025 - Khi Tổ quốc gọi tên\n👉🏻 Từ 03/08 lúc 12h00 trưa trên kênh QPVN và TV360\n❤️‍🔥 Từ 06/08 lúc 21h10 trên kênh HTV7 và Youtube\n⭐ 12h00 trưa Chủ Nhật trên kênh SCTV6\n\n🔥 Sao Nhập Ngũ 2025 - Khi Tổ quốc gọi tên có số lượng dàn cast lớn nhất, gấp 3 lần các mùa trước.\nCụ thể, chương trình bao gồm 8 đội trưởng: Độ Mixi, Tim, Huỳnh Anh, Bình An, Diệu Nhi, Hòa Minzy, Chi Pu, Linh Ngọc Đàm.\nCác nghệ sĩ đã từng tham gia Sao Nhập Ngũ sẽ quay trở lại với chương trình lần thứ 2: Hương Giang, Diệu Nhi, Thanh Duy, Jun Phạm, Xuân Phúc, Minh Tú, Trương Nam Thành, Mạc Văn Khoa, Hậu Hoàng, Anh Tú, Duy Khánh, Huỳnh Lập, Cara, Kỳ Duyên, Thiên Ân.\nVà những “tân binh” lần đầu tiên tham gia chương trình: Ninh Dương Lan Ngọc, Trang Pháp, Tăng Phúc, Diệp Lâm Anh, Pewpew, Ly Ly, Double 2T, Hải Đăng Doo.\nSao Nhập Ngũ 2025 - Khi Tổ quốc gọi tên mang đậm “chất hành động” và được thiết kế như một trại huấn luyện thực chiến. Các nhân vật bước qua 4 giai đoạn huấn luyện: Đối mặt với giới hạn bản thân; rèn luyện sức mạnh chiến thuật; lý tưởng phục vụ nhân dân; khi Tổ quốc gọi tên. Sức hút của Sao nhập ngũ 2025 là trải nghiệm “Chảo lửa thách đấu”. Tại đây, các nhân vật đua tài về thể lực, vận dụng kỹ năng được huấn luyện và phát huy tinh thần đồng đội.\n\n#saonhapngu #saonhapngu2025 #viettelmedia #khitoquocgoiten #domixi #chipu #huonggiang #hoaminzy #dieunhi #thanhduy #duykhanh #anhtu #lyly #hauhoang #tangphuc #minhtu #macvankhoa #trangphap #haidangdoo #dieplamanh #tim #huynhanh #linhngocdam #kyduyen #thienan #pewpew #ninhduonglanngoc #junpham #truongnamthanh #haidangdoo #xuanphuc #cara #huynhlap #double2t #binhan\n\n🔥 Production Team\n• Chỉ đạo sản xuất: Cao Phương Liên\n• Chỉ đạo nội dung: Lê Anh Ngọc\n• Giám sát sản xuất: Lisuki\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn chính: Lê Quý Giáp\n• Tổ chức sản xuất: Hà Vân Anh, Trang Dương, Trịnh Thái Bảo, Chiên Phạm\n• Biên tâp tiền kỳ: Ngô Trang, Tuấn Nghĩa, Thu Nguyên, Tuấn Nghĩa, Thanh Vân, Vân Anh, Nguyễn Đăng Hoàng\n• Phụ trách kinh doanh - Tài trợ: Nguyễn Thị Tuyết Mai - Bảo Khuê\n• Phụ trách truyền thông: Nguyễn Nga\n• Phụ trách báo chí - PR: Trà Trang\n• Truyền thông social: Hà Phan, Nguyễn Phạm Thùy Dương, Tuấn Anh, Hoài Nguyễn, Thanh Trà, Hồng My, Huyền My\n• D.O.P: Đoàn Ngọc Ước, Trần Tuấn Vũ\n• Quay phim: Nguyễn Văn Chiên, Lê Quang Huy, Nguyễn Mạnh Cường, Nguyễn Tuấn Anh 88, Lương Tuấn Khanh, Hoàng Ngọc An, Phạm Văn Tân, Phạm Hồng Thái, Tô Xuân Quang, Đỗ Dương Bách, Cồ Hữu Khiêm, Kiều Hồng Phương, Hoàng Tấn Phát, Mai Văn Dầu, Ngô Quang Anh, Nguyễn Tuấn Anh, Vũ Công Trương, Lê Quang Vinh, Đỗ Văn Bình, Ngô Thanh Tĩnh , Trương Quốc Huy, Nguyễn Văn Thùy, Nguyễn Duy Thanh, Nguyễn Văn Quân, Đinh Văn Hạnh, Vũ Sướng\n• Âm thanh: Đoàn Xuân Lộc, Nguyễn Đức Thàn, Nguyễn Trung Hiếu, Nguyễn Ngọc Quang, Nguyễn Văn Tới, Nguyễn Văn Sơn\n• Âm thanh ánh sáng đấu trường: Fantasies Show Light – Sáng Châu\n• Kỹ thuật đấu trường: Dương Quang Minh Creative\n• Nhiếp ảnh: Hiếu Trần, Dương Anh Tuấn, Hoàng Trung Hải, Nguyễn Phú Hưng, Vũ Quang Phúc, Phạm Minh Đức\n• Hỗ trợ sản xuất: Lê Ngọc Hoàng, Lê Văn Tuyên, Lê Đăng Kiên, Nguyễn Hà Thanh, Phạm Văn Việt, Nguyễn Huy Hoàng, Nguyễn Mạnh Kiên, Nguyễn Đức Anh\n• Trợ lý sản xuất: Tạ Như Oanh, Nguyễn Đỗ Thảo My, Đỗ Ánh Dương\n• Quản lý thiết bị - kỹ thuật: Phạm Hải Đăng, Đỗ Quang Trung\n• Quản lý dữ liệu: Nguyễn Văn Hải, Diệp Đình Long\n• Kỹ thuật flycam: Lương Thành Linh\n• Thể hiện lời bình: Quang Quý\n• Họa sỹ - đạo cụ: Trần Thế Tam, Cao Văn Hải, Nguyễn Tôn Thắng, Hoàng Anh Văn, Trần Văn Tiến, Vũ Sơn Lâm, Nguyễn Văn Mạnh, Trần Quốc Bảo, Hoàng Bá Tuấn, Mai Văn Sang, Phạm Hoàng An, Trần Văn Đồng, Trần Thế Thành, Trần Văn Hoan, Đào Quý Trung\n• Kỹ thuật ánh sáng: Lê Minh, Nguyễn Quý Mùi, Đỗ Minh Quân, Bùi Ngọc Toán, Lê Bá Công, Nguyễn Văn Huy\n• Kỹ thuật máy: Lê Việt Anh, Phạm Gia Hùng, Lê Văn Thiện, Lê Duy Đức, Nguyễn Xuân Thành, Lê Viết Kiên, Vũ Văn Tú, Vũ Hà Bắc, Nguyễn Thanh Tùng, Nguyễn Quang Thuận, Lê Ngọc Đức, Lê Ngọc Hà, Trần Văn Đức, Nguyễn Văn Tuyên, Nhóm Kỹ thuật máy HC Media\n• Kỹ thuật dựng: Phùng Thanh Tùng, Nguyễn Văn Hải\n• Đạo diễn hậu kỳ: Lương Hải Khoa, Lê Quý Giáp, Việt Hùng\n• Biên tập hậu kỳ: Bùi Tiến Dũng, Ngô Trang, Thu Nguyên, Ngô Lâm Vũ, Tuấn Nghĩa, Phạm Thanh Vân, Bùi Lê Vân Anh, Nguyễn Đăng Hoàng, Viết Lâm, Mai Hằng\n• Hình hiệu: Trường Giang, Việt Hùng\n• Đồ họa: Trường Giang, Tùng Tôm\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0774.101.997",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cq3f_8Fj98GNIcl7l7tnjAp",
+          "text": "   • TẬP FULL l SAO NHẬP NGŨ 2025 - KHI TỔ QUỐC...  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCzZ94GZFgqqx6Pzbnj3UMjA",
+          "text": "   / @saonhapnguviettelmedia  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu2025",
+          "text": "#saonhapngu2025"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#viettelmedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/khitoquocgoiten",
+          "text": "#khitoquocgoiten"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/domixi",
+          "text": "#domixi"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chipu",
+          "text": "#chipu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huonggiang",
+          "text": "#huonggiang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hoaminzy",
+          "text": "#hoaminzy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dieunhi",
+          "text": "#dieunhi"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thanhduy",
+          "text": "#thanhduy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/duykhanh",
+          "text": "#duykhanh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtu",
+          "text": "#anhtu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lyly",
+          "text": "#lyly"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hauhoang",
+          "text": "#hauhoang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tangphuc",
+          "text": "#tangphuc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/minhtu",
+          "text": "#minhtu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/macvankhoa",
+          "text": "#macvankhoa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/trangphap",
+          "text": "#trangphap"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/haidangdoo",
+          "text": "#haidangdoo"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dieplamanh",
+          "text": "#dieplamanh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tim",
+          "text": "#tim"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huynhanh",
+          "text": "#huynhanh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/linhngocdam",
+          "text": "#linhngocdam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/kyduyen",
+          "text": "#kyduyen"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thienan",
+          "text": "#thienan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/pewpew",
+          "text": "#pewpew"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ninhduonglanngoc",
+          "text": "#ninhduonglanngoc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junpham",
+          "text": "#junpham"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/truongnamthanh",
+          "text": "#truongnamthanh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/haidangdoo",
+          "text": "#haidangdoo"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/xuanphuc",
+          "text": "#xuanphuc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/cara",
+          "text": "#cara"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huynhlap",
+          "text": "#huynhlap"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/double2t",
+          "text": "#double2t"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/binhan",
+          "text": "#binhan"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 9,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=Sao+Nh%E1%BA%ADp+Ng%C5%A9+2023+T%E1%BA%ADp+5+Full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [
+        "#kyduyen",
+        "#macvankhoa",
+        "#anhtu"
+      ],
+      "isMembersOnly": false,
+      "input": "Sao Nhập Ngũ 2023 Tập 5 Full",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ 2023 l TẬP 6 I Trang Hý choáng váng vì Nhã Phương, Diễm My 2 lần bị \"chỉ điểm\"",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "6mgbb0WTjHc",
+      "url": "https://www.youtube.com/watch?v=6mgbb0WTjHc",
+      "thumbnailUrl": "https://i.ytimg.com/vi/6mgbb0WTjHc/maxresdefault.jpg",
+      "viewCount": 4692504,
+      "date": "2023-02-10T14:30:08.000Z",
+      "likes": 12000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:57:01",
+      "commentsCount": 1566,
+      "text": "🔥 Sao nhập ngũ 2023 – Những chiến binh của biển - Hứa hẹn một mùa trải nghiệm đầy thú vị với format hoàn toàn mới, những thử thách khắc nghiệt, quy tụ những gương mặt lầy lội đầy quyết tâm: Võ Hoàng Yến, Nhã Phương, Diễm My 9x, Thùy Anh, Linh Ngọc Đàm, Mai Âm Nhạc, Trang Hý, Hoa hậu Thiên Ân. \nQuy mô trải nghiệm tại Lữ đoàn đặc công 5 -  lực lượng đặc biệt tinh nhuệ, được huấn luyện để tiến công các mục tiêu thủy của đối phương như: bến cảng, tàu thủy,... và các mục tiêu chỉ có thể xâm nhập qua đường thủy: căn cứ biệt lập, căn cứ thủy quân... một trong những đơn vị đặc công nước của Binh chủng Đặc công và là đơn vị đặc công nước duy nhất ở cấp lữ đoàn.\nĐón xem Sao Nhập Ngũ 2023 chính thức lên sóng từ ngày 6/1/2023 trong các khung giờ: \n     💓 17H15 Thứ 6 trên Kênh TH QPVN\n     💓 21H15 Thứ 6 trên Kênh TV360\n     💓 21H30 Thứ 6 trên HTV, Mocha và Kênh Youtube: Sao nhập ngũ - QPVN\n     💓 12H00 Thứ 7 trên Kênh TH SCTV6 \n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Phó Tổng Đạo diễn: Lê Quý Giáp\n• Đạo diễn: Phạm Thanh Hảo\n• Tổ chức sản xuất: Nguyễn Nga & Hà Vân Anh\n• Biên tập: Thanh Liêm & Tuấn Nghĩa & Mai Hằng & Trần Hoàng & Lâm Vũ & Trần Anh Đức\n• D.O.P: Đoàn Ngọc Ước  & Mai Trùng Khánh\n• Quay phim: Thế Chiến; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Quang Huy; Hồng Phương; Thanh Tĩnh; Văn Sướng; Văn Quân; Văn Công; Hoàng Cường; Quốc Huy; Văn San; Văn Hoan; Văn Hạnh; Thái Ngân. \n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ; Ngọc Toàn; Minh Quân; Văn Hưng; Hải Nam; Văn Điểu; Tiến Thuận; Thanh Hải; Cao Xuân; Đình Trọng; Viết Trùng; Quốc Trung; Đình Thọ; Huy Phương; Bảo Khang. \n• Âm thanh: Đào Xuân Lộc; Cao Thắng; Xuân Trang; Đức Thành.\n• Nhiếp Ảnh: Phú Hưng; Quang Quyết; Văn Hùng; Sơn Tùng.\n• Quản lý thiết bị: Thành Linh & Anh Đức & Văn Hải & Thanh Tùng.\n• Hỗ trợ sản xuất: Ngọc Hoàng; Trọng Lợi; Văn Tuyên; Thanh Thuận.\n• Họa sĩ: Thế Tam; Quốc Bảo; Văn Tùng; Bá Tuân. \n• Dựng phim: Văn Hải; Long Hoàng; Thanh Tùng; Hiệp Anh; Chí Dũng; Đức Giang.\n• Đồ họa: Phantom; Hoàng Long; HannaRu; Haomi.\n• Phụ trách Truyền thông: Nga Nguyễn, Đỗ Hương, Châm Nguyễn, Mỹ Mỹ, Nguyễn Tâm.\n• Truyền thông social: Trần Quỳnh; Mỹ Mỹ; Trần Phương; Bá Linh; Long; Trà Lê;…\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": null,
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 0,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=Sao+Nh%E1%BA%ADp+Ng%C5%A9+2023+T%E1%BA%ADp+5+Full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "Sao Nhập Ngũ 2023 Tập 5 Full",
+      "isPaidContent": false
+    },
+    {
+      "title": "🔥Tập 5 Sao Nhập Ngũ 2022: 'CƯỜI TỚI NỘI THƯƠNG' với màn đi catwalk \"GIỮ NHÀ\" của Độ Mixi - Duy Khánh",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "f8t2wPtd7V0",
+      "url": "https://www.youtube.com/watch?v=f8t2wPtd7V0",
+      "thumbnailUrl": "https://i.ytimg.com/vi/f8t2wPtd7V0/maxresdefault.jpg",
+      "viewCount": 14399,
+      "date": "2022-04-02T14:33:42.000Z",
+      "likes": 72,
+      "location": null,
+      "channelName": "Tiin_vn - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@tiin.vnViettelMedia",
+      "channelUsername": "tiin.vnViettelMedia",
+      "collaborators": null,
+      "channelId": "UCoDCLhM-7zkvnplMZe2ajzw",
+      "numberOfSubscribers": 246000,
+      "duration": "00:08:23",
+      "commentsCount": 6,
+      "text": "✥ Tập 5 Sao Nhập Ngũ 2022: 'CƯỜI TỚI NỘI THƯƠNG' với màn đi catwalk \"GIỮ NHÀ\" của Độ Mixi - Duy Khánh\n✪ Fanpage: https://www.fb.com/tiin.vn\n✪ Website: http://tiin.vn\n📷  Tiin's House - cập nhật tin tức thời sự nóng hổi, xu hướng giới trẻ, gặp gỡ trò chuyện cùng Sao, Hotteen ...\n\n► Đăng kí ngay để cập nhật những tin tức mới nhất\n=================================\n© Bản quyền thuộc về Tiin.vn\n☞ Do not reup!\n#TiinsHouse #TinShowBiz #TinSaoViet #TiinHouse #TinHouse",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.fb.com/tiin.vn",
+          "text": "https://www.fb.com/tiin.vn"
+        },
+        {
+          "url": "http://tiin.vn/",
+          "text": "http://tiin.vn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tiinshouse",
+          "text": "#TiinsHouse"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tinshowbiz",
+          "text": "#TinShowBiz"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tinsaoviet",
+          "text": "#TinSaoViet"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tiinhouse",
+          "text": "#TiinHouse"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tinhouse",
+          "text": "#TinHouse"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 7,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=Sao+Nh%E1%BA%ADp+Ng%C5%A9+2023+T%E1%BA%ADp+5+Full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [
+        "#TinShowBiz",
+        "#TiinsHouse",
+        "#TinSaoViet"
+      ],
+      "isMembersOnly": false,
+      "input": "Sao Nhập Ngũ 2023 Tập 5 Full",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ 2023 l TẬP 8 I Một đội hình, hai ngã rẽ",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "DdBu-THOCB0",
+      "url": "https://www.youtube.com/watch?v=DdBu-THOCB0",
+      "thumbnailUrl": "https://i.ytimg.com/vi/DdBu-THOCB0/maxresdefault.jpg",
+      "viewCount": 4092195,
+      "date": "2023-02-24T14:30:09.000Z",
+      "likes": 9000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:59:16",
+      "commentsCount": 815,
+      "text": "Trang Hý được Mũi trưởng Long KHEN NGỢI, Nhã Phương hóa \"THÁNH MARKETING\"\n🔥 Sao nhập ngũ 2023 – Những chiến binh của biển - Hứa hẹn một mùa trải nghiệm đầy thú vị với format hoàn toàn mới, những thử thách khắc nghiệt, quy tụ những gương mặt lầy lội đầy quyết tâm: Võ Hoàng Yến, Nhã Phương, Diễm My 9x, Thùy Anh, Linh Ngọc Đàm, Mai Âm Nhạc, Trang Hý, Hoa hậu Thiên Ân. \nQuy mô trải nghiệm tại Lữ đoàn đặc công 5 -  lực lượng đặc biệt tinh nhuệ, được huấn luyện để tiến công các mục tiêu thủy của đối phương như: bến cảng, tàu thủy,... và các mục tiêu chỉ có thể xâm nhập qua đường thủy: căn cứ biệt lập, căn cứ thủy quân... một trong những đơn vị đặc công nước của Binh chủng Đặc công và là đơn vị đặc công nước duy nhất ở cấp lữ đoàn.\nĐón xem Sao Nhập Ngũ 2023 chính thức lên sóng từ ngày 6/1/2023 trong các khung giờ: \n     💓 17H15 Thứ 6 trên Kênh TH QPVN\n     💓 21H15 Thứ 6 trên Kênh TV360\n     💓 21H30 Thứ 6 trên HTV, Mocha và Kênh Youtube: Sao nhập ngũ - QPVN\n     💓 12H00 Thứ 7 trên Kênh TH SCTV6 \n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Phó Tổng Đạo diễn: Lê Quý Giáp\n• Đạo diễn: Phạm Thanh Hảo\n• Tổ chức sản xuất: Nguyễn Nga & Hà Vân Anh\n• Biên tập: Thanh Liêm & Tuấn Nghĩa & Mai Hằng & Trần Hoàng & Lâm Vũ & Trần Anh Đức\n• D.O.P: Đoàn Ngọc Ước  & Mai Trùng Khánh\n• Quay phim: Thế Chiến; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Quang Huy; Hồng Phương; Thanh Tĩnh; Văn Sướng; Văn Quân; Văn Công; Hoàng Cường; Quốc Huy; Văn San; Văn Hoan; Văn Hạnh; Thái Ngân. \n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ; Ngọc Toàn; Minh Quân; Văn Hưng; Hải Nam; Văn Điểu; Tiến Thuận; Thanh Hải; Cao Xuân; Đình Trọng; Viết Trùng; Quốc Trung; Đình Thọ; Huy Phương; Bảo Khang. \n• Âm thanh: Đào Xuân Lộc; Cao Thắng; Xuân Trang; Đức Thành.\n• Nhiếp Ảnh: Phú Hưng; Quang Quyết; Văn Hùng; Sơn Tùng.\n• Quản lý thiết bị: Thành Linh & Anh Đức & Văn Hải & Thanh Tùng.\n• Hỗ trợ sản xuất: Ngọc Hoàng; Trọng Lợi; Văn Tuyên; Thanh Thuận.\n• Họa sĩ: Thế Tam; Quốc Bảo; Văn Tùng; Bá Tuân. \n• Dựng phim: Văn Hải; Long Hoàng; Thanh Tùng; Hiệp Anh; Chí Dũng; Đức Giang.\n• Đồ họa: Phantom; Hoàng Long; HannaRu; Haomi.\n• Phụ trách Truyền thông: Nga Nguyễn, Đỗ Hương, Châm Nguyễn, Mỹ Mỹ, Nguyễn Tâm.\n• Truyền thông social: Trần Quỳnh; Mỹ Mỹ; Trần Phương; Bá Linh; Long; Trà Lê;…\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": null,
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 5,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=Sao+Nh%E1%BA%ADp+Ng%C5%A9+2023+T%E1%BA%ADp+5+Full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "Sao Nhập Ngũ 2023 Tập 5 Full",
+      "isPaidContent": false
+    },
+    {
+      "title": "SAO NHẬP NGŨ 2025 TẬP 5 l Độ Mixi NÉN CƠN ĐAU vượt sông, Bình An và Anh Tú ĐẠI NÁO trên sàn đấu võ",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "6yXOV8u_p9I",
+      "url": "https://www.youtube.com/watch?v=6yXOV8u_p9I",
+      "thumbnailUrl": "https://i.ytimg.com/vi/6yXOV8u_p9I/maxresdefault.jpg",
+      "viewCount": 2707048,
+      "date": "2025-09-03T14:10:07.000Z",
+      "likes": 12000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "01:21:29",
+      "commentsCount": 1515,
+      "text": "🔥 Sao Nhập Ngũ 2025 - Khi Tổ quốc gọi tên\n👉🏻 Từ 03/08 lúc 12h00 trưa trên kênh QPVN và TV360\n❤️‍🔥 Từ 06/08 lúc 21h10 trên kênh HTV7 và Youtube\n⭐ 12h00 trưa Chủ Nhật trên kênh SCTV6\n\n🔥 Sao Nhập Ngũ 2025 - Khi Tổ quốc gọi tên có số lượng dàn cast lớn nhất, gấp 3 lần các mùa trước.\nCụ thể, chương trình bao gồm 8 đội trưởng: Độ Mixi, Tim, Huỳnh Anh, Bình An, Diệu Nhi, Hòa Minzy, Chi Pu, Linh Ngọc Đàm.\nCác nghệ sĩ đã từng tham gia Sao Nhập Ngũ sẽ quay trở lại với chương trình lần thứ 2: Hương Giang, Diệu Nhi, Thanh Duy, Jun Phạm, Xuân Phúc, Minh Tú, Trương Nam Thành, Mạc Văn Khoa, Hậu Hoàng, Anh Tú, Duy Khánh, Huỳnh Lập, Cara, Kỳ Duyên, Thiên Ân.\nVà những “tân binh” lần đầu tiên tham gia chương trình: Ninh Dương Lan Ngọc, Trang Pháp, Tăng Phúc, Diệp Lâm Anh, Pewpew, Ly Ly, Double 2T, Hải Đăng Doo.\nSao Nhập Ngũ 2025 - Khi Tổ quốc gọi tên mang đậm “chất hành động” và được thiết kế như một trại huấn luyện thực chiến. Các nhân vật bước qua 4 giai đoạn huấn luyện: Đối mặt với giới hạn bản thân; rèn luyện sức mạnh chiến thuật; lý tưởng phục vụ nhân dân; khi Tổ quốc gọi tên. Sức hút của Sao nhập ngũ 2025 là trải nghiệm “Chảo lửa thách đấu”. Tại đây, các nhân vật đua tài về thể lực, vận dụng kỹ năng được huấn luyện và phát huy tinh thần đồng đội.\n\n#saonhapngu #saonhapngu2025 #viettelmedia #khitoquocgoiten #chipu #domixi #huonggiang #hoaminzy #dieunhi #thanhduy #duykhanh #anhtu #lyly #hauhoang #tangphuc #minhtu #macvankhoa #trangphap #haidangdoo #dieplamanh #tim #huynhanh #linhngocdam #kyduyen #thienan #pewpew #ninhduonglanngoc #junpham #truongnamthanh #haidangdoo #xuanphuc #cara #huynhlap #double2t #binhan\n\n🔥 Production Team\n• Chỉ đạo sản xuất: Cao Phương Liên\n• Chỉ đạo nội dung: Lê Anh Ngọc\n• Giám sát sản xuất: Lisuki\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn chính: Lê Quý Giáp\n• Tổ chức sản xuất: Hà Vân Anh, Trang Dương, Trịnh Thái Bảo, Chiên Phạm\n• Biên tâp tiền kỳ: Ngô Trang, Tuấn Nghĩa, Thu Nguyên, Tuấn Nghĩa, Thanh Vân, Vân Anh, Nguyễn Đăng Hoàng\n• Phụ trách kinh doanh - Tài trợ: Nguyễn Thị Tuyết Mai - Bảo Khuê\n• Phụ trách truyền thông: Nguyễn Nga\n• Phụ trách báo chí - PR: Trà Trang\n• Truyền thông social: Hà Phan, Nguyễn Phạm Thùy Dương, Tuấn Anh, Hoài Nguyễn, Thanh Trà\n• D.O.P: Đoàn Ngọc Ước, Trần Tuấn Vũ\n• Quay phim: Nguyễn Văn Chiên, Lê Quang Huy, Nguyễn Mạnh Cường, Nguyễn Tuấn Anh 88, Lương Tuấn Khanh, Hoàng Ngọc An, Phạm Văn Tân, Phạm Hồng Thái, Tô Xuân Quang, Đỗ Dương Bách, Cồ Hữu Khiêm, Kiều Hồng Phương, Hoàng Tấn Phát, Mai Văn Dầu, Ngô Quang Anh, Nguyễn Tuấn Anh, Vũ Công Trương, Lê Quang Vinh, Đỗ Văn Bình, Ngô Thanh Tĩnh , Trương Quốc Huy, Nguyễn Văn Thùy, Nguyễn Duy Thanh, Nguyễn Văn Quân, Đinh Văn Hạnh, Vũ Sướng\n• Âm thanh: Đoàn Xuân Lộc, Nguyễn Đức Thàn, Nguyễn Trung Hiếu, Nguyễn Ngọc Quang, Nguyễn Văn Tới, Nguyễn Văn Sơn\n• Âm thanh ánh sáng đấu trường: Fantasies Show Light – Sáng Châu\n• Kỹ thuật đấu trường: Dương Quang Minh Creative\n• Nhiếp ảnh: Hiếu Trần, Dương Anh Tuấn, Hoàng Trung Hải, Nguyễn Phú Hưng, Vũ Quang Phúc, Phạm Minh Đức\n• Hỗ trợ sản xuất: Lê Ngọc Hoàng, Lê Văn Tuyên, Lê Đăng Kiên, Nguyễn Hà Thanh, Phạm Văn Việt, Nguyễn Huy Hoàng, Nguyễn Mạnh Kiên, Nguyễn Đức Anh\n• Trợ lý sản xuất: Tạ Như Oanh, Nguyễn Đỗ Thảo My, Đỗ Ánh Dương\n• Quản lý thiết bị - kỹ thuật: Phạm Hải Đăng, Đỗ Quang Trung\n• Quản lý dữ liệu: Nguyễn Văn Hải, Diệp Đình Long\n• Kỹ thuật flycam: Lương Thành Linh\n• Thể hiện lời bình: Quang Quý\n• Họa sỹ - đạo cụ: Trần Thế Tam, Cao Văn Hải, Nguyễn Tôn Thắng, Hoàng Anh Văn, Trần Văn Tiến, Vũ Sơn Lâm, Nguyễn Văn Mạnh, Trần Quốc Bảo, Hoàng Bá Tuấn, Mai Văn Sang, Phạm Hoàng An, Trần Văn Đồng, Trần Thế Thành, Trần Văn Hoan, Đào Quý Trung\n• Kỹ thuật ánh sáng: Lê Minh, Nguyễn Quý Mùi, Đỗ Minh Quân, Bùi Ngọc Toán, Lê Bá Công, Nguyễn Văn Huy\n• Kỹ thuật máy: Lê Việt Anh, Phạm Gia Hùng, Lê Văn Thiện, Lê Duy Đức, Nguyễn Xuân Thành, Lê Viết Kiên, Vũ Văn Tú, Vũ Hà Bắc, Nguyễn Thanh Tùng, Nguyễn Quang Thuận, Lê Ngọc Đức, Lê Ngọc Hà, Trần Văn Đức, Nguyễn Văn Tuyên, Nhóm Kỹ thuật máy HC Media\n• Kỹ thuật dựng: Phùng Thanh Tùng, Nguyễn Văn Hải\n• Đạo diễn hậu kỳ: Lương Hải Khoa, Lê Quý Giáp, Việt Hùng\n• Biên tập hậu kỳ: Bùi Tiến Dũng, Ngô Trang, Thu Nguyên, Ngô Lâm Vũ, Tuấn Nghĩa, Phạm Thanh Vân, Bùi Lê Vân Anh, Nguyễn Đăng Hoàng, Viết Lâm, Mai Hằng\n• Hình hiệu: Trường Giang, Việt Hùng\n• Đồ họa: Trường Giang, Tùng Tôm\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0774.101.997",
+      "translatedText": "🔥 Sao Nhập Ngũ 2025 - Khi Tổ quốc gọi tên\n👉🏻 Từ 03/08 lúc 12h00 trưa trên kênh QPVN và TV360\n❤️‍🔥 Từ 06/08 lúc 21h10 trên kênh HTV7 và Youtube\n⭐ 12h00 trưa Chủ Nhật trên kênh SCTV6\n\n🔥 Sao Nhập Ngũ 2025 - Khi Tổ quốc gọi tên có số lượng dàn cast lớn nhất, gấp 3 lần các mùa trước.\nCụ thể, chương trình bao gồm 8 đội trưởng: Độ Mixi, Tim, Huỳnh Anh, Bình An, Diệu Nhi, Hòa Minzy, Chi Pu, Linh Ngọc Đàm.\nCác nghệ sĩ đã từng tham gia Sao Nhập Ngũ sẽ quay trở lại với chương trình lần thứ 2: Hương Giang, Diệu Nhi, Thanh Duy, Jun Phạm, Xuân Phúc, Minh Tú, Trương Nam Thành, Mạc Văn Khoa, Hậu Hoàng, Anh Tú, Duy Khánh, Huỳnh Lập, Cara, Kỳ Duyên, Thiên Ân.\nVà những “tân binh” lần đầu tiên tham gia chương trình: Ninh Dương Lan Ngọc, Trang Pháp, Tăng Phúc, Diệp Lâm Anh, Pewpew, Ly Ly, Double 2T, Hải Đăng Doo.\nSao Nhập Ngũ 2025 - Khi Tổ quốc gọi tên mang đậm “chất hành động” và được thiết kế như một trại huấn luyện thực chiến. Các nhân vật bước qua 4 giai đoạn huấn luyện: Đối mặt với giới hạn bản thân; rèn luyện sức mạnh chiến thuật; lý tưởng phục vụ nhân dân; khi Tổ quốc gọi tên. Sức hút của Sao nhập ngũ 2025 là trải nghiệm “Chảo lửa thách đấu”. Tại đây, các nhân vật đua tài về thể lực, vận dụng kỹ năng được huấn luyện và phát huy tinh thần đồng đội.\n\n#saonhapngu #saonhapngu2025 #viettelmedia #khitoquocgoiten #chipu #domixi #huonggiang #hoaminzy #dieunhi #thanhduy #duykhanh #anhtu #lyly #hauhoang #tangphuc #minhtu #macvankhoa #trangphap #haidangdoo #dieplamanh #tim #huynhanh #linhngocdam #kyduyen #thienan #pewpew #ninhduonglanngoc #junpham #truongnamthanh #haidangdoo #xuanphuc #cara #huynhlap #double2t #binhan\n\n🔥 Production Team\n• Chỉ đạo sản xuất: Cao Phương Liên\n• Chỉ đạo nội dung: Lê Anh Ngọc\n• Giám sát sản xuất: Lisuki\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn chính: Lê Quý Giáp\n• Tổ chức sản xuất: Hà Vân Anh, Trang Dương, Trịnh Thái Bảo, Chiên Phạm\n• Biên tâp tiền kỳ: Ngô Trang, Tuấn Nghĩa, Thu Nguyên, Tuấn Nghĩa, Thanh Vân, Vân Anh, Nguyễn Đăng Hoàng\n• Phụ trách kinh doanh - Tài trợ: Nguyễn Thị Tuyết Mai - Bảo Khuê\n• Phụ trách truyền thông: Nguyễn Nga\n• Phụ trách báo chí - PR: Trà Trang\n• Truyền thông social: Hà Phan, Nguyễn Phạm Thùy Dương, Tuấn Anh, Hoài Nguyễn, Thanh Trà\n• D.O.P: Đoàn Ngọc Ước, Trần Tuấn Vũ\n• Quay phim: Nguyễn Văn Chiên, Lê Quang Huy, Nguyễn Mạnh Cường, Nguyễn Tuấn Anh 88, Lương Tuấn Khanh, Hoàng Ngọc An, Phạm Văn Tân, Phạm Hồng Thái, Tô Xuân Quang, Đỗ Dương Bách, Cồ Hữu Khiêm, Kiều Hồng Phương, Hoàng Tấn Phát, Mai Văn Dầu, Ngô Quang Anh, Nguyễn Tuấn Anh, Vũ Công Trương, Lê Quang Vinh, Đỗ Văn Bình, Ngô Thanh Tĩnh , Trương Quốc Huy, Nguyễn Văn Thùy, Nguyễn Duy Thanh, Nguyễn Văn Quân, Đinh Văn Hạnh, Vũ Sướng\n• Âm thanh: Đoàn Xuân Lộc, Nguyễn Đức Thàn, Nguyễn Trung Hiếu, Nguyễn Ngọc Quang, Nguyễn Văn Tới, Nguyễn Văn Sơn\n• Âm thanh ánh sáng đấu trường: Fantasies Show Light – Sáng Châu\n• Kỹ thuật đấu trường: Dương Quang Minh Creative\n• Nhiếp ảnh: Hiếu Trần, Dương Anh Tuấn, Hoàng Trung Hải, Nguyễn Phú Hưng, Vũ Quang Phúc, Phạm Minh Đức\n• Hỗ trợ sản xuất: Lê Ngọc Hoàng, Lê Văn Tuyên, Lê Đăng Kiên, Nguyễn Hà Thanh, Phạm Văn Việt, Nguyễn Huy Hoàng, Nguyễn Mạnh Kiên, Nguyễn Đức Anh\n• Trợ lý sản xuất: Tạ Như Oanh, Nguyễn Đỗ Thảo My, Đỗ Ánh Dương\n• Quản lý thiết bị - kỹ thuật: Phạm Hải Đăng, Đỗ Quang Trung\n• Quản lý dữ liệu: Nguyễn Văn Hải, Diệp Đình Long\n• Kỹ thuật flycam: Lương Thành Linh\n• Thể hiện lời bình: Quang Quý\n• Họa sỹ - đạo cụ: Trần Thế Tam, Cao Văn Hải, Nguyễn Tôn Thắng, Hoàng Anh Văn, Trần Văn Tiến, Vũ Sơn Lâm, Nguyễn Văn Mạnh, Trần Quốc Bảo, Hoàng Bá Tuấn, Mai Văn Sang, Phạm Hoàng An, Trần Văn Đồng, Trần Thế Thành, Trần Văn Hoan, Đào Quý Trung\n• Kỹ thuật ánh sáng: Lê Minh, Nguyễn Quý Mùi, Đỗ Minh Quân, Bùi Ngọc Toán, Lê Bá Công, Nguyễn Văn Huy\n• Kỹ thuật máy: Lê Việt Anh, Phạm Gia Hùng, Lê Văn Thiện, Lê Duy Đức, Nguyễn Xuân Thành, Lê Viết Kiên, Vũ Văn Tú, Vũ Hà Bắc, Nguyễn Thanh Tùng, Nguyễn Quang Thuận, Lê Ngọc Đức, Lê Ngọc Hà, Trần Văn Đức, Nguyễn Văn Tuyên, Nhóm Kỹ thuật máy HC Media\n• Kỹ thuật dựng: Phùng Thanh Tùng, Nguyễn Văn Hải\n• Đạo diễn hậu kỳ: Lương Hải Khoa, Lê Quý Giáp, Việt Hùng\n• Biên tập hậu kỳ: Bùi Tiến Dũng, Ngô Trang, Thu Nguyên, Ngô Lâm Vũ, Tuấn Nghĩa, Phạm Thanh Vân, Bùi Lê Vân Anh, Nguyễn Đăng Hoàng, Viết Lâm, Mai Hằng\n• Hình hiệu: Trường Giang, Việt Hùng\n• Đồ họa: Trường Giang, Tùng Tôm\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0774.101.997",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu2025",
+          "text": "#saonhapngu2025"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#viettelmedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/khitoquocgoiten",
+          "text": "#khitoquocgoiten"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chipu",
+          "text": "#chipu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/domixi",
+          "text": "#domixi"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huonggiang",
+          "text": "#huonggiang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hoaminzy",
+          "text": "#hoaminzy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dieunhi",
+          "text": "#dieunhi"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thanhduy",
+          "text": "#thanhduy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/duykhanh",
+          "text": "#duykhanh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtu",
+          "text": "#anhtu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lyly",
+          "text": "#lyly"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hauhoang",
+          "text": "#hauhoang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tangphuc",
+          "text": "#tangphuc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/minhtu",
+          "text": "#minhtu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/macvankhoa",
+          "text": "#macvankhoa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/trangphap",
+          "text": "#trangphap"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/haidangdoo",
+          "text": "#haidangdoo"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dieplamanh",
+          "text": "#dieplamanh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tim",
+          "text": "#tim"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huynhanh",
+          "text": "#huynhanh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/linhngocdam",
+          "text": "#linhngocdam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/kyduyen",
+          "text": "#kyduyen"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thienan",
+          "text": "#thienan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/pewpew",
+          "text": "#pewpew"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ninhduonglanngoc",
+          "text": "#ninhduonglanngoc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junpham",
+          "text": "#junpham"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/truongnamthanh",
+          "text": "#truongnamthanh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/haidangdoo",
+          "text": "#haidangdoo"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/xuanphuc",
+          "text": "#xuanphuc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/cara",
+          "text": "#cara"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huynhlap",
+          "text": "#huynhlap"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/double2t",
+          "text": "#double2t"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/binhan",
+          "text": "#binhan"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 3,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=Sao+Nh%E1%BA%ADp+Ng%C5%A9+2023+T%E1%BA%ADp+5+Full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [
+        "#kyduyen",
+        "#macvankhoa",
+        "#anhtu"
+      ],
+      "isMembersOnly": false,
+      "input": "Sao Nhập Ngũ 2023 Tập 5 Full",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ 2022 l TẬP 6 lĐộ Mixi & Hòa Minzy tỉnh táo \"vượt ải khó\", S.T & Cara liên tục ghi điểm",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "Yu4vCqc2Vwg",
+      "url": "https://www.youtube.com/watch?v=Yu4vCqc2Vwg",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Yu4vCqc2Vwg/maxresdefault.jpg",
+      "viewCount": 7769785,
+      "date": "2022-04-09T13:30:13.000Z",
+      "likes": 74000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "01:01:06",
+      "commentsCount": 3971,
+      "text": "🔥 Sao nhập ngũ 2022 - Bước chân thần tốc - Hứa hẹn một mùa trải nghiệm đầy thú vị, mang đến những hình ảnh mới mẻ, đặc biệt của nghệ sĩ trải nghiệm. Quy tụ những lần 'khủng nhất' trong suốt 10 mùa phát sóng vừa qua. Dàn cast cực lầy nhưng đầy quyết tâm: Độ Mixi, S.T, Puka, Minh Tú, Anh Tú, Hòa Minzy, Duy Khánh,Cara. Quy mô trải nghiệm lớn nhất với sự kết hợp các đơn vị Bộ binh, Pháo binh, Tăng thiết giáp, Trinh sát.\n🔥Game bắn súng Badlanders tự hào tài trợ Gameshow siêu hạng Sao Nhập Ngũ! Cài Badlanders tại https://badlanders.onelink.me/4dWq/59... \n🔥Xem phim chiếu rạp bom tấn trên TV360: http://s.viettel.vn/fb2\n🔥Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2022 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 13H00 Thứ 7 trên TV360\n     💓 20h00 Thứ 7 trên Kênh TH SCTV6\n     💓 20h00 Thứ 7 trên Mocha \n     💓 20h30 Thứ 7 trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Phó Tổng Đạo diễn: Lê Quý Giáp\n• Đạo diễn: Lê Đức Cường & Phạm Thanh Hảo\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Ngô Trang & Phương Thảo & Mai Hằng\n• D.O.P: Đoàn Ngọc Ước  & Mai Trùng Khánh\n• Quay phim: Thái Ngân; Tuấn Vũ; Hồng Thái; Văn Thảo; Mạnh Cường; Ngọc Thắng; Thành Nam; Hồng Phương; Tuấn Huy; Thanh Tĩnh; Văn Sướng; Văn Quân; Quang Anh; Thành Luân; Văn Tùng.\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Hoàng Chiến; Ngọc Quang; Tuấn Vũ; Anh Tú; Duy Lành; Quang Thuận; Trung Hiếu\n• Âm thanh: Huy Lương & Ngọc Hùng & Ngọc Hưng & Anh Thắng\n• Quản lý thiết bị: Thành Linh & Anh Đức\n• Hỗ trợ sản xuất: Đào Hà, Vân Anh, Thanh Thuận, Triệu Hương, Huy Hoàng, Đăng Kiên, Anh Tuấn, Trọng Lợi, Hà Thanh, Văn Huệ, Minh Tân\n• Đạo diễn hậu kỳ: Hải Khoa, Cường Lê, Quý Gíap, Thanh Hảo\n• Biên tập hậu kỳ: Phương Thảo; Ngô Trang; Tuấn Nghĩa; Thanh Liêm, Trần Hoàng\n• Kỹ thuật hậu kỳ: Thanh Tùng, Anh Đức, Hiệp Cine, Anh Hiệp\n• Đồ họa & thiết kế: Phùng Tùng & HaoMi & Hannah Ru\n• Phụ trách Truyền thông: Nga Nguyễn, Đỗ Hương, Châm Nguyễn\n• Truyền thông social: Trần Quỳnh; Mỹ Mỹ; Hằng Nga; Trà Trang; Khánh Linh; Trần Phương; Hải Đăng; Bá Linh; Long ....\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\n🔥 Viettel Media - Hệ sinh thái Quảng cáo số đa nền tảng hàng đầu tại Việt Nam\nLiên hệ quảng cáo, thuê tài khoản: https://www.viettelmedia.vn/ads?utm_s...\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://badlanders.onelink.me/4dWq/595d3dee",
+          "text": "https://badlanders.onelink.me/4dWq/59..."
+        },
+        {
+          "url": "http://s.viettel.vn/fb2",
+          "text": "http://s.viettel.vn/fb2"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "https://www.viettelmedia.vn/ads?utm_source=youtube",
+          "text": "https://www.viettelmedia.vn/ads?utm_s..."
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 8,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=Sao+Nh%E1%BA%ADp+Ng%C5%A9+2023+T%E1%BA%ADp+5+Full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "Sao Nhập Ngũ 2023 Tập 5 Full",
+      "isPaidContent": false
+    },
+    {
+      "title": "SAO NHẬP NGŨ 2025 TẬP 6 l Hòa Minzy TOÁT MỒ HÔI LÀM TOÁN, Trang Pháp TẠO BẤT NGỜ LỚN",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "3393nF46oVM",
+      "url": "https://www.youtube.com/watch?v=3393nF46oVM",
+      "thumbnailUrl": "https://i.ytimg.com/vi/3393nF46oVM/maxresdefault.jpg",
+      "viewCount": 2652844,
+      "date": "2025-09-10T14:10:07.000Z",
+      "likes": 10000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "01:16:24",
+      "commentsCount": 1733,
+      "text": "SAO NHẬP NGŨ 2025 TẬP 6 l Hòa Minzy TOÁT MỒ HÔI LÀM TOÁN, Trang Pháp TẠO BẤT NGỜ LỚN\n👉🏻 https://youtu.be/3393nF46oVM\n\n🔥 Sao Nhập Ngũ 2025 - Khi Tổ quốc gọi tên\n👉🏻 Từ 03/08 lúc 12h00 trưa trên kênh QPVN và TV360\n❤️‍🔥 Từ 06/08 lúc 21h10 trên kênh HTV7 và Youtube\n⭐ 12h00 trưa Chủ Nhật trên kênh SCTV6\n\n🔥 Sao Nhập Ngũ 2025 - Khi Tổ quốc gọi tên có số lượng dàn cast lớn nhất, gấp 3 lần các mùa trước.\nCụ thể, chương trình bao gồm 8 đội trưởng: Độ Mixi, Tim, Huỳnh Anh, Bình An, Diệu Nhi, Hòa Minzy, Chi Pu, Linh Ngọc Đàm.\nCác nghệ sĩ đã từng tham gia Sao Nhập Ngũ sẽ quay trở lại với chương trình lần thứ 2: Hương Giang, Diệu Nhi, Thanh Duy, Jun Phạm, Xuân Phúc, Minh Tú, Trương Nam Thành, Mạc Văn Khoa, Hậu Hoàng, Anh Tú, Duy Khánh, Huỳnh Lập, Cara, Kỳ Duyên, Thiên Ân.\nVà những “tân binh” lần đầu tiên tham gia chương trình: Ninh Dương Lan Ngọc, Trang Pháp, Tăng Phúc, Diệp Lâm Anh, Pewpew, Ly Ly, Double 2T, Hải Đăng Doo.\nSao Nhập Ngũ 2025 - Khi Tổ quốc gọi tên mang đậm “chất hành động” và được thiết kế như một trại huấn luyện thực chiến. Các nhân vật bước qua 4 giai đoạn huấn luyện: Đối mặt với giới hạn bản thân; rèn luyện sức mạnh chiến thuật; lý tưởng phục vụ nhân dân; khi Tổ quốc gọi tên. Sức hút của Sao nhập ngũ 2025 là trải nghiệm “Chảo lửa thách đấu”. Tại đây, các nhân vật đua tài về thể lực, vận dụng kỹ năng được huấn luyện và phát huy tinh thần đồng đội.\n\n#saonhapngu #saonhapngu2025 #viettelmedia #khitoquocgoiten #chipu #domixi #huonggiang #hoaminzy #dieunhi #thanhduy #duykhanh #anhtu #lyly #hauhoang #tangphuc #minhtu #macvankhoa #trangphap #haidangdoo #dieplamanh #tim #huynhanh #linhngocdam #kyduyen #thienan #pewpew #ninhduonglanngoc #junpham #truongnamthanh #haidangdoo #xuanphuc #cara #huynhlap #double2t #binhan\n\n🔥 Production Team\n• Chỉ đạo sản xuất: Cao Phương Liên\n• Chỉ đạo nội dung: Lê Anh Ngọc\n• Giám sát sản xuất: Lisuki\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn chính: Lê Quý Giáp\n• Tổ chức sản xuất: Hà Vân Anh, Trang Dương, Trịnh Thái Bảo, Chiên Phạm\n• Biên tâp tiền kỳ: Ngô Trang, Tuấn Nghĩa, Thu Nguyên, Tuấn Nghĩa, Thanh Vân, Vân Anh, Nguyễn Đăng Hoàng\n• Phụ trách kinh doanh - Tài trợ: Nguyễn Thị Tuyết Mai - Bảo Khuê\n• Phụ trách truyền thông: Nguyễn Nga\n• Phụ trách báo chí - PR: Trà Trang\n• Truyền thông social: Hà Phan, Nguyễn Phạm Thùy Dương, Tuấn Anh, Hoài Nguyễn, Thanh Trà\n• D.O.P: Đoàn Ngọc Ước, Trần Tuấn Vũ\n• Quay phim: Nguyễn Văn Chiên, Lê Quang Huy, Nguyễn Mạnh Cường, Nguyễn Tuấn Anh 88, Lương Tuấn Khanh, Hoàng Ngọc An, Phạm Văn Tân, Phạm Hồng Thái, Tô Xuân Quang, Đỗ Dương Bách, Cồ Hữu Khiêm, Kiều Hồng Phương, Hoàng Tấn Phát, Mai Văn Dầu, Ngô Quang Anh, Nguyễn Tuấn Anh, Vũ Công Trương, Lê Quang Vinh, Đỗ Văn Bình, Ngô Thanh Tĩnh , Trương Quốc Huy, Nguyễn Văn Thùy, Nguyễn Duy Thanh, Nguyễn Văn Quân, Đinh Văn Hạnh, Vũ Sướng\n• Âm thanh: Đoàn Xuân Lộc, Nguyễn Đức Thàn, Nguyễn Trung Hiếu, Nguyễn Ngọc Quang, Nguyễn Văn Tới, Nguyễn Văn Sơn\n• Âm thanh ánh sáng đấu trường: Fantasies Show Light – Sáng Châu\n• Kỹ thuật đấu trường: Dương Quang Minh Creative\n• Nhiếp ảnh: Hiếu Trần, Dương Anh Tuấn, Hoàng Trung Hải, Nguyễn Phú Hưng, Vũ Quang Phúc, Phạm Minh Đức\n• Hỗ trợ sản xuất: Lê Ngọc Hoàng, Lê Văn Tuyên, Lê Đăng Kiên, Nguyễn Hà Thanh, Phạm Văn Việt, Nguyễn Huy Hoàng, Nguyễn Mạnh Kiên, Nguyễn Đức Anh\n• Trợ lý sản xuất: Tạ Như Oanh, Nguyễn Đỗ Thảo My, Đỗ Ánh Dương\n• Quản lý thiết bị - kỹ thuật: Phạm Hải Đăng, Đỗ Quang Trung\n• Quản lý dữ liệu: Nguyễn Văn Hải, Diệp Đình Long\n• Kỹ thuật flycam: Lương Thành Linh\n• Thể hiện lời bình: Quang Quý\n• Họa sỹ - đạo cụ: Trần Thế Tam, Cao Văn Hải, Nguyễn Tôn Thắng, Hoàng Anh Văn, Trần Văn Tiến, Vũ Sơn Lâm, Nguyễn Văn Mạnh, Trần Quốc Bảo, Hoàng Bá Tuấn, Mai Văn Sang, Phạm Hoàng An, Trần Văn Đồng, Trần Thế Thành, Trần Văn Hoan, Đào Quý Trung\n• Kỹ thuật ánh sáng: Lê Minh, Nguyễn Quý Mùi, Đỗ Minh Quân, Bùi Ngọc Toán, Lê Bá Công, Nguyễn Văn Huy\n• Kỹ thuật máy: Lê Việt Anh, Phạm Gia Hùng, Lê Văn Thiện, Lê Duy Đức, Nguyễn Xuân Thành, Lê Viết Kiên, Vũ Văn Tú, Vũ Hà Bắc, Nguyễn Thanh Tùng, Nguyễn Quang Thuận, Lê Ngọc Đức, Lê Ngọc Hà, Trần Văn Đức, Nguyễn Văn Tuyên, Nhóm Kỹ thuật máy HC Media\n• Kỹ thuật dựng: Phùng Thanh Tùng, Nguyễn Văn Hải\n• Đạo diễn hậu kỳ: Lương Hải Khoa, Lê Quý Giáp, Việt Hùng\n• Biên tập hậu kỳ: Bùi Tiến Dũng, Ngô Trang, Thu Nguyên, Ngô Lâm Vũ, Tuấn Nghĩa, Phạm Thanh Vân, Bùi Lê Vân Anh, Nguyễn Đăng Hoàng, Viết Lâm, Mai Hằng\n• Hình hiệu: Trường Giang, Việt Hùng\n• Đồ họa: Trường Giang, Tùng Tôm\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0774.101.997",
+      "translatedText": "SAO NHẬP NGŨ 2025 TẬP 6 l Hòa Minzy TOÁT MỒ HÔI LÀM TOÁN, Trang Pháp TẠO BẤT NGỜ LỚN\n👉🏻    • SAO NHẬP NGŨ 2025 TẬP 6 l Hòa Minzy TOÁT M...  \n\n🔥 Sao Nhập Ngũ 2025 - Khi Tổ quốc gọi tên\n👉🏻 Từ 03/08 lúc 12h00 trưa trên kênh QPVN và TV360\n❤️‍🔥 Từ 06/08 lúc 21h10 trên kênh HTV7 và Youtube\n⭐ 12h00 trưa Chủ Nhật trên kênh SCTV6\n\n🔥 Sao Nhập Ngũ 2025 - Khi Tổ quốc gọi tên có số lượng dàn cast lớn nhất, gấp 3 lần các mùa trước.\nCụ thể, chương trình bao gồm 8 đội trưởng: Độ Mixi, Tim, Huỳnh Anh, Bình An, Diệu Nhi, Hòa Minzy, Chi Pu, Linh Ngọc Đàm.\nCác nghệ sĩ đã từng tham gia Sao Nhập Ngũ sẽ quay trở lại với chương trình lần thứ 2: Hương Giang, Diệu Nhi, Thanh Duy, Jun Phạm, Xuân Phúc, Minh Tú, Trương Nam Thành, Mạc Văn Khoa, Hậu Hoàng, Anh Tú, Duy Khánh, Huỳnh Lập, Cara, Kỳ Duyên, Thiên Ân.\nVà những “tân binh” lần đầu tiên tham gia chương trình: Ninh Dương Lan Ngọc, Trang Pháp, Tăng Phúc, Diệp Lâm Anh, Pewpew, Ly Ly, Double 2T, Hải Đăng Doo.\nSao Nhập Ngũ 2025 - Khi Tổ quốc gọi tên mang đậm “chất hành động” và được thiết kế như một trại huấn luyện thực chiến. Các nhân vật bước qua 4 giai đoạn huấn luyện: Đối mặt với giới hạn bản thân; rèn luyện sức mạnh chiến thuật; lý tưởng phục vụ nhân dân; khi Tổ quốc gọi tên. Sức hút của Sao nhập ngũ 2025 là trải nghiệm “Chảo lửa thách đấu”. Tại đây, các nhân vật đua tài về thể lực, vận dụng kỹ năng được huấn luyện và phát huy tinh thần đồng đội.\n\n#saonhapngu #saonhapngu2025 #viettelmedia #khitoquocgoiten #chipu #domixi #huonggiang #hoaminzy #dieunhi #thanhduy #duykhanh #anhtu #lyly #hauhoang #tangphuc #minhtu #macvankhoa #trangphap #haidangdoo #dieplamanh #tim #huynhanh #linhngocdam #kyduyen #thienan #pewpew #ninhduonglanngoc #junpham #truongnamthanh #haidangdoo #xuanphuc #cara #huynhlap #double2t #binhan\n\n🔥 Production Team\n• Chỉ đạo sản xuất: Cao Phương Liên\n• Chỉ đạo nội dung: Lê Anh Ngọc\n• Giám sát sản xuất: Lisuki\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn chính: Lê Quý Giáp\n• Tổ chức sản xuất: Hà Vân Anh, Trang Dương, Trịnh Thái Bảo, Chiên Phạm\n• Biên tâp tiền kỳ: Ngô Trang, Tuấn Nghĩa, Thu Nguyên, Tuấn Nghĩa, Thanh Vân, Vân Anh, Nguyễn Đăng Hoàng\n• Phụ trách kinh doanh - Tài trợ: Nguyễn Thị Tuyết Mai - Bảo Khuê\n• Phụ trách truyền thông: Nguyễn Nga\n• Phụ trách báo chí - PR: Trà Trang\n• Truyền thông social: Hà Phan, Nguyễn Phạm Thùy Dương, Tuấn Anh, Hoài Nguyễn, Thanh Trà\n• D.O.P: Đoàn Ngọc Ước, Trần Tuấn Vũ\n• Quay phim: Nguyễn Văn Chiên, Lê Quang Huy, Nguyễn Mạnh Cường, Nguyễn Tuấn Anh 88, Lương Tuấn Khanh, Hoàng Ngọc An, Phạm Văn Tân, Phạm Hồng Thái, Tô Xuân Quang, Đỗ Dương Bách, Cồ Hữu Khiêm, Kiều Hồng Phương, Hoàng Tấn Phát, Mai Văn Dầu, Ngô Quang Anh, Nguyễn Tuấn Anh, Vũ Công Trương, Lê Quang Vinh, Đỗ Văn Bình, Ngô Thanh Tĩnh , Trương Quốc Huy, Nguyễn Văn Thùy, Nguyễn Duy Thanh, Nguyễn Văn Quân, Đinh Văn Hạnh, Vũ Sướng\n• Âm thanh: Đoàn Xuân Lộc, Nguyễn Đức Thàn, Nguyễn Trung Hiếu, Nguyễn Ngọc Quang, Nguyễn Văn Tới, Nguyễn Văn Sơn\n• Âm thanh ánh sáng đấu trường: Fantasies Show Light – Sáng Châu\n• Kỹ thuật đấu trường: Dương Quang Minh Creative\n• Nhiếp ảnh: Hiếu Trần, Dương Anh Tuấn, Hoàng Trung Hải, Nguyễn Phú Hưng, Vũ Quang Phúc, Phạm Minh Đức\n• Hỗ trợ sản xuất: Lê Ngọc Hoàng, Lê Văn Tuyên, Lê Đăng Kiên, Nguyễn Hà Thanh, Phạm Văn Việt, Nguyễn Huy Hoàng, Nguyễn Mạnh Kiên, Nguyễn Đức Anh\n• Trợ lý sản xuất: Tạ Như Oanh, Nguyễn Đỗ Thảo My, Đỗ Ánh Dương\n• Quản lý thiết bị - kỹ thuật: Phạm Hải Đăng, Đỗ Quang Trung\n• Quản lý dữ liệu: Nguyễn Văn Hải, Diệp Đình Long\n• Kỹ thuật flycam: Lương Thành Linh\n• Thể hiện lời bình: Quang Quý\n• Họa sỹ - đạo cụ: Trần Thế Tam, Cao Văn Hải, Nguyễn Tôn Thắng, Hoàng Anh Văn, Trần Văn Tiến, Vũ Sơn Lâm, Nguyễn Văn Mạnh, Trần Quốc Bảo, Hoàng Bá Tuấn, Mai Văn Sang, Phạm Hoàng An, Trần Văn Đồng, Trần Thế Thành, Trần Văn Hoan, Đào Quý Trung\n• Kỹ thuật ánh sáng: Lê Minh, Nguyễn Quý Mùi, Đỗ Minh Quân, Bùi Ngọc Toán, Lê Bá Công, Nguyễn Văn Huy\n• Kỹ thuật máy: Lê Việt Anh, Phạm Gia Hùng, Lê Văn Thiện, Lê Duy Đức, Nguyễn Xuân Thành, Lê Viết Kiên, Vũ Văn Tú, Vũ Hà Bắc, Nguyễn Thanh Tùng, Nguyễn Quang Thuận, Lê Ngọc Đức, Lê Ngọc Hà, Trần Văn Đức, Nguyễn Văn Tuyên, Nhóm Kỹ thuật máy HC Media\n• Kỹ thuật dựng: Phùng Thanh Tùng, Nguyễn Văn Hải\n• Đạo diễn hậu kỳ: Lương Hải Khoa, Lê Quý Giáp, Việt Hùng\n• Biên tập hậu kỳ: Bùi Tiến Dũng, Ngô Trang, Thu Nguyên, Ngô Lâm Vũ, Tuấn Nghĩa, Phạm Thanh Vân, Bùi Lê Vân Anh, Nguyễn Đăng Hoàng, Viết Lâm, Mai Hằng\n• Hình hiệu: Trường Giang, Việt Hùng\n• Đồ họa: Trường Giang, Tùng Tôm\n• Bảo trợ truyền thông: Tiin.vn\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0774.101.997",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/watch?v=3393nF46oVM",
+          "text": "   • SAO NHẬP NGŨ 2025 TẬP 6 l Hòa Minzy TOÁT M...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu2025",
+          "text": "#saonhapngu2025"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#viettelmedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/khitoquocgoiten",
+          "text": "#khitoquocgoiten"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chipu",
+          "text": "#chipu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/domixi",
+          "text": "#domixi"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huonggiang",
+          "text": "#huonggiang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hoaminzy",
+          "text": "#hoaminzy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dieunhi",
+          "text": "#dieunhi"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thanhduy",
+          "text": "#thanhduy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/duykhanh",
+          "text": "#duykhanh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtu",
+          "text": "#anhtu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lyly",
+          "text": "#lyly"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hauhoang",
+          "text": "#hauhoang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tangphuc",
+          "text": "#tangphuc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/minhtu",
+          "text": "#minhtu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/macvankhoa",
+          "text": "#macvankhoa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/trangphap",
+          "text": "#trangphap"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/haidangdoo",
+          "text": "#haidangdoo"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dieplamanh",
+          "text": "#dieplamanh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tim",
+          "text": "#tim"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huynhanh",
+          "text": "#huynhanh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/linhngocdam",
+          "text": "#linhngocdam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/kyduyen",
+          "text": "#kyduyen"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thienan",
+          "text": "#thienan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/pewpew",
+          "text": "#pewpew"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ninhduonglanngoc",
+          "text": "#ninhduonglanngoc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junpham",
+          "text": "#junpham"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/truongnamthanh",
+          "text": "#truongnamthanh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/haidangdoo",
+          "text": "#haidangdoo"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/xuanphuc",
+          "text": "#xuanphuc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/cara",
+          "text": "#cara"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huynhlap",
+          "text": "#huynhlap"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/double2t",
+          "text": "#double2t"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/binhan",
+          "text": "#binhan"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 6,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=Sao+Nh%E1%BA%ADp+Ng%C5%A9+2023+T%E1%BA%ADp+5+Full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [
+        "#kyduyen",
+        "#macvankhoa",
+        "#anhtu"
+      ],
+      "isMembersOnly": false,
+      "input": "Sao Nhập Ngũ 2023 Tập 5 Full",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ 2020 | Tập 5 |Nam Thư chấn thương nặng, Diệu Nhi, Hậu Hoàng cảm phục chiến sĩ đặc công!",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "lUbc97BUWIY",
+      "url": "https://www.youtube.com/watch?v=lUbc97BUWIY",
+      "thumbnailUrl": "https://i.ytimg.com/vi/lUbc97BUWIY/maxresdefault.jpg",
+      "viewCount": 12328633,
+      "date": "2021-01-03T03:00:50.000Z",
+      "likes": 119000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:43:45",
+      "commentsCount": 8434,
+      "text": "🔥 Sao nhập ngũ 2020 – Nữ chiến binh hứa hẹn nhiều bất ngờ với dàn cast đình đàm: Nghệ sỹ Diệu Nhi, Nam Thư, Hoa hậu Kỳ Duyên, Youtuber Hậu Hoàng, Ca sĩ Dương Hoàng Yến, Diễn viên Đỗ Khánh Vân. Trải nghiệm các nội dung tại Lữ đoàn Đặc công bộ, ai sẽ soán ngôi “lầy” của Hoa hậu Hương Giang SS4? \n🔥 Link Full mùa 2020-2021: https://bom.to/qKfbwVwv\n🔥 Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2020 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 08h00 Chủ nhật trên VTV3\n     💓 09H00 Chủ nhật trên Mocha & Keeng Movies\n     💓 10h00 Chủ nhật trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn: Lê Quý Giáp & Lê Đức Cường\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Phạm Thanh Hảo\n• D.O.P: Đoàn Ngọc Ước \n• Quay phim: Mai Trùng Khánh; Thái Ngân; Thế Chiến, Ngọc Thắng, Văn Thảo, Tuấn Vũ, Mạnh Cường, Thành Nam, Quang Huy, Huy Tuấn, Vũ Sướng\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Thành Nguyên, Đức Chính, Văn Hà, Minh Tuyến\n• Âm thanh: Đoàn Lộc & Nguyễn Tới\n• Hỗ trợ sản xuất: Văn Hải, Ngọc Hoàng, Anh Tuấn, Triệu Hương, Văn Huệ, Minh Tân\n• Editor: Hải Khoa Lương, Cường Lê, Quý Giáp, Thanh Hảo, Leo Kay; Thanh Liêm, Thanh Tùng, Anh Đức, Hiệp Cine\n• Đồ họa: Phùng Tùng & HaoMi & Hannah Ru & Cao Hà\n• Truyền thông: Nga Nguyễn, Trần Phương, Giang Bùm, Linh Bá\n• Bảo trợ truyền thông: Tiin.vn\n=========================================\nCài ngay app Xgaming tại http://xgaming.com.vn/app để theo dõi và tham gia chảo lửa thách đấu cùng những streamers hot nhất các tựa game\n★ Fanpage:   / xgamingvtm  \n★ Website: http://xgaming.com.vn/\n-----------------------------------------------------------------------------\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bom.to/qKfbwVwv",
+          "text": "https://bom.to/qKfbwVwv"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "http://xgaming.com.vn/app",
+          "text": "http://xgaming.com.vn/app"
+        },
+        {
+          "url": "https://www.facebook.com/xgamingvtm",
+          "text": "  / xgamingvtm  "
+        },
+        {
+          "url": "http://xgaming.com.vn/",
+          "text": "http://xgaming.com.vn/"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 2,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=Sao+Nh%E1%BA%ADp+Ng%C5%A9+2023+T%E1%BA%ADp+5+Full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "Sao Nhập Ngũ 2023 Tập 5 Full",
+      "isPaidContent": false
+    }
+  ]
+}

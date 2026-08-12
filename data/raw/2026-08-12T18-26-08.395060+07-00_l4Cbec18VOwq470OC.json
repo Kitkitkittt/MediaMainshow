@@ -1,0 +1,137 @@
+{
+  "actor_name": "streamers/youtube-scraper",
+  "actor_run_id": "l4Cbec18VOwq470OC",
+  "dataset_id": "reFzTvG4ArNihCaNB",
+  "actor_build_id": "SUk0475fgtCh9zqMt",
+  "retrieved_at": "2026-08-12T18:26:08.395060+07:00",
+  "actor_input": {
+    "maxResults": 1,
+    "maxResultsShorts": 0,
+    "maxResultStreams": 0,
+    "startUrls": [
+      {
+        "url": "https://www.youtube.com/watch?v=zNY5kLHWze8"
+      }
+    ],
+    "sourceBindingUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_"
+  },
+  "run_metadata": {
+    "status": "SUCCEEDED",
+    "startedAt": "2026-08-12T11:25:53.128Z",
+    "finishedAt": "2026-08-12T11:26:00.091Z",
+    "usageTotalUsd": 0,
+    "chargedEventCounts": {
+      "result": 0,
+      "date-filter": 0,
+      "ai-video-description": 0,
+      "ai-video-summary": 0
+    }
+  },
+  "items": [
+    {
+      "title": "Biệt Đội Siêu Sao | Tập 13 (22/2/2025)",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "zNY5kLHWze8",
+      "url": "https://www.youtube.com/watch?v=zNY5kLHWze8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/zNY5kLHWze8/maxresdefault.jpg",
+      "viewCount": 44159,
+      "date": "2025-02-22T15:30:06.000Z",
+      "likes": 194,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:58:30",
+      "commentsCount": 26,
+      "text": "\"Biệt đội siêu sao\" phát sóng 22g thứ Bảy hàng tuần trên HTV7. \n\n\"Biệt đội siêu sao\" là chương trình truyền hình thực tế kết hợp giải trí, thử thách sinh tồn, quảng bá danh lam thắng cảnh, văn hóa, ẩm thực vùng miền... Sáu người chơi chính gồm Tiến Luật, Ninh Dương Lan Ngọc, Tiểu Vy, Huyền Baby, Liên Bỉnh Phát, Viên Vibi sẽ cùng các khách mời tham gia hành trình truy tìm báu vật địa phương. \n\nFull Playlist: https://bit.ly/49bmkyN \n\n#HTV​ #realityshowHTV​ #bietdoisieusaoHTV​ \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://bit.ly/3D9sgXH \n* Website: http://www.htv.com.vn \n* Facebook: https://www.facebook.com/htv.hcm\n* Ứng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\n2 ngày 1 đêm: https://bit.ly/45IWLnj\nSao nhập ngũ 2024: https://bit.ly/3yjQO3T \nBạn muốn hẹn hò: https://bit.ly/3HcaUOm \nMái ấm gia đình Việt: https://bit.ly/3edga9r \nChiến nhanh thắng chắc: https://bit.ly/3YG3vA4 \nBậc thầy săn thưởng: https://bit.ly/4f1bxJH \nVợ chồng son:  https://bit.ly/3TYwEoa \nXuân Hạ Thu Đông rồi lại Xuân: https://bit.ly/4en5Apw\nBiệt đội siêu sao: https://bit.ly/49bmkyN",
+      "translatedText": "\"Biệt đội siêu sao\" phát sóng 22g thứ Bảy hàng tuần trên HTV7. \n\n\"Biệt đội siêu sao\" là chương trình truyền hình thực tế kết hợp giải trí, thử thách sinh tồn, quảng bá danh lam thắng cảnh, văn hóa, ẩm thực vùng miền... Sáu người chơi chính gồm Tiến Luật, Ninh Dương Lan Ngọc, Tiểu Vy, Huyền Baby, Liên Bỉnh Phát, Viên Vibi sẽ cùng các khách mời tham gia hành trình truy tìm báu vật địa phương. \n\nFull Playlist: https://bit.ly/49bmkyN \n\n#HTV​ #realityshowHTV​ #bietdoisieusaoHTV​ \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \nĐăng ký: https://bit.ly/3D9sgXH \nWebsite: http://www.htv.com.vn \nFacebook:   / htv.hcm  \nỨng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\n2 ngày 1 đêm: https://bit.ly/45IWLnj\nSao nhập ngũ 2024: https://bit.ly/3yjQO3T \nBạn muốn hẹn hò: https://bit.ly/3HcaUOm \nMái ấm gia đình Việt: https://bit.ly/3edga9r \nChiến nhanh thắng chắc: https://bit.ly/3YG3vA4 \nBậc thầy săn thưởng: https://bit.ly/4f1bxJH \nVợ chồng son:  https://bit.ly/3TYwEoa \nXuân Hạ Thu Đông rồi lại Xuân: https://bit.ly/4en5Apw\nBiệt đội siêu sao: https://bit.ly/49bmkyN",
+      "descriptionLinks": [
+        {
+          "url": "https://bit.ly/49bmkyN",
+          "text": "https://bit.ly/49bmkyN"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#HTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/realityshowhtv",
+          "text": "#realityshowHTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bietdoisieusaohtv",
+          "text": "#bietdoisieusaoHTV​"
+        },
+        {
+          "url": "https://bit.ly/3D9sgXH",
+          "text": "https://bit.ly/3D9sgXH"
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.facebook.com/htv.hcm",
+          "text": "  / htv.hcm  "
+        },
+        {
+          "url": "https://htvc.tv/",
+          "text": "https://htvc.tv"
+        },
+        {
+          "url": "https://bit.ly/45IWLnj",
+          "text": "https://bit.ly/45IWLnj"
+        },
+        {
+          "url": "https://bit.ly/3yjQO3T",
+          "text": "https://bit.ly/3yjQO3T"
+        },
+        {
+          "url": "https://bit.ly/3HcaUOm",
+          "text": "https://bit.ly/3HcaUOm"
+        },
+        {
+          "url": "https://bit.ly/3edga9r",
+          "text": "https://bit.ly/3edga9r"
+        },
+        {
+          "url": "https://bit.ly/3YG3vA4",
+          "text": "https://bit.ly/3YG3vA4"
+        },
+        {
+          "url": "https://bit.ly/4f1bxJH",
+          "text": "https://bit.ly/4f1bxJH"
+        },
+        {
+          "url": "https://bit.ly/3TYwEoa",
+          "text": "https://bit.ly/3TYwEoa"
+        },
+        {
+          "url": "https://bit.ly/4en5Apw",
+          "text": "https://bit.ly/4en5Apw"
+        },
+        {
+          "url": "https://bit.ly/49bmkyN",
+          "text": "https://bit.ly/49bmkyN"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "commentsTurnedOff": false,
+      "isMonetized": null,
+      "hashtags": [
+        "#HTV​",
+        "#realityshowHTV​",
+        "#bietdoisieusaoHTV​"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/watch?v=zNY5kLHWze8",
+      "isPaidContent": false
+    }
+  ]
+}

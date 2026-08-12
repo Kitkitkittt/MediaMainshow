@@ -1,0 +1,64 @@
+{
+  "actor_name": "apidojo/youtube-scraper-api",
+  "actor_run_id": "yRSEIBGUUNQ04wzQA",
+  "dataset_id": "349fV7k4zLuDOVQVd",
+  "actor_build_id": "h8l90vf75JthhYS6q",
+  "retrieved_at": "2026-08-12T18:31:13.896366+07:00",
+  "actor_input": {
+    "maxItems": 160,
+    "includeShorts": false,
+    "includeLiveStreams": false,
+    "keywords": [
+      "Rap Việt Mùa 2 Tập Full Vie Channel"
+    ],
+    "sourceBindingUrl": "https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw/search?query=Rap%20Viet%202021%20Tap"
+  },
+  "run_metadata": {
+    "status": "SUCCEEDED",
+    "startedAt": "2026-08-12T11:30:34.962Z",
+    "finishedAt": "2026-08-12T11:31:07.126Z",
+    "usageTotalUsd": 0.005,
+    "chargedEventCounts": {
+      "dataset-item": 10,
+      "query-event": 0,
+      "search-query": 0,
+      "playlist-query": 0,
+      "get-trending-event": 0,
+      "include-shorts-event": 0,
+      "single-item-query": 0,
+      "include-live-streams-event": 0
+    }
+  },
+  "items": [
+    {
+      "demo": true
+    },
+    {
+      "demo": true
+    },
+    {
+      "demo": true
+    },
+    {
+      "demo": true
+    },
+    {
+      "demo": true
+    },
+    {
+      "demo": true
+    },
+    {
+      "demo": true
+    },
+    {
+      "demo": true
+    },
+    {
+      "demo": true
+    },
+    {
+      "demo": true
+    }
+  ]
+}

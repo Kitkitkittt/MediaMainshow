@@ -184,6 +184,8 @@ def build_all(raw_dir: Path, output_dir: Path, config: ProjectConfig) -> dict[st
                 _, summaries = _read_csv(season_dir / "season_summary.csv")
                 qc_status = summaries[0]["qc_status"] if summaries else "FAIL"
                 season_dirs.append(season_dir)
+            elif season.get("status") in {"upcoming", "announced"}:
+                qc_status = "NOT_STARTED"
             status_rows.append(
                 {
                     "tier": show.get("tier", ""),

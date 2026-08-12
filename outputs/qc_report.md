@@ -16,7 +16,7 @@
 - Duplicate logical episodes: []
 - Contiguous from E01: True
 - Canonical duration flags outside normal range: 1
-- Exclusions by reason: {'bts': 5, 'deterministic_non_episode': 4, 'official mv': 1, 'shorts': 3, 'teaser': 2, 'trailer': 1}
+- Exclusions by reason: {'backstage': 5, 'deterministic_non_episode': 4, 'non_main_channel_authority': 1, 'preview': 3, 'shorts': 3}
 
 Completed-season metrics are publishable with the duration caveat recorded above.
 
@@ -34,11 +34,11 @@ Completed-season metrics are publishable with the duration caveat recorded above
 - Canonical episodes: 14
 - Expected episodes: 14
 - Missing exact views: 0
-- Manual review rows: 5
+- Manual review rows: 0
 - Duplicate logical episodes: []
 - Contiguous from E01: True
 - Canonical duration flags outside normal range: 1
-- Exclusions by reason: {'bts': 2, 'concert': 3, 'deterministic_non_episode': 15, 'highlight': 3, 'lyrics': 1, 'official mv': 1, 'official_duplicate_logical_episode': 13, 'performance': 7, 'reaction': 1, 'recap': 1, 'trailer': 1, 'uncut': 8}
+- Exclusions by reason: {'backstage': 3, 'clip_or_segment': 1, 'compilation': 4, 'deterministic_non_episode': 12, 'highlight': 3, 'music_asset': 1, 'non_main_channel_authority': 8, 'official_duplicate_logical_episode': 12, 'performance': 4, 'preview': 1, 'recap': 4, 'uncut': 8}
 
 Completed-season metrics are publishable with the duration caveat recorded above.
 
@@ -60,7 +60,7 @@ Completed-season metrics are publishable with the duration caveat recorded above
 - Duplicate logical episodes: []
 - Contiguous from E01: True
 - Canonical duration flags outside normal range: 0
-- Exclusions by reason: {'deterministic_non_episode': 11, 'official mv': 1, 'shorts': 4}
+- Exclusions by reason: {'deterministic_non_episode': 11, 'non_main_channel_authority': 1, 'shorts': 4}
 
 Completed-season metrics are publishable under the recorded Phase-1 rules.
 
@@ -78,11 +78,11 @@ Completed-season metrics are publishable under the recorded Phase-1 rules.
 - Canonical episodes: 6
 - Expected episodes: 14
 - Missing exact views: 0
-- Manual review rows: 18
+- Manual review rows: 0
 - Duplicate logical episodes: []
 - Contiguous from E01: True
 - Canonical duration flags outside normal range: 0
-- Exclusions by reason: {'bts': 2, 'deterministic_non_episode': 16, 'highlight': 2, 'performance': 2, 'reaction': 1, 'uncut': 1, 'xem truoc': 2}
+- Exclusions by reason: {'Long derivative segment that references episode 5 but is not the canonical full episode.': 1, 'backstage': 4, 'clip_or_segment': 3, 'compilation': 5, 'deterministic_non_episode': 18, 'highlight': 2, 'music_asset': 1, 'non_main_channel_authority': 4, 'preview': 4, 'reaction': 1, 'uncut': 1}
 
 Airing-season views-to-date are publishable under the recorded rules.
 
@@ -176,6 +176,50 @@ Completed-season metrics are publishable under the recorded Phase-1 rules.
 
 ---
 
+# RAPVIET_2020 QC report
+
+- Status: **FAIL**
+- Actor: `apidojo/youtube-scraper-api`
+- Actor run: `i8Yes35BVH22XIPbc`
+- Dataset: `UGchKhQgeDebXZQOe`
+- Snapshot: `2026-08-12T18:29:50.022013+07:00`
+- Source: `https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw/search?query=Rap%20Viet%202020%20Tap`
+- Raw candidates: 60
+- Canonical episodes: 8
+- Expected episodes: 16
+- Missing exact views: 0
+- Manual review rows: 0
+- Duplicate logical episodes: []
+- Contiguous from E01: False
+- Canonical duration flags outside normal range: 1
+- Exclusions by reason: {'backstage': 1, 'compilation': 3, 'deterministic_non_episode': 30, 'music_asset': 6, 'non_main_channel_authority': 9, 'official_duplicate_logical_episode': 1, 'uncut': 2}
+
+Completed-season metrics are suppressed until all FAIL conditions resolve.
+
+---
+
+# RAPVIET_2021 QC report
+
+- Status: **FAIL**
+- Actor: `apidojo/youtube-scraper-api`
+- Actor run: `yRSEIBGUUNQ04wzQA`
+- Dataset: `349fV7k4zLuDOVQVd`
+- Snapshot: `2026-08-12T18:31:13.896366+07:00`
+- Source: `https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw/search?query=Rap%20Viet%202021%20Tap`
+- Raw candidates: 60
+- Canonical episodes: 5
+- Expected episodes: 16
+- Missing exact views: 0
+- Manual review rows: 0
+- Duplicate logical episodes: []
+- Contiguous from E01: False
+- Canonical duration flags outside normal range: 0
+- Exclusions by reason: {'compilation': 2, 'deterministic_non_episode': 13, 'music_asset': 2, 'non_main_channel_authority': 26, 'preview': 7, 'reaction': 3, 'uncut': 2}
+
+Completed-season metrics are suppressed until all FAIL conditions resolve.
+
+---
+
 # RAPVIET_2023 QC report
 
 - Status: **WARNING**
@@ -188,13 +232,57 @@ Completed-season metrics are publishable under the recorded Phase-1 rules.
 - Canonical episodes: 16
 - Expected episodes: 16
 - Missing exact views: 0
-- Manual review rows: 1
+- Manual review rows: 0
 - Duplicate logical episodes: []
 - Contiguous from E01: True
 - Canonical duration flags outside normal range: 1
-- Exclusions by reason: {'deterministic_non_episode': 13, 'official_duplicate_logical_episode': 2}
+- Exclusions by reason: {'compilation': 1, 'deterministic_non_episode': 13, 'official_duplicate_logical_episode': 2}
 
 Completed-season metrics are publishable with the duration caveat recorded above.
+
+---
+
+# RAPVIET_2024 QC report
+
+- Status: **FAIL**
+- Actor: `streamers/youtube-scraper`
+- Actor run: `OoPkMbTamPT06ikpY`
+- Dataset: `z1FxGGT1LW436izz0`
+- Snapshot: `2026-08-12T16:30:37.452438+07:00`
+- Source: `https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw/search?query=Rap%20Viet%202024%20Tap`
+- Raw candidates: 60
+- Canonical episodes: 13
+- Expected episodes: unknown
+- Missing exact views: 0
+- Manual review rows: 0
+- Duplicate logical episodes: []
+- Contiguous from E01: False
+- Canonical duration flags outside normal range: 0
+- Exclusions by reason: {'compilation': 3, 'deterministic_non_episode': 15, 'music_asset': 1, 'non_main_channel_authority': 27, 'official_duplicate_logical_episode': 1}
+
+Completed-season metrics are suppressed until all FAIL conditions resolve.
+
+---
+
+# TMSVN_2022 QC report
+
+- Status: **PASS**
+- Actor: `streamers/youtube-scraper`
+- Actor run: `Bzt4OxzL7shudYpvd`
+- Dataset: `o0vZh4grpx4k1068M`
+- Snapshot: `2026-08-12T18:34:44.945431+07:00`
+- Source: `https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw/search?query=Ca%20Si%20Mat%20Na%202022%20Tap`
+- Raw candidates: 65
+- Canonical episodes: 16
+- Expected episodes: 16
+- Missing exact views: 0
+- Manual review rows: 0
+- Duplicate logical episodes: []
+- Contiguous from E01: True
+- Canonical duration flags outside normal range: 0
+- Exclusions by reason: {'compilation': 7, 'deterministic_non_episode': 17, 'non_main_channel_authority': 7, 'official_duplicate_logical_episode': 16, 'performance': 1, 'reaction': 1}
+
+Completed-season metrics are publishable under the recorded Phase-1 rules.
 
 ---
 
@@ -205,7 +293,7 @@ Completed-season metrics are publishable with the duration caveat recorded above
 - Actor run: `GNepb49Reo0c060fy`
 - Dataset: `C244HyHG5hyCWzmWr`
 - Snapshot: `2026-08-12T14:03:45.582697+07:00`
-- Source: `https://www.youtube.com/watch?v=4au37MyRqS0`
+- Source: `https://www.youtube.com/playlist?list=PLxKLMN7WdG5ANJruYBhSGi5UBRUIhQTbi`
 - Raw candidates: 32
 - Canonical episodes: 16
 - Expected episodes: 16
@@ -214,7 +302,7 @@ Completed-season metrics are publishable with the duration caveat recorded above
 - Duplicate logical episodes: []
 - Contiguous from E01: True
 - Canonical duration flags outside normal range: 0
-- Exclusions by reason: {'deterministic_non_episode': 7, 'official_duplicate_logical_episode': 5, 'teaser': 2, 'uncut': 2}
+- Exclusions by reason: {'deterministic_non_episode': 7, 'non_main_channel_authority': 1, 'official_duplicate_logical_episode': 4, 'preview': 2, 'uncut': 2}
 
 Completed-season metrics are publishable under the recorded Phase-1 rules.
 
@@ -236,7 +324,7 @@ Completed-season metrics are publishable under the recorded Phase-1 rules.
 - Duplicate logical episodes: []
 - Contiguous from E01: True
 - Canonical duration flags outside normal range: 0
-- Exclusions by reason: {'deterministic_non_episode': 1, 'trailer': 1}
+- Exclusions by reason: {'deterministic_non_episode': 1, 'preview': 1}
 
 Completed-season metrics are publishable under the recorded Phase-1 rules.
 
@@ -259,6 +347,28 @@ Completed-season metrics are publishable under the recorded Phase-1 rules.
 - Contiguous from E01: True
 - Canonical duration flags outside normal range: 0
 - Exclusions by reason: {'deterministic_non_episode': 1}
+
+Completed-season metrics are publishable under the recorded Phase-1 rules.
+
+---
+
+# VNIDOL_2023 QC report
+
+- Status: **PASS**
+- Actor: `streamers/youtube-scraper`
+- Actor run: `dVodxnWflcxI3rcZk`
+- Dataset: `TVTuETNNz4jDlVUiG`
+- Snapshot: `2026-08-12T18:36:20.551517+07:00`
+- Source: `https://www.youtube.com/channel/UCs0N0TBi2j156kZ4AOnnB2g/search?query=Vietnam%20Idol%202023%20Tap`
+- Raw candidates: 65
+- Canonical episodes: 16
+- Expected episodes: 16
+- Missing exact views: 0
+- Manual review rows: 0
+- Duplicate logical episodes: []
+- Contiguous from E01: True
+- Canonical duration flags outside normal range: 0
+- Exclusions by reason: {'deterministic_non_episode': 45, 'music_asset': 1, 'official_duplicate_logical_episode': 2, 'recap': 1}
 
 Completed-season metrics are publishable under the recorded Phase-1 rules.
 
@@ -324,7 +434,7 @@ Completed-season metrics are publishable under the recorded Phase-1 rules.
 - Duplicate logical episodes: []
 - Contiguous from E01: True
 - Canonical duration flags outside normal range: 0
-- Exclusions by reason: {'deterministic_non_episode': 4, 'teaser': 1, 'trailer': 1}
+- Exclusions by reason: {'deterministic_non_episode': 4, 'preview': 2}
 
 Completed-season metrics are publishable under the recorded Phase-1 rules.
 
@@ -354,23 +464,23 @@ Completed-season metrics are publishable under the recorded Phase-1 rules.
 
 # 2N1D_S4 QC report
 
-- Status: **FAIL**
+- Status: **PASS**
 - Actor: `streamers/youtube-scraper`
-- Actor run: `p2uAazFzpCf9Jq2sL`
-- Dataset: `fcthXchqVJsbYKO4j`
-- Snapshot: `2026-08-12T14:08:19.086034+07:00`
+- Actor run: `jor29WGcY0dRP3940`
+- Dataset: `nDsyrPejccMK2eKdW`
+- Snapshot: `2026-08-12T18:25:36.701383+07:00`
 - Source: `https://www.youtube.com/playlist?list=PLY-AuYi7sTujnjUSFEFLK6a5FX_CQ7_14`
-- Raw candidates: 18
-- Canonical episodes: 16
+- Raw candidates: 19
+- Canonical episodes: 17
 - Expected episodes: 17
 - Missing exact views: 0
 - Manual review rows: 0
 - Duplicate logical episodes: []
-- Contiguous from E01: False
+- Contiguous from E01: True
 - Canonical duration flags outside normal range: 0
-- Exclusions by reason: {'bts': 1, 'deterministic_non_episode': 1}
+- Exclusions by reason: {'backstage': 1, 'deterministic_non_episode': 1}
 
-Completed-season metrics are suppressed until all FAIL conditions resolve.
+Completed-season metrics are publishable under the recorded Phase-1 rules.
 
 ---
 
@@ -378,19 +488,19 @@ Completed-season metrics are suppressed until all FAIL conditions resolve.
 
 - Status: **FAIL**
 - Actor: `streamers/youtube-scraper`
-- Actor run: `aTDRUsMxdo6nMoYi9`
-- Dataset: `YBXxiJDAtxlfRmMqm`
-- Snapshot: `2026-08-12T14:12:06.049539+07:00`
-- Source: `https://www.youtube.com/playlist?list=PLyb1d5OP9TmFphpG73S6sUrQm5uXV7IrJ`
-- Raw candidates: 0
-- Canonical episodes: 0
+- Actor run: `5FdSgMJjlO0HleCys`
+- Dataset: `kVIxbhaAMwGDkPDos`
+- Snapshot: `2026-08-12T18:11:20.372854+07:00`
+- Source: `https://www.youtube.com/channel/UCSpmT3hpL4J_4ievnGzkmsQ/search?query=Chay%20Di%20Cho%20Chi%20Tap`
+- Raw candidates: 80
+- Canonical episodes: 9
 - Expected episodes: 15
 - Missing exact views: 0
 - Manual review rows: 0
 - Duplicate logical episodes: []
-- Contiguous from E01: True
-- Canonical duration flags outside normal range: 0
-- Exclusions by reason: {}
+- Contiguous from E01: False
+- Canonical duration flags outside normal range: 2
+- Exclusions by reason: {'backstage': 2, 'cut': 1, 'deterministic_non_episode': 59, 'official_duplicate_logical_episode': 4, 'preview': 5}
 
 Completed-season metrics are suppressed until all FAIL conditions resolve.
 
@@ -398,23 +508,23 @@ Completed-season metrics are suppressed until all FAIL conditions resolve.
 
 # RMVN_S2 QC report
 
-- Status: **FAIL**
+- Status: **PASS**
 - Actor: `streamers/youtube-scraper`
-- Actor run: `0aeWGwnLycaBoktNm`
-- Dataset: `tyxMdkj0JaNfQ1qPI`
-- Snapshot: `2026-08-12T14:10:08.652939+07:00`
-- Source: `https://www.youtube.com/playlist?list=PLG7CUxrpEOnfzfuMy-SQsENMcthLsO_v-`
-- Raw candidates: 31
-- Canonical episodes: 15
-- Expected episodes: 15
+- Actor run: `9TfG2Ia9jXssoJSJt`
+- Dataset: `0CSg3n0DdqZFxv4nt`
+- Snapshot: `2026-08-12T18:25:06.380679+07:00`
+- Source: `https://www.youtube.com/watch?v=hqTJG9yzrUs`
+- Raw candidates: 32
+- Canonical episodes: 16
+- Expected episodes: 16
 - Missing exact views: 0
 - Manual review rows: 0
 - Duplicate logical episodes: []
-- Contiguous from E01: False
+- Contiguous from E01: True
 - Canonical duration flags outside normal range: 0
-- Exclusions by reason: {'deterministic_non_episode': 1, 'official mv': 1, 'teaser': 14}
+- Exclusions by reason: {'deterministic_non_episode': 1, 'music_asset': 1, 'preview': 14}
 
-Completed-season metrics are suppressed until all FAIL conditions resolve.
+Completed-season metrics are publishable under the recorded Phase-1 rules.
 
 ---
 
@@ -430,35 +540,57 @@ Completed-season metrics are suppressed until all FAIL conditions resolve.
 - Canonical episodes: 16
 - Expected episodes: 16
 - Missing exact views: 0
-- Manual review rows: 2
+- Manual review rows: 0
 - Duplicate logical episodes: []
 - Contiguous from E01: True
 - Canonical duration flags outside normal range: 0
-- Exclusions by reason: {}
+- Exclusions by reason: {'recap': 2}
 
 Completed-season metrics are publishable under the recorded Phase-1 rules.
 
 ---
 
-# GDHAHA_S1 QC report
+# RMVN_2026 QC report
 
 - Status: **FAIL**
 - Actor: `streamers/youtube-scraper`
-- Actor run: `nlW4Keyc6ze9gzmv6`
-- Dataset: `T6quAopcvCQjioFOZ`
-- Snapshot: `2026-08-12T14:12:13.424316+07:00`
-- Source: `https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY`
-- Raw candidates: 0
-- Canonical episodes: 0
+- Actor run: `dAdUbIUQCZtcUuBwM`
+- Dataset: `9ReEHeIwhGbK3f0vi`
+- Snapshot: `2026-08-12T18:13:18.566732+07:00`
+- Source: `https://www.youtube.com/channel/UCjTlq6Z0HG8C7BVI8x5BOnA/search?query=Chay%20Ngay%20Di%20Tap`
+- Raw candidates: 30
+- Canonical episodes: 14
+- Expected episodes: unknown
+- Missing exact views: 0
+- Manual review rows: 0
+- Duplicate logical episodes: []
+- Contiguous from E01: False
+- Canonical duration flags outside normal range: 1
+- Exclusions by reason: {'deterministic_non_episode': 6, 'official_duplicate_logical_episode': 5, 'reaction': 3, 'recap': 2}
+
+Completed-season metrics are suppressed until all FAIL conditions resolve.
+
+---
+
+# GDHAHA_S1 QC report
+
+- Status: **WARNING**
+- Actor: `streamers/youtube-scraper`
+- Actor run: `7Kw6a9f9wseVSZBaW`
+- Dataset: `R18olNmEQZFgald7L`
+- Snapshot: `2026-08-12T18:38:24.594334+07:00`
+- Source: `https://www.youtube.com/channel/UCh_zF2FsiCflCPgYDudtcqg/search?query=Gia%20Dinh%20Haha%20Tap`
+- Raw candidates: 86
+- Canonical episodes: 20
 - Expected episodes: 20
 - Missing exact views: 0
 - Manual review rows: 0
 - Duplicate logical episodes: []
 - Contiguous from E01: True
-- Canonical duration flags outside normal range: 0
-- Exclusions by reason: {}
+- Canonical duration flags outside normal range: 2
+- Exclusions by reason: {'compilation': 3, 'deterministic_non_episode': 50, 'highlight': 1, 'music_asset': 1, 'official_duplicate_logical_episode': 8, 'reaction': 2, 'recap': 1}
 
-Completed-season metrics are suppressed until all FAIL conditions resolve.
+Completed-season metrics are publishable with the duration caveat recorded above.
 
 ---
 
@@ -474,11 +606,11 @@ Completed-season metrics are suppressed until all FAIL conditions resolve.
 - Canonical episodes: 8
 - Expected episodes: unknown
 - Missing exact views: 0
-- Manual review rows: 1
+- Manual review rows: 0
 - Duplicate logical episodes: []
 - Contiguous from E01: True
 - Canonical duration flags outside normal range: 0
-- Exclusions by reason: {'deterministic_non_episode': 2}
+- Exclusions by reason: {'compilation': 1, 'deterministic_non_episode': 2}
 
 Completed-season metrics are publishable with the duration caveat recorded above.
 
@@ -632,7 +764,7 @@ Completed-season metrics are publishable with the duration caveat recorded above
 - Duplicate logical episodes: []
 - Contiguous from E01: True
 - Canonical duration flags outside normal range: 0
-- Exclusions by reason: {'deterministic_non_episode': 3, 'official_duplicate_logical_episode': 2, 'trailer': 6}
+- Exclusions by reason: {'deterministic_non_episode': 3, 'official_duplicate_logical_episode': 2, 'preview': 6}
 
 Completed-season metrics are publishable with the duration caveat recorded above.
 
@@ -647,14 +779,14 @@ Completed-season metrics are publishable with the duration caveat recorded above
 - Snapshot: `2026-08-12T14:21:02.158876+07:00`
 - Source: `https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO`
 - Raw candidates: 36
-- Canonical episodes: 5
+- Canonical episodes: 3
 - Expected episodes: unknown
 - Missing exact views: 0
 - Manual review rows: 0
 - Duplicate logical episodes: []
 - Contiguous from E01: False
-- Canonical duration flags outside normal range: 2
-- Exclusions by reason: {'deterministic_non_episode': 10, 'official_duplicate_logical_episode': 1, 'trailer': 13, 'uncut': 7}
+- Canonical duration flags outside normal range: 0
+- Exclusions by reason: {'deterministic_non_episode': 9, 'preview': 16, 'recap': 1, 'uncut': 7}
 
 Completed-season metrics are suppressed until all FAIL conditions resolve.
 
@@ -662,67 +794,67 @@ Completed-season metrics are suppressed until all FAIL conditions resolve.
 
 # SNN_2022 QC report
 
-- Status: **FAIL**
+- Status: **PASS**
 - Actor: `streamers/youtube-scraper`
-- Actor run: `oBkPT0VHlEv86hlCC`
-- Dataset: `vClAON8P0ACLFdvPe`
-- Snapshot: `2026-08-12T14:21:48.710139+07:00`
+- Actor run: `fHIG1l1aNqP9yyZ3n`
+- Dataset: `kvilfSBD6KtW8w0dE`
+- Snapshot: `2026-08-12T18:43:33.891475+07:00`
 - Source: `https://www.youtube.com/playlist?list=PLC_d5n_vB0CqKPJB_nKNGC5usu-epusl-`
-- Raw candidates: 17
-- Canonical episodes: 14
-- Expected episodes: unknown
+- Raw candidates: 30
+- Canonical episodes: 17
+- Expected episodes: 17
 - Missing exact views: 0
-- Manual review rows: 1
+- Manual review rows: 0
 - Duplicate logical episodes: []
-- Contiguous from E01: False
+- Contiguous from E01: True
 - Canonical duration flags outside normal range: 0
-- Exclusions by reason: {'deterministic_non_episode': 2}
+- Exclusions by reason: {'backstage': 3, 'deterministic_non_episode': 6, 'official_duplicate_logical_episode': 2, 'preview': 1, 'uncut': 1}
 
-Completed-season metrics are suppressed until all FAIL conditions resolve.
+Completed-season metrics are publishable under the recorded Phase-1 rules.
 
 ---
 
 # SNN_2023 QC report
 
-- Status: **FAIL**
+- Status: **PASS**
 - Actor: `streamers/youtube-scraper`
-- Actor run: `ZwgVv99Igpd9k8khr`
-- Dataset: `fyyt4UGpPq6eBhDz6`
-- Snapshot: `2026-08-12T14:23:57.588498+07:00`
+- Actor run: `2HRJ1cw2tJ8EtS4Ng`
+- Dataset: `JSBSgFh7QVIgc2mla`
+- Snapshot: `2026-08-12T18:42:16.381726+07:00`
 - Source: `https://www.youtube.com/playlist?list=PLC_d5n_vB0CriKOGYS3OtwqdTUYU8Ex1-`
-- Raw candidates: 18
-- Canonical episodes: 16
-- Expected episodes: unknown
+- Raw candidates: 26
+- Canonical episodes: 18
+- Expected episodes: 18
 - Missing exact views: 0
-- Manual review rows: 2
+- Manual review rows: 0
 - Duplicate logical episodes: []
-- Contiguous from E01: False
+- Contiguous from E01: True
 - Canonical duration flags outside normal range: 0
-- Exclusions by reason: {}
+- Exclusions by reason: {'deterministic_non_episode': 2, 'official_duplicate_logical_episode': 5, 'recap': 1}
 
-Completed-season metrics are suppressed until all FAIL conditions resolve.
+Completed-season metrics are publishable under the recorded Phase-1 rules.
 
 ---
 
 # SNN_2024_M QC report
 
-- Status: **WARNING**
+- Status: **PASS**
 - Actor: `streamers/youtube-scraper`
 - Actor run: `xWcjlIoH3pwFdF17e`
 - Dataset: `Xr1LHB2RLjcqlStjD`
 - Snapshot: `2026-08-12T14:25:13.530496+07:00`
 - Source: `https://www.youtube.com/playlist?list=PLC_d5n_vB0Cr41NjQr7k08taDRxmj_jUG`
 - Raw candidates: 16
-- Canonical episodes: 15
-- Expected episodes: unknown
+- Canonical episodes: 16
+- Expected episodes: 16
 - Missing exact views: 0
-- Manual review rows: 1
+- Manual review rows: 0
 - Duplicate logical episodes: []
 - Contiguous from E01: True
 - Canonical duration flags outside normal range: 0
 - Exclusions by reason: {}
 
-Completed-season metrics are publishable with the duration caveat recorded above.
+Completed-season metrics are publishable under the recorded Phase-1 rules.
 
 ---
 
@@ -735,10 +867,10 @@ Completed-season metrics are publishable with the duration caveat recorded above
 - Snapshot: `2026-08-12T14:25:47.403885+07:00`
 - Source: `https://www.youtube.com/playlist?list=PLC_d5n_vB0CoI8qgSX7mPMpAC_nlcbf57`
 - Raw candidates: 16
-- Canonical episodes: 15
-- Expected episodes: unknown
+- Canonical episodes: 16
+- Expected episodes: 16
 - Missing exact views: 0
-- Manual review rows: 1
+- Manual review rows: 0
 - Duplicate logical episodes: []
 - Contiguous from E01: True
 - Canonical duration flags outside normal range: 1
@@ -750,29 +882,29 @@ Completed-season metrics are publishable with the duration caveat recorded above
 
 # SNN_2025 QC report
 
-- Status: **FAIL**
+- Status: **PASS**
 - Actor: `streamers/youtube-scraper`
 - Actor run: `4Bb72WxYt2e7eCfH3`
 - Dataset: `XeiqZ72MfqqfOkA7L`
 - Snapshot: `2026-08-12T14:26:46.940202+07:00`
 - Source: `https://www.youtube.com/playlist?list=PLC_d5n_vB0Cq3f_8Fj98GNIcl7l7tnjAp`
 - Raw candidates: 16
-- Canonical episodes: 15
+- Canonical episodes: 16
 - Expected episodes: 16
 - Missing exact views: 0
-- Manual review rows: 1
+- Manual review rows: 0
 - Duplicate logical episodes: []
 - Contiguous from E01: True
 - Canonical duration flags outside normal range: 0
 - Exclusions by reason: {}
 
-Completed-season metrics are suppressed until all FAIL conditions resolve.
+Completed-season metrics are publishable under the recorded Phase-1 rules.
 
 ---
 
 # SNN_2026 QC report
 
-- Status: **FAIL**
+- Status: **NOT_STARTED**
 - Actor: `streamers/youtube-scraper`
 - Actor run: `i3J1i2O99cTyHPbyz`
 - Dataset: `hNEdhAUPGTl7J3W0L`
@@ -786,7 +918,7 @@ Completed-season metrics are suppressed until all FAIL conditions resolve.
 - Duplicate logical episodes: []
 - Contiguous from E01: True
 - Canonical duration flags outside normal range: 0
-- Exclusions by reason: {'deterministic_non_episode': 34, 'shorts': 2}
+- Exclusions by reason: {'clip_or_segment': 4, 'deterministic_non_episode': 30, 'shorts': 2}
 
 Completed-season metrics are suppressed until all FAIL conditions resolve.
 
@@ -794,45 +926,45 @@ Completed-season metrics are suppressed until all FAIL conditions resolve.
 
 # CSQC_2025 QC report
 
-- Status: **FAIL**
+- Status: **PASS**
 - Actor: `streamers/youtube-scraper`
-- Actor run: `68ad3rmID5g5tjZx4`
-- Dataset: `Dkn4kh2qPo6faUy34`
-- Snapshot: `2026-08-12T14:36:42.739159+07:00`
-- Source: `https://www.youtube.com/playlist?list=PLCgARQSDdGSz-rFWvFVciI3bvFFHhaD82`
-- Raw candidates: 0
-- Canonical episodes: 0
+- Actor run: `nfq80lHW2xWgqZyZj`
+- Dataset: `2dq4cu0ljiVjy1qrU`
+- Snapshot: `2026-08-12T18:39:04.110834+07:00`
+- Source: `https://www.youtube.com/channel/UC7TbGjadpjgOfnUoA-iW6Dg/search?query=Chien%20Si%20Qua%20Cam%20Tap`
+- Raw candidates: 64
+- Canonical episodes: 15
 - Expected episodes: 15
 - Missing exact views: 0
 - Manual review rows: 0
 - Duplicate logical episodes: []
 - Contiguous from E01: True
 - Canonical duration flags outside normal range: 0
-- Exclusions by reason: {}
+- Exclusions by reason: {'backstage': 1, 'deterministic_non_episode': 41, 'performance': 1, 'preview': 2, 'reaction': 3, 'uncut': 1}
 
-Completed-season metrics are suppressed until all FAIL conditions resolve.
+Completed-season metrics are publishable under the recorded Phase-1 rules.
 
 ---
 
 # DTGT_2025 QC report
 
-- Status: **FAIL**
+- Status: **PASS**
 - Actor: `streamers/youtube-scraper`
-- Actor run: `1YFtRDU1wNjkafveH`
-- Dataset: `ijX28udyfVNVe9RSe`
-- Snapshot: `2026-08-12T14:30:13.671856+07:00`
+- Actor run: `a5rEJu1RhcI7sJeU4`
+- Dataset: `qiUAMlbDvNBlIAwZV`
+- Snapshot: `2026-08-12T18:26:40.410244+07:00`
 - Source: `https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ`
-- Raw candidates: 13
+- Raw candidates: 14
 - Canonical episodes: 12
 - Expected episodes: 12
 - Missing exact views: 0
 - Manual review rows: 0
 - Duplicate logical episodes: []
-- Contiguous from E01: False
+- Contiguous from E01: True
 - Canonical duration flags outside normal range: 0
-- Exclusions by reason: {'deterministic_non_episode': 1}
+- Exclusions by reason: {'deterministic_non_episode': 2}
 
-Completed-season metrics are suppressed until all FAIL conditions resolve.
+Completed-season metrics are publishable under the recorded Phase-1 rules.
 
 ---
 
@@ -874,7 +1006,7 @@ Completed-season metrics are publishable under the recorded Phase-1 rules.
 - Duplicate logical episodes: []
 - Contiguous from E01: True
 - Canonical duration flags outside normal range: 0
-- Exclusions by reason: {'deterministic_non_episode': 33, 'hau truong': 1, 'trailer': 2, 'xem truoc': 1}
+- Exclusions by reason: {'backstage': 1, 'clip_or_segment': 2, 'deterministic_non_episode': 31, 'preview': 3}
 
 Completed-season metrics are suppressed until all FAIL conditions resolve.
 
@@ -882,23 +1014,23 @@ Completed-season metrics are suppressed until all FAIL conditions resolve.
 
 # HTRR_2023 QC report
 
-- Status: **FAIL**
+- Status: **PASS**
 - Actor: `streamers/youtube-scraper`
 - Actor run: `fZJqqNNZLJailjQ7N`
 - Dataset: `nHaj2QK5a9GfujTkH`
 - Snapshot: `2026-08-12T14:33:16.956174+07:00`
 - Source: `https://www.youtube.com/playlist?list=PLy_TpcUT2LZtT4YxNqO277e2zk-7oUS_6`
 - Raw candidates: 32
-- Canonical episodes: 21
+- Canonical episodes: 20
 - Expected episodes: 20
 - Missing exact views: 0
 - Manual review rows: 0
 - Duplicate logical episodes: []
 - Contiguous from E01: True
 - Canonical duration flags outside normal range: 0
-- Exclusions by reason: {'deterministic_non_episode': 1, 'uncut': 10}
+- Exclusions by reason: {'Official archive extra labelled Tập 21, outside the source-bound 20-episode main season.': 1, 'recap': 1, 'uncut': 10}
 
-Completed-season metrics are suppressed until all FAIL conditions resolve.
+Completed-season metrics are publishable under the recorded Phase-1 rules.
 
 ---
 
@@ -918,7 +1050,7 @@ Completed-season metrics are suppressed until all FAIL conditions resolve.
 - Duplicate logical episodes: []
 - Contiguous from E01: True
 - Canonical duration flags outside normal range: 0
-- Exclusions by reason: {'best cut': 20, 'deterministic_non_episode': 13, 'highlight': 1, 'official_duplicate_logical_episode': 26, 'reaction': 1, 'trailer': 4}
+- Exclusions by reason: {'best cut': 20, 'deterministic_non_episode': 13, 'highlight': 1, 'official_duplicate_logical_episode': 26, 'preview': 4, 'reaction': 1}
 
 Completed-season metrics are publishable under the recorded Phase-1 rules.
 
@@ -948,14 +1080,14 @@ Completed-season metrics are publishable under the recorded Phase-1 rules.
 
 # BDSS_2024 QC report
 
-- Status: **FAIL**
+- Status: **WARNING**
 - Actor: `streamers/youtube-scraper`
-- Actor run: `hCOw653KWtWb6Gu2q`
-- Dataset: `9gdnLOZtijxyCVqYQ`
-- Snapshot: `2026-08-12T14:37:51.304460+07:00`
-- Source: `https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_`
-- Raw candidates: 30
-- Canonical episodes: 12
+- Actor run: `l4Cbec18VOwq470OC`
+- Dataset: `reFzTvG4ArNihCaNB`
+- Snapshot: `2026-08-12T18:26:08.395060+07:00`
+- Source: `https://www.youtube.com/watch?v=zNY5kLHWze8`
+- Raw candidates: 31
+- Canonical episodes: 13
 - Expected episodes: 13
 - Missing exact views: 0
 - Manual review rows: 0
@@ -964,7 +1096,7 @@ Completed-season metrics are publishable under the recorded Phase-1 rules.
 - Canonical duration flags outside normal range: 1
 - Exclusions by reason: {'deterministic_non_episode': 3, 'official_duplicate_logical_episode': 15}
 
-Completed-season metrics are suppressed until all FAIL conditions resolve.
+Completed-season metrics are publishable with the duration caveat recorded above.
 
 ---
 
@@ -972,11 +1104,11 @@ Completed-season metrics are suppressed until all FAIL conditions resolve.
 
 - Status: **FAIL**
 - Actor: `streamers/youtube-scraper`
-- Actor run: `STIIyERd6mW9xKeJl`
-- Dataset: `m6OGWBLccuEJukZfC`
-- Snapshot: `2026-08-12T14:39:15.554943+07:00`
+- Actor run: `GuPL97VewtDGOtstg`
+- Dataset: `pcAchQfbcs9W5JqLO`
+- Snapshot: `2026-08-12T18:27:46.461648+07:00`
 - Source: `https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca`
-- Raw candidates: 30
+- Raw candidates: 32
 - Canonical episodes: 6
 - Expected episodes: 13
 - Missing exact views: 0
@@ -984,9 +1116,119 @@ Completed-season metrics are suppressed until all FAIL conditions resolve.
 - Duplicate logical episodes: []
 - Contiguous from E01: True
 - Canonical duration flags outside normal range: 0
-- Exclusions by reason: {'deterministic_non_episode': 3, 'official_duplicate_logical_episode': 21}
+- Exclusions by reason: {'deterministic_non_episode': 5, 'official_duplicate_logical_episode': 21}
 
 Completed-season metrics are suppressed until all FAIL conditions resolve.
+
+---
+
+# MVNBLST_S1 QC report
+
+- Status: **FAIL**
+- Actor: `streamers/youtube-scraper`
+- Actor run: `O7Ip4BBhplAR5qEow`
+- Dataset: `neWjTliiIs9ixEMbJ`
+- Snapshot: `2026-08-12T18:19:17.797329+07:00`
+- Source: `https://www.youtube.com/channel/UCT4q1IIX1rWoN95I-_89aVw/search?query=Me%20Vang%20Nha%20Mua%201`
+- Raw candidates: 60
+- Canonical episodes: 14
+- Expected episodes: unknown
+- Missing exact views: 0
+- Manual review rows: 0
+- Duplicate logical episodes: []
+- Contiguous from E01: False
+- Canonical duration flags outside normal range: 5
+- Exclusions by reason: {'compilation': 5, 'deterministic_non_episode': 5, 'official_duplicate_logical_episode': 35, 'preview': 1}
+
+Completed-season metrics are suppressed until all FAIL conditions resolve.
+
+---
+
+# MVNBLST_S2 QC report
+
+- Status: **FAIL**
+- Actor: `streamers/youtube-scraper`
+- Actor run: `mhioMI899b3pu5eMP`
+- Dataset: `igB2mKCkBSqLZAC3i`
+- Snapshot: `2026-08-12T18:20:46.329803+07:00`
+- Source: `https://www.youtube.com/channel/UCT4q1IIX1rWoN95I-_89aVw/search?query=Me%20Vang%20Nha%20Mua%202`
+- Raw candidates: 60
+- Canonical episodes: 16
+- Expected episodes: unknown
+- Missing exact views: 0
+- Manual review rows: 0
+- Duplicate logical episodes: []
+- Contiguous from E01: False
+- Canonical duration flags outside normal range: 4
+- Exclusions by reason: {'compilation': 4, 'deterministic_non_episode': 13, 'official_duplicate_logical_episode': 25, 'preview': 1, 'recap': 1}
+
+Completed-season metrics are suppressed until all FAIL conditions resolve.
+
+---
+
+# MVNBLST_S3 QC report
+
+- Status: **FAIL**
+- Actor: `streamers/youtube-scraper`
+- Actor run: `mMchsOQbKOWZc6eCA`
+- Dataset: `p8icfbvF0cKu1lk6d`
+- Snapshot: `2026-08-12T18:22:37.095894+07:00`
+- Source: `https://www.youtube.com/channel/UCT4q1IIX1rWoN95I-_89aVw/search?query=Me%20Vang%20Nha%20Mua%203`
+- Raw candidates: 60
+- Canonical episodes: 16
+- Expected episodes: unknown
+- Missing exact views: 0
+- Manual review rows: 0
+- Duplicate logical episodes: []
+- Contiguous from E01: False
+- Canonical duration flags outside normal range: 2
+- Exclusions by reason: {'compilation': 3, 'deterministic_non_episode': 11, 'official_duplicate_logical_episode': 30}
+
+Completed-season metrics are suppressed until all FAIL conditions resolve.
+
+---
+
+# MVNBLST_S4 QC report
+
+- Status: **FAIL**
+- Actor: `streamers/youtube-scraper`
+- Actor run: `Sp3XLaxMZhJUn7saF`
+- Dataset: `URTP4fjqfMtzAJf9q`
+- Snapshot: `2026-08-12T18:25:04.193801+07:00`
+- Source: `https://www.youtube.com/channel/UCT4q1IIX1rWoN95I-_89aVw/search?query=Me%20Vang%20Nha%20Mua%204`
+- Raw candidates: 60
+- Canonical episodes: 18
+- Expected episodes: unknown
+- Missing exact views: 0
+- Manual review rows: 0
+- Duplicate logical episodes: []
+- Contiguous from E01: False
+- Canonical duration flags outside normal range: 5
+- Exclusions by reason: {'compilation': 1, 'deterministic_non_episode': 11, 'official_duplicate_logical_episode': 28, 'preview': 2}
+
+Completed-season metrics are suppressed until all FAIL conditions resolve.
+
+---
+
+# MVNBLST_S5 QC report
+
+- Status: **WARNING**
+- Actor: `streamers/youtube-scraper`
+- Actor run: `KrhZPl2oEhDQTEvQ7`
+- Dataset: `jdQTTchxuJkmEqw3d`
+- Snapshot: `2026-08-12T18:27:38.719565+07:00`
+- Source: `https://www.youtube.com/channel/UCT4q1IIX1rWoN95I-_89aVw/search?query=Me%20Vang%20Nha%20Ba%20La%20Sieu%20Nhan%202026`
+- Raw candidates: 60
+- Canonical episodes: 18
+- Expected episodes: 18
+- Missing exact views: 0
+- Manual review rows: 0
+- Duplicate logical episodes: []
+- Contiguous from E01: True
+- Canonical duration flags outside normal range: 1
+- Exclusions by reason: {'backstage': 3, 'compilation': 2, 'deterministic_non_episode': 11, 'official_duplicate_logical_episode': 24, 'preview': 1, 'recap': 1}
+
+Completed-season metrics are publishable with the duration caveat recorded above.
 
 ---
 
@@ -999,14 +1241,14 @@ Completed-season metrics are suppressed until all FAIL conditions resolve.
 - Snapshot: `2026-08-12T14:46:24.722846+07:00`
 - Source: `https://www.youtube.com/playlist?list=PLDNVHSVr-vVkKKgcJr--k4Dtplx8TwHmW`
 - Raw candidates: 195
-- Canonical episodes: 175
+- Canonical episodes: 185
 - Expected episodes: unknown
 - Missing exact views: 0
-- Manual review rows: 11
+- Manual review rows: 0
 - Duplicate logical episodes: []
 - Contiguous from E01: False
 - Canonical duration flags outside normal range: 0
-- Exclusions by reason: {'deterministic_non_episode': 9}
+- Exclusions by reason: {'deterministic_non_episode': 9, 'recap': 1}
 
 Completed-season metrics are suppressed until all FAIL conditions resolve.
 
@@ -1036,23 +1278,23 @@ Completed-season metrics are publishable under the recorded Phase-1 rules.
 
 # XHTDRLX_S1 QC report
 
-- Status: **FAIL**
+- Status: **PASS**
 - Actor: `streamers/youtube-scraper`
 - Actor run: `cobKo5LIn2tTQiJeF`
 - Dataset: `VYOCThwHeiA12WdvU`
 - Snapshot: `2026-08-12T14:49:09.890155+07:00`
 - Source: `https://www.youtube.com/playlist?list=PLxNMBnO9F8FNxpfidsVyxNffOg_VhLOOa`
 - Raw candidates: 11
-- Canonical episodes: 9
+- Canonical episodes: 11
 - Expected episodes: 11
 - Missing exact views: 0
-- Manual review rows: 2
+- Manual review rows: 0
 - Duplicate logical episodes: []
 - Contiguous from E01: True
 - Canonical duration flags outside normal range: 0
 - Exclusions by reason: {}
 
-Completed-season metrics are suppressed until all FAIL conditions resolve.
+Completed-season metrics are publishable under the recorded Phase-1 rules.
 
 ---
 
@@ -1068,11 +1310,11 @@ Completed-season metrics are suppressed until all FAIL conditions resolve.
 - Canonical episodes: 10
 - Expected episodes: unknown
 - Missing exact views: 0
-- Manual review rows: 1
+- Manual review rows: 0
 - Duplicate logical episodes: []
 - Contiguous from E01: True
 - Canonical duration flags outside normal range: 0
-- Exclusions by reason: {'deterministic_non_episode': 3}
+- Exclusions by reason: {'deterministic_non_episode': 2, 'special_extra': 2}
 
 Completed-season metrics are publishable with the duration caveat recorded above.
 
@@ -1080,7 +1322,7 @@ Completed-season metrics are publishable with the duration caveat recorded above
 
 # XHTDRLX_S3 QC report
 
-- Status: **FAIL**
+- Status: **PASS**
 - Actor: `streamers/youtube-scraper`
 - Actor run: `Nh4JqO4i7IRLb6s7d`
 - Dataset: `9pKjGafrZYvqB3hiy`
@@ -1088,15 +1330,15 @@ Completed-season metrics are publishable with the duration caveat recorded above
 - Source: `https://www.youtube.com/playlist?list=PLxNMBnO9F8FMtG4_3bKxsshIs4cpaii3F`
 - Raw candidates: 18
 - Canonical episodes: 16
-- Expected episodes: 18
+- Expected episodes: 16
 - Missing exact views: 0
-- Manual review rows: 2
+- Manual review rows: 0
 - Duplicate logical episodes: []
 - Contiguous from E01: True
 - Canonical duration flags outside normal range: 0
-- Exclusions by reason: {}
+- Exclusions by reason: {'recap': 1, 'special_extra': 1}
 
-Completed-season metrics are suppressed until all FAIL conditions resolve.
+Completed-season metrics are publishable under the recorded Phase-1 rules.
 
 ---
 
@@ -1116,9 +1358,31 @@ Completed-season metrics are suppressed until all FAIL conditions resolve.
 - Duplicate logical episodes: []
 - Contiguous from E01: True
 - Canonical duration flags outside normal range: 0
-- Exclusions by reason: {'deterministic_non_episode': 15, 'teaser': 2, 'trailer': 3}
+- Exclusions by reason: {'annual_segment': 19, 'deterministic_non_episode': 1}
 
 Completed-season metrics are suppressed until all FAIL conditions resolve.
+
+---
+
+# SONG_2019 QC report
+
+- Status: **PASS**
+- Actor: `streamers/youtube-scraper`
+- Actor run: `AM3Gqf1w9dPMZg4Bs`
+- Dataset: `QAMUSOUDF9yaFT3gw`
+- Snapshot: `2026-08-12T18:22:14.681851+07:00`
+- Source: `https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw/search?query=Song%2019`
+- Raw candidates: 30
+- Canonical episodes: 1
+- Expected episodes: 1
+- Missing exact views: 0
+- Manual review rows: 0
+- Duplicate logical episodes: []
+- Contiguous from E01: True
+- Canonical duration flags outside normal range: 0
+- Exclusions by reason: {'annual_segment': 17, 'deterministic_non_episode': 6, 'non_main_channel_authority': 6}
+
+Completed-season metrics are publishable under the recorded Phase-1 rules.
 
 ---
 
@@ -1134,57 +1398,101 @@ Completed-season metrics are suppressed until all FAIL conditions resolve.
 - Canonical episodes: 0
 - Expected episodes: 1
 - Missing exact views: 0
-- Manual review rows: 3
+- Manual review rows: 0
 - Duplicate logical episodes: []
 - Contiguous from E01: True
 - Canonical duration flags outside normal range: 0
-- Exclusions by reason: {}
+- Exclusions by reason: {'annual_segment': 3}
 
 Completed-season metrics are suppressed until all FAIL conditions resolve.
 
 ---
 
+# SONG_2021 QC report
+
+- Status: **PASS**
+- Actor: `streamers/youtube-scraper`
+- Actor run: `2UuCLxGY6vuiCAS1f`
+- Dataset: `jh66Unk67ILBva1eL`
+- Snapshot: `2026-08-12T18:23:18.852335+07:00`
+- Source: `https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw/search?query=Song%2021`
+- Raw candidates: 30
+- Canonical episodes: 1
+- Expected episodes: 1
+- Missing exact views: 0
+- Manual review rows: 0
+- Duplicate logical episodes: []
+- Contiguous from E01: True
+- Canonical duration flags outside normal range: 0
+- Exclusions by reason: {'annual_segment': 25, 'deterministic_non_episode': 1, 'non_main_channel_authority': 3}
+
+Completed-season metrics are publishable under the recorded Phase-1 rules.
+
+---
+
+# SONG_2022 QC report
+
+- Status: **PASS**
+- Actor: `streamers/youtube-scraper`
+- Actor run: `pK5sPN5U0Fpw8ytbI`
+- Dataset: `uUnNsOBScKiIre3Xy`
+- Snapshot: `2026-08-12T18:23:56.691362+07:00`
+- Source: `https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw/search?query=Song%2022`
+- Raw candidates: 30
+- Canonical episodes: 1
+- Expected episodes: 1
+- Missing exact views: 0
+- Manual review rows: 0
+- Duplicate logical episodes: []
+- Contiguous from E01: True
+- Canonical duration flags outside normal range: 0
+- Exclusions by reason: {'annual_segment': 25, 'deterministic_non_episode': 1, 'non_main_channel_authority': 2, 'official_duplicate_logical_episode': 1}
+
+Completed-season metrics are publishable under the recorded Phase-1 rules.
+
+---
+
 # SONG_2023 QC report
 
-- Status: **FAIL**
+- Status: **PASS**
 - Actor: `streamers/youtube-scraper`
 - Actor run: `D3OFBCcaPPJHdWyMk`
 - Dataset: `tfOqfI4poWi5H5HCm`
 - Snapshot: `2026-08-12T14:55:57.664214+07:00`
 - Source: `https://www.youtube.com/playlist?list=PLxKLMN7WdG5Ddu4T4qbzgUbixCkeS_A5y`
 - Raw candidates: 30
-- Canonical episodes: 0
+- Canonical episodes: 1
 - Expected episodes: 1
 - Missing exact views: 0
-- Manual review rows: 2
+- Manual review rows: 0
 - Duplicate logical episodes: []
 - Contiguous from E01: True
 - Canonical duration flags outside normal range: 0
-- Exclusions by reason: {'deterministic_non_episode': 27, 'trailer': 1}
+- Exclusions by reason: {'annual_segment': 28, 'non_main_channel_authority': 1}
 
-Completed-season metrics are suppressed until all FAIL conditions resolve.
+Completed-season metrics are publishable under the recorded Phase-1 rules.
 
 ---
 
 # SONG_2024 QC report
 
-- Status: **FAIL**
+- Status: **PASS**
 - Actor: `streamers/youtube-scraper`
 - Actor run: `19BPcrDoEeNIg89PR`
 - Dataset: `ik7tpnjdf9RHWhhc8`
 - Snapshot: `2026-08-12T14:57:29.878685+07:00`
 - Source: `https://www.youtube.com/playlist?list=PLxKLMN7WdG5DgQQKKUMdu2_ZOgfoSMPT7`
 - Raw candidates: 30
-- Canonical episodes: 0
+- Canonical episodes: 1
 - Expected episodes: 1
 - Missing exact views: 0
-- Manual review rows: 8
+- Manual review rows: 0
 - Duplicate logical episodes: []
 - Contiguous from E01: True
 - Canonical duration flags outside normal range: 0
-- Exclusions by reason: {'bts': 2, 'deterministic_non_episode': 19, 'trailer': 1}
+- Exclusions by reason: {'annual_segment': 25, 'deterministic_non_episode': 1, 'music_asset': 1, 'non_main_channel_authority': 1, 'official_duplicate_logical_episode': 1}
 
-Completed-season metrics are suppressed until all FAIL conditions resolve.
+Completed-season metrics are publishable under the recorded Phase-1 rules.
 
 ---
 
@@ -1200,11 +1508,11 @@ Completed-season metrics are suppressed until all FAIL conditions resolve.
 - Canonical episodes: 0
 - Expected episodes: 1
 - Missing exact views: 0
-- Manual review rows: 1
+- Manual review rows: 0
 - Duplicate logical episodes: []
 - Contiguous from E01: True
 - Canonical duration flags outside normal range: 0
-- Exclusions by reason: {'deterministic_non_episode': 7}
+- Exclusions by reason: {'annual_segment': 8}
 
 Completed-season metrics are suppressed until all FAIL conditions resolve.
 
@@ -1222,11 +1530,11 @@ Completed-season metrics are suppressed until all FAIL conditions resolve.
 - Canonical episodes: 1
 - Expected episodes: 1
 - Missing exact views: 0
-- Manual review rows: 9
+- Manual review rows: 0
 - Duplicate logical episodes: []
 - Contiguous from E01: True
 - Canonical duration flags outside normal range: 0
-- Exclusions by reason: {'deterministic_non_episode': 16, 'highlight': 2, 'teaser': 1, 'trailer': 1}
+- Exclusions by reason: {'annual_segment': 26, 'highlight': 1, 'non_main_channel_authority': 1, 'official_duplicate_logical_episode': 1}
 
 Completed-season metrics are publishable under the recorded Phase-1 rules.
 

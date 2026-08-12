@@ -7,11 +7,11 @@ ATVNCG,ATVNCG_2024,Anh Trai Vượt Ngàn Chông Gai 2024,2024,1,completed,15,PL
 ATVNCG,ATVNCG_2026,Anh Trai Vượt Ngàn Chông Gai 2026,2026,2,airing,15,,,,,closed_season,source_verified
 CDDG,CDDG_2023,Chị Đẹp Đạp Gió Rẽ Sóng 2023,2023,1,completed,15,PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A,https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A,,,closed_season,source_verified
 CDDG,CDDG_2024,Chị Đẹp Đạp Gió 2024,2024,2,completed,15,PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF,https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF,,,closed_season,source_verified
-RAPVIET,RAPVIET_2020,Rap Việt Mùa 1,2020,1,completed,16,,,,,closed_season,verified_count_source_gap
-RAPVIET,RAPVIET_2021,Rap Việt Mùa 2,2021,2,completed,16,,,,,closed_season,verified_count_source_gap
+RAPVIET,RAPVIET_2020,Rap Việt Mùa 1,2020,1,completed,16,,,,,closed_season,official_channel_search
+RAPVIET,RAPVIET_2021,Rap Việt Mùa 2,2021,2,completed,16,,,,,closed_season,official_channel_search
 RAPVIET,RAPVIET_2023,Rap Việt Mùa 3,2023,3,completed,16,PLxKLMN7WdG5DYy2yJiXnhMVnvNN1e31l7,https://www.youtube.com/playlist?list=PLxKLMN7WdG5DYy2yJiXnhMVnvNN1e31l7,,,closed_season,source_verified
-RAPVIET,RAPVIET_2024,Rap Việt Mùa 4,2024,4,completed,,,,,,closed_season,count_conflict_source_gap
-TMSVN,TMSVN_2022,The Masked Singer Vietnam Mùa 1,2022,1,completed,16,,,,,closed_season,verified_count_source_gap
+RAPVIET,RAPVIET_2024,Rap Việt Mùa 4,2024,4,completed,,,,,,closed_season,count_conflict_official_channel_search
+TMSVN,TMSVN_2022,The Masked Singer Vietnam Mùa 1,2022,1,completed,16,,,,,closed_season,official_channel_search
 TMSVN,TMSVN_2023,The Masked Singer Vietnam Mùa 2,2023,2,completed,16,PLxKLMN7WdG5ANJruYBhSGi5UBRUIhQTbi,https://www.youtube.com/playlist?list=PLxKLMN7WdG5ANJruYBhSGi5UBRUIhQTbi,,,closed_season,source_verified
 TBTN,TBTN_2025,Tân Binh Toàn Năng 2025,2025,1,completed,15,,,,,closed_season,source_verified
 OURSONG,OURSONG_2024,Bài Hát Của Chúng Ta Mùa 1,2024,1,completed,14,PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP,https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP,,,closed_season,source_verified
@@ -22,17 +22,17 @@ VNIDOL,VNIDOL_2012,Vietnam Idol Mùa 4,2012,4,completed,,,,,,closed_season,sourc
 VNIDOL,VNIDOL_2013,Vietnam Idol Mùa 5,2013,5,completed,,,,,,closed_season,source_gap
 VNIDOL,VNIDOL_2015,Vietnam Idol Mùa 6,2015,6,completed,,,,,,closed_season,source_gap
 VNIDOL,VNIDOL_2016,Vietnam Idol Mùa 7,2016,7,completed,,,,,,closed_season,source_gap
-VNIDOL,VNIDOL_2023,Vietnam Idol Mùa 8,2023,8,completed,16,,,,,closed_season,verified_count_source_gap
+VNIDOL,VNIDOL_2023,Vietnam Idol Mùa 8,2023,8,completed,16,,,,,closed_season,official_channel_search
 NHVDDP,NHVDDP_2024,Nữ Hoàng Vũ Đạo Đường Phố Mùa 1,2024,1,completed,15,,,,,closed_season,mixed_source_verified
 2N1D,2N1D_S1,2 Ngày 1 Đêm Mùa 1,2022,1,completed,31,,,,,episodic_reality,source_verified
 2N1D,2N1D_S2,2 Ngày 1 Đêm Mùa 2,2023,2,completed,19,,,,,episodic_reality,source_verified
 2N1D,2N1D_S3,2 Ngày 1 Đêm Mùa 3,2024,3,completed,30,,,,,episodic_reality,source_verified
 2N1D,2N1D_S4,2 Ngày 1 Đêm Mùa 4,2025,4,completed,17,,,,,episodic_reality,source_verified
-RMVN,RMVN_S1,Chạy Đi Chờ Chi Mùa 1,2019,1,completed,15,,,,,episodic_reality,actor_no_videos
-RMVN,RMVN_S2,Chơi Là Chạy Mùa 2,2021,2,completed,15,,,,,episodic_reality,source_verified
+RMVN,RMVN_S1,Chạy Đi Chờ Chi Mùa 1,2019,1,completed,15,,,,,episodic_reality,official_channel_search
+RMVN,RMVN_S2,Chơi Là Chạy Mùa 2,2021,2,completed,16,,,,,episodic_reality,source_verified
 RMVN,RMVN_S3,Chạy Ngay Đi Mùa 3,2025,3,completed,16,,,,,episodic_reality,source_verified
-RMVN,RMVN_2026,Chạy Ngay Đi 2026,2026,4,airing,,,,,,episodic_reality,official_channel_source_gap
-GDHAHA,GDHAHA_S1,Gia Đình Haha Mùa 1,2025,1,completed,20,,,,,episodic_reality,actor_no_videos
+RMVN,RMVN_2026,Chạy Ngay Đi 2026,2026,4,airing,,,,,,episodic_reality,official_channel_search
+GDHAHA,GDHAHA_S1,Gia Đình Haha Mùa 1,2025,1,completed,20,,,,,episodic_reality,official_channel_search
 GDHAHA,GDHAHA_S2,Quán Nhà Haha Mùa 2,2026,2,upcoming,,,,,,episodic_reality,announced_not_published
 SNN,SNN_S1,Sao Nhập Ngũ Mùa 1 - Vượt Qua Giới Hạn,2017,1,completed,,,,,,episodic_reality,mixed_source
 SNN,SNN_S2,Sao Nhập Ngũ Mùa 2 - Thử Thách Bản Lĩnh,2017,2,completed,,,,,,episodic_reality,mixed_source
@@ -43,13 +43,13 @@ SNN,SNN_S6,Sao Nhập Ngũ Mùa 6 - Biệt Đội Chống Độc,2018,6,complete
 SNN,SNN_S7,Sao Nhập Ngũ Mùa 7 - Lá Chắn Thép,2018,7,completed,,,,,,episodic_reality,mixed_source
 SNN,SNN_S8,Sao Nhập Ngũ Mùa 8 - Đối Mặt Với Biển,2019,8,completed,,,,,,episodic_reality,mixed_source
 SNN,SNN_2020,Sao Nhập Ngũ - Nữ Chiến Binh,2020,9,completed,,,,,,episodic_reality,mixed_source
-SNN,SNN_2022,Sao Nhập Ngũ - Bước Chân Thần Tốc,2022,10,completed,,,,,,episodic_reality,mixed_source
-SNN,SNN_2023,Sao Nhập Ngũ - Những Chiến Binh Của Biển,2023,11,completed,,,,,,episodic_reality,mixed_source
-SNN,SNN_2024_M,Sao Nhập Ngũ - Không Khoan Nhượng,2024,12,completed,,,,,,episodic_reality,mixed_source
-SNN,SNN_2024_F,Sao Nhập Ngũ - Gót Hồng Trên Lửa Đạn,2024,13,completed,,,,,,episodic_reality,mixed_source
+SNN,SNN_2022,Sao Nhập Ngũ - Bước Chân Thần Tốc,2022,10,completed,17,,,,,episodic_reality,numbered_run_verified
+SNN,SNN_2023,Sao Nhập Ngũ - Những Chiến Binh Của Biển,2023,11,completed,18,,,,,episodic_reality,numbered_run_verified
+SNN,SNN_2024_M,Sao Nhập Ngũ - Không Khoan Nhượng,2024,12,completed,16,,,,,episodic_reality,numbered_run_verified
+SNN,SNN_2024_F,Sao Nhập Ngũ - Gót Hồng Trên Lửa Đạn,2024,13,completed,16,,,,,episodic_reality,numbered_run_verified
 SNN,SNN_2025,Sao Nhập Ngũ - Khi Tổ Quốc Gọi Tên,2025,14,completed,16,,,,,episodic_reality,source_verified
-SNN,SNN_2026,Sao Nhập Ngũ 2026,2026,15,airing,,,,,,episodic_reality,mixed_source
-CSQC,CSQC_2025,Chiến Sĩ Quả Cảm Mùa 1,2025,1,completed,15,,,,,closed_season,actor_no_videos
+SNN,SNN_2026,Sao Nhập Ngũ 2026,2026,15,upcoming,,,,,,episodic_reality,announced_no_main_episode
+CSQC,CSQC_2025,Chiến Sĩ Quả Cảm Mùa 1,2025,1,completed,15,,,,,closed_season,official_channel_search
 DTGT,DTGT_2025,Đấu Trường Gia Tốc Mùa 1,2025,1,completed,12,,,,,closed_season,source_verified
 TD1K2,TD1K2_2025,Tổ Đội 1 Không 2 Mùa 1,2025,1,completed,12,,,,,closed_season,source_verified
 BTST,BTST_2024,Bậc Thầy Săn Thưởng Mùa 1,2024,1,completed,21,,,,,closed_season,mixed_source
@@ -62,23 +62,23 @@ BOMD,BOMD_S4,Bố Ơi Mình Đi Đâu Thế Mùa 4,2017,4,completed,,,,,,episodi
 BOMD,BOMD_S5,Bố Ơi Mình Đi Đâu Thế Mùa 5,2025,5,completed,15,,,,,episodic_reality,mixed_source
 BDSS,BDSS_2024,Biệt Đội Siêu Sao Mùa 1,2024,1,completed,13,,,,,closed_season,mixed_source
 LCHC,LCHC_2023,La Cà Hát Ca Mùa 1,2023,1,completed,13,,,,,episodic_reality,source_verified
-MVNBLST,MVNBLST_S1,Mẹ Vắng Nhà Ba Là Siêu Nhân Mùa 1,2022,1,completed,,,,,,episodic_reality,source_gap
-MVNBLST,MVNBLST_S2,Mẹ Vắng Nhà Ba Là Siêu Nhân Mùa 2,2023,2,completed,,,,,,episodic_reality,source_gap
-MVNBLST,MVNBLST_S3,Mẹ Vắng Nhà Ba Là Siêu Nhân Mùa 3,2024,3,completed,,,,,,episodic_reality,source_gap
-MVNBLST,MVNBLST_S4,Mẹ Vắng Nhà Ba Là Siêu Nhân Mùa 4,2025,4,completed,,,,,,episodic_reality,source_gap
-MVNBLST,MVNBLST_S5,Mẹ Vắng Nhà Ba Là Siêu Nhân Mùa 5,2026,5,completed,18,,,,,episodic_reality,count_verified_source_gap
+MVNBLST,MVNBLST_S1,Mẹ Vắng Nhà Ba Là Siêu Nhân Mùa 1,2022,1,completed,,,,,,episodic_reality,official_channel_search
+MVNBLST,MVNBLST_S2,Mẹ Vắng Nhà Ba Là Siêu Nhân Mùa 2,2023,2,completed,,,,,,episodic_reality,official_channel_search
+MVNBLST,MVNBLST_S3,Mẹ Vắng Nhà Ba Là Siêu Nhân Mùa 3,2024,3,completed,,,,,,episodic_reality,official_channel_search
+MVNBLST,MVNBLST_S4,Mẹ Vắng Nhà Ba Là Siêu Nhân Mùa 4,2025,4,completed,,,,,,episodic_reality,official_channel_search
+MVNBLST,MVNBLST_S5,Mẹ Vắng Nhà Ba Là Siêu Nhân Mùa 5,2026,5,completed,18,,,,,episodic_reality,official_channel_search
 MAGDV,MAGDV_CONTINUOUS,Mái Ấm Gia Đình Việt,2022,1,airing,,,,,,rolling_weekly,rolling_source_verified
 ATCDN,ATCDN_2026,Anh Trai & Cái Đuôi Nhỏ Mùa 1,2026,1,completed,12,,,,,closed_season,source_verified
 XHTDRLX,XHTDRLX_S1,Xuân Hạ Thu Đông Rồi Lại Xuân Mùa 1,2021,1,completed,11,,,,,closed_season,source_verified
 XHTDRLX,XHTDRLX_S2,Xuân Hạ Thu Đông Rồi Lại Xuân Mùa 2,2022,2,completed,,,,,,closed_season,count_pending_classification
-XHTDRLX,XHTDRLX_S3,Xuân Hạ Thu Đông Rồi Lại Xuân Mùa 3,2024,3,completed,18,,,,,closed_season,source_verified
+XHTDRLX,XHTDRLX_S3,Xuân Hạ Thu Đông Rồi Lại Xuân Mùa 3,2024,3,completed,16,,,,,closed_season,numbered_main_run_verified
 DUM,DUM_S1,Điều Ước Của Mẹ Mùa 1,2025,1,completed,22,,,,,limited_special,official_site_only_source_gap
 DUM,DUM_S2,Hành Trình Tỏa Sắc Cùng Điều Ước Của Mẹ,2026,2,airing,21,,,,,limited_special,official_site_only_source_gap
 SONG,SONG_2018,Sóng 18,2018,1,completed,1,,,,,annual_special,source_verified
-SONG,SONG_2019,Sóng 19,2019,2,completed,1,,,,,annual_special,source_gap
+SONG,SONG_2019,Sóng 19,2019,2,completed,1,,,,,annual_special,official_channel_search
 SONG,SONG_2020,Sóng 20,2020,3,completed,1,,,,,annual_special,mixed_source
-SONG,SONG_2021,Sóng 21,2021,4,completed,1,,,,,annual_special,source_gap
-SONG,SONG_2022,Sóng 22,2022,5,completed,1,,,,,annual_special,source_gap
+SONG,SONG_2021,Sóng 21,2021,4,completed,1,,,,,annual_special,official_channel_search
+SONG,SONG_2022,Sóng 22,2022,5,completed,1,,,,,annual_special,official_channel_search
 SONG,SONG_2023,Sóng 23,2023,6,completed,1,,,,,annual_special,mixed_source
 SONG,SONG_2024,Sóng 24,2024,7,completed,1,,,,,annual_special,mixed_source
 SONG,SONG_2025,Sóng 25,2025,8,completed,1,,,,,annual_special,mixed_source

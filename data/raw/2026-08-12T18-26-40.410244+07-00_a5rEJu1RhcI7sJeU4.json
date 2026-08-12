@@ -1,0 +1,153 @@
+{
+  "actor_name": "streamers/youtube-scraper",
+  "actor_run_id": "a5rEJu1RhcI7sJeU4",
+  "dataset_id": "qiUAMlbDvNBlIAwZV",
+  "actor_build_id": "SUk0475fgtCh9zqMt",
+  "retrieved_at": "2026-08-12T18:26:40.410244+07:00",
+  "actor_input": {
+    "maxResults": 1,
+    "maxResultsShorts": 0,
+    "maxResultStreams": 0,
+    "startUrls": [
+      {
+        "url": "https://www.youtube.com/watch?v=_VEb7_Kqw30"
+      }
+    ],
+    "sourceBindingUrl": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ"
+  },
+  "run_metadata": {
+    "status": "SUCCEEDED",
+    "startedAt": "2026-08-12T11:26:25.323Z",
+    "finishedAt": "2026-08-12T11:26:34.149Z",
+    "usageTotalUsd": 0,
+    "chargedEventCounts": {
+      "result": 0,
+      "date-filter": 0,
+      "ai-video-description": 0,
+      "ai-video-summary": 0
+    }
+  },
+  "items": [
+    {
+      "title": "Đấu Trường Gia Tốc |Tập 5: Kaity Nguyễn - Quân Lee đối đầu RHYDER, Phương Anh Đào nhạy bén đoán hint",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "_VEb7_Kqw30",
+      "url": "https://www.youtube.com/watch?v=_VEb7_Kqw30",
+      "thumbnailUrl": "https://i.ytimg.com/vi/_VEb7_Kqw30/maxresdefault.jpg",
+      "viewCount": 2626540,
+      "date": "2025-06-29T13:40:06.000Z",
+      "likes": 31000,
+      "location": null,
+      "channelName": "Đấu Trường Gia Tốc",
+      "channelUrl": "https://www.youtube.com/@dautruonggiatoc",
+      "channelUsername": "dautruonggiatoc",
+      "collaborators": null,
+      "channelId": "UC5bxATIALkxlwWQzACzdjHw",
+      "numberOfSubscribers": 815000,
+      "duration": "01:54:03",
+      "commentsCount": 4371,
+      "text": "Đấu Trường Gia Tốc | Tập 5: Kaity Nguyễn - Quân Lee đối đầu RHYDER, Phương Anh Đào nhạy bén đoán hint\n\nXEM TRỌN BỘ ĐẤU TRƯỜNG GIA TỐC 👉: https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ\n\n#ĐấuTrườngGiaTốc #DauTruongGiaToc #RunForTime #RunForTimeVietNam \n#NgôKiếnHuy #CrisPhan #KaityNguyễn #PhươngAnhĐào #HưngNguyễn\n#RHYDER #HURRYKNG #WeanLe #QuânLee #DươngDomic \n \nĐấu Trường Gia Tốc - Run For Time Vietnam - Chương trình truyền hình thực tế đầu tiên tại Việt Nam kết hợp giữa hành động - nhập vai - điện ảnh. Với sự phát triển mạnh mẽ của Esport, chương trình dẫn đầu xu hướng và là sự kết hợp hài hoà giữa nhiều yếu tố: vận động, game, giải đố, phá án, truy đuổi và trốn thoát ĐẦY KỊCH TÍNH nhưng cũng không kém phần NHÂN VĂN và HÀI HƯỚC.\n\n⏰Đón xem ĐẤU TRƯỜNG GIA TỐC vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  @dongtaypromotionofficial  và kênh @dautruonggiatoc \n\n📣 Subscribe kênh ĐẤU TRƯỜNG GIA TỐC để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/SubDTGT\n\n© Chương trình Đấu Trường Gia Tốc thuộc bản quyền của Dong Tay Promotion thuộc DatVietVAC, được khai thác và bảo vệ bản quyền bởi VieNETWORK.\n\n👉 Theo dõi các kênh chính thức của Đấu Trường Gia Tốc:\nYouTube: https://www.youtube.com/@DauTruongGiaTocOfficial\nFanpage: https://www.facebook.com/dautruonggiatoc.dongtaypromotion\nTikTok: https://www.tiktok.com/@dautruonggiatoc",
+      "translatedText": "Đấu Trường Gia Tốc | Tập 5: Kaity Nguyễn - Quân Lee đối đầu RHYDER, Phương Anh Đào nhạy bén đoán hint\n\nXEM TRỌN BỘ ĐẤU TRƯỜNG GIA TỐC 👉:    • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  \n\n#ĐấuTrườngGiaTốc #DauTruongGiaToc #RunForTime #RunForTimeVietNam \n#NgôKiếnHuy #CrisPhan #KaityNguyễn #PhươngAnhĐào #HưngNguyễn\n#RHYDER #HURRYKNG #WeanLe #QuânLee #DươngDomic \n \nĐấu Trường Gia Tốc - Run For Time Vietnam - Chương trình truyền hình thực tế đầu tiên tại Việt Nam kết hợp giữa hành động - nhập vai - điện ảnh. Với sự phát triển mạnh mẽ của Esport, chương trình dẫn đầu xu hướng và là sự kết hợp hài hoà giữa nhiều yếu tố: vận động, game, giải đố, phá án, truy đuổi và trốn thoát ĐẦY KỊCH TÍNH nhưng cũng không kém phần NHÂN VĂN và HÀI HƯỚC.\n\n⏰Đón xem ĐẤU TRƯỜNG GIA TỐC vào lúc:\n📺 20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️ 20H40 trên kênh  ‪@dongtaypromotionofficial‬  và kênh ‪@dautruonggiatoc‬ \n\n📣 Subscribe kênh ĐẤU TRƯỜNG GIA TỐC để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/SubDTGT\n\n© Chương trình Đấu Trường Gia Tốc thuộc bản quyền của Dong Tay Promotion thuộc DatVietVAC, được khai thác và bảo vệ bản quyền bởi VieNETWORK.\n\n👉 Theo dõi các kênh chính thức của Đấu Trường Gia Tốc:\nYouTube:    / @dautruonggiatocofficial  \nFanpage:   / dautruonggiatoc.dongtaypromotion  \nTikTok:   / dautruonggiatoc  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+          "text": "   • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/%C4%91%E1%BA%A5utr%C6%B0%E1%BB%9Dnggiat%E1%BB%91c",
+          "text": "#ĐấuTrườngGiaTốc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dautruonggiatoc",
+          "text": "#DauTruongGiaToc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/runfortime",
+          "text": "#RunForTime"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/runfortimevietnam",
+          "text": "#RunForTimeVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ng%C3%B4ki%E1%BA%BFnhuy",
+          "text": "#NgôKiếnHuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/crisphan",
+          "text": "#CrisPhan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/kaitynguy%E1%BB%85n",
+          "text": "#KaityNguyễn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ph%C6%B0%C6%A1nganh%C4%91%C3%A0o",
+          "text": "#PhươngAnhĐào"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/h%C6%B0ngnguy%E1%BB%85n",
+          "text": "#HưngNguyễn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/rhyder",
+          "text": "#RHYDER"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hurrykng",
+          "text": "#HURRYKNG"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/weanle",
+          "text": "#WeanLe"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/qu%C3%A2nlee",
+          "text": "#QuânLee"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/d%C6%B0%C6%A1ngdomic",
+          "text": "#DươngDomic"
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "‪@dongtaypromotionofficial‬"
+        },
+        {
+          "url": "https://www.youtube.com/@dautruonggiatoc",
+          "text": "‪@dautruonggiatoc‬"
+        },
+        {
+          "url": "https://bit.ly/SubDTGT",
+          "text": "https://bit.ly/SubDTGT"
+        },
+        {
+          "url": "https://www.youtube.com/@DauTruongGiaTocOfficial",
+          "text": "   / @dautruonggiatocofficial  "
+        },
+        {
+          "url": "https://www.facebook.com/dautruonggiatoc.dongtaypromotion",
+          "text": "  / dautruonggiatoc.dongtaypromotion  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dautruonggiatoc",
+          "text": "  / dautruonggiatoc  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "commentsTurnedOff": false,
+      "isMonetized": null,
+      "hashtags": [
+        "#HURRYKNG",
+        "#DauTruongGiaToc",
+        "#RHYDER"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/watch?v=_VEb7_Kqw30",
+      "isPaidContent": false
+    }
+  ]
+}
