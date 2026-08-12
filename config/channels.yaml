@@ -19,6 +19,74 @@ channels:
     authority_notes: >-
       Official YeaH1 Digital channel and first-party home of the numbered full episodes for
       ATVNCG and CDDG. Verified against official episode and project pages on 2026-08-12.
+  UC_np0YZuvNMIJceE6jHeggQ:
+    channel_name: YeaH1 ONE
+    channel_authority: primary_producer
+    authority_notes: Official publisher of the Tân Binh Toàn Năng 2025 main broadcast phase.
+  UCFMEYTv6N64hIL9FlQ_hxBw:
+    channel_name: Dong Tay Promotion Official
+    channel_authority: primary_producer
+    authority_notes: Official publisher of Bài Hát Của Chúng Ta full episodes.
+  UCs0N0TBi2j156kZ4AOnnB2g:
+    channel_name: Vietnam Idol
+    channel_authority: official_show_channel
+    authority_notes: Verified current official archive, principally for the 2023 season.
+  UCHNYJheRUSucT2rERYMn45A:
+    channel_name: Madison Media Group
+    channel_authority: primary_producer
+    authority_notes: Official original publisher for Nữ Hoàng Vũ Đạo Đường Phố.
+  UCbq8aOyj9ZtIqcD-0MwG1fQ:
+    channel_name: HTV Entertainment
+    channel_authority: primary_broadcaster
+    authority_notes: Official catch-up publisher for Nữ Hoàng Vũ Đạo Đường Phố.
+  UChGncdgzOKmp5XQTnQa2h4w:
+    channel_name: 2 Ngày 1 Đêm Vietnam
+    channel_authority: official_show_channel
+    authority_notes: Primary first-party archive for 2 Ngày 1 Đêm.
+  UCSpmT3hpL4J_4ievnGzkmsQ:
+    channel_name: Chạy Đi Chờ Chi
+    channel_authority: official_show_channel
+    authority_notes: Official Running Man Vietnam season-one archive.
+  UCjTlq6Z0HG8C7BVI8x5BOnA:
+    channel_name: Running Man Vietnam - Chạy Ngay Đi
+    channel_authority: official_show_channel
+    authority_notes: Official 2026 program channel.
+  UCTOWyiIkPEqyh_2O-ArJR5w:
+    channel_name: FOREST STUDIO
+    channel_authority: primary_producer
+    authority_notes: Official publisher for Running Man season three and Xuân Hạ Thu Đông.
+  UCecta98cdYVFV6L_lfH__IA:
+    channel_name: YeaH1 Giải Trí
+    channel_authority: official_distribution_partner
+    authority_notes: Official YeaH1 promotional channel.
+  UCzZ94GZFgqqx6Pzbnj3UMjA:
+    channel_name: Sao Nhập Ngũ
+    channel_authority: official_show_channel
+    authority_notes: Official archive for Sao Nhập Ngũ and Bậc Thầy Săn Thưởng.
+  UC7TbGjadpjgOfnUoA-iW6Dg:
+    channel_name: Chiến Sĩ Quả Cảm
+    channel_authority: official_show_channel
+    authority_notes: Official show publisher.
+  UC5bxATIALkxlwWQzACzdjHw:
+    channel_name: Đấu Trường Gia Tốc
+    channel_authority: official_show_channel
+    authority_notes: Official current and legacy archive for several Dong Tay programs.
+  UCgL3LEm7JuJNXKWDQTmbuYA:
+    channel_name: Halotimes TV
+    channel_authority: primary_producer
+    authority_notes: Official publisher for Về Quê Làm Giàu.
+  UC1VAL4j9yiPQVKMtIS1yUOA:
+    channel_name: TV HUB
+    channel_authority: official_show_channel
+    authority_notes: Official publisher for Bố Ơi Mình Đi Đâu Thế season five.
+  UCT4q1IIX1rWoN95I-_89aVw:
+    channel_name: Mẹ Vắng Nhà - Ba Là Siêu Nhân
+    channel_authority: official_show_channel
+    authority_notes: Official program archive.
+  UClOMHp76zB3wHcKGYxTRWFA:
+    channel_name: Bee Comm Network
+    channel_authority: primary_producer
+    authority_notes: Current producer archive for Mái Ấm Gia Đình Việt.
 
 # Channel authority is intentionally empty until the pilot records a channel ID and first-party
 # evidence. A verified display name alone is not sufficient authority.

@@ -90,6 +90,14 @@ def _age_metrics(
     return round(age_days, 2), round(view_count / age_days, 2)
 
 
+def _display_number(value: Any) -> str:
+    if value in (None, ""):
+        return "n/a"
+    if isinstance(value, float):
+        return f"{value:,.0f}"
+    return f"{value:,}"
+
+
 def build_pilot(
     raw_path: Path,
     output_dir: Path,
@@ -107,6 +115,8 @@ def build_pilot(
     show = config.shows[show_id]
     start_urls = payload.get("actor_input", {}).get("startUrls", [])
     source_urls = {value.get("url") if isinstance(value, dict) else value for value in start_urls}
+    if payload.get("actor_input", {}).get("sourceBindingUrl"):
+        source_urls.add(payload["actor_input"]["sourceBindingUrl"])
     if season_id:
         configured_show_id, _, season = find_season(config, season_id)
         if configured_show_id != show_id:
@@ -145,6 +155,7 @@ def build_pilot(
         official_channel = authority in {
             "primary_producer",
             "primary_broadcaster",
+            "primary_producer_broadcaster",
             "official_show_channel",
             "official_distribution_partner",
         }
@@ -263,6 +274,22 @@ def build_pilot(
                 if row is not forced[0]:
                     row["review_status"] = "EXCLUDE"
                     row["notes"] = f"{row['notes']};superseded_by_manual_canonical".strip(";")
+        elif all(row["channel_authority"] != "unknown" for row in rows):
+            winner = max(
+                rows,
+                key=lambda row: (
+                    row["channel_authority"]
+                    in {"primary_producer", "primary_broadcaster", "primary_producer_broadcaster"},
+                    row["view_count"] or -1,
+                    row["duration_seconds"] or -1,
+                ),
+            )
+            for row in rows:
+                row["canonical_flag"] = row is winner
+                if row is not winner:
+                    row["review_status"] = "EXCLUDE"
+                    row["exclusion_reason"] = "official_duplicate_logical_episode"
+                    row["notes"] = f"{row['notes']};superseded_by_evidence_rank".strip(";")
         else:
             duplicate_logical.add(episode)
     for row in episode_rows:
@@ -312,8 +339,14 @@ def build_pilot(
         row["episode_no"] for row in canonical_rows if row["episode_no"] is not None
     )
     expected = season.get("expected_episode_count")
-    contiguous = episode_numbers == list(range(1, max(episode_numbers, default=0) + 1))
-    completeness_mismatch = bool(expected and len(set(episode_numbers)) != expected)
+    episode_start = int(season.get("episode_number_start", 1))
+    contiguous = episode_numbers == list(
+        range(episode_start, max(episode_numbers, default=episode_start - 1) + 1)
+    )
+    is_airing = season.get("status") == "airing"
+    completeness_mismatch = bool(
+        expected and not is_airing and len(set(episode_numbers)) != expected
+    )
     duration_warnings = any(row["duration_flag"] not in ("", "normal") for row in canonical_rows)
     qc_status = (
         "FAIL"
@@ -321,7 +354,8 @@ def build_pilot(
         else "WARNING"
     )
     if (
-        expected
+        not is_airing
+        and expected
         and len(set(episode_numbers)) == expected
         and contiguous
         and all(row["channel_authority"] != "unknown" for row in canonical_rows)
@@ -379,7 +413,11 @@ def build_pilot(
             "snapshot_at": provenance.retrieved_at,
             "qc_status": qc_status,
             "notes": (
-                "Aggregate views across canonical full episodes; not unique viewers or audience."
+                "Views-to-date across aired canonical full episodes; "
+                "not unique viewers or audience."
+                if is_airing and qc_status in {"PASS", "WARNING"}
+                else "Aggregate views across canonical full episodes; "
+                "not unique viewers or audience."
                 if qc_status in {"PASS", "WARNING"}
                 else "Pilot totals suppressed on FAIL; unresolved evidence remains."
             ),
@@ -433,7 +471,9 @@ def build_pilot(
     abnormal_durations = sum(
         1 for row in canonical_rows if row["duration_flag"] not in ("", "normal")
     )
-    if qc_status == "PASS":
+    if is_airing and qc_status != "FAIL":
+        evidence_line = "Airing-season views-to-date are publishable under the recorded rules."
+    elif qc_status == "PASS":
         evidence_line = "Completed-season metrics are publishable under the recorded Phase-1 rules."
     elif qc_status == "WARNING":
         evidence_line = (
@@ -449,7 +489,7 @@ def build_pilot(
         f"- Actor run: `{provenance.actor_run_id}`",
         f"- Dataset: `{provenance.dataset_id}`",
         f"- Snapshot: `{provenance.retrieved_at}`",
-        f"- Source playlist: `{season.get('official_playlist_url', '')}`",
+        f"- Source: `{next(iter(source_urls), season.get('official_playlist_url', ''))}`",
         f"- Raw candidates: {len(episode_rows)}",
         f"- Canonical episodes: {len(canonical_rows)}",
         f"- Expected episodes: {expected or 'unknown'}",
@@ -493,11 +533,12 @@ def build_pilot(
                 "| --- | --- | ---: | ---: | ---: | ---: | ---: | --- | --- |",
                 (
                     f"| {show['name']} | {season['season_id']} | {len(canonical_rows)} | "
-                    f"{summary_row['total_views']:,} | {summary_row['average_views']:,.0f} | "
-                    f"{summary_row['median_views']:,.0f} | "
-                    f"{summary_row['first_5_total_views']:,} | "
+                    f"{_display_number(summary_row['total_views'])} | "
+                    f"{_display_number(summary_row['average_views'])} | "
+                    f"{_display_number(summary_row['median_views'])} | "
+                    f"{_display_number(summary_row['first_5_total_views'])} | "
                     f"E{summary_row['max_episode_no']} "
-                    f"({summary_row['max_episode_views']:,}) | {qc_status} |"
+                    f"({_display_number(summary_row['max_episode_views'])}) | {qc_status} |"
                 ),
             )
         )

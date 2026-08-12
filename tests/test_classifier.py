@@ -63,6 +63,18 @@ def test_hard_exclusions_win_over_positive_signals() -> None:
         ).decision
         == "EXCLUDE"
     )
+
+
+def test_verified_numbered_episode_can_mention_concert_in_its_title() -> None:
+    result = classify_video(
+        candidate("ATVNCG Tập 1 | 33 Anh Tài bung miếng & concert cháy hết mình"),
+        {"aliases": ["ATVNCG"]},
+        EXCLUSIONS,
+        RULES,
+        official_full_playlist=True,
+    )
+    assert result.decision == "INCLUDE"
+    assert result.episode_no == 1
     assert (
         classify_video(candidate("Anh Trai Say Hi | Official MV"), SHOW, EXCLUSIONS, RULES).decision
         == "EXCLUDE"

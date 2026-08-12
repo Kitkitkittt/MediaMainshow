@@ -26,6 +26,31 @@ shows:
         official_playlist_id: PLxKLMN7WdG5BScv1MASDarMh12mB8tIU2
         official_playlist_url: https://www.youtube.com/playlist?list=PLxKLMN7WdG5BScv1MASDarMh12mB8tIU2
         review_status: source_verified
+        sources:
+          - source_type: official_channel_search
+            url: https://www.youtube.com/@VieChannelHTV2/search?query=ANH%20TRAI%20SAY%20HI%202025%20T%E1%BA%ACP
+            queries:
+              - ANH TRAI SAY HI 2025 TẬP 1 FULL
+              - ANH TRAI SAY HI 2025 TẬP 2 FULL
+              - ANH TRAI SAY HI 2025 TẬP 3 FULL
+              - ANH TRAI SAY HI 2025 TẬP 4 FULL
+              - ANH TRAI SAY HI 2025 TẬP 5 FULL
+              - ANH TRAI SAY HI 2025 TẬP 6 FULL
+              - ANH TRAI SAY HI 2025 TẬP 7 FULL
+              - ANH TRAI SAY HI 2025 TẬP 8 FULL
+              - ANH TRAI SAY HI 2025 TẬP 9 FULL
+              - ANH TRAI SAY HI 2025 TẬP 10 FULL
+              - ANH TRAI SAY HI 2025 TẬP 11 FULL
+              - ANH TRAI SAY HI 2025 TẬP 12 FULL
+              - ANH TRAI SAY HI 2025 TẬP 13 FULL
+              - ANH TRAI SAY HI 2025 TẬP 14 FULL
+            channel_id: UCkna2OcuN1E6u5I8GVtdkOw
+            authority_status: verified
+            actor: streamers/youtube-scraper
+            max_results: 3
+            canonical_enumeration: true
+            evidence_url: https://vieon.vn/anh-trai-say-hi-2025.html
+            notes: Official playlist is source-verified but returned NO_VIDEOS to the Actor.
   EXSH:
     tier: 1
     name: 'Em Xinh "Say Hi"'
@@ -65,10 +90,17 @@ shows:
         sources:
           - source_type: official_channel_search
             url: https://www.youtube.com/@VieChannelHTV2/search?query=TINH%20H%C3%80%20SAY%20HI%20T%E1%BA%ACP
+            queries:
+              - TINH HÀ SAY HI TẬP 1 FULL
+              - TINH HÀ SAY HI TẬP 2 FULL
+              - TINH HÀ SAY HI TẬP 3 FULL
+              - TINH HÀ SAY HI TẬP 4 FULL
+              - TINH HÀ SAY HI TẬP 5 FULL
+              - TINH HÀ SAY HI TẬP 6 FULL
             channel_id: UCkna2OcuN1E6u5I8GVtdkOw
             authority_status: verified
             actor: streamers/youtube-scraper
-            max_results: 30
+            max_results: 3
             canonical_enumeration: true
             evidence_url: https://www.youtube.com/watch?v=0mQn-pPDLuM
             notes: Official-channel bounded search; no official full-episode playlist at cutoff.
@@ -149,7 +181,37 @@ shows:
     comparison_group: music_talent
     peer_role: direct_peer
     format_type: closed_season
-    seasons: []
+    producer: DatVietVAC / Vie Channel
+    broadcaster: HTV2 - Vie Channel / VieON
+    primary_youtube_channel_ids: [UCkna2OcuN1E6u5I8GVtdkOw]
+    seasons:
+      - season_id: RAPVIET_2020
+        season_name: "Rap Việt Mùa 1"
+        year: 2020
+        status: completed
+        expected_episode_count: 16
+        review_status: verified_count_source_gap
+      - season_id: RAPVIET_2021
+        season_name: "Rap Việt Mùa 2"
+        year: 2021
+        status: completed
+        expected_episode_count: 16
+        review_status: verified_count_source_gap
+      - season_id: RAPVIET_2023
+        season_name: "Rap Việt Mùa 3"
+        year: 2023
+        status: completed
+        expected_episode_count: 16
+        official_playlist_id: PLxKLMN7WdG5DYy2yJiXnhMVnvNN1e31l7
+        official_playlist_url: https://www.youtube.com/playlist?list=PLxKLMN7WdG5DYy2yJiXnhMVnvNN1e31l7
+        review_status: source_verified
+      - season_id: RAPVIET_2024
+        season_name: "Rap Việt Mùa 4"
+        year: 2024
+        status: completed
+        expected_episode_count: null
+        review_status: count_conflict_source_gap
+        notes: VieON has 16 catalog entries; YouTube final is numbered Tập 15.
   TMSVN:
     tier: 2
     name: "The Masked Singer Vietnam"
@@ -157,7 +219,25 @@ shows:
     comparison_group: music_talent
     peer_role: direct_peer
     format_type: closed_season
-    seasons: []
+    producer: DatVietVAC / Vie Channel
+    broadcaster: HTV2 - Vie Channel / VieON
+    primary_youtube_channel_ids: [UCkna2OcuN1E6u5I8GVtdkOw]
+    seasons:
+      - season_id: TMSVN_2022
+        season_name: "The Masked Singer Vietnam Mùa 1"
+        year: 2022
+        status: completed
+        expected_episode_count: 16
+        review_status: verified_count_source_gap
+        notes: Award and reveal program is a separate special, not episode 17.
+      - season_id: TMSVN_2023
+        season_name: "The Masked Singer Vietnam Mùa 2"
+        year: 2023
+        status: completed
+        expected_episode_count: 16
+        official_playlist_id: PLxKLMN7WdG5ANJruYBhSGi5UBRUIhQTbi
+        official_playlist_url: https://www.youtube.com/playlist?list=PLxKLMN7WdG5ANJruYBhSGi5UBRUIhQTbi
+        review_status: source_verified
   TBTN:
     tier: 2
     name: "Tân Binh Toàn Năng"
@@ -165,7 +245,33 @@ shows:
     comparison_group: music_fandom
     peer_role: direct_peer
     format_type: closed_season
-    seasons: []
+    producer: YeaH1
+    broadcaster: VTV3 / YeaH1 ONE
+    primary_youtube_channel_ids: [UC_np0YZuvNMIJceE6jHeggQ, UCh_zF2FsiCflCPgYDudtcqg]
+    seasons:
+      - season_id: TBTN_2025
+        season_name: "Tân Binh Toàn Năng 2025"
+        year: 2025
+        status: completed
+        expected_episode_count: 15
+        review_status: source_verified
+        sources:
+          - source_type: official_full_playlist
+            url: https://www.youtube.com/playlist?list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL
+            playlist_id: PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL
+            channel_id: UC_np0YZuvNMIJceE6jHeggQ
+            authority_status: verified
+            actor: streamers/youtube-scraper
+            max_results: 31
+            canonical_enumeration: true
+          - source_type: official_feeder_phase_playlist
+            url: https://www.youtube.com/playlist?list=PLG0XT99Vqlcvdcn3cPc7XIIzBz2k9o0RX
+            playlist_id: PLG0XT99Vqlcvdcn3cPc7XIIzBz2k9o0RX
+            channel_id: UCh_zF2FsiCflCPgYDudtcqg
+            authority_status: verified
+            actor: streamers/youtube-scraper
+            max_results: 30
+            notes: Separate 14-episode feeder phase; not a second season or canonical main phase.
   OURSONG:
     tier: 2
     name: "Bài Hát Của Chúng Ta"
@@ -173,7 +279,18 @@ shows:
     comparison_group: music_talent
     peer_role: direct_peer
     format_type: closed_season
-    seasons: []
+    producer: Dong Tay Promotion
+    broadcaster: VTV3 / VieON
+    primary_youtube_channel_ids: [UCFMEYTv6N64hIL9FlQ_hxBw]
+    seasons:
+      - season_id: OURSONG_2024
+        season_name: "Bài Hát Của Chúng Ta Mùa 1"
+        year: 2024
+        status: completed
+        expected_episode_count: 14
+        official_playlist_id: PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP
+        official_playlist_url: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP
+        review_status: source_verified
   VNIDOL:
     tier: 2
     name: "Vietnam Idol"
@@ -181,7 +298,23 @@ shows:
     comparison_group: music_talent
     peer_role: direct_peer
     format_type: closed_season
-    seasons: []
+    broadcaster: VTV
+    primary_youtube_channel_ids: [UCs0N0TBi2j156kZ4AOnnB2g]
+    notes: Seasons 1-7 have verified season identity but unresolved counts and official archives.
+    seasons:
+      - {season_id: VNIDOL_2007, season_name: "Vietnam Idol Mùa 1", year: 2007, status: completed, expected_episode_count: null, review_status: source_gap}
+      - {season_id: VNIDOL_2008, season_name: "Vietnam Idol Mùa 2", year: 2008, status: completed, expected_episode_count: null, review_status: source_gap}
+      - {season_id: VNIDOL_2010, season_name: "Vietnam Idol Mùa 3", year: 2010, status: completed, expected_episode_count: null, review_status: source_gap}
+      - {season_id: VNIDOL_2012, season_name: "Vietnam Idol Mùa 4", year: 2012, status: completed, expected_episode_count: null, review_status: source_gap}
+      - {season_id: VNIDOL_2013, season_name: "Vietnam Idol Mùa 5", year: 2013, status: completed, expected_episode_count: null, review_status: source_gap}
+      - {season_id: VNIDOL_2015, season_name: "Vietnam Idol Mùa 6", year: 2015, status: completed, expected_episode_count: null, review_status: source_gap}
+      - {season_id: VNIDOL_2016, season_name: "Vietnam Idol Mùa 7", year: 2016, status: completed, expected_episode_count: null, review_status: source_gap}
+      - season_id: VNIDOL_2023
+        season_name: "Vietnam Idol Mùa 8"
+        year: 2023
+        status: completed
+        expected_episode_count: 16
+        review_status: verified_count_source_gap
   NHVDDP:
     tier: 2
     name: "Nữ Hoàng Vũ Đạo Đường Phố"
@@ -189,7 +322,26 @@ shows:
     comparison_group: music_talent
     peer_role: adjacent_peer
     format_type: closed_season
-    seasons: []
+    producer: Madison Media Group / Studio Gl1de / Needlab G&C
+    broadcaster: HTV
+    primary_youtube_channel_ids: [UCHNYJheRUSucT2rERYMn45A, UCbq8aOyj9ZtIqcD-0MwG1fQ]
+    seasons:
+      - season_id: NHVDDP_2024
+        season_name: "Nữ Hoàng Vũ Đạo Đường Phố Mùa 1"
+        year: 2024
+        status: completed
+        expected_episode_count: 15
+        review_status: mixed_source_verified
+        sources:
+          - source_type: official_show_playlist
+            url: https://www.youtube.com/playlist?list=PLJSRfYQoW3dlrKn-U263kJN6t8JogGz0r
+            playlist_id: PLJSRfYQoW3dlrKn-U263kJN6t8JogGz0r
+            channel_id: UCbq8aOyj9ZtIqcD-0MwG1fQ
+            authority_status: verified
+            actor: streamers/youtube-scraper
+            max_results: 50
+            canonical_enumeration: true
+            notes: Mixed official discovery playlist; filter and dedupe Madison and HTV mirrors.
   2N1D:
     tier: 3
     name: "2 Ngày 1 Đêm"

@@ -15,10 +15,13 @@ from .registry import write_config_registries
 
 
 def _input_urls(payload: dict[str, Any]) -> tuple[str, ...]:
-    values = payload.get("actor_input", {}).get("startUrls", [])
-    return tuple(
+    actor_input = payload.get("actor_input", {})
+    values = actor_input.get("startUrls", [])
+    urls = tuple(
         str(value.get("url") if isinstance(value, dict) else value) for value in values if value
     )
+    binding = actor_input.get("sourceBindingUrl")
+    return (*urls, str(binding)) if binding else urls
 
 
 def load_raw_receipts(raw_dir: Path) -> list[tuple[Path, dict[str, Any]]]:
@@ -123,6 +126,25 @@ def _consolidate_csv(
     _write_csv(output_path, fields, list(index.values()))
 
 
+def _merge_season_receipts(receipts: list[tuple[Path, dict[str, Any]]], output_path: Path) -> Path:
+    """Create one deterministic latest-value view without mutating immutable raw receipts."""
+    latest = dict(receipts[-1][1])
+    items: dict[str, dict[str, Any]] = {}
+    for _, payload in receipts:
+        for position, item in enumerate(payload.get("items", [])):
+            key = str(
+                item.get("id")
+                or item.get("videoId")
+                or item.get("url")
+                or f"{payload.get('actor_run_id', '')}:{position}"
+            )
+            items[key] = item
+    latest["items"] = list(items.values())
+    latest["merged_actor_run_ids"] = [payload.get("actor_run_id", "") for _, payload in receipts]
+    output_path.write_text(json.dumps(latest, ensure_ascii=False), encoding="utf-8")
+    return output_path
+
+
 def build_all(raw_dir: Path, output_dir: Path, config: ProjectConfig) -> dict[str, int]:
     receipts = load_raw_receipts(raw_dir)
     by_url: defaultdict[str, list[tuple[Path, dict[str, Any]]]] = defaultdict(list)
@@ -142,7 +164,10 @@ def build_all(raw_dir: Path, output_dir: Path, config: ProjectConfig) -> dict[st
             )
             season_dir = staging / season["season_id"]
             result: dict[str, int] | None = None
-            for raw_path, _ in season_receipts:
+            if season_receipts:
+                raw_path = _merge_season_receipts(
+                    season_receipts, staging / f"{season['season_id']}-merged.json"
+                )
                 result = build_pilot(
                     raw_path,
                     season_dir,

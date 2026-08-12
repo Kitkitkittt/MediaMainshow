@@ -1,0 +1,37 @@
+{
+  "actor_name": "streamers/youtube-scraper",
+  "actor_run_id": "VeNPnEbSgUUFqRzPK",
+  "dataset_id": "Gv7hWErUwyCoHPsc3",
+  "actor_build_id": "SUk0475fgtCh9zqMt",
+  "retrieved_at": "2026-08-12T13:28:20.476960+07:00",
+  "actor_input": {
+    "startUrls": [
+      {
+        "url": "https://www.youtube.com/@VieChannelHTV2/search?query=TINH%20H%C3%80%20SAY%20HI%20T%E1%BA%ACP"
+      }
+    ],
+    "maxResults": 30,
+    "maxResultsShorts": 0,
+    "maxResultStreams": 0
+  },
+  "run_metadata": {
+    "status": "SUCCEEDED",
+    "startedAt": "2026-08-12T06:27:59.821Z",
+    "finishedAt": "2026-08-12T06:28:16.044Z",
+    "usageTotalUsd": 0.004,
+    "chargedEventCounts": {
+      "result": 1,
+      "date-filter": 0,
+      "ai-video-description": 0,
+      "ai-video-summary": 0
+    }
+  },
+  "items": [
+    {
+      "url": "https://www.youtube.com/@VieChannelHTV2/about?query=TINH+H%C3%80+SAY+HI+T%E1%BA%ACP",
+      "error": "CHANNEL_DOES_NOT_EXIST",
+      "input": "https://www.youtube.com/@VieChannelHTV2/search?query=TINH%20H%C3%80%20SAY%20HI%20T%E1%BA%ACP",
+      "note": "Channel does not exist"
+    }
+  ]
+}

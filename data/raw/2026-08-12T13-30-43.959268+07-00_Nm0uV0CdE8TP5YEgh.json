@@ -1,0 +1,1352 @@
+{
+  "actor_name": "streamers/youtube-scraper",
+  "actor_run_id": "Nm0uV0CdE8TP5YEgh",
+  "dataset_id": "I2hUJQAliFrqX4uA0",
+  "actor_build_id": "SUk0475fgtCh9zqMt",
+  "retrieved_at": "2026-08-12T13:30:43.959268+07:00",
+  "actor_input": {
+    "startUrls": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A"
+      }
+    ],
+    "maxResults": 31,
+    "maxResultsShorts": 0,
+    "maxResultStreams": 0
+  },
+  "run_metadata": {
+    "status": "SUCCEEDED",
+    "startedAt": "2026-08-12T06:29:59.120Z",
+    "finishedAt": "2026-08-12T06:30:37.284Z",
+    "usageTotalUsd": 0.056,
+    "chargedEventCounts": {
+      "result": 14,
+      "date-filter": 0,
+      "ai-video-description": 0,
+      "ai-video-summary": 0
+    }
+  },
+  "items": [
+    {
+      "title": "Tập 2 | Điểm số lộ diện, Chị Đẹp nào sẽ là người “nắm quyền”? - Chị Đẹp Đạp Gió Rẽ Sóng 2023",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "lvq1qcPhQms",
+      "url": "https://www.youtube.com/watch?v=lvq1qcPhQms&list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A&index=14",
+      "thumbnailUrl": "https://i.ytimg.com/vi/lvq1qcPhQms/maxresdefault.jpg",
+      "viewCount": 3987123,
+      "date": "2023-11-04T14:45:13.000Z",
+      "likes": 42000,
+      "location": null,
+      "channelName": "YEAH1 SHOW",
+      "channelUrl": "https://www.youtube.com/@YEAH1SHOW",
+      "channelUsername": "YEAH1SHOW",
+      "collaborators": null,
+      "channelId": "UCh_zF2FsiCflCPgYDudtcqg",
+      "numberOfSubscribers": 765000,
+      "duration": "01:44:31",
+      "commentsCount": 10399,
+      "text": "Tập 2 | Điểm số lộ diện, Chị Đẹp nào sẽ là người “nắm quyền”? - Chị Đẹp Đạp Gió Rẽ Sóng 2023\nKết thúc tập 1, Chị Đẹp Đạp Gió Rẽ Sóng 2023 chào sân bằng màn “Cưỡi Gió” của 30 Chị Đẹp. 5 tiết mục trình diễn cá nhân đã được “trưng phô” đầy ấn tượng. Trong tập 2 này, 14 tiết mục với 14 màu sắc của 14 Chị Đẹp sẽ tiếp tục được gửi đến khán giả. Liệu Chị Đẹp nào sẽ khiến sân khấu bùng nổ nhất? \n\nVới số điểm ấn tượng, Chị Đẹp “Trưởng nhóm” sẽ có quyền lựa chọn thành viên cho đợt công diễn 1 sắp tới. Hãy cùng đón chờ nhé!\n\n#ChiDepDapGioReSong #ChiDep #DapGio #SistersWhoMakeWaves #VTVcab #YeaH1 #STVProduction #Onlala #saymee \n\n*Lưu ý: Chương trình có sự đồng hành của Edelweiss và Strongbow, sản phẩm có chứa nồng độ cồn. \n\nSản phẩm này không dành cho phụ nữ mang thai. Đã uống đồ uống có cồn thì không lái xe bạn nhé! \n\nNgười dưới 18 tuổi không được uống rượu, bia\n----------------------------------------------\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Chị Đẹp Đạp Gió Rẽ Sóng 2023 trên: \n\n📍FanPage: https://www.facebook.com/ChiDepDapGioReSong \n📍TikTok: https://www.tiktok.com/@chidepdapgioresong \n📍Instagram: https://www.instagram.com/chidepdapgioresong/ \n\nChị Đẹp Đạp Gió Rẽ Sóng là chương trình truyền hình thực tế đáng mong chờ nhất 2023 với sự quy tụ của 30 nữ nghệ sĩ Việt Nam hoạt động nhiều ngành nghề khác nhau trong lĩnh vực giải trí.\n\n\n💃 Các nghệ sĩ góp mặt vào mùa 1 của chương trình, bao gồm: Hồng Nhung, Thu Phương, Lệ Quyên, Mỹ Linh, Lưu Hương Giang, Giang Hồng Ngọc, Khổng Tú Quỳnh, Phương Vy, Uyên Linh, H’Hen Niê, Quỳnh Nga, Phạm Lịch, Trang Pháp, MLee, Thái Trinh, Yến Trang, Thanh Ngọc, Đoan Trang, Diệu Nhi, Ninh Dương Lan Ngọc, Hà Kino, Tú Vi, Hương Ly, Hoàng Oanh, Vân Hugo, Diệp Lâm Anh, Lynk Lee, Nguyên Hà, Bảo Anh, Huyền Baby. \n\n🎞️ Lắng nghe MV Bài hát Chủ đề Nơi Bình Mình Đầy Nắng tại đây: \nNơi Bình Minh Đầy Nắng | MV Ca Khúc Chủ Đề: \"Chị Đẹp Đạp Gió Rẽ Sóng 2023\"\n----------------------------------------------\n📺 Đón xem Chị Đẹp Đạp Gió Rẽ Sóng 2023 phát sóng vào thứ 7 hàng tuần 21h15 trên kênh VTV3 | 21h45 trên YouTube YeaH1 Show và trên ứng dụng Onlala từ ngày 28/10/2023\n\n© Chương trình Chị Đẹp Đạp Gió Rẽ Sóng thuộc bản quyền của YeaH1 và VTVcab cùng đơn vị sản xuất STV Production",
+      "translatedText": "Tập 2 | Điểm số lộ diện, Chị Đẹp nào sẽ là người “nắm quyền”? - Chị Đẹp Đạp Gió Rẽ Sóng 2023\nKết thúc tập 1, Chị Đẹp Đạp Gió Rẽ Sóng 2023 chào sân bằng màn “Cưỡi Gió” của 30 Chị Đẹp. 5 tiết mục trình diễn cá nhân đã được “trưng phô” đầy ấn tượng. Trong tập 2 này, 14 tiết mục với 14 màu sắc của 14 Chị Đẹp sẽ tiếp tục được gửi đến khán giả. Liệu Chị Đẹp nào sẽ khiến sân khấu bùng nổ nhất? \n\nVới số điểm ấn tượng, Chị Đẹp “Trưởng nhóm” sẽ có quyền lựa chọn thành viên cho đợt công diễn 1 sắp tới. Hãy cùng đón chờ nhé!\n\n#ChiDepDapGioReSong #ChiDep #DapGio #SistersWhoMakeWaves #VTVcab #YeaH1 #STVProduction #Onlala #saymee \n\n*Lưu ý: Chương trình có sự đồng hành của Edelweiss và Strongbow, sản phẩm có chứa nồng độ cồn. \n\nSản phẩm này không dành cho phụ nữ mang thai. Đã uống đồ uống có cồn thì không lái xe bạn nhé! \n\nNgười dưới 18 tuổi không được uống rượu, bia\n----------------------------------------------\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Chị Đẹp Đạp Gió Rẽ Sóng 2023 trên: \n\n📍FanPage:   / chidepdapgioresong   \n📍TikTok:   / chidepdapgioresong   \n📍Instagram:   / chidepdapgioresong   \n\nChị Đẹp Đạp Gió Rẽ Sóng là chương trình truyền hình thực tế đáng mong chờ nhất 2023 với sự quy tụ của 30 nữ nghệ sĩ Việt Nam hoạt động nhiều ngành nghề khác nhau trong lĩnh vực giải trí.\n\n\n💃 Các nghệ sĩ góp mặt vào mùa 1 của chương trình, bao gồm: Hồng Nhung, Thu Phương, Lệ Quyên, Mỹ Linh, Lưu Hương Giang, Giang Hồng Ngọc, Khổng Tú Quỳnh, Phương Vy, Uyên Linh, H’Hen Niê, Quỳnh Nga, Phạm Lịch, Trang Pháp, MLee, Thái Trinh, Yến Trang, Thanh Ngọc, Đoan Trang, Diệu Nhi, Ninh Dương Lan Ngọc, Hà Kino, Tú Vi, Hương Ly, Hoàng Oanh, Vân Hugo, Diệp Lâm Anh, Lynk Lee, Nguyên Hà, Bảo Anh, Huyền Baby. \n\n🎞️ Lắng nghe MV Bài hát Chủ đề Nơi Bình Mình Đầy Nắng tại đây: \nNơi Bình Minh Đầy Nắng | MV Ca Khúc Chủ Đề: \"Chị Đẹp Đạp Gió Rẽ Sóng 2023\"\n----------------------------------------------\n📺 Đón xem Chị Đẹp Đạp Gió Rẽ Sóng 2023 phát sóng vào thứ 7 hàng tuần 21h15 trên kênh VTV3 | 21h45 trên YouTube YeaH1 Show và trên ứng dụng Onlala từ ngày 28/10/2023\n\n© Chương trình Chị Đẹp Đạp Gió Rẽ Sóng thuộc bản quyền của YeaH1 và VTVcab cùng đơn vị sản xuất STV Production",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/chidepdapgioresong",
+          "text": "#ChiDepDapGioReSong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chidep",
+          "text": "#ChiDep"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dapgio",
+          "text": "#DapGio"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/sisterswhomakewaves",
+          "text": "#SistersWhoMakeWaves"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vtvcab",
+          "text": "#VTVcab"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/stvproduction",
+          "text": "#STVProduction"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/onlala",
+          "text": "#Onlala"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saymee",
+          "text": "#saymee"
+        },
+        {
+          "url": "https://www.facebook.com/ChiDepDapGioReSong",
+          "text": "  / chidepdapgioresong  "
+        },
+        {
+          "url": "https://www.tiktok.com/@chidepdapgioresong",
+          "text": "  / chidepdapgioresong  "
+        },
+        {
+          "url": "https://www.instagram.com/chidepdapgioresong/",
+          "text": "  / chidepdapgioresong  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 13,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+      "isMonetized": null,
+      "hashtags": [
+        "#VTVcab",
+        "#YeaH1",
+        "#ChiDepDapGioReSong"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tập 4 | Thử thách tập luyện căng thẳng, đội nào sẽ vượt ải ngoạn mục? - Chị Đẹp Đạp Gió Rẽ Sóng 2023",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "-LAdXYSoPLk",
+      "url": "https://www.youtube.com/watch?v=-LAdXYSoPLk&list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A&index=12",
+      "thumbnailUrl": "https://i.ytimg.com/vi/-LAdXYSoPLk/maxresdefault.jpg",
+      "viewCount": 3565324,
+      "date": "2023-11-18T14:45:13.000Z",
+      "likes": 50000,
+      "location": null,
+      "channelName": "YEAH1 SHOW",
+      "channelUrl": "https://www.youtube.com/@YEAH1SHOW",
+      "channelUsername": "YEAH1SHOW",
+      "collaborators": null,
+      "channelId": "UCh_zF2FsiCflCPgYDudtcqg",
+      "numberOfSubscribers": 765000,
+      "duration": "02:00:09",
+      "commentsCount": 6572,
+      "text": "Tập 4 | Thử thách tập luyện căng thẳng, đội nào sẽ vượt ải ngoạn mục? - Chị Đẹp Đạp Gió Rẽ Sóng 2023\nNhận đề bài khó từ chương trình, 30 Chị Đẹp cùng nhau chung sức “đạp gió rẽ sóng” và bắt đầu vẽ nên hành trình đẹp khi tập luyện, sinh sống tại nhà chung. \n\nTrong tập 4, khán giả sẽ được lắng nghe những câu chuyện chưa bao giờ kể của các Chị Đẹp. Trải qua thử thách luyện tập khó nhằn, các Chị Đẹp không ngại khó để giành những quyền ưu tiên cho Công diễn 1. Liệu có ai sẽ được ưu và có bất ngờ gì đến với các Chị Đẹp? \n\n#ChiDepDapGioReSong #ChiDep #DapGio #SistersWhoMakeWaves #VTVcab #YeaH1 #STVProduction #Onlala #saymee \n\n*Lưu ý: Chương trình có sự đồng hành của Edelweiss và Strongbow, sản phẩm có chứa nồng độ cồn. \n\nSản phẩm này không dành cho phụ nữ mang thai. Đã uống đồ uống có cồn thì không lái xe bạn nhé! \n\nNgười dưới 18 tuổi không được uống rượu, bia\n----------------------------------------------\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Chị Đẹp Đạp Gió Rẽ Sóng 2023 trên: \n\n📍FanPage: https://www.facebook.com/ChiDepDapGioReSong \n📍TikTok: https://www.tiktok.com/@chidepdapgioresong \n📍Instagram: https://www.instagram.com/chidepdapgioresong/ \n\nChị Đẹp Đạp Gió Rẽ Sóng là chương trình truyền hình thực tế đáng mong chờ nhất 2023 với sự quy tụ của 30 nữ nghệ sĩ Việt Nam hoạt động nhiều ngành nghề khác nhau trong lĩnh vực giải trí.\n\n\n💃 Các nghệ sĩ góp mặt vào mùa 1 của chương trình, bao gồm: Hồng Nhung, Thu Phương, Lệ Quyên, Mỹ Linh, Lưu Hương Giang, Giang Hồng Ngọc, Khổng Tú Quỳnh, Phương Vy, Uyên Linh, H’Hen Niê, Quỳnh Nga, Phạm Lịch, Trang Pháp, MLee, Thái Trinh, Yến Trang, Thanh Ngọc, Đoan Trang, Diệu Nhi, Ninh Dương Lan Ngọc, Hà Kino, Tú Vi, Hương Ly, Hoàng Oanh, Vân Hugo, Diệp Lâm Anh, Lynk Lee, Nguyên Hà, Bảo Anh, Huyền Baby. \n\n🎞️ Lắng nghe MV Bài hát Chủ đề Nơi Bình Mình Đầy Nắng tại đây: \nNơi Bình Minh Đầy Nắng | MV Ca Khúc Chủ Đề: \"Chị Đẹp Đạp Gió Rẽ Sóng 2023\"\n----------------------------------------------\n📺 Đón xem Chị Đẹp Đạp Gió Rẽ Sóng 2023 phát sóng vào thứ 7 hàng tuần 21h15 trên kênh VTV3 | 21h45 trên YouTube YeaH1 Show và trên ứng dụng Onlala từ ngày 28/10/2023\n\n© Chương trình Chị Đẹp Đạp Gió Rẽ Sóng thuộc bản quyền của YeaH1 và VTVcab cùng đơn vị sản xuất STV Production",
+      "translatedText": "Tập 4 | Thử thách tập luyện căng thẳng, đội nào sẽ vượt ải ngoạn mục? - Chị Đẹp Đạp Gió Rẽ Sóng 2023\nNhận đề bài khó từ chương trình, 30 Chị Đẹp cùng nhau chung sức “đạp gió rẽ sóng” và bắt đầu vẽ nên hành trình đẹp khi tập luyện, sinh sống tại nhà chung. \n\nTrong tập 4, khán giả sẽ được lắng nghe những câu chuyện chưa bao giờ kể của các Chị Đẹp. Trải qua thử thách luyện tập khó nhằn, các Chị Đẹp không ngại khó để giành những quyền ưu tiên cho Công diễn 1. Liệu có ai sẽ được ưu và có bất ngờ gì đến với các Chị Đẹp? \n\n#ChiDepDapGioReSong #ChiDep #DapGio #SistersWhoMakeWaves #VTVcab #YeaH1 #STVProduction #Onlala #saymee \n\n*Lưu ý: Chương trình có sự đồng hành của Edelweiss và Strongbow, sản phẩm có chứa nồng độ cồn. \n\nSản phẩm này không dành cho phụ nữ mang thai. Đã uống đồ uống có cồn thì không lái xe bạn nhé! \n\nNgười dưới 18 tuổi không được uống rượu, bia\n----------------------------------------------\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Chị Đẹp Đạp Gió Rẽ Sóng 2023 trên: \n\n📍FanPage:   / chidepdapgioresong   \n📍TikTok:   / chidepdapgioresong   \n📍Instagram:   / chidepdapgioresong   \n\nChị Đẹp Đạp Gió Rẽ Sóng là chương trình truyền hình thực tế đáng mong chờ nhất 2023 với sự quy tụ của 30 nữ nghệ sĩ Việt Nam hoạt động nhiều ngành nghề khác nhau trong lĩnh vực giải trí.\n\n\n💃 Các nghệ sĩ góp mặt vào mùa 1 của chương trình, bao gồm: Hồng Nhung, Thu Phương, Lệ Quyên, Mỹ Linh, Lưu Hương Giang, Giang Hồng Ngọc, Khổng Tú Quỳnh, Phương Vy, Uyên Linh, H’Hen Niê, Quỳnh Nga, Phạm Lịch, Trang Pháp, MLee, Thái Trinh, Yến Trang, Thanh Ngọc, Đoan Trang, Diệu Nhi, Ninh Dương Lan Ngọc, Hà Kino, Tú Vi, Hương Ly, Hoàng Oanh, Vân Hugo, Diệp Lâm Anh, Lynk Lee, Nguyên Hà, Bảo Anh, Huyền Baby. \n\n🎞️ Lắng nghe MV Bài hát Chủ đề Nơi Bình Mình Đầy Nắng tại đây: \nNơi Bình Minh Đầy Nắng | MV Ca Khúc Chủ Đề: \"Chị Đẹp Đạp Gió Rẽ Sóng 2023\"\n----------------------------------------------\n📺 Đón xem Chị Đẹp Đạp Gió Rẽ Sóng 2023 phát sóng vào thứ 7 hàng tuần 21h15 trên kênh VTV3 | 21h45 trên YouTube YeaH1 Show và trên ứng dụng Onlala từ ngày 28/10/2023\n\n© Chương trình Chị Đẹp Đạp Gió Rẽ Sóng thuộc bản quyền của YeaH1 và VTVcab cùng đơn vị sản xuất STV Production",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/chidepdapgioresong",
+          "text": "#ChiDepDapGioReSong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chidep",
+          "text": "#ChiDep"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dapgio",
+          "text": "#DapGio"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/sisterswhomakewaves",
+          "text": "#SistersWhoMakeWaves"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vtvcab",
+          "text": "#VTVcab"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/stvproduction",
+          "text": "#STVProduction"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/onlala",
+          "text": "#Onlala"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saymee",
+          "text": "#saymee"
+        },
+        {
+          "url": "https://www.facebook.com/ChiDepDapGioReSong",
+          "text": "  / chidepdapgioresong  "
+        },
+        {
+          "url": "https://www.tiktok.com/@chidepdapgioresong",
+          "text": "  / chidepdapgioresong  "
+        },
+        {
+          "url": "https://www.instagram.com/chidepdapgioresong/",
+          "text": "  / chidepdapgioresong  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 11,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+      "isMonetized": null,
+      "hashtags": [
+        "#VTVcab",
+        "#YeaH1",
+        "#ChiDepDapGioReSong"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tập 15 | Chung kết bùng nổ, 7 Chị Đẹp nào sẽ thành nhóm thành đoàn - Chị Đẹp Đạp Gió Rẽ Sóng 2023",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "Xh35QRR97Y4",
+      "url": "https://www.youtube.com/watch?v=Xh35QRR97Y4&list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A&index=1",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Xh35QRR97Y4/maxresdefault.jpg",
+      "viewCount": 3233242,
+      "date": "2024-02-03T14:45:11.000Z",
+      "likes": 42000,
+      "location": null,
+      "channelName": "YEAH1 SHOW",
+      "channelUrl": "https://www.youtube.com/@YEAH1SHOW",
+      "channelUsername": "YEAH1SHOW",
+      "collaborators": null,
+      "channelId": "UCh_zF2FsiCflCPgYDudtcqg",
+      "numberOfSubscribers": 765000,
+      "duration": "02:21:57",
+      "commentsCount": 9776,
+      "text": "Tập 15 | Chung kết bùng nổ, 7 Chị Đẹp nào sẽ thành nhóm thành đoàn - Chị Đẹp Đạp Gió Rẽ Sóng 2023\nĐể khép lại chặng hành trình “đạp gió rẽ sóng” mùa đầu tiên, 14 Chị Đẹp trong 2 nhóm Ứng Cử viên Quán quân sẽ trình diễn hai tiết mục “Mashup Nam Quốc Sơn Hà & Đất Nước Lời Ru” và “Mashup Thư Pháp, Tiếng Việt, Máu Đỏ Da Vàng, Tôi Yêu“ với đội hình thi đấu 7 thành viên.\n\nBốn nghệ sĩ khách mời BINZ, GONZO, SOOBIN và CHI PU chính là những nghệ sĩ khách mời tham gia trình diễn trong đêm Chung kết & Trao giải.\n\nGiai điệu của bài hát chủ đề - “Nơi Bình Minh Đầy Nắng” lại một lần nữa vang lên, để chúc mừng dàn Chị Đẹp hoàn thành tốt đẹp chặng hành trình “đạp gió rẽ sóng” mùa đầu tiên.Nhóm nhạc thành đoàn sẽ gọi tên những Chị Đẹp nào? \n\nĐừng quên đón xem đêm Chung kết và Trao giải để cháy hết với những màn trình diễn khép lại Chị Đẹp Đạp Gió Rẽ Sóng mùa đầu tiên nhé!\n\nLưu ý: Chương trình có sự đồng hành của Edelweiss và Strongbow, sản phẩm có chứa nồng độ cồn. \nSản phẩm này không dành cho phụ nữ mang thai. Đã uống đồ uống có cồn thì không lái xe bạn nhé! \nNgười dưới 18 tuổi không được uống rượu, bia.\n\n\n#ChiDepDapGioReSong #ChiDepDapGioReSong2023 #ChiDep #ChiDep2023 #DapGio #SistersWhoMakeWaves #VTVcab #YeaH1 #STVProduction \n\n----------------------------------------------\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Chị Đẹp Đạp Gió Rẽ Sóng 2023 trên: \n\n📍FanPage: https://www.facebook.com/ChiDepDapGioReSong \n📍TikTok: https://www.tiktok.com/@chidepdapgioresong \n📍Instagram: https://www.instagram.com/chidepdapgioresong/ \n\nChị Đẹp Đạp Gió Rẽ Sóng là chương trình truyền hình thực tế đáng mong chờ nhất 2023 với sự quy tụ của 30 nữ nghệ sĩ Việt Nam hoạt động nhiều ngành nghề khác nhau trong lĩnh vực giải trí.\n\n💃 Các nghệ sĩ góp mặt vào mùa 1 của chương trình, bao gồm: Hồng Nhung, Thu Phương, Lệ Quyên, Mỹ Linh, Lưu Hương Giang, Giang Hồng Ngọc, Khổng Tú Quỳnh, Phương Vy, Uyên Linh, H’Hen Niê, Quỳnh Nga, Phạm Lịch, Trang Pháp, MLee, Thái Trinh, Yến Trang, Thanh Ngọc, Đoan Trang, Diệu Nhi, Ninh Dương Lan Ngọc, Hà Kino, Tú Vi, Hương Ly, Hoàng Oanh, Vân Hugo, Diệp Lâm Anh, Lynk Lee, Nguyên Hà, Bảo Anh, Huyền Baby. \n\n🎞️ Lắng nghe MV Bài hát Chủ đề Nơi Bình Mình Đầy Nắng tại đây: \nNơi Bình Minh Đầy Nắng | MV Ca Khúc Chủ Đề: \"Chị Đẹp Đạp Gió Rẽ Sóng 2023\"\n----------------------------------------------\n📺 Đón xem Chị Đẹp Đạp Gió Rẽ Sóng 2023 phát sóng vào thứ 7 hàng tuần 21h15 trên kênh VTV3 và 21h45 trên YouTube\n\n© Chương trình Chị Đẹp Đạp Gió Rẽ Sóng thuộc bản quyền của YeaH1 và VTVcab cùng đơn vị sản xuất STV Production",
+      "translatedText": "Tập 15 | Chung kết bùng nổ, 7 Chị Đẹp nào sẽ thành nhóm thành đoàn - Chị Đẹp Đạp Gió Rẽ Sóng 2023\nĐể khép lại chặng hành trình “đạp gió rẽ sóng” mùa đầu tiên, 14 Chị Đẹp trong 2 nhóm Ứng Cử viên Quán quân sẽ trình diễn hai tiết mục “Mashup Nam Quốc Sơn Hà & Đất Nước Lời Ru” và “Mashup Thư Pháp, Tiếng Việt, Máu Đỏ Da Vàng, Tôi Yêu“ với đội hình thi đấu 7 thành viên.\n\nBốn nghệ sĩ khách mời BINZ, GONZO, SOOBIN và CHI PU chính là những nghệ sĩ khách mời tham gia trình diễn trong đêm Chung kết & Trao giải.\n\nGiai điệu của bài hát chủ đề - “Nơi Bình Minh Đầy Nắng” lại một lần nữa vang lên, để chúc mừng dàn Chị Đẹp hoàn thành tốt đẹp chặng hành trình “đạp gió rẽ sóng” mùa đầu tiên.Nhóm nhạc thành đoàn sẽ gọi tên những Chị Đẹp nào? \n\nĐừng quên đón xem đêm Chung kết và Trao giải để cháy hết với những màn trình diễn khép lại Chị Đẹp Đạp Gió Rẽ Sóng mùa đầu tiên nhé!\n\nLưu ý: Chương trình có sự đồng hành của Edelweiss và Strongbow, sản phẩm có chứa nồng độ cồn. \nSản phẩm này không dành cho phụ nữ mang thai. Đã uống đồ uống có cồn thì không lái xe bạn nhé! \nNgười dưới 18 tuổi không được uống rượu, bia.\n\n\n#ChiDepDapGioReSong #ChiDepDapGioReSong2023 #ChiDep #ChiDep2023 #DapGio #SistersWhoMakeWaves #VTVcab #YeaH1 #STVProduction \n\n----------------------------------------------\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Chị Đẹp Đạp Gió Rẽ Sóng 2023 trên: \n\n📍FanPage:   / chidepdapgioresong   \n📍TikTok:   / chidepdapgioresong   \n📍Instagram:   / chidepdapgioresong   \n\nChị Đẹp Đạp Gió Rẽ Sóng là chương trình truyền hình thực tế đáng mong chờ nhất 2023 với sự quy tụ của 30 nữ nghệ sĩ Việt Nam hoạt động nhiều ngành nghề khác nhau trong lĩnh vực giải trí.\n\n💃 Các nghệ sĩ góp mặt vào mùa 1 của chương trình, bao gồm: Hồng Nhung, Thu Phương, Lệ Quyên, Mỹ Linh, Lưu Hương Giang, Giang Hồng Ngọc, Khổng Tú Quỳnh, Phương Vy, Uyên Linh, H’Hen Niê, Quỳnh Nga, Phạm Lịch, Trang Pháp, MLee, Thái Trinh, Yến Trang, Thanh Ngọc, Đoan Trang, Diệu Nhi, Ninh Dương Lan Ngọc, Hà Kino, Tú Vi, Hương Ly, Hoàng Oanh, Vân Hugo, Diệp Lâm Anh, Lynk Lee, Nguyên Hà, Bảo Anh, Huyền Baby. \n\n🎞️ Lắng nghe MV Bài hát Chủ đề Nơi Bình Mình Đầy Nắng tại đây: \nNơi Bình Minh Đầy Nắng | MV Ca Khúc Chủ Đề: \"Chị Đẹp Đạp Gió Rẽ Sóng 2023\"\n----------------------------------------------\n📺 Đón xem Chị Đẹp Đạp Gió Rẽ Sóng 2023 phát sóng vào thứ 7 hàng tuần 21h15 trên kênh VTV3 và 21h45 trên YouTube\n\n© Chương trình Chị Đẹp Đạp Gió Rẽ Sóng thuộc bản quyền của YeaH1 và VTVcab cùng đơn vị sản xuất STV Production",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/chidepdapgioresong",
+          "text": "#ChiDepDapGioReSong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chidepdapgioresong2023",
+          "text": "#ChiDepDapGioReSong2023"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chidep",
+          "text": "#ChiDep"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chidep2023",
+          "text": "#ChiDep2023"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dapgio",
+          "text": "#DapGio"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/sisterswhomakewaves",
+          "text": "#SistersWhoMakeWaves"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vtvcab",
+          "text": "#VTVcab"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/stvproduction",
+          "text": "#STVProduction"
+        },
+        {
+          "url": "https://www.facebook.com/ChiDepDapGioReSong",
+          "text": "  / chidepdapgioresong  "
+        },
+        {
+          "url": "https://www.tiktok.com/@chidepdapgioresong",
+          "text": "  / chidepdapgioresong  "
+        },
+        {
+          "url": "https://www.instagram.com/chidepdapgioresong/",
+          "text": "  / chidepdapgioresong  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 0,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+      "isMonetized": null,
+      "hashtags": [
+        "#VTVcab",
+        "#YeaH1",
+        "#ChiDepDapGioReSong"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tập 5 | Công 1 bùng nổ, Lan Ngọc và Diệu Nhi bất ngờ thành đội trưởng - Chị Đẹp Đạp Gió Rẽ Sóng 2023",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "8Y0bLhvw7CI",
+      "url": "https://www.youtube.com/watch?v=8Y0bLhvw7CI&list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A&index=11",
+      "thumbnailUrl": "https://i.ytimg.com/vi/8Y0bLhvw7CI/maxresdefault.jpg",
+      "viewCount": 4285240,
+      "date": "2023-11-25T14:45:10.000Z",
+      "likes": 46000,
+      "location": null,
+      "channelName": "YEAH1 SHOW",
+      "channelUrl": "https://www.youtube.com/@YEAH1SHOW",
+      "channelUsername": "YEAH1SHOW",
+      "collaborators": null,
+      "channelId": "UCh_zF2FsiCflCPgYDudtcqg",
+      "numberOfSubscribers": 765000,
+      "duration": "02:05:20",
+      "commentsCount": 12045,
+      "text": "Tập 5 | Công 1 bùng nổ, Lan Ngọc và Diệu Nhi bất ngờ thành đội trưởng - Chị Đẹp Đạp Gió Rẽ Sóng 2023\n\nCông diễn 1 của Chị Đẹp Đạp Gió Rẽ Sóng 2023 chính thức diễn ra với 6 tiết mục, 6 màu sắc và 6 sân khấu trình diễn với không gian huyền diệu tạo nên nhiều cung bậc cảm xúc: Nếu Anh Đi, Răng Khôn, Đưa Em Về Nhà, Đi Đu Đưa Đi, Vũ Trụ Có Anh, và Mashup: Gửi Anh Xa Nhớ & Người Ơi Người Ở Đừng Về. \n\nKhông gian của “Tắc kè hoa” chứng kiến nhiều màn thể hiện lột xác đầy năng lượng, mạnh mẽ của 30 Chị Đẹp. Các Chị Đẹp đội trưởng đầu tiên của Công diễn 1 liệu có thành công dẫn dắt đưa “hội chị em” của mình vào Nhóm An toàn?\n\nNhóm nào sẽ thành công chinh phục tình cảm của 357 khán giả nữ tại trường quay, nhóm nào sẽ phải đối diện với nguy cơ có thành viên phải tạm dừng cuộc chơi. Kết quả bình chọn và vòng loại trừ căng thẳng sẽ được công bố ngay tại tập 5 chương trình Chị Đẹp Đạp Gió Rẽ Sóng 2023. \n\nTuy nhiên, tạm dừng chưa phải là kết thúc, các Chị Đẹp sẽ luôn “Đạp Gió Rẽ Sóng” trên chính hành trình của bản thân để tạo nên những giá trị định nghĩa nên thương hiệu của họ.\n\n#ChiDepDapGioReSong #ChiDep #DapGio #SistersWhoMakeWaves #VTVcab #YeaH1 #STVProduction #Onlala #saymee \n\n*Lưu ý: Chương trình có sự đồng hành của Edelweiss và Strongbow, sản phẩm có chứa nồng độ cồn. \n\nSản phẩm này không dành cho phụ nữ mang thai. Đã uống đồ uống có cồn thì không lái xe bạn nhé! \n\nNgười dưới 18 tuổi không được uống rượu, bia\n----------------------------------------------\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Chị Đẹp Đạp Gió Rẽ Sóng 2023 trên: \n\n📍FanPage: https://www.facebook.com/ChiDepDapGioReSong \n📍TikTok: https://www.tiktok.com/@chidepdapgioresong \n📍Instagram: https://www.instagram.com/chidepdapgioresong/ \n\nChị Đẹp Đạp Gió Rẽ Sóng là chương trình truyền hình thực tế đáng mong chờ nhất 2023 với sự quy tụ của 30 nữ nghệ sĩ Việt Nam hoạt động nhiều ngành nghề khác nhau trong lĩnh vực giải trí.\n\n\n💃 Các nghệ sĩ góp mặt vào mùa 1 của chương trình, bao gồm: Hồng Nhung, Thu Phương, Lệ Quyên, Mỹ Linh, Lưu Hương Giang, Giang Hồng Ngọc, Khổng Tú Quỳnh, Phương Vy, Uyên Linh, H’Hen Niê, Quỳnh Nga, Phạm Lịch, Trang Pháp, MLee, Thái Trinh, Yến Trang, Thanh Ngọc, Đoan Trang, Diệu Nhi, Ninh Dương Lan Ngọc, Hà Kino, Tú Vi, Hương Ly, Hoàng Oanh, Vân Hugo, Diệp Lâm Anh, Lynk Lee, Nguyên Hà, Bảo Anh, Huyền Baby. \n\n🎞️ Lắng nghe MV Bài hát Chủ đề Nơi Bình Mình Đầy Nắng tại đây: \nNơi Bình Minh Đầy Nắng | MV Ca Khúc Chủ Đề: \"Chị Đẹp Đạp Gió Rẽ Sóng 2023\"\n----------------------------------------------\n📺 Đón xem Chị Đẹp Đạp Gió Rẽ Sóng 2023 phát sóng vào thứ 7 hàng tuần 21h15 trên kênh VTV3 | 21h45 trên YouTube YeaH1 Show và trên ứng dụng Onlala từ ngày 28/10/2023\n\n© Chương trình Chị Đẹp Đạp Gió Rẽ Sóng thuộc bản quyền của YeaH1 và VTVcab cùng đơn vị sản xuất STV Production",
+      "translatedText": "Tập 5 | Công 1 bùng nổ, Lan Ngọc và Diệu Nhi bất ngờ thành đội trưởng - Chị Đẹp Đạp Gió Rẽ Sóng 2023\n\nCông diễn 1 của Chị Đẹp Đạp Gió Rẽ Sóng 2023 chính thức diễn ra với 6 tiết mục, 6 màu sắc và 6 sân khấu trình diễn với không gian huyền diệu tạo nên nhiều cung bậc cảm xúc: Nếu Anh Đi, Răng Khôn, Đưa Em Về Nhà, Đi Đu Đưa Đi, Vũ Trụ Có Anh, và Mashup: Gửi Anh Xa Nhớ & Người Ơi Người Ở Đừng Về. \n\nKhông gian của “Tắc kè hoa” chứng kiến nhiều màn thể hiện lột xác đầy năng lượng, mạnh mẽ của 30 Chị Đẹp. Các Chị Đẹp đội trưởng đầu tiên của Công diễn 1 liệu có thành công dẫn dắt đưa “hội chị em” của mình vào Nhóm An toàn?\n\nNhóm nào sẽ thành công chinh phục tình cảm của 357 khán giả nữ tại trường quay, nhóm nào sẽ phải đối diện với nguy cơ có thành viên phải tạm dừng cuộc chơi. Kết quả bình chọn và vòng loại trừ căng thẳng sẽ được công bố ngay tại tập 5 chương trình Chị Đẹp Đạp Gió Rẽ Sóng 2023. \n\nTuy nhiên, tạm dừng chưa phải là kết thúc, các Chị Đẹp sẽ luôn “Đạp Gió Rẽ Sóng” trên chính hành trình của bản thân để tạo nên những giá trị định nghĩa nên thương hiệu của họ.\n\n#ChiDepDapGioReSong #ChiDep #DapGio #SistersWhoMakeWaves #VTVcab #YeaH1 #STVProduction #Onlala #saymee \n\n*Lưu ý: Chương trình có sự đồng hành của Edelweiss và Strongbow, sản phẩm có chứa nồng độ cồn. \n\nSản phẩm này không dành cho phụ nữ mang thai. Đã uống đồ uống có cồn thì không lái xe bạn nhé! \n\nNgười dưới 18 tuổi không được uống rượu, bia\n----------------------------------------------\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Chị Đẹp Đạp Gió Rẽ Sóng 2023 trên: \n\n📍FanPage: https://www.facebook.com/ChiDepDapGioReSong \n📍TikTok: https://www.tiktok.com/@chidepdapgioresong \n📍Instagram: https://www.instagram.com/chidepdapgioresong/ \n\nChị Đẹp Đạp Gió Rẽ Sóng là chương trình truyền hình thực tế đáng mong chờ nhất 2023 với sự quy tụ của 30 nữ nghệ sĩ Việt Nam hoạt động nhiều ngành nghề khác nhau trong lĩnh vực giải trí.\n\n\n💃 Các nghệ sĩ góp mặt vào mùa 1 của chương trình, bao gồm: Hồng Nhung, Thu Phương, Lệ Quyên, Mỹ Linh, Lưu Hương Giang, Giang Hồng Ngọc, Khổng Tú Quỳnh, Phương Vy, Uyên Linh, H’Hen Niê, Quỳnh Nga, Phạm Lịch, Trang Pháp, MLee, Thái Trinh, Yến Trang, Thanh Ngọc, Đoan Trang, Diệu Nhi, Ninh Dương Lan Ngọc, Hà Kino, Tú Vi, Hương Ly, Hoàng Oanh, Vân Hugo, Diệp Lâm Anh, Lynk Lee, Nguyên Hà, Bảo Anh, Huyền Baby. \n\n🎞️ Lắng nghe MV Bài hát Chủ đề Nơi Bình Mình Đầy Nắng tại đây: \nNơi Bình Minh Đầy Nắng | MV Ca Khúc Chủ Đề: \"Chị Đẹp Đạp Gió Rẽ Sóng 2023\"\n----------------------------------------------\n📺 Đón xem Chị Đẹp Đạp Gió Rẽ Sóng 2023 phát sóng vào thứ 7 hàng tuần 21h15 trên kênh VTV3 | 21h45 trên YouTube YeaH1 Show và trên ứng dụng Onlala từ ngày 28/10/2023\n\n© Chương trình Chị Đẹp Đạp Gió Rẽ Sóng thuộc bản quyền của YeaH1 và VTVcab cùng đơn vị sản xuất STV Production",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/chidepdapgioresong",
+          "text": "#ChiDepDapGioReSong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chidep",
+          "text": "#ChiDep"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dapgio",
+          "text": "#DapGio"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/sisterswhomakewaves",
+          "text": "#SistersWhoMakeWaves"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vtvcab",
+          "text": "#VTVcab"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/stvproduction",
+          "text": "#STVProduction"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/onlala",
+          "text": "#Onlala"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saymee",
+          "text": "#saymee"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 10,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+      "isMonetized": null,
+      "hashtags": [
+        "#VTVcab",
+        "#YeaH1",
+        "#ChiDepDapGioReSong"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tập 7 | Mỹ Linh lộn nhào, Lệ Quyên bắn fast flow tại Công diễn 2 - Chị Đẹp Đạp Gió Rẽ Sóng 2023",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "oPVl-fszgNc",
+      "url": "https://www.youtube.com/watch?v=oPVl-fszgNc&list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A&index=9",
+      "thumbnailUrl": "https://i.ytimg.com/vi/oPVl-fszgNc/maxresdefault.jpg",
+      "viewCount": 3355775,
+      "date": "2023-12-09T14:45:13.000Z",
+      "likes": 39000,
+      "location": null,
+      "channelName": "YEAH1 SHOW",
+      "channelUrl": "https://www.youtube.com/@YEAH1SHOW",
+      "channelUsername": "YEAH1SHOW",
+      "collaborators": null,
+      "channelId": "UCh_zF2FsiCflCPgYDudtcqg",
+      "numberOfSubscribers": 765000,
+      "duration": "01:57:14",
+      "commentsCount": 10839,
+      "text": "Tập 7 | Mỹ Linh lộn nhào, Lệ Quyên bắn fast flow tại Công diễn 2 - Chị Đẹp Đạp Gió Rẽ Sóng 2023\nCông diễn 2 Chị Đẹp Đạp Gió Rẽ Sóng 2023 với chủ đề \"Thủy triều\" diễn ra vô cùng bùng nổ bằng sự quyết tâm cao độ của 24 Chị Đẹp mang đến 6 tiết mục: Ai Cũng Có Ngày Xưa, Lớn Rồi Còn Khóc Nhè, Phi Hành Gia Cô Đơn, Chị Ngả Em Nâng, Dòng Thời Gian, và Mashup Cún Yêu & Tình Bạn Diệu Kỳ.\n\nLần đầu tiên, khán giả được nhìn thấy Chị Đẹp Mỹ Linh \"lộn nhào\" hay Chị Đẹp Lệ Quyên, Thu Phương trổ tài đu dây, bắn rap và đi fast flow cực mượt. \n\nKết thúc đêm Công diễn 2, đâu là là 2 nhóm có kết quả bình chọn cao nhất của khán giả tại trường quay và được thăng cấp vào Công diễn 3? 4 Chị Đẹp nào là những cái tên phải tạm dừng lại và chờ đợi vòng Hồi sinh? \n\nCác Chị Đẹp nào sẽ trở thành Trưởng nhóm trong Công diễn 3? Cùng chờ đón xem màn thể hiện của các Chị Đẹp nhé!\n\n#ChiDepDapGioReSong #ChiDep #DapGio #SistersWhoMakeWaves #VTVcab #YeaH1 #STVProduction #Onlala #saymee \n\n*Lưu ý: Chương trình có sự đồng hành của Edelweiss và Strongbow, sản phẩm có chứa nồng độ cồn. \n\nSản phẩm này không dành cho phụ nữ mang thai. Đã uống đồ uống có cồn thì không lái xe bạn nhé! \n\nNgười dưới 18 tuổi không được uống rượu, bia\n----------------------------------------------\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Chị Đẹp Đạp Gió Rẽ Sóng 2023 trên: \n\n📍FanPage: https://www.facebook.com/ChiDepDapGioReSong \n📍TikTok: https://www.tiktok.com/@chidepdapgioresong \n📍Instagram: https://www.instagram.com/chidepdapgioresong/ \n\nChị Đẹp Đạp Gió Rẽ Sóng là chương trình truyền hình thực tế đáng mong chờ nhất 2023 với sự quy tụ của 30 nữ nghệ sĩ Việt Nam hoạt động nhiều ngành nghề khác nhau trong lĩnh vực giải trí.\n\n\n💃 Các nghệ sĩ góp mặt vào mùa 1 của chương trình, bao gồm: Hồng Nhung, Thu Phương, Lệ Quyên, Mỹ Linh, Lưu Hương Giang, Giang Hồng Ngọc, Khổng Tú Quỳnh, Phương Vy, Uyên Linh, H’Hen Niê, Quỳnh Nga, Phạm Lịch, Trang Pháp, MLee, Thái Trinh, Yến Trang, Thanh Ngọc, Đoan Trang, Diệu Nhi, Ninh Dương Lan Ngọc, Hà Kino, Tú Vi, Hương Ly, Hoàng Oanh, Vân Hugo, Diệp Lâm Anh, Lynk Lee, Nguyên Hà, Bảo Anh, Huyền Baby. \n\n🎞️ Lắng nghe MV Bài hát Chủ đề Nơi Bình Mình Đầy Nắng tại đây: \nNơi Bình Minh Đầy Nắng | MV Ca Khúc Chủ Đề: \"Chị Đẹp Đạp Gió Rẽ Sóng 2023\"\n----------------------------------------------\n📺 Đón xem Chị Đẹp Đạp Gió Rẽ Sóng 2023 phát sóng vào thứ 7 hàng tuần 21h15 trên kênh VTV3 | 21h45 trên YouTube và trên ứng dụng Onlala từ ngày 28/10/2023\n\n© Chương trình Chị Đẹp Đạp Gió Rẽ Sóng thuộc bản quyền của YeaH1 và VTVcab cùng đơn vị sản xuất STV Production",
+      "translatedText": "Tập 7 | Mỹ Linh lộn nhào, Lệ Quyên bắn fast flow tại Công diễn 2 - Chị Đẹp Đạp Gió Rẽ Sóng 2023\nCông diễn 2 Chị Đẹp Đạp Gió Rẽ Sóng 2023 với chủ đề \"Thủy triều\" diễn ra vô cùng bùng nổ bằng sự quyết tâm cao độ của 24 Chị Đẹp mang đến 6 tiết mục: Ai Cũng Có Ngày Xưa, Lớn Rồi Còn Khóc Nhè, Phi Hành Gia Cô Đơn, Chị Ngả Em Nâng, Dòng Thời Gian, và Mashup Cún Yêu & Tình Bạn Diệu Kỳ.\n\nLần đầu tiên, khán giả được nhìn thấy Chị Đẹp Mỹ Linh \"lộn nhào\" hay Chị Đẹp Lệ Quyên, Thu Phương trổ tài đu dây, bắn rap và đi fast flow cực mượt. \n\nKết thúc đêm Công diễn 2, đâu là là 2 nhóm có kết quả bình chọn cao nhất của khán giả tại trường quay và được thăng cấp vào Công diễn 3? 4 Chị Đẹp nào là những cái tên phải tạm dừng lại và chờ đợi vòng Hồi sinh? \n\nCác Chị Đẹp nào sẽ trở thành Trưởng nhóm trong Công diễn 3? Cùng chờ đón xem màn thể hiện của các Chị Đẹp nhé!\n\n#ChiDepDapGioReSong #ChiDep #DapGio #SistersWhoMakeWaves #VTVcab #YeaH1 #STVProduction #Onlala #saymee \n\n*Lưu ý: Chương trình có sự đồng hành của Edelweiss và Strongbow, sản phẩm có chứa nồng độ cồn. \n\nSản phẩm này không dành cho phụ nữ mang thai. Đã uống đồ uống có cồn thì không lái xe bạn nhé! \n\nNgười dưới 18 tuổi không được uống rượu, bia\n----------------------------------------------\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Chị Đẹp Đạp Gió Rẽ Sóng 2023 trên: \n\n📍FanPage:   / chidepdapgioresong   \n📍TikTok:   / chidepdapgioresong   \n📍Instagram:   / chidepdapgioresong   \n\nChị Đẹp Đạp Gió Rẽ Sóng là chương trình truyền hình thực tế đáng mong chờ nhất 2023 với sự quy tụ của 30 nữ nghệ sĩ Việt Nam hoạt động nhiều ngành nghề khác nhau trong lĩnh vực giải trí.\n\n\n💃 Các nghệ sĩ góp mặt vào mùa 1 của chương trình, bao gồm: Hồng Nhung, Thu Phương, Lệ Quyên, Mỹ Linh, Lưu Hương Giang, Giang Hồng Ngọc, Khổng Tú Quỳnh, Phương Vy, Uyên Linh, H’Hen Niê, Quỳnh Nga, Phạm Lịch, Trang Pháp, MLee, Thái Trinh, Yến Trang, Thanh Ngọc, Đoan Trang, Diệu Nhi, Ninh Dương Lan Ngọc, Hà Kino, Tú Vi, Hương Ly, Hoàng Oanh, Vân Hugo, Diệp Lâm Anh, Lynk Lee, Nguyên Hà, Bảo Anh, Huyền Baby. \n\n🎞️ Lắng nghe MV Bài hát Chủ đề Nơi Bình Mình Đầy Nắng tại đây: \nNơi Bình Minh Đầy Nắng | MV Ca Khúc Chủ Đề: \"Chị Đẹp Đạp Gió Rẽ Sóng 2023\"\n----------------------------------------------\n📺 Đón xem Chị Đẹp Đạp Gió Rẽ Sóng 2023 phát sóng vào thứ 7 hàng tuần 21h15 trên kênh VTV3 | 21h45 trên YouTube và trên ứng dụng Onlala từ ngày 28/10/2023\n\n© Chương trình Chị Đẹp Đạp Gió Rẽ Sóng thuộc bản quyền của YeaH1 và VTVcab cùng đơn vị sản xuất STV Production",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/chidepdapgioresong",
+          "text": "#ChiDepDapGioReSong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chidep",
+          "text": "#ChiDep"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dapgio",
+          "text": "#DapGio"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/sisterswhomakewaves",
+          "text": "#SistersWhoMakeWaves"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vtvcab",
+          "text": "#VTVcab"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/stvproduction",
+          "text": "#STVProduction"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/onlala",
+          "text": "#Onlala"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saymee",
+          "text": "#saymee"
+        },
+        {
+          "url": "https://www.facebook.com/ChiDepDapGioReSong",
+          "text": "  / chidepdapgioresong  "
+        },
+        {
+          "url": "https://www.tiktok.com/@chidepdapgioresong",
+          "text": "  / chidepdapgioresong  "
+        },
+        {
+          "url": "https://www.instagram.com/chidepdapgioresong/",
+          "text": "  / chidepdapgioresong  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 8,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+      "isMonetized": null,
+      "hashtags": [
+        "#VTVcab",
+        "#YeaH1",
+        "#ChiDepDapGioReSong"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tập 14 | Hồng Nhung hát cải lương cực ngọt, Mỹ Linh đam mê vũ đạo - Chị Đẹp Đạp Gió Rẽ Sóng 2023",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "FZntC9dTYmE",
+      "url": "https://www.youtube.com/watch?v=FZntC9dTYmE&list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A&index=2",
+      "thumbnailUrl": "https://i.ytimg.com/vi/FZntC9dTYmE/maxresdefault.jpg",
+      "viewCount": 2798669,
+      "date": "2024-01-27T14:45:08.000Z",
+      "likes": 36000,
+      "location": null,
+      "channelName": "YEAH1 SHOW",
+      "channelUrl": "https://www.youtube.com/@YEAH1SHOW",
+      "channelUsername": "YEAH1SHOW",
+      "collaborators": null,
+      "channelId": "UCh_zF2FsiCflCPgYDudtcqg",
+      "numberOfSubscribers": 765000,
+      "duration": "01:45:04",
+      "commentsCount": 7245,
+      "text": "Tập 14 | Hồng Nhung hát cải lương cực ngọt, Mỹ Linh đam mê vũ đạo - Chị Đẹp Đạp Gió Rẽ Sóng 2023\nMột quãng đường thật dài với những nỗ lực không tưởng, cống hiến hết mình cho đoạn hành trình tỏa sáng tại Chị Đẹp Đạp Gió Rẽ Sóng đã dần đi đến hồi kết. Những lời tâm sự chất chứa nhiều nỗi niềm dần được bóc tách bởi “chiếc ghế sự thật”.  \n\nTrong đêm “Kỳ diệu dải Ngân hà” tại Chung kết 1, 14 Ứng Cử viên Quán quân sẽ được chia thành đội hình 2 nhóm 3 thành viên và 2 nhóm 5 thành viên cùng 4 bài hát: Đầu Đội Trời Chân Đạp Đất, Ai Cho Tôi Lương Thiện, Mashup Lý Ngựa Ô & Ngựa Ô Thương Nhớ và Mashup Mái Đình Làng Biển & Lý Kéo Chài.\n\nMỗi Chị Đẹp đã sẵn sàng mang đến những tiết mục thăng hoa nhất cho hai đêm Chung kết của Chị Đẹp Đạp Gió Rẽ Sóng 2023. Cùng chờ đón sân khấu Chung kết 1 - Dải Ngân Hà nhé!\n\n\n#ChiDepDapGioReSong #ChiDepDapGioReSong2023 #ChiDep #ChiDep2023 #DapGio #SistersWhoMakeWaves #VTVcab #YeaH1 #STVProduction \n\n----------------------------------------------\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Chị Đẹp Đạp Gió Rẽ Sóng 2023 trên: \n\n📍FanPage: https://www.facebook.com/ChiDepDapGioReSong \n📍TikTok: https://www.tiktok.com/@chidepdapgioresong \n📍Instagram: https://www.instagram.com/chidepdapgioresong/ \n\nChị Đẹp Đạp Gió Rẽ Sóng là chương trình truyền hình thực tế đáng mong chờ nhất 2023 với sự quy tụ của 30 nữ nghệ sĩ Việt Nam hoạt động nhiều ngành nghề khác nhau trong lĩnh vực giải trí.\n\n💃 Các nghệ sĩ góp mặt vào mùa 1 của chương trình, bao gồm: Hồng Nhung, Thu Phương, Lệ Quyên, Mỹ Linh, Lưu Hương Giang, Giang Hồng Ngọc, Khổng Tú Quỳnh, Phương Vy, Uyên Linh, H’Hen Niê, Quỳnh Nga, Phạm Lịch, Trang Pháp, MLee, Thái Trinh, Yến Trang, Thanh Ngọc, Đoan Trang, Diệu Nhi, Ninh Dương Lan Ngọc, Hà Kino, Tú Vi, Hương Ly, Hoàng Oanh, Vân Hugo, Diệp Lâm Anh, Lynk Lee, Nguyên Hà, Bảo Anh, Huyền Baby. \n\n🎞️ Lắng nghe MV Bài hát Chủ đề Nơi Bình Mình Đầy Nắng tại đây: \nNơi Bình Minh Đầy Nắng | MV Ca Khúc Chủ Đề: \"Chị Đẹp Đạp Gió Rẽ Sóng 2023\"\n----------------------------------------------\n📺 Đón xem Chị Đẹp Đạp Gió Rẽ Sóng 2023 phát sóng vào thứ 7 hàng tuần 21h15 trên kênh VTV3 và 21h45 trên YouTube\n\n© Chương trình Chị Đẹp Đạp Gió Rẽ Sóng thuộc bản quyền của YeaH1 và VTVcab cùng đơn vị sản xuất STV Production",
+      "translatedText": "Tập 14 | Hồng Nhung hát cải lương cực ngọt, Mỹ Linh đam mê vũ đạo - Chị Đẹp Đạp Gió Rẽ Sóng 2023\nMột quãng đường thật dài với những nỗ lực không tưởng, cống hiến hết mình cho đoạn hành trình tỏa sáng tại Chị Đẹp Đạp Gió Rẽ Sóng đã dần đi đến hồi kết. Những lời tâm sự chất chứa nhiều nỗi niềm dần được bóc tách bởi “chiếc ghế sự thật”.  \n\nTrong đêm “Kỳ diệu dải Ngân hà” tại Chung kết 1, 14 Ứng Cử viên Quán quân sẽ được chia thành đội hình 2 nhóm 3 thành viên và 2 nhóm 5 thành viên cùng 4 bài hát: Đầu Đội Trời Chân Đạp Đất, Ai Cho Tôi Lương Thiện, Mashup Lý Ngựa Ô & Ngựa Ô Thương Nhớ và Mashup Mái Đình Làng Biển & Lý Kéo Chài.\n\nMỗi Chị Đẹp đã sẵn sàng mang đến những tiết mục thăng hoa nhất cho hai đêm Chung kết của Chị Đẹp Đạp Gió Rẽ Sóng 2023. Cùng chờ đón sân khấu Chung kết 1 - Dải Ngân Hà nhé!\n\n\n#ChiDepDapGioReSong #ChiDepDapGioReSong2023 #ChiDep #ChiDep2023 #DapGio #SistersWhoMakeWaves #VTVcab #YeaH1 #STVProduction \n\n----------------------------------------------\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Chị Đẹp Đạp Gió Rẽ Sóng 2023 trên: \n\n📍FanPage:   / chidepdapgioresong   \n📍TikTok:   / chidepdapgioresong   \n📍Instagram:   / chidepdapgioresong   \n\nChị Đẹp Đạp Gió Rẽ Sóng là chương trình truyền hình thực tế đáng mong chờ nhất 2023 với sự quy tụ của 30 nữ nghệ sĩ Việt Nam hoạt động nhiều ngành nghề khác nhau trong lĩnh vực giải trí.\n\n💃 Các nghệ sĩ góp mặt vào mùa 1 của chương trình, bao gồm: Hồng Nhung, Thu Phương, Lệ Quyên, Mỹ Linh, Lưu Hương Giang, Giang Hồng Ngọc, Khổng Tú Quỳnh, Phương Vy, Uyên Linh, H’Hen Niê, Quỳnh Nga, Phạm Lịch, Trang Pháp, MLee, Thái Trinh, Yến Trang, Thanh Ngọc, Đoan Trang, Diệu Nhi, Ninh Dương Lan Ngọc, Hà Kino, Tú Vi, Hương Ly, Hoàng Oanh, Vân Hugo, Diệp Lâm Anh, Lynk Lee, Nguyên Hà, Bảo Anh, Huyền Baby. \n\n🎞️ Lắng nghe MV Bài hát Chủ đề Nơi Bình Mình Đầy Nắng tại đây: \nNơi Bình Minh Đầy Nắng | MV Ca Khúc Chủ Đề: \"Chị Đẹp Đạp Gió Rẽ Sóng 2023\"\n----------------------------------------------\n📺 Đón xem Chị Đẹp Đạp Gió Rẽ Sóng 2023 phát sóng vào thứ 7 hàng tuần 21h15 trên kênh VTV3 và 21h45 trên YouTube\n\n© Chương trình Chị Đẹp Đạp Gió Rẽ Sóng thuộc bản quyền của YeaH1 và VTVcab cùng đơn vị sản xuất STV Production",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/chidepdapgioresong",
+          "text": "#ChiDepDapGioReSong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chidepdapgioresong2023",
+          "text": "#ChiDepDapGioReSong2023"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chidep",
+          "text": "#ChiDep"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chidep2023",
+          "text": "#ChiDep2023"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dapgio",
+          "text": "#DapGio"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/sisterswhomakewaves",
+          "text": "#SistersWhoMakeWaves"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vtvcab",
+          "text": "#VTVcab"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/stvproduction",
+          "text": "#STVProduction"
+        },
+        {
+          "url": "https://www.facebook.com/ChiDepDapGioReSong",
+          "text": "  / chidepdapgioresong  "
+        },
+        {
+          "url": "https://www.tiktok.com/@chidepdapgioresong",
+          "text": "  / chidepdapgioresong  "
+        },
+        {
+          "url": "https://www.instagram.com/chidepdapgioresong/",
+          "text": "  / chidepdapgioresong  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 1,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+      "isMonetized": null,
+      "hashtags": [
+        "#VTVcab",
+        "#YeaH1",
+        "#ChiDepDapGioReSong"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tập 3 | Chị Đẹp lập nhóm, “thử\" thôi không “thách”? - Chị Đẹp Đạp Gió Rẽ Sóng 2023",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "QtNJYcJCp18",
+      "url": "https://www.youtube.com/watch?v=QtNJYcJCp18&list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A&index=13",
+      "thumbnailUrl": "https://i.ytimg.com/vi/QtNJYcJCp18/maxresdefault.jpg",
+      "viewCount": 3730880,
+      "date": "2023-11-11T14:45:13.000Z",
+      "likes": 41000,
+      "location": null,
+      "channelName": "YEAH1 SHOW",
+      "channelUrl": "https://www.youtube.com/@YEAH1SHOW",
+      "channelUsername": "YEAH1SHOW",
+      "collaborators": null,
+      "channelId": "UCh_zF2FsiCflCPgYDudtcqg",
+      "numberOfSubscribers": 765000,
+      "duration": "01:53:51",
+      "commentsCount": 8812,
+      "text": "Tập 3 | Chị Đẹp lập nhóm, “thử\" thôi không “thách”? - Chị Đẹp Đạp Gió Rẽ Sóng 2023\nTrong tập 3, 11 Chị Đẹp không ứng cử trưởng nhóm tiếp tục thể hiện màu sắc và tài năng của bản thân tại vòng trình diễn cá nhân trước ban cố vấn và những Chị Đẹp còn lại. Qua đó, 5 trưởng nhóm sẽ lộ diện và dẫn dắt các nhóm nhạc để tạo nên những màn trình diễn ấn tượng tại vòng công diễn 1. Từ đây, hành trình “Đạp Gió Rẽ Sóng” của 30 Chị Đẹp mới thật sự bắt đầu!\n\nNhưng 6 ca khúc chỉ có 5 trưởng nhóm? Vậy làm cách nào để tìm ra trưởng nhóm còn lại?\n\n#ChiDepDapGioReSong #ChiDep #DapGio #SistersWhoMakeWaves #VTVcab #YeaH1 #STVProduction #Onlala #saymee \n\n*Lưu ý: Chương trình có sự đồng hành của Edelweiss và Strongbow, sản phẩm có chứa nồng độ cồn. \n\nSản phẩm này không dành cho phụ nữ mang thai. Đã uống đồ uống có cồn thì không lái xe bạn nhé! \n\nNgười dưới 18 tuổi không được uống rượu, bia\n----------------------------------------------\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Chị Đẹp Đạp Gió Rẽ Sóng 2023 trên: \n\n📍FanPage: https://www.facebook.com/ChiDepDapGioReSong \n📍TikTok: https://www.tiktok.com/@chidepdapgioresong \n📍Instagram: https://www.instagram.com/chidepdapgioresong/ \n\nChị Đẹp Đạp Gió Rẽ Sóng là chương trình truyền hình thực tế đáng mong chờ nhất 2023 với sự quy tụ của 30 nữ nghệ sĩ Việt Nam hoạt động nhiều ngành nghề khác nhau trong lĩnh vực giải trí.\n\n\n💃 Các nghệ sĩ góp mặt vào mùa 1 của chương trình, bao gồm: Hồng Nhung, Thu Phương, Lệ Quyên, Mỹ Linh, Lưu Hương Giang, Giang Hồng Ngọc, Khổng Tú Quỳnh, Phương Vy, Uyên Linh, H’Hen Niê, Quỳnh Nga, Phạm Lịch, Trang Pháp, MLee, Thái Trinh, Yến Trang, Thanh Ngọc, Đoan Trang, Diệu Nhi, Ninh Dương Lan Ngọc, Hà Kino, Tú Vi, Hương Ly, Hoàng Oanh, Vân Hugo, Diệp Lâm Anh, Lynk Lee, Nguyên Hà, Bảo Anh, Huyền Baby. \n\n🎞️ Lắng nghe MV Bài hát Chủ đề Nơi Bình Mình Đầy Nắng tại đây: \nNơi Bình Minh Đầy Nắng | MV Ca Khúc Chủ Đề: \"Chị Đẹp Đạp Gió Rẽ Sóng 2023\"\n----------------------------------------------\n📺 Đón xem Chị Đẹp Đạp Gió Rẽ Sóng 2023 phát sóng vào thứ 7 hàng tuần 21h15 trên kênh VTV3 | 21h45 trên YouTube YeaH1 Show và trên ứng dụng Onlala từ ngày 28/10/2023\n\n© Chương trình Chị Đẹp Đạp Gió Rẽ Sóng thuộc bản quyền của YeaH1 và VTVcab cùng đơn vị sản xuất STV Production",
+      "translatedText": "Tập 3 | Chị Đẹp lập nhóm, “thử\" thôi không “thách”? - Chị Đẹp Đạp Gió Rẽ Sóng 2023\nTrong tập 3, 11 Chị Đẹp không ứng cử trưởng nhóm tiếp tục thể hiện màu sắc và tài năng của bản thân tại vòng trình diễn cá nhân trước ban cố vấn và những Chị Đẹp còn lại. Qua đó, 5 trưởng nhóm sẽ lộ diện và dẫn dắt các nhóm nhạc để tạo nên những màn trình diễn ấn tượng tại vòng công diễn 1. Từ đây, hành trình “Đạp Gió Rẽ Sóng” của 30 Chị Đẹp mới thật sự bắt đầu!\n\nNhưng 6 ca khúc chỉ có 5 trưởng nhóm? Vậy làm cách nào để tìm ra trưởng nhóm còn lại?\n\n#ChiDepDapGioReSong #ChiDep #DapGio #SistersWhoMakeWaves #VTVcab #YeaH1 #STVProduction #Onlala #saymee \n\n*Lưu ý: Chương trình có sự đồng hành của Edelweiss và Strongbow, sản phẩm có chứa nồng độ cồn. \n\nSản phẩm này không dành cho phụ nữ mang thai. Đã uống đồ uống có cồn thì không lái xe bạn nhé! \n\nNgười dưới 18 tuổi không được uống rượu, bia\n----------------------------------------------\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Chị Đẹp Đạp Gió Rẽ Sóng 2023 trên: \n\n📍FanPage:   / chidepdapgioresong   \n📍TikTok:   / chidepdapgioresong   \n📍Instagram:   / chidepdapgioresong   \n\nChị Đẹp Đạp Gió Rẽ Sóng là chương trình truyền hình thực tế đáng mong chờ nhất 2023 với sự quy tụ của 30 nữ nghệ sĩ Việt Nam hoạt động nhiều ngành nghề khác nhau trong lĩnh vực giải trí.\n\n\n💃 Các nghệ sĩ góp mặt vào mùa 1 của chương trình, bao gồm: Hồng Nhung, Thu Phương, Lệ Quyên, Mỹ Linh, Lưu Hương Giang, Giang Hồng Ngọc, Khổng Tú Quỳnh, Phương Vy, Uyên Linh, H’Hen Niê, Quỳnh Nga, Phạm Lịch, Trang Pháp, MLee, Thái Trinh, Yến Trang, Thanh Ngọc, Đoan Trang, Diệu Nhi, Ninh Dương Lan Ngọc, Hà Kino, Tú Vi, Hương Ly, Hoàng Oanh, Vân Hugo, Diệp Lâm Anh, Lynk Lee, Nguyên Hà, Bảo Anh, Huyền Baby. \n\n🎞️ Lắng nghe MV Bài hát Chủ đề Nơi Bình Mình Đầy Nắng tại đây: \nNơi Bình Minh Đầy Nắng | MV Ca Khúc Chủ Đề: \"Chị Đẹp Đạp Gió Rẽ Sóng 2023\"\n----------------------------------------------\n📺 Đón xem Chị Đẹp Đạp Gió Rẽ Sóng 2023 phát sóng vào thứ 7 hàng tuần 21h15 trên kênh VTV3 | 21h45 trên YouTube YeaH1 Show và trên ứng dụng Onlala từ ngày 28/10/2023\n\n© Chương trình Chị Đẹp Đạp Gió Rẽ Sóng thuộc bản quyền của YeaH1 và VTVcab cùng đơn vị sản xuất STV Production",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/chidepdapgioresong",
+          "text": "#ChiDepDapGioReSong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chidep",
+          "text": "#ChiDep"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dapgio",
+          "text": "#DapGio"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/sisterswhomakewaves",
+          "text": "#SistersWhoMakeWaves"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vtvcab",
+          "text": "#VTVcab"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/stvproduction",
+          "text": "#STVProduction"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/onlala",
+          "text": "#Onlala"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saymee",
+          "text": "#saymee"
+        },
+        {
+          "url": "https://www.facebook.com/ChiDepDapGioReSong",
+          "text": "  / chidepdapgioresong  "
+        },
+        {
+          "url": "https://www.tiktok.com/@chidepdapgioresong",
+          "text": "  / chidepdapgioresong  "
+        },
+        {
+          "url": "https://www.instagram.com/chidepdapgioresong/",
+          "text": "  / chidepdapgioresong  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 12,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+      "isMonetized": null,
+      "hashtags": [
+        "#VTVcab",
+        "#YeaH1",
+        "#ChiDepDapGioReSong"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tập 11 | 3 Anh Tài BIGDADDY, MONO và Tăng Duy Tân cực cháy tại Công 4 - Chị Đẹp Đạp Gió Rẽ Sóng 2023",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "ErXWrG0vPd4",
+      "url": "https://www.youtube.com/watch?v=ErXWrG0vPd4&list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A&index=5",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ErXWrG0vPd4/maxresdefault.jpg",
+      "viewCount": 3948160,
+      "date": "2024-01-06T14:45:13.000Z",
+      "likes": 41000,
+      "location": null,
+      "channelName": "YEAH1 SHOW",
+      "channelUrl": "https://www.youtube.com/@YEAH1SHOW",
+      "channelUsername": "YEAH1SHOW",
+      "collaborators": null,
+      "channelId": "UCh_zF2FsiCflCPgYDudtcqg",
+      "numberOfSubscribers": 765000,
+      "duration": "02:21:38",
+      "commentsCount": 11401,
+      "text": "Tập 11 | 3 Anh Tài BIGDADDY, MONO và Tăng Duy Tân cực cháy tại Công 4 - Chị Đẹp Đạp Gió Rẽ Sóng 2023\nỞ Công diễn 4, khán giả sẽ được trải nghiệm những màn trình diễn bùng nổ trên sân khấu nước, kết hợp cùng bàn xoay 360 độ và màn hình LED cong đặc sắc. Mỗi Chị Đẹp sẽ phải bức phá và vượt khỏi giới hạn an toàn để có thể hoàn thành chủ đề của đêm Công diễn - Đi Tìm Hạnh Phúc, gồm 3 tiết mục: Mashup Đóa Hoa Hồng & Cánh Hồng Phai, Hương Ngọc Lan, Mashup Hoa Nở Không Màu & Bông Hoa Đẹp Nhất. \n\nĐặc biệt, phần trình diễn với khách mời nam trong nhóm Anh Tài: BIGDADDY, Tăng Duy Tân và MONO được trông đợi nhất tuần qua đã chính thức diễn ra với các bản hit đình đám: Mượn Rượu Tỏ Tình, Mashup Tình Đầu & Cắt Đôi Nỗi Sầu, Em Xinh. Liệu màn kết hợp nào sẽ chiếm trọn trái tim của khán giả? \n\nKết thúc đêm Công diễn 4, 3 Chị Đẹp nào phải tạm dừng chân và nói lời chia tay với chương trình? Nhóm nào sẽ an toàn, thăng cấp vào vòng tiếp theo và góp mặt vào hai đội hình Ứng cử viên Quán Quân?\n\n#ChiDepDapGioReSong #ChiDepDapGioReSong2023 #ChiDep #ChiDep2023 #DapGio #SistersWhoMakeWaves #VTVcab #YeaH1 #STVProduction \n\n*Lưu ý: Chương trình có sự đồng hành của Edelweiss và Strongbow, sản phẩm có chứa nồng độ cồn. \nSản phẩm này không dành cho phụ nữ mang thai. Đã uống đồ uống có cồn thì không lái xe bạn nhé! \nNgười dưới 18 tuổi không được uống rượu, bia.\n\n----------------------------------------------\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Chị Đẹp Đạp Gió Rẽ Sóng 2023 trên: \n\n📍FanPage: https://www.facebook.com/ChiDepDapGioReSong \n📍TikTok: https://www.tiktok.com/@chidepdapgioresong \n📍Instagram: https://www.instagram.com/chidepdapgioresong/ \n\nChị Đẹp Đạp Gió Rẽ Sóng là chương trình truyền hình thực tế đáng mong chờ nhất 2023 với sự quy tụ của 30 nữ nghệ sĩ Việt Nam hoạt động nhiều ngành nghề khác nhau trong lĩnh vực giải trí.\n\n💃 Các nghệ sĩ góp mặt vào mùa 1 của chương trình, bao gồm: Hồng Nhung, Thu Phương, Lệ Quyên, Mỹ Linh, Lưu Hương Giang, Giang Hồng Ngọc, Khổng Tú Quỳnh, Phương Vy, Uyên Linh, H’Hen Niê, Quỳnh Nga, Phạm Lịch, Trang Pháp, MLee, Thái Trinh, Yến Trang, Thanh Ngọc, Đoan Trang, Diệu Nhi, Ninh Dương Lan Ngọc, Hà Kino, Tú Vi, Hương Ly, Hoàng Oanh, Vân Hugo, Diệp Lâm Anh, Lynk Lee, Nguyên Hà, Bảo Anh, Huyền Baby. \n\n🎞️ Lắng nghe MV Bài hát Chủ đề Nơi Bình Mình Đầy Nắng tại đây: \nNơi Bình Minh Đầy Nắng | MV Ca Khúc Chủ Đề: \"Chị Đẹp Đạp Gió Rẽ Sóng 2023\"\n----------------------------------------------\n📺 Đón xem Chị Đẹp Đạp Gió Rẽ Sóng 2023 phát sóng vào thứ 7 hàng tuần 21h15 trên kênh VTV3 và 21h45 trên YouTube\n\n© Chương trình Chị Đẹp Đạp Gió Rẽ Sóng thuộc bản quyền của YeaH1 và VTVcab cùng đơn vị sản xuất STV Production",
+      "translatedText": "Tập 11 | 3 Anh Tài BIGDADDY, MONO và Tăng Duy Tân cực cháy tại Công 4 - Chị Đẹp Đạp Gió Rẽ Sóng 2023\nỞ Công diễn 4, khán giả sẽ được trải nghiệm những màn trình diễn bùng nổ trên sân khấu nước, kết hợp cùng bàn xoay 360 độ và màn hình LED cong đặc sắc. Mỗi Chị Đẹp sẽ phải bức phá và vượt khỏi giới hạn an toàn để có thể hoàn thành chủ đề của đêm Công diễn - Đi Tìm Hạnh Phúc, gồm 3 tiết mục: Mashup Đóa Hoa Hồng & Cánh Hồng Phai, Hương Ngọc Lan, Mashup Hoa Nở Không Màu & Bông Hoa Đẹp Nhất. \n\nĐặc biệt, phần trình diễn với khách mời nam trong nhóm Anh Tài: BIGDADDY, Tăng Duy Tân và MONO được trông đợi nhất tuần qua đã chính thức diễn ra với các bản hit đình đám: Mượn Rượu Tỏ Tình, Mashup Tình Đầu & Cắt Đôi Nỗi Sầu, Em Xinh. Liệu màn kết hợp nào sẽ chiếm trọn trái tim của khán giả? \n\nKết thúc đêm Công diễn 4, 3 Chị Đẹp nào phải tạm dừng chân và nói lời chia tay với chương trình? Nhóm nào sẽ an toàn, thăng cấp vào vòng tiếp theo và góp mặt vào hai đội hình Ứng cử viên Quán Quân?\n\n#ChiDepDapGioReSong #ChiDepDapGioReSong2023 #ChiDep #ChiDep2023 #DapGio #SistersWhoMakeWaves #VTVcab #YeaH1 #STVProduction \n\n*Lưu ý: Chương trình có sự đồng hành của Edelweiss và Strongbow, sản phẩm có chứa nồng độ cồn. \nSản phẩm này không dành cho phụ nữ mang thai. Đã uống đồ uống có cồn thì không lái xe bạn nhé! \nNgười dưới 18 tuổi không được uống rượu, bia.\n\n----------------------------------------------\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Chị Đẹp Đạp Gió Rẽ Sóng 2023 trên: \n\n📍FanPage:   / chidepdapgioresong   \n📍TikTok:   / chidepdapgioresong   \n📍Instagram:   / chidepdapgioresong   \n\nChị Đẹp Đạp Gió Rẽ Sóng là chương trình truyền hình thực tế đáng mong chờ nhất 2023 với sự quy tụ của 30 nữ nghệ sĩ Việt Nam hoạt động nhiều ngành nghề khác nhau trong lĩnh vực giải trí.\n\n💃 Các nghệ sĩ góp mặt vào mùa 1 của chương trình, bao gồm: Hồng Nhung, Thu Phương, Lệ Quyên, Mỹ Linh, Lưu Hương Giang, Giang Hồng Ngọc, Khổng Tú Quỳnh, Phương Vy, Uyên Linh, H’Hen Niê, Quỳnh Nga, Phạm Lịch, Trang Pháp, MLee, Thái Trinh, Yến Trang, Thanh Ngọc, Đoan Trang, Diệu Nhi, Ninh Dương Lan Ngọc, Hà Kino, Tú Vi, Hương Ly, Hoàng Oanh, Vân Hugo, Diệp Lâm Anh, Lynk Lee, Nguyên Hà, Bảo Anh, Huyền Baby. \n\n🎞️ Lắng nghe MV Bài hát Chủ đề Nơi Bình Mình Đầy Nắng tại đây: \nNơi Bình Minh Đầy Nắng | MV Ca Khúc Chủ Đề: \"Chị Đẹp Đạp Gió Rẽ Sóng 2023\"\n----------------------------------------------\n📺 Đón xem Chị Đẹp Đạp Gió Rẽ Sóng 2023 phát sóng vào thứ 7 hàng tuần 21h15 trên kênh VTV3 và 21h45 trên YouTube\n\n© Chương trình Chị Đẹp Đạp Gió Rẽ Sóng thuộc bản quyền của YeaH1 và VTVcab cùng đơn vị sản xuất STV Production",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/chidepdapgioresong",
+          "text": "#ChiDepDapGioReSong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chidepdapgioresong2023",
+          "text": "#ChiDepDapGioReSong2023"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chidep",
+          "text": "#ChiDep"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chidep2023",
+          "text": "#ChiDep2023"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dapgio",
+          "text": "#DapGio"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/sisterswhomakewaves",
+          "text": "#SistersWhoMakeWaves"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vtvcab",
+          "text": "#VTVcab"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/stvproduction",
+          "text": "#STVProduction"
+        },
+        {
+          "url": "https://www.facebook.com/ChiDepDapGioReSong",
+          "text": "  / chidepdapgioresong  "
+        },
+        {
+          "url": "https://www.tiktok.com/@chidepdapgioresong",
+          "text": "  / chidepdapgioresong  "
+        },
+        {
+          "url": "https://www.instagram.com/chidepdapgioresong/",
+          "text": "  / chidepdapgioresong  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 4,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+      "isMonetized": null,
+      "hashtags": [
+        "#VTVcab",
+        "#YeaH1",
+        "#ChiDepDapGioReSong"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tập 12 | Thanh Ngọc mang lửa lên sân khấu, Quỳnh Nga mạo hiểm đu vòng - Chị Đẹp Đạp Gió Rẽ Sóng 2023",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "IH6ocKZb7DY",
+      "url": "https://www.youtube.com/watch?v=IH6ocKZb7DY&list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A&index=4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/IH6ocKZb7DY/maxresdefault.jpg",
+      "viewCount": 3493803,
+      "date": "2024-01-13T14:45:11.000Z",
+      "likes": 37000,
+      "location": null,
+      "channelName": "YEAH1 SHOW",
+      "channelUrl": "https://www.youtube.com/@YEAH1SHOW",
+      "channelUsername": "YEAH1SHOW",
+      "collaborators": null,
+      "channelId": "UCh_zF2FsiCflCPgYDudtcqg",
+      "numberOfSubscribers": 765000,
+      "duration": "02:08:20",
+      "commentsCount": 11633,
+      "text": "Tập 12 | Thanh Ngọc mang lửa lên sân khấu, Quỳnh Nga mạo hiểm đu vòng - Chị Đẹp Đạp Gió Rẽ Sóng 2023\n\nChào đón sự trở lại của Nhóm Hồi sinh gồm 7 Chị Đẹp: Quỳnh Nga, Nguyên Hà, Thanh Ngọc, Hương Ly, Đoan Trang, Tú Vi và Hà Kino. Bước vào Công diễn 5, các Chị Đẹp phải đối diện với những thử thách nước rút để đến với Chung kết của chương trình. Mỗi nhóm Chị Đẹp sẽ trình diễn một ca khúc nhóm, và mỗi thành viên trong nhóm sẽ trình diễn một ca khúc cá nhân. \n\nTheo đó, danh sách các ca khúc trình diễn nhóm là: Mashup Tìm Lại & Chưa Bao Giờ,  Mashup Diễm Xưa & Đại Minh Tinh, Mashup Tìm Lại Giấc Mơ & Walk Away. 7 ca khúc đối kháng cá nhân bao gồm: Anh, Em Gái Mưa, Như Một Giấc Mơ, Đường Cong, Mây và Núi, Đường Cong, Đã Không Yêu Thì Thôi, Đấu nhảy.\n\nCùng chờ đón những sân khấu bùng nổ của các Chị Đẹp tại Công diễn 5 - Nguyệt Thực nhé!\n\n#ChiDepDapGioReSong #ChiDepDapGioReSong2023 #ChiDep #ChiDep2023 #DapGio #SistersWhoMakeWaves #VTVcab #YeaH1 #STVProduction \n\n*Lưu ý: Chương trình có sự đồng hành của Edelweiss và Strongbow, sản phẩm có chứa nồng độ cồn. \nSản phẩm này không dành cho phụ nữ mang thai. Đã uống đồ uống có cồn thì không lái xe bạn nhé! \nNgười dưới 18 tuổi không được uống rượu, bia.\n\n----------------------------------------------\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Chị Đẹp Đạp Gió Rẽ Sóng 2023 trên: \n\n📍FanPage: https://www.facebook.com/ChiDepDapGioReSong \n📍TikTok: https://www.tiktok.com/@chidepdapgioresong \n📍Instagram: https://www.instagram.com/chidepdapgioresong/ \n\nChị Đẹp Đạp Gió Rẽ Sóng là chương trình truyền hình thực tế đáng mong chờ nhất 2023 với sự quy tụ của 30 nữ nghệ sĩ Việt Nam hoạt động nhiều ngành nghề khác nhau trong lĩnh vực giải trí.\n\n💃 Các nghệ sĩ góp mặt vào mùa 1 của chương trình, bao gồm: Hồng Nhung, Thu Phương, Lệ Quyên, Mỹ Linh, Lưu Hương Giang, Giang Hồng Ngọc, Khổng Tú Quỳnh, Phương Vy, Uyên Linh, H’Hen Niê, Quỳnh Nga, Phạm Lịch, Trang Pháp, MLee, Thái Trinh, Yến Trang, Thanh Ngọc, Đoan Trang, Diệu Nhi, Ninh Dương Lan Ngọc, Hà Kino, Tú Vi, Hương Ly, Hoàng Oanh, Vân Hugo, Diệp Lâm Anh, Lynk Lee, Nguyên Hà, Bảo Anh, Huyền Baby. \n\n🎞️ Lắng nghe MV Bài hát Chủ đề Nơi Bình Mình Đầy Nắng tại đây: \nhttps://www.youtube.com/watch?v=73e5K_lCbHI\n----------------------------------------------\n📺 Đón xem Chị Đẹp Đạp Gió Rẽ Sóng 2023 phát sóng vào thứ 7 hàng tuần 21h15 trên kênh VTV3 và 21h45 trên YouTube\n\n© Chương trình Chị Đẹp Đạp Gió Rẽ Sóng thuộc bản quyền của YeaH1 và VTVcab cùng đơn vị sản xuất STV Production",
+      "translatedText": "Tập 12 | Thanh Ngọc mang lửa lên sân khấu, Quỳnh Nga mạo hiểm đu vòng - Chị Đẹp Đạp Gió Rẽ Sóng 2023\n\nChào đón sự trở lại của Nhóm Hồi sinh gồm 7 Chị Đẹp: Quỳnh Nga, Nguyên Hà, Thanh Ngọc, Hương Ly, Đoan Trang, Tú Vi và Hà Kino. Bước vào Công diễn 5, các Chị Đẹp phải đối diện với những thử thách nước rút để đến với Chung kết của chương trình. Mỗi nhóm Chị Đẹp sẽ trình diễn một ca khúc nhóm, và mỗi thành viên trong nhóm sẽ trình diễn một ca khúc cá nhân. \n\nTheo đó, danh sách các ca khúc trình diễn nhóm là: Mashup Tìm Lại & Chưa Bao Giờ,  Mashup Diễm Xưa & Đại Minh Tinh, Mashup Tìm Lại Giấc Mơ & Walk Away. 7 ca khúc đối kháng cá nhân bao gồm: Anh, Em Gái Mưa, Như Một Giấc Mơ, Đường Cong, Mây và Núi, Đường Cong, Đã Không Yêu Thì Thôi, Đấu nhảy.\n\nCùng chờ đón những sân khấu bùng nổ của các Chị Đẹp tại Công diễn 5 - Nguyệt Thực nhé!\n\n#ChiDepDapGioReSong #ChiDepDapGioReSong2023 #ChiDep #ChiDep2023 #DapGio #SistersWhoMakeWaves #VTVcab #YeaH1 #STVProduction \n\n*Lưu ý: Chương trình có sự đồng hành của Edelweiss và Strongbow, sản phẩm có chứa nồng độ cồn. \nSản phẩm này không dành cho phụ nữ mang thai. Đã uống đồ uống có cồn thì không lái xe bạn nhé! \nNgười dưới 18 tuổi không được uống rượu, bia.\n\n----------------------------------------------\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Chị Đẹp Đạp Gió Rẽ Sóng 2023 trên: \n\n📍FanPage:   / chidepdapgioresong   \n📍TikTok:   / chidepdapgioresong   \n📍Instagram:   / chidepdapgioresong   \n\nChị Đẹp Đạp Gió Rẽ Sóng là chương trình truyền hình thực tế đáng mong chờ nhất 2023 với sự quy tụ của 30 nữ nghệ sĩ Việt Nam hoạt động nhiều ngành nghề khác nhau trong lĩnh vực giải trí.\n\n💃 Các nghệ sĩ góp mặt vào mùa 1 của chương trình, bao gồm: Hồng Nhung, Thu Phương, Lệ Quyên, Mỹ Linh, Lưu Hương Giang, Giang Hồng Ngọc, Khổng Tú Quỳnh, Phương Vy, Uyên Linh, H’Hen Niê, Quỳnh Nga, Phạm Lịch, Trang Pháp, MLee, Thái Trinh, Yến Trang, Thanh Ngọc, Đoan Trang, Diệu Nhi, Ninh Dương Lan Ngọc, Hà Kino, Tú Vi, Hương Ly, Hoàng Oanh, Vân Hugo, Diệp Lâm Anh, Lynk Lee, Nguyên Hà, Bảo Anh, Huyền Baby. \n\n🎞️ Lắng nghe MV Bài hát Chủ đề Nơi Bình Mình Đầy Nắng tại đây: \n   • Nơi Bình Minh Đầy Nắng | MV Ca Khúc Chủ Đề...  \n----------------------------------------------\n📺 Đón xem Chị Đẹp Đạp Gió Rẽ Sóng 2023 phát sóng vào thứ 7 hàng tuần 21h15 trên kênh VTV3 và 21h45 trên YouTube\n\n© Chương trình Chị Đẹp Đạp Gió Rẽ Sóng thuộc bản quyền của YeaH1 và VTVcab cùng đơn vị sản xuất STV Production",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/chidepdapgioresong",
+          "text": "#ChiDepDapGioReSong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chidepdapgioresong2023",
+          "text": "#ChiDepDapGioReSong2023"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chidep",
+          "text": "#ChiDep"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chidep2023",
+          "text": "#ChiDep2023"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dapgio",
+          "text": "#DapGio"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/sisterswhomakewaves",
+          "text": "#SistersWhoMakeWaves"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vtvcab",
+          "text": "#VTVcab"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/stvproduction",
+          "text": "#STVProduction"
+        },
+        {
+          "url": "https://www.facebook.com/ChiDepDapGioReSong",
+          "text": "  / chidepdapgioresong  "
+        },
+        {
+          "url": "https://www.tiktok.com/@chidepdapgioresong",
+          "text": "  / chidepdapgioresong  "
+        },
+        {
+          "url": "https://www.instagram.com/chidepdapgioresong/",
+          "text": "  / chidepdapgioresong  "
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=73e5K_lCbHI&pp=0gcJCR0AztywvtLA",
+          "text": "   • Nơi Bình Minh Đầy Nắng | MV Ca Khúc Chủ Đề...  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 3,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+      "isMonetized": null,
+      "hashtags": [
+        "#VTVcab",
+        "#YeaH1",
+        "#ChiDepDapGioReSong"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tập 10 | Hồng Nhung ke đầu, Mỹ Linh nhảy hiphop khi 3 Anh Tài đổ bộ - Chị Đẹp Đạp Gió Rẽ Sóng 2023",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "JTOz0uIPccI",
+      "url": "https://www.youtube.com/watch?v=JTOz0uIPccI&list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A&index=6",
+      "thumbnailUrl": "https://i.ytimg.com/vi/JTOz0uIPccI/maxresdefault.jpg",
+      "viewCount": 3005355,
+      "date": "2023-12-30T14:45:12.000Z",
+      "likes": 32000,
+      "location": null,
+      "channelName": "YEAH1 SHOW",
+      "channelUrl": "https://www.youtube.com/@YEAH1SHOW",
+      "channelUsername": "YEAH1SHOW",
+      "collaborators": null,
+      "channelId": "UCh_zF2FsiCflCPgYDudtcqg",
+      "numberOfSubscribers": 765000,
+      "duration": "02:03:21",
+      "commentsCount": 6814,
+      "text": "Tập 10 | Hồng Nhung ke đầu, Mỹ Linh nhảy hiphop khi 3 Anh Tài đổ bộ - Chị Đẹp Đạp Gió Rẽ Sóng 2023\nTập 10 Chị Đẹp Đạp Gió Rẽ Sóng sẽ là \"Nhà chung cuối cùng\" của các Chị Đẹp, những bữa cơm, những giấc ngủ, những lần sinh hoạt cùng nhau... sẽ chính thức khép lại ở tập này để chuẩn bị cho chặng hành trình sắp tới đầy cam go hơn.\n\nBên cạnh đó, các Chị Đẹp sẽ tiếp tục chọn đội cho Công diễn 4 và tiếp tục hé lộ những bất ngờ, thách thức mới trong quá trình tập luyện nhằm tạo ra tiết mục bùng nổ.\n\n17 Chị Đẹp sẽ lập thành 3 nhóm, gồm 2 nhóm 5 và 1 nhóm 7. Những ca khúc mà các Chị Đẹp sẽ phải lựa chọn, trình diễn và làm mới tại Công diễn 4 - Đi Tìm Hạnh Phúc lần lượt là: Hương Ngọc Lan, Hoa Nở Không Màu, Bông Hoa Đẹp Nhất, Đóa Hoa Hồng và Cánh Hồng Phai. Ở Công diễn này, mỗi nhóm Chị Đẹp sẽ phải trình diễn 2 tiết mục, một tiết mục nhóm và một tiết mục trình diễn với khách mời nam trong nhóm Anh Tài: BIGDADDY, Tăng Duy Tân và MONO.\n\nLiệu nhóm Anh Tài sẽ đem đến thử thách gì cho các Chị Đẹp?\n\n#ChiDepDapGioReSong #ChiDepDapGioReSong2023 #ChiDep #ChiDep2023 #DapGio #SistersWhoMakeWaves #VTVcab #YeaH1 #STVProduction \n\n*Lưu ý: Chương trình có sự đồng hành của Edelweiss và Strongbow, sản phẩm có chứa nồng độ cồn. \nSản phẩm này không dành cho phụ nữ mang thai. Đã uống đồ uống có cồn thì không lái xe bạn nhé! \nNgười dưới 18 tuổi không được uống rượu, bia.\n\n----------------------------------------------\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Chị Đẹp Đạp Gió Rẽ Sóng 2023 trên: \n\n📍FanPage: https://www.facebook.com/ChiDepDapGioReSong \n📍TikTok: https://www.tiktok.com/@chidepdapgioresong \n📍Instagram: https://www.instagram.com/chidepdapgioresong/ \n\nChị Đẹp Đạp Gió Rẽ Sóng là chương trình truyền hình thực tế đáng mong chờ nhất 2023 với sự quy tụ của 30 nữ nghệ sĩ Việt Nam hoạt động nhiều ngành nghề khác nhau trong lĩnh vực giải trí.\n\n💃 Các nghệ sĩ góp mặt vào mùa 1 của chương trình, bao gồm: Hồng Nhung, Thu Phương, Lệ Quyên, Mỹ Linh, Lưu Hương Giang, Giang Hồng Ngọc, Khổng Tú Quỳnh, Phương Vy, Uyên Linh, H’Hen Niê, Quỳnh Nga, Phạm Lịch, Trang Pháp, MLee, Thái Trinh, Yến Trang, Thanh Ngọc, Đoan Trang, Diệu Nhi, Ninh Dương Lan Ngọc, Hà Kino, Tú Vi, Hương Ly, Hoàng Oanh, Vân Hugo, Diệp Lâm Anh, Lynk Lee, Nguyên Hà, Bảo Anh, Huyền Baby. \n\n🎞️ Lắng nghe MV Bài hát Chủ đề Nơi Bình Mình Đầy Nắng tại đây: \nNơi Bình Minh Đầy Nắng | MV Ca Khúc Chủ Đề: \"Chị Đẹp Đạp Gió Rẽ Sóng 2023\"\n----------------------------------------------\n📺 Đón xem Chị Đẹp Đạp Gió Rẽ Sóng 2023 phát sóng vào thứ 7 hàng tuần 21h15 trên kênh VTV3 và 21h45 trên YouTube\n\n© Chương trình Chị Đẹp Đạp Gió Rẽ Sóng thuộc bản quyền của YeaH1 và VTVcab cùng đơn vị sản xuất STV Production",
+      "translatedText": "Tập 10 | Hồng Nhung ke đầu, Mỹ Linh nhảy hiphop khi 3 Anh Tài đổ bộ - Chị Đẹp Đạp Gió Rẽ Sóng 2023\nTập 10 Chị Đẹp Đạp Gió Rẽ Sóng sẽ là \"Nhà chung cuối cùng\" của các Chị Đẹp, những bữa cơm, những giấc ngủ, những lần sinh hoạt cùng nhau... sẽ chính thức khép lại ở tập này để chuẩn bị cho chặng hành trình sắp tới đầy cam go hơn.\n\nBên cạnh đó, các Chị Đẹp sẽ tiếp tục chọn đội cho Công diễn 4 và tiếp tục hé lộ những bất ngờ, thách thức mới trong quá trình tập luyện nhằm tạo ra tiết mục bùng nổ.\n\n17 Chị Đẹp sẽ lập thành 3 nhóm, gồm 2 nhóm 5 và 1 nhóm 7. Những ca khúc mà các Chị Đẹp sẽ phải lựa chọn, trình diễn và làm mới tại Công diễn 4 - Đi Tìm Hạnh Phúc lần lượt là: Hương Ngọc Lan, Hoa Nở Không Màu, Bông Hoa Đẹp Nhất, Đóa Hoa Hồng và Cánh Hồng Phai. Ở Công diễn này, mỗi nhóm Chị Đẹp sẽ phải trình diễn 2 tiết mục, một tiết mục nhóm và một tiết mục trình diễn với khách mời nam trong nhóm Anh Tài: BIGDADDY, Tăng Duy Tân và MONO.\n\nLiệu nhóm Anh Tài sẽ đem đến thử thách gì cho các Chị Đẹp?\n\n#ChiDepDapGioReSong #ChiDepDapGioReSong2023 #ChiDep #ChiDep2023 #DapGio #SistersWhoMakeWaves #VTVcab #YeaH1 #STVProduction \n\n*Lưu ý: Chương trình có sự đồng hành của Edelweiss và Strongbow, sản phẩm có chứa nồng độ cồn. \nSản phẩm này không dành cho phụ nữ mang thai. Đã uống đồ uống có cồn thì không lái xe bạn nhé! \nNgười dưới 18 tuổi không được uống rượu, bia.\n\n----------------------------------------------\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Chị Đẹp Đạp Gió Rẽ Sóng 2023 trên: \n\n📍FanPage:   / chidepdapgioresong   \n📍TikTok:   / chidepdapgioresong   \n📍Instagram:   / chidepdapgioresong   \n\nChị Đẹp Đạp Gió Rẽ Sóng là chương trình truyền hình thực tế đáng mong chờ nhất 2023 với sự quy tụ của 30 nữ nghệ sĩ Việt Nam hoạt động nhiều ngành nghề khác nhau trong lĩnh vực giải trí.\n\n💃 Các nghệ sĩ góp mặt vào mùa 1 của chương trình, bao gồm: Hồng Nhung, Thu Phương, Lệ Quyên, Mỹ Linh, Lưu Hương Giang, Giang Hồng Ngọc, Khổng Tú Quỳnh, Phương Vy, Uyên Linh, H’Hen Niê, Quỳnh Nga, Phạm Lịch, Trang Pháp, MLee, Thái Trinh, Yến Trang, Thanh Ngọc, Đoan Trang, Diệu Nhi, Ninh Dương Lan Ngọc, Hà Kino, Tú Vi, Hương Ly, Hoàng Oanh, Vân Hugo, Diệp Lâm Anh, Lynk Lee, Nguyên Hà, Bảo Anh, Huyền Baby. \n\n🎞️ Lắng nghe MV Bài hát Chủ đề Nơi Bình Mình Đầy Nắng tại đây: \nNơi Bình Minh Đầy Nắng | MV Ca Khúc Chủ Đề: \"Chị Đẹp Đạp Gió Rẽ Sóng 2023\"\n----------------------------------------------\n📺 Đón xem Chị Đẹp Đạp Gió Rẽ Sóng 2023 phát sóng vào thứ 7 hàng tuần 21h15 trên kênh VTV3 và 21h45 trên YouTube\n\n© Chương trình Chị Đẹp Đạp Gió Rẽ Sóng thuộc bản quyền của YeaH1 và VTVcab cùng đơn vị sản xuất STV Production",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/chidepdapgioresong",
+          "text": "#ChiDepDapGioReSong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chidepdapgioresong2023",
+          "text": "#ChiDepDapGioReSong2023"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chidep",
+          "text": "#ChiDep"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chidep2023",
+          "text": "#ChiDep2023"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dapgio",
+          "text": "#DapGio"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/sisterswhomakewaves",
+          "text": "#SistersWhoMakeWaves"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vtvcab",
+          "text": "#VTVcab"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/stvproduction",
+          "text": "#STVProduction"
+        },
+        {
+          "url": "https://www.facebook.com/ChiDepDapGioReSong",
+          "text": "  / chidepdapgioresong  "
+        },
+        {
+          "url": "https://www.tiktok.com/@chidepdapgioresong",
+          "text": "  / chidepdapgioresong  "
+        },
+        {
+          "url": "https://www.instagram.com/chidepdapgioresong/",
+          "text": "  / chidepdapgioresong  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 5,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+      "isMonetized": null,
+      "hashtags": [
+        "#VTVcab",
+        "#YeaH1",
+        "#ChiDepDapGioReSong"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tập 6 | Thử thách luyện tập và hóa trang, Hồng Nhung bỗng \"hồi teen\"? - Chị Đẹp Đạp Gió Rẽ Sóng 2023",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "iGJjD9CT3tQ",
+      "url": "https://www.youtube.com/watch?v=iGJjD9CT3tQ&list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A&index=10",
+      "thumbnailUrl": "https://i.ytimg.com/vi/iGJjD9CT3tQ/maxresdefault.jpg",
+      "viewCount": 2723263,
+      "date": "2023-12-02T14:45:10.000Z",
+      "likes": 29000,
+      "location": null,
+      "channelName": "YEAH1 SHOW",
+      "channelUrl": "https://www.youtube.com/@YEAH1SHOW",
+      "channelUsername": "YEAH1SHOW",
+      "collaborators": null,
+      "channelId": "UCh_zF2FsiCflCPgYDudtcqg",
+      "numberOfSubscribers": 765000,
+      "duration": "01:55:01",
+      "commentsCount": 4329,
+      "text": "Tập 6 | Thử thách luyện tập và hóa trang, Hồng Nhung bỗng \"hồi teen\"? - Chị Đẹp Đạp Gió Rẽ Sóng 2023\nSau những tiết mục bùng nổ của Công diễn 1, chân dung của 6 nhóm nhạc mới lại được hình thành. Các Chị Đẹp tiếp tục cùng nhau sinh hoạt, tập luyện và đối mặt với những khó khăn về cả thanh nhạc lẫn vũ đạo trong Công diễn 2. Bên cạnh đó, các Chị Đẹp còn bất ngờ gặp phải thử thách hóa trang thành người thân, người quan trọng đối với mình và nói ra những lời cảm ơn, xin lỗi chưa từng bộc lộ.\n\nGiống như lực hấp dẫn từ Mặt trăng tác động một phần gây nên Thuỷ triều, như mỗi con người, đều có những nỗi lòng ít khi nhắc tới. Phải đến khi gọi tên, những con sóng thuỷ triều mới trào dâng mạnh mẽ. Công 2 của chương trình với chủ đề “Thủy triều\" sẽ mở ra những đề tài nhỏ về gia đình, những giấc mơ tạm gác, những thứ tưởng chừng như rất nhỏ nhặt, quen thuộc mà các Chị Đẹp đã từng quên.\n\n#ChiDepDapGioReSong #ChiDep #DapGio #SistersWhoMakeWaves #VTVcab #YeaH1 #STVProduction #Onlala #saymee \n\n*Lưu ý: Chương trình có sự đồng hành của Edelweiss và Strongbow, sản phẩm có chứa nồng độ cồn. \n\nSản phẩm này không dành cho phụ nữ mang thai. Đã uống đồ uống có cồn thì không lái xe bạn nhé! \n\nNgười dưới 18 tuổi không được uống rượu, bia\n----------------------------------------------\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Chị Đẹp Đạp Gió Rẽ Sóng 2023 trên: \n\n📍FanPage: https://www.facebook.com/ChiDepDapGioReSong \n📍TikTok: https://www.tiktok.com/@chidepdapgioresong \n📍Instagram: https://www.instagram.com/chidepdapgioresong/ \n\nChị Đẹp Đạp Gió Rẽ Sóng là chương trình truyền hình thực tế đáng mong chờ nhất 2023 với sự quy tụ của 30 nữ nghệ sĩ Việt Nam hoạt động nhiều ngành nghề khác nhau trong lĩnh vực giải trí.\n\n💃 Các nghệ sĩ góp mặt vào mùa 1 của chương trình, bao gồm: Hồng Nhung, Thu Phương, Lệ Quyên, Mỹ Linh, Lưu Hương Giang, Giang Hồng Ngọc, Khổng Tú Quỳnh, Phương Vy, Uyên Linh, H’Hen Niê, Quỳnh Nga, Phạm Lịch, Trang Pháp, MLee, Thái Trinh, Yến Trang, Thanh Ngọc, Đoan Trang, Diệu Nhi, Ninh Dương Lan Ngọc, Hà Kino, Tú Vi, Hương Ly, Hoàng Oanh, Vân Hugo, Diệp Lâm Anh, Lynk Lee, Nguyên Hà, Bảo Anh, Huyền Baby. \n\n🎞️ Lắng nghe MV Bài hát Chủ đề Nơi Bình Mình Đầy Nắng tại đây: \nNơi Bình Minh Đầy Nắng | MV Ca Khúc Chủ Đề: \"Chị Đẹp Đạp Gió Rẽ Sóng 2023\"\n----------------------------------------------\n📺 Đón xem Chị Đẹp Đạp Gió Rẽ Sóng 2023 phát sóng vào thứ 7 hàng tuần 21h15 trên kênh VTV3 | 21h45 trên YouTube và trên ứng dụng Onlala từ ngày 28/10/2023\n\n© Chương trình Chị Đẹp Đạp Gió Rẽ Sóng thuộc bản quyền của YeaH1 và VTVcab cùng đơn vị sản xuất STV Production",
+      "translatedText": "Tập 6 | Thử thách luyện tập và hóa trang, Hồng Nhung bỗng \"hồi teen\"? - Chị Đẹp Đạp Gió Rẽ Sóng 2023\nSau những tiết mục bùng nổ của Công diễn 1, chân dung của 6 nhóm nhạc mới lại được hình thành. Các Chị Đẹp tiếp tục cùng nhau sinh hoạt, tập luyện và đối mặt với những khó khăn về cả thanh nhạc lẫn vũ đạo trong Công diễn 2. Bên cạnh đó, các Chị Đẹp còn bất ngờ gặp phải thử thách hóa trang thành người thân, người quan trọng đối với mình và nói ra những lời cảm ơn, xin lỗi chưa từng bộc lộ.\n\nGiống như lực hấp dẫn từ Mặt trăng tác động một phần gây nên Thuỷ triều, như mỗi con người, đều có những nỗi lòng ít khi nhắc tới. Phải đến khi gọi tên, những con sóng thuỷ triều mới trào dâng mạnh mẽ. Công 2 của chương trình với chủ đề “Thủy triều\" sẽ mở ra những đề tài nhỏ về gia đình, những giấc mơ tạm gác, những thứ tưởng chừng như rất nhỏ nhặt, quen thuộc mà các Chị Đẹp đã từng quên.\n\n#ChiDepDapGioReSong #ChiDep #DapGio #SistersWhoMakeWaves #VTVcab #YeaH1 #STVProduction #Onlala #saymee \n\n*Lưu ý: Chương trình có sự đồng hành của Edelweiss và Strongbow, sản phẩm có chứa nồng độ cồn. \n\nSản phẩm này không dành cho phụ nữ mang thai. Đã uống đồ uống có cồn thì không lái xe bạn nhé! \n\nNgười dưới 18 tuổi không được uống rượu, bia\n----------------------------------------------\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Chị Đẹp Đạp Gió Rẽ Sóng 2023 trên: \n\n📍FanPage:   / chidepdapgioresong   \n📍TikTok:   / chidepdapgioresong   \n📍Instagram:   / chidepdapgioresong   \n\nChị Đẹp Đạp Gió Rẽ Sóng là chương trình truyền hình thực tế đáng mong chờ nhất 2023 với sự quy tụ của 30 nữ nghệ sĩ Việt Nam hoạt động nhiều ngành nghề khác nhau trong lĩnh vực giải trí.\n\n💃 Các nghệ sĩ góp mặt vào mùa 1 của chương trình, bao gồm: Hồng Nhung, Thu Phương, Lệ Quyên, Mỹ Linh, Lưu Hương Giang, Giang Hồng Ngọc, Khổng Tú Quỳnh, Phương Vy, Uyên Linh, H’Hen Niê, Quỳnh Nga, Phạm Lịch, Trang Pháp, MLee, Thái Trinh, Yến Trang, Thanh Ngọc, Đoan Trang, Diệu Nhi, Ninh Dương Lan Ngọc, Hà Kino, Tú Vi, Hương Ly, Hoàng Oanh, Vân Hugo, Diệp Lâm Anh, Lynk Lee, Nguyên Hà, Bảo Anh, Huyền Baby. \n\n🎞️ Lắng nghe MV Bài hát Chủ đề Nơi Bình Mình Đầy Nắng tại đây: \nNơi Bình Minh Đầy Nắng | MV Ca Khúc Chủ Đề: \"Chị Đẹp Đạp Gió Rẽ Sóng 2023\"\n----------------------------------------------\n📺 Đón xem Chị Đẹp Đạp Gió Rẽ Sóng 2023 phát sóng vào thứ 7 hàng tuần 21h15 trên kênh VTV3 | 21h45 trên YouTube và trên ứng dụng Onlala từ ngày 28/10/2023\n\n© Chương trình Chị Đẹp Đạp Gió Rẽ Sóng thuộc bản quyền của YeaH1 và VTVcab cùng đơn vị sản xuất STV Production",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/chidepdapgioresong",
+          "text": "#ChiDepDapGioReSong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chidep",
+          "text": "#ChiDep"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dapgio",
+          "text": "#DapGio"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/sisterswhomakewaves",
+          "text": "#SistersWhoMakeWaves"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vtvcab",
+          "text": "#VTVcab"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/stvproduction",
+          "text": "#STVProduction"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/onlala",
+          "text": "#Onlala"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saymee",
+          "text": "#saymee"
+        },
+        {
+          "url": "https://www.facebook.com/ChiDepDapGioReSong",
+          "text": "  / chidepdapgioresong  "
+        },
+        {
+          "url": "https://www.tiktok.com/@chidepdapgioresong",
+          "text": "  / chidepdapgioresong  "
+        },
+        {
+          "url": "https://www.instagram.com/chidepdapgioresong/",
+          "text": "  / chidepdapgioresong  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 9,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+      "isMonetized": null,
+      "hashtags": [
+        "#VTVcab",
+        "#YeaH1",
+        "#ChiDepDapGioReSong"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tập 13 | Thu Phương khóc vì Đại Minh Tinh, Nguyên Hà áp lực tập nhảy - Chị Đẹp Đạp Gió Rẽ Sóng 2023",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "UuAXAlZvmtY",
+      "url": "https://www.youtube.com/watch?v=UuAXAlZvmtY&list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A&index=3",
+      "thumbnailUrl": "https://i.ytimg.com/vi/UuAXAlZvmtY/maxresdefault.jpg",
+      "viewCount": 2077977,
+      "date": "2024-01-21T11:20:04.000Z",
+      "likes": 16000,
+      "location": null,
+      "channelName": "YEAH1 SHOW",
+      "channelUrl": "https://www.youtube.com/@YEAH1SHOW",
+      "channelUsername": "YEAH1SHOW",
+      "collaborators": null,
+      "channelId": "UCh_zF2FsiCflCPgYDudtcqg",
+      "numberOfSubscribers": 765000,
+      "duration": "01:58:58",
+      "commentsCount": 5866,
+      "text": "Tập 13 | Thu Phương khóc vì Đại Minh Tinh, Nguyên Hà áp lực tập nhảy - Chị Đẹp Đạp Gió Rẽ Sóng 2023\nỞ tập trước, khán giả đã được đón xem 5 màn Đối kháng Cá nhân đầy kịch tính, ấn tượng với các tiết mục: Đã Không Yêu Thì Thôi, Mây & Núi, Anh, Như Một Giấc Mơ và Dance Battle. Tập 13 sẽ nối tiếp hai lượt đấu cá nhân còn lại với hai bài hát: Đường Cong, Em Gái Mưa, đây sẽ là trận đấu quyết định để nhóm Hồi sinh có thể giành được suất quay trở lại đầu tiên.\n\nBên cạnh đó, các nhóm Chị Đẹp còn trình diễn thêm một ca khúc nhóm, gồm: Mashup Tìm Lại & Chưa Bao Giờ,  Mashup Diễm Xưa & Đại Minh Tinh, Mashup Tìm Lại Giấc Mơ & Walk Away.\n\nNhóm Hồi sinh và nhóm Ứng cử viên Quán quân, những Chị Đẹp nào sẽ phải hoán đổi vị trí? Cùng chờ đón sân khấu Công diễn 5 - Nguyệt Thực nhé!\n\nLưu ý: Chương trình có sự đồng hành của Edelweiss và Strongbow, sản phẩm có chứa nồng độ cồn. \nSản phẩm này không dành cho phụ nữ mang thai. Đã uống đồ uống có cồn thì không lái xe bạn nhé! \nNgười dưới 18 tuổi không được uống rượu, bia.\n\n#ChiDepDapGioReSong #ChiDepDapGioReSong2023 #ChiDep #ChiDep2023 #DapGio #SistersWhoMakeWaves #VTVcab #YeaH1 #STVProduction \n----------------------------------------------\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Chị Đẹp Đạp Gió Rẽ Sóng 2023 trên: \n\n📍FanPage: https://www.facebook.com/ChiDepDapGioReSong \n📍TikTok: https://www.tiktok.com/@chidepdapgioresong \n📍Instagram: https://www.instagram.com/chidepdapgioresong/ \n\nChị Đẹp Đạp Gió Rẽ Sóng là chương trình truyền hình thực tế đáng mong chờ nhất 2023 với sự quy tụ của 30 nữ nghệ sĩ Việt Nam hoạt động nhiều ngành nghề khác nhau trong lĩnh vực giải trí.\n\n💃 Các nghệ sĩ góp mặt vào mùa 1 của chương trình, bao gồm: Hồng Nhung, Thu Phương, Lệ Quyên, Mỹ Linh, Lưu Hương Giang, Giang Hồng Ngọc, Khổng Tú Quỳnh, Phương Vy, Uyên Linh, H’Hen Niê, Quỳnh Nga, Phạm Lịch, Trang Pháp, MLee, Thái Trinh, Yến Trang, Thanh Ngọc, Đoan Trang, Diệu Nhi, Ninh Dương Lan Ngọc, Hà Kino, Tú Vi, Hương Ly, Hoàng Oanh, Vân Hugo, Diệp Lâm Anh, Lynk Lee, Nguyên Hà, Bảo Anh, Huyền Baby. \n----------------------------------------------\n📺 Đón xem Chị Đẹp Đạp Gió Rẽ Sóng 2023 phát sóng vào thứ 7 hàng tuần 21h15 trên kênh VTV3 và 21h45 trên YouTube\n\n© Chương trình Chị Đẹp Đạp Gió Rẽ Sóng thuộc bản quyền của YeaH1 và VTVcab cùng đơn vị sản xuất STV Production",
+      "translatedText": "Tập 13 | Thu Phương khóc vì Đại Minh Tinh, Nguyên Hà áp lực tập nhảy - Chị Đẹp Đạp Gió Rẽ Sóng 2023\nỞ tập trước, khán giả đã được đón xem 5 màn Đối kháng Cá nhân đầy kịch tính, ấn tượng với các tiết mục: Đã Không Yêu Thì Thôi, Mây & Núi, Anh, Như Một Giấc Mơ và Dance Battle. Tập 13 sẽ nối tiếp hai lượt đấu cá nhân còn lại với hai bài hát: Đường Cong, Em Gái Mưa, đây sẽ là trận đấu quyết định để nhóm Hồi sinh có thể giành được suất quay trở lại đầu tiên.\n\nBên cạnh đó, các nhóm Chị Đẹp còn trình diễn thêm một ca khúc nhóm, gồm: Mashup Tìm Lại & Chưa Bao Giờ,  Mashup Diễm Xưa & Đại Minh Tinh, Mashup Tìm Lại Giấc Mơ & Walk Away.\n\nNhóm Hồi sinh và nhóm Ứng cử viên Quán quân, những Chị Đẹp nào sẽ phải hoán đổi vị trí? Cùng chờ đón sân khấu Công diễn 5 - Nguyệt Thực nhé!\n\nLưu ý: Chương trình có sự đồng hành của Edelweiss và Strongbow, sản phẩm có chứa nồng độ cồn. \nSản phẩm này không dành cho phụ nữ mang thai. Đã uống đồ uống có cồn thì không lái xe bạn nhé! \nNgười dưới 18 tuổi không được uống rượu, bia.\n\n#ChiDepDapGioReSong #ChiDepDapGioReSong2023 #ChiDep #ChiDep2023 #DapGio #SistersWhoMakeWaves #VTVcab #YeaH1 #STVProduction \n----------------------------------------------\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Chị Đẹp Đạp Gió Rẽ Sóng 2023 trên: \n\n📍FanPage:   / chidepdapgioresong   \n📍TikTok:   / chidepdapgioresong   \n📍Instagram:   / chidepdapgioresong   \n\nChị Đẹp Đạp Gió Rẽ Sóng là chương trình truyền hình thực tế đáng mong chờ nhất 2023 với sự quy tụ của 30 nữ nghệ sĩ Việt Nam hoạt động nhiều ngành nghề khác nhau trong lĩnh vực giải trí.\n\n💃 Các nghệ sĩ góp mặt vào mùa 1 của chương trình, bao gồm: Hồng Nhung, Thu Phương, Lệ Quyên, Mỹ Linh, Lưu Hương Giang, Giang Hồng Ngọc, Khổng Tú Quỳnh, Phương Vy, Uyên Linh, H’Hen Niê, Quỳnh Nga, Phạm Lịch, Trang Pháp, MLee, Thái Trinh, Yến Trang, Thanh Ngọc, Đoan Trang, Diệu Nhi, Ninh Dương Lan Ngọc, Hà Kino, Tú Vi, Hương Ly, Hoàng Oanh, Vân Hugo, Diệp Lâm Anh, Lynk Lee, Nguyên Hà, Bảo Anh, Huyền Baby. \n----------------------------------------------\n📺 Đón xem Chị Đẹp Đạp Gió Rẽ Sóng 2023 phát sóng vào thứ 7 hàng tuần 21h15 trên kênh VTV3 và 21h45 trên YouTube\n\n© Chương trình Chị Đẹp Đạp Gió Rẽ Sóng thuộc bản quyền của YeaH1 và VTVcab cùng đơn vị sản xuất STV Production",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/chidepdapgioresong",
+          "text": "#ChiDepDapGioReSong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chidepdapgioresong2023",
+          "text": "#ChiDepDapGioReSong2023"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chidep",
+          "text": "#ChiDep"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chidep2023",
+          "text": "#ChiDep2023"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dapgio",
+          "text": "#DapGio"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/sisterswhomakewaves",
+          "text": "#SistersWhoMakeWaves"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vtvcab",
+          "text": "#VTVcab"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/stvproduction",
+          "text": "#STVProduction"
+        },
+        {
+          "url": "https://www.facebook.com/ChiDepDapGioReSong",
+          "text": "  / chidepdapgioresong  "
+        },
+        {
+          "url": "https://www.tiktok.com/@chidepdapgioresong",
+          "text": "  / chidepdapgioresong  "
+        },
+        {
+          "url": "https://www.instagram.com/chidepdapgioresong/",
+          "text": "  / chidepdapgioresong  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 2,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+      "isMonetized": null,
+      "hashtags": [
+        "#VTVcab",
+        "#YeaH1",
+        "#ChiDepDapGioReSong"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tập 9 | Phương Vy bùng nổ, Khổng Tú Quỳnh “tung chiêu” ở Công 3 - Chị Đẹp Đạp Gió Rẽ Sóng 2023",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "fWV4aSBxi6s",
+      "url": "https://www.youtube.com/watch?v=fWV4aSBxi6s&list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A&index=7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/fWV4aSBxi6s/maxresdefault.jpg",
+      "viewCount": 3100541,
+      "date": "2023-12-23T14:45:10.000Z",
+      "likes": 34000,
+      "location": null,
+      "channelName": "YEAH1 SHOW",
+      "channelUrl": "https://www.youtube.com/@YEAH1SHOW",
+      "channelUsername": "YEAH1SHOW",
+      "collaborators": null,
+      "channelId": "UCh_zF2FsiCflCPgYDudtcqg",
+      "numberOfSubscribers": 765000,
+      "duration": "01:36:06",
+      "commentsCount": 11446,
+      "text": "Tập 9 | Phương Vy bùng nổ, Khổng Tú Quỳnh “tung chiêu” ở Công 3 - Chị Đẹp Đạp Gió Rẽ Sóng 2023\nCông diễn 3 của Chị Đẹp Đạp Gió Rẽ Sóng 2023 với chủ đề “Chuyến tàu thời gian\" sẽ đưa khán giả quay trở lại thanh xuân cùng 20 Chị Đẹp với 4 tiết mục: Hai Đứa Trẻ, Màu Hồng Chủ Nhật, Vì Sao, Mashup Ước Gì & Mưa Phi Trường. \n\nBên cạnh những màn trình diễn nhóm đầy bùng nổ, khán giả còn được dịp đã tai và mãn nhãn trước màn Dance Battle - Vũ Điệu Hoang Dã cùng 4 thể loại khác nhau do 4 Chị Đẹp Khổng Tú Quỳnh, Diệp Lâm Anh, MLee và Phương Vy thể hiện.\n\nKết thúc đêm Công diễn 3, nhóm nào sẽ thành công giành được tấm vé an toàn duy nhất và thăng cấp tiến vào công diễn tiếp theo? 4 Chị Đẹp nào phải tạm dừng chân và nói lời chia tay với chương trình?\n\nCùng chờ đón xem sân khấu đỉnh cao của các Chị Đẹp nhé!\n\n#ChiDepDapGioReSong #ChiDepDapGioReSong2023 #ChiDep #ChiDep2023 #DapGio #SistersWhoMakeWaves #VTVcab #YeaH1 #STVProduction \n\n*Lưu ý: Chương trình có sự đồng hành của Edelweiss và Strongbow, sản phẩm có chứa nồng ��ộ cồn. \nSản phẩm này không dành cho phụ nữ mang thai. Đã uống đồ uống có cồn thì không lái xe bạn nhé! \nNgười dưới 18 tuổi không được uống rượu, bia\n\n----------------------------------------------\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Chị Đẹp Đạp Gió Rẽ Sóng 2023 trên: \n\n📍FanPage: https://www.facebook.com/ChiDepDapGioReSong \n📍TikTok: https://www.tiktok.com/@chidepdapgioresong \n📍Instagram: https://www.instagram.com/chidepdapgioresong/ \n\nChị Đẹp Đạp Gió Rẽ Sóng là chương trình truyền hình thực tế đáng mong chờ nhất 2023 với sự quy tụ của 30 nữ nghệ sĩ Việt Nam hoạt động nhiều ngành nghề khác nhau trong lĩnh vực giải trí.\n\n💃 Các nghệ sĩ góp mặt vào mùa 1 của chương trình, bao gồm: Hồng Nhung, Thu Phương, Lệ Quyên, Mỹ Linh, Lưu Hương Giang, Giang Hồng Ngọc, Khổng Tú Quỳnh, Phương Vy, Uyên Linh, H’Hen Niê, Quỳnh Nga, Phạm Lịch, Trang Pháp, MLee, Thái Trinh, Yến Trang, Thanh Ngọc, Đoan Trang, Diệu Nhi, Ninh Dương Lan Ngọc, Hà Kino, Tú Vi, Hương Ly, Hoàng Oanh, Vân Hugo, Diệp Lâm Anh, Lynk Lee, Nguyên Hà, Bảo Anh, Huyền Baby. \n\n🎞️ Lắng nghe MV Bài hát Chủ đề Nơi Bình Mình Đầy Nắng tại đây: \nNơi Bình Minh Đầy Nắng | MV Ca Khúc Chủ Đề: \"Chị Đẹp Đạp Gió Rẽ Sóng 2023\"\n----------------------------------------------\n📺 Đón xem Chị Đẹp Đạp Gió Rẽ Sóng 2023 phát sóng vào thứ 7 hàng tuần 21h15 trên kênh VTV3 và 21h45 trên YouTube\n\n© Chương trình Chị Đẹp Đạp Gió Rẽ Sóng thuộc bản quyền của YeaH1 và VTVcab cùng đơn vị sản xuất STV Production",
+      "translatedText": "Tập 9 | Phương Vy bùng nổ, Khổng Tú Quỳnh “tung chiêu” ở Công 3 - Chị Đẹp Đạp Gió Rẽ Sóng 2023\nCông diễn 3 của Chị Đẹp Đạp Gió Rẽ Sóng 2023 với chủ đề “Chuyến tàu thời gian\" sẽ đưa khán giả quay trở lại thanh xuân cùng 20 Chị Đẹp với 4 tiết mục: Hai Đứa Trẻ, Màu Hồng Chủ Nhật, Vì Sao, Mashup Ước Gì & Mưa Phi Trường. \n\nBên cạnh những màn trình diễn nhóm đầy bùng nổ, khán giả còn được dịp đã tai và mãn nhãn trước màn Dance Battle - Vũ Điệu Hoang Dã cùng 4 thể loại khác nhau do 4 Chị Đẹp Khổng Tú Quỳnh, Diệp Lâm Anh, MLee và Phương Vy thể hiện.\n\nKết thúc đêm Công diễn 3, nhóm nào sẽ thành công giành được tấm vé an toàn duy nhất và thăng cấp tiến vào công diễn tiếp theo? 4 Chị Đẹp nào phải tạm dừng chân và nói lời chia tay với chương trình?\n\nCùng chờ đón xem sân khấu đỉnh cao của các Chị Đẹp nhé!\n\n#ChiDepDapGioReSong #ChiDepDapGioReSong2023 #ChiDep #ChiDep2023 #DapGio #SistersWhoMakeWaves #VTVcab #YeaH1 #STVProduction \n\n*Lưu ý: Chương trình có sự đồng hành của Edelweiss và Strongbow, sản phẩm có chứa nồng độ cồn. \nSản phẩm này không dành cho phụ nữ mang thai. Đã uống đồ uống có cồn thì không lái xe bạn nhé! \nNgười dưới 18 tuổi không được uống rượu, bia\n\n----------------------------------------------\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Chị Đẹp Đạp Gió Rẽ Sóng 2023 trên: \n\n📍FanPage:   / chidepdapgioresong   \n📍TikTok:   / chidepdapgioresong   \n📍Instagram:   / chidepdapgioresong   \n\nChị Đẹp Đạp Gió Rẽ Sóng là chương trình truyền hình thực tế đáng mong chờ nhất 2023 với sự quy tụ của 30 nữ nghệ sĩ Việt Nam hoạt động nhiều ngành nghề khác nhau trong lĩnh vực giải trí.\n\n💃 Các nghệ sĩ góp mặt vào mùa 1 của chương trình, bao gồm: Hồng Nhung, Thu Phương, Lệ Quyên, Mỹ Linh, Lưu Hương Giang, Giang Hồng Ngọc, Khổng Tú Quỳnh, Phương Vy, Uyên Linh, H’Hen Niê, Quỳnh Nga, Phạm Lịch, Trang Pháp, MLee, Thái Trinh, Yến Trang, Thanh Ngọc, Đoan Trang, Diệu Nhi, Ninh Dương Lan Ngọc, Hà Kino, Tú Vi, Hương Ly, Hoàng Oanh, Vân Hugo, Diệp Lâm Anh, Lynk Lee, Nguyên Hà, Bảo Anh, Huyền Baby. \n\n🎞️ Lắng nghe MV Bài hát Chủ đề Nơi Bình Mình Đầy Nắng tại đây: \nNơi Bình Minh Đầy Nắng | MV Ca Khúc Chủ Đề: \"Chị Đẹp Đạp Gió Rẽ Sóng 2023\"\n----------------------------------------------\n📺 Đón xem Chị Đẹp Đạp Gió Rẽ Sóng 2023 phát sóng vào thứ 7 hàng tuần 21h15 trên kênh VTV3 và 21h45 trên YouTube\n\n© Chương trình Chị Đẹp Đạp Gió Rẽ Sóng thuộc bản quyền của YeaH1 và VTVcab cùng đơn vị sản xuất STV Production",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/chidepdapgioresong",
+          "text": "#ChiDepDapGioReSong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chidepdapgioresong2023",
+          "text": "#ChiDepDapGioReSong2023"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chidep",
+          "text": "#ChiDep"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chidep2023",
+          "text": "#ChiDep2023"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dapgio",
+          "text": "#DapGio"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/sisterswhomakewaves",
+          "text": "#SistersWhoMakeWaves"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vtvcab",
+          "text": "#VTVcab"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/stvproduction",
+          "text": "#STVProduction"
+        },
+        {
+          "url": "https://www.facebook.com/ChiDepDapGioReSong",
+          "text": "  / chidepdapgioresong  "
+        },
+        {
+          "url": "https://www.tiktok.com/@chidepdapgioresong",
+          "text": "  / chidepdapgioresong  "
+        },
+        {
+          "url": "https://www.instagram.com/chidepdapgioresong/",
+          "text": "  / chidepdapgioresong  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 6,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+      "isMonetized": null,
+      "hashtags": [
+        "#VTVcab",
+        "#YeaH1",
+        "#ChiDepDapGioReSong"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tập 8 | Lynk Lee nhảy “hẩy hẩy\" cùng SOOBIN, Trang Pháp quẩy quên sốt - Chị Đẹp Đạp Gió Rẽ Sóng 2023",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "9RyOdOoQp9A",
+      "url": "https://www.youtube.com/watch?v=9RyOdOoQp9A&list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A&index=8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/9RyOdOoQp9A/maxresdefault.jpg",
+      "viewCount": 2495128,
+      "date": "2023-12-16T14:45:11.000Z",
+      "likes": 29000,
+      "location": null,
+      "channelName": "YEAH1 SHOW",
+      "channelUrl": "https://www.youtube.com/@YEAH1SHOW",
+      "channelUsername": "YEAH1SHOW",
+      "collaborators": null,
+      "channelId": "UCh_zF2FsiCflCPgYDudtcqg",
+      "numberOfSubscribers": 765000,
+      "duration": "01:47:19",
+      "commentsCount": 6312,
+      "text": "Tập 8 | Lynk Lee nhảy “hẩy hẩy\" cùng SOOBIN, Trang Pháp quẩy quên sốt - Chị Đẹp Đạp Gió Rẽ Sóng 2023\nSau màn trình diễn bùng nổ tại Công diễn 2, 20 Chị Đẹp an toàn chính thức bước vào Công diễn 3 với chủ đề “Chuyến tàu thời gian\". Ở tập 8, 20 Chị Đẹp sẽ được chia thành 4 nhóm 5 thành viên, mỗi đội sẽ chọn ra một thành viên tham gia “Dance Battle” với 5 ca khúc đã được hé lộ ở tập trước: Hai Đứa Trẻ, Vì Sao, Mashup Ước Gì & Mưa Phi Trường, Vũ Điệu Hoang Dã và Màu Hồng Chủ Nhật. \n\nBên cạnh đó, các Chị Đẹp vẫn tiếp tục cùng nhau tập luyện, sinh hoạt tại nhà chung và tham gia “Hội thao Chị Đẹp\" với khách mời là ca sĩ SOOBIN. Những trò chơi từ thời thơ bé, những tràng cười, những phút giây vui vẻ, chiến đấu hết mình vì đồng đội, sẽ là kỷ niệm khó quên trong hành trình “đạp gió rẽ sóng\" đối với các Chị Đẹp. \n\nCùng theo dõi chuyến tàu Tập 8 này và đón xem những khoảnh khắc \"lăn xả\" đầy vui vẻ, sống hết mình với đời thanh xuân của các Chị Đẹp nhé!\n\n#ChiDepDapGioReSong #ChiDep #DapGio #SistersWhoMakeWaves #VTVcab #YeaH1 #STVProduction #Onlala #saymee \n\n*Lưu ý: Chương trình có sự đồng hành của Edelweiss và Strongbow, sản phẩm có chứa nồng độ cồn. \nSản phẩm này không dành cho phụ nữ mang thai. Đã uống đồ uống có cồn thì không lái xe bạn nhé! \nNgười dưới 18 tuổi không được uống rượu, bia.\n\n----------------------------------------------\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Chị Đẹp Đạp Gió Rẽ Sóng 2023 trên: \n\n📍FanPage: https://www.facebook.com/ChiDepDapGioReSong \n📍TikTok: https://www.tiktok.com/@chidepdapgioresong \n📍Instagram: https://www.instagram.com/chidepdapgioresong/ \n\nChị Đẹp Đạp Gió Rẽ Sóng là chương trình truyền hình thực tế đáng mong chờ nhất 2023 với sự quy tụ của 30 nữ nghệ sĩ Việt Nam hoạt động nhiều ngành nghề khác nhau trong lĩnh vực giải trí.\n\n💃 Các nghệ sĩ góp mặt vào mùa 1 của chương trình, bao gồm: Hồng Nhung, Thu Phương, Lệ Quyên, Mỹ Linh, Lưu Hương Giang, Giang Hồng Ngọc, Khổng Tú Quỳnh, Phương Vy, Uyên Linh, H’Hen Niê, Quỳnh Nga, Phạm Lịch, Trang Pháp, MLee, Thái Trinh, Yến Trang, Thanh Ngọc, Đoan Trang, Diệu Nhi, Ninh Dương Lan Ngọc, Hà Kino, Tú Vi, Hương Ly, Hoàng Oanh, Vân Hugo, Diệp Lâm Anh, Lynk Lee, Nguyên Hà, Bảo Anh, Huyền Baby. \n\n🎞️ Lắng nghe MV Bài hát Chủ đề Nơi Bình Mình Đầy Nắng tại đây: \nNơi Bình Minh Đầy Nắng | MV Ca Khúc Chủ Đề: \"Chị Đẹp Đạp Gió Rẽ Sóng 2023\"\n----------------------------------------------\n📺 Đón xem Chị Đẹp Đạp Gió Rẽ Sóng 2023 phát sóng vào thứ 7 hàng tuần 21h15 trên kênh VTV3 và 21h45 trên YouTube\n\n© Chương trình Chị Đẹp Đạp Gió Rẽ Sóng thuộc bản quyền của YeaH1 và VTVcab cùng đơn vị sản xuất STV Production",
+      "translatedText": "Tập 8 | Lynk Lee nhảy “hẩy hẩy\" cùng SOOBIN, Trang Pháp quẩy quên sốt - Chị Đẹp Đạp Gió Rẽ Sóng 2023\nSau màn trình diễn bùng nổ tại Công diễn 2, 20 Chị Đẹp an toàn chính thức bước vào Công diễn 3 với chủ đề “Chuyến tàu thời gian\". Ở tập 8, 20 Chị Đẹp sẽ được chia thành 4 nhóm 5 thành viên, mỗi đội sẽ chọn ra một thành viên tham gia “Dance Battle” với 5 ca khúc đã được hé lộ ở tập trước: Hai Đứa Trẻ, Vì Sao, Mashup Ước Gì & Mưa Phi Trường, Vũ Điệu Hoang Dã và Màu Hồng Chủ Nhật. \n\nBên cạnh đó, các Chị Đẹp vẫn tiếp tục cùng nhau tập luyện, sinh hoạt tại nhà chung và tham gia “Hội thao Chị Đẹp\" với khách mời là ca sĩ SOOBIN. Những trò chơi từ thời thơ bé, những tràng cười, những phút giây vui vẻ, chiến đấu hết mình vì đồng đội, sẽ là kỷ niệm khó quên trong hành trình “đạp gió rẽ sóng\" đối với các Chị Đẹp. \n\nCùng theo dõi chuyến tàu Tập 8 này và đón xem những khoảnh khắc \"lăn xả\" đầy vui vẻ, sống hết mình với đời thanh xuân của các Chị Đẹp nhé!\n\n#ChiDepDapGioReSong #ChiDep #DapGio #SistersWhoMakeWaves #VTVcab #YeaH1 #STVProduction #Onlala #saymee \n\n*Lưu ý: Chương trình có sự đồng hành của Edelweiss và Strongbow, sản phẩm có chứa nồng độ cồn. \nSản phẩm này không dành cho phụ nữ mang thai. Đã uống đồ uống có cồn thì không lái xe bạn nhé! \nNgười dưới 18 tuổi không được uống rượu, bia.\n\n----------------------------------------------\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Chị Đẹp Đạp Gió Rẽ Sóng 2023 trên: \n\n📍FanPage:   / chidepdapgioresong   \n📍TikTok:   / chidepdapgioresong   \n📍Instagram:   / chidepdapgioresong   \n\nChị Đẹp Đạp Gió Rẽ Sóng là chương trình truyền hình thực tế đáng mong chờ nhất 2023 với sự quy tụ của 30 nữ nghệ sĩ Việt Nam hoạt động nhiều ngành nghề khác nhau trong lĩnh vực giải trí.\n\n💃 Các nghệ sĩ góp mặt vào mùa 1 của chương trình, bao gồm: Hồng Nhung, Thu Phương, Lệ Quyên, Mỹ Linh, Lưu Hương Giang, Giang Hồng Ngọc, Khổng Tú Quỳnh, Phương Vy, Uyên Linh, H’Hen Niê, Quỳnh Nga, Phạm Lịch, Trang Pháp, MLee, Thái Trinh, Yến Trang, Thanh Ngọc, Đoan Trang, Diệu Nhi, Ninh Dương Lan Ngọc, Hà Kino, Tú Vi, Hương Ly, Hoàng Oanh, Vân Hugo, Diệp Lâm Anh, Lynk Lee, Nguyên Hà, Bảo Anh, Huyền Baby. \n\n🎞️ Lắng nghe MV Bài hát Chủ đề Nơi Bình Mình Đầy Nắng tại đây: \nNơi Bình Minh Đầy Nắng | MV Ca Khúc Chủ Đề: \"Chị Đẹp Đạp Gió Rẽ Sóng 2023\"\n----------------------------------------------\n📺 Đón xem Chị Đẹp Đạp Gió Rẽ Sóng 2023 phát sóng vào thứ 7 hàng tuần 21h15 trên kênh VTV3 và 21h45 trên YouTube\n\n© Chương trình Chị Đẹp Đạp Gió Rẽ Sóng thuộc bản quyền của YeaH1 và VTVcab cùng đơn vị sản xuất STV Production",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/chidepdapgioresong",
+          "text": "#ChiDepDapGioReSong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chidep",
+          "text": "#ChiDep"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dapgio",
+          "text": "#DapGio"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/sisterswhomakewaves",
+          "text": "#SistersWhoMakeWaves"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vtvcab",
+          "text": "#VTVcab"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/stvproduction",
+          "text": "#STVProduction"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/onlala",
+          "text": "#Onlala"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saymee",
+          "text": "#saymee"
+        },
+        {
+          "url": "https://www.facebook.com/ChiDepDapGioReSong",
+          "text": "  / chidepdapgioresong  "
+        },
+        {
+          "url": "https://www.tiktok.com/@chidepdapgioresong",
+          "text": "  / chidepdapgioresong  "
+        },
+        {
+          "url": "https://www.instagram.com/chidepdapgioresong/",
+          "text": "  / chidepdapgioresong  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 7,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+      "isMonetized": null,
+      "hashtags": [
+        "#VTVcab",
+        "#YeaH1",
+        "#ChiDepDapGioReSong"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tập 1 | Chị Đẹp “cưỡi gió” tới đây! - Chị Đẹp Đạp Gió Rẽ Sóng 2023",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "o1KlL4j5O-w",
+      "url": "https://www.youtube.com/watch?v=o1KlL4j5O-w&list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A&index=15",
+      "thumbnailUrl": "https://i.ytimg.com/vi/o1KlL4j5O-w/maxresdefault.jpg",
+      "viewCount": 6974669,
+      "date": "2023-10-28T14:45:11.000Z",
+      "likes": 63000,
+      "location": null,
+      "channelName": "YEAH1 SHOW",
+      "channelUrl": "https://www.youtube.com/@YEAH1SHOW",
+      "channelUsername": "YEAH1SHOW",
+      "collaborators": null,
+      "channelId": "UCh_zF2FsiCflCPgYDudtcqg",
+      "numberOfSubscribers": 765000,
+      "duration": "02:12:19",
+      "commentsCount": 10215,
+      "text": "Tập 1 | Chị Đẹp “cưỡi gió” tới đây! - Chị Đẹp Đạp Gió Rẽ Sóng 2023\n30 nữ nghệ sĩ ghi danh tham gia chương trình Chị Đẹp Đạp Gió Rẽ Sóng 2023 đã có cuộc gặp gỡ bất ngờ tại một căn phòng mang tên “Hội ngộ”. Những câu chuyện thú vị và những “tiểu phẩm” không lường trước đã diễn ra khiến khán giả thích thú và bật cười. \n\n#ChiDepDapGioReSong #ChiDep #DapGio #SistersWhoMakeWaves #VTVcab #YeaH1 #STVProduction #Onlala #saymee \n\n*Lưu ý: Chương trình có sự đồng hành của Edelweiss và Strongbow, sản phẩm có chứa nồng độ cồn. \n\nSản phẩm này không dành cho phụ nữ mang thai. Đã uống đồ uống có cồn thì không lái xe bạn nhé! \n\nNgười dưới 18 tuổi không được uống rượu, bia\n----------------------------------------------\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Chị Đẹp Đạp Gió Rẽ Sóng 2023 trên: \n\n\n📍FanPage: https://www.facebook.com/ChiDepDapGioReSong \n📍TikTok: https://www.tiktok.com/@chidepdapgioresong \n📍Instagram: https://www.instagram.com/chidepdapgioresong/ \n\n\nChị Đẹp Đạp Gió Rẽ Sóng là chương trình truyền hình thực tế đáng mong chờ nhất 2023 với sự quy tụ của 30 nữ nghệ sĩ Việt Nam hoạt động nhiều ngành nghề khác nhau trong lĩnh vực giải trí.\n\n\n💃 Các nghệ sĩ góp mặt vào mùa 1 của chương trình, bao gồm: Hồng Nhung, Thu Phương, Lệ Quyên, Mỹ Linh, Lưu Hương Giang, Giang Hồng Ngọc, Khổng Tú Quỳnh, Phương Vy, Uyên Linh, H’Hen Niê, Quỳnh Nga, Phạm Lịch, Trang Pháp, MLee, Thái Trinh, Yến Trang, Thanh Ngọc, Đoan Trang, Diệu Nhi, Ninh Dương Lan Ngọc, Hà Kino, Tú Vi, Hương Ly, Hoàng Oanh, Vân Hugo, Diệp Lâm Anh, Lynk Lee, Nguyên Hà, Bảo Anh, Huyền Baby. \n\n\n#MBBank #Mastercard\n#OPPOFindN3Flip #GậpĐểToảSáng\n#SeoulCenter #DiemNhanGroup\n\n\n🎞️ Lắng nghe MV Bài hát Chủ đề Nơi Bình Mình Đầy Nắng tại đây: Nơi Bình Minh Đầy Nắng | MV Ca Khúc Chủ Đề: \"Chị Đẹp Đạp Gió Rẽ Sóng 2023\"\n----------------------------------------------\n📺 Đón xem Chị Đẹp Đạp Gió Rẽ Sóng 2023 phát sóng vào thứ 7 hàng tuần 21h15 trên kênh VTV3 | 21h45 trên YouTube YeaH1 Show và trên ứng dụng Onlala từ ngày 28/10/2023\n\n\n© Chương trình Chị Đẹp Đạp Gió Rẽ Sóng thuộc bản quyền của YeaH1 và VTVcab cùng đơn vị sản xuất STV Production",
+      "translatedText": "Tập 1 | Chị Đẹp “cưỡi gió” tới đây! - Chị Đẹp Đạp Gió Rẽ Sóng 2023\n30 nữ nghệ sĩ ghi danh tham gia chương trình Chị Đẹp Đạp Gió Rẽ Sóng 2023 đã có cuộc gặp gỡ bất ngờ tại một căn phòng mang tên “Hội ngộ”. Những câu chuyện thú vị và những “tiểu phẩm” không lường trước đã diễn ra khiến khán giả thích thú và bật cười. \n\n#ChiDepDapGioReSong #ChiDep #DapGio #SistersWhoMakeWaves #VTVcab #YeaH1 #STVProduction #Onlala #saymee \n\n*Lưu ý: Chương trình có sự đồng hành của Edelweiss và Strongbow, sản phẩm có chứa nồng độ cồn. \n\nSản phẩm này không dành cho phụ nữ mang thai. Đã uống đồ uống có cồn thì không lái xe bạn nhé! \n\nNgười dưới 18 tuổi không được uống rượu, bia\n----------------------------------------------\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Chị Đẹp Đạp Gió Rẽ Sóng 2023 trên: \n\n\n📍FanPage:   / chidepdapgioresong   \n📍TikTok:   / chidepdapgioresong   \n📍Instagram:   / chidepdapgioresong   \n\n\nChị Đẹp Đạp Gió Rẽ Sóng là chương trình truyền hình thực tế đáng mong chờ nhất 2023 với sự quy tụ của 30 nữ nghệ sĩ Việt Nam hoạt động nhiều ngành nghề khác nhau trong lĩnh vực giải trí.\n\n\n💃 Các nghệ sĩ góp mặt vào mùa 1 của chương trình, bao gồm: Hồng Nhung, Thu Phương, Lệ Quyên, Mỹ Linh, Lưu Hương Giang, Giang Hồng Ngọc, Khổng Tú Quỳnh, Phương Vy, Uyên Linh, H’Hen Niê, Quỳnh Nga, Phạm Lịch, Trang Pháp, MLee, Thái Trinh, Yến Trang, Thanh Ngọc, Đoan Trang, Diệu Nhi, Ninh Dương Lan Ngọc, Hà Kino, Tú Vi, Hương Ly, Hoàng Oanh, Vân Hugo, Diệp Lâm Anh, Lynk Lee, Nguyên Hà, Bảo Anh, Huyền Baby. \n\n\n#MBBank #Mastercard\n#OPPOFindN3Flip #GậpĐểToảSáng\n#SeoulCenter #DiemNhanGroup\n\n\n🎞️ Lắng nghe MV Bài hát Chủ đề Nơi Bình Mình Đầy Nắng tại đây: Nơi Bình Minh Đầy Nắng | MV Ca Khúc Chủ Đề: \"Chị Đẹp Đạp Gió Rẽ Sóng 2023\"\n----------------------------------------------\n📺 Đón xem Chị Đẹp Đạp Gió Rẽ Sóng 2023 phát sóng vào thứ 7 hàng tuần 21h15 trên kênh VTV3 | 21h45 trên YouTube YeaH1 Show và trên ứng dụng Onlala từ ngày 28/10/2023\n\n\n© Chương trình Chị Đẹp Đạp Gió Rẽ Sóng thuộc bản quyền của YeaH1 và VTVcab cùng đơn vị sản xuất STV Production",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/chidepdapgioresong",
+          "text": "#ChiDepDapGioReSong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chidep",
+          "text": "#ChiDep"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dapgio",
+          "text": "#DapGio"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/sisterswhomakewaves",
+          "text": "#SistersWhoMakeWaves"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vtvcab",
+          "text": "#VTVcab"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/stvproduction",
+          "text": "#STVProduction"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/onlala",
+          "text": "#Onlala"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saymee",
+          "text": "#saymee"
+        },
+        {
+          "url": "https://www.facebook.com/ChiDepDapGioReSong",
+          "text": "  / chidepdapgioresong  "
+        },
+        {
+          "url": "https://www.tiktok.com/@chidepdapgioresong",
+          "text": "  / chidepdapgioresong  "
+        },
+        {
+          "url": "https://www.instagram.com/chidepdapgioresong/",
+          "text": "  / chidepdapgioresong  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mbbank",
+          "text": "#MBBank"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mastercard",
+          "text": "#Mastercard"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/oppofindn3flip",
+          "text": "#OPPOFindN3Flip"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/g%E1%BA%ADp%C4%91%E1%BB%83to%E1%BA%A3s%C3%A1ng",
+          "text": "#GậpĐểToảSáng"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/seoulcenter",
+          "text": "#SeoulCenter"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/diemnhangroup",
+          "text": "#DiemNhanGroup"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 14,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+      "isMonetized": null,
+      "hashtags": [
+        "#VTVcab",
+        "#MBBank",
+        "#YeaH1"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+      "isPaidContent": false
+    }
+  ]
+}

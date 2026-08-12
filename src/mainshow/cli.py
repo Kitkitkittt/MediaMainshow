@@ -2,7 +2,9 @@ from __future__ import annotations
 
 import argparse
 import logging
+from dataclasses import replace
 from pathlib import Path
+from typing import Any
 
 from .apify import ApifyYouTubeClient, load_apify_token, save_raw_run
 from .config import find_season, load_project_config, season_sources
@@ -19,20 +21,35 @@ def project_root() -> Path:
     return Path(__file__).resolve().parents[2]
 
 
-def _source_input(actor: str, url: str, max_results: int) -> dict[str, object]:
+def _source_input(actor: str, source: dict[str, Any], max_results: int) -> dict[str, object]:
+    queries = [str(value).strip() for value in source.get("queries", []) if str(value).strip()]
+    query = str(source.get("query", "")).strip()
+    if query and not queries:
+        queries = [query]
     if actor == APIDOJO_ACTOR:
-        return {
-            "startUrls": [url],
+        payload: dict[str, object] = {
             "maxItems": max_results,
             "includeShorts": False,
             "includeLiveStreams": False,
         }
-    return {
-        "startUrls": [{"url": url}],
+        payload["keywords" if queries else "startUrls"] = queries or [str(source["url"])]
+        return payload
+    payload = {
         "maxResults": max_results,
         "maxResultsShorts": 0,
         "maxResultStreams": 0,
     }
+    payload["searchQueries" if queries else "startUrls"] = (
+        queries if queries else [{"url": str(source["url"])}]
+    )
+    return payload
+
+
+def _bind_receipt_source(run: Any, source: dict[str, Any]):
+    return replace(
+        run,
+        actor_input={**run.actor_input, "sourceBindingUrl": str(source["url"])},
+    )
 
 
 def _canonical_source(season: dict[str, object]) -> dict[str, object]:
@@ -85,6 +102,8 @@ def main() -> None:
     extract_parser.add_argument("season_id")
     extract_parser.add_argument("--max-results", type=int)
     extract_parser.add_argument("--max-charge-usd", type=float, default=1.0)
+    extract_parser.add_argument("--extraction-url")
+    extract_parser.add_argument("--query", action="append", dest="queries")
     populate_parser = subparsers.add_parser(
         "extract-pending", help="Extract pending configured sources within one cumulative cap"
     )
@@ -140,12 +159,21 @@ def main() -> None:
         source = _canonical_source(season)
         actor = str(source.get("actor", DEFAULT_ACTOR))
         max_results = int(args.max_results or source.get("max_results", 50))
+        extraction_source = dict(source)
+        if args.extraction_url:
+            extraction_source.pop("query", None)
+            extraction_source.pop("queries", None)
+            extraction_source["url"] = args.extraction_url
+        if args.queries:
+            extraction_source.pop("query", None)
+            extraction_source["queries"] = args.queries
         with ApifyYouTubeClient(load_apify_token()) as client:
             run = client.run(
                 actor,
-                _source_input(actor, str(source["url"]), max_results),
+                _source_input(actor, extraction_source, max_results),
                 max_total_charge_usd=args.max_charge_usd,
             )
+        run = _bind_receipt_source(run, source)
         raw_path = save_raw_run(run, root / "data" / "raw")
         result = build_all(root / "data" / "raw", root / "outputs", config)
         logging.info(
@@ -171,9 +199,10 @@ def main() -> None:
                 max_results = int(source.get("max_results", 50))
                 run = client.run(
                     actor,
-                    _source_input(actor, str(source["url"]), max_results),
+                    _source_input(actor, source, max_results),
                     max_total_charge_usd=min(remaining, 1.0),
                 )
+                run = _bind_receipt_source(run, source)
                 save_raw_run(run, root / "data" / "raw")
                 cost = float(run.run_metadata.get("usageTotalUsd", 0) or 0)
                 spent += cost

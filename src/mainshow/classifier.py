@@ -17,6 +17,13 @@ def classify_video(
 ) -> Classification:
     score_map = rules["scores"]
     normalized_exclusions = tuple(normalize_text(term) for term in exclusions)
+    aliases = {normalize_text(alias) for alias in show["aliases"]}
+    alias_match = next((alias for alias in aliases if alias in candidate.normalized_title), None)
+    episode_no = parse_episode_number(candidate.title)
+    min_duration = int(rules["broad_min_duration_seconds"])
+    duration_plausible = (
+        candidate.duration_seconds is not None and candidate.duration_seconds >= min_duration
+    )
     matched_exclusion = next(
         (
             term
@@ -25,25 +32,25 @@ def classify_video(
         ),
         None,
     )
-    if matched_exclusion:
+    verified_numbered_episode = (
+        official_full_playlist and alias_match and episode_no is not None and duration_plausible
+    )
+    if matched_exclusion and not verified_numbered_episode:
         return Classification(
             "EXCLUDE",
             int(score_map["hard_exclusion"]),
             "HIGH",
-            parse_episode_number(candidate.title),
+            episode_no,
             matched_exclusion,
             (f"hard_exclusion:{matched_exclusion}",),
         )
 
     reasons: list[str] = []
     score = 0
-    aliases = {normalize_text(alias) for alias in show["aliases"]}
-    alias_match = next((alias for alias in aliases if alias in candidate.normalized_title), None)
     if alias_match:
         score += int(score_map["exact_show_alias"])
         reasons.append("show_alias")
 
-    episode_no = parse_episode_number(candidate.title)
     if episode_no is not None:
         score += int(score_map["numbered_episode"])
         reasons.append("numbered_episode")
@@ -54,15 +61,11 @@ def classify_video(
     if official_full_playlist:
         score += int(score_map["official_full_playlist"])
         reasons.append("official_full_playlist")
-    min_duration = int(rules["broad_min_duration_seconds"])
     if candidate.duration_seconds is not None and candidate.duration_seconds >= min_duration:
         score += int(score_map["plausible_duration"])
         reasons.append("plausible_duration")
 
     source_verified = official_channel or official_full_playlist
-    duration_plausible = (
-        candidate.duration_seconds is not None and candidate.duration_seconds >= min_duration
-    )
     required_mainshow_evidence = source_verified and alias_match and episode_no is not None
     if score >= int(rules["threshold_high"]) and required_mainshow_evidence:
         decision, confidence = "INCLUDE", "HIGH"

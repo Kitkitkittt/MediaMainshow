@@ -24,6 +24,12 @@ def load_yaml(path: Path) -> dict[str, Any]:
 def load_project_config(root: Path) -> ProjectConfig:
     config_dir = root / "config"
     shows = load_yaml(config_dir / "shows.yaml").get("shows", {})
+    catalog_path = config_dir / "season_catalog_tier3_5.yaml"
+    if catalog_path.exists():
+        for show_id, seasons in load_yaml(catalog_path).get("seasons", {}).items():
+            if show_id not in shows:
+                raise KeyError(f"Season catalog references unknown show_id={show_id}")
+            shows[show_id]["seasons"] = seasons
     channels = load_yaml(config_dir / "channels.yaml").get("channels", {})
     exclusions = load_yaml(config_dir / "exclusion_terms.yaml").get("hard_exclusions", [])
     classifier = load_yaml(config_dir / "classifier_rules.yaml")
@@ -46,6 +52,12 @@ def find_season(config: ProjectConfig, season_id: str):
 
 def season_sources(season: dict[str, Any]) -> list[dict[str, Any]]:
     sources = [dict(source) for source in season.get("sources", [])]
+    for source in sources:
+        source.setdefault("authority_status", "verified")
+        source.setdefault("actor", "streamers/youtube-scraper")
+        source.setdefault(
+            "max_results", max(int(season.get("expected_episode_count") or 20) + 16, 30)
+        )
     legacy_url = season.get("official_playlist_url")
     if legacy_url and all(source.get("url") != legacy_url for source in sources):
         sources.insert(
