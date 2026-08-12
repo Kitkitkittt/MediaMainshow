@@ -1,0 +1,80 @@
+shows:
+  ATSH:
+    name: 'Anh Trai "Say Hi"'
+    aliases: ["Anh Trai Say Hi", 'Anh Trai "Say Hi"', "ATSH"]
+    comparison_group: music_fandom
+    peer_role: direct_peer
+    format_type: closed_season
+    seasons:
+      - season_id: ATSH_2024
+        season_name: 'Anh Trai "Say Hi" 2024'
+        year: 2024
+        status: completed
+        expected_episode_count: 14
+        official_playlist_id: PLxKLMN7WdG5AYDsDPTbq7zZTpOTGH7ay6
+        official_playlist_url: https://www.youtube.com/playlist?list=PLxKLMN7WdG5AYDsDPTbq7zZTpOTGH7ay6
+        review_status: pilot_verified
+      - season_id: ATSH_2025
+        season_name: 'Anh Trai "Say Hi" 2025'
+        year: 2025
+        status: completed
+        expected_episode_count: null
+        review_status: needs_source_verification
+  EXSH:
+    name: 'Em Xinh "Say Hi"'
+    aliases: ["Em Xinh Say Hi", 'Em Xinh "Say Hi"', "EXSH"]
+    comparison_group: music_fandom
+    peer_role: direct_peer
+    format_type: closed_season
+    seasons:
+      - season_id: EXSH_2025
+        season_name: 'Em Xinh "Say Hi" 2025'
+        year: 2025
+        status: completed
+        expected_episode_count: null
+        review_status: needs_source_verification
+  THSH:
+    name: 'Tinh Hà "Say Hi"'
+    aliases: ["Tinh Ha Say Hi", "Tinh Hà Say Hi", 'Tinh Hà "Say Hi"', "THSH"]
+    comparison_group: music_fandom
+    peer_role: direct_peer
+    format_type: closed_season
+    seasons:
+      - season_id: THSH_2026
+        season_name: 'Tinh Hà "Say Hi" 2026'
+        year: 2026
+        status: unknown
+        expected_episode_count: null
+        review_status: needs_source_verification
+  ATVNCG:
+    name: "Anh Trai Vượt Ngàn Chông Gai"
+    aliases: ["Anh Trai Vuot Ngan Chong Gai", "Anh Trai Vượt Ngàn Chông Gai", "ATVNCG"]
+    comparison_group: music_fandom
+    peer_role: direct_peer
+    format_type: closed_season
+    seasons:
+      - season_id: ATVNCG_2024
+        season_name: "Anh Trai Vượt Ngàn Chông Gai 2024"
+        year: 2024
+        status: completed
+        expected_episode_count: null
+        review_status: needs_source_verification
+  CDDG:
+    name: "Chị Đẹp Đạp Gió"
+    aliases: ["Chi Dep Dap Gio", "Chị Đẹp Đạp Gió", "Chị Đẹp Đạp Gió Rẽ Sóng", "CDDG"]
+    comparison_group: music_fandom
+    peer_role: direct_peer
+    format_type: closed_season
+    seasons:
+      - season_id: CDDG_2023
+        season_name: "Chị Đẹp Đạp Gió Rẽ Sóng 2023"
+        year: 2023
+        status: completed
+        expected_episode_count: null
+        review_status: needs_source_verification
+      - season_id: CDDG_2024
+        season_name: "Chị Đẹp Đạp Gió 2024"
+        year: 2024
+        status: completed
+        expected_episode_count: null
+        review_status: needs_source_verification

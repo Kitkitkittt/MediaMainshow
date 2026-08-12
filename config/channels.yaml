@@ -1,0 +1,18 @@
+channels:
+  UCkna2OcuN1E6u5I8GVtdkOw:
+    channel_name: Vie Channel
+    channel_authority: primary_broadcaster
+    authority_notes: >-
+      Channel ID is linked as the subscription and membership destination in Vie Channel show
+      descriptions; the same descriptions identify Công Ty Cổ Phần Vie Channel and its official
+      contact details. Verified during the ATSH pilot on 2026-08-12.
+  UC2Lgi2uPsOcCVF3imz7l2mg:
+    channel_name: Vie GIẢITRÍ
+    channel_authority: official_distribution_partner
+    authority_notes: >-
+      The Vie Channel-maintained ATSH full-show playlist contains canonical 2024 episodes uploaded
+      by this channel, and those video descriptions identify the Vie Channel company and official
+      contact details. Verified during the ATSH pilot on 2026-08-12.
+
+# Channel authority is intentionally empty until the pilot records a channel ID and first-party
+# evidence. A verified display name alone is not sufficient authority.

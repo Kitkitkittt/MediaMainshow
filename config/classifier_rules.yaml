@@ -1,0 +1,13 @@
+scores:
+  official_full_playlist: 6
+  primary_official_channel: 4
+  exact_show_alias: 4
+  numbered_episode: 4
+  plausible_duration: 2
+  hard_exclusion: -15
+  unofficial_channel: -8
+  abnormal_duration: -5
+threshold_high: 8
+threshold_low: 0
+broad_min_duration_seconds: 1500
+
