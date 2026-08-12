@@ -10,4 +10,37 @@ scores:
 threshold_high: 8
 threshold_low: 0
 broad_min_duration_seconds: 1500
+annual_min_duration_seconds: 9000
+video_types:
+  hard:
+    preview:
+      - "\\b(?:teaser|trailer|preview|xem truoc|hong tap|sanh cho)\\b"
+    recap:
+      - "\\b(?:recap|replay|nhin lai|hoi uc|tien truyen)\\b"
+      - "tuyen tap khoanh khac"
+    backstage:
+      - "\\b(?:behind the scenes|bts|hau truong|rehearsal)\\b"
+      - "toan canh tap nhay"
+      - "hanh trinh \\d+ ngay.*hoan thien"
+    compilation:
+      - "\\b(?:compilation|full setlist|tuyen tap|tong hop)\\b"
+      - "\\btron bo \\d+ tiet muc\\b"
+      - "\\bfull \\d+ tiet muc\\b"
+      - "\\bplaylist full \\d+ tiet muc\\b"
+      - "\\btop \\d+ (?:hit|ban|tiet muc)\\b"
+      - "^(?!.*\\btap \\d).*(?:^top|\\bnhung .* top) \\d+\\b"
+      - "\\bhanh trinh .* tai sao nhap ngu\\b"
+    music_asset:
+      - "\\b(?:official mv|music video|lyric|lyrics|audio|1 hour)\\b"
+      - "\\bfull demo bai hat\\b"
+    clip_or_segment:
+      - "^(?:game|say song|hai tet|full hai|kich song|bi mat gia toc|dong hanh)\\b"
+      - "\\bkhong len song\\b"
+    special_extra:
+      - "\\btap dac biet\\b"
+  soft:
+    performance:
+      - "\\b(?:performance|tiet muc|live ?stage|liveshow|concert)\\b"
+    interview:
+      - "\\binterview\\b"
 

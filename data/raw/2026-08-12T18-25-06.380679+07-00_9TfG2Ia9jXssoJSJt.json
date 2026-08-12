@@ -1,0 +1,189 @@
+{
+  "actor_name": "streamers/youtube-scraper",
+  "actor_run_id": "9TfG2Ia9jXssoJSJt",
+  "dataset_id": "0CSg3n0DdqZFxv4nt",
+  "actor_build_id": "SUk0475fgtCh9zqMt",
+  "retrieved_at": "2026-08-12T18:25:06.380679+07:00",
+  "actor_input": {
+    "maxResults": 1,
+    "maxResultsShorts": 0,
+    "maxResultStreams": 0,
+    "startUrls": [
+      {
+        "url": "https://www.youtube.com/watch?v=hqTJG9yzrUs"
+      }
+    ],
+    "sourceBindingUrl": "https://www.youtube.com/playlist?list=PLG7CUxrpEOnfzfuMy-SQsENMcthLsO_v-"
+  },
+  "run_metadata": {
+    "status": "SUCCEEDED",
+    "startedAt": "2026-08-12T11:24:51.258Z",
+    "finishedAt": "2026-08-12T11:25:00.199Z",
+    "usageTotalUsd": 0,
+    "chargedEventCounts": {
+      "result": 0,
+      "date-filter": 0,
+      "ai-video-description": 0,
+      "ai-video-summary": 0
+    }
+  },
+  "items": [
+    {
+      "title": "Running Man Vietnam - Chơi Là Chạy |Tập 1:Jack đụng độ Voi Biển,Trường Giang bị hội đồng xé bảng tên",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "hqTJG9yzrUs",
+      "url": "https://www.youtube.com/watch?v=hqTJG9yzrUs",
+      "thumbnailUrl": "https://i.ytimg.com/vi/hqTJG9yzrUs/maxresdefault.jpg",
+      "viewCount": 8642795,
+      "date": "2021-09-19T14:41:25.000Z",
+      "likes": 204000,
+      "location": null,
+      "channelName": "ĐÔNG TÂY PROMOTION OFFICIAL",
+      "channelUrl": "https://www.youtube.com/@dongtaypromotionofficial",
+      "channelUsername": "dongtaypromotionofficial",
+      "collaborators": null,
+      "channelId": "UCFMEYTv6N64hIL9FlQ_hxBw",
+      "numberOfSubscribers": 9830000,
+      "duration": "01:17:40",
+      "commentsCount": 53805,
+      "text": "Chơi Là Chạy | Tập 1 FULL: Jack đụng độ Voi Biển, Trường Giang bị hội đồng xé bảng tên\n\n🏃 Running Man là chương trình truyền hình giải trí thực tế Hàn Quốc, các thành viên và khách mời cùng tham gia trò chơi và nhiệm vụ để giành chiến trắng trong mỗi cuộc đua. \n#RunningManVietnam đã quay trở lại với một cái tên hoàn toàn mới Chơi Là Chạy cùng dàn cast \"xịn sò\": Trường Giang, Ninh Dương Lan Ngọc, Trương Thế Vinh, Thúy Ngân, Ngô Kiến Huy, Jun Phạm, Karik, Liên Bỉnh Phát, Jack.\n\n▶️ Xem trọn bộ trên VieON\n📺 Đón xem RunningManVietNam - Chơi Là Chạy vào lúc 20H30 Chủ Nhật hàng tuần trên HTV7, siêu ứng dụng VieON và phát lại trên kênh @dongtaypromotionofficial \n\n#ChơiLàChạy #RNM_VN #RunningManVietNammua2 #Jack #VoiBiển #TrườngGiang\n#SunGroup #RockEnergyVN #vivoX70Pro #XucXichPONNIE #tươngớtChinSu #Lazada #TravelokaVN #Larue\n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n\n▶️ Xem thêm các tập tại: https://bit.ly/RunningManVietnamChoiLaChay\n⏩ Bí mật HẬU TRƯỜNG https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \n5GiâyThànhTriệuPhú: https://bit.ly/5GiayThanhTrieuPhuFull\nLạLắmÀNha: http://bit.ly/LaLamANhaFULL\nCa Sĩ Bí Ẩn: http://bit.ly/CSBA_Mua5\nChọn Ai Đây: https://bit.ly/ChonAiDayMua2\n7 Nụ Cười Xuân http://bit.ly/7NCX_Mua4  \nNhanh Như Chớp: http://bit.ly/NNC_SS3 \n\nTheo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage: https://www.facebook.com/DongTayPromotion\n► Instagram: https://www.instagram.com/dongtaypromotion.official/\n► TikTok: https://www.tiktok.com/@dongtaypromotionofficial",
+      "translatedText": "Chơi Là Chạy | Tập 1 FULL: Jack đụng độ Voi Biển, Trường Giang bị hội đồng xé bảng tên\n\n🏃 Running Man là chương trình truyền hình giải trí thực tế Hàn Quốc, các thành viên và khách mời cùng tham gia trò chơi và nhiệm vụ để giành chiến trắng trong mỗi cuộc đua. \n#RunningManVietnam đã quay trở lại với một cái tên hoàn toàn mới Chơi Là Chạy cùng dàn cast \"xịn sò\": Trường Giang, Ninh Dương Lan Ngọc, Trương Thế Vinh, Thúy Ngân, Ngô Kiến Huy, Jun Phạm, Karik, Liên Bỉnh Phát, Jack.\n\n▶️ Xem trọn bộ trên VieON\n📺 Đón xem RunningManVietNam - Chơi Là Chạy vào lúc 20H30 Chủ Nhật hàng tuần trên HTV7, siêu ứng dụng VieON và phát lại trên kênh ‪@dongtaypromotionofficial‬ \n\n#ChơiLàChạy #RNM_VN #RunningManVietNammua2 #Jack #VoiBiển #TrườngGiang\n#SunGroup #RockEnergyVN #vivoX70Pro #XucXichPONNIE #tươngớtChinSu #Lazada #TravelokaVN #Larue\n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n\n▶️ Xem thêm các tập tại: https://bit.ly/RunningManVietnamChoiL...\n⏩ Bí mật HẬU TRƯỜNG https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \n5GiâyThànhTriệuPhú: https://bit.ly/5GiayThanhTrieuPhuFull\nLạLắmÀNha: http://bit.ly/LaLamANhaFULL\nCa Sĩ Bí Ẩn: http://bit.ly/CSBA_Mua5\nChọn Ai Đây: https://bit.ly/ChonAiDayMua2\n7 Nụ Cười Xuân http://bit.ly/7NCX_Mua4  \nNhanh Như Chớp: http://bit.ly/NNC_SS3 \n\nTheo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage:   / dongtaypromotion  \n► Instagram:   / dongtaypromotion.official  \n► TikTok:   / dongtaypromotionofficial  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/runningmanvietnam",
+          "text": "#RunningManVietnam"
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "‪@dongtaypromotionofficial‬"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ch%C6%A1il%C3%A0ch%E1%BA%A1y",
+          "text": "#ChơiLàChạy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/rnm_vn",
+          "text": "#RNM_VN"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/runningmanvietnammua2",
+          "text": "#RunningManVietNammua2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/jack",
+          "text": "#Jack"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/voibi%E1%BB%83n",
+          "text": "#VoiBiển"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tr%C6%B0%E1%BB%9Dnggiang",
+          "text": "#TrườngGiang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/sungroup",
+          "text": "#SunGroup"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/rockenergyvn",
+          "text": "#RockEnergyVN"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vivox70pro",
+          "text": "#vivoX70Pro"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/xucxichponnie",
+          "text": "#XucXichPONNIE"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/t%C6%B0%C6%A1ng%E1%BB%9Btchinsu",
+          "text": "#tươngớtChinSu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lazada",
+          "text": "#Lazada"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/travelokavn",
+          "text": "#TravelokaVN"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/larue",
+          "text": "#Larue"
+        },
+        {
+          "url": "https://bit.ly/SubDTP",
+          "text": "https://bit.ly/SubDTP"
+        },
+        {
+          "url": "https://bit.ly/SubDTE",
+          "text": "https://bit.ly/SubDTE"
+        },
+        {
+          "url": "https://bit.ly/RunningManVietnamChoiLaChay",
+          "text": "https://bit.ly/RunningManVietnamChoiL..."
+        },
+        {
+          "url": "https://bit.ly/HAUTRUONGDTP",
+          "text": "https://bit.ly/HAUTRUONGDTP"
+        },
+        {
+          "url": "https://bit.ly/showhotDTP",
+          "text": "https://bit.ly/showhotDTP"
+        },
+        {
+          "url": "https://bit.ly/5GiayThanhTrieuPhuFull",
+          "text": "https://bit.ly/5GiayThanhTrieuPhuFull"
+        },
+        {
+          "url": "http://bit.ly/LaLamANhaFULL",
+          "text": "http://bit.ly/LaLamANhaFULL"
+        },
+        {
+          "url": "http://bit.ly/CSBA_Mua5",
+          "text": "http://bit.ly/CSBA_Mua5"
+        },
+        {
+          "url": "https://bit.ly/ChonAiDayMua2",
+          "text": "https://bit.ly/ChonAiDayMua2"
+        },
+        {
+          "url": "http://bit.ly/7NCX_Mua4",
+          "text": "http://bit.ly/7NCX_Mua4"
+        },
+        {
+          "url": "http://bit.ly/NNC_SS3",
+          "text": "http://bit.ly/NNC_SS3"
+        },
+        {
+          "url": "https://www.facebook.com/DongTayPromotion",
+          "text": "  / dongtaypromotion  "
+        },
+        {
+          "url": "https://www.instagram.com/dongtaypromotion.official/",
+          "text": "  / dongtaypromotion.official  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dongtaypromotionofficial",
+          "text": "  / dongtaypromotionofficial  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "commentsTurnedOff": false,
+      "isMonetized": null,
+      "hashtags": [
+        "#Larue",
+        "#TrườngGiang",
+        "#RunningManVietnam"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/watch?v=hqTJG9yzrUs",
+      "isPaidContent": false
+    }
+  ]
+}

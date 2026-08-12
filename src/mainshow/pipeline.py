@@ -10,7 +10,7 @@ from typing import Any
 
 from .adapters import normalize_actor_item
 from .classifier import classify_video
-from .config import ProjectConfig
+from .config import ProjectConfig, find_season, season_sources
 from .models import Provenance
 
 EPISODE_COLUMNS = (
@@ -20,6 +20,7 @@ EPISODE_COLUMNS = (
     "season_year",
     "season_status",
     "format_type",
+    "video_type",
     "episode_no",
     "episode_label",
     "part_no",
@@ -90,8 +91,20 @@ def _age_metrics(
     return round(age_days, 2), round(view_count / age_days, 2)
 
 
+def _display_number(value: Any) -> str:
+    if value in (None, ""):
+        return "n/a"
+    if isinstance(value, float):
+        return f"{value:,.0f}"
+    return f"{value:,}"
+
+
 def build_pilot(
-    raw_path: Path, output_dir: Path, config: ProjectConfig, show_id: str
+    raw_path: Path,
+    output_dir: Path,
+    config: ProjectConfig,
+    show_id: str,
+    season_id: str | None = None,
 ) -> dict[str, int]:
     payload = json.loads(raw_path.read_text(encoding="utf-8"))
     provenance = Provenance(
@@ -103,15 +116,31 @@ def build_pilot(
     show = config.shows[show_id]
     start_urls = payload.get("actor_input", {}).get("startUrls", [])
     source_urls = {value.get("url") if isinstance(value, dict) else value for value in start_urls}
-    season = next(
-        (
-            candidate_season
-            for candidate_season in show["seasons"]
-            if candidate_season.get("official_playlist_url") in source_urls
-        ),
-        show["seasons"][0],
+    if payload.get("actor_input", {}).get("sourceBindingUrl"):
+        source_urls.add(payload["actor_input"]["sourceBindingUrl"])
+    if season_id:
+        configured_show_id, _, season = find_season(config, season_id)
+        if configured_show_id != show_id:
+            raise ValueError(f"season_id={season_id} does not belong to show_id={show_id}")
+    else:
+        season = next(
+            (
+                candidate_season
+                for candidate_season in show["seasons"]
+                if any(
+                    source.get("url") in source_urls for source in season_sources(candidate_season)
+                )
+            ),
+            show["seasons"][0],
+        )
+    matched_sources = [
+        source for source in season_sources(season) if source.get("url") in source_urls
+    ]
+    official_playlist = any(
+        source.get("source_type") == "official_full_playlist"
+        and source.get("authority_status") == "verified"
+        for source in matched_sources
     )
-    official_playlist = season.get("official_playlist_url") in source_urls
     episode_rows: list[dict[str, Any]] = []
     review_rows: list[dict[str, Any]] = []
     seen_video_ids: set[str] = set()
@@ -127,6 +156,7 @@ def build_pilot(
         official_channel = authority in {
             "primary_producer",
             "primary_broadcaster",
+            "primary_producer_broadcaster",
             "official_show_channel",
             "official_distribution_partner",
         }
@@ -137,10 +167,21 @@ def build_pilot(
             config.classifier,
             official_channel=official_channel,
             official_full_playlist=official_playlist,
+            excluded_channel=authority in {"official_music_channel", "unofficial"},
+            season=season,
         )
+        manual_decision = config.decisions.get(candidate.video_id, {})
+        if manual_decision and manual_decision.get("season_id") not in (None, season["season_id"]):
+            manual_decision = {}
+        decision = str(manual_decision.get("decision", classification.decision)).upper()
+        episode_no = manual_decision.get("episode_no", classification.episode_no)
+        episode_label = manual_decision.get("episode_label", classification.episode_label)
+        video_type = manual_decision.get("video_type", classification.video_type)
         duplicate_video = candidate.video_id in seen_video_ids
         seen_video_ids.add(candidate.video_id)
-        canonical = classification.decision == "INCLUDE" and not duplicate_video
+        canonical = decision == "INCLUDE" and not duplicate_video
+        if "canonical" in manual_decision:
+            canonical = bool(manual_decision["canonical"]) and not duplicate_video
         age_days, views_per_day = _age_metrics(
             candidate.published_at, provenance.retrieved_at, candidate.view_count
         )
@@ -151,8 +192,9 @@ def build_pilot(
             "season_year": season["year"],
             "season_status": season["status"],
             "format_type": show["format_type"],
-            "episode_no": classification.episode_no,
-            "episode_label": "",
+            "video_type": video_type,
+            "episode_no": episode_no,
+            "episode_label": episode_label or "",
             "part_no": "",
             "video_id": candidate.video_id,
             "video_url": candidate.video_url,
@@ -172,16 +214,30 @@ def build_pilot(
             "snapshot_at": provenance.retrieved_at,
             "age_days": age_days,
             "lifetime_views_per_day": views_per_day,
-            "mainshow_flag": classification.decision == "INCLUDE",
+            "mainshow_flag": decision == "INCLUDE",
             "canonical_flag": canonical,
             "split_episode_flag": False,
             "reupload_flag": False,
             "availability_status": candidate.availability_status,
             "classifier_score": classification.score,
             "classifier_confidence": classification.confidence,
-            "review_status": classification.decision,
-            "exclusion_reason": classification.exclusion_reason or "",
-            "notes": ";".join(classification.reasons),
+            "review_status": decision,
+            "exclusion_reason": (
+                str(manual_decision.get("reason", ""))
+                if decision == "EXCLUDE" and manual_decision
+                else classification.exclusion_reason or ""
+            ),
+            "notes": ";".join(
+                (
+                    *classification.reasons,
+                    *(("manual_decision",) if manual_decision else ()),
+                    *(
+                        (str(manual_decision.get("reason")),)
+                        if manual_decision.get("reason")
+                        else ()
+                    ),
+                )
+            ),
             "discovery_method": "official_playlist" if official_playlist else "apify_search",
             "actor_name": provenance.actor_name,
             "actor_run_id": provenance.actor_run_id,
@@ -191,14 +247,14 @@ def build_pilot(
             "comment_count": candidate.comment_count,
         }
         episode_rows.append(row)
-        if classification.episode_no is not None and canonical:
-            logical[classification.episode_no].append(row)
-        if classification.decision == "REVIEW" or duplicate_video:
+        if episode_no is not None and canonical:
+            logical[int(episode_no)].append(row)
+        if decision == "REVIEW" or duplicate_video:
             review_rows.append(
                 {
                     "show": show["name"],
                     "season": season["season_id"],
-                    "episode_candidate": classification.episode_no,
+                    "episode_candidate": episode_no,
                     "video_id": candidate.video_id,
                     "title": candidate.title,
                     "channel": candidate.channel_name,
@@ -206,11 +262,43 @@ def build_pilot(
                     "reason_for_review": "duplicate_video"
                     if duplicate_video
                     else ";".join(classification.reasons),
-                    "possible_decision": classification.decision,
+                    "possible_decision": decision,
                 }
             )
 
-    duplicate_logical = {episode for episode, rows in logical.items() if len(rows) > 1}
+    duplicate_logical: set[int] = set()
+    for episode, rows in logical.items():
+        if len(rows) <= 1:
+            continue
+        forced = [
+            row
+            for row in rows
+            if config.decisions.get(row["video_id"], {}).get("canonical") is True
+        ]
+        if len(forced) == 1:
+            for row in rows:
+                row["canonical_flag"] = row is forced[0]
+                if row is not forced[0]:
+                    row["review_status"] = "EXCLUDE"
+                    row["notes"] = f"{row['notes']};superseded_by_manual_canonical".strip(";")
+        elif all(row["channel_authority"] != "unknown" for row in rows):
+            winner = max(
+                rows,
+                key=lambda row: (
+                    row["channel_authority"]
+                    in {"primary_producer", "primary_broadcaster", "primary_producer_broadcaster"},
+                    row["view_count"] or -1,
+                    row["duration_seconds"] or -1,
+                ),
+            )
+            for row in rows:
+                row["canonical_flag"] = row is winner
+                if row is not winner:
+                    row["review_status"] = "EXCLUDE"
+                    row["exclusion_reason"] = "official_duplicate_logical_episode"
+                    row["notes"] = f"{row['notes']};superseded_by_evidence_rank".strip(";")
+        else:
+            duplicate_logical.add(episode)
     for row in episode_rows:
         if row["episode_no"] in duplicate_logical and row["canonical_flag"]:
             row["canonical_flag"] = False
@@ -258,23 +346,37 @@ def build_pilot(
         row["episode_no"] for row in canonical_rows if row["episode_no"] is not None
     )
     expected = season.get("expected_episode_count")
-    contiguous = episode_numbers == list(range(1, max(episode_numbers, default=0) + 1))
-    completeness_mismatch = bool(expected and len(set(episode_numbers)) != expected)
+    episode_start = int(season.get("episode_number_start", 1))
+    observed_episode_span = max(episode_numbers, default=episode_start - 1) - episode_start + 1
+    missing_aired_episodes = max(observed_episode_span - len(set(episode_numbers)), 0)
+    contiguous = episode_numbers == list(
+        range(episode_start, max(episode_numbers, default=episode_start - 1) + 1)
+    )
+    is_airing = season.get("status") == "airing"
+    is_upcoming = season.get("status") in {"upcoming", "announced"}
+    completeness_mismatch = bool(
+        expected and not is_airing and len(set(episode_numbers)) != expected
+    )
     duration_warnings = any(row["duration_flag"] not in ("", "normal") for row in canonical_rows)
     qc_status = (
-        "FAIL"
+        "NOT_STARTED"
+        if is_upcoming and not canonical_rows
+        else "FAIL"
         if duplicate_logical or not contiguous or not canonical_rows or completeness_mismatch
         else "WARNING"
     )
     if (
-        expected
+        not is_airing
+        and expected
         and len(set(episode_numbers)) == expected
         and contiguous
         and all(row["channel_authority"] != "unknown" for row in canonical_rows)
         and not duration_warnings
     ):
         qc_status = "PASS"
-    publish_metrics = qc_status != "FAIL" and len(views) == len(canonical_rows)
+    publish_metrics = (
+        bool(canonical_rows) and qc_status != "FAIL" and len(views) == len(canonical_rows)
+    )
     max_row = max(canonical_rows, key=lambda row: row["view_count"] or -1, default=None)
     min_row = min(
         canonical_rows,
@@ -302,7 +404,13 @@ def build_pilot(
             "season_status": season["status"],
             "expected_episode_count": expected or "",
             "canonical_episode_count": len(canonical_rows),
-            "missing_episode_count": (expected - len(set(episode_numbers))) if expected else "",
+            "missing_episode_count": (
+                missing_aired_episodes
+                if is_airing
+                else max(expected - len(set(episode_numbers)), 0)
+                if expected
+                else ""
+            ),
             "total_views": sum(views) if publish_metrics else "",
             "average_views": round(statistics.mean(views), 2) if publish_metrics else "",
             "median_views": statistics.median(views) if publish_metrics else "",
@@ -325,7 +433,11 @@ def build_pilot(
             "snapshot_at": provenance.retrieved_at,
             "qc_status": qc_status,
             "notes": (
-                "Aggregate views across canonical full episodes; not unique viewers or audience."
+                "Views-to-date across aired canonical full episodes; "
+                "not unique viewers or audience."
+                if is_airing and qc_status in {"PASS", "WARNING"}
+                else "Aggregate views across canonical full episodes; "
+                "not unique viewers or audience."
                 if qc_status in {"PASS", "WARNING"}
                 else "Pilot totals suppressed on FAIL; unresolved evidence remains."
             ),
@@ -379,7 +491,9 @@ def build_pilot(
     abnormal_durations = sum(
         1 for row in canonical_rows if row["duration_flag"] not in ("", "normal")
     )
-    if qc_status == "PASS":
+    if is_airing and qc_status != "FAIL":
+        evidence_line = "Airing-season views-to-date are publishable under the recorded rules."
+    elif qc_status == "PASS":
         evidence_line = "Completed-season metrics are publishable under the recorded Phase-1 rules."
     elif qc_status == "WARNING":
         evidence_line = (
@@ -388,14 +502,14 @@ def build_pilot(
     else:
         evidence_line = "Completed-season metrics are suppressed until all FAIL conditions resolve."
     report = [
-        "# Pilot QC report",
+        f"# {season['season_id']} QC report",
         "",
         f"- Status: **{qc_status}**",
         f"- Actor: `{provenance.actor_name}`",
         f"- Actor run: `{provenance.actor_run_id}`",
         f"- Dataset: `{provenance.dataset_id}`",
         f"- Snapshot: `{provenance.retrieved_at}`",
-        f"- Source playlist: `{season.get('official_playlist_url', '')}`",
+        f"- Source: `{next(iter(source_urls), season.get('official_playlist_url', ''))}`",
         f"- Raw candidates: {len(episode_rows)}",
         f"- Canonical episodes: {len(canonical_rows)}",
         f"- Expected episodes: {expected or 'unknown'}",
@@ -411,7 +525,7 @@ def build_pilot(
     (output_dir / "qc_report.md").write_text("\n".join(report) + "\n", encoding="utf-8")
     research_rows = sorted(canonical_rows, key=lambda row: row["episode_no"])
     table = [
-        "# ATSH pilot research output",
+        f"# {season['season_id']} research output",
         "",
         (
             f"Snapshot: `{provenance.retrieved_at}`. Values are cumulative YouTube main-show "
@@ -439,11 +553,12 @@ def build_pilot(
                 "| --- | --- | ---: | ---: | ---: | ---: | ---: | --- | --- |",
                 (
                     f"| {show['name']} | {season['season_id']} | {len(canonical_rows)} | "
-                    f"{summary_row['total_views']:,} | {summary_row['average_views']:,.0f} | "
-                    f"{summary_row['median_views']:,.0f} | "
-                    f"{summary_row['first_5_total_views']:,} | "
+                    f"{_display_number(summary_row['total_views'])} | "
+                    f"{_display_number(summary_row['average_views'])} | "
+                    f"{_display_number(summary_row['median_views'])} | "
+                    f"{_display_number(summary_row['first_5_total_views'])} | "
                     f"E{summary_row['max_episode_no']} "
-                    f"({summary_row['max_episode_views']:,}) | {qc_status} |"
+                    f"({_display_number(summary_row['max_episode_views'])}) | {qc_status} |"
                 ),
             )
         )

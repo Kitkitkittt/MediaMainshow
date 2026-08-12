@@ -1,6 +1,7 @@
 from mainshow.normalize import (
     exact_int,
     normalize_text,
+    parse_bare_episode_number,
     parse_duration_seconds,
     parse_episode_number,
     parse_playlist_id,
@@ -11,6 +12,13 @@ def test_normalize_vietnamese_and_episode_patterns() -> None:
     assert normalize_text("TẬP 01 – Chung kết") == "tap 01 chung ket"
     assert parse_episode_number("Anh Trai Say Hi | Tập 3") == 3
     assert parse_episode_number("Rap Việt - EP.01") == 1
+    assert parse_episode_number("Sao Nhập Ngũ 2023 TẬP 7I Chậm mà chắc") == 7
+    assert (
+        parse_bare_episode_number(
+            "Mái Ấm Gia Đình Việt 172: Lâm Bảo Ngọc", ["Mái Ấm Gia Đình Việt"]
+        )
+        == 172
+    )
 
 
 def test_parse_exact_machine_values() -> None:

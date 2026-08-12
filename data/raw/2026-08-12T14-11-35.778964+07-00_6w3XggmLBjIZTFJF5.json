@@ -1,0 +1,38 @@
+{
+  "actor_name": "streamers/youtube-scraper",
+  "actor_run_id": "6w3XggmLBjIZTFJF5",
+  "dataset_id": "4mQdTwwJ0ekxozKTq",
+  "actor_build_id": "SUk0475fgtCh9zqMt",
+  "retrieved_at": "2026-08-12T14:11:35.778964+07:00",
+  "actor_input": {
+    "maxResults": 36,
+    "maxResultsShorts": 0,
+    "maxResultStreams": 0,
+    "startUrls": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY"
+      }
+    ],
+    "sourceBindingUrl": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY"
+  },
+  "run_metadata": {
+    "status": "SUCCEEDED",
+    "startedAt": "2026-08-12T07:10:42.390Z",
+    "finishedAt": "2026-08-12T07:11:28.701Z",
+    "usageTotalUsd": 0,
+    "chargedEventCounts": {
+      "result": 1,
+      "date-filter": 0,
+      "ai-video-description": 0,
+      "ai-video-summary": 0
+    }
+  },
+  "items": [
+    {
+      "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY",
+      "error": "NO_VIDEOS",
+      "input": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY",
+      "note": "No videos found on the page."
+    }
+  ]
+}

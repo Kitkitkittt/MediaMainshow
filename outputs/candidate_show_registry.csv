@@ -1,0 +1,4 @@
+﻿candidate_show_name,candidate_show_name_normalized,channel_id,channel_name,distinct_episode_count,min_episode_no,max_episode_no,episode_continuity,median_duration_seconds,discovered_by,review_status
+full,full,UCTOWyiIkPEqyh_2O-ArJR5w,FOREST STUDIO,16,1,16,1.0,3555.0,channel_scan,REVIEW
+official,official,UCTOWyiIkPEqyh_2O-ArJR5w,FOREST STUDIO,9,1,9,1.0,2751,channel_scan,REVIEW
+xhtdrlx2 full,xhtdrlx2 full,UCTOWyiIkPEqyh_2O-ArJR5w,FOREST STUDIO,8,1,8,1.0,3074.5,channel_scan,REVIEW

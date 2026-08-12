@@ -1,0 +1,2874 @@
+{
+  "actor_name": "streamers/youtube-scraper",
+  "actor_run_id": "hCOw653KWtWb6Gu2q",
+  "dataset_id": "9gdnLOZtijxyCVqYQ",
+  "actor_build_id": "SUk0475fgtCh9zqMt",
+  "retrieved_at": "2026-08-12T14:37:51.304460+07:00",
+  "actor_input": {
+    "maxResults": 30,
+    "maxResultsShorts": 0,
+    "maxResultStreams": 0,
+    "startUrls": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_"
+      }
+    ],
+    "sourceBindingUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_"
+  },
+  "run_metadata": {
+    "status": "SUCCEEDED",
+    "startedAt": "2026-08-12T07:36:39.199Z",
+    "finishedAt": "2026-08-12T07:37:44.547Z",
+    "usageTotalUsd": 0.1,
+    "chargedEventCounts": {
+      "result": 25,
+      "date-filter": 0,
+      "ai-video-description": 0,
+      "ai-video-summary": 0
+    }
+  },
+  "items": [
+    {
+      "title": "Biệt Đội Siêu Sao - Tập 7 | Cười nội thương với lớp học thổi tù và",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "em3qd9ALQ_k",
+      "url": "https://www.youtube.com/watch?v=em3qd9ALQ_k&list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_&index=8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/em3qd9ALQ_k/maxresdefault.jpg",
+      "viewCount": 3676,
+      "date": "2025-01-09T09:33:30.000Z",
+      "likes": 56,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:03:54",
+      "commentsCount": 0,
+      "text": "Biệt Đội Siêu Sao - Tập 7 | Cười nội thương với lớp học thổi tù và\n#HTV​ #realityshowHTV​ #TienLuat #NinhDuongLanNgoc #TieuVy #HuyenBaby #LienBinhPhat #viênvibi \n\n\"Biệt đội siêu sao\" phát sóng 22g thứ Bảy hàng tuần trên HTV7. \n\n\"Biệt đội siêu sao\" là chương trình truyền hình thực tế kết hợp giải trí, thử thách sinh tồn, quảng bá danh lam thắng cảnh, văn hóa, ẩm thực vùng miền... Sáu người chơi chính gồm Tiến Luật, Ninh Dương Lan Ngọc, Tiểu Vy, Huyền Baby, Liên Bỉnh Phát, Viên Vibi sẽ cùng các khách mời tham gia hành trình truy tìm báu vật địa phương. \n\nFull Playlist: https://bit.ly/49bmkyN \n\n#HTV​ #realityshowHTV​ #bietdoisieusaoHTV​ \n\n********************\n👉 Theo dõi các kênh chính thức của Đài truyền hình TP. HCM (HTV) tại:\n► Fanpage:  \n/htv.hcm\n* Đăng ký: https://www.youtube.com/user/htvonlinetube?sub_confirmation=1 \n* Website: http://www.htv.com.vn \n* Facebook:https://www.fb.com/htv.hcm\n* TikTok: https://www.tiktok.com/@htvofficial",
+      "translatedText": "Biệt Đội Siêu Sao - Tập 7 | Cười nội thương với lớp học thổi tù và\n#HTV​ #realityshowHTV​ #TienLuat #NinhDuongLanNgoc #TieuVy #HuyenBaby #LienBinhPhat #viênvibi \n\n\"Biệt đội siêu sao\" phát sóng 22g thứ Bảy hàng tuần trên HTV7. \n\n\"Biệt đội siêu sao\" là chương trình truyền hình thực tế kết hợp giải trí, thử thách sinh tồn, quảng bá danh lam thắng cảnh, văn hóa, ẩm thực vùng miền... Sáu người chơi chính gồm Tiến Luật, Ninh Dương Lan Ngọc, Tiểu Vy, Huyền Baby, Liên Bỉnh Phát, Viên Vibi sẽ cùng các khách mời tham gia hành trình truy tìm báu vật địa phương. \n\nFull Playlist: https://bit.ly/49bmkyN \n\n#HTV​ #realityshowHTV​ #bietdoisieusaoHTV​ \n\n********************\n👉 Theo dõi các kênh chính thức của Đài truyền hình TP. HCM (HTV) tại:\n► Fanpage:  \n/htv.hcm\nĐăng ký: https://www.youtube.com/user/htvonlin... \nWebsite: http://www.htv.com.vn \nFacebook:https://www.fb.com/htv.hcm\nTikTok:   / htvofficial  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#HTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/realityshowhtv",
+          "text": "#realityshowHTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tienluat",
+          "text": "#TienLuat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ninhduonglanngoc",
+          "text": "#NinhDuongLanNgoc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tieuvy",
+          "text": "#TieuVy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huyenbaby",
+          "text": "#HuyenBaby"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lienbinhphat",
+          "text": "#LienBinhPhat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vi%C3%AAnvibi",
+          "text": "#viênvibi"
+        },
+        {
+          "url": "https://bit.ly/49bmkyN",
+          "text": "https://bit.ly/49bmkyN"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#HTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/realityshowhtv",
+          "text": "#realityshowHTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bietdoisieusaohtv",
+          "text": "#bietdoisieusaoHTV​"
+        },
+        {
+          "url": "https://www.youtube.com/user/htvonlinetube?sub_confirmation=1",
+          "text": "https://www.youtube.com/user/htvonlin..."
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.fb.com/htv.hcm",
+          "text": "https://www.fb.com/htv.hcm"
+        },
+        {
+          "url": "https://www.tiktok.com/@htvofficial",
+          "text": "  / htvofficial  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 7,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isMonetized": null,
+      "hashtags": [
+        "#NinhDuongLanNgoc",
+        "#HTV​",
+        "#TienLuat"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isPaidContent": false
+    },
+    {
+      "title": "Biệt Đội Siêu Sao |Tập 3| “Hình tượng” thế nào cũng được, miễn ăn “nhanh” là được",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "CkH-aahQlWI",
+      "url": "https://www.youtube.com/watch?v=CkH-aahQlWI&list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_&index=11",
+      "thumbnailUrl": "https://i.ytimg.com/vi/CkH-aahQlWI/maxresdefault.jpg",
+      "viewCount": 1046,
+      "date": "2025-01-02T04:54:13.000Z",
+      "likes": 64,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:03:06",
+      "commentsCount": 1,
+      "text": "Coi bộ chuyến này ai cũng bất chấp bỏ hết hình tượng vì một giấc ngủ ngon. Hình tượng để sau, tốc độ mới là quan trọng 🤣🤣🤣\n\n#HTV​ #realityshow #bietdoisieusaoHTV​ #HuyềnBaby #ViênVibi #NinhDươngLanNgọc #TiểuVy #LiênBỉnhPhát #TiếnLuật #HuỳnhLập #sam \n\n\"Biệt đội siêu sao\" phát sóng 22g thứ Bảy hàng tuần trên HTV7. \n\n\"Biệt đội siêu sao\" là chương trình truyền hình thực tế kết hợp giải trí, thử thách sinh tồn, quảng bá danh lam thắng cảnh, văn hóa, ẩm thực vùng miền... Sáu người chơi chính gồm Tiến Luật, Ninh Dương Lan Ngọc, Tiểu Vy, Huyền Baby, Liên Bỉnh Phát, Viên Vibi sẽ cùng các khách mời tham gia hành trình truy tìm báu vật địa phương. \n\nFull Playlist: https://bit.ly/49bmkyN \n\n#HTV​ #realityshowHTV​ #bietdoisieusaoHTV​ \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://bit.ly/3D9sgXH \n* Website: http://www.htv.com.vn \n* Facebook: https://www.facebook.com/htv.hcm\n* Ứng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\n2 ngày 1 đêm: https://bit.ly/45IWLnj\nSao nhập ngũ 2024: https://bit.ly/3yjQO3T \nBạn muốn hẹn hò: https://bit.ly/3HcaUOm \nMái ấm gia đình Việt: https://bit.ly/3edga9r \nChiến nhanh thắng chắc: https://bit.ly/3YG3vA4 \nBậc thầy săn thưởng: https://bit.ly/4f1bxJH \nVợ chồng son:  https://bit.ly/3TYwEoa \nXuân Hạ Thu Đông rồi lại Xuân: https://bit.ly/4en5Apw\nBiệt đội siêu sao: https://bit.ly/49bmkyN",
+      "translatedText": "Coi bộ chuyến này ai cũng bất chấp bỏ hết hình tượng vì một giấc ngủ ngon. Hình tượng để sau, tốc độ mới là quan trọng 🤣🤣🤣\n\n#HTV​ #realityshow #bietdoisieusaoHTV​ #HuyềnBaby #ViênVibi #NinhDươngLanNgọc #TiểuVy #LiênBỉnhPhát #TiếnLuật #HuỳnhLập #sam \n\n\"Biệt đội siêu sao\" phát sóng 22g thứ Bảy hàng tuần trên HTV7. \n\n\"Biệt đội siêu sao\" là chương trình truyền hình thực tế kết hợp giải trí, thử thách sinh tồn, quảng bá danh lam thắng cảnh, văn hóa, ẩm thực vùng miền... Sáu người chơi chính gồm Tiến Luật, Ninh Dương Lan Ngọc, Tiểu Vy, Huyền Baby, Liên Bỉnh Phát, Viên Vibi sẽ cùng các khách mời tham gia hành trình truy tìm báu vật địa phương. \n\nFull Playlist: https://bit.ly/49bmkyN \n\n#HTV​ #realityshowHTV​ #bietdoisieusaoHTV​ \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \nĐăng ký: https://bit.ly/3D9sgXH \nWebsite: http://www.htv.com.vn \nFacebook:   / htv.hcm  \nỨng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\n2 ngày 1 đêm: https://bit.ly/45IWLnj\nSao nhập ngũ 2024: https://bit.ly/3yjQO3T \nBạn muốn hẹn hò: https://bit.ly/3HcaUOm \nMái ấm gia đình Việt: https://bit.ly/3edga9r \nChiến nhanh thắng chắc: https://bit.ly/3YG3vA4 \nBậc thầy săn thưởng: https://bit.ly/4f1bxJH \nVợ chồng son:  https://bit.ly/3TYwEoa \nXuân Hạ Thu Đông rồi lại Xuân: https://bit.ly/4en5Apw\nBiệt đội siêu sao: https://bit.ly/49bmkyN",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#HTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/realityshow",
+          "text": "#realityshow"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bietdoisieusaohtv",
+          "text": "#bietdoisieusaoHTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huy%E1%BB%81nbaby",
+          "text": "#HuyềnBaby"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vi%C3%AAnvibi",
+          "text": "#ViênVibi"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ninhd%C6%B0%C6%A1nglanng%E1%BB%8Dc",
+          "text": "#NinhDươngLanNgọc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ti%E1%BB%83uvy",
+          "text": "#TiểuVy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/li%C3%AAnb%E1%BB%89nhph%C3%A1t",
+          "text": "#LiênBỉnhPhát"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ti%E1%BA%BFnlu%E1%BA%ADt",
+          "text": "#TiếnLuật"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hu%E1%BB%B3nhl%E1%BA%ADp",
+          "text": "#HuỳnhLập"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/sam",
+          "text": "#sam"
+        },
+        {
+          "url": "https://bit.ly/49bmkyN",
+          "text": "https://bit.ly/49bmkyN"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#HTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/realityshowhtv",
+          "text": "#realityshowHTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bietdoisieusaohtv",
+          "text": "#bietdoisieusaoHTV​"
+        },
+        {
+          "url": "https://bit.ly/3D9sgXH",
+          "text": "https://bit.ly/3D9sgXH"
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.facebook.com/htv.hcm",
+          "text": "  / htv.hcm  "
+        },
+        {
+          "url": "https://htvc.tv/",
+          "text": "https://htvc.tv"
+        },
+        {
+          "url": "https://bit.ly/45IWLnj",
+          "text": "https://bit.ly/45IWLnj"
+        },
+        {
+          "url": "https://bit.ly/3yjQO3T",
+          "text": "https://bit.ly/3yjQO3T"
+        },
+        {
+          "url": "https://bit.ly/3HcaUOm",
+          "text": "https://bit.ly/3HcaUOm"
+        },
+        {
+          "url": "https://bit.ly/3edga9r",
+          "text": "https://bit.ly/3edga9r"
+        },
+        {
+          "url": "https://bit.ly/3YG3vA4",
+          "text": "https://bit.ly/3YG3vA4"
+        },
+        {
+          "url": "https://bit.ly/4f1bxJH",
+          "text": "https://bit.ly/4f1bxJH"
+        },
+        {
+          "url": "https://bit.ly/3TYwEoa",
+          "text": "https://bit.ly/3TYwEoa"
+        },
+        {
+          "url": "https://bit.ly/4en5Apw",
+          "text": "https://bit.ly/4en5Apw"
+        },
+        {
+          "url": "https://bit.ly/49bmkyN",
+          "text": "https://bit.ly/49bmkyN"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 10,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isMonetized": null,
+      "hashtags": [
+        "#HTV​",
+        "#sam",
+        "#realityshow"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isPaidContent": false
+    },
+    {
+      "title": "Biệt Đội Siêu Sao | Tập 8 (11/1/2025)",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "gNoXsbSDAM4",
+      "url": "https://www.youtube.com/watch?v=gNoXsbSDAM4&list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_&index=7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/gNoXsbSDAM4/maxresdefault.jpg",
+      "viewCount": 119211,
+      "date": "2025-01-11T15:30:25.000Z",
+      "likes": 832,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:58:15",
+      "commentsCount": 36,
+      "text": "\"Biệt đội siêu sao\" phát sóng 22g thứ Bảy hàng tuần trên HTV7. \n\n\"Biệt đội siêu sao\" là chương trình truyền hình thực tế kết hợp giải trí, thử thách sinh tồn, quảng bá danh lam thắng cảnh, văn hóa, ẩm thực vùng miền... Sáu người chơi chính gồm Tiến Luật, Ninh Dương Lan Ngọc, Tiểu Vy, Huyền Baby, Liên Bỉnh Phát, Viên Vibi sẽ cùng các khách mời tham gia hành trình truy tìm báu vật địa phương. \n\nFull Playlist: https://bit.ly/49bmkyN \n\n#HTV​ #realityshowHTV​ #bietdoisieusaoHTV​ \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://bit.ly/3D9sgXH \n* Website: http://www.htv.com.vn \n* Facebook: https://www.facebook.com/htv.hcm\n* Ứng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\n2 ngày 1 đêm: https://bit.ly/45IWLnj\nSao nhập ngũ 2024: https://bit.ly/3yjQO3T \nBạn muốn hẹn hò: https://bit.ly/3HcaUOm \nMái ấm gia đình Việt: https://bit.ly/3edga9r \nChiến nhanh thắng chắc: https://bit.ly/3YG3vA4 \nBậc thầy săn thưởng: https://bit.ly/4f1bxJH \nVợ chồng son:  https://bit.ly/3TYwEoa \nXuân Hạ Thu Đông rồi lại Xuân: https://bit.ly/4en5Apw\nBiệt đội siêu sao: https://bit.ly/49bmkyN",
+      "translatedText": "\"Biệt đội siêu sao\" phát sóng 22g thứ Bảy hàng tuần trên HTV7. \n\n\"Biệt đội siêu sao\" là chương trình truyền hình thực tế kết hợp giải trí, thử thách sinh tồn, quảng bá danh lam thắng cảnh, văn hóa, ẩm thực vùng miền... Sáu người chơi chính gồm Tiến Luật, Ninh Dương Lan Ngọc, Tiểu Vy, Huyền Baby, Liên Bỉnh Phát, Viên Vibi sẽ cùng các khách mời tham gia hành trình truy tìm báu vật địa phương. \n\nFull Playlist: https://bit.ly/49bmkyN \n\n#HTV​ #realityshowHTV​ #bietdoisieusaoHTV​ \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \nĐăng ký: https://bit.ly/3D9sgXH \nWebsite: http://www.htv.com.vn \nFacebook:   / htv.hcm  \nỨng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\n2 ngày 1 đêm: https://bit.ly/45IWLnj\nSao nhập ngũ 2024: https://bit.ly/3yjQO3T \nBạn muốn hẹn hò: https://bit.ly/3HcaUOm \nMái ấm gia đình Việt: https://bit.ly/3edga9r \nChiến nhanh thắng chắc: https://bit.ly/3YG3vA4 \nBậc thầy săn thưởng: https://bit.ly/4f1bxJH \nVợ chồng son:  https://bit.ly/3TYwEoa \nXuân Hạ Thu Đông rồi lại Xuân: https://bit.ly/4en5Apw\nBiệt đội siêu sao: https://bit.ly/49bmkyN",
+      "descriptionLinks": [
+        {
+          "url": "https://bit.ly/49bmkyN",
+          "text": "https://bit.ly/49bmkyN"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#HTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/realityshowhtv",
+          "text": "#realityshowHTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bietdoisieusaohtv",
+          "text": "#bietdoisieusaoHTV​"
+        },
+        {
+          "url": "https://bit.ly/3D9sgXH",
+          "text": "https://bit.ly/3D9sgXH"
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.facebook.com/htv.hcm",
+          "text": "  / htv.hcm  "
+        },
+        {
+          "url": "https://htvc.tv/",
+          "text": "https://htvc.tv"
+        },
+        {
+          "url": "https://bit.ly/45IWLnj",
+          "text": "https://bit.ly/45IWLnj"
+        },
+        {
+          "url": "https://bit.ly/3yjQO3T",
+          "text": "https://bit.ly/3yjQO3T"
+        },
+        {
+          "url": "https://bit.ly/3HcaUOm",
+          "text": "https://bit.ly/3HcaUOm"
+        },
+        {
+          "url": "https://bit.ly/3edga9r",
+          "text": "https://bit.ly/3edga9r"
+        },
+        {
+          "url": "https://bit.ly/3YG3vA4",
+          "text": "https://bit.ly/3YG3vA4"
+        },
+        {
+          "url": "https://bit.ly/4f1bxJH",
+          "text": "https://bit.ly/4f1bxJH"
+        },
+        {
+          "url": "https://bit.ly/3TYwEoa",
+          "text": "https://bit.ly/3TYwEoa"
+        },
+        {
+          "url": "https://bit.ly/4en5Apw",
+          "text": "https://bit.ly/4en5Apw"
+        },
+        {
+          "url": "https://bit.ly/49bmkyN",
+          "text": "https://bit.ly/49bmkyN"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 6,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isMonetized": null,
+      "hashtags": [
+        "#HTV​",
+        "#realityshowHTV​",
+        "#bietdoisieusaoHTV​"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isPaidContent": false
+    },
+    {
+      "title": "Biệt Đội Siêu Sao - Tập 3 | Anh em đại chiến (7/12/2024)",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "sgDn9MObkyQ",
+      "url": "https://www.youtube.com/watch?v=sgDn9MObkyQ&list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_&index=17",
+      "thumbnailUrl": "https://i.ytimg.com/vi/sgDn9MObkyQ/maxresdefault.jpg",
+      "viewCount": 246641,
+      "date": "2024-12-07T15:30:06.000Z",
+      "likes": 1600,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:59:08",
+      "commentsCount": 113,
+      "text": "\"Biệt đội siêu sao\" phát sóng 22g thứ Bảy hàng tuần trên HTV7. \n\n\"Biệt đội siêu sao\" là chương trình truyền hình thực tế kết hợp giải trí, thử thách sinh tồn, quảng bá danh lam thắng cảnh, văn hóa, ẩm thực vùng miền... Sáu người chơi chính gồm Tiến Luật, Ninh Dương Lan Ngọc, Tiểu Vy, Huyền Baby, Liên Bỉnh Phát, Viên Vibi sẽ cùng các khách mời tham gia hành trình truy tìm báu vật địa phương. \n\nFull Playlist: https://bit.ly/49bmkyN \n\n#HTV​ #realityshowHTV​ #bietdoisieusaoHTV​ \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://bit.ly/3D9sgXH \n* Website: http://www.htv.com.vn \n* Facebook: https://www.facebook.com/htv.hcm\n* Ứng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\n2 ngày 1 đêm: https://bit.ly/45IWLnj\nSao nhập ngũ 2024: https://bit.ly/3yjQO3T \nBạn muốn hẹn hò: https://bit.ly/3HcaUOm \nMái ấm gia đình Việt: https://bit.ly/3edga9r \nChiến nhanh thắng chắc: https://bit.ly/3YG3vA4 \nBậc thầy săn thưởng: https://bit.ly/4f1bxJH \nVợ chồng son:  https://bit.ly/3TYwEoa \nXuân Hạ Thu Đông rồi lại Xuân: https://bit.ly/4en5Apw\nBiệt đội siêu sao: https://bit.ly/49bmkyN",
+      "translatedText": "\"Biệt đội siêu sao\" phát sóng 22g thứ Bảy hàng tuần trên HTV7. \n\n\"Biệt đội siêu sao\" là chương trình truyền hình thực tế kết hợp giải trí, thử thách sinh tồn, quảng bá danh lam thắng cảnh, văn hóa, ẩm thực vùng miền... Sáu người chơi chính gồm Tiến Luật, Ninh Dương Lan Ngọc, Tiểu Vy, Huyền Baby, Liên Bỉnh Phát, Viên Vibi sẽ cùng các khách mời tham gia hành trình truy tìm báu vật địa phương. \n\nFull Playlist: https://bit.ly/49bmkyN \n\n#HTV​ #realityshowHTV​ #bietdoisieusaoHTV​ \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \nĐăng ký: https://bit.ly/3D9sgXH \nWebsite: http://www.htv.com.vn \nFacebook:   / htv.hcm  \nỨng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\n2 ngày 1 đêm: https://bit.ly/45IWLnj\nSao nhập ngũ 2024: https://bit.ly/3yjQO3T \nBạn muốn hẹn hò: https://bit.ly/3HcaUOm \nMái ấm gia đình Việt: https://bit.ly/3edga9r \nChiến nhanh thắng chắc: https://bit.ly/3YG3vA4 \nBậc thầy săn thưởng: https://bit.ly/4f1bxJH \nVợ chồng son:  https://bit.ly/3TYwEoa \nXuân Hạ Thu Đông rồi lại Xuân: https://bit.ly/4en5Apw\nBiệt đội siêu sao: https://bit.ly/49bmkyN",
+      "descriptionLinks": [
+        {
+          "url": "https://bit.ly/49bmkyN",
+          "text": "https://bit.ly/49bmkyN"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#HTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/realityshowhtv",
+          "text": "#realityshowHTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bietdoisieusaohtv",
+          "text": "#bietdoisieusaoHTV​"
+        },
+        {
+          "url": "https://bit.ly/3D9sgXH",
+          "text": "https://bit.ly/3D9sgXH"
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.facebook.com/htv.hcm",
+          "text": "  / htv.hcm  "
+        },
+        {
+          "url": "https://htvc.tv/",
+          "text": "https://htvc.tv"
+        },
+        {
+          "url": "https://bit.ly/45IWLnj",
+          "text": "https://bit.ly/45IWLnj"
+        },
+        {
+          "url": "https://bit.ly/3yjQO3T",
+          "text": "https://bit.ly/3yjQO3T"
+        },
+        {
+          "url": "https://bit.ly/3HcaUOm",
+          "text": "https://bit.ly/3HcaUOm"
+        },
+        {
+          "url": "https://bit.ly/3edga9r",
+          "text": "https://bit.ly/3edga9r"
+        },
+        {
+          "url": "https://bit.ly/3YG3vA4",
+          "text": "https://bit.ly/3YG3vA4"
+        },
+        {
+          "url": "https://bit.ly/4f1bxJH",
+          "text": "https://bit.ly/4f1bxJH"
+        },
+        {
+          "url": "https://bit.ly/3TYwEoa",
+          "text": "https://bit.ly/3TYwEoa"
+        },
+        {
+          "url": "https://bit.ly/4en5Apw",
+          "text": "https://bit.ly/4en5Apw"
+        },
+        {
+          "url": "https://bit.ly/49bmkyN",
+          "text": "https://bit.ly/49bmkyN"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 16,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isMonetized": null,
+      "hashtags": [
+        "#HTV​",
+        "#realityshowHTV​",
+        "#bietdoisieusaoHTV​"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isPaidContent": false
+    },
+    {
+      "title": "Biệt Đội Siêu Sao | Tập 6 | Thử thách nhảy dây đồng đội - tưởng không khó, nhưng khó không tưởng",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "tbIkG1bP21s",
+      "url": "https://www.youtube.com/watch?v=tbIkG1bP21s&list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_&index=6",
+      "thumbnailUrl": "https://i.ytimg.com/vi/tbIkG1bP21s/maxresdefault.jpg",
+      "viewCount": 7996,
+      "date": "2025-01-14T07:18:10.000Z",
+      "likes": 67,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:08:00",
+      "commentsCount": 0,
+      "text": "Mới sáng sớm mà bắt người ta ra nhảy dây, giỡn vậy có nên không trời? 😂\n#HTV​ #realityshow #bietdoisieusaoHTV​ #HuyềnBaby #ViênVibi #NinhDươngLanNgọc #TiểuVy #LiênBỉnhPhát #TiếnLuật #HuỳnhLập #Sam\n********************\n👉 Theo dõi các kênh chính thức của Đài truyền hình TP. HCM (HTV) tại:\n► Fanpage:  \n/htv.hcm\n* Đăng ký: https://www.youtube.com/user/htvonlinetube?sub_confirmation=1 \n* Website: http://www.htv.com.vn \n* Facebook:https://www.fb.com/htv.hcm\n* TikTok: https://www.tiktok.com/@htvofficial",
+      "translatedText": "Mới sáng sớm mà bắt người ta ra nhảy dây, giỡn vậy có nên không trời? 😂\n#HTV​ #realityshow #bietdoisieusaoHTV​ #HuyềnBaby #ViênVibi #NinhDươngLanNgọc #TiểuVy #LiênBỉnhPhát #TiếnLuật #HuỳnhLập #Sam\n********************\n👉 Theo dõi các kênh chính thức của Đài truyền hình TP. HCM (HTV) tại:\n► Fanpage:  \n/htv.hcm\nĐăng ký: https://www.youtube.com/user/htvonlin... \nWebsite: http://www.htv.com.vn \nFacebook:https://www.fb.com/htv.hcm\nTikTok:   / htvofficial  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#HTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/realityshow",
+          "text": "#realityshow"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bietdoisieusaohtv",
+          "text": "#bietdoisieusaoHTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huy%E1%BB%81nbaby",
+          "text": "#HuyềnBaby"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vi%C3%AAnvibi",
+          "text": "#ViênVibi"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ninhd%C6%B0%C6%A1nglanng%E1%BB%8Dc",
+          "text": "#NinhDươngLanNgọc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ti%E1%BB%83uvy",
+          "text": "#TiểuVy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/li%C3%AAnb%E1%BB%89nhph%C3%A1t",
+          "text": "#LiênBỉnhPhát"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ti%E1%BA%BFnlu%E1%BA%ADt",
+          "text": "#TiếnLuật"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hu%E1%BB%B3nhl%E1%BA%ADp",
+          "text": "#HuỳnhLập"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/sam",
+          "text": "#Sam"
+        },
+        {
+          "url": "https://www.youtube.com/user/htvonlinetube?sub_confirmation=1",
+          "text": "https://www.youtube.com/user/htvonlin..."
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.fb.com/htv.hcm",
+          "text": "https://www.fb.com/htv.hcm"
+        },
+        {
+          "url": "https://www.tiktok.com/@htvofficial",
+          "text": "  / htvofficial  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 5,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isMonetized": null,
+      "hashtags": [
+        "#HTV​",
+        "#Sam",
+        "#realityshow"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isPaidContent": false
+    },
+    {
+      "title": "Cuộc đua tìm đồ | Biệt đội siêu sao - Tập 3",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "gCiu-t2OOBQ",
+      "url": "https://www.youtube.com/watch?v=gCiu-t2OOBQ&list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_&index=16",
+      "thumbnailUrl": "https://i.ytimg.com/vi/gCiu-t2OOBQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHOBYACgAqKAgwIABABGEcgZSg5MA8=&rs=AOn4CLCK1CCEqiy1lICzXOlQjCUdz7uLrA",
+      "viewCount": 1902,
+      "date": "2024-12-08T13:56:11.000Z",
+      "likes": 80,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:01:01",
+      "commentsCount": 0,
+      "text": "Cuộc đua tìm đồ | Biệt đội siêu sao - Tập 3\n\"Biệt đội siêu sao\" phát sóng 22g thứ Bảy hàng tuần trên HTV7. \n\"Biệt đội siêu sao\" là chương trình truyền hình thực tế kết hợp giải trí, thử thách sinh tồn, quảng bá danh lam thắng cảnh, văn hóa, ẩm thực vùng miền... Sáu người chơi chính gồm Tiến Luật, Ninh Dương Lan Ngọc, Tiểu Vy, Huyền Baby, Liên Bỉnh Phát, Viên Vibi sẽ cùng các khách mời tham gia hành trình truy tìm báu vật địa phương. \n\n********************\n👉 Theo dõi các kênh chính thức của Đài truyền hình TP. HCM (HTV) tại:\n► Fanpage:  \n/htv.hcm\nĐăng ký: https://www.youtube.com/user/htvonlin... \nWebsite: http://www.htv.com.vn \nFacebook:https://www.fb.com/htv.hcm\nTikTok:   / htvofficial  ",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/user/htvonlinetube?sub_confirmation=1",
+          "text": "https://www.youtube.com/user/htvonlin..."
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.fb.com/htv.hcm",
+          "text": "https://www.fb.com/htv.hcm"
+        },
+        {
+          "url": "https://www.tiktok.com/@htvofficial",
+          "text": "  / htvofficial  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 15,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isPaidContent": false
+    },
+    {
+      "title": "Biệt Đội Siêu Sao - Tập 2: Thử thách đốt calo nhiều lắm rồi!  (30/11/2024)",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "220_-Zei9wY",
+      "url": "https://www.youtube.com/watch?v=220_-Zei9wY&list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_&index=22",
+      "thumbnailUrl": "https://i.ytimg.com/vi/220_-Zei9wY/maxresdefault.jpg",
+      "viewCount": 211814,
+      "date": "2024-11-30T15:30:06.000Z",
+      "likes": 2100,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:58:29",
+      "commentsCount": 112,
+      "text": "Biệt Đội Siêu Sao - Tập 2: Đốt calo nhiều lắm rồi !\n\n\"Biệt đội siêu sao\" phát sóng 22g thứ Bảy hàng tuần trên HTV7. \n\"Biệt đội siêu sao\" là chương trình truyền hình thực tế kết hợp giải trí, thử thách sinh tồn, quảng bá danh lam thắng cảnh, văn hóa, ẩm thực vùng miền... Sáu người chơi chính gồm Tiến Luật, Ninh Dương Lan Ngọc, Tiểu Vy, Huyền Baby, Liên Bỉnh Phát, Viên Vibi sẽ cùng các khách mời tham gia hành trình truy tìm báu vật địa phương. \n\nFull Playlist: https://bit.ly/49bmkyN \n\n#HTV​ #realityshowHTV​ #bietdoisieusaoHTV​ \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://bit.ly/3D9sgXH \n* Website: http://www.htv.com.vn \n* Facebook: https://www.facebook.com/htv.hcm\n* Ứng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\n2 ngày 1 đêm: https://bit.ly/45IWLnj\nSao nhập ngũ 2024: https://bit.ly/3yjQO3T \nBạn muốn hẹn hò: https://bit.ly/3HcaUOm \nMái ấm gia đình Việt: https://bit.ly/3edga9r \nChiến nhanh thắng chắc: https://bit.ly/3YG3vA4 \nBậc thầy săn thưởng: https://bit.ly/4f1bxJH \nVợ chồng son:  https://bit.ly/3TYwEoa \nXuân Hạ Thu Đông rồi lại Xuân: https://bit.ly/4en5Apw\nBiệt đội siêu sao: https://bit.ly/49bmkyN",
+      "translatedText": "Biệt Đội Siêu Sao - Tập 2: Đốt calo nhiều lắm rồi !\n\n\"Biệt đội siêu sao\" phát sóng 22g thứ Bảy hàng tuần trên HTV7. \n\"Biệt đội siêu sao\" là chương trình truyền hình thực tế kết hợp giải trí, thử thách sinh tồn, quảng bá danh lam thắng cảnh, văn hóa, ẩm thực vùng miền... Sáu người chơi chính gồm Tiến Luật, Ninh Dương Lan Ngọc, Tiểu Vy, Huyền Baby, Liên Bỉnh Phát, Viên Vibi sẽ cùng các khách mời tham gia hành trình truy tìm báu vật địa phương. \n\nFull Playlist: https://bit.ly/49bmkyN \n\n#HTV​ #realityshowHTV​ #bietdoisieusaoHTV​ \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \nĐăng ký: https://bit.ly/3D9sgXH \nWebsite: http://www.htv.com.vn \nFacebook:   / htv.hcm  \nỨng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\n2 ngày 1 đêm: https://bit.ly/45IWLnj\nSao nhập ngũ 2024: https://bit.ly/3yjQO3T \nBạn muốn hẹn hò: https://bit.ly/3HcaUOm \nMái ấm gia đình Việt: https://bit.ly/3edga9r \nChiến nhanh thắng chắc: https://bit.ly/3YG3vA4 \nBậc thầy săn thưởng: https://bit.ly/4f1bxJH \nVợ chồng son:  https://bit.ly/3TYwEoa \nXuân Hạ Thu Đông rồi lại Xuân: https://bit.ly/4en5Apw\nBiệt đội siêu sao: https://bit.ly/49bmkyN",
+      "descriptionLinks": [
+        {
+          "url": "https://bit.ly/49bmkyN",
+          "text": "https://bit.ly/49bmkyN"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#HTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/realityshowhtv",
+          "text": "#realityshowHTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bietdoisieusaohtv",
+          "text": "#bietdoisieusaoHTV​"
+        },
+        {
+          "url": "https://bit.ly/3D9sgXH",
+          "text": "https://bit.ly/3D9sgXH"
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.facebook.com/htv.hcm",
+          "text": "  / htv.hcm  "
+        },
+        {
+          "url": "https://htvc.tv/",
+          "text": "https://htvc.tv"
+        },
+        {
+          "url": "https://bit.ly/45IWLnj",
+          "text": "https://bit.ly/45IWLnj"
+        },
+        {
+          "url": "https://bit.ly/3yjQO3T",
+          "text": "https://bit.ly/3yjQO3T"
+        },
+        {
+          "url": "https://bit.ly/3HcaUOm",
+          "text": "https://bit.ly/3HcaUOm"
+        },
+        {
+          "url": "https://bit.ly/3edga9r",
+          "text": "https://bit.ly/3edga9r"
+        },
+        {
+          "url": "https://bit.ly/3YG3vA4",
+          "text": "https://bit.ly/3YG3vA4"
+        },
+        {
+          "url": "https://bit.ly/4f1bxJH",
+          "text": "https://bit.ly/4f1bxJH"
+        },
+        {
+          "url": "https://bit.ly/3TYwEoa",
+          "text": "https://bit.ly/3TYwEoa"
+        },
+        {
+          "url": "https://bit.ly/4en5Apw",
+          "text": "https://bit.ly/4en5Apw"
+        },
+        {
+          "url": "https://bit.ly/49bmkyN",
+          "text": "https://bit.ly/49bmkyN"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 21,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isMonetized": null,
+      "hashtags": [
+        "#HTV​",
+        "#realityshowHTV​",
+        "#bietdoisieusaoHTV​"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isPaidContent": false
+    },
+    {
+      "title": "Thử thách vượt sông cam go | Biệt đội siêu sao - Tập 2",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "ZrpW0dLJeKA",
+      "url": "https://www.youtube.com/watch?v=ZrpW0dLJeKA&list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_&index=19",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ZrpW0dLJeKA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHOBYACgAqKAgwIABABGGUgWChWMA8=&rs=AOn4CLDxz7rh0XjZMbvstkQCzijO0rhgXg",
+      "viewCount": 2460,
+      "date": "2024-12-03T04:30:28.000Z",
+      "likes": 88,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:01:23",
+      "commentsCount": 0,
+      "text": "Thử thách vượt sông cam go | Biệt đội siêu sao - Tập 2\n\"Biệt đội siêu sao\" phát sóng 22g thứ Bảy hàng tuần trên HTV7. \n\"Biệt đội siêu sao\" là chương trình truyền hình thực tế kết hợp giải trí, thử thách sinh tồn, quảng bá danh lam thắng cảnh, văn hóa, ẩm thực vùng miền... Sáu người chơi chính gồm Tiến Luật, Ninh Dương Lan Ngọc, Tiểu Vy, Huyền Baby, Liên Bỉnh Phát, Viên Vibi sẽ cùng các khách mời tham gia hành trình truy tìm báu vật địa phương. \n********************\n👉 Theo dõi các kênh chính thức của Đài truyền hình TP. HCM (HTV) tại:\n► Fanpage:  \n/htv.hcm\nĐăng ký: https://www.youtube.com/user/htvonlin... \nWebsite: http://www.htv.com.vn \nFacebook:https://www.fb.com/htv.hcm\nTikTok:   / htvofficial  ",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/user/htvonlinetube?sub_confirmation=1",
+          "text": "https://www.youtube.com/user/htvonlin..."
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.fb.com/htv.hcm",
+          "text": "https://www.fb.com/htv.hcm"
+        },
+        {
+          "url": "https://www.tiktok.com/@htvofficial",
+          "text": "  / htvofficial  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 18,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isPaidContent": false
+    },
+    {
+      "title": "Biệt Đội Siêu Sao | Tập 2 | Biệt đội chị em quằn quại với thử thách “lộn vòng gõ chiêng”",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "IHWoHOBR65s",
+      "url": "https://www.youtube.com/watch?v=IHWoHOBR65s&list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_&index=18",
+      "thumbnailUrl": "https://i.ytimg.com/vi/IHWoHOBR65s/maxresdefault.jpg",
+      "viewCount": 2450,
+      "date": "2024-12-05T09:30:11.000Z",
+      "likes": 137,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:02:56",
+      "commentsCount": 0,
+      "text": "Biệt đội chị em tỏ ra yếu thế trước trò chơi đòi hỏi kỹ năng “lộn nhào thượng thừa” mang tên “lộn vòng gõ chiêng”, liệu họ có thể vượt qua thử thách khó nhằn này không đây? 😂\n\n#HTV​ #realityshow #bietdoisieusaoHTV​ #HuyềnBaby #ViênVibi #NinhDươngLanNgọc #TiểuVy #LiênBỉnhPhát #TiếnLuật #HuỳnhLập #sam\n\nBiệt Đội Siêu Sao - Tập 2: Đốt calo nhiều lắm rồi !\n\n\"Biệt đội siêu sao\" phát sóng 22g thứ Bảy hàng tuần trên HTV7. \n\"Biệt đội siêu sao\" là chương trình truyền hình thực tế kết hợp giải trí, thử thách sinh tồn, quảng bá danh lam thắng cảnh, văn hóa, ẩm thực vùng miền... Sáu người chơi chính gồm Tiến Luật, Ninh Dương Lan Ngọc, Tiểu Vy, Huyền Baby, Liên Bỉnh Phát, Viên Vibi sẽ cùng các khách mời tham gia hành trình truy tìm báu vật địa phương. \n\nFull Playlist: https://bit.ly/49bmkyN \n\n#HTV​ #realityshowHTV​ #bietdoisieusaoHTV​ \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://bit.ly/3D9sgXH \n* Website: http://www.htv.com.vn \n* Facebook: https://www.facebook.com/htv.hcm\n* Ứng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\n2 ngày 1 đêm: https://bit.ly/45IWLnj\nSao nhập ngũ 2024: https://bit.ly/3yjQO3T \nBạn muốn hẹn hò: https://bit.ly/3HcaUOm \nMái ấm gia đình Việt: https://bit.ly/3edga9r \nChiến nhanh thắng chắc: https://bit.ly/3YG3vA4 \nBậc thầy săn thưởng: https://bit.ly/4f1bxJH \nVợ chồng son:  https://bit.ly/3TYwEoa \nXuân Hạ Thu Đông rồi lại Xuân: https://bit.ly/4en5Apw\nBiệt đội siêu sao: https://bit.ly/49bmkyN",
+      "translatedText": "Biệt đội chị em tỏ ra yếu thế trước trò chơi đòi hỏi kỹ năng “lộn nhào thượng thừa” mang tên “lộn vòng gõ chiêng”, liệu họ có thể vượt qua thử thách khó nhằn này không đây? 😂\n\n#HTV​ #realityshow #bietdoisieusaoHTV​ #HuyềnBaby #ViênVibi #NinhDươngLanNgọc #TiểuVy #LiênBỉnhPhát #TiếnLuật #HuỳnhLập #sam\n\nBiệt Đội Siêu Sao - Tập 2: Đốt calo nhiều lắm rồi !\n\n\"Biệt đội siêu sao\" phát sóng 22g thứ Bảy hàng tuần trên HTV7. \n\"Biệt đội siêu sao\" là chương trình truyền hình thực tế kết hợp giải trí, thử thách sinh tồn, quảng bá danh lam thắng cảnh, văn hóa, ẩm thực vùng miền... Sáu người chơi chính gồm Tiến Luật, Ninh Dương Lan Ngọc, Tiểu Vy, Huyền Baby, Liên Bỉnh Phát, Viên Vibi sẽ cùng các khách mời tham gia hành trình truy tìm báu vật địa phương. \n\nFull Playlist: https://bit.ly/49bmkyN \n\n#HTV​ #realityshowHTV​ #bietdoisieusaoHTV​ \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \nĐăng ký: https://bit.ly/3D9sgXH \nWebsite: http://www.htv.com.vn \nFacebook:   / htv.hcm  \nỨng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\n2 ngày 1 đêm: https://bit.ly/45IWLnj\nSao nhập ngũ 2024: https://bit.ly/3yjQO3T \nBạn muốn hẹn hò: https://bit.ly/3HcaUOm \nMái ấm gia đình Việt: https://bit.ly/3edga9r \nChiến nhanh thắng chắc: https://bit.ly/3YG3vA4 \nBậc thầy săn thưởng: https://bit.ly/4f1bxJH \nVợ chồng son:  https://bit.ly/3TYwEoa \nXuân Hạ Thu Đông rồi lại Xuân: https://bit.ly/4en5Apw\nBiệt đội siêu sao: https://bit.ly/49bmkyN",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#HTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/realityshow",
+          "text": "#realityshow"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bietdoisieusaohtv",
+          "text": "#bietdoisieusaoHTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huy%E1%BB%81nbaby",
+          "text": "#HuyềnBaby"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vi%C3%AAnvibi",
+          "text": "#ViênVibi"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ninhd%C6%B0%C6%A1nglanng%E1%BB%8Dc",
+          "text": "#NinhDươngLanNgọc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ti%E1%BB%83uvy",
+          "text": "#TiểuVy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/li%C3%AAnb%E1%BB%89nhph%C3%A1t",
+          "text": "#LiênBỉnhPhát"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ti%E1%BA%BFnlu%E1%BA%ADt",
+          "text": "#TiếnLuật"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hu%E1%BB%B3nhl%E1%BA%ADp",
+          "text": "#HuỳnhLập"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/sam",
+          "text": "#sam"
+        },
+        {
+          "url": "https://bit.ly/49bmkyN",
+          "text": "https://bit.ly/49bmkyN"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#HTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/realityshowhtv",
+          "text": "#realityshowHTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bietdoisieusaohtv",
+          "text": "#bietdoisieusaoHTV​"
+        },
+        {
+          "url": "https://bit.ly/3D9sgXH",
+          "text": "https://bit.ly/3D9sgXH"
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.facebook.com/htv.hcm",
+          "text": "  / htv.hcm  "
+        },
+        {
+          "url": "https://htvc.tv/",
+          "text": "https://htvc.tv"
+        },
+        {
+          "url": "https://bit.ly/45IWLnj",
+          "text": "https://bit.ly/45IWLnj"
+        },
+        {
+          "url": "https://bit.ly/3yjQO3T",
+          "text": "https://bit.ly/3yjQO3T"
+        },
+        {
+          "url": "https://bit.ly/3HcaUOm",
+          "text": "https://bit.ly/3HcaUOm"
+        },
+        {
+          "url": "https://bit.ly/3edga9r",
+          "text": "https://bit.ly/3edga9r"
+        },
+        {
+          "url": "https://bit.ly/3YG3vA4",
+          "text": "https://bit.ly/3YG3vA4"
+        },
+        {
+          "url": "https://bit.ly/4f1bxJH",
+          "text": "https://bit.ly/4f1bxJH"
+        },
+        {
+          "url": "https://bit.ly/3TYwEoa",
+          "text": "https://bit.ly/3TYwEoa"
+        },
+        {
+          "url": "https://bit.ly/4en5Apw",
+          "text": "https://bit.ly/4en5Apw"
+        },
+        {
+          "url": "https://bit.ly/49bmkyN",
+          "text": "https://bit.ly/49bmkyN"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 17,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isMonetized": null,
+      "hashtags": [
+        "#HTV​",
+        "#sam",
+        "#realityshow"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isPaidContent": false
+    },
+    {
+      "title": "Biệt Đội Siêu Sao | Tập 4 (14/12/2024)",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "aKbpd0Gc4NE",
+      "url": "https://www.youtube.com/watch?v=aKbpd0Gc4NE&list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_&index=14",
+      "thumbnailUrl": "https://i.ytimg.com/vi/aKbpd0Gc4NE/maxresdefault.jpg",
+      "viewCount": 102140,
+      "date": "2024-12-14T15:30:06.000Z",
+      "likes": 757,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:58:48",
+      "commentsCount": 40,
+      "text": "\"Biệt đội siêu sao\" phát sóng 22g thứ Bảy hàng tuần trên HTV7. \n\n\"Biệt đội siêu sao\" là chương trình truyền hình thực tế kết hợp giải trí, thử thách sinh tồn, quảng bá danh lam thắng cảnh, văn hóa, ẩm thực vùng miền... Sáu người chơi chính gồm Tiến Luật, Ninh Dương Lan Ngọc, Tiểu Vy, Huyền Baby, Liên Bỉnh Phát, Viên Vibi sẽ cùng các khách mời tham gia hành trình truy tìm báu vật địa phương. \n\nFull Playlist: https://bit.ly/49bmkyN \n\n#HTV​ #realityshowHTV​ #bietdoisieusaoHTV​ \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://bit.ly/3D9sgXH \n* Website: http://www.htv.com.vn \n* Facebook: https://www.facebook.com/htv.hcm\n* Ứng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\n2 ngày 1 đêm: https://bit.ly/45IWLnj\nSao nhập ngũ 2024: https://bit.ly/3yjQO3T \nBạn muốn hẹn hò: https://bit.ly/3HcaUOm \nMái ấm gia đình Việt: https://bit.ly/3edga9r \nChiến nhanh thắng chắc: https://bit.ly/3YG3vA4 \nBậc thầy săn thưởng: https://bit.ly/4f1bxJH \nVợ chồng son:  https://bit.ly/3TYwEoa \nXuân Hạ Thu Đông rồi lại Xuân: https://bit.ly/4en5Apw\nBiệt đội siêu sao: https://bit.ly/49bmkyN",
+      "translatedText": "\"Biệt đội siêu sao\" phát sóng 22g thứ Bảy hàng tuần trên HTV7. \n\n\"Biệt đội siêu sao\" là chương trình truyền hình thực tế kết hợp giải trí, thử thách sinh tồn, quảng bá danh lam thắng cảnh, văn hóa, ẩm thực vùng miền... Sáu người chơi chính gồm Tiến Luật, Ninh Dương Lan Ngọc, Tiểu Vy, Huyền Baby, Liên Bỉnh Phát, Viên Vibi sẽ cùng các khách mời tham gia hành trình truy tìm báu vật địa phương. \n\nFull Playlist: https://bit.ly/49bmkyN \n\n#HTV​ #realityshowHTV​ #bietdoisieusaoHTV​ \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \nĐăng ký: https://bit.ly/3D9sgXH \nWebsite: http://www.htv.com.vn \nFacebook:   / htv.hcm  \nỨng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\n2 ngày 1 đêm: https://bit.ly/45IWLnj\nSao nhập ngũ 2024: https://bit.ly/3yjQO3T \nBạn muốn hẹn hò: https://bit.ly/3HcaUOm \nMái ấm gia đình Việt: https://bit.ly/3edga9r \nChiến nhanh thắng chắc: https://bit.ly/3YG3vA4 \nBậc thầy săn thưởng: https://bit.ly/4f1bxJH \nVợ chồng son:  https://bit.ly/3TYwEoa \nXuân Hạ Thu Đông rồi lại Xuân: https://bit.ly/4en5Apw\nBiệt đội siêu sao: https://bit.ly/49bmkyN",
+      "descriptionLinks": [
+        {
+          "url": "https://bit.ly/49bmkyN",
+          "text": "https://bit.ly/49bmkyN"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#HTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/realityshowhtv",
+          "text": "#realityshowHTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bietdoisieusaohtv",
+          "text": "#bietdoisieusaoHTV​"
+        },
+        {
+          "url": "https://bit.ly/3D9sgXH",
+          "text": "https://bit.ly/3D9sgXH"
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.facebook.com/htv.hcm",
+          "text": "  / htv.hcm  "
+        },
+        {
+          "url": "https://htvc.tv/",
+          "text": "https://htvc.tv"
+        },
+        {
+          "url": "https://bit.ly/45IWLnj",
+          "text": "https://bit.ly/45IWLnj"
+        },
+        {
+          "url": "https://bit.ly/3yjQO3T",
+          "text": "https://bit.ly/3yjQO3T"
+        },
+        {
+          "url": "https://bit.ly/3HcaUOm",
+          "text": "https://bit.ly/3HcaUOm"
+        },
+        {
+          "url": "https://bit.ly/3edga9r",
+          "text": "https://bit.ly/3edga9r"
+        },
+        {
+          "url": "https://bit.ly/3YG3vA4",
+          "text": "https://bit.ly/3YG3vA4"
+        },
+        {
+          "url": "https://bit.ly/4f1bxJH",
+          "text": "https://bit.ly/4f1bxJH"
+        },
+        {
+          "url": "https://bit.ly/3TYwEoa",
+          "text": "https://bit.ly/3TYwEoa"
+        },
+        {
+          "url": "https://bit.ly/4en5Apw",
+          "text": "https://bit.ly/4en5Apw"
+        },
+        {
+          "url": "https://bit.ly/49bmkyN",
+          "text": "https://bit.ly/49bmkyN"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 13,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isMonetized": null,
+      "hashtags": [
+        "#HTV​",
+        "#realityshowHTV​",
+        "#bietdoisieusaoHTV​"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isPaidContent": false
+    },
+    {
+      "title": "Biệt đội siêu sao - Tập 1 | Cùng biệt đội khám phá các di tích lịch sử ở Điện Biên (23/11/2024)",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "x3QzUpw8Vc4",
+      "url": "https://www.youtube.com/watch?v=x3QzUpw8Vc4&list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_&index=24",
+      "thumbnailUrl": "https://i.ytimg.com/vi/x3QzUpw8Vc4/maxresdefault.jpg",
+      "viewCount": 412881,
+      "date": "2024-11-23T15:35:31.000Z",
+      "likes": 3900,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:59:36",
+      "commentsCount": 255,
+      "text": "Biệt đội siêu sao - Tập 1 | Cùng biệt đội siêu sao gồm Tiến Luật, Lan Ngọc, Huyền Baby, Liên Bỉnh Phát, hoa hậu Tiểu Vy, Viên Vibi khám phá các di tích lịch sử ở Điện Biên (23/11/2024)\n\nBiệt Đội Siêu Sao - chương trình mang format mới lạ khi kết hợp giữa yếu tố truyền hình thực tế và mô hình thương mại điện tử đã tới đây! Cùng chờ đón hành trình trải nghiệm đầy đặc sắc về văn hoá, vùng đất, con người, kết hợp quảng bá đa dạng các loại đặc sản tại mỗi vùng miền nhé! \n\nBiệt Đội Siêu Sao - Gameshow truyền hình thực tế và mua sắm cực đỉnh. Phát sóng lúc 22H trên kênh HTV7, 22H30 trên kênh Youtub HTV Entertainment.\n********************\n👉 Theo dõi các kênh chính thức của Đài truyền hình TP. HCM (HTV) tại:\n► Fanpage:  \n/htv.hcm\nĐăng ký: https://www.youtube.com/user/htvonlin... \nWebsite: http://www.htv.com.vn \nFacebook:https://www.fb.com/htv.hcm\nTikTok:   / htvofficial  ",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/user/htvonlinetube?sub_confirmation=1",
+          "text": "https://www.youtube.com/user/htvonlin..."
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.fb.com/htv.hcm",
+          "text": "https://www.fb.com/htv.hcm"
+        },
+        {
+          "url": "https://www.tiktok.com/@htvofficial",
+          "text": "  / htvofficial  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 23,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isPaidContent": false
+    },
+    {
+      "title": "Biệt Đội Siêu Sao | Tập 5 (21/12/2024)",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "YXe44-Ir70c",
+      "url": "https://www.youtube.com/watch?v=YXe44-Ir70c&list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_&index=13",
+      "thumbnailUrl": "https://i.ytimg.com/vi/YXe44-Ir70c/maxresdefault.jpg",
+      "viewCount": 119522,
+      "date": "2024-12-21T16:00:33.000Z",
+      "likes": 1100,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:59:20",
+      "commentsCount": 55,
+      "text": "\"Biệt đội siêu sao\" phát sóng 22g thứ Bảy hàng tuần trên HTV7. \n\n\"Biệt đội siêu sao\" là chương trình truyền hình thực tế kết hợp giải trí, thử thách sinh tồn, quảng bá danh lam thắng cảnh, văn hóa, ẩm thực vùng miền... Sáu người chơi chính gồm Tiến Luật, Ninh Dương Lan Ngọc, Tiểu Vy, Huyền Baby, Liên Bỉnh Phát, Viên Vibi sẽ cùng các khách mời tham gia hành trình truy tìm báu vật địa phương. \n\nFull Playlist: https://bit.ly/49bmkyN \n\n#HTV​ #realityshowHTV​ #bietdoisieusaoHTV​ \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://bit.ly/3D9sgXH \n* Website: http://www.htv.com.vn \n* Facebook: https://www.facebook.com/htv.hcm\n* Ứng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\n2 ngày 1 đêm: https://bit.ly/45IWLnj\nSao nhập ngũ 2024: https://bit.ly/3yjQO3T \nBạn muốn hẹn hò: https://bit.ly/3HcaUOm \nMái ấm gia đình Việt: https://bit.ly/3edga9r \nChiến nhanh thắng chắc: https://bit.ly/3YG3vA4 \nBậc thầy săn thưởng: https://bit.ly/4f1bxJH \nVợ chồng son:  https://bit.ly/3TYwEoa \nXuân Hạ Thu Đông rồi lại Xuân: https://bit.ly/4en5Apw\nBiệt đội siêu sao: https://bit.ly/49bmkyN",
+      "translatedText": "\"Biệt đội siêu sao\" phát sóng 22g thứ Bảy hàng tuần trên HTV7. \n\n\"Biệt đội siêu sao\" là chương trình truyền hình thực tế kết hợp giải trí, thử thách sinh tồn, quảng bá danh lam thắng cảnh, văn hóa, ẩm thực vùng miền... Sáu người chơi chính gồm Tiến Luật, Ninh Dương Lan Ngọc, Tiểu Vy, Huyền Baby, Liên Bỉnh Phát, Viên Vibi sẽ cùng các khách mời tham gia hành trình truy tìm báu vật địa phương. \n\nFull Playlist: https://bit.ly/49bmkyN \n\n#HTV​ #realityshowHTV​ #bietdoisieusaoHTV​ \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \nĐăng ký: https://bit.ly/3D9sgXH \nWebsite: http://www.htv.com.vn \nFacebook:   / htv.hcm  \nỨng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\n2 ngày 1 đêm: https://bit.ly/45IWLnj\nSao nhập ngũ 2024: https://bit.ly/3yjQO3T \nBạn muốn hẹn hò: https://bit.ly/3HcaUOm \nMái ấm gia đình Việt: https://bit.ly/3edga9r \nChiến nhanh thắng chắc: https://bit.ly/3YG3vA4 \nBậc thầy săn thưởng: https://bit.ly/4f1bxJH \nVợ chồng son:  https://bit.ly/3TYwEoa \nXuân Hạ Thu Đông rồi lại Xuân: https://bit.ly/4en5Apw\nBiệt đội siêu sao: https://bit.ly/49bmkyN",
+      "descriptionLinks": [
+        {
+          "url": "https://bit.ly/49bmkyN",
+          "text": "https://bit.ly/49bmkyN"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#HTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/realityshowhtv",
+          "text": "#realityshowHTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bietdoisieusaohtv",
+          "text": "#bietdoisieusaoHTV​"
+        },
+        {
+          "url": "https://bit.ly/3D9sgXH",
+          "text": "https://bit.ly/3D9sgXH"
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.facebook.com/htv.hcm",
+          "text": "  / htv.hcm  "
+        },
+        {
+          "url": "https://htvc.tv/",
+          "text": "https://htvc.tv"
+        },
+        {
+          "url": "https://bit.ly/45IWLnj",
+          "text": "https://bit.ly/45IWLnj"
+        },
+        {
+          "url": "https://bit.ly/3yjQO3T",
+          "text": "https://bit.ly/3yjQO3T"
+        },
+        {
+          "url": "https://bit.ly/3HcaUOm",
+          "text": "https://bit.ly/3HcaUOm"
+        },
+        {
+          "url": "https://bit.ly/3edga9r",
+          "text": "https://bit.ly/3edga9r"
+        },
+        {
+          "url": "https://bit.ly/3YG3vA4",
+          "text": "https://bit.ly/3YG3vA4"
+        },
+        {
+          "url": "https://bit.ly/4f1bxJH",
+          "text": "https://bit.ly/4f1bxJH"
+        },
+        {
+          "url": "https://bit.ly/3TYwEoa",
+          "text": "https://bit.ly/3TYwEoa"
+        },
+        {
+          "url": "https://bit.ly/4en5Apw",
+          "text": "https://bit.ly/4en5Apw"
+        },
+        {
+          "url": "https://bit.ly/49bmkyN",
+          "text": "https://bit.ly/49bmkyN"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 12,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isMonetized": null,
+      "hashtags": [
+        "#HTV​",
+        "#realityshowHTV​",
+        "#bietdoisieusaoHTV​"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isPaidContent": false
+    },
+    {
+      "title": "Thử thách đua tìm truyền thuyết tình yêu ở Điện Biên | Biệt đội siêu sao - Tập 2",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "istxFhCRiyc",
+      "url": "https://www.youtube.com/watch?v=istxFhCRiyc&list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_&index=20",
+      "thumbnailUrl": "https://i.ytimg.com/vi/istxFhCRiyc/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHOBYACgAqKAgwIABABGGUgVChAMA8=&rs=AOn4CLCXuVRcuyQ23iqaNWytWWFaZccFrA",
+      "viewCount": 7281,
+      "date": "2024-12-02T07:49:03.000Z",
+      "likes": 188,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:01:04",
+      "commentsCount": 1,
+      "text": "Thử thách đua tìm truyền thuyết tình yêu ở Điện Biên | Biệt đội siêu sao - Tập 2\n\"Biệt đội siêu sao\" phát sóng 22g thứ Bảy hàng tuần trên HTV7. \n\"Biệt đội siêu sao\" là chương trình truyền hình thực tế kết hợp giải trí, thử thách sinh tồn, quảng bá danh lam thắng cảnh, văn hóa, ẩm thực vùng miền... Sáu người chơi chính gồm Tiến Luật, Ninh Dương Lan Ngọc, Tiểu Vy, Huyền Baby, Liên Bỉnh Phát, Viên Vibi sẽ cùng các khách mời tham gia hành trình truy tìm báu vật địa phương. \n********************\n👉 Theo dõi các kênh chính thức của Đài truyền hình TP. HCM (HTV) tại:\n► Fanpage:  \n/htv.hcm\nĐăng ký: https://www.youtube.com/user/htvonlin... \nWebsite: http://www.htv.com.vn \nFacebook:https://www.fb.com/htv.hcm\nTikTok:   / htvofficial  ",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/user/htvonlinetube?sub_confirmation=1",
+          "text": "https://www.youtube.com/user/htvonlin..."
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.fb.com/htv.hcm",
+          "text": "https://www.fb.com/htv.hcm"
+        },
+        {
+          "url": "https://www.tiktok.com/@htvofficial",
+          "text": "  / htvofficial  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 19,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isPaidContent": false
+    },
+    {
+      "title": "Biệt Đội Siêu Sao | Tập 11 | Huyền Baby thẳng tay loại đồng đội dù nắm rõ luật chơi",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "5jy539SOOMY",
+      "url": "https://www.youtube.com/watch?v=5jy539SOOMY&list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_&index=28",
+      "thumbnailUrl": "https://i.ytimg.com/vi/5jy539SOOMY/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBlKE0wDw==&rs=AOn4CLDZy48573Byil9rOze1Rjs2Ul9i6Q",
+      "viewCount": 6668,
+      "date": "2025-02-13T10:00:07.000Z",
+      "likes": 61,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:00:58",
+      "commentsCount": 0,
+      "text": "Dù là người đầu tiên hiểu rõ luật chơi, nhưng Huyền Baby lại 'biến hình' thành kẻ phản diện khi tự tay loại Tiến Luật - chính đồng đội của mình.\n\n#BietDoiSieuSao #HTV #TienLuat #NinhDuongLanNgoc #HuyenBaby #LienBinhPhat #TieuVy #VienVibi\n********************\n👉 Theo dõi các kênh chính thức của Đài truyền hình TP. HCM (HTV) tại:\n► Fanpage:  \n/htv.hcm\n* Đăng ký: https://www.youtube.com/user/htvonlinetube?sub_confirmation=1 \n* Website: http://www.htv.com.vn \n* Facebook:https://www.fb.com/htv.hcm\n* TikTok: https://www.tiktok.com/@htvofficial",
+      "translatedText": "Dù là người đầu tiên hiểu rõ luật chơi, nhưng Huyền Baby lại 'biến hình' thành kẻ phản diện khi tự tay loại Tiến Luật - chính đồng đội của mình.\n\n#BietDoiSieuSao #HTV #TienLuat #NinhDuongLanNgoc #HuyenBaby #LienBinhPhat #TieuVy #VienVibi\n********************\n👉 Theo dõi các kênh chính thức của Đài truyền hình TP. HCM (HTV) tại:\n► Fanpage:  \n/htv.hcm\nĐăng ký: https://www.youtube.com/user/htvonlin... \nWebsite: http://www.htv.com.vn \nFacebook:https://www.fb.com/htv.hcm\nTikTok:   / htvofficial  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/bietdoisieusao",
+          "text": "#BietDoiSieuSao"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#HTV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tienluat",
+          "text": "#TienLuat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ninhduonglanngoc",
+          "text": "#NinhDuongLanNgoc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huyenbaby",
+          "text": "#HuyenBaby"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lienbinhphat",
+          "text": "#LienBinhPhat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tieuvy",
+          "text": "#TieuVy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vienvibi",
+          "text": "#VienVibi"
+        },
+        {
+          "url": "https://www.youtube.com/user/htvonlinetube?sub_confirmation=1",
+          "text": "https://www.youtube.com/user/htvonlin..."
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.fb.com/htv.hcm",
+          "text": "https://www.fb.com/htv.hcm"
+        },
+        {
+          "url": "https://www.tiktok.com/@htvofficial",
+          "text": "  / htvofficial  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 27,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isMonetized": null,
+      "hashtags": [
+        "#NinhDuongLanNgoc",
+        "#HTV",
+        "#TienLuat"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isPaidContent": false
+    },
+    {
+      "title": "Biệt Đội Siêu Sao | Tập 10 (25/1/2025)",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "XlCiIilvnAw",
+      "url": "https://www.youtube.com/watch?v=XlCiIilvnAw&list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_&index=4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/XlCiIilvnAw/maxresdefault.jpg",
+      "viewCount": 70187,
+      "date": "2025-01-25T16:00:36.000Z",
+      "likes": 500,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:58:46",
+      "commentsCount": 29,
+      "text": "\"Biệt đội siêu sao\" phát sóng 22g thứ Bảy hàng tuần trên HTV7. \n\n\"Biệt đội siêu sao\" là chương trình truyền hình thực tế kết hợp giải trí, thử thách sinh tồn, quảng bá danh lam thắng cảnh, văn hóa, ẩm thực vùng miền... Sáu người chơi chính gồm Tiến Luật, Ninh Dương Lan Ngọc, Tiểu Vy, Huyền Baby, Liên Bỉnh Phát, Viên Vibi sẽ cùng các khách mời tham gia hành trình truy tìm báu vật địa phương. \n\nFull Playlist: https://bit.ly/49bmkyN \n\n#HTV​ #realityshowHTV​ #bietdoisieusaoHTV​ \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://bit.ly/3D9sgXH \n* Website: http://www.htv.com.vn \n* Facebook: https://www.facebook.com/htv.hcm\n* Ứng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\n2 ngày 1 đêm: https://bit.ly/45IWLnj\nSao nhập ngũ 2024: https://bit.ly/3yjQO3T \nBạn muốn hẹn hò: https://bit.ly/3HcaUOm \nMái ấm gia đình Việt: https://bit.ly/3edga9r \nChiến nhanh thắng chắc: https://bit.ly/3YG3vA4 \nBậc thầy săn thưởng: https://bit.ly/4f1bxJH \nVợ chồng son:  https://bit.ly/3TYwEoa \nXuân Hạ Thu Đông rồi lại Xuân: https://bit.ly/4en5Apw\nBiệt đội siêu sao: https://bit.ly/49bmkyN",
+      "translatedText": "\"Biệt đội siêu sao\" phát sóng 22g thứ Bảy hàng tuần trên HTV7. \n\n\"Biệt đội siêu sao\" là chương trình truyền hình thực tế kết hợp giải trí, thử thách sinh tồn, quảng bá danh lam thắng cảnh, văn hóa, ẩm thực vùng miền... Sáu người chơi chính gồm Tiến Luật, Ninh Dương Lan Ngọc, Tiểu Vy, Huyền Baby, Liên Bỉnh Phát, Viên Vibi sẽ cùng các khách mời tham gia hành trình truy tìm báu vật địa phương. \n\nFull Playlist: https://bit.ly/49bmkyN \n\n#HTV​ #realityshowHTV​ #bietdoisieusaoHTV​ \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \nĐăng ký: https://bit.ly/3D9sgXH \nWebsite: http://www.htv.com.vn \nFacebook:   / htv.hcm  \nỨng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\n2 ngày 1 đêm: https://bit.ly/45IWLnj\nSao nhập ngũ 2024: https://bit.ly/3yjQO3T \nBạn muốn hẹn hò: https://bit.ly/3HcaUOm \nMái ấm gia đình Việt: https://bit.ly/3edga9r \nChiến nhanh thắng chắc: https://bit.ly/3YG3vA4 \nBậc thầy săn thưởng: https://bit.ly/4f1bxJH \nVợ chồng son:  https://bit.ly/3TYwEoa \nXuân Hạ Thu Đông rồi lại Xuân: https://bit.ly/4en5Apw\nBiệt đội siêu sao: https://bit.ly/49bmkyN",
+      "descriptionLinks": [
+        {
+          "url": "https://bit.ly/49bmkyN",
+          "text": "https://bit.ly/49bmkyN"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#HTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/realityshowhtv",
+          "text": "#realityshowHTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bietdoisieusaohtv",
+          "text": "#bietdoisieusaoHTV​"
+        },
+        {
+          "url": "https://bit.ly/3D9sgXH",
+          "text": "https://bit.ly/3D9sgXH"
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.facebook.com/htv.hcm",
+          "text": "  / htv.hcm  "
+        },
+        {
+          "url": "https://htvc.tv/",
+          "text": "https://htvc.tv"
+        },
+        {
+          "url": "https://bit.ly/45IWLnj",
+          "text": "https://bit.ly/45IWLnj"
+        },
+        {
+          "url": "https://bit.ly/3yjQO3T",
+          "text": "https://bit.ly/3yjQO3T"
+        },
+        {
+          "url": "https://bit.ly/3HcaUOm",
+          "text": "https://bit.ly/3HcaUOm"
+        },
+        {
+          "url": "https://bit.ly/3edga9r",
+          "text": "https://bit.ly/3edga9r"
+        },
+        {
+          "url": "https://bit.ly/3YG3vA4",
+          "text": "https://bit.ly/3YG3vA4"
+        },
+        {
+          "url": "https://bit.ly/4f1bxJH",
+          "text": "https://bit.ly/4f1bxJH"
+        },
+        {
+          "url": "https://bit.ly/3TYwEoa",
+          "text": "https://bit.ly/3TYwEoa"
+        },
+        {
+          "url": "https://bit.ly/4en5Apw",
+          "text": "https://bit.ly/4en5Apw"
+        },
+        {
+          "url": "https://bit.ly/49bmkyN",
+          "text": "https://bit.ly/49bmkyN"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 3,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isMonetized": null,
+      "hashtags": [
+        "#HTV​",
+        "#realityshowHTV​",
+        "#bietdoisieusaoHTV​"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isPaidContent": false
+    },
+    {
+      "title": "Bữa tiệc trên cánh đồng ruộng | Biệt đội siêu sao - Tập 3",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "RLLLk4_E8vU",
+      "url": "https://www.youtube.com/watch?v=RLLLk4_E8vU&list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_&index=15",
+      "thumbnailUrl": "https://i.ytimg.com/vi/RLLLk4_E8vU/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBOKEUwDw==&rs=AOn4CLAE-PVJSGro1qkQEnSz9tMizo7C2Q",
+      "viewCount": 3610,
+      "date": "2024-12-09T04:30:14.000Z",
+      "likes": 115,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:00:48",
+      "commentsCount": 0,
+      "text": "Bữa tiệc vị giác trên đồng ruộng | Biệt đội siêu sao - Tập 3\n\"Biệt đội siêu sao\" phát sóng 22g thứ Bảy hàng tuần trên HTV7. \n\"Biệt đội siêu sao\" là chương trình truyền hình thực tế kết hợp giải trí, thử thách sinh tồn, quảng bá danh lam thắng cảnh, văn hóa, ẩm thực vùng miền... Sáu người chơi chính gồm Tiến Luật, Ninh Dương Lan Ngọc, Tiểu Vy, Huyền Baby, Liên Bỉnh Phát, Viên Vibi sẽ cùng các khách mời tham gia hành trình truy tìm báu vật địa phương. \n********************\n👉 Theo dõi các kênh chính thức của Đài truyền hình TP. HCM (HTV) tại:\n► Fanpage:  \n/htv.hcm\nĐăng ký: https://www.youtube.com/user/htvonlin... \nWebsite: http://www.htv.com.vn \nFacebook:https://www.fb.com/htv.hcm\nTikTok:   / htvofficial  ",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/user/htvonlinetube?sub_confirmation=1",
+          "text": "https://www.youtube.com/user/htvonlin..."
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.fb.com/htv.hcm",
+          "text": "https://www.fb.com/htv.hcm"
+        },
+        {
+          "url": "https://www.tiktok.com/@htvofficial",
+          "text": "  / htvofficial  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 14,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isPaidContent": false
+    },
+    {
+      "title": "Biệt Đội Siêu Sao | Tập 6 (28/12/2024 )",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "UH83PpqVq2Y",
+      "url": "https://www.youtube.com/watch?v=UH83PpqVq2Y&list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_&index=12",
+      "thumbnailUrl": "https://i.ytimg.com/vi/UH83PpqVq2Y/maxresdefault.jpg",
+      "viewCount": 111099,
+      "date": "2024-12-28T16:00:23.000Z",
+      "likes": 761,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:57:50",
+      "commentsCount": 51,
+      "text": "\"Biệt đội siêu sao\" phát sóng 22g thứ Bảy hàng tuần trên HTV7. \n\n\"Biệt đội siêu sao\" là chương trình truyền hình thực tế kết hợp giải trí, thử thách sinh tồn, quảng bá danh lam thắng cảnh, văn hóa, ẩm thực vùng miền... Sáu người chơi chính gồm Tiến Luật, Ninh Dương Lan Ngọc, Tiểu Vy, Huyền Baby, Liên Bỉnh Phát, Viên Vibi sẽ cùng các khách mời tham gia hành trình truy tìm báu vật địa phương. \n\nFull Playlist: https://bit.ly/49bmkyN \n\n#HTV​ #realityshowHTV​ #bietdoisieusaoHTV​ \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://bit.ly/3D9sgXH \n* Website: http://www.htv.com.vn \n* Facebook: https://www.facebook.com/htv.hcm\n* Ứng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\n2 ngày 1 đêm: https://bit.ly/45IWLnj\nSao nhập ngũ 2024: https://bit.ly/3yjQO3T \nBạn muốn hẹn hò: https://bit.ly/3HcaUOm \nMái ấm gia đình Việt: https://bit.ly/3edga9r \nChiến nhanh thắng chắc: https://bit.ly/3YG3vA4 \nBậc thầy săn thưởng: https://bit.ly/4f1bxJH \nVợ chồng son:  https://bit.ly/3TYwEoa \nXuân Hạ Thu Đông rồi lại Xuân: https://bit.ly/4en5Apw\nBiệt đội siêu sao: https://bit.ly/49bmkyN",
+      "translatedText": "\"Biệt đội siêu sao\" phát sóng 22g thứ Bảy hàng tuần trên HTV7. \n\n\"Biệt đội siêu sao\" là chương trình truyền hình thực tế kết hợp giải trí, thử thách sinh tồn, quảng bá danh lam thắng cảnh, văn hóa, ẩm thực vùng miền... Sáu người chơi chính gồm Tiến Luật, Ninh Dương Lan Ngọc, Tiểu Vy, Huyền Baby, Liên Bỉnh Phát, Viên Vibi sẽ cùng các khách mời tham gia hành trình truy tìm báu vật địa phương. \n\nFull Playlist: https://bit.ly/49bmkyN \n\n#HTV​ #realityshowHTV​ #bietdoisieusaoHTV​ \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \nĐăng ký: https://bit.ly/3D9sgXH \nWebsite: http://www.htv.com.vn \nFacebook:   / htv.hcm  \nỨng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\n2 ngày 1 đêm: https://bit.ly/45IWLnj\nSao nhập ngũ 2024: https://bit.ly/3yjQO3T \nBạn muốn hẹn hò: https://bit.ly/3HcaUOm \nMái ấm gia đình Việt: https://bit.ly/3edga9r \nChiến nhanh thắng chắc: https://bit.ly/3YG3vA4 \nBậc thầy săn thưởng: https://bit.ly/4f1bxJH \nVợ chồng son:  https://bit.ly/3TYwEoa \nXuân Hạ Thu Đông rồi lại Xuân: https://bit.ly/4en5Apw\nBiệt đội siêu sao: https://bit.ly/49bmkyN",
+      "descriptionLinks": [
+        {
+          "url": "https://bit.ly/49bmkyN",
+          "text": "https://bit.ly/49bmkyN"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#HTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/realityshowhtv",
+          "text": "#realityshowHTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bietdoisieusaohtv",
+          "text": "#bietdoisieusaoHTV​"
+        },
+        {
+          "url": "https://bit.ly/3D9sgXH",
+          "text": "https://bit.ly/3D9sgXH"
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.facebook.com/htv.hcm",
+          "text": "  / htv.hcm  "
+        },
+        {
+          "url": "https://htvc.tv/",
+          "text": "https://htvc.tv"
+        },
+        {
+          "url": "https://bit.ly/45IWLnj",
+          "text": "https://bit.ly/45IWLnj"
+        },
+        {
+          "url": "https://bit.ly/3yjQO3T",
+          "text": "https://bit.ly/3yjQO3T"
+        },
+        {
+          "url": "https://bit.ly/3HcaUOm",
+          "text": "https://bit.ly/3HcaUOm"
+        },
+        {
+          "url": "https://bit.ly/3edga9r",
+          "text": "https://bit.ly/3edga9r"
+        },
+        {
+          "url": "https://bit.ly/3YG3vA4",
+          "text": "https://bit.ly/3YG3vA4"
+        },
+        {
+          "url": "https://bit.ly/4f1bxJH",
+          "text": "https://bit.ly/4f1bxJH"
+        },
+        {
+          "url": "https://bit.ly/3TYwEoa",
+          "text": "https://bit.ly/3TYwEoa"
+        },
+        {
+          "url": "https://bit.ly/4en5Apw",
+          "text": "https://bit.ly/4en5Apw"
+        },
+        {
+          "url": "https://bit.ly/49bmkyN",
+          "text": "https://bit.ly/49bmkyN"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 11,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isMonetized": null,
+      "hashtags": [
+        "#HTV​",
+        "#realityshowHTV​",
+        "#bietdoisieusaoHTV​"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isPaidContent": false
+    },
+    {
+      "title": "Biệt Đội Siêu Sao | Tập 11 | Huyền Baby thẳng tay loại đồng đội dù nắm rõ luật chơi",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "oMNwMZHWFMI",
+      "url": "https://www.youtube.com/watch?v=oMNwMZHWFMI&list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_&index=26",
+      "thumbnailUrl": "https://i.ytimg.com/vi/oMNwMZHWFMI/maxresdefault.jpg",
+      "viewCount": 1397,
+      "date": "2025-02-13T07:00:35.000Z",
+      "likes": 16,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:03:30",
+      "commentsCount": 1,
+      "text": "Dù là người đầu tiên hiểu rõ luật chơi, nhưng Huyền Baby lại 'biến hình' thành kẻ phản diện khi tự tay loại chính đồng đội của mình\n\n#BietDoiSieuSao #HTV #TienLuat #NinhDuongLanNgoc #HuyenBaby #LienBinhPhat #TieuVy #VienVibi\n********************\n👉 Theo dõi các kênh chính thức của Đài truyền hình TP. HCM (HTV) tại:\n► Fanpage:  \n/htv.hcm\n* Đăng ký: https://www.youtube.com/user/htvonlinetube?sub_confirmation=1 \n* Website: http://www.htv.com.vn \n* Facebook:https://www.fb.com/htv.hcm\n* TikTok: https://www.tiktok.com/@htvofficial",
+      "translatedText": "Dù là người đầu tiên hiểu rõ luật chơi, nhưng Huyền Baby lại 'biến hình' thành kẻ phản diện khi tự tay loại chính đồng đội của mình\n\n#BietDoiSieuSao #HTV #TienLuat #NinhDuongLanNgoc #HuyenBaby #LienBinhPhat #TieuVy #VienVibi\n********************\n👉 Theo dõi các kênh chính thức của Đài truyền hình TP. HCM (HTV) tại:\n► Fanpage:  \n/htv.hcm\nĐăng ký: https://www.youtube.com/user/htvonlin... \nWebsite: http://www.htv.com.vn \nFacebook:https://www.fb.com/htv.hcm\nTikTok:   / htvofficial  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/bietdoisieusao",
+          "text": "#BietDoiSieuSao"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#HTV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tienluat",
+          "text": "#TienLuat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ninhduonglanngoc",
+          "text": "#NinhDuongLanNgoc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huyenbaby",
+          "text": "#HuyenBaby"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lienbinhphat",
+          "text": "#LienBinhPhat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tieuvy",
+          "text": "#TieuVy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vienvibi",
+          "text": "#VienVibi"
+        },
+        {
+          "url": "https://www.youtube.com/user/htvonlinetube?sub_confirmation=1",
+          "text": "https://www.youtube.com/user/htvonlin..."
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.fb.com/htv.hcm",
+          "text": "https://www.fb.com/htv.hcm"
+        },
+        {
+          "url": "https://www.tiktok.com/@htvofficial",
+          "text": "  / htvofficial  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 25,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isMonetized": null,
+      "hashtags": [
+        "#NinhDuongLanNgoc",
+        "#HTV",
+        "#TienLuat"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isPaidContent": false
+    },
+    {
+      "title": "Biệt Đội Siêu Sao | Tập 12 (15/2/2025)",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "6B4BYVa2gtY",
+      "url": "https://www.youtube.com/watch?v=6B4BYVa2gtY&list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_&index=29",
+      "thumbnailUrl": "https://i.ytimg.com/vi/6B4BYVa2gtY/maxresdefault.jpg",
+      "viewCount": 54518,
+      "date": "2025-02-15T16:00:06.000Z",
+      "likes": 316,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:58:36",
+      "commentsCount": 5,
+      "text": "\"Biệt đội siêu sao\" phát sóng 22g thứ Bảy hàng tuần trên HTV7. \n\n\"Biệt đội siêu sao\" là chương trình truyền hình thực tế kết hợp giải trí, thử thách sinh tồn, quảng bá danh lam thắng cảnh, văn hóa, ẩm thực vùng miền... Sáu người chơi chính gồm Tiến Luật, Ninh Dương Lan Ngọc, Tiểu Vy, Huyền Baby, Liên Bỉnh Phát, Viên Vibi sẽ cùng các khách mời tham gia hành trình truy tìm báu vật địa phương. \n\nFull Playlist: https://bit.ly/49bmkyN \n\n#HTV​ #realityshowHTV​ #bietdoisieusaoHTV​ \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://bit.ly/3D9sgXH \n* Website: http://www.htv.com.vn \n* Facebook: https://www.facebook.com/htv.hcm\n* Ứng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\n2 ngày 1 đêm: https://bit.ly/45IWLnj\nSao nhập ngũ 2024: https://bit.ly/3yjQO3T \nBạn muốn hẹn hò: https://bit.ly/3HcaUOm \nMái ấm gia đình Việt: https://bit.ly/3edga9r \nChiến nhanh thắng chắc: https://bit.ly/3YG3vA4 \nBậc thầy săn thưởng: https://bit.ly/4f1bxJH \nVợ chồng son:  https://bit.ly/3TYwEoa \nXuân Hạ Thu Đông rồi lại Xuân: https://bit.ly/4en5Apw\nBiệt đội siêu sao: https://bit.ly/49bmkyN",
+      "translatedText": "\"Biệt đội siêu sao\" phát sóng 22g thứ Bảy hàng tuần trên HTV7. \n\n\"Biệt đội siêu sao\" là chương trình truyền hình thực tế kết hợp giải trí, thử thách sinh tồn, quảng bá danh lam thắng cảnh, văn hóa, ẩm thực vùng miền... Sáu người chơi chính gồm Tiến Luật, Ninh Dương Lan Ngọc, Tiểu Vy, Huyền Baby, Liên Bỉnh Phát, Viên Vibi sẽ cùng các khách mời tham gia hành trình truy tìm báu vật địa phương. \n\nFull Playlist: https://bit.ly/49bmkyN \n\n#HTV​ #realityshowHTV​ #bietdoisieusaoHTV​ \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \nĐăng ký: https://bit.ly/3D9sgXH \nWebsite: http://www.htv.com.vn \nFacebook:   / htv.hcm  \nỨng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\n2 ngày 1 đêm: https://bit.ly/45IWLnj\nSao nhập ngũ 2024: https://bit.ly/3yjQO3T \nBạn muốn hẹn hò: https://bit.ly/3HcaUOm \nMái ấm gia đình Việt: https://bit.ly/3edga9r \nChiến nhanh thắng chắc: https://bit.ly/3YG3vA4 \nBậc thầy săn thưởng: https://bit.ly/4f1bxJH \nVợ chồng son:  https://bit.ly/3TYwEoa \nXuân Hạ Thu Đông rồi lại Xuân: https://bit.ly/4en5Apw\nBiệt đội siêu sao: https://bit.ly/49bmkyN",
+      "descriptionLinks": [
+        {
+          "url": "https://bit.ly/49bmkyN",
+          "text": "https://bit.ly/49bmkyN"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#HTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/realityshowhtv",
+          "text": "#realityshowHTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bietdoisieusaohtv",
+          "text": "#bietdoisieusaoHTV​"
+        },
+        {
+          "url": "https://bit.ly/3D9sgXH",
+          "text": "https://bit.ly/3D9sgXH"
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.facebook.com/htv.hcm",
+          "text": "  / htv.hcm  "
+        },
+        {
+          "url": "https://htvc.tv/",
+          "text": "https://htvc.tv"
+        },
+        {
+          "url": "https://bit.ly/45IWLnj",
+          "text": "https://bit.ly/45IWLnj"
+        },
+        {
+          "url": "https://bit.ly/3yjQO3T",
+          "text": "https://bit.ly/3yjQO3T"
+        },
+        {
+          "url": "https://bit.ly/3HcaUOm",
+          "text": "https://bit.ly/3HcaUOm"
+        },
+        {
+          "url": "https://bit.ly/3edga9r",
+          "text": "https://bit.ly/3edga9r"
+        },
+        {
+          "url": "https://bit.ly/3YG3vA4",
+          "text": "https://bit.ly/3YG3vA4"
+        },
+        {
+          "url": "https://bit.ly/4f1bxJH",
+          "text": "https://bit.ly/4f1bxJH"
+        },
+        {
+          "url": "https://bit.ly/3TYwEoa",
+          "text": "https://bit.ly/3TYwEoa"
+        },
+        {
+          "url": "https://bit.ly/4en5Apw",
+          "text": "https://bit.ly/4en5Apw"
+        },
+        {
+          "url": "https://bit.ly/49bmkyN",
+          "text": "https://bit.ly/49bmkyN"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 28,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isMonetized": null,
+      "hashtags": [
+        "#HTV​",
+        "#realityshowHTV​",
+        "#bietdoisieusaoHTV​"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tiến Luật \"chơi dơ\" không qua mắt được Lan Ngọc",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "JkxLSCiofxI",
+      "url": "https://www.youtube.com/watch?v=JkxLSCiofxI&list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_&index=3",
+      "thumbnailUrl": "https://i.ytimg.com/vi/JkxLSCiofxI/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBeKFcwDw==&rs=AOn4CLATGf_A-WkHiHa9uVp3yrXUYEFPkg",
+      "viewCount": 1583,
+      "date": "2025-01-27T06:00:20.000Z",
+      "likes": 33,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:00:55",
+      "commentsCount": 0,
+      "text": "Dù cố gắng dùng đủ mọi chiêu trò nhưng Tiến Luật vẫn bị Lan Ngọc phát giác trong thử thách cố gắng làm quả trứng đứng im 😂 \n\n#HTV​ #realityshow #bietdoisieusaoHTV​ #HuyềnBaby #ViênVibi #NinhDươngLanNgọc #TiểuVy #LiênBỉnhPhát #TiếnLuật #LynkLee",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#HTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/realityshow",
+          "text": "#realityshow"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bietdoisieusaohtv",
+          "text": "#bietdoisieusaoHTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huy%E1%BB%81nbaby",
+          "text": "#HuyềnBaby"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vi%C3%AAnvibi",
+          "text": "#ViênVibi"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ninhd%C6%B0%C6%A1nglanng%E1%BB%8Dc",
+          "text": "#NinhDươngLanNgọc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ti%E1%BB%83uvy",
+          "text": "#TiểuVy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/li%C3%AAnb%E1%BB%89nhph%C3%A1t",
+          "text": "#LiênBỉnhPhát"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ti%E1%BA%BFnlu%E1%BA%ADt",
+          "text": "#TiếnLuật"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lynklee",
+          "text": "#LynkLee"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 2,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isMonetized": null,
+      "hashtags": [
+        "#HTV​",
+        "#realityshow",
+        "#LynkLee"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isPaidContent": false
+    },
+    {
+      "title": "Biệt Đội Siêu Sao | Tập 9 (18/1/2025)",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "sVmvRv353zY",
+      "url": "https://www.youtube.com/watch?v=sVmvRv353zY&list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_&index=5",
+      "thumbnailUrl": "https://i.ytimg.com/vi/sVmvRv353zY/maxresdefault.jpg",
+      "viewCount": 56448,
+      "date": "2025-01-18T15:30:06.000Z",
+      "likes": 292,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:58:29",
+      "commentsCount": 11,
+      "text": "\"Biệt đội siêu sao\" phát sóng 22g thứ Bảy hàng tuần trên HTV7. \n\n\"Biệt đội siêu sao\" là chương trình truyền hình thực tế kết hợp giải trí, thử thách sinh tồn, quảng bá danh lam thắng cảnh, văn hóa, ẩm thực vùng miền... Sáu người chơi chính gồm Tiến Luật, Ninh Dương Lan Ngọc, Tiểu Vy, Huyền Baby, Liên Bỉnh Phát, Viên Vibi sẽ cùng các khách mời tham gia hành trình truy tìm báu vật địa phương. \n\nFull Playlist: https://bit.ly/49bmkyN \n\n#HTV​ #realityshowHTV​ #bietdoisieusaoHTV​ \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://bit.ly/3D9sgXH \n* Website: http://www.htv.com.vn \n* Facebook: https://www.facebook.com/htv.hcm\n* Ứng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\n2 ngày 1 đêm: https://bit.ly/45IWLnj\nSao nhập ngũ 2024: https://bit.ly/3yjQO3T \nBạn muốn hẹn hò: https://bit.ly/3HcaUOm \nMái ấm gia đình Việt: https://bit.ly/3edga9r \nChiến nhanh thắng chắc: https://bit.ly/3YG3vA4 \nBậc thầy săn thưởng: https://bit.ly/4f1bxJH \nVợ chồng son:  https://bit.ly/3TYwEoa \nXuân Hạ Thu Đông rồi lại Xuân: https://bit.ly/4en5Apw\nBiệt đội siêu sao: https://bit.ly/49bmkyN",
+      "translatedText": "\"Biệt đội siêu sao\" phát sóng 22g thứ Bảy hàng tuần trên HTV7. \n\n\"Biệt đội siêu sao\" là chương trình truyền hình thực tế kết hợp giải trí, thử thách sinh tồn, quảng bá danh lam thắng cảnh, văn hóa, ẩm thực vùng miền... Sáu người chơi chính gồm Tiến Luật, Ninh Dương Lan Ngọc, Tiểu Vy, Huyền Baby, Liên Bỉnh Phát, Viên Vibi sẽ cùng các khách mời tham gia hành trình truy tìm báu vật địa phương. \n\nFull Playlist: https://bit.ly/49bmkyN \n\n#HTV​ #realityshowHTV​ #bietdoisieusaoHTV​ \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \nĐăng ký: https://bit.ly/3D9sgXH \nWebsite: http://www.htv.com.vn \nFacebook:   / htv.hcm  \nỨng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\n2 ngày 1 đêm: https://bit.ly/45IWLnj\nSao nhập ngũ 2024: https://bit.ly/3yjQO3T \nBạn muốn hẹn hò: https://bit.ly/3HcaUOm \nMái ấm gia đình Việt: https://bit.ly/3edga9r \nChiến nhanh thắng chắc: https://bit.ly/3YG3vA4 \nBậc thầy săn thưởng: https://bit.ly/4f1bxJH \nVợ chồng son:  https://bit.ly/3TYwEoa \nXuân Hạ Thu Đông rồi lại Xuân: https://bit.ly/4en5Apw\nBiệt đội siêu sao: https://bit.ly/49bmkyN",
+      "descriptionLinks": [
+        {
+          "url": "https://bit.ly/49bmkyN",
+          "text": "https://bit.ly/49bmkyN"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#HTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/realityshowhtv",
+          "text": "#realityshowHTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bietdoisieusaohtv",
+          "text": "#bietdoisieusaoHTV​"
+        },
+        {
+          "url": "https://bit.ly/3D9sgXH",
+          "text": "https://bit.ly/3D9sgXH"
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.facebook.com/htv.hcm",
+          "text": "  / htv.hcm  "
+        },
+        {
+          "url": "https://htvc.tv/",
+          "text": "https://htvc.tv"
+        },
+        {
+          "url": "https://bit.ly/45IWLnj",
+          "text": "https://bit.ly/45IWLnj"
+        },
+        {
+          "url": "https://bit.ly/3yjQO3T",
+          "text": "https://bit.ly/3yjQO3T"
+        },
+        {
+          "url": "https://bit.ly/3HcaUOm",
+          "text": "https://bit.ly/3HcaUOm"
+        },
+        {
+          "url": "https://bit.ly/3edga9r",
+          "text": "https://bit.ly/3edga9r"
+        },
+        {
+          "url": "https://bit.ly/3YG3vA4",
+          "text": "https://bit.ly/3YG3vA4"
+        },
+        {
+          "url": "https://bit.ly/4f1bxJH",
+          "text": "https://bit.ly/4f1bxJH"
+        },
+        {
+          "url": "https://bit.ly/3TYwEoa",
+          "text": "https://bit.ly/3TYwEoa"
+        },
+        {
+          "url": "https://bit.ly/4en5Apw",
+          "text": "https://bit.ly/4en5Apw"
+        },
+        {
+          "url": "https://bit.ly/49bmkyN",
+          "text": "https://bit.ly/49bmkyN"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 4,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isMonetized": null,
+      "hashtags": [
+        "#HTV​",
+        "#realityshowHTV​",
+        "#bietdoisieusaoHTV​"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isPaidContent": false
+    },
+    {
+      "title": "Biệt Đội Siêu Sao | Tập 11 (8/2/2025)",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "7cBMzNTHogQ",
+      "url": "https://www.youtube.com/watch?v=7cBMzNTHogQ&list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_&index=1",
+      "thumbnailUrl": "https://i.ytimg.com/vi/7cBMzNTHogQ/maxresdefault.jpg",
+      "viewCount": 85992,
+      "date": "2025-02-08T16:00:10.000Z",
+      "likes": 757,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:58:06",
+      "commentsCount": 23,
+      "text": "\"Biệt đội siêu sao\" phát sóng 22g thứ Bảy hàng tuần trên HTV7. \n\n\"Biệt đội siêu sao\" là chương trình truyền hình thực tế kết hợp giải trí, thử thách sinh tồn, quảng bá danh lam thắng cảnh, văn hóa, ẩm thực vùng miền... Sáu người chơi chính gồm Tiến Luật, Ninh Dương Lan Ngọc, Tiểu Vy, Huyền Baby, Liên Bỉnh Phát, Viên Vibi sẽ cùng các khách mời tham gia hành trình truy tìm báu vật địa phương. \n\nFull Playlist: https://bit.ly/49bmkyN \n\n#HTV​ #realityshowHTV​ #bietdoisieusaoHTV​ \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://bit.ly/3D9sgXH \n* Website: http://www.htv.com.vn \n* Facebook: https://www.facebook.com/htv.hcm\n* Ứng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\n2 ngày 1 đêm: https://bit.ly/45IWLnj\nSao nhập ngũ 2024: https://bit.ly/3yjQO3T \nBạn muốn hẹn hò: https://bit.ly/3HcaUOm \nMái ấm gia đình Việt: https://bit.ly/3edga9r \nChiến nhanh thắng chắc: https://bit.ly/3YG3vA4 \nBậc thầy săn thưởng: https://bit.ly/4f1bxJH \nVợ chồng son:  https://bit.ly/3TYwEoa \nXuân Hạ Thu Đông rồi lại Xuân: https://bit.ly/4en5Apw\nBiệt đội siêu sao: https://bit.ly/49bmkyN",
+      "translatedText": "\"Biệt đội siêu sao\" phát sóng 22g thứ Bảy hàng tuần trên HTV7. \n\n\"Biệt đội siêu sao\" là chương trình truyền hình thực tế kết hợp giải trí, thử thách sinh tồn, quảng bá danh lam thắng cảnh, văn hóa, ẩm thực vùng miền... Sáu người chơi chính gồm Tiến Luật, Ninh Dương Lan Ngọc, Tiểu Vy, Huyền Baby, Liên Bỉnh Phát, Viên Vibi sẽ cùng các khách mời tham gia hành trình truy tìm báu vật địa phương. \n\nFull Playlist: https://bit.ly/49bmkyN \n\n#HTV​ #realityshowHTV​ #bietdoisieusaoHTV​ \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \nĐăng ký: https://bit.ly/3D9sgXH \nWebsite: http://www.htv.com.vn \nFacebook:   / htv.hcm  \nỨng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\n2 ngày 1 đêm: https://bit.ly/45IWLnj\nSao nhập ngũ 2024: https://bit.ly/3yjQO3T \nBạn muốn hẹn hò: https://bit.ly/3HcaUOm \nMái ấm gia đình Việt: https://bit.ly/3edga9r \nChiến nhanh thắng chắc: https://bit.ly/3YG3vA4 \nBậc thầy săn thưởng: https://bit.ly/4f1bxJH \nVợ chồng son:  https://bit.ly/3TYwEoa \nXuân Hạ Thu Đông rồi lại Xuân: https://bit.ly/4en5Apw\nBiệt đội siêu sao: https://bit.ly/49bmkyN",
+      "descriptionLinks": [
+        {
+          "url": "https://bit.ly/49bmkyN",
+          "text": "https://bit.ly/49bmkyN"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#HTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/realityshowhtv",
+          "text": "#realityshowHTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bietdoisieusaohtv",
+          "text": "#bietdoisieusaoHTV​"
+        },
+        {
+          "url": "https://bit.ly/3D9sgXH",
+          "text": "https://bit.ly/3D9sgXH"
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.facebook.com/htv.hcm",
+          "text": "  / htv.hcm  "
+        },
+        {
+          "url": "https://htvc.tv/",
+          "text": "https://htvc.tv"
+        },
+        {
+          "url": "https://bit.ly/45IWLnj",
+          "text": "https://bit.ly/45IWLnj"
+        },
+        {
+          "url": "https://bit.ly/3yjQO3T",
+          "text": "https://bit.ly/3yjQO3T"
+        },
+        {
+          "url": "https://bit.ly/3HcaUOm",
+          "text": "https://bit.ly/3HcaUOm"
+        },
+        {
+          "url": "https://bit.ly/3edga9r",
+          "text": "https://bit.ly/3edga9r"
+        },
+        {
+          "url": "https://bit.ly/3YG3vA4",
+          "text": "https://bit.ly/3YG3vA4"
+        },
+        {
+          "url": "https://bit.ly/4f1bxJH",
+          "text": "https://bit.ly/4f1bxJH"
+        },
+        {
+          "url": "https://bit.ly/3TYwEoa",
+          "text": "https://bit.ly/3TYwEoa"
+        },
+        {
+          "url": "https://bit.ly/4en5Apw",
+          "text": "https://bit.ly/4en5Apw"
+        },
+        {
+          "url": "https://bit.ly/49bmkyN",
+          "text": "https://bit.ly/49bmkyN"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 0,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isMonetized": null,
+      "hashtags": [
+        "#HTV​",
+        "#realityshowHTV​",
+        "#bietdoisieusaoHTV​"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isPaidContent": false
+    },
+    {
+      "title": "Biệt Đội Siêu Sao | Tập 10 | Tiến Luật \"chơi dơ\" không qua mắt được Lan Ngọc",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "2VvR3sJvwDA",
+      "url": "https://www.youtube.com/watch?v=2VvR3sJvwDA&list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_&index=2",
+      "thumbnailUrl": "https://i.ytimg.com/vi/2VvR3sJvwDA/maxresdefault.jpg",
+      "viewCount": 3493,
+      "date": "2025-01-27T12:00:04.000Z",
+      "likes": 147,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:05:01",
+      "commentsCount": 0,
+      "text": "Dù cố gắng dùng đủ mọi chiêu trò nhưng Tiến Luật vẫn bị Lan Ngọc phát giác trong thử thách cố gắng làm quả trứng đứng im 😂 \n\n#HTV​ #realityshow #bietdoisieusaoHTV​ #HuyềnBaby #ViênVibi #NinhDươngLanNgọc #TiểuVy #LiênBỉnhPhát #TiếnLuật #lynklee \n\n\"Biệt đội siêu sao\" phát sóng 22g thứ Bảy hàng tuần trên HTV7. \n\n\"Biệt đội siêu sao\" là chương trình truyền hình thực tế kết hợp giải trí, thử thách sinh tồn, quảng bá danh lam thắng cảnh, văn hóa, ẩm thực vùng miền... Sáu người chơi chính gồm Tiến Luật, Ninh Dương Lan Ngọc, Tiểu Vy, Huyền Baby, Liên Bỉnh Phát, Viên Vibi sẽ cùng các khách mời tham gia hành trình truy tìm báu vật địa phương. \n\nFull Playlist: https://bit.ly/49bmkyN \n\n#HTV​ #realityshowHTV​ #bietdoisieusaoHTV​ \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://bit.ly/3D9sgXH \n* Website: http://www.htv.com.vn \n* Facebook: https://www.facebook.com/htv.hcm\n* Ứng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\n2 ngày 1 đêm: https://bit.ly/45IWLnj\nSao nhập ngũ 2024: https://bit.ly/3yjQO3T \nBạn muốn hẹn hò: https://bit.ly/3HcaUOm \nMái ấm gia đình Việt: https://bit.ly/3edga9r \nChiến nhanh thắng chắc: https://bit.ly/3YG3vA4 \nBậc thầy săn thưởng: https://bit.ly/4f1bxJH \nVợ chồng son:  https://bit.ly/3TYwEoa \nXuân Hạ Thu Đông rồi lại Xuân: https://bit.ly/4en5Apw\nBiệt đội siêu sao: https://bit.ly/49bmkyN",
+      "translatedText": "Dù cố gắng dùng đủ mọi chiêu trò nhưng Tiến Luật vẫn bị Lan Ngọc phát giác trong thử thách cố gắng làm quả trứng đứng im 😂 \n\n#HTV​ #realityshow #bietdoisieusaoHTV​ #HuyềnBaby #ViênVibi #NinhDươngLanNgọc #TiểuVy #LiênBỉnhPhát #TiếnLuật #lynklee \n\n\"Biệt đội siêu sao\" phát sóng 22g thứ Bảy hàng tuần trên HTV7. \n\n\"Biệt đội siêu sao\" là chương trình truyền hình thực tế kết hợp giải trí, thử thách sinh tồn, quảng bá danh lam thắng cảnh, văn hóa, ẩm thực vùng miền... Sáu người chơi chính gồm Tiến Luật, Ninh Dương Lan Ngọc, Tiểu Vy, Huyền Baby, Liên Bỉnh Phát, Viên Vibi sẽ cùng các khách mời tham gia hành trình truy tìm báu vật địa phương. \n\nFull Playlist: https://bit.ly/49bmkyN \n\n#HTV​ #realityshowHTV​ #bietdoisieusaoHTV​ \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \nĐăng ký: https://bit.ly/3D9sgXH \nWebsite: http://www.htv.com.vn \nFacebook:   / htv.hcm  \nỨng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\n2 ngày 1 đêm: https://bit.ly/45IWLnj\nSao nhập ngũ 2024: https://bit.ly/3yjQO3T \nBạn muốn hẹn hò: https://bit.ly/3HcaUOm \nMái ấm gia đình Việt: https://bit.ly/3edga9r \nChiến nhanh thắng chắc: https://bit.ly/3YG3vA4 \nBậc thầy săn thưởng: https://bit.ly/4f1bxJH \nVợ chồng son:  https://bit.ly/3TYwEoa \nXuân Hạ Thu Đông rồi lại Xuân: https://bit.ly/4en5Apw\nBiệt đội siêu sao: https://bit.ly/49bmkyN",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#HTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/realityshow",
+          "text": "#realityshow"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bietdoisieusaohtv",
+          "text": "#bietdoisieusaoHTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huy%E1%BB%81nbaby",
+          "text": "#HuyềnBaby"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vi%C3%AAnvibi",
+          "text": "#ViênVibi"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ninhd%C6%B0%C6%A1nglanng%E1%BB%8Dc",
+          "text": "#NinhDươngLanNgọc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ti%E1%BB%83uvy",
+          "text": "#TiểuVy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/li%C3%AAnb%E1%BB%89nhph%C3%A1t",
+          "text": "#LiênBỉnhPhát"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ti%E1%BA%BFnlu%E1%BA%ADt",
+          "text": "#TiếnLuật"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lynklee",
+          "text": "#lynklee"
+        },
+        {
+          "url": "https://bit.ly/49bmkyN",
+          "text": "https://bit.ly/49bmkyN"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#HTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/realityshowhtv",
+          "text": "#realityshowHTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bietdoisieusaohtv",
+          "text": "#bietdoisieusaoHTV​"
+        },
+        {
+          "url": "https://bit.ly/3D9sgXH",
+          "text": "https://bit.ly/3D9sgXH"
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.facebook.com/htv.hcm",
+          "text": "  / htv.hcm  "
+        },
+        {
+          "url": "https://htvc.tv/",
+          "text": "https://htvc.tv"
+        },
+        {
+          "url": "https://bit.ly/45IWLnj",
+          "text": "https://bit.ly/45IWLnj"
+        },
+        {
+          "url": "https://bit.ly/3yjQO3T",
+          "text": "https://bit.ly/3yjQO3T"
+        },
+        {
+          "url": "https://bit.ly/3HcaUOm",
+          "text": "https://bit.ly/3HcaUOm"
+        },
+        {
+          "url": "https://bit.ly/3edga9r",
+          "text": "https://bit.ly/3edga9r"
+        },
+        {
+          "url": "https://bit.ly/3YG3vA4",
+          "text": "https://bit.ly/3YG3vA4"
+        },
+        {
+          "url": "https://bit.ly/4f1bxJH",
+          "text": "https://bit.ly/4f1bxJH"
+        },
+        {
+          "url": "https://bit.ly/3TYwEoa",
+          "text": "https://bit.ly/3TYwEoa"
+        },
+        {
+          "url": "https://bit.ly/4en5Apw",
+          "text": "https://bit.ly/4en5Apw"
+        },
+        {
+          "url": "https://bit.ly/49bmkyN",
+          "text": "https://bit.ly/49bmkyN"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 1,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isMonetized": null,
+      "hashtags": [
+        "#HTV​",
+        "#realityshow",
+        "#lynklee"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isPaidContent": false
+    },
+    {
+      "title": "Biệt Đội Siêu Sao - Tập 7 | Thử thách truy tìm manh mối tại trường Cao đẳng Đà Lạt",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "Ia1FVmIhgzI",
+      "url": "https://www.youtube.com/watch?v=Ia1FVmIhgzI&list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_&index=9",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Ia1FVmIhgzI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgSSg6MA8=&rs=AOn4CLDi93bK2byibSR3cY1wY6j6zULHXQ",
+      "viewCount": 2142,
+      "date": "2025-01-07T07:19:31.000Z",
+      "likes": 69,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:01:11",
+      "commentsCount": 0,
+      "text": "Tìm hiểu thể lệ truy tìm manh mối tại trường Cao Đẳng Đà Lạt |\n\n\"Biệt đội siêu sao\" phát sóng 22g thứ Bảy hàng tuần trên HTV7. \n\n\"Biệt đội siêu sao\" là chương trình truyền hình thực tế kết hợp giải trí, thử thách sinh tồn, quảng bá danh lam thắng cảnh, văn hóa, ẩm thực vùng miền... Sáu người chơi chính gồm Tiến Luật, Ninh Dương Lan Ngọc, Tiểu Vy, Huyền Baby, Liên Bỉnh Phát, Viên Vibi sẽ cùng các khách mời tham gia hành trình truy tìm báu vật địa phương. \n\nFull Playlist: https://bit.ly/49bmkyN \n\n#HTV​ #realityshowHTV​ #bietdoisieusaoHTV​ \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://bit.ly/3D9sgXH \n* Website: http://www.htv.com.vn \n* Facebook: https://www.facebook.com/htv.hcm\n* Ứng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\n2 ngày 1 đêm: https://bit.ly/45IWLnj\nSao nhập ngũ 2024: https://bit.ly/3yjQO3T \nBạn muốn hẹn hò: https://bit.ly/3HcaUOm \nMái ấm gia đình Việt: https://bit.ly/3edga9r \nChiến nhanh thắng chắc: https://bit.ly/3YG3vA4 \nBậc thầy săn thưởng: https://bit.ly/4f1bxJH \nVợ chồng son:  https://bit.ly/3TYwEoa \nXuân Hạ Thu Đông rồi lại Xuân: https://bit.ly/4en5Apw\nBiệt đội siêu sao: https://bit.ly/49bmkyN",
+      "translatedText": "Tìm hiểu thể lệ truy tìm manh mối tại trường Cao Đẳng Đà Lạt |\n\n\"Biệt đội siêu sao\" phát sóng 22g thứ Bảy hàng tuần trên HTV7. \n\n\"Biệt đội siêu sao\" là chương trình truyền hình thực tế kết hợp giải trí, thử thách sinh tồn, quảng bá danh lam thắng cảnh, văn hóa, ẩm thực vùng miền... Sáu người chơi chính gồm Tiến Luật, Ninh Dương Lan Ngọc, Tiểu Vy, Huyền Baby, Liên Bỉnh Phát, Viên Vibi sẽ cùng các khách mời tham gia hành trình truy tìm báu vật địa phương. \n\nFull Playlist: https://bit.ly/49bmkyN \n\n#HTV​ #realityshowHTV​ #bietdoisieusaoHTV​ \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \nĐăng ký: https://bit.ly/3D9sgXH \nWebsite: http://www.htv.com.vn \nFacebook:   / htv.hcm  \nỨng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\n2 ngày 1 đêm: https://bit.ly/45IWLnj\nSao nhập ngũ 2024: https://bit.ly/3yjQO3T \nBạn muốn hẹn hò: https://bit.ly/3HcaUOm \nMái ấm gia đình Việt: https://bit.ly/3edga9r \nChiến nhanh thắng chắc: https://bit.ly/3YG3vA4 \nBậc thầy săn thưởng: https://bit.ly/4f1bxJH \nVợ chồng son:  https://bit.ly/3TYwEoa \nXuân Hạ Thu Đông rồi lại Xuân: https://bit.ly/4en5Apw\nBiệt đội siêu sao: https://bit.ly/49bmkyN",
+      "descriptionLinks": [
+        {
+          "url": "https://bit.ly/49bmkyN",
+          "text": "https://bit.ly/49bmkyN"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#HTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/realityshowhtv",
+          "text": "#realityshowHTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bietdoisieusaohtv",
+          "text": "#bietdoisieusaoHTV​"
+        },
+        {
+          "url": "https://bit.ly/3D9sgXH",
+          "text": "https://bit.ly/3D9sgXH"
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.facebook.com/htv.hcm",
+          "text": "  / htv.hcm  "
+        },
+        {
+          "url": "https://htvc.tv/",
+          "text": "https://htvc.tv"
+        },
+        {
+          "url": "https://bit.ly/45IWLnj",
+          "text": "https://bit.ly/45IWLnj"
+        },
+        {
+          "url": "https://bit.ly/3yjQO3T",
+          "text": "https://bit.ly/3yjQO3T"
+        },
+        {
+          "url": "https://bit.ly/3HcaUOm",
+          "text": "https://bit.ly/3HcaUOm"
+        },
+        {
+          "url": "https://bit.ly/3edga9r",
+          "text": "https://bit.ly/3edga9r"
+        },
+        {
+          "url": "https://bit.ly/3YG3vA4",
+          "text": "https://bit.ly/3YG3vA4"
+        },
+        {
+          "url": "https://bit.ly/4f1bxJH",
+          "text": "https://bit.ly/4f1bxJH"
+        },
+        {
+          "url": "https://bit.ly/3TYwEoa",
+          "text": "https://bit.ly/3TYwEoa"
+        },
+        {
+          "url": "https://bit.ly/4en5Apw",
+          "text": "https://bit.ly/4en5Apw"
+        },
+        {
+          "url": "https://bit.ly/49bmkyN",
+          "text": "https://bit.ly/49bmkyN"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 8,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isMonetized": null,
+      "hashtags": [
+        "#HTV​",
+        "#realityshowHTV​",
+        "#bietdoisieusaoHTV​"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isPaidContent": false
+    },
+    {
+      "title": "Biệt Đội Siêu Sao | Tập 11 | Tiến Luật và Liên Bỉnh Phát gặp khó khi dựng \"Nhà cộng đồng\"",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "fCe9j5pA6MI",
+      "url": "https://www.youtube.com/watch?v=fCe9j5pA6MI&list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_&index=30",
+      "thumbnailUrl": "https://i.ytimg.com/vi/fCe9j5pA6MI/maxresdefault.jpg",
+      "viewCount": 1149,
+      "date": "2025-02-17T01:00:34.000Z",
+      "likes": 25,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:05:43",
+      "commentsCount": 0,
+      "text": "Tiến Luật và Liên Bỉnh Phát gặp khó trong khi dựng lều chung khiến cả hai đưa ra quyết định cầu cứu chuyên gia\n\n#BietDoiSieuSao #HTV #TienLuat #NinhDuongLanNgoc #HuyenBaby #LienBinhPhat #TieuVy #VienVibi\n********************\n👉 Theo dõi các kênh chính thức của Đài truyền hình TP. HCM (HTV) tại:\n► Fanpage:  \n/htv.hcm\n* Đăng ký: https://www.youtube.com/user/htvonlinetube?sub_confirmation=1 \n* Website: http://www.htv.com.vn \n* Facebook:https://www.fb.com/htv.hcm\n* TikTok: https://www.tiktok.com/@htvofficial",
+      "translatedText": "Tiến Luật và Liên Bỉnh Phát gặp khó trong khi dựng lều chung khiến cả hai đưa ra quyết định cầu cứu chuyên gia\n\n#BietDoiSieuSao #HTV #TienLuat #NinhDuongLanNgoc #HuyenBaby #LienBinhPhat #TieuVy #VienVibi\n********************\n👉 Theo dõi các kênh chính thức của Đài truyền hình TP. HCM (HTV) tại:\n► Fanpage:  \n/htv.hcm\nĐăng ký: https://www.youtube.com/user/htvonlin... \nWebsite: http://www.htv.com.vn \nFacebook:https://www.fb.com/htv.hcm\nTikTok:   / htvofficial  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/bietdoisieusao",
+          "text": "#BietDoiSieuSao"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#HTV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tienluat",
+          "text": "#TienLuat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ninhduonglanngoc",
+          "text": "#NinhDuongLanNgoc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huyenbaby",
+          "text": "#HuyenBaby"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lienbinhphat",
+          "text": "#LienBinhPhat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tieuvy",
+          "text": "#TieuVy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vienvibi",
+          "text": "#VienVibi"
+        },
+        {
+          "url": "https://www.youtube.com/user/htvonlinetube?sub_confirmation=1",
+          "text": "https://www.youtube.com/user/htvonlin..."
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.fb.com/htv.hcm",
+          "text": "https://www.fb.com/htv.hcm"
+        },
+        {
+          "url": "https://www.tiktok.com/@htvofficial",
+          "text": "  / htvofficial  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 29,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isPaidContent": false
+    },
+    {
+      "title": "Cùng vượt qua thử thách nhưng lại bất đồng việc ăn ngủ | Biệt đội siêu sao - Tập 2",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "rO2VAgmasqM",
+      "url": "https://www.youtube.com/watch?v=rO2VAgmasqM&list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_&index=21",
+      "thumbnailUrl": "https://i.ytimg.com/vi/rO2VAgmasqM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHOBYACgAqKAgwIABABGHIgRihFMA8=&rs=AOn4CLAyilg0552jvE3VC5sxtQM4R5pLcw",
+      "viewCount": 2661,
+      "date": "2024-12-01T10:28:14.000Z",
+      "likes": 82,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:01:30",
+      "commentsCount": 0,
+      "text": "Cùng vượt qua thử thách nhưng lại bất đồng việc ăn ngủ | Biệt đội siêu sao\n\"Biệt đội siêu sao\" phát sóng 22g thứ Bảy hàng tuần trên HTV7. \n\"Biệt đội siêu sao\" là chương trình truyền hình thực tế kết hợp giải trí, thử thách sinh tồn, quảng bá danh lam thắng cảnh, văn hóa, ẩm thực vùng miền... Sáu người chơi chính gồm Tiến Luật, Ninh Dương Lan Ngọc, Tiểu Vy, Huyền Baby, Liên Bỉnh Phát, Viên Vibi sẽ cùng các khách mời tham gia hành trình truy tìm báu vật địa phương. \n********************\n👉 Theo dõi các kênh chính thức của Đài truyền hình TP. HCM (HTV) tại:\n► Fanpage:  \n/htv.hcm\nĐăng ký: https://www.youtube.com/user/htvonlin... \nWebsite: http://www.htv.com.vn \nFacebook:https://www.fb.com/htv.hcm\nTikTok:   / htvofficial  ",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/user/htvonlinetube?sub_confirmation=1",
+          "text": "https://www.youtube.com/user/htvonlin..."
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.fb.com/htv.hcm",
+          "text": "https://www.fb.com/htv.hcm"
+        },
+        {
+          "url": "https://www.tiktok.com/@htvofficial",
+          "text": "  / htvofficial  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 20,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isPaidContent": false
+    },
+    {
+      "title": "Biệt Đội Siêu Sao | Ngồi ăn với người chiến thắng mà áp lực ngang",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "Ze6Rr5IY1Ds",
+      "url": "https://www.youtube.com/watch?v=Ze6Rr5IY1Ds&list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_&index=27",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Ze6Rr5IY1Ds/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBIKEIwDw==&rs=AOn4CLBWKs6Z8iaWp5N1E249HxTAkWwEZw",
+      "viewCount": 18452,
+      "date": "2025-02-13T07:57:14.000Z",
+      "likes": 200,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:00:47",
+      "commentsCount": 0,
+      "text": "Muốn ăn bánh căn mà nhìn Liên Bỉnh Phát “căng” hơn  \n\n#BietDoiSieuSao #HTV #ON25 #TienLuat #NinhDuongLanNgoc #HuyenBaby #LienBinhPhat #TieuVy #VienVibi\n\n********************\n👉 Theo dõi các kênh chính thức của Đài truyền hình TP. HCM (HTV) tại:\n► Fanpage:  \n/htv.hcm\n* Đăng ký: https://www.youtube.com/user/htvonlinetube?sub_confirmation=1 \n* Website: http://www.htv.com.vn \n* Facebook:https://www.fb.com/htv.hcm\n* TikTok: https://www.tiktok.com/@htvofficial",
+      "translatedText": "Muốn ăn bánh căn mà nhìn Liên Bỉnh Phát “căng” hơn  \n\n#BietDoiSieuSao #HTV #ON25 #TienLuat #NinhDuongLanNgoc #HuyenBaby #LienBinhPhat #TieuVy #VienVibi\n\n********************\n👉 Theo dõi các kênh chính thức của Đài truyền hình TP. HCM (HTV) tại:\n► Fanpage:  \n/htv.hcm\nĐăng ký: https://www.youtube.com/user/htvonlin... \nWebsite: http://www.htv.com.vn \nFacebook:https://www.fb.com/htv.hcm\nTikTok:   / htvofficial  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/bietdoisieusao",
+          "text": "#BietDoiSieuSao"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#HTV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/on25",
+          "text": "#ON25"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tienluat",
+          "text": "#TienLuat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ninhduonglanngoc",
+          "text": "#NinhDuongLanNgoc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huyenbaby",
+          "text": "#HuyenBaby"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lienbinhphat",
+          "text": "#LienBinhPhat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tieuvy",
+          "text": "#TieuVy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vienvibi",
+          "text": "#VienVibi"
+        },
+        {
+          "url": "https://www.youtube.com/user/htvonlinetube?sub_confirmation=1",
+          "text": "https://www.youtube.com/user/htvonlin..."
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.fb.com/htv.hcm",
+          "text": "https://www.fb.com/htv.hcm"
+        },
+        {
+          "url": "https://www.tiktok.com/@htvofficial",
+          "text": "  / htvofficial  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 26,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isMonetized": null,
+      "hashtags": [
+        "#NinhDuongLanNgoc",
+        "#HTV",
+        "#TienLuat"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isPaidContent": false
+    },
+    {
+      "title": "BIỆT ĐỘI SIÊU SAO | TẬP 11 | Liên Bỉnh Phát ăn sáng giùm Jun Vũ và Lan Ngọc",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "-cpnMv1MpFI",
+      "url": "https://www.youtube.com/watch?v=-cpnMv1MpFI&list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_&index=25",
+      "thumbnailUrl": "https://i.ytimg.com/vi/-cpnMv1MpFI/maxresdefault.jpg",
+      "viewCount": 1888,
+      "date": "2025-02-12T10:30:19.000Z",
+      "likes": 28,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:07:00",
+      "commentsCount": 1,
+      "text": "Chơi hết mình, ăn hết mình, Phát cho Jun Vũ và Lan Ngọc biết thế nào là lễ hội \n\n#BietDoiSieuSao #HTV #HTVEntertainment #TienLuat #NinhDuongLanNgoc #HuyenBaby #LienBinhPhat #TieuVy #VienVibi\n********************\n👉 Theo dõi các kênh chính thức của Đài truyền hình TP. HCM (HTV) tại:\n► Fanpage:  \n/htv.hcm\n* Đăng ký: https://www.youtube.com/user/htvonlinetube?sub_confirmation=1 \n* Website: http://www.htv.com.vn \n* Facebook:https://www.fb.com/htv.hcm\n* TikTok: https://www.tiktok.com/@htvofficial",
+      "translatedText": "Chơi hết mình, ăn hết mình, Phát cho Jun Vũ và Lan Ngọc biết thế nào là lễ hội \n\n#BietDoiSieuSao #HTV #HTVEntertainment #TienLuat #NinhDuongLanNgoc #HuyenBaby #LienBinhPhat #TieuVy #VienVibi\n********************\n👉 Theo dõi các kênh chính thức của Đài truyền hình TP. HCM (HTV) tại:\n► Fanpage:  \n/htv.hcm\nĐăng ký: https://www.youtube.com/user/htvonlin... \nWebsite: http://www.htv.com.vn \nFacebook:https://www.fb.com/htv.hcm\nTikTok:   / htvofficial  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/bietdoisieusao",
+          "text": "#BietDoiSieuSao"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#HTV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htventertainment",
+          "text": "#HTVEntertainment"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tienluat",
+          "text": "#TienLuat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ninhduonglanngoc",
+          "text": "#NinhDuongLanNgoc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huyenbaby",
+          "text": "#HuyenBaby"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lienbinhphat",
+          "text": "#LienBinhPhat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tieuvy",
+          "text": "#TieuVy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vienvibi",
+          "text": "#VienVibi"
+        },
+        {
+          "url": "https://www.youtube.com/user/htvonlinetube?sub_confirmation=1",
+          "text": "https://www.youtube.com/user/htvonlin..."
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.fb.com/htv.hcm",
+          "text": "https://www.fb.com/htv.hcm"
+        },
+        {
+          "url": "https://www.tiktok.com/@htvofficial",
+          "text": "  / htvofficial  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 24,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isMonetized": null,
+      "hashtags": [
+        "#NinhDuongLanNgoc",
+        "#HTV",
+        "#TienLuat"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isPaidContent": false
+    },
+    {
+      "title": "Biệt đội siêu sao | Xe số sàn thử thách tay lái lụa Tiến Luật - Lan Ngọc",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "C2FL7DB0S20",
+      "url": "https://www.youtube.com/watch?v=C2FL7DB0S20&list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_&index=23",
+      "thumbnailUrl": "https://i.ytimg.com/vi/C2FL7DB0S20/maxresdefault.jpg",
+      "viewCount": 7935,
+      "date": "2024-11-24T08:54:22.000Z",
+      "likes": 191,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:03:19",
+      "commentsCount": 1,
+      "text": "Biệt đội siêu sao | Xe số sàn thử thách tay lái lụa Tiến Luật - Lan Ngọc\nThử thách ngay khi xuống sân bay là lái xe số sàn đưa đội mình đến các điểm nhận nhiệm vụ. Chìa khóa xe hơi mà Lan Ngọc còn ko biết xài thì thiệt là nghi ngờ tay lái này lắm !\nBiệt Đội Siêu Sao - chương trình mang format mới lạ khi kết hợp giữa yếu tố truyền hình thực tế và mô hình thương mại điện tử đã tới đây! Cùng chờ đón hành trình trải nghiệm đầy đặc sắc về văn hoá, vùng đất, con người, kết hợp quảng bá đa dạng các loại đặc sản tại mỗi vùng miền nhé! \n\nBiệt Đội Siêu Sao - Gameshow truyền hình thực tế và mua sắm cực đỉnh. Phát sóng lúc 22H trên kênh HTV7, 22H30 trên kênh Youtub HTV Entertainment.\n\n********************\n👉 Theo dõi các kênh chính thức của Đài truyền hình TP. HCM (HTV) tại:\n► Fanpage:  \n/htv.hcm\nĐăng ký: https://www.youtube.com/user/htvonlin... \nWebsite: http://www.htv.com.vn \nFacebook:https://www.fb.com/htv.hcm\nTikTok:   / htvofficial  ",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/user/htvonlinetube?sub_confirmation=1",
+          "text": "https://www.youtube.com/user/htvonlin..."
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.fb.com/htv.hcm",
+          "text": "https://www.fb.com/htv.hcm"
+        },
+        {
+          "url": "https://www.tiktok.com/@htvofficial",
+          "text": "  / htvofficial  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 22,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isPaidContent": false
+    },
+    {
+      "title": "Biệt Đội Siêu Sao | Tập 4 | Lan Ngọc hóa \"Ác Nữ\", sơ hở là trèo đầu cưỡi cổ Liên Bỉnh Phát",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "WgVwv460vH8",
+      "url": "https://www.youtube.com/watch?v=WgVwv460vH8&list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_&index=10",
+      "thumbnailUrl": "https://i.ytimg.com/vi/WgVwv460vH8/maxresdefault.jpg",
+      "viewCount": 2259,
+      "date": "2025-01-02T04:54:42.000Z",
+      "likes": 109,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:03:45",
+      "commentsCount": 0,
+      "text": "Hai anh chị có cố gắng bắt vịt nhưng không đáng kể, tranh thủ đấu đá nhau mới là chính 🤣\n\n#HTV​ #realityshowHTV​ #TienLuat #NinhDuongLanNgoc #TieuVy #HuyenBaby #LienBinhPhat #viênvibi \n\n\"Biệt đội siêu sao\" phát sóng 22g thứ Bảy hàng tuần trên HTV7. \n\n\"Biệt đội siêu sao\" là chương trình truyền hình thực tế kết hợp giải trí, thử thách sinh tồn, quảng bá danh lam thắng cảnh, văn hóa, ẩm thực vùng miền... Sáu người chơi chính gồm Tiến Luật, Ninh Dương Lan Ngọc, Tiểu Vy, Huyền Baby, Liên Bỉnh Phát, Viên Vibi sẽ cùng các khách mời tham gia hành trình truy tìm báu vật địa phương. \n\nFull Playlist: https://bit.ly/49bmkyN \n\n#HTV​ #realityshowHTV​ #bietdoisieusaoHTV​ \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://bit.ly/3D9sgXH \n* Website: http://www.htv.com.vn \n* Facebook: https://www.facebook.com/htv.hcm\n* Ứng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\n2 ngày 1 đêm: https://bit.ly/45IWLnj\nSao nhập ngũ 2024: https://bit.ly/3yjQO3T \nBạn muốn hẹn hò: https://bit.ly/3HcaUOm \nMái ấm gia đình Việt: https://bit.ly/3edga9r \nChiến nhanh thắng chắc: https://bit.ly/3YG3vA4 \nBậc thầy săn thưởng: https://bit.ly/4f1bxJH \nVợ chồng son:  https://bit.ly/3TYwEoa \nXuân Hạ Thu Đông rồi lại Xuân: https://bit.ly/4en5Apw\nBiệt đội siêu sao: https://bit.ly/49bmkyN",
+      "translatedText": "Hai anh chị có cố gắng bắt vịt nhưng không đáng kể, tranh thủ đấu đá nhau mới là chính 🤣\n\n#HTV​ #realityshowHTV​ #TienLuat #NinhDuongLanNgoc #TieuVy #HuyenBaby #LienBinhPhat #viênvibi \n\n\"Biệt đội siêu sao\" phát sóng 22g thứ Bảy hàng tuần trên HTV7. \n\n\"Biệt đội siêu sao\" là chương trình truyền hình thực tế kết hợp giải trí, thử thách sinh tồn, quảng bá danh lam thắng cảnh, văn hóa, ẩm thực vùng miền... Sáu người chơi chính gồm Tiến Luật, Ninh Dương Lan Ngọc, Tiểu Vy, Huyền Baby, Liên Bỉnh Phát, Viên Vibi sẽ cùng các khách mời tham gia hành trình truy tìm báu vật địa phương. \n\nFull Playlist: https://bit.ly/49bmkyN \n\n#HTV​ #realityshowHTV​ #bietdoisieusaoHTV​ \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \nĐăng ký: https://bit.ly/3D9sgXH \nWebsite: http://www.htv.com.vn \nFacebook:   / htv.hcm  \nỨng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\n2 ngày 1 đêm: https://bit.ly/45IWLnj\nSao nhập ngũ 2024: https://bit.ly/3yjQO3T \nBạn muốn hẹn hò: https://bit.ly/3HcaUOm \nMái ấm gia đình Việt: https://bit.ly/3edga9r \nChiến nhanh thắng chắc: https://bit.ly/3YG3vA4 \nBậc thầy săn thưởng: https://bit.ly/4f1bxJH \nVợ chồng son:  https://bit.ly/3TYwEoa \nXuân Hạ Thu Đông rồi lại Xuân: https://bit.ly/4en5Apw\nBiệt đội siêu sao: https://bit.ly/49bmkyN",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#HTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/realityshowhtv",
+          "text": "#realityshowHTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tienluat",
+          "text": "#TienLuat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ninhduonglanngoc",
+          "text": "#NinhDuongLanNgoc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tieuvy",
+          "text": "#TieuVy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/huyenbaby",
+          "text": "#HuyenBaby"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lienbinhphat",
+          "text": "#LienBinhPhat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vi%C3%AAnvibi",
+          "text": "#viênvibi"
+        },
+        {
+          "url": "https://bit.ly/49bmkyN",
+          "text": "https://bit.ly/49bmkyN"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#HTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/realityshowhtv",
+          "text": "#realityshowHTV​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bietdoisieusaohtv",
+          "text": "#bietdoisieusaoHTV​"
+        },
+        {
+          "url": "https://bit.ly/3D9sgXH",
+          "text": "https://bit.ly/3D9sgXH"
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.facebook.com/htv.hcm",
+          "text": "  / htv.hcm  "
+        },
+        {
+          "url": "https://htvc.tv/",
+          "text": "https://htvc.tv"
+        },
+        {
+          "url": "https://bit.ly/45IWLnj",
+          "text": "https://bit.ly/45IWLnj"
+        },
+        {
+          "url": "https://bit.ly/3yjQO3T",
+          "text": "https://bit.ly/3yjQO3T"
+        },
+        {
+          "url": "https://bit.ly/3HcaUOm",
+          "text": "https://bit.ly/3HcaUOm"
+        },
+        {
+          "url": "https://bit.ly/3edga9r",
+          "text": "https://bit.ly/3edga9r"
+        },
+        {
+          "url": "https://bit.ly/3YG3vA4",
+          "text": "https://bit.ly/3YG3vA4"
+        },
+        {
+          "url": "https://bit.ly/4f1bxJH",
+          "text": "https://bit.ly/4f1bxJH"
+        },
+        {
+          "url": "https://bit.ly/3TYwEoa",
+          "text": "https://bit.ly/3TYwEoa"
+        },
+        {
+          "url": "https://bit.ly/4en5Apw",
+          "text": "https://bit.ly/4en5Apw"
+        },
+        {
+          "url": "https://bit.ly/49bmkyN",
+          "text": "https://bit.ly/49bmkyN"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 9,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isMonetized": null,
+      "hashtags": [
+        "#NinhDuongLanNgoc",
+        "#HTV​",
+        "#TienLuat"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_",
+      "isPaidContent": false
+    }
+  ]
+}

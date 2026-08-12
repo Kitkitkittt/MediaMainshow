@@ -1,6 +1,31 @@
-﻿show_id,show_name,show_name_normalized,aliases,producer,broadcaster,primary_youtube_channel_ids,comparison_group,format_type,notes
-ATSH,"Anh Trai ""Say Hi""",anh trai say hi,"Anh Trai Say Hi|Anh Trai ""Say Hi""|ATSH",,,,music_fandom,closed_season,Official source pending verification
-EXSH,"Em Xinh ""Say Hi""",em xinh say hi,"Em Xinh Say Hi|Em Xinh ""Say Hi""|EXSH",,,,music_fandom,closed_season,Official source pending verification
-THSH,"Tinh Hà ""Say Hi""",tinh ha say hi,"Tinh Ha Say Hi|Tinh Hà Say Hi|Tinh Hà ""Say Hi""|THSH",,,,music_fandom,closed_season,Official source pending verification
-ATVNCG,Anh Trai Vượt Ngàn Chông Gai,anh trai vuot ngan chong gai,Anh Trai Vuot Ngan Chong Gai|Anh Trai Vượt Ngàn Chông Gai|ATVNCG,,,,music_fandom,closed_season,Official source pending verification
-CDDG,Chị Đẹp Đạp Gió,chi dep dap gio,Chi Dep Dap Gio|Chị Đẹp Đạp Gió|Chị Đẹp Đạp Gió Rẽ Sóng|CDDG,,,,music_fandom,closed_season,Official source pending verification
+﻿show_id,tier,show_name,show_name_normalized,aliases,producer,broadcaster,primary_youtube_channel_ids,comparison_group,format_type,notes
+ATSH,1,"Anh Trai ""Say Hi""",anh trai say hi,"Anh Trai Say Hi|Anh Trai ""Say Hi""|ATSH",DatVietVAC / Vie Channel,HTV2 - Vie Channel / VieON,UCkna2OcuN1E6u5I8GVtdkOw,music_fandom,closed_season,
+EXSH,1,"Em Xinh ""Say Hi""",em xinh say hi,"Em Xinh Say Hi|Em Xinh ""Say Hi""|EXSH",DatVietVAC / Vie Channel,HTV2 - Vie Channel / VieON,UCkna2OcuN1E6u5I8GVtdkOw,music_fandom,closed_season,
+THSH,1,"Tinh Hà ""Say Hi""",tinh ha say hi,"Tinh Ha Say Hi|Tinh Hà Say Hi|Tinh Hà ""Say Hi""|THSH",DatVietVAC / Vie Channel,HTV2 - Vie Channel / VieON,UCkna2OcuN1E6u5I8GVtdkOw,music_fandom,closed_season,
+ATVNCG,1,Anh Trai Vượt Ngàn Chông Gai,anh trai vuot ngan chong gai,Anh Trai Vuot Ngan Chong Gai|Anh Trai Vượt Ngàn Chông Gai|ATVNCG,YeaH1,VTV3 / YEAH1 SHOW,UCh_zF2FsiCflCPgYDudtcqg,music_fandom,closed_season,
+CDDG,1,Chị Đẹp Đạp Gió,chi dep dap gio,Chi Dep Dap Gio|Chị Đẹp Đạp Gió|Chị Đẹp Đạp Gió Rẽ Sóng|CDDG,YeaH1,VTV3 / YEAH1 SHOW,UCh_zF2FsiCflCPgYDudtcqg,music_fandom,closed_season,
+RAPVIET,2,Rap Việt,rap viet,Rap Việt|Rap Viet,DatVietVAC / Vie Channel,HTV2 - Vie Channel / VieON,UCkna2OcuN1E6u5I8GVtdkOw,music_talent,closed_season,
+TMSVN,2,The Masked Singer Vietnam,the masked singer vietnam,The Masked Singer Vietnam|Ca Sĩ Mặt Nạ|Ca Si Mat Na|TMSVN,DatVietVAC / Vie Channel,HTV2 - Vie Channel / VieON,UCkna2OcuN1E6u5I8GVtdkOw,music_talent,closed_season,
+TBTN,2,Tân Binh Toàn Năng,tan binh toan nang,Tân Binh Toàn Năng|Tan Binh Toan Nang|TBTN,YeaH1,VTV3 / YeaH1 ONE,UC_np0YZuvNMIJceE6jHeggQ|UCh_zF2FsiCflCPgYDudtcqg,music_fandom,closed_season,
+OURSONG,2,Bài Hát Của Chúng Ta,bai hat cua chung ta,Bài Hát Của Chúng Ta|Bai Hat Cua Chung Ta|Our Song Vietnam|Our Song Việt Nam,Dong Tay Promotion,VTV3 / VieON,UCFMEYTv6N64hIL9FlQ_hxBw,music_talent,closed_season,
+VNIDOL,2,Vietnam Idol,vietnam idol,Vietnam Idol|Thần Tượng Âm Nhạc Việt Nam|Than Tuong Am Nhac Viet Nam,,VTV,UCs0N0TBi2j156kZ4AOnnB2g,music_talent,closed_season,Seasons 1-7 have verified season identity but unresolved counts and official archives.
+NHVDDP,2,Nữ Hoàng Vũ Đạo Đường Phố,nu hoang vu dao duong pho,Nữ Hoàng Vũ Đạo Đường Phố|Nu Hoang Vu Dao Duong Pho,Madison Media Group / Studio Gl1de / Needlab G&C,HTV,UCHNYJheRUSucT2rERYMn45A|UCbq8aOyj9ZtIqcD-0MwG1fQ,music_talent,closed_season,
+2N1D,3,2 Ngày 1 Đêm,2 ngay 1 dem,2 Ngày 1 Đêm|2 Ngay 1 Dem|2N1D,,,,travel_reality,episodic_reality,
+RMVN,3,Running Man Vietnam,running man vietnam,Running Man Vietnam|Chạy Đi Chờ Chi|Chay Di Cho Chi|RMVN,,,,celebrity_variety,episodic_reality,
+GDHAHA,3,Gia Đình Haha,gia dinh haha,Gia Đình Haha|Gia Dinh Haha,,,,family_reality,episodic_reality,
+SNN,3,Sao Nhập Ngũ,sao nhap ngu,Sao Nhập Ngũ|Sao Nhap Ngu,,,,military_reality,episodic_reality,
+CSQC,3,Chiến Sĩ Quả Cảm,chien si qua cam,Chiến Sĩ Quả Cảm|Chien Si Qua Cam,,,,military_reality,closed_season,
+DTGT,3,Đấu Trường Gia Tốc,dau truong gia toc,Đấu Trường Gia Tốc|Dau Truong Gia Toc,,,,celebrity_variety,closed_season,
+TD1K2,3,Tổ Đội 1 Không 2,to doi 1 khong 2,Tổ Đội 1 Không 2|To Doi 1 Khong 2,,,,celebrity_variety,closed_season,
+BTST,3,Bậc Thầy Săn Thưởng,bac thay san thuong,Bậc Thầy Săn Thưởng|Bac Thay San Thuong,,,,celebrity_variety,closed_season,
+HTRR,3,Hành Trình Rực Rỡ,hanh trinh ruc ro,Hành Trình Rực Rỡ|Hanh Trinh Ruc Ro,,,,travel_reality,episodic_reality,
+VQLG,3,Về Quê Làm Giàu,ve que lam giau,Về Quê Làm Giàu|Ve Que Lam Giau,,,,family_reality,episodic_reality,
+BOMD,3,Bố Ơi! Mình Đi Đâu Thế?,bo oi minh di dau the,Bố Ơi Mình Đi Đâu Thế|Bo Oi Minh Di Dau The,,,,family_reality,episodic_reality,
+BDSS,3,Biệt Đội Siêu Sao,biet doi sieu sao,Biệt Đội Siêu Sao|Biet Doi Sieu Sao,,,,celebrity_variety,closed_season,
+LCHC,3,La Cà Hát Ca,la ca hat ca,La Cà Hát Ca|La Ca Hat Ca,,,,travel_reality,episodic_reality,
+MVNBLST,4,"Mẹ Vắng Nhà, Ba Là Siêu Nhân",me vang nha ba la sieu nhan,Mẹ Vắng Nhà Ba Là Siêu Nhân|Me Vang Nha Ba La Sieu Nhan,,,,family_reality,episodic_reality,
+MAGDV,4,Mái Ấm Gia Đình Việt,mai am gia dinh viet,Mái Ấm Gia Đình Việt|Mai Am Gia Dinh Viet,,,,family_reality,rolling_weekly,
+ATCDN,4,Anh Trai & Cái Đuôi Nhỏ,anh trai cai duoi nho,Anh Trai & Cái Đuôi Nhỏ|Anh Trai Và Cái Đuôi Nhỏ|Anh Trai Va Cai Duoi Nho,,,,family_reality,closed_season,
+XHTDRLX,4,"Xuân Hạ Thu Đông, Rồi Lại Xuân",xuan ha thu dong roi lai xuan,Xuân Hạ Thu Đông Rồi Lại Xuân|Xuan Ha Thu Dong Roi Lai Xuan,,,,music_talent,closed_season,
+DUM,4,Điều Ước Của Mẹ,dieu uoc cua me,Điều Ước Của Mẹ|Dieu Uoc Cua Me,,,,family_reality,limited_special,
+SONG,5,Sóng,song,Sóng|Song,,,,annual_special,annual_special,

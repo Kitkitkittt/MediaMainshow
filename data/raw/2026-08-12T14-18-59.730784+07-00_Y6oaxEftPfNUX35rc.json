@@ -1,0 +1,568 @@
+{
+  "actor_name": "streamers/youtube-scraper",
+  "actor_run_id": "Y6oaxEftPfNUX35rc",
+  "dataset_id": "yAPyLOrPfgu605Cie",
+  "actor_build_id": "SUk0475fgtCh9zqMt",
+  "retrieved_at": "2026-08-12T14:18:59.730784+07:00",
+  "actor_input": {
+    "maxResults": 36,
+    "maxResultsShorts": 0,
+    "maxResultStreams": 0,
+    "startUrls": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Co88uDvJGUYQ9npjPoaySdB"
+      }
+    ],
+    "sourceBindingUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Co88uDvJGUYQ9npjPoaySdB"
+  },
+  "run_metadata": {
+    "status": "SUCCEEDED",
+    "startedAt": "2026-08-12T07:17:36.546Z",
+    "finishedAt": "2026-08-12T07:18:51.761Z",
+    "usageTotalUsd": 0.032,
+    "chargedEventCounts": {
+      "result": 8,
+      "date-filter": 0,
+      "ai-video-description": 0,
+      "ai-video-summary": 0
+    }
+  },
+  "items": [
+    {
+      "title": "Sao nhập ngũ Mùa 7 - Tập 5 | Hậu duệ mặt nhăn - Phiên bản Sao nhập ngũ",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "2vVP4uIP790",
+      "url": "https://www.youtube.com/watch?v=2vVP4uIP790&list=PLC_d5n_vB0Co88uDvJGUYQ9npjPoaySdB&index=5",
+      "thumbnailUrl": "https://i.ytimg.com/vi/2vVP4uIP790/maxresdefault.jpg",
+      "viewCount": 605686,
+      "date": "2018-12-08T03:00:01.000Z",
+      "likes": 3000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:30:46",
+      "commentsCount": 297,
+      "text": "💢Xem trọn bộ Mùa 8 - Sao nhập ngũ - Full HD tại địa chỉ: http://phim.keeng.vn/\n💢HOT💢Từ tháng 09/2018, chương trình Sao nhập ngũ thay đổi giờ phát sóng như sau:\n🤗Trên Kênh Truyền hình QPVN: Sao nhập ngũ phát mới lúc 11H00 CHỦ NHẬT hàng tuần. Mùa 8 bắt đầu phát sóng từ ngày 16/12/2018.\n🤗Trên hạ tầng số: \n💢Trên KEENG MOVIES phát lúc 15h00 cùng ngày phát trên Kênh TH QPVN\n💢Trên Kênh Youtube phát sóng 10H00 sáng thứ 7 hàng tuần.\n-----------------------------------\nFollow Fanpage hóng thông tin cập nhật: https://goo.gl/Du9VqY và có thêm cơ hội giao lưu với các nghệ sỹ tham gia chương trình, chơi minigame đón nhận quà tặng trị giá từ 500.000 vnđ đến 2.000.000 vnđ.\nCài đặt ngay app Keeng để xem online miễn phí nuột nà hơn. \n--------------------\nDirector: Lương Hải Khoa\nAssistant Director: Lê Đức Cường; Leo Kây; Duy Ekin.\nProducer & PM: Nguyễn Nga\nDP: Mai Trùng Khánh & Ngô Thế Chiến\nCameraman: Tuấn Vũ; Tuấn Huy; Trọng Hiếu; Hồng Thái; Vũ Thành Nam.\nG&E: Lương Thành Linh; Hồng Quân; Vũ Ánh; Đức Lân; Tuấn Hiệp; Tuấn Anh.\nFly: Linh Lương; Ước Ngọc\nSet Decorator: Hải Kẹo\nPA: Ngọc Hoàng; Văn Tuyên; Hà Thanh\nEditor: Thanh Liêm; Thanh Tùng; Anh Đức\n------------------\nLiên hệ quảng cáo/tài trợ chương trình\nMr Quang Tùng: 096872.6872\n#saonhapnguss7 #ungdaive #tim #chaukhaiphong #dungbino",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "http://phim.keeng.vn/",
+          "text": "http://phim.keeng.vn/"
+        },
+        {
+          "url": "https://goo.gl/Du9VqY",
+          "text": "https://goo.gl/Du9VqY"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapnguss7",
+          "text": "#saonhapnguss7"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ungdaive",
+          "text": "#ungdaive"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tim",
+          "text": "#tim"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chaukhaiphong",
+          "text": "#chaukhaiphong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dungbino",
+          "text": "#dungbino"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 4,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Co88uDvJGUYQ9npjPoaySdB",
+      "isMonetized": null,
+      "hashtags": [
+        "#chaukhaiphong",
+        "#tim",
+        "#saonhapnguss7"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Co88uDvJGUYQ9npjPoaySdB",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ Mùa 7 - Tập 7 | Tôi chọn đồng chí ấy - Tim, Châu Khải Phong, Dũng Bino, Ưng Đại Vệ",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "38SPTki2c5g",
+      "url": "https://www.youtube.com/watch?v=38SPTki2c5g&list=PLC_d5n_vB0Co88uDvJGUYQ9npjPoaySdB&index=7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/38SPTki2c5g/maxresdefault.jpg",
+      "viewCount": 442417,
+      "date": "2018-12-01T08:33:04.000Z",
+      "likes": 2300,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:33:14",
+      "commentsCount": 219,
+      "text": "Sao nhập ngũ Mùa 7 - Tập 7 | Tôi chọn đồng chí ấy - Tim, Châu Khải Phong, Dũng Bino, Ưng Đại Vệ\n---------------------------------\n💢Xem ngay Tập 1 - Mùa 8 - Sao nhập ngũ - Đối diện với biển trên http://phim.keeng.vn\n💢Xem trọn bộ Mùa 7 - Sao nhập ngũ - Full HD tại địa chỉ: http://phim.keeng.vn/\n💢HOT💢Từ tháng 09/2018, chương trình Sao nhập ngũ thay đổi giờ phát sóng như sau:\n🤗Trên Kênh Truyền hình QPVN: Sao nhập ngũ phát mới lúc 11H00 CHỦ NHẬT hàng tuần. Mùa 8 bắt đầu phát sóng từ ngày 16/12/2018.\n🤗Trên hạ tầng số: \n💢Trên KEENG MOVIES phát lúc 15h00 cùng ngày phát trên Kênh TH QPVN\n💢Trên Kênh Youtube phát sóng 10H00 sáng thứ 7 hàng tuần.\n-----------------------------------\nFollow Fanpage hóng thông tin cập nhật: https://goo.gl/Du9VqY và có thêm cơ hội giao lưu với các nghệ sỹ tham gia chương trình, chơi minigame đón nhận quà tặng trị giá từ 500.000 vnđ đến 2.000.000 vnđ.\nCài đặt ngay app Keeng để xem online miễn phí nuột nà hơn. \n--------------------\nDirector: Lương Hải Khoa\nAssistant Director: Lê Đức Cường; Leo Kây; Duy Ekin.\nProducer & PM: Nguyễn Nga\nDP: Mai Trùng Khánh & Ngô Thế Chiến\nCameraman: Tuấn Vũ; Tuấn Huy; Trọng Hiếu; Hồng Thái; Vũ Thành Nam.\nG&E: Lương Thành Linh; Hồng Quân; Vũ Ánh; Đức Lân; Tuấn Hiệp; Tuấn Anh.\nFly: Linh Lương; Ước Ngọc\nSet Decorator: Hải Kẹo\nPA: Ngọc Hoàng; Văn Tuyên; Hà Thanh\nEditor: Thanh Liêm; Thanh Tùng; Anh Đức\n------------------\nLiên hệ quảng cáo/tài trợ chương trình\nMr Quang Tùng: 096872.6872\n#saonhapnguss7 #ungdaive #tim #chaukhaiphong #dungbino",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "http://phim.keeng.vn/",
+          "text": "http://phim.keeng.vn"
+        },
+        {
+          "url": "http://phim.keeng.vn/",
+          "text": "http://phim.keeng.vn/"
+        },
+        {
+          "url": "https://goo.gl/Du9VqY",
+          "text": "https://goo.gl/Du9VqY"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapnguss7",
+          "text": "#saonhapnguss7"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ungdaive",
+          "text": "#ungdaive"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tim",
+          "text": "#tim"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chaukhaiphong",
+          "text": "#chaukhaiphong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dungbino",
+          "text": "#dungbino"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 6,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Co88uDvJGUYQ9npjPoaySdB",
+      "isMonetized": null,
+      "hashtags": [
+        "#chaukhaiphong",
+        "#tim",
+        "#saonhapnguss7"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Co88uDvJGUYQ9npjPoaySdB",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ Mùa 7 - Tập 6 | Xung đột nội bộ Châu Khải Phong, Ưng Đại Vệ, TIM, Dũng Bino",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "cXVNxW3HTLQ",
+      "url": "https://www.youtube.com/watch?v=cXVNxW3HTLQ&list=PLC_d5n_vB0Co88uDvJGUYQ9npjPoaySdB&index=6",
+      "thumbnailUrl": "https://i.ytimg.com/vi/cXVNxW3HTLQ/maxresdefault.jpg",
+      "viewCount": 503282,
+      "date": "2018-12-15T03:00:01.000Z",
+      "likes": 2700,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:30:34",
+      "commentsCount": 339,
+      "text": "Sao nhập ngũ Mùa 7 - Tập 6 | Xung đột nội bộ Châu Khải Phong, Ưng Đại Vệ, TIM, Dũng Bino .\n\n💢Xem trọn bộ Mùa 7 và đón xem Mùa 8 (mới nhất) - Sao nhập ngũ - Full HD tại địa chỉ: http://phim.keeng.vn/\n💢HOT💢Từ tháng 09/2018, chương trình Sao nhập ngũ thay đổi giờ phát sóng như sau:\n🤗Trên Kênh Truyền hình QPVN: Sao nhập ngũ phát mới lúc 11H00 CHỦ NHẬT hàng tuần. Mùa 8 bắt đầu phát sóng từ ngày 16/12/2018.\n🤗Trên hạ tầng số: \n💢Trên KEENG MOVIES phát lúc 15h00 cùng ngày phát trên Kênh TH QPVN\n💢Trên Kênh Youtube phát sóng 10H00 sáng thứ 7 hàng tuần.\n-----------------------------------\nFollow Fanpage hóng thông tin cập nhật: https://goo.gl/Du9VqY và có thêm cơ hội giao lưu với các nghệ sỹ tham gia chương trình, chơi minigame đón nhận quà tặng trị giá từ 500.000 vnđ đến 2.000.000 vnđ.\nCài đặt ngay app Keeng để xem online miễn phí nuột nà hơn. \n--------------------\nDirector: Lương Hải Khoa\nAssistant Director: Lê Đức Cường; Leo Kây; Duy Ekin.\nProducer & PM: Nguyễn Nga\nDP: Mai Trùng Khánh & Ngô Thế Chiến\nCameraman: Tuấn Vũ; Tuấn Huy; Trọng Hiếu; Hồng Thái; Vũ Thành Nam.\nG&E: Lương Thành Linh; Hồng Quân; Vũ Ánh; Đức Lân; Tuấn Hiệp; Tuấn Anh.\nFly: Linh Lương; Ước Ngọc\nSet Decorator: Hải Kẹo\nPA: Ngọc Hoàng; Văn Tuyên; Hà Thanh\nEditor: Thanh Liêm; Thanh Tùng; Anh Đức\n------------------\nLiên hệ quảng cáo/tài trợ chương trình\nMr Quang Tùng: 096872.6872\n#saonhapnguss7 #ungdaive #tim #chaukhaiphong #dungbino",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "http://phim.keeng.vn/",
+          "text": "http://phim.keeng.vn/"
+        },
+        {
+          "url": "https://goo.gl/Du9VqY",
+          "text": "https://goo.gl/Du9VqY"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapnguss7",
+          "text": "#saonhapnguss7"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ungdaive",
+          "text": "#ungdaive"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tim",
+          "text": "#tim"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chaukhaiphong",
+          "text": "#chaukhaiphong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dungbino",
+          "text": "#dungbino"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 5,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Co88uDvJGUYQ9npjPoaySdB",
+      "isMonetized": null,
+      "hashtags": [
+        "#chaukhaiphong",
+        "#tim",
+        "#saonhapnguss7"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Co88uDvJGUYQ9npjPoaySdB",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ Mùa 7 - Tập 3 Full HD | TIM nhận cái kết đắng, Dũng Bino hoàn thành xuất sắc nhiệm vụ",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "xJlImUypde8",
+      "url": "https://www.youtube.com/watch?v=xJlImUypde8&list=PLC_d5n_vB0Co88uDvJGUYQ9npjPoaySdB&index=3",
+      "thumbnailUrl": "https://i.ytimg.com/vi/xJlImUypde8/maxresdefault.jpg",
+      "viewCount": 1084325,
+      "date": "2018-11-24T05:13:09.000Z",
+      "likes": 5800,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:32:48",
+      "commentsCount": 754,
+      "text": "💢Xem trọn bộ Mùa 7 - Sao nhập ngũ - Full HD tại địa chỉ: http://phim.keeng.vn/\n💢HOT💢Từ tuần 3 tháng 09/2018, chương trình Sao nhập ngũ thay đổi giờ phát sóng như sau:\n🤗Trên Kênh Truyền hình QPVN: Sao nhập ngũ phát mới lúc 11H00 CHỦ NHẬT hàng tuần. Mùa 8 bắt đầu phát sóng từ ngày 16/12/2018.\n🤗Trên hạ tầng số: \n💢Trên KEENG MOVIES phát lúc 15h00 cùng ngày phát trên Kênh TH QPVN\n💢Trên Kênh Youtube phát sóng thứ 7 hàng tuần.\n-----------------------------------\nFollow Fanpage hóng thông tin cập nhật: https://goo.gl/Du9VqY và có thêm cơ hội giao lưu với các nghệ sỹ tham gia chương trình, chơi minigame đón nhận quà tặng trị giá từ 500.000 vnđ đến 2.000.000 vnđ.\nCài đặt ngay app Keeng để xem online miễn phí. \n--------------------\nDirector: Lương Hải Khoa\nAssistant Director: Lê Đức Cường; Leo Kây; Duy Ekin.\nProducer & PM: Nguyễn Nga\nDP: Mai Trùng Khánh & Ngô Thế Chiến\nCameraman: Tuấn Vũ; Tuấn Huy; Trọng Hiếu; Hồng Thái; Vũ Thành Nam.\nG&E: Lương Thành Linh; Hồng Quân; Vũ Ánh; Đức Lân; Tuấn Hiệp; Tuấn Anh.\nFly: Linh Lương; Ước Ngọc\nSet Decorator: Hải Kẹo\nPA: Ngọc Hoàng; Văn Tuyên; Hà Thanh\nEditor: Thanh Liêm; Thanh Tùng; Anh Đức\n------------------\nLiên hệ quảng cáo/tài trợ chương trình\nMr Quang Tùng: 096872.6872\n#saonhapnguss7 #ungdaive #tim #chaukhaiphong #dungbino",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "http://phim.keeng.vn/",
+          "text": "http://phim.keeng.vn/"
+        },
+        {
+          "url": "https://goo.gl/Du9VqY",
+          "text": "https://goo.gl/Du9VqY"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapnguss7",
+          "text": "#saonhapnguss7"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ungdaive",
+          "text": "#ungdaive"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tim",
+          "text": "#tim"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chaukhaiphong",
+          "text": "#chaukhaiphong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dungbino",
+          "text": "#dungbino"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 2,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Co88uDvJGUYQ9npjPoaySdB",
+      "isMonetized": null,
+      "hashtags": [
+        "#chaukhaiphong",
+        "#tim",
+        "#saonhapnguss7"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Co88uDvJGUYQ9npjPoaySdB",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ Mùa 7 - Tập 2 Full HD | Ưng Đại Vệ chạy hụt hơi, Tim đau chân muốn khóc",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "pnGNRLcgS8o",
+      "url": "https://www.youtube.com/watch?v=pnGNRLcgS8o&list=PLC_d5n_vB0Co88uDvJGUYQ9npjPoaySdB&index=2",
+      "thumbnailUrl": "https://i.ytimg.com/vi/pnGNRLcgS8o/maxresdefault.jpg",
+      "viewCount": 1709357,
+      "date": "2018-11-13T09:13:31.000Z",
+      "likes": 8900,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:30:17",
+      "commentsCount": 1289,
+      "text": "💢Link Full Tập 8: http://phim.keeng.vn/sao-nhap-ngu-ss7...\n💢HOT💢Từ tuần 3 tháng 09/2018, chương trình Sao nhập ngũ thay đổi giờ phát sóng như sau:\n🤗Trên Kênh Truyền hình QPVN: Sao nhập ngũ phát mới lúc 11H00 CHỦ NHẬT hàng tuần từ ngày 23/09/2018.\n🤗Trên hạ tầng số: \n💢Trên KEENG MOVIES từ ngày 23/09/2018. \n💢Trên Kênh Youtube từ ngày 05/11/2018.\n-----------------------------------\nFollow Fanpage hóng thông tin cập nhật: https://goo.gl/Du9VqY và có thêm cơ hội giao lưu với các nghệ sỹ tham gia chương trình, chơi minigame đón nhận quà tặng trị giá từ 500.000 vnđ đến 2.000.000 vnđ.\nCài đặt ngay app Keeng để xem online miễn phí. \n--------------------\nDirector: Lương Hải Khoa\nAssistant Director: Lê Đức Cường; Leo Kây; Duy Ekin.\nProducer & PM: Nguyễn Nga\nDP: Mai Trùng Khánh & Ngô Thế Chiến\nCameraman: Tuấn Vũ; Tuấn Huy; Trọng Hiếu; Hồng Thái; Vũ Thành Nam.\nG&E: Lương Thành Linh; Hồng Quân; Vũ Ánh; Đức Lân; Tuấn Hiệp; Tuấn Anh.\nFly: Linh Lương; Ước Ngọc\nSet Decorator: Hải Kẹo\nPA: Ngọc Hoàng; Văn Tuyên; Hà Thanh\nEditor: Thanh Liêm; Thanh Tùng; Anh Đức\n------------------\nLiên hệ quảng cáo/tài trợ chương trình\nMr Quang Tùng: 096872.6872\n#saonhapnguss7 #ungdaive #tim #chaukhaiphong #dungbino",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "http://phim.keeng.vn/sao-nhap-ngu-ss7-la-chan-thep-tap-2-bai-hoc-dat-gia-cua-dung-bino-f915827.html",
+          "text": "http://phim.keeng.vn/sao-nhap-ngu-ss7..."
+        },
+        {
+          "url": "https://goo.gl/Du9VqY",
+          "text": "https://goo.gl/Du9VqY"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapnguss7",
+          "text": "#saonhapnguss7"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ungdaive",
+          "text": "#ungdaive"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tim",
+          "text": "#tim"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chaukhaiphong",
+          "text": "#chaukhaiphong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dungbino",
+          "text": "#dungbino"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 1,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Co88uDvJGUYQ9npjPoaySdB",
+      "isMonetized": null,
+      "hashtags": [
+        "#chaukhaiphong",
+        "#tim",
+        "#saonhapnguss7"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Co88uDvJGUYQ9npjPoaySdB",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ Mùa 7 - Tập 8 | Đoàn quân Tiên phong - Trải nghiệm khó quên",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "x2wQz2zBfng",
+      "url": "https://www.youtube.com/watch?v=x2wQz2zBfng&list=PLC_d5n_vB0Co88uDvJGUYQ9npjPoaySdB&index=8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/x2wQz2zBfng/maxresdefault.jpg",
+      "viewCount": 593229,
+      "date": "2018-12-29T03:00:07.000Z",
+      "likes": 3900,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:32:44",
+      "commentsCount": 727,
+      "text": "💢Xem trọn bộ Mùa 8 - Sao nhập ngũ - Full HD tại địa chỉ: http://phim.keeng.vn/\n💢HOT💢Từ tháng 09/2018, chương trình Sao nhập ngũ thay đổi giờ phát sóng như sau:\n🤗Trên Kênh Truyền hình QPVN: Sao nhập ngũ phát mới lúc 11H00 CHỦ NHẬT hàng tuần. Mùa 8 bắt đầu phát sóng từ ngày 16/12/2018.\n🤗Trên hạ tầng số: \n💢Trên KEENG MOVIES phát lúc 15h00 cùng ngày phát trên Kênh TH QPVN\n💢Trên Kênh Youtube phát sóng 10H00 sáng thứ 7 hàng tuần.\n-----------------------------------\nFollow Fanpage hóng thông tin cập nhật: https://goo.gl/Du9VqY và có thêm cơ hội giao lưu với các nghệ sỹ tham gia chương trình, chơi minigame đón nhận quà tặng trị giá từ 500.000 vnđ đến 2.000.000 vnđ.\nCài đặt ngay app Keeng để xem online miễn phí nuột nà hơn. \n--------------------\nDirector: Lương Hải Khoa\nAssistant Director: Lê Đức Cường; Leo Kây; Duy Ekin.\nProducer & PM: Nguyễn Nga\nDP: Mai Trùng Khánh & Ngô Thế Chiến\nCameraman: Tuấn Vũ; Tuấn Huy; Trọng Hiếu; Hồng Thái; Vũ Thành Nam.\nG&E: Lương Thành Linh; Hồng Quân; Vũ Ánh; Đức Lân; Tuấn Hiệp; Tuấn Anh.\nFly: Linh Lương; Ước Ngọc\nSet Decorator: Hải Kẹo\nPA: Ngọc Hoàng; Văn Tuyên; Hà Thanh\nEditor: Thanh Liêm; Thanh Tùng; Anh Đức\n------------------\nLiên hệ quảng cáo/tài trợ chương trình\nMr Quang Tùng: 096872.6872\n#saonhapnguss7 #ungdaive #tim #chaukhaiphong #dungbino",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "http://phim.keeng.vn/",
+          "text": "http://phim.keeng.vn/"
+        },
+        {
+          "url": "https://goo.gl/Du9VqY",
+          "text": "https://goo.gl/Du9VqY"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapnguss7",
+          "text": "#saonhapnguss7"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ungdaive",
+          "text": "#ungdaive"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tim",
+          "text": "#tim"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chaukhaiphong",
+          "text": "#chaukhaiphong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dungbino",
+          "text": "#dungbino"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 7,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Co88uDvJGUYQ9npjPoaySdB",
+      "isMonetized": null,
+      "hashtags": [
+        "#chaukhaiphong",
+        "#tim",
+        "#saonhapnguss7"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Co88uDvJGUYQ9npjPoaySdB",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ Mùa 7 - Tập 1 Full HD | Ưng Đại Vệ, Châu Khải Phong, Dũng Bino, TIM",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "srIw3GnbWZM",
+      "url": "https://www.youtube.com/watch?v=srIw3GnbWZM&list=PLC_d5n_vB0Co88uDvJGUYQ9npjPoaySdB&index=1",
+      "thumbnailUrl": "https://i.ytimg.com/vi/srIw3GnbWZM/maxresdefault.jpg",
+      "viewCount": 5678244,
+      "date": "2018-11-05T04:28:21.000Z",
+      "likes": 31000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:31:38",
+      "commentsCount": 4113,
+      "text": "Sao nhập ngũ Mùa 7 - Tập 1 Full HD | Ưng Đại Vệ, Châu Khải Phong, Dũng Bino, TIM\nXem ngay Tập 7 -  Mùa 7 - Full: http://phim.keeng.vn/sao-nhap-ngu-f91...\nFollow Fanpage hóng thông tin cập nhật: https://goo.gl/Du9VqY\n-----------------------\nSao Nhập Ngũ SS7 – Lá Chắn Thép lên sóng từ ngày 15/09/2018, với sự tham của 4 nghệ sĩ: Ca sĩ Ưng Đại Vệ, Ca sĩ TIM (Trần Nguyên Cát Vũ), Ca sĩ Châu Khải Phong (Lê Minh Thuận) và Diễn viên Dũng Bino (Nguyễn Đăng Dũng). \nĐơn vị trải nghiệm của mùa 7 hết sức đặc biệt – Trung đoàn 102 hay còn tên gọi khác là Trung đoàn Thủ đô. Đây là đơn vị được mệnh danh là “Lá chắn thép” trong sự nghiệp giải phóng dân tộc.  Chương trình được sản xuất bởi Viettel Media.\n---------------------\nĐón xem Tập mới nhất lúc 11H00 CHỦ NHẬT hằng tuần trên Kênh TH QPVN. 15H00 CÙNG NGÀY trên phim.keeng.vn.\nSubcribe Kênh Youtube của chương trình và xem Mùa 7 - Sao nhập ngũ trên Youtube từ ngày 05/11/2018.\nFollow Fanpage chương trình để có thông tin mới nhất, có thêm cơ hội giao lưu với các nghệ sỹ tham gia chương trình, chơi minigame đón nhận quà tặng trị giá từ 500.000 vnđ đến 2.000.000 vnđ. \n--------------------\nDirector: Lương Hải Khoa\nAssistant Director: Lê Đức Cường; Leo Kây; Duy Ekin.\nProducer & PM: Nguyễn Nga\nDP: Mai Trùng Khánh & Ngô Thế Chiến\nCameraman: Tuấn Vũ; Tuấn Huy; Trọng Hiếu; Hồng Thái; Vũ Thành Nam.\nG&E: Lương Thành Linh; Hồng Quân; Vũ Ánh; Đức Lân; Tuấn Hiệp; Tuấn Anh.\nFly: Linh Lương; Ước Ngọc\nSet Decorator: Hải Kẹo\nPA: Ngọc Hoàng; Văn Tuyên; Hà Thanh\nEditor: Thanh Liêm; Thanh Tùng; Anh Đức\n------------------\nLiên hệ quảng cáo/tài trợ chương trình\nMr Quang Tùng: 096872.6872\n\n#saonhapnguss7 #ungdaive #tim #chaukhaiphong #dungbino",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "http://phim.keeng.vn/sao-nhap-ngu-f915820.html",
+          "text": "http://phim.keeng.vn/sao-nhap-ngu-f91..."
+        },
+        {
+          "url": "https://goo.gl/Du9VqY",
+          "text": "https://goo.gl/Du9VqY"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapnguss7",
+          "text": "#saonhapnguss7"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ungdaive",
+          "text": "#ungdaive"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tim",
+          "text": "#tim"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chaukhaiphong",
+          "text": "#chaukhaiphong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dungbino",
+          "text": "#dungbino"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 0,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Co88uDvJGUYQ9npjPoaySdB",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Co88uDvJGUYQ9npjPoaySdB",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ Mùa 7 - Tập 4 | Thánh lầy Ưng Đại Vệ không ngừng \"troll\" Đồng Đội",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "3GA8fHsXat4",
+      "url": "https://www.youtube.com/watch?v=3GA8fHsXat4&list=PLC_d5n_vB0Co88uDvJGUYQ9npjPoaySdB&index=4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/3GA8fHsXat4/maxresdefault.jpg",
+      "viewCount": 818732,
+      "date": "2018-12-01T03:00:01.000Z",
+      "likes": 4000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:29:56",
+      "commentsCount": 386,
+      "text": "Sao nhập ngũ Mùa 7 - Tập 4 | Thánh lầy Ưng Đại Vệ không ngừng \"troll\" Đồng Đội.\n💢Xem trọn bộ Mùa 7 - Sao nhập ngũ - Full HD tại địa chỉ: http://phim.keeng.vn/\n💢HOT💢Từ tháng 09/2018, chương trình Sao nhập ngũ thay đổi giờ phát sóng như sau:\n🤗Trên Kênh Truyền hình QPVN: Sao nhập ngũ phát mới lúc 11H00 CHỦ NHẬT hàng tuần. Mùa 8 bắt đầu phát sóng từ ngày 16/12/2018.\n🤗Trên hạ tầng số: \n💢Trên KEENG MOVIES phát lúc 15h00 cùng ngày phát trên Kênh TH QPVN\n💢Trên Kênh Youtube phát sóng 10H00 sáng thứ 7 hàng tuần.\n-----------------------------------\nFollow Fanpage hóng thông tin cập nhật: https://goo.gl/Du9VqY và có thêm cơ hội giao lưu với các nghệ sỹ tham gia chương trình, chơi minigame đón nhận quà tặng trị giá từ 500.000 vnđ đến 2.000.000 vnđ.\nCài đặt ngay app Keeng để xem online miễn phí nuột nà hơn. \n--------------------\nDirector: Lương Hải Khoa\nAssistant Director: Lê Đức Cường; Leo Kây; Duy Ekin.\nProducer & PM: Nguyễn Nga\nDP: Mai Trùng Khánh & Ngô Thế Chiến\nCameraman: Tuấn Vũ; Tuấn Huy; Trọng Hiếu; Hồng Thái; Vũ Thành Nam.\nG&E: Lương Thành Linh; Hồng Quân; Vũ Ánh; Đức Lân; Tuấn Hiệp; Tuấn Anh.\nFly: Linh Lương; Ước Ngọc\nSet Decorator: Hải Kẹo\nPA: Ngọc Hoàng; Văn Tuyên; Hà Thanh\nEditor: Thanh Liêm; Thanh Tùng; Anh Đức\n------------------\nLiên hệ quảng cáo/tài trợ chương trình\nMr Quang Tùng: 096872.6872\n#saonhapnguss7 #ungdaive #tim #chaukhaiphong #dungbino",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "http://phim.keeng.vn/",
+          "text": "http://phim.keeng.vn/"
+        },
+        {
+          "url": "https://goo.gl/Du9VqY",
+          "text": "https://goo.gl/Du9VqY"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapnguss7",
+          "text": "#saonhapnguss7"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ungdaive",
+          "text": "#ungdaive"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tim",
+          "text": "#tim"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chaukhaiphong",
+          "text": "#chaukhaiphong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dungbino",
+          "text": "#dungbino"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 3,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Co88uDvJGUYQ9npjPoaySdB",
+      "isMonetized": null,
+      "hashtags": [
+        "#chaukhaiphong",
+        "#tim",
+        "#saonhapnguss7"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Co88uDvJGUYQ9npjPoaySdB",
+      "isPaidContent": false
+    }
+  ]
+}

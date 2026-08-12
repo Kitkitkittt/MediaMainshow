@@ -1,0 +1,1744 @@
+{
+  "actor_name": "streamers/youtube-scraper",
+  "actor_run_id": "M0iLROnbvwHh43uim",
+  "dataset_id": "1Vy007Pk1mtwCLIou",
+  "actor_build_id": "SUk0475fgtCh9zqMt",
+  "retrieved_at": "2026-08-12T14:35:58.521860+07:00",
+  "actor_input": {
+    "maxResults": 31,
+    "maxResultsShorts": 0,
+    "maxResultStreams": 0,
+    "startUrls": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku"
+      }
+    ],
+    "sourceBindingUrl": "https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku"
+  },
+  "run_metadata": {
+    "status": "SUCCEEDED",
+    "startedAt": "2026-08-12T07:35:34.619Z",
+    "finishedAt": "2026-08-12T07:35:53.218Z",
+    "usageTotalUsd": 0.048,
+    "chargedEventCounts": {
+      "result": 12,
+      "date-filter": 0,
+      "ai-video-description": 0,
+      "ai-video-summary": 0
+    }
+  },
+  "items": [
+    {
+      "title": "Tập 13 | Bố Ơi Mình Đi Đâu Thế: MinHee - Bean căng thẳng, các bố con tạm biệt Nghệ An",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "Fvli_D_EoCw",
+      "url": "https://www.youtube.com/watch?v=Fvli_D_EoCw&list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku&index=13",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Fvli_D_EoCw/maxresdefault.jpg",
+      "viewCount": 700032,
+      "date": "2025-08-11T14:30:11.000Z",
+      "likes": 3800,
+      "location": null,
+      "channelName": "TV HUB",
+      "channelUrl": "https://www.youtube.com/@TVHub",
+      "channelUsername": "TVHub",
+      "collaborators": [
+        {
+          "name": "TV HUB",
+          "username": "TVHub",
+          "url": "https://www.youtube.com/@TVHub",
+          "channelId": "UC1VAL4j9yiPQVKMtIS1yUOA"
+        },
+        {
+          "name": "Bố Ơi Mình Đi Đâu Thế",
+          "username": "B%E1%BB%91%C6%A0iM%C3%ACnh%C4%90i%C4%90%C3%A2uTh%E1%BA%BF2025",
+          "url": "https://www.youtube.com/@B%E1%BB%91%C6%A0iM%C3%ACnh%C4%90i%C4%90%C3%A2uTh%E1%BA%BF2025",
+          "channelId": "UC86ia6rq_U_fxSjtX2MHxyA"
+        }
+      ],
+      "channelId": "UC1VAL4j9yiPQVKMtIS1yUOA",
+      "numberOfSubscribers": 793000,
+      "duration": "01:06:34",
+      "commentsCount": 194,
+      "text": "🎬 BỐ ƠI MÌNH ĐI ĐÂU THẾ? 2025 - TẬP 13: Duy Hưng TÀI LANH, Trung Ruồi gặp NẠN, MinHee - Bean CĂNG THẲNG\n\n⚡ Màn ‘khẩu chiến’ giữa Bean và MinHee khiến không khí nóng hơn bao giờ hết, buộc bố Hoàng Trung và bố Duy Hưng phải ra tay dàn xếp. Điều gì khiến bố Trung Ruồi bất ngờ NGÃ nhào?💥 Và vì sao Audi luôn khiến mọi người bất ngờ bởi sự trưởng thành vượt tuổi? 🌸 Tất cả sẽ được bật mí trong Tập 13 Bố Ơi Mình Đi Đâu Thế – đừng bỏ lỡ!\n\nChào đón mùa 5 với sự xuất hiện của dàn bố con hoàn toàn mới:  \n👨‍👧 Bố Neko Lê cùng hai cô con gái đáng yêu – Audi và Cati  \n👨‍👦 Bố Duy Hưng và cậu con trai tinh nghịch – Bean  \n👨‍👧 Bố Trung Ruồi và cô con gái hoạt bát – Dứa  \n👨‍👦 Bố Hoàng Trung và cô con gái thông minh - MinHee\n---\n📌 *Xem trọn bộ Bố ơi mình đi đâu thế? - Mùa 5, tại đây*\n👉 https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku\n\n📺 **Đăng ký kênh để không bỏ lỡ tập mới:**  \n👉   TVHub Channel: https://www.youtube.com/@TVHub\n\n📢 **Theo dõi chúng tôi trên mạng xã hội:**  \nFacebook: https://www.facebook.com/booiminhdidau\nTikTok: https://www.tiktok.com/@booiminhdidauthe5\n---\n#BốƠiMìnhĐiĐâuThế #bốơimìnhđiđâuthế2025  \n#BoOiMinhDiDauThe #BOMDDT  \n#TVHub #VTV3  \n#Cosy #THtrueMILK #VinFast  \n#BambooAirways #Morethanjustaflight\n---\n © Bản quyền thuộc về TV HUB\nDo not reup! Thanks",
+      "translatedText": "🎬 BỐ ƠI MÌNH ĐI ĐÂU THẾ? 2025 - TẬP 13: Duy Hưng TÀI LANH, Trung Ruồi gặp NẠN, MinHee - Bean CĂNG THẲNG\n\n⚡ Màn ‘khẩu chiến’ giữa Bean và MinHee khiến không khí nóng hơn bao giờ hết, buộc bố Hoàng Trung và bố Duy Hưng phải ra tay dàn xếp. Điều gì khiến bố Trung Ruồi bất ngờ NGÃ nhào?💥 Và vì sao Audi luôn khiến mọi người bất ngờ bởi sự trưởng thành vượt tuổi? 🌸 Tất cả sẽ được bật mí trong Tập 13 Bố Ơi Mình Đi Đâu Thế – đừng bỏ lỡ!\n\nChào đón mùa 5 với sự xuất hiện của dàn bố con hoàn toàn mới:  \n👨‍👧 Bố Neko Lê cùng hai cô con gái đáng yêu – Audi và Cati  \n👨‍👦 Bố Duy Hưng và cậu con trai tinh nghịch – Bean  \n👨‍👧 Bố Trung Ruồi và cô con gái hoạt bát – Dứa  \n👨‍👦 Bố Hoàng Trung và cô con gái thông minh - MinHee\n---\n📌 Xem trọn bộ Bố ơi mình đi đâu thế? - Mùa 5, tại đây\n👉    • FULL - Bố Ơi Mình Đi Đâu Thế 2025 | Show H...  \n\n📺 *Đăng ký kênh để không bỏ lỡ tập mới:*  \n👉   TVHub Channel:    / @tvhub  \n\n📢 *Theo dõi chúng tôi trên mạng xã hội:*  \nFacebook:   / booiminhdidau  \nTikTok:   / booiminhdidauthe5  \n---\n#BốƠiMìnhĐiĐâuThế #bốơimìnhđiđâuthế2025  \n#BoOiMinhDiDauThe #BOMDDT  \n#TVHub #VTV3  \n#Cosy #THtrueMILK #VinFast  \n#BambooAirways #Morethanjustaflight\n---\n © Bản quyền thuộc về TV HUB\nDo not reup! Thanks",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku",
+          "text": "   • FULL - Bố Ơi Mình Đi Đâu Thế 2025 | Show H...  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC1VAL4j9yiPQVKMtIS1yUOA",
+          "text": "   / @tvhub  "
+        },
+        {
+          "url": "https://www.facebook.com/booiminhdidau",
+          "text": "  / booiminhdidau  "
+        },
+        {
+          "url": "https://www.tiktok.com/@booiminhdidauthe5",
+          "text": "  / booiminhdidauthe5  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/b%E1%BB%91%C6%A1im%C3%ACnh%C4%91i%C4%91%C3%A2uth%E1%BA%BF",
+          "text": "#BốƠiMìnhĐiĐâuThế"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/b%E1%BB%91%C6%A1im%C3%ACnh%C4%91i%C4%91%C3%A2uth%E1%BA%BF2025",
+          "text": "#bốơimìnhđiđâuthế2025"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/booiminhdidauthe",
+          "text": "#BoOiMinhDiDauThe"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bomddt",
+          "text": "#BOMDDT"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tvhub",
+          "text": "#TVHub"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vtv3",
+          "text": "#VTV3"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/cosy",
+          "text": "#Cosy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thtruemilk",
+          "text": "#THtrueMILK"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vinfast",
+          "text": "#VinFast"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bambooairways",
+          "text": "#BambooAirways"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/morethanjustaflight",
+          "text": "#Morethanjustaflight"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 12,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku",
+      "isPaidContent": false
+    },
+    {
+      "title": "TẬP 5 | BỐ ƠI MÌNH ĐI ĐÂU THẾ | CHẠM TAY DI SẢN: Tràng An Kỳ Thú, Các Bố Vật Lộn Trên Sông Sào Khê",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "DXXdSc1rNwc",
+      "url": "https://www.youtube.com/watch?v=DXXdSc1rNwc&list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku&index=5",
+      "thumbnailUrl": "https://i.ytimg.com/vi/DXXdSc1rNwc/maxresdefault.jpg",
+      "viewCount": 557820,
+      "date": "2025-06-16T14:30:07.000Z",
+      "likes": 4700,
+      "location": null,
+      "channelName": "TV HUB",
+      "channelUrl": "https://www.youtube.com/@TVHub",
+      "channelUsername": "TVHub",
+      "collaborators": [
+        {
+          "name": "TV HUB",
+          "username": "TVHub",
+          "url": "https://www.youtube.com/@TVHub",
+          "channelId": "UC1VAL4j9yiPQVKMtIS1yUOA"
+        },
+        {
+          "name": "Bố Ơi Mình Đi Đâu Thế",
+          "username": "B%E1%BB%91%C6%A0iM%C3%ACnh%C4%90i%C4%90%C3%A2uTh%E1%BA%BF2025",
+          "url": "https://www.youtube.com/@B%E1%BB%91%C6%A0iM%C3%ACnh%C4%90i%C4%90%C3%A2uTh%E1%BA%BF2025",
+          "channelId": "UC86ia6rq_U_fxSjtX2MHxyA"
+        }
+      ],
+      "channelId": "UC1VAL4j9yiPQVKMtIS1yUOA",
+      "numberOfSubscribers": 793000,
+      "duration": "00:50:36",
+      "commentsCount": 239,
+      "text": "🎬 BỐ ƠI MÌNH ĐI ĐÂU THẾ? 2025 - TẬP 5 | BỐ ƠI MÌNH ĐI ĐÂU THẾ | CHẠM TAY DI SẢN: Tràng An Kỳ Thú, Các Bố Vật Lộn Trên Sông Sào Khê\n\nChào đón mùa 5 với sự xuất hiện của dàn bố con khách mời hoàn toàn mới:  \n👨‍👧 Bố Neko Lê cùng hai cô con gái đáng yêu – Audi và Cati  \n👨‍👦 Bố Duy Hưng và cậu con trai tinh nghịch – Bean  \n👨‍👧 Bố Trung Ruồi và cô con gái hoạt bát – Dứa  \n👨‍👦 Bố Thái Hòa cùng cậu con trai lanh lợi - Minh Khôi \n\n👉 Xuất hiện bất ngờ trong Tập 5, cặp bố con Thái Hòa – Minh Khôi mang đến một làn gió mới cho hành trình. Sự kết hợp này liệu sẽ đem lại điều gì đặc biệt cho đại gia đình Bố Ơi Mình Đi Đâu Thế?\n🏞️ Tập mới đưa các bố con đến Tràng An – di sản văn hóa và thiên nhiên thế giới, nơi cảnh sắc non nước hữu tình cùng những thử thách \"cười ra nước mắt\".\n🚣‍♂️ Từ thi chèo đò đến học vật cùng người bản địa, Tràng An không chỉ đẹp mà còn... “hành” các bố lên bờ xuống ruộng.\n---\n📌 **Xem trọn bộ Bố ơi mình đi đâu thế? - Mùa 5, tại đây: \n👉 https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku\n\n📺 **Đăng ký kênh để không bỏ lỡ tập mới:**  \n👉   TVHub Channel: https://www.youtube.com/@TVHub\n\n📢 **Theo dõi chúng tôi trên mạng xã hội:**  \nFacebook: https://www.facebook.com/booiminhdidau\nTikTok: https://www.tiktok.com/@booiminhdidauthe5\n---\n#BốƠiMìnhĐiĐâuThế #bốơimìnhđiđâuthế2025  \n#BoOiMinhDiDauThe #BOMDDT  \n#TVHub #VTV3  \n#Cosy #THtrueMILK #VinFast  \n#BambooAirways #Morethanjustaflight #DiSanTrangAn\n---\n © Bản quyền thuộc về TV HUB\nDo not reup! Thanks",
+      "translatedText": "🎬 BỐ ƠI MÌNH ĐI ĐÂU THẾ? 2025 - TẬP 5 | BỐ ƠI MÌNH ĐI ĐÂU THẾ | CHẠM TAY DI SẢN: Tràng An Kỳ Thú, Các Bố Vật Lộn Trên Sông Sào Khê\n\nChào đón mùa 5 với sự xuất hiện của dàn bố con khách mời hoàn toàn mới:  \n👨‍👧 Bố Neko Lê cùng hai cô con gái đáng yêu – Audi và Cati  \n👨‍👦 Bố Duy Hưng và cậu con trai tinh nghịch – Bean  \n👨‍👧 Bố Trung Ruồi và cô con gái hoạt bát – Dứa  \n👨‍👦 Bố Thái Hòa cùng cậu con trai lanh lợi - Minh Khôi \n\n👉 Xuất hiện bất ngờ trong Tập 5, cặp bố con Thái Hòa – Minh Khôi mang đến một làn gió mới cho hành trình. Sự kết hợp này liệu sẽ đem lại điều gì đặc biệt cho đại gia đình Bố Ơi Mình Đi Đâu Thế?\n🏞️ Tập mới đưa các bố con đến Tràng An – di sản văn hóa và thiên nhiên thế giới, nơi cảnh sắc non nước hữu tình cùng những thử thách \"cười ra nước mắt\".\n🚣‍♂️ Từ thi chèo đò đến học vật cùng người bản địa, Tràng An không chỉ đẹp mà còn... “hành” các bố lên bờ xuống ruộng.\n---\n📌 **Xem trọn bộ Bố ơi mình đi đâu thế? - Mùa 5, tại đây: \n👉    • FULL - Bố Ơi Mình Đi Đâu Thế 2025 | Show H...  \n\n📺 *Đăng ký kênh để không bỏ lỡ tập mới:*  \n👉   TVHub Channel:    / @tvhub  \n\n📢 *Theo dõi chúng tôi trên mạng xã hội:*  \nFacebook:   / booiminhdidau  \nTikTok:   / booiminhdidauthe5  \n---\n#BốƠiMìnhĐiĐâuThế #bốơimìnhđiđâuthế2025  \n#BoOiMinhDiDauThe #BOMDDT  \n#TVHub #VTV3  \n#Cosy #THtrueMILK #VinFast  \n#BambooAirways #Morethanjustaflight #DiSanTrangAn\n---\n © Bản quyền thuộc về TV HUB\nDo not reup! Thanks",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku",
+          "text": "   • FULL - Bố Ơi Mình Đi Đâu Thế 2025 | Show H...  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC1VAL4j9yiPQVKMtIS1yUOA",
+          "text": "   / @tvhub  "
+        },
+        {
+          "url": "https://www.facebook.com/booiminhdidau",
+          "text": "  / booiminhdidau  "
+        },
+        {
+          "url": "https://www.tiktok.com/@booiminhdidauthe5",
+          "text": "  / booiminhdidauthe5  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/b%E1%BB%91%C6%A1im%C3%ACnh%C4%91i%C4%91%C3%A2uth%E1%BA%BF",
+          "text": "#BốƠiMìnhĐiĐâuThế"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/b%E1%BB%91%C6%A1im%C3%ACnh%C4%91i%C4%91%C3%A2uth%E1%BA%BF2025",
+          "text": "#bốơimìnhđiđâuthế2025"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/booiminhdidauthe",
+          "text": "#BoOiMinhDiDauThe"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bomddt",
+          "text": "#BOMDDT"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tvhub",
+          "text": "#TVHub"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vtv3",
+          "text": "#VTV3"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/cosy",
+          "text": "#Cosy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thtruemilk",
+          "text": "#THtrueMILK"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vinfast",
+          "text": "#VinFast"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bambooairways",
+          "text": "#BambooAirways"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/morethanjustaflight",
+          "text": "#Morethanjustaflight"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/disantrangan",
+          "text": "#DiSanTrangAn"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 4,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku",
+      "isPaidContent": false
+    },
+    {
+      "title": "TẬP 6 | BỐ ƠI MÌNH ĐI ĐÂU THẾ | Bỏ Phố Về Quê: Bố Thấm Khổ Làm Nông Dân, Con Ngỡ Ngàng Vì Thiếu Thốn",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "_f4_DNW3cOw",
+      "url": "https://www.youtube.com/watch?v=_f4_DNW3cOw&list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku&index=6",
+      "thumbnailUrl": "https://i.ytimg.com/vi/_f4_DNW3cOw/maxresdefault.jpg",
+      "viewCount": 605068,
+      "date": "2025-06-23T14:30:11.000Z",
+      "likes": 3300,
+      "location": null,
+      "channelName": "TV HUB",
+      "channelUrl": "https://www.youtube.com/@TVHub",
+      "channelUsername": "TVHub",
+      "collaborators": [
+        {
+          "name": "TV HUB",
+          "username": "TVHub",
+          "url": "https://www.youtube.com/@TVHub",
+          "channelId": "UC1VAL4j9yiPQVKMtIS1yUOA"
+        },
+        {
+          "name": "Bố Ơi Mình Đi Đâu Thế",
+          "username": "B%E1%BB%91%C6%A0iM%C3%ACnh%C4%90i%C4%90%C3%A2uTh%E1%BA%BF2025",
+          "url": "https://www.youtube.com/@B%E1%BB%91%C6%A0iM%C3%ACnh%C4%90i%C4%90%C3%A2uTh%E1%BA%BF2025",
+          "channelId": "UC86ia6rq_U_fxSjtX2MHxyA"
+        }
+      ],
+      "channelId": "UC1VAL4j9yiPQVKMtIS1yUOA",
+      "numberOfSubscribers": 793000,
+      "duration": "00:50:36",
+      "commentsCount": 220,
+      "text": "🎬 BỐ ƠI MÌNH ĐI ĐÂU THẾ? 2025 - TẬP 6 | Bỏ Phố Về Quê: Bố Thấm Khổ Làm Nông Dân, Con Ngỡ Ngàng Vì Thiếu Thốn\n\nChào đón mùa 5 với sự xuất hiện của dàn bố con hoàn toàn mới:  \n👨‍👧 Bố Neko Lê cùng hai cô con gái đáng yêu – Audi và Cati  \n👨‍👦 Bố Duy Hưng và cậu con trai tinh nghịch – Bean  \n👨‍👧 Bố Trung Ruồi và cô con gái hoạt bát – Dứa  \n👨‍👦 Bố Thái Hòa và cậu con trai lanh lợi - Minh Khôi\n--\n🌾 Bỏ phố về quê, lần đầu các bố phải phải xuống đồng làm nông thật sự – từ tát nước, lội bùn cho đến bắt cá giữa trời hè 40 độ. Những công việc tay chân tưởng chừng đơn giản lại khiến các ông bố thấm khổ hơn bao giờ hết.\n🧒 Trong khi đó, các bé không khỏi ngỡ ngàng khi sống trong điều kiện thiếu thốn: không điều hòa, không nước nóng, không thiết bị công nghệ.\n👨‍👧 Nhưng cũng chính trong hoàn cảnh mộc mạc ấy, những khoảnh khắc hài hước xen lẫn xúc động đã giúp bố và con xích lại gần nhau hơn.\n💥 Tập 6 của Bố Ơi Mình Đi Đâu Thế 2025 là một bước ngoặt đầy ý nghĩa – nơi mỗi gia đình cùng nhau thích nghi, thấu hiểu và vượt qua giới hạn bản thân.\n---\n📌 **Xem trọn bộ Bố ơi mình đi đâu thế? - Mùa 5, tại đây: \n👉 https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku\n\n📺 **Đăng ký kênh để không bỏ lỡ tập mới:**  \n👉   TVHub Channel: https://www.youtube.com/@TVHub\n\n📢 **Theo dõi chúng tôi trên mạng xã hội:**  \nFacebook: https://www.facebook.com/booiminhdidau\nTikTok: https://www.tiktok.com/@booiminhdidauthe5\n---\n#BốƠiMìnhĐiĐâuThế #bốơimìnhđiđâuthế2025  \n#BoOiMinhDiDauThe #BOMDDT  \n#TVHub #VTV3  \n#Cosy #THtrueMILK #VinFast  \n#BambooAirways #Morethanjustaflight\n---\n © Bản quyền thuộc về TV HUB\nDo not reup! Thanks",
+      "translatedText": "🎬 BỐ ƠI MÌNH ĐI ĐÂU THẾ? 2025 - TẬP 6 | Bỏ Phố Về Quê: Bố Thấm Khổ Làm Nông Dân, Con Ngỡ Ngàng Vì Thiếu Thốn\n\nChào đón mùa 5 với sự xuất hiện của dàn bố con hoàn toàn mới:  \n👨‍👧 Bố Neko Lê cùng hai cô con gái đáng yêu – Audi và Cati  \n👨‍👦 Bố Duy Hưng và cậu con trai tinh nghịch – Bean  \n👨‍👧 Bố Trung Ruồi và cô con gái hoạt bát – Dứa  \n👨‍👦 Bố Thái Hòa và cậu con trai lanh lợi - Minh Khôi\n--\n🌾 Bỏ phố về quê, lần đầu các bố phải phải xuống đồng làm nông thật sự – từ tát nước, lội bùn cho đến bắt cá giữa trời hè 40 độ. Những công việc tay chân tưởng chừng đơn giản lại khiến các ông bố thấm khổ hơn bao giờ hết.\n🧒 Trong khi đó, các bé không khỏi ngỡ ngàng khi sống trong điều kiện thiếu thốn: không điều hòa, không nước nóng, không thiết bị công nghệ.\n👨‍👧 Nhưng cũng chính trong hoàn cảnh mộc mạc ấy, những khoảnh khắc hài hước xen lẫn xúc động đã giúp bố và con xích lại gần nhau hơn.\n💥 Tập 6 của Bố Ơi Mình Đi Đâu Thế 2025 là một bước ngoặt đầy ý nghĩa – nơi mỗi gia đình cùng nhau thích nghi, thấu hiểu và vượt qua giới hạn bản thân.\n---\n📌 **Xem trọn bộ Bố ơi mình đi đâu thế? - Mùa 5, tại đây: \n👉    • FULL - Bố Ơi Mình Đi Đâu Thế 2025 | Show H...  \n\n📺 *Đăng ký kênh để không bỏ lỡ tập mới:*  \n👉   TVHub Channel:    / @tvhub  \n\n📢 *Theo dõi chúng tôi trên mạng xã hội:*  \nFacebook:   / booiminhdidau  \nTikTok:   / booiminhdidauthe5  \n---\n#BốƠiMìnhĐiĐâuThế #bốơimìnhđiđâuthế2025  \n#BoOiMinhDiDauThe #BOMDDT  \n#TVHub #VTV3  \n#Cosy #THtrueMILK #VinFast  \n#BambooAirways #Morethanjustaflight\n---\n © Bản quyền thuộc về TV HUB\nDo not reup! Thanks",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku",
+          "text": "   • FULL - Bố Ơi Mình Đi Đâu Thế 2025 | Show H...  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC1VAL4j9yiPQVKMtIS1yUOA",
+          "text": "   / @tvhub  "
+        },
+        {
+          "url": "https://www.facebook.com/booiminhdidau",
+          "text": "  / booiminhdidau  "
+        },
+        {
+          "url": "https://www.tiktok.com/@booiminhdidauthe5",
+          "text": "  / booiminhdidauthe5  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/b%E1%BB%91%C6%A1im%C3%ACnh%C4%91i%C4%91%C3%A2uth%E1%BA%BF",
+          "text": "#BốƠiMìnhĐiĐâuThế"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/b%E1%BB%91%C6%A1im%C3%ACnh%C4%91i%C4%91%C3%A2uth%E1%BA%BF2025",
+          "text": "#bốơimìnhđiđâuthế2025"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/booiminhdidauthe",
+          "text": "#BoOiMinhDiDauThe"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bomddt",
+          "text": "#BOMDDT"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tvhub",
+          "text": "#TVHub"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vtv3",
+          "text": "#VTV3"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/cosy",
+          "text": "#Cosy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thtruemilk",
+          "text": "#THtrueMILK"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vinfast",
+          "text": "#VinFast"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bambooairways",
+          "text": "#BambooAirways"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/morethanjustaflight",
+          "text": "#Morethanjustaflight"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 5,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku",
+      "isMonetized": null,
+      "hashtags": [
+        "#VinFast",
+        "#VTV3",
+        "#Cosy"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tập 10 BỐ ƠI MÌNH ĐI ĐÂU THẾ: Học nuôi bò tại trang trại TH true MILK – MinHee tái xuất đầy bất ngờ",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "vQbaWhp_Xak",
+      "url": "https://www.youtube.com/watch?v=vQbaWhp_Xak&list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku&index=10",
+      "thumbnailUrl": "https://i.ytimg.com/vi/vQbaWhp_Xak/maxresdefault.jpg",
+      "viewCount": 802236,
+      "date": "2025-07-21T14:30:07.000Z",
+      "likes": 4900,
+      "location": null,
+      "channelName": "TV HUB",
+      "channelUrl": "https://www.youtube.com/@TVHub",
+      "channelUsername": "TVHub",
+      "collaborators": [
+        {
+          "name": "TV HUB",
+          "username": "TVHub",
+          "url": "https://www.youtube.com/@TVHub",
+          "channelId": "UC1VAL4j9yiPQVKMtIS1yUOA"
+        },
+        {
+          "name": "Bố Ơi Mình Đi Đâu Thế",
+          "username": "B%E1%BB%91%C6%A0iM%C3%ACnh%C4%90i%C4%90%C3%A2uTh%E1%BA%BF2025",
+          "url": "https://www.youtube.com/@B%E1%BB%91%C6%A0iM%C3%ACnh%C4%90i%C4%90%C3%A2uTh%E1%BA%BF2025",
+          "channelId": "UC86ia6rq_U_fxSjtX2MHxyA"
+        }
+      ],
+      "channelId": "UC1VAL4j9yiPQVKMtIS1yUOA",
+      "numberOfSubscribers": 793000,
+      "duration": "01:03:12",
+      "commentsCount": 181,
+      "text": "🎬 BỐ ƠI MÌNH ĐI ĐÂU THẾ? 2025 - Tập 10: Học nuôi bò tại trang trại TH true MILK – MinHee tái xuất đầy bất ngờ\n\n🌿 Hành trình Tập 10 đưa dàn bố con đến trang trại TH true MILK giữa lòng Nghệ An – nơi các bé được học chăm sóc bò sữa, trải nghiệm mô hình organic farm và khám phá văn hóa địa phương. 🐄 Chuyến đi càng thú vị khi em bé nói tiếng Anh – MinHee bất ngờ xuất hiện, mang theo vô vàn tiếng cười. Liệu các bố con của Bố Ơi Mình Đi Đâu Thế 2025 có vượt qua được những thử thách khó nhằn tại Nghệ An? \n📺 Cùng đón xem để không bỏ lỡ!\n\nChào đón mùa 5 với sự xuất hiện của dàn bố con hoàn toàn mới:  \n👨‍👧 Bố Neko Lê cùng hai cô con gái đáng yêu – Audi và Cati  \n👨‍👦 Bố Duy Hưng và cậu con trai tinh nghịch – Bean  \n👨‍👧 Bố Trung Ruồi và cô con gái hoạt bát – Dứa  \n👨‍👦 Bố Hoàng Trung và cô con gái thông minh - MinHee\n---\n📌 **Xem trọn bộ Bố ơi mình đi đâu thế? - Mùa 5, tại đây: \n👉 https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku\n\n📺 **Đăng ký kênh để không bỏ lỡ tập mới:**  \n👉   TVHub Channel: https://www.youtube.com/@TVHub\n\n📢 **Theo dõi chúng tôi trên mạng xã hội:**  \nFacebook: https://www.facebook.com/booiminhdidau\nTikTok: https://www.tiktok.com/@booiminhdidauthe5\n---\n#BốƠiMìnhĐiĐâuThế #bốơimìnhđiđâuthế2025  \n#BoOiMinhDiDauThe #BOMDDT  \n#TVHub #VTV3  \n#Cosy #THtrueMILK #VinFast  \n#BambooAirways #Morethanjustaflight\n---\n © Bản quyền thuộc về TV HUB\nDo not reup! Thanks",
+      "translatedText": "🎬 BỐ ƠI MÌNH ĐI ĐÂU THẾ? 2025 - Tập 10: Học nuôi bò tại trang trại TH true MILK – MinHee tái xuất đầy bất ngờ\n\n🌿 Hành trình Tập 10 đưa dàn bố con đến trang trại TH true MILK giữa lòng Nghệ An – nơi các bé được học chăm sóc bò sữa, trải nghiệm mô hình organic farm và khám phá văn hóa địa phương. 🐄 Chuyến đi càng thú vị khi em bé nói tiếng Anh – MinHee bất ngờ xuất hiện, mang theo vô vàn tiếng cười. Liệu các bố con của Bố Ơi Mình Đi Đâu Thế 2025 có vượt qua được những thử thách khó nhằn tại Nghệ An? \n📺 Cùng đón xem để không bỏ lỡ!\n\nChào đón mùa 5 với sự xuất hiện của dàn bố con hoàn toàn mới:  \n👨‍👧 Bố Neko Lê cùng hai cô con gái đáng yêu – Audi và Cati  \n👨‍👦 Bố Duy Hưng và cậu con trai tinh nghịch – Bean  \n👨‍👧 Bố Trung Ruồi và cô con gái hoạt bát – Dứa  \n👨‍👦 Bố Hoàng Trung và cô con gái thông minh - MinHee\n---\n📌 **Xem trọn bộ Bố ơi mình đi đâu thế? - Mùa 5, tại đây: \n👉    • FULL - Bố Ơi Mình Đi Đâu Thế 2025 | Show H...  \n\n📺 *Đăng ký kênh để không bỏ lỡ tập mới:*  \n👉   TVHub Channel:    / @tvhub  \n\n📢 *Theo dõi chúng tôi trên mạng xã hội:*  \nFacebook:   / booiminhdidau  \nTikTok:   / booiminhdidauthe5  \n---\n#BốƠiMìnhĐiĐâuThế #bốơimìnhđiđâuthế2025  \n#BoOiMinhDiDauThe #BOMDDT  \n#TVHub #VTV3  \n#Cosy #THtrueMILK #VinFast  \n#BambooAirways #Morethanjustaflight\n---\n © Bản quyền thuộc về TV HUB\nDo not reup! Thanks",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku",
+          "text": "   • FULL - Bố Ơi Mình Đi Đâu Thế 2025 | Show H...  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC1VAL4j9yiPQVKMtIS1yUOA",
+          "text": "   / @tvhub  "
+        },
+        {
+          "url": "https://www.facebook.com/booiminhdidau",
+          "text": "  / booiminhdidau  "
+        },
+        {
+          "url": "https://www.tiktok.com/@booiminhdidauthe5",
+          "text": "  / booiminhdidauthe5  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/b%E1%BB%91%C6%A1im%C3%ACnh%C4%91i%C4%91%C3%A2uth%E1%BA%BF",
+          "text": "#BốƠiMìnhĐiĐâuThế"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/b%E1%BB%91%C6%A1im%C3%ACnh%C4%91i%C4%91%C3%A2uth%E1%BA%BF2025",
+          "text": "#bốơimìnhđiđâuthế2025"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/booiminhdidauthe",
+          "text": "#BoOiMinhDiDauThe"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bomddt",
+          "text": "#BOMDDT"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tvhub",
+          "text": "#TVHub"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vtv3",
+          "text": "#VTV3"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/cosy",
+          "text": "#Cosy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thtruemilk",
+          "text": "#THtrueMILK"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vinfast",
+          "text": "#VinFast"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bambooairways",
+          "text": "#BambooAirways"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/morethanjustaflight",
+          "text": "#Morethanjustaflight"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 9,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tập 9 | BỐ ƠI MÌNH ĐI ĐÂU THẾ: Đông vui quá nhở, CONCERT cấp làng sắp diễn ra à?",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "pRRB_IHmyQc",
+      "url": "https://www.youtube.com/watch?v=pRRB_IHmyQc&list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku&index=9",
+      "thumbnailUrl": "https://i.ytimg.com/vi/pRRB_IHmyQc/maxresdefault.jpg",
+      "viewCount": 492814,
+      "date": "2025-07-14T14:30:11.000Z",
+      "likes": 4100,
+      "location": null,
+      "channelName": "TV HUB",
+      "channelUrl": "https://www.youtube.com/@TVHub",
+      "channelUsername": "TVHub",
+      "collaborators": [
+        {
+          "name": "TV HUB",
+          "username": "TVHub",
+          "url": "https://www.youtube.com/@TVHub",
+          "channelId": "UC1VAL4j9yiPQVKMtIS1yUOA"
+        },
+        {
+          "name": "Bố Ơi Mình Đi Đâu Thế",
+          "username": "B%E1%BB%91%C6%A0iM%C3%ACnh%C4%90i%C4%90%C3%A2uTh%E1%BA%BF2025",
+          "url": "https://www.youtube.com/@B%E1%BB%91%C6%A0iM%C3%ACnh%C4%90i%C4%90%C3%A2uTh%E1%BA%BF2025",
+          "channelId": "UC86ia6rq_U_fxSjtX2MHxyA"
+        }
+      ],
+      "channelId": "UC1VAL4j9yiPQVKMtIS1yUOA",
+      "numberOfSubscribers": 793000,
+      "duration": "00:57:24",
+      "commentsCount": 158,
+      "text": "🎬 BỐ ƠI MÌNH ĐI ĐÂU THẾ? 2025\n🎤 Một đêm concert cấp làng siêu đặc biệt sắp bắt đầu! Cả bố con và người dân cùng nhau tạo nên bầu không khí đông vui chưa từng thấy. Tiếng nhạc vang lên, tiếng cười rộn rã, những màn trình diễn có 1-0-2 đầy bất ngờ. Liệu ai sẽ trở thành ngôi sao tỏa sáng nhất sân khấu làng? Đừng bỏ lỡ khoảnh khắc vừa hài hước, vừa xúc động này.\n\nChào đón mùa 5 với sự xuất hiện của dàn bố con hoàn toàn mới:  \n👨‍👧 Bố Neko Lê cùng hai cô con gái đáng yêu – Audi và Cati  \n👨‍👦 Bố Duy Hưng và cậu con trai tinh nghịch – Bean  \n👨‍👧 Bố Trung Ruồi và cô con gái hoạt bát – Dứa  \n👨‍👦 Bố Thái Hòa và cậu con trai lanh lợi - Minh Khôi\n---\n📌 **Xem trọn bộ Bố ơi mình đi đâu thế? - Mùa 5, tại đây: \n👉 https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku\n\n📺 **Đăng ký kênh để không bỏ lỡ tập mới:**  \n👉   TVHub Channel: https://www.youtube.com/@TVHub\n\n📢 **Theo dõi chúng tôi trên mạng xã hội:**  \nFacebook: https://www.facebook.com/booiminhdidau\nTikTok: https://www.tiktok.com/@booiminhdidauthe5\n---\n#BốƠiMìnhĐiĐâuThế #bốơimìnhđiđâuthế2025  \n#BoOiMinhDiDauThe #BOMDDT  \n#TVHub #VTV3  \n#Cosy #THtrueMILK #VinFast  \n#BambooAirways #Morethanjustaflight\n---\n © Bản quyền thuộc về TV HUB\nDo not reup! Thanks",
+      "translatedText": "🎬 BỐ ƠI MÌNH ĐI ĐÂU THẾ? 2025\n🎤 Một đêm concert cấp làng siêu đặc biệt sắp bắt đầu! Cả bố con và người dân cùng nhau tạo nên bầu không khí đông vui chưa từng thấy. Tiếng nhạc vang lên, tiếng cười rộn rã, những màn trình diễn có 1-0-2 đầy bất ngờ. Liệu ai sẽ trở thành ngôi sao tỏa sáng nhất sân khấu làng? Đừng bỏ lỡ khoảnh khắc vừa hài hước, vừa xúc động này.\n\nChào đón mùa 5 với sự xuất hiện của dàn bố con hoàn toàn mới:  \n👨‍👧 Bố Neko Lê cùng hai cô con gái đáng yêu – Audi và Cati  \n👨‍👦 Bố Duy Hưng và cậu con trai tinh nghịch – Bean  \n👨‍👧 Bố Trung Ruồi và cô con gái hoạt bát – Dứa  \n👨‍👦 Bố Thái Hòa và cậu con trai lanh lợi - Minh Khôi\n---\n📌 **Xem trọn bộ Bố ơi mình đi đâu thế? - Mùa 5, tại đây: \n👉    • FULL - Bố Ơi Mình Đi Đâu Thế 2025 | Show H...  \n\n📺 *Đăng ký kênh để không bỏ lỡ tập mới:*  \n👉   TVHub Channel:    / @tvhub  \n\n📢 *Theo dõi chúng tôi trên mạng xã hội:*  \nFacebook:   / booiminhdidau  \nTikTok:   / booiminhdidauthe5  \n---\n#BốƠiMìnhĐiĐâuThế #bốơimìnhđiđâuthế2025  \n#BoOiMinhDiDauThe #BOMDDT  \n#TVHub #VTV3  \n#Cosy #THtrueMILK #VinFast  \n#BambooAirways #Morethanjustaflight\n---\n © Bản quyền thuộc về TV HUB\nDo not reup! Thanks",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku",
+          "text": "   • FULL - Bố Ơi Mình Đi Đâu Thế 2025 | Show H...  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC1VAL4j9yiPQVKMtIS1yUOA",
+          "text": "   / @tvhub  "
+        },
+        {
+          "url": "https://www.facebook.com/booiminhdidau",
+          "text": "  / booiminhdidau  "
+        },
+        {
+          "url": "https://www.tiktok.com/@booiminhdidauthe5",
+          "text": "  / booiminhdidauthe5  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/b%E1%BB%91%C6%A1im%C3%ACnh%C4%91i%C4%91%C3%A2uth%E1%BA%BF",
+          "text": "#BốƠiMìnhĐiĐâuThế"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/b%E1%BB%91%C6%A1im%C3%ACnh%C4%91i%C4%91%C3%A2uth%E1%BA%BF2025",
+          "text": "#bốơimìnhđiđâuthế2025"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/booiminhdidauthe",
+          "text": "#BoOiMinhDiDauThe"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bomddt",
+          "text": "#BOMDDT"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tvhub",
+          "text": "#TVHub"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vtv3",
+          "text": "#VTV3"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/cosy",
+          "text": "#Cosy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thtruemilk",
+          "text": "#THtrueMILK"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vinfast",
+          "text": "#VinFast"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bambooairways",
+          "text": "#BambooAirways"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/morethanjustaflight",
+          "text": "#Morethanjustaflight"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 8,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tập 15 Bố Ơi Mình Đi Đâu Thế: Kết thúc hành trình dài bên nhau, dàn cast BẬT KHÓC giây phút chia tay",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "Uhe7UTfPxm8",
+      "url": "https://www.youtube.com/watch?v=Uhe7UTfPxm8&list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku&index=15",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Uhe7UTfPxm8/maxresdefault.jpg",
+      "viewCount": 820072,
+      "date": "2025-08-25T14:00:11.000Z",
+      "likes": 1700,
+      "location": null,
+      "channelName": "TV HUB",
+      "channelUrl": "https://www.youtube.com/@TVHub",
+      "channelUsername": "TVHub",
+      "collaborators": [
+        {
+          "name": "TV HUB",
+          "username": "TVHub",
+          "url": "https://www.youtube.com/@TVHub",
+          "channelId": "UC1VAL4j9yiPQVKMtIS1yUOA"
+        },
+        {
+          "name": "Bố Ơi Mình Đi Đâu Thế",
+          "username": "B%E1%BB%91%C6%A0iM%C3%ACnh%C4%90i%C4%90%C3%A2uTh%E1%BA%BF2025",
+          "url": "https://www.youtube.com/@B%E1%BB%91%C6%A0iM%C3%ACnh%C4%90i%C4%90%C3%A2uTh%E1%BA%BF2025",
+          "channelId": "UC86ia6rq_U_fxSjtX2MHxyA"
+        }
+      ],
+      "channelId": "UC1VAL4j9yiPQVKMtIS1yUOA",
+      "numberOfSubscribers": 793000,
+      "duration": "01:07:11",
+      "commentsCount": 92,
+      "text": "🎬 BỐ ƠI MÌNH ĐI ĐÂU THẾ? 2025 - TẬP 15: Kết thúc hành trình dài bên nhau, dàn cast BẬT KHÓC giây phút chia tay\n\n✨ Tập 15 Bố Ơi Mình Đi Đâu Thế mang đến hành trình cuối cùng đầy cảm xúc. Các bố con cùng nhau khám phá VinWonders với nhiều hoạt động và trò chơi bất ngờ, thú vị. Sau khoảng thời gian dài gắn bó, dàn cast không kìm được xúc động trong giây phút chia tay nghẹn ngào. Đặc biệt, các bé và bố cũng lần đầu bộc bạch những cảm xúc chân thật về chuyến đi ý nghĩa và đáng nhớ này. Đừng bỏ lỡ cái kết trọn vẹn của hành trình tại tập 15 nhé!\n\nChào đón mùa 5 với sự xuất hiện của dàn bố con hoàn toàn mới:  \n👨‍👧 Bố Neko Lê cùng hai cô con gái đáng yêu – Audi và Cati  \n👨‍👦 Bố Duy Hưng và cậu con trai tinh nghịch – Bean  \n👨‍👧 Bố Trung Ruồi và cô con gái hoạt bát – Dứa  \n👨‍👦 Bố Hoàng Trung và cô con gái thông minh - MinHee\n👨‍👦 Bố Thái Hòa và cậu con trai lém lỉnh – Minh Khôi\n---\n📌 *Xem trọn bộ Bố ơi mình đi đâu thế? - Mùa 5, tại đây*\n👉 https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku\n\n📺 **Đăng ký kênh để không bỏ lỡ tập mới:**  \n👉   TVHub Channel: https://www.youtube.com/@TVHub\n\n📢 **Theo dõi chúng tôi trên mạng xã hội:**  \nFacebook: https://www.facebook.com/booiminhdidau\nTikTok: https://www.tiktok.com/@booiminhdidauthe5\n---\n#BốƠiMìnhĐiĐâuThế #bốơimìnhđiđâuthế2025  \n#BoOiMinhDiDauThe #BOMDDT  \n#TVHub #VTV3  \n#Cosy #THtrueMILK #VinFast  \n#BambooAirways #Morethanjustaflight \n#VinpearlNhaTrang #VinWondersNhaTrang\n#ThuyenXuaFood #RESEnglish #AnhNguRES\n---\n © Bản quyền thuộc về TV HUB\nDo not reup! Thanks",
+      "translatedText": "🎬 BỐ ƠI MÌNH ĐI ĐÂU THẾ? 2025 - TẬP 15: Kết thúc hành trình dài bên nhau, dàn cast BẬT KHÓC giây phút chia tay\n\n✨ Tập 15 Bố Ơi Mình Đi Đâu Thế mang đến hành trình cuối cùng đầy cảm xúc. Các bố con cùng nhau khám phá VinWonders với nhiều hoạt động và trò chơi bất ngờ, thú vị. Sau khoảng thời gian dài gắn bó, dàn cast không kìm được xúc động trong giây phút chia tay nghẹn ngào. Đặc biệt, các bé và bố cũng lần đầu bộc bạch những cảm xúc chân thật về chuyến đi ý nghĩa và đáng nhớ này. Đừng bỏ lỡ cái kết trọn vẹn của hành trình tại tập 15 nhé!\n\nChào đón mùa 5 với sự xuất hiện của dàn bố con hoàn toàn mới:  \n👨‍👧 Bố Neko Lê cùng hai cô con gái đáng yêu – Audi và Cati  \n👨‍👦 Bố Duy Hưng và cậu con trai tinh nghịch – Bean  \n👨‍👧 Bố Trung Ruồi và cô con gái hoạt bát – Dứa  \n👨‍👦 Bố Hoàng Trung và cô con gái thông minh - MinHee\n👨‍👦 Bố Thái Hòa và cậu con trai lém lỉnh – Minh Khôi\n---\n📌 Xem trọn bộ Bố ơi mình đi đâu thế? - Mùa 5, tại đây\n👉    • FULL - Bố Ơi Mình Đi Đâu Thế 2025 | Show H...  \n\n📺 *Đăng ký kênh để không bỏ lỡ tập mới:*  \n👉   TVHub Channel:    / @tvhub  \n\n📢 *Theo dõi chúng tôi trên mạng xã hội:*  \nFacebook:   / booiminhdidau  \nTikTok:   / booiminhdidauthe5  \n---\n#BốƠiMìnhĐiĐâuThế #bốơimìnhđiđâuthế2025  \n#BoOiMinhDiDauThe #BOMDDT  \n#TVHub #VTV3  \n#Cosy #THtrueMILK #VinFast  \n#BambooAirways #Morethanjustaflight \n#VinpearlNhaTrang #VinWondersNhaTrang\n#ThuyenXuaFood #RESEnglish #AnhNguRES\n---\n © Bản quyền thuộc về TV HUB\nDo not reup! Thanks",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku",
+          "text": "   • FULL - Bố Ơi Mình Đi Đâu Thế 2025 | Show H...  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC1VAL4j9yiPQVKMtIS1yUOA",
+          "text": "   / @tvhub  "
+        },
+        {
+          "url": "https://www.facebook.com/booiminhdidau",
+          "text": "  / booiminhdidau  "
+        },
+        {
+          "url": "https://www.tiktok.com/@booiminhdidauthe5",
+          "text": "  / booiminhdidauthe5  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/b%E1%BB%91%C6%A1im%C3%ACnh%C4%91i%C4%91%C3%A2uth%E1%BA%BF",
+          "text": "#BốƠiMìnhĐiĐâuThế"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/b%E1%BB%91%C6%A1im%C3%ACnh%C4%91i%C4%91%C3%A2uth%E1%BA%BF2025",
+          "text": "#bốơimìnhđiđâuthế2025"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/booiminhdidauthe",
+          "text": "#BoOiMinhDiDauThe"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bomddt",
+          "text": "#BOMDDT"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tvhub",
+          "text": "#TVHub"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vtv3",
+          "text": "#VTV3"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/cosy",
+          "text": "#Cosy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thtruemilk",
+          "text": "#THtrueMILK"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vinfast",
+          "text": "#VinFast"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bambooairways",
+          "text": "#BambooAirways"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/morethanjustaflight",
+          "text": "#Morethanjustaflight"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vinpearlnhatrang",
+          "text": "#VinpearlNhaTrang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vinwondersnhatrang",
+          "text": "#VinWondersNhaTrang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thuyenxuafood",
+          "text": "#ThuyenXuaFood"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/resenglish",
+          "text": "#RESEnglish"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhngures",
+          "text": "#AnhNguRES"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 14,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku",
+      "isPaidContent": false
+    },
+    {
+      "title": "TẬP 8 | BỐ ƠI MÌNH ĐI ĐÂU THẾ: Bean ĂN GIAN, Duy Hưng Flex Tài Nấu Nướng, Neko Lê NỔI NÓNG Với Audi",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "sJMNwmNex2g",
+      "url": "https://www.youtube.com/watch?v=sJMNwmNex2g&list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku&index=8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/sJMNwmNex2g/maxresdefault.jpg",
+      "viewCount": 507509,
+      "date": "2025-07-07T14:30:07.000Z",
+      "likes": 2300,
+      "location": null,
+      "channelName": "TV HUB",
+      "channelUrl": "https://www.youtube.com/@TVHub",
+      "channelUsername": "TVHub",
+      "collaborators": [
+        {
+          "name": "TV HUB",
+          "username": "TVHub",
+          "url": "https://www.youtube.com/@TVHub",
+          "channelId": "UC1VAL4j9yiPQVKMtIS1yUOA"
+        },
+        {
+          "name": "Bố Ơi Mình Đi Đâu Thế",
+          "username": "B%E1%BB%91%C6%A0iM%C3%ACnh%C4%90i%C4%90%C3%A2uTh%E1%BA%BF2025",
+          "url": "https://www.youtube.com/@B%E1%BB%91%C6%A0iM%C3%ACnh%C4%90i%C4%90%C3%A2uTh%E1%BA%BF2025",
+          "channelId": "UC86ia6rq_U_fxSjtX2MHxyA"
+        }
+      ],
+      "channelId": "UC1VAL4j9yiPQVKMtIS1yUOA",
+      "numberOfSubscribers": 793000,
+      "duration": "00:54:07",
+      "commentsCount": 115,
+      "text": "Bean ĂN GIAN, Duy Hưng Flex Tài Nấu Nướng, Neko Lê NỔI NÓNG Với Audi | BỐ ƠI MÌNH ĐI ĐÂU THẾ 2025 - TẬP 8\n\n🎬 Lại một hành trình mới bắt đầu!\nTập 8 đưa các bố con trở về tuổi thơ với những trò chơi dân gian quen thuộc như bịt mắt bắt dê, lia lon… Dù chỉ là những trò chơi giản dị, nhưng lại mang đến những trải nghiệm đáng nhớ, đầy tiếng cười và cảm xúc cho các con.Với các bố, đây cũng là dịp để sống lại những kỷ niệm tuổi thơ mà ai cũng từng trải qua. \n💖Đặc biệt, trong tập này, khán giả sẽ thấy một bố Duy Hưng hoàn toàn khác – không còn gai góc, bặm trợn mà trở nên mềm mại hơn, tận tâm hơn, và đặc biệt là kỹ năng nấu ăn “siêu đỉnh” khiến ai cũng bất ngờ.\n💖 Còn với Audi và Cati, đây là hành trình học cách dung hòa, thấu hiểu lẫn nhau để gắn kết hơn trong tình chị em.\n---\nChào đón mùa 5 với sự xuất hiện của dàn bố con hoàn toàn mới:  \n👨‍👧 Bố Neko Lê cùng hai cô con gái đáng yêu – Audi và Cati  \n👨‍👦 Bố Duy Hưng và cậu con trai tinh nghịch – Bean  \n👨‍👧 Bố Trung Ruồi và cô con gái hoạt bát – Dứa  \n👨‍👦 Bố Thái Hòa và cậu con trai lanh lợi - Minh Khôi\n---\n📌 **Xem trọn bộ Bố ơi mình đi đâu thế? - Mùa 5, tại đây: \n👉 https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku\n\n📺 **Đăng ký kênh để không bỏ lỡ tập mới:**  \n👉   TVHub Channel: https://www.youtube.com/@TVHub\n\n📢 **Theo dõi chúng tôi trên mạng xã hội:**  \nFacebook: https://www.facebook.com/booiminhdidau\nTikTok: https://www.tiktok.com/@booiminhdidauthe5\n---\n#BốƠiMìnhĐiĐâuThế #bốơimìnhđiđâuthế2025  \n#BoOiMinhDiDauThe #BOMDDT  \n#TVHub #VTV3  \n#Cosy #THtrueMILK #VinFast  \n#BambooAirways #Morethanjustaflight\n---\n © Bản quyền thuộc về TV HUB\nDo not reup! Thanks",
+      "translatedText": "Bean ĂN GIAN, Duy Hưng Flex Tài Nấu Nướng, Neko Lê NỔI NÓNG Với Audi | BỐ ƠI MÌNH ĐI ĐÂU THẾ 2025 - TẬP 8\n\n🎬 Lại một hành trình mới bắt đầu!\nTập 8 đưa các bố con trở về tuổi thơ với những trò chơi dân gian quen thuộc như bịt mắt bắt dê, lia lon… Dù chỉ là những trò chơi giản dị, nhưng lại mang đến những trải nghiệm đáng nhớ, đầy tiếng cười và cảm xúc cho các con.Với các bố, đây cũng là dịp để sống lại những kỷ niệm tuổi thơ mà ai cũng từng trải qua. \n💖Đặc biệt, trong tập này, khán giả sẽ thấy một bố Duy Hưng hoàn toàn khác – không còn gai góc, bặm trợn mà trở nên mềm mại hơn, tận tâm hơn, và đặc biệt là kỹ năng nấu ăn “siêu đỉnh” khiến ai cũng bất ngờ.\n💖 Còn với Audi và Cati, đây là hành trình học cách dung hòa, thấu hiểu lẫn nhau để gắn kết hơn trong tình chị em.\n---\nChào đón mùa 5 với sự xuất hiện của dàn bố con hoàn toàn mới:  \n👨‍👧 Bố Neko Lê cùng hai cô con gái đáng yêu – Audi và Cati  \n👨‍👦 Bố Duy Hưng và cậu con trai tinh nghịch – Bean  \n👨‍👧 Bố Trung Ruồi và cô con gái hoạt bát – Dứa  \n👨‍👦 Bố Thái Hòa và cậu con trai lanh lợi - Minh Khôi\n---\n📌 **Xem trọn bộ Bố ơi mình đi đâu thế? - Mùa 5, tại đây: \n👉    • FULL - Bố Ơi Mình Đi Đâu Thế 2025 | Show H...  \n\n📺 *Đăng ký kênh để không bỏ lỡ tập mới:*  \n👉   TVHub Channel:    / @tvhub  \n\n📢 *Theo dõi chúng tôi trên mạng xã hội:*  \nFacebook:   / booiminhdidau  \nTikTok:   / booiminhdidauthe5  \n---\n#BốƠiMìnhĐiĐâuThế #bốơimìnhđiđâuthế2025  \n#BoOiMinhDiDauThe #BOMDDT  \n#TVHub #VTV3  \n#Cosy #THtrueMILK #VinFast  \n#BambooAirways #Morethanjustaflight\n---\n © Bản quyền thuộc về TV HUB\nDo not reup! Thanks",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku",
+          "text": "   • FULL - Bố Ơi Mình Đi Đâu Thế 2025 | Show H...  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC1VAL4j9yiPQVKMtIS1yUOA",
+          "text": "   / @tvhub  "
+        },
+        {
+          "url": "https://www.facebook.com/booiminhdidau",
+          "text": "  / booiminhdidau  "
+        },
+        {
+          "url": "https://www.tiktok.com/@booiminhdidauthe5",
+          "text": "  / booiminhdidauthe5  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/b%E1%BB%91%C6%A1im%C3%ACnh%C4%91i%C4%91%C3%A2uth%E1%BA%BF",
+          "text": "#BốƠiMìnhĐiĐâuThế"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/b%E1%BB%91%C6%A1im%C3%ACnh%C4%91i%C4%91%C3%A2uth%E1%BA%BF2025",
+          "text": "#bốơimìnhđiđâuthế2025"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/booiminhdidauthe",
+          "text": "#BoOiMinhDiDauThe"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bomddt",
+          "text": "#BOMDDT"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tvhub",
+          "text": "#TVHub"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vtv3",
+          "text": "#VTV3"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/cosy",
+          "text": "#Cosy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thtruemilk",
+          "text": "#THtrueMILK"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vinfast",
+          "text": "#VinFast"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bambooairways",
+          "text": "#BambooAirways"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/morethanjustaflight",
+          "text": "#Morethanjustaflight"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 7,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku",
+      "isMonetized": null,
+      "hashtags": [
+        "#VinFast",
+        "#VTV3",
+        "#Cosy"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tập 7 | BỐ ƠI MÌNH ĐI ĐÂU THẾ | Bố Duy Hưng Dùng Tuyệt Chiêu Của Bố Mẹ Miền Bắc: \"MỒM\"",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "-kOTrJmFHOM",
+      "url": "https://www.youtube.com/watch?v=-kOTrJmFHOM&list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku&index=7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/-kOTrJmFHOM/maxresdefault.jpg",
+      "viewCount": 564144,
+      "date": "2025-06-30T14:30:11.000Z",
+      "likes": 4200,
+      "location": null,
+      "channelName": "TV HUB",
+      "channelUrl": "https://www.youtube.com/@TVHub",
+      "channelUsername": "TVHub",
+      "collaborators": [
+        {
+          "name": "TV HUB",
+          "username": "TVHub",
+          "url": "https://www.youtube.com/@TVHub",
+          "channelId": "UC1VAL4j9yiPQVKMtIS1yUOA"
+        },
+        {
+          "name": "Bố Ơi Mình Đi Đâu Thế",
+          "username": "B%E1%BB%91%C6%A0iM%C3%ACnh%C4%90i%C4%90%C3%A2uTh%E1%BA%BF2025",
+          "url": "https://www.youtube.com/@B%E1%BB%91%C6%A0iM%C3%ACnh%C4%90i%C4%90%C3%A2uTh%E1%BA%BF2025",
+          "channelId": "UC86ia6rq_U_fxSjtX2MHxyA"
+        }
+      ],
+      "channelId": "UC1VAL4j9yiPQVKMtIS1yUOA",
+      "numberOfSubscribers": 793000,
+      "duration": "00:48:44",
+      "commentsCount": 178,
+      "text": "🎬 BỐ ƠI MÌNH ĐI ĐÂU THẾ? 2025 - Tập 7: Duy Hưng Dùng Tuyệt Chiêu Của Bố Mẹ Miền Bắc: MỒM\n\nChào đón mùa 5 với sự xuất hiện của dàn bố con hoàn toàn mới:  \n👨‍👧 Bố Neko Lê cùng hai cô con gái đáng yêu – Audi và Cati  \n👨‍👦 Bố Duy Hưng và cậu con trai tinh nghịch – Bean  \n👨‍👧 Bố Trung Ruồi và cô con gái hoạt bát – Dứa  \n👨‍👦 Bố Thái Hòa và cậu con trai lanh lợi - Minh Khôi\n---\n💣 Mở Màn tập 7 của chương trình Bố Ơi Mình Đi Đâu Thế là khoảnh khắc “nội chiến” vừa hài hước vừa căng thẳng giữa hai chị em Audi và Cati. Bên cạnh đó, \"cô nàng kiêu kì\" Dứa cũng có màn nổi cáu với Bean cực đáng yêu, khiến không khí thêm phần sôi động. Đặc biệt, bố Duy Hưng lần đầu tiên lộ diện với hình ảnh gia trưởng, mang lại nhiều bất ngờ và tiếng cười cho khán giả.\n---\n📌 **Xem trọn bộ Bố ơi mình đi đâu thế? - Mùa 5, tại đây: \n👉 https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku\n\n📺 **Đăng ký kênh để không bỏ lỡ tập mới:**  \n👉   TVHub Channel: https://www.youtube.com/@TVHub\n\n📢 **Theo dõi chúng tôi trên mạng xã hội:**  \nFacebook: https://www.facebook.com/booiminhdidau\nTikTok: https://www.tiktok.com/@booiminhdidauthe5\n---\n#BốƠiMìnhĐiĐâuThế #bốơimìnhđiđâuthế2025  \n#BoOiMinhDiDauThe #BOMDDT  \n#TVHub #VTV3  \n#Cosy #THtrueMILK #VinFast  \n#BambooAirways #Morethanjustaflight\n---\n © Bản quyền thuộc về TV HUB\nDo not reup! Thanks",
+      "translatedText": "🎬 BỐ ƠI MÌNH ĐI ĐÂU THẾ? 2025 - Tập 7: Duy Hưng Dùng Tuyệt Chiêu Của Bố Mẹ Miền Bắc: MỒM\n\nChào đón mùa 5 với sự xuất hiện của dàn bố con hoàn toàn mới:  \n👨‍👧 Bố Neko Lê cùng hai cô con gái đáng yêu – Audi và Cati  \n👨‍👦 Bố Duy Hưng và cậu con trai tinh nghịch – Bean  \n👨‍👧 Bố Trung Ruồi và cô con gái hoạt bát – Dứa  \n👨‍👦 Bố Thái Hòa và cậu con trai lanh lợi - Minh Khôi\n---\n💣 Mở Màn tập 7 của chương trình Bố Ơi Mình Đi Đâu Thế là khoảnh khắc “nội chiến” vừa hài hước vừa căng thẳng giữa hai chị em Audi và Cati. Bên cạnh đó, \"cô nàng kiêu kì\" Dứa cũng có màn nổi cáu với Bean cực đáng yêu, khiến không khí thêm phần sôi động. Đặc biệt, bố Duy Hưng lần đầu tiên lộ diện với hình ảnh gia trưởng, mang lại nhiều bất ngờ và tiếng cười cho khán giả.\n---\n📌 **Xem trọn bộ Bố ơi mình đi đâu thế? - Mùa 5, tại đây: \n👉    • FULL - Bố Ơi Mình Đi Đâu Thế 2025 | Show H...  \n\n📺 *Đăng ký kênh để không bỏ lỡ tập mới:*  \n👉   TVHub Channel:    / @tvhub  \n\n📢 *Theo dõi chúng tôi trên mạng xã hội:*  \nFacebook:   / booiminhdidau  \nTikTok:   / booiminhdidauthe5  \n---\n#BốƠiMìnhĐiĐâuThế #bốơimìnhđiđâuthế2025  \n#BoOiMinhDiDauThe #BOMDDT  \n#TVHub #VTV3  \n#Cosy #THtrueMILK #VinFast  \n#BambooAirways #Morethanjustaflight\n---\n © Bản quyền thuộc về TV HUB\nDo not reup! Thanks",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku",
+          "text": "   • FULL - Bố Ơi Mình Đi Đâu Thế 2025 | Show H...  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC1VAL4j9yiPQVKMtIS1yUOA",
+          "text": "   / @tvhub  "
+        },
+        {
+          "url": "https://www.facebook.com/booiminhdidau",
+          "text": "  / booiminhdidau  "
+        },
+        {
+          "url": "https://www.tiktok.com/@booiminhdidauthe5",
+          "text": "  / booiminhdidauthe5  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/b%E1%BB%91%C6%A1im%C3%ACnh%C4%91i%C4%91%C3%A2uth%E1%BA%BF",
+          "text": "#BốƠiMìnhĐiĐâuThế"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/b%E1%BB%91%C6%A1im%C3%ACnh%C4%91i%C4%91%C3%A2uth%E1%BA%BF2025",
+          "text": "#bốơimìnhđiđâuthế2025"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/booiminhdidauthe",
+          "text": "#BoOiMinhDiDauThe"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bomddt",
+          "text": "#BOMDDT"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tvhub",
+          "text": "#TVHub"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vtv3",
+          "text": "#VTV3"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/cosy",
+          "text": "#Cosy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thtruemilk",
+          "text": "#THtrueMILK"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vinfast",
+          "text": "#VinFast"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bambooairways",
+          "text": "#BambooAirways"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/morethanjustaflight",
+          "text": "#Morethanjustaflight"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 6,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tập 11 | BỐ ƠI MÌNH ĐI ĐÂU THẾ: Bố Duy Hưng mơ ước có 1 cô con gái, chương trình cho hẳn 4 CÔ",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "LI_POgljc7M",
+      "url": "https://www.youtube.com/watch?v=LI_POgljc7M&list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku&index=11",
+      "thumbnailUrl": "https://i.ytimg.com/vi/LI_POgljc7M/maxresdefault.jpg",
+      "viewCount": 551861,
+      "date": "2025-07-28T14:30:07.000Z",
+      "likes": 2500,
+      "location": null,
+      "channelName": "TV HUB",
+      "channelUrl": "https://www.youtube.com/@TVHub",
+      "channelUsername": "TVHub",
+      "collaborators": [
+        {
+          "name": "TV HUB",
+          "username": "TVHub",
+          "url": "https://www.youtube.com/@TVHub",
+          "channelId": "UC1VAL4j9yiPQVKMtIS1yUOA"
+        },
+        {
+          "name": "Bố Ơi Mình Đi Đâu Thế",
+          "username": "B%E1%BB%91%C6%A0iM%C3%ACnh%C4%90i%C4%90%C3%A2uTh%E1%BA%BF2025",
+          "url": "https://www.youtube.com/@B%E1%BB%91%C6%A0iM%C3%ACnh%C4%90i%C4%90%C3%A2uTh%E1%BA%BF2025",
+          "channelId": "UC86ia6rq_U_fxSjtX2MHxyA"
+        }
+      ],
+      "channelId": "UC1VAL4j9yiPQVKMtIS1yUOA",
+      "numberOfSubscribers": 793000,
+      "duration": "01:01:30",
+      "commentsCount": 190,
+      "text": "🎬 BỐ ƠI MÌNH ĐI ĐÂU THẾ? 2025 - Tập 11: Bố Duy Hưng mơ ước có 1 cô con gái, chương trình cho hẳn 4 CÔ\nTập 11 - BỐ ƠI MÌNH ĐI ĐÂU THẾ 2025 đưa các bố đến với loạt thử thách bất ngờ: đổi bố, bắt ốc, cày ruộng thuê và nhiều trò chơi dân dã trên đồng ruộng. Hành trình vừa hài hước vừa cảm động giúp các cặp bố con thêm gắn bó và thấu hiểu nhau hơn.\n📺 Đón xem Bố Ơi Mình Đi Đâu Thế 2025 tập 11 lúc 21:30 tối thứ Hai trên YouTube TVHub.\n\nChào đón mùa 5 với sự xuất hiện của dàn bố con hoàn toàn mới:  \n👨‍👧 Bố Neko Lê cùng hai cô con gái đáng yêu – Audi và Cati  \n👨‍👦 Bố Duy Hưng và cậu con trai tinh nghịch – Bean  \n👨‍👧 Bố Trung Ruồi và cô con gái hoạt bát – Dứa  \n👨‍👦 Bố Hoàng Trung và cô con gái thông minh - MinHee\n---\n📌 **Xem trọn bộ Bố ơi mình đi đâu thế? - Mùa 5, tại đây: \n👉 https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku\n\n📺 **Đăng ký kênh để không bỏ lỡ tập mới:**  \n👉   TVHub Channel: https://www.youtube.com/@TVHub\n\n📢 **Theo dõi chúng tôi trên mạng xã hội:**  \nFacebook: https://www.facebook.com/booiminhdidau\nTikTok: https://www.tiktok.com/@booiminhdidauthe5\n---\n#BốƠiMìnhĐiĐâuThế #bốơimìnhđiđâuthế2025  \n#BoOiMinhDiDauThe #BOMDDT  \n#TVHub #VTV3  \n#Cosy #THtrueMILK #VinFast  \n#BambooAirways #Morethanjustaflight\n---\n © Bản quyền thuộc về TV HUB\nDo not reup! Thanks",
+      "translatedText": "🎬 BỐ ƠI MÌNH ĐI ĐÂU THẾ? 2025 - Tập 11: Bố Duy Hưng mơ ước có 1 cô con gái, chương trình cho hẳn 4 CÔ\nTập 11 - BỐ ƠI MÌNH ĐI ĐÂU THẾ 2025 đưa các bố đến với loạt thử thách bất ngờ: đổi bố, bắt ốc, cày ruộng thuê và nhiều trò chơi dân dã trên đồng ruộng. Hành trình vừa hài hước vừa cảm động giúp các cặp bố con thêm gắn bó và thấu hiểu nhau hơn.\n📺 Đón xem Bố Ơi Mình Đi Đâu Thế 2025 tập 11 lúc 21:30 tối thứ Hai trên YouTube TVHub.\n\nChào đón mùa 5 với sự xuất hiện của dàn bố con hoàn toàn mới:  \n👨‍👧 Bố Neko Lê cùng hai cô con gái đáng yêu – Audi và Cati  \n👨‍👦 Bố Duy Hưng và cậu con trai tinh nghịch – Bean  \n👨‍👧 Bố Trung Ruồi và cô con gái hoạt bát – Dứa  \n👨‍👦 Bố Hoàng Trung và cô con gái thông minh - MinHee\n---\n📌 **Xem trọn bộ Bố ơi mình đi đâu thế? - Mùa 5, tại đây: \n👉    • FULL - Bố Ơi Mình Đi Đâu Thế 2025 | Show H...  \n\n📺 *Đăng ký kênh để không bỏ lỡ tập mới:*  \n👉   TVHub Channel:    / @tvhub  \n\n📢 *Theo dõi chúng tôi trên mạng xã hội:*  \nFacebook:   / booiminhdidau  \nTikTok:   / booiminhdidauthe5  \n---\n#BốƠiMìnhĐiĐâuThế #bốơimìnhđiđâuthế2025  \n#BoOiMinhDiDauThe #BOMDDT  \n#TVHub #VTV3  \n#Cosy #THtrueMILK #VinFast  \n#BambooAirways #Morethanjustaflight\n---\n © Bản quyền thuộc về TV HUB\nDo not reup! Thanks",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/watch?v=LI_POgljc7M&list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku&index=11&t=1290s",
+          "text": "21:30"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku",
+          "text": "   • FULL - Bố Ơi Mình Đi Đâu Thế 2025 | Show H...  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC1VAL4j9yiPQVKMtIS1yUOA",
+          "text": "   / @tvhub  "
+        },
+        {
+          "url": "https://www.facebook.com/booiminhdidau",
+          "text": "  / booiminhdidau  "
+        },
+        {
+          "url": "https://www.tiktok.com/@booiminhdidauthe5",
+          "text": "  / booiminhdidauthe5  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/b%E1%BB%91%C6%A1im%C3%ACnh%C4%91i%C4%91%C3%A2uth%E1%BA%BF",
+          "text": "#BốƠiMìnhĐiĐâuThế"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/b%E1%BB%91%C6%A1im%C3%ACnh%C4%91i%C4%91%C3%A2uth%E1%BA%BF2025",
+          "text": "#bốơimìnhđiđâuthế2025"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/booiminhdidauthe",
+          "text": "#BoOiMinhDiDauThe"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bomddt",
+          "text": "#BOMDDT"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tvhub",
+          "text": "#TVHub"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vtv3",
+          "text": "#VTV3"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/cosy",
+          "text": "#Cosy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thtruemilk",
+          "text": "#THtrueMILK"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vinfast",
+          "text": "#VinFast"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bambooairways",
+          "text": "#BambooAirways"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/morethanjustaflight",
+          "text": "#Morethanjustaflight"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 10,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku",
+      "isPaidContent": false
+    },
+    {
+      "title": "TẬP 1 | BỐ ƠI MÌNH ĐI ĐÂU THẾ: Bố Neko, Trung Ruồi, Duy Hưng, Phan Đinh Tùng lần đầu Vượt Chông Gai",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "gPv2ph-qQiE",
+      "url": "https://www.youtube.com/watch?v=gPv2ph-qQiE&list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku&index=1",
+      "thumbnailUrl": "https://i.ytimg.com/vi/gPv2ph-qQiE/maxresdefault.jpg",
+      "viewCount": 1479168,
+      "date": "2025-05-19T14:30:06.000Z",
+      "likes": 14000,
+      "location": null,
+      "channelName": "TV HUB",
+      "channelUrl": "https://www.youtube.com/@TVHub",
+      "channelUsername": "TVHub",
+      "collaborators": [
+        {
+          "name": "TV HUB",
+          "username": "TVHub",
+          "url": "https://www.youtube.com/@TVHub",
+          "channelId": "UC1VAL4j9yiPQVKMtIS1yUOA"
+        },
+        {
+          "name": "Bố Ơi Mình Đi Đâu Thế",
+          "username": "B%E1%BB%91%C6%A0iM%C3%ACnh%C4%90i%C4%90%C3%A2uTh%E1%BA%BF2025",
+          "url": "https://www.youtube.com/@B%E1%BB%91%C6%A0iM%C3%ACnh%C4%90i%C4%90%C3%A2uTh%E1%BA%BF2025",
+          "channelId": "UC86ia6rq_U_fxSjtX2MHxyA"
+        }
+      ],
+      "channelId": "UC1VAL4j9yiPQVKMtIS1yUOA",
+      "numberOfSubscribers": 793000,
+      "duration": "00:50:22",
+      "commentsCount": 736,
+      "text": "📺 Đón xem Tập mới Bố Ơi Mình Đi Đâu Thế\n21h30 trên YOUTUBE TV HUB\n\n📌 Đăng ký theo dõi kênh YouTube TV HUB:\nhttps://bit.ly/tvhubnetwork\n\n📘 Theo dõi fanpage chính thức: 🔹 BỐ ƠI MÌNH ĐI ĐÂU THẾ: https://www.facebook.com/booiminhdidau\n🌟TikTok Bố ơi mình đi đâu thế? https://www.tiktok.com/@booiminhdidauthe5\n\n📌 Các kênh thuộc TV HUB Entertainment & Media Group:\n🎬 TV HUB SHOW: https://bit.ly/tvhubshow\n🍽️ FOOD HUB: https://bit.ly/tvhubfood\n📺 TV HUB NETWORK: https://bit.ly/tvhubnetwork\n\n\n#BốƠiMìnhĐiĐâuThế #bốơimìnhđiđâuthế2025\n#BoOiMinhDiDauThe #BOMDDT\n#TVHub #VTV3\n#Cosy #THtrueMILK #VinFast \n#BambooAirways #Morethanjustaflight\n\n__________________________________________________________________\n © Bản quyền thuộc về TV HUB\nDo not reup! Thanks",
+      "translatedText": "📺 Đón xem Tập mới Bố Ơi Mình Đi Đâu Thế\n21h30 trên YOUTUBE TV HUB\n\n📌 Đăng ký theo dõi kênh YouTube TV HUB:\nhttps://bit.ly/tvhubnetwork\n\n📘 Theo dõi fanpage chính thức: 🔹 BỐ ƠI MÌNH ĐI ĐÂU THẾ:   / booiminhdidau  \n🌟TikTok Bố ơi mình đi đâu thế?   / booiminhdidauthe5  \n\n📌 Các kênh thuộc TV HUB Entertainment & Media Group:\n🎬 TV HUB SHOW: https://bit.ly/tvhubshow\n🍽️ FOOD HUB: https://bit.ly/tvhubfood\n📺 TV HUB NETWORK: https://bit.ly/tvhubnetwork\n\n\n#BốƠiMìnhĐiĐâuThế #bốơimìnhđiđâuthế2025\n#BoOiMinhDiDauThe #BOMDDT\n#TVHub #VTV3\n#Cosy #THtrueMILK #VinFast \n#BambooAirways #Morethanjustaflight\n\n__________________________________________________________________\n © Bản quyền thuộc về TV HUB\nDo not reup! Thanks",
+      "descriptionLinks": [
+        {
+          "url": "https://bit.ly/tvhubnetwork",
+          "text": "https://bit.ly/tvhubnetwork"
+        },
+        {
+          "url": "https://www.facebook.com/booiminhdidau",
+          "text": "  / booiminhdidau  "
+        },
+        {
+          "url": "https://www.tiktok.com/@booiminhdidauthe5",
+          "text": "  / booiminhdidauthe5  "
+        },
+        {
+          "url": "https://bit.ly/tvhubshow",
+          "text": "https://bit.ly/tvhubshow"
+        },
+        {
+          "url": "https://bit.ly/tvhubfood",
+          "text": "https://bit.ly/tvhubfood"
+        },
+        {
+          "url": "https://bit.ly/tvhubnetwork",
+          "text": "https://bit.ly/tvhubnetwork"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/b%E1%BB%91%C6%A1im%C3%ACnh%C4%91i%C4%91%C3%A2uth%E1%BA%BF",
+          "text": "#BốƠiMìnhĐiĐâuThế"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/b%E1%BB%91%C6%A1im%C3%ACnh%C4%91i%C4%91%C3%A2uth%E1%BA%BF2025",
+          "text": "#bốơimìnhđiđâuthế2025"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/booiminhdidauthe",
+          "text": "#BoOiMinhDiDauThe"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bomddt",
+          "text": "#BOMDDT"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tvhub",
+          "text": "#TVHub"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vtv3",
+          "text": "#VTV3"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/cosy",
+          "text": "#Cosy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thtruemilk",
+          "text": "#THtrueMILK"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vinfast",
+          "text": "#VinFast"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bambooairways",
+          "text": "#BambooAirways"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/morethanjustaflight",
+          "text": "#Morethanjustaflight"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 0,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tập 14 | Bố Ơi Mình Đi Đâu Thế: Tới Nha Trang các bố mở POOL PARTY, Minh Khôi RỤNG răng, Dứa ỐM",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "x1YgevrYL_c",
+      "url": "https://www.youtube.com/watch?v=x1YgevrYL_c&list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku&index=14",
+      "thumbnailUrl": "https://i.ytimg.com/vi/x1YgevrYL_c/maxresdefault.jpg",
+      "viewCount": 815468,
+      "date": "2025-08-18T14:30:11.000Z",
+      "likes": 1600,
+      "location": null,
+      "channelName": "TV HUB",
+      "channelUrl": "https://www.youtube.com/@TVHub",
+      "channelUsername": "TVHub",
+      "collaborators": [
+        {
+          "name": "TV HUB",
+          "username": "TVHub",
+          "url": "https://www.youtube.com/@TVHub",
+          "channelId": "UC1VAL4j9yiPQVKMtIS1yUOA"
+        },
+        {
+          "name": "Bố Ơi Mình Đi Đâu Thế",
+          "username": "B%E1%BB%91%C6%A0iM%C3%ACnh%C4%90i%C4%90%C3%A2uTh%E1%BA%BF2025",
+          "url": "https://www.youtube.com/@B%E1%BB%91%C6%A0iM%C3%ACnh%C4%90i%C4%90%C3%A2uTh%E1%BA%BF2025",
+          "channelId": "UC86ia6rq_U_fxSjtX2MHxyA"
+        }
+      ],
+      "channelId": "UC1VAL4j9yiPQVKMtIS1yUOA",
+      "numberOfSubscribers": 793000,
+      "duration": "01:06:17",
+      "commentsCount": 96,
+      "text": "🎬 BỐ ƠI MÌNH ĐI ĐÂU THẾ? 2025 - TẬP 14: Tới Nha Trang các bố mở POOL PARTY, Minh Khôi RỤNG răng, Dứa ỐM\n\n✨Sau những chặng đường vất vả, các bố con đã có những trải nghiệm thật vui tại Vinpearl Hòn Tre, Nha Trang – từ những thử thách đầy tiếng cười cho đến khoảnh khắc bung xõa cùng nhau. 🌴🌊\n✨Thế nhưng, không khí bất ngờ trùng xuống khi bé Dứa bị ốm và không thể tham gia ghi hình, để lại nhiều lo lắng cho bố Trung Ruồi và cả ekip.\n✨Khép lại hành trình, các bố và các con cùng chia sẻ cảm xúc, suy nghĩ chân thành sau chương trình – những kỷ niệm khó quên, những bài học trưởng thành và cả tình cảm gia đình thêm gắn kết. 💖\n\nChào đón mùa 5 với sự xuất hiện của dàn bố con hoàn toàn mới:  \n👨‍👧 Bố Neko Lê cùng hai cô con gái đáng yêu – Audi và Cati  \n👨‍👦 Bố Duy Hưng và cậu con trai tinh nghịch – Bean  \n👨‍👧 Bố Trung Ruồi và cô con gái hoạt bát – Dứa  \n👨‍👦 Bố Hoàng Trung và cô con gái thông minh - MinHee\n👨‍👦 Bố Thái Hòa và cậu con trai lém lỉnh – Minh Khôi\n---\n📌 *Xem trọn bộ Bố ơi mình đi đâu thế? - Mùa 5, tại đây*\n👉 https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku\n\n📺 **Đăng ký kênh để không bỏ lỡ tập mới:**  \n👉   TVHub Channel: https://www.youtube.com/@TVHub\n\n📢 **Theo dõi chúng tôi trên mạng xã hội:**  \nFacebook: https://www.facebook.com/booiminhdidau\nTikTok: https://www.tiktok.com/@booiminhdidauthe5\n---\n#BốƠiMìnhĐiĐâuThế #bốơimìnhđiđâuthế2025  \n#BoOiMinhDiDauThe #BOMDDT  \n#TVHub #VTV3  \n#Cosy #THtrueMILK #VinFast  #ThuyenXuaFood\n#BambooAirways #Morethanjustaflight\n#VinpearlNhaTrang #VinWondersNhaTrang\n#trungtamanhnguRES #RESluyenthiielts\n\n---\n © Bản quyền thuộc về TV HUB\nDo not reup! Thanks",
+      "translatedText": "🎬 BỐ ƠI MÌNH ĐI ĐÂU THẾ? 2025 - TẬP 14: Tới Nha Trang các bố mở POOL PARTY, Minh Khôi RỤNG răng, Dứa ỐM\n\n✨Sau những chặng đường vất vả, các bố con đã có những trải nghiệm thật vui tại Vinpearl Hòn Tre, Nha Trang – từ những thử thách đầy tiếng cười cho đến khoảnh khắc bung xõa cùng nhau. 🌴🌊\n✨Thế nhưng, không khí bất ngờ trùng xuống khi bé Dứa bị ốm và không thể tham gia ghi hình, để lại nhiều lo lắng cho bố Trung Ruồi và cả ekip.\n✨Khép lại hành trình, các bố và các con cùng chia sẻ cảm xúc, suy nghĩ chân thành sau chương trình – những kỷ niệm khó quên, những bài học trưởng thành và cả tình cảm gia đình thêm gắn kết. 💖\n\nChào đón mùa 5 với sự xuất hiện của dàn bố con hoàn toàn mới:  \n👨‍👧 Bố Neko Lê cùng hai cô con gái đáng yêu – Audi và Cati  \n👨‍👦 Bố Duy Hưng và cậu con trai tinh nghịch – Bean  \n👨‍👧 Bố Trung Ruồi và cô con gái hoạt bát – Dứa  \n👨‍👦 Bố Hoàng Trung và cô con gái thông minh - MinHee\n👨‍👦 Bố Thái Hòa và cậu con trai lém lỉnh – Minh Khôi\n---\n📌 Xem trọn bộ Bố ơi mình đi đâu thế? - Mùa 5, tại đây\n👉    • FULL - Bố Ơi Mình Đi Đâu Thế 2025 | Show H...  \n\n📺 *Đăng ký kênh để không bỏ lỡ tập mới:*  \n👉   TVHub Channel:    / @tvhub  \n\n📢 *Theo dõi chúng tôi trên mạng xã hội:*  \nFacebook:   / booiminhdidau  \nTikTok:   / booiminhdidauthe5  \n---\n#BốƠiMìnhĐiĐâuThế #bốơimìnhđiđâuthế2025  \n#BoOiMinhDiDauThe #BOMDDT  \n#TVHub #VTV3  \n#Cosy #THtrueMILK #VinFast  #ThuyenXuaFood\n#BambooAirways #Morethanjustaflight\n#VinpearlNhaTrang #VinWondersNhaTrang\n#trungtamanhnguRES #RESluyenthiielts\n\n---\n © Bản quyền thuộc về TV HUB\nDo not reup! Thanks",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku",
+          "text": "   • FULL - Bố Ơi Mình Đi Đâu Thế 2025 | Show H...  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC1VAL4j9yiPQVKMtIS1yUOA",
+          "text": "   / @tvhub  "
+        },
+        {
+          "url": "https://www.facebook.com/booiminhdidau",
+          "text": "  / booiminhdidau  "
+        },
+        {
+          "url": "https://www.tiktok.com/@booiminhdidauthe5",
+          "text": "  / booiminhdidauthe5  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/b%E1%BB%91%C6%A1im%C3%ACnh%C4%91i%C4%91%C3%A2uth%E1%BA%BF",
+          "text": "#BốƠiMìnhĐiĐâuThế"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/b%E1%BB%91%C6%A1im%C3%ACnh%C4%91i%C4%91%C3%A2uth%E1%BA%BF2025",
+          "text": "#bốơimìnhđiđâuthế2025"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/booiminhdidauthe",
+          "text": "#BoOiMinhDiDauThe"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bomddt",
+          "text": "#BOMDDT"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tvhub",
+          "text": "#TVHub"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vtv3",
+          "text": "#VTV3"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/cosy",
+          "text": "#Cosy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thtruemilk",
+          "text": "#THtrueMILK"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vinfast",
+          "text": "#VinFast"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thuyenxuafood",
+          "text": "#ThuyenXuaFood"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bambooairways",
+          "text": "#BambooAirways"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/morethanjustaflight",
+          "text": "#Morethanjustaflight"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vinpearlnhatrang",
+          "text": "#VinpearlNhaTrang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vinwondersnhatrang",
+          "text": "#VinWondersNhaTrang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/trungtamanhngures",
+          "text": "#trungtamanhnguRES"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/resluyenthiielts",
+          "text": "#RESluyenthiielts"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 13,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tập 12 | Bố Ơi Mình Đi Đâu Thế: Picnic ruộng đồng CỰC CHILL, Neko & Audi chơi GAME \"AO TRÌNH\"",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "0AaN18FJ33k",
+      "url": "https://www.youtube.com/watch?v=0AaN18FJ33k&list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku&index=12",
+      "thumbnailUrl": "https://i.ytimg.com/vi/0AaN18FJ33k/maxresdefault.jpg",
+      "viewCount": 672442,
+      "date": "2025-08-04T14:30:11.000Z",
+      "likes": 3100,
+      "location": null,
+      "channelName": "TV HUB",
+      "channelUrl": "https://www.youtube.com/@TVHub",
+      "channelUsername": "TVHub",
+      "collaborators": [
+        {
+          "name": "TV HUB",
+          "username": "TVHub",
+          "url": "https://www.youtube.com/@TVHub",
+          "channelId": "UC1VAL4j9yiPQVKMtIS1yUOA"
+        },
+        {
+          "name": "Bố Ơi Mình Đi Đâu Thế",
+          "username": "B%E1%BB%91%C6%A0iM%C3%ACnh%C4%90i%C4%90%C3%A2uTh%E1%BA%BF2025",
+          "url": "https://www.youtube.com/@B%E1%BB%91%C6%A0iM%C3%ACnh%C4%90i%C4%90%C3%A2uTh%E1%BA%BF2025",
+          "channelId": "UC86ia6rq_U_fxSjtX2MHxyA"
+        }
+      ],
+      "channelId": "UC1VAL4j9yiPQVKMtIS1yUOA",
+      "numberOfSubscribers": 793000,
+      "duration": "00:57:23",
+      "commentsCount": 146,
+      "text": "🎬 BỐ ƠI MÌNH ĐI ĐÂU THẾ? 2025 - Tập 12: Picnic ruộng đồng CỰC CHILL, Neko & Audi chơi GAME \"AO TRÌNH\"\n\nTập 12 đưa các bố con đến bản Hoa Tiến, Nghệ An để hòa mình vào cuộc sống thường nhật của người dân nơi đây. Cùng nhau làm chẩm măng chua, nấu các món đặc sản Nghệ An, và tham gia những trò chơi gắn kết tình bố con, mọi khoảng cách dần biến mất, nhường chỗ cho tiếng cười và sự thấu hiểu đầy ấm áp.\n\nChào đón mùa 5 với sự xuất hiện của dàn bố con hoàn toàn mới:  \n👨‍👧 Bố Neko Lê cùng hai cô con gái đáng yêu – Audi và Cati  \n👨‍👦 Bố Duy Hưng và cậu con trai tinh nghịch – Bean  \n👨‍👧 Bố Trung Ruồi và cô con gái hoạt bát – Dứa  \n👨‍👦 Bố Hoàng Trung và cô con gái thông minh - MinHee\n---\n📌 *Xem trọn bộ Bố ơi mình đi đâu thế? - Mùa 5, tại đây*\n👉 https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku\n\n📺 **Đăng ký kênh để không bỏ lỡ tập mới:**  \n👉   TVHub Channel: https://www.youtube.com/@TVHub\n\n📢 **Theo dõi chúng tôi trên mạng xã hội:**  \nFacebook: https://www.facebook.com/booiminhdidau\nTikTok: https://www.tiktok.com/@booiminhdidauthe5\n---\n#BốƠiMìnhĐiĐâuThế #bốơimìnhđiđâuthế2025  \n#BoOiMinhDiDauThe #BOMDDT  \n#TVHub #VTV3  \n#Cosy #THtrueMILK #VinFast  \n#BambooAirways #Morethanjustaflight\n---\n © Bản quyền thuộc về TV HUB\nDo not reup! Thanks",
+      "translatedText": "🎬 BỐ ƠI MÌNH ĐI ĐÂU THẾ? 2025 - Tập 12: Picnic ruộng đồng CỰC CHILL, Neko & Audi chơi GAME \"AO TRÌNH\"\n\nTập 12 đưa các bố con đến bản Hoa Tiến, Nghệ An để hòa mình vào cuộc sống thường nhật của người dân nơi đây. Cùng nhau làm chẩm măng chua, nấu các món đặc sản Nghệ An, và tham gia những trò chơi gắn kết tình bố con, mọi khoảng cách dần biến mất, nhường chỗ cho tiếng cười và sự thấu hiểu đầy ấm áp.\n\nChào đón mùa 5 với sự xuất hiện của dàn bố con hoàn toàn mới:  \n👨‍👧 Bố Neko Lê cùng hai cô con gái đáng yêu – Audi và Cati  \n👨‍👦 Bố Duy Hưng và cậu con trai tinh nghịch – Bean  \n👨‍👧 Bố Trung Ruồi và cô con gái hoạt bát – Dứa  \n👨‍👦 Bố Hoàng Trung và cô con gái thông minh - MinHee\n---\n📌 Xem trọn bộ Bố ơi mình đi đâu thế? - Mùa 5, tại đây\n👉    • FULL - Bố Ơi Mình Đi Đâu Thế 2025 | Show H...  \n\n📺 *Đăng ký kênh để không bỏ lỡ tập mới:*  \n👉   TVHub Channel:    / @tvhub  \n\n📢 *Theo dõi chúng tôi trên mạng xã hội:*  \nFacebook:   / booiminhdidau  \nTikTok:   / booiminhdidauthe5  \n---\n#BốƠiMìnhĐiĐâuThế #bốơimìnhđiđâuthế2025  \n#BoOiMinhDiDauThe #BOMDDT  \n#TVHub #VTV3  \n#Cosy #THtrueMILK #VinFast  \n#BambooAirways #Morethanjustaflight\n---\n © Bản quyền thuộc về TV HUB\nDo not reup! Thanks",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku",
+          "text": "   • FULL - Bố Ơi Mình Đi Đâu Thế 2025 | Show H...  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC1VAL4j9yiPQVKMtIS1yUOA",
+          "text": "   / @tvhub  "
+        },
+        {
+          "url": "https://www.facebook.com/booiminhdidau",
+          "text": "  / booiminhdidau  "
+        },
+        {
+          "url": "https://www.tiktok.com/@booiminhdidauthe5",
+          "text": "  / booiminhdidauthe5  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/b%E1%BB%91%C6%A1im%C3%ACnh%C4%91i%C4%91%C3%A2uth%E1%BA%BF",
+          "text": "#BốƠiMìnhĐiĐâuThế"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/b%E1%BB%91%C6%A1im%C3%ACnh%C4%91i%C4%91%C3%A2uth%E1%BA%BF2025",
+          "text": "#bốơimìnhđiđâuthế2025"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/booiminhdidauthe",
+          "text": "#BoOiMinhDiDauThe"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bomddt",
+          "text": "#BOMDDT"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tvhub",
+          "text": "#TVHub"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vtv3",
+          "text": "#VTV3"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/cosy",
+          "text": "#Cosy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thtruemilk",
+          "text": "#THtrueMILK"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vinfast",
+          "text": "#VinFast"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bambooairways",
+          "text": "#BambooAirways"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/morethanjustaflight",
+          "text": "#Morethanjustaflight"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 11,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku",
+      "isPaidContent": false
+    },
+    {
+      "title": "TẬP 3 | BỐ ƠI MÌNH ĐI ĐÂU THẾ | Các Bố Khởi Nghiệp VỠ NỢ, Bean Bị Bố Hưng Mắng, Dứa & Noah Dỗi Nhau",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "pKfFq9l2BBY",
+      "url": "https://www.youtube.com/watch?v=pKfFq9l2BBY&list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku&index=3",
+      "thumbnailUrl": "https://i.ytimg.com/vi/pKfFq9l2BBY/maxresdefault.jpg",
+      "viewCount": 1054426,
+      "date": "2025-06-02T15:00:11.000Z",
+      "likes": 6200,
+      "location": null,
+      "channelName": "TV HUB",
+      "channelUrl": "https://www.youtube.com/@TVHub",
+      "channelUsername": "TVHub",
+      "collaborators": [
+        {
+          "name": "TV HUB",
+          "username": "TVHub",
+          "url": "https://www.youtube.com/@TVHub",
+          "channelId": "UC1VAL4j9yiPQVKMtIS1yUOA"
+        },
+        {
+          "name": "Bố Ơi Mình Đi Đâu Thế",
+          "username": "B%E1%BB%91%C6%A0iM%C3%ACnh%C4%90i%C4%90%C3%A2uTh%E1%BA%BF2025",
+          "url": "https://www.youtube.com/@B%E1%BB%91%C6%A0iM%C3%ACnh%C4%90i%C4%90%C3%A2uTh%E1%BA%BF2025",
+          "channelId": "UC86ia6rq_U_fxSjtX2MHxyA"
+        }
+      ],
+      "channelId": "UC1VAL4j9yiPQVKMtIS1yUOA",
+      "numberOfSubscribers": 793000,
+      "duration": "01:16:20",
+      "commentsCount": 452,
+      "text": "📺 Đón xem Tập mới Bố Ơi Mình Đi Đâu Thế\n21h30 trên YOUTUBE TV HUB\n\n📌 Đăng ký theo dõi kênh YouTube TV HUB:\nhttps://bit.ly/tvhubnetwork\n\n📘 Theo dõi fanpage chính thức: 🔹 BỐ ƠI MÌNH ĐI ĐÂU THẾ: https://www.facebook.com/booiminhdidau\n🌟TikTok Bố ơi mình đi đâu thế? https://www.tiktok.com/@booiminhdidauthe5\n\n📌 Các kênh thuộc TV HUB Entertainment & Media Group:\n🎬 TV HUB SHOW: https://bit.ly/tvhubshow\n🍽️ FOOD HUB: https://bit.ly/tvhubfood\n📺 TV HUB NETWORK: https://bit.ly/tvhubnetwork\n\n#BốƠiMìnhĐiĐâuThế #bốơimìnhđiđâuthế2025\n#BoOiMinhDiDauThe #BOMDDT\n#TVHub #VTV3\n#Cosy #THtrueMILK #VinFast \n#BambooAirways #Morethanjustaflight\n\n__________________________________________________________________\n © Bản quyền thuộc về TV HUB\nDo not reup! Thanks",
+      "translatedText": "📺 Đón xem Tập mới Bố Ơi Mình Đi Đâu Thế\n21h30 trên YOUTUBE TV HUB\n\n📌 Đăng ký theo dõi kênh YouTube TV HUB:\nhttps://bit.ly/tvhubnetwork\n\n📘 Theo dõi fanpage chính thức: 🔹 BỐ ƠI MÌNH ĐI ĐÂU THẾ:   / booiminhdidau  \n🌟TikTok Bố ơi mình đi đâu thế?   / booiminhdidauthe5  \n\n📌 Các kênh thuộc TV HUB Entertainment & Media Group:\n🎬 TV HUB SHOW: https://bit.ly/tvhubshow\n🍽️ FOOD HUB: https://bit.ly/tvhubfood\n📺 TV HUB NETWORK: https://bit.ly/tvhubnetwork\n\n#BốƠiMìnhĐiĐâuThế #bốơimìnhđiđâuthế2025\n#BoOiMinhDiDauThe #BOMDDT\n#TVHub #VTV3\n#Cosy #THtrueMILK #VinFast \n#BambooAirways #Morethanjustaflight\n\n__________________________________________________________________\n © Bản quyền thuộc về TV HUB\nDo not reup! Thanks",
+      "descriptionLinks": [
+        {
+          "url": "https://bit.ly/tvhubnetwork",
+          "text": "https://bit.ly/tvhubnetwork"
+        },
+        {
+          "url": "https://www.facebook.com/booiminhdidau",
+          "text": "  / booiminhdidau  "
+        },
+        {
+          "url": "https://www.tiktok.com/@booiminhdidauthe5",
+          "text": "  / booiminhdidauthe5  "
+        },
+        {
+          "url": "https://bit.ly/tvhubshow",
+          "text": "https://bit.ly/tvhubshow"
+        },
+        {
+          "url": "https://bit.ly/tvhubfood",
+          "text": "https://bit.ly/tvhubfood"
+        },
+        {
+          "url": "https://bit.ly/tvhubnetwork",
+          "text": "https://bit.ly/tvhubnetwork"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/b%E1%BB%91%C6%A1im%C3%ACnh%C4%91i%C4%91%C3%A2uth%E1%BA%BF",
+          "text": "#BốƠiMìnhĐiĐâuThế"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/b%E1%BB%91%C6%A1im%C3%ACnh%C4%91i%C4%91%C3%A2uth%E1%BA%BF2025",
+          "text": "#bốơimìnhđiđâuthế2025"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/booiminhdidauthe",
+          "text": "#BoOiMinhDiDauThe"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bomddt",
+          "text": "#BOMDDT"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tvhub",
+          "text": "#TVHub"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vtv3",
+          "text": "#VTV3"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/cosy",
+          "text": "#Cosy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thtruemilk",
+          "text": "#THtrueMILK"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vinfast",
+          "text": "#VinFast"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bambooairways",
+          "text": "#BambooAirways"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/morethanjustaflight",
+          "text": "#Morethanjustaflight"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 2,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku",
+      "isMonetized": null,
+      "hashtags": [
+        "#VinFast",
+        "#VTV3",
+        "#Cosy"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku",
+      "isPaidContent": false
+    },
+    {
+      "title": "TẬP 4 | BỐ ƠI MÌNH ĐI ĐÂU THẾ | 7749 Kiếp Nạn Của Bố Tập Sự S.T Sơn Thạch Với 5 “Cơn Lốc Nhí”",
+      "translatedTitle": "EPISODE 4 | DAD, WHERE ARE WE GOING? | 7749 Tribulations of a Dad in Training - S.T. Son Thach wi...",
+      "type": "video",
+      "id": "mge2uRKtAN4",
+      "url": "https://www.youtube.com/watch?v=mge2uRKtAN4&list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku&index=4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/mge2uRKtAN4/maxresdefault.jpg",
+      "viewCount": 550698,
+      "date": "2025-06-09T14:15:10.000Z",
+      "likes": 5100,
+      "location": null,
+      "channelName": "TV HUB",
+      "channelUrl": "https://www.youtube.com/@TVHub",
+      "channelUsername": "TVHub",
+      "collaborators": [
+        {
+          "name": "TV HUB",
+          "username": "TVHub",
+          "url": "https://www.youtube.com/@TVHub",
+          "channelId": "UC1VAL4j9yiPQVKMtIS1yUOA"
+        },
+        {
+          "name": "Bố Ơi Mình Đi Đâu Thế",
+          "username": "B%E1%BB%91%C6%A0iM%C3%ACnh%C4%90i%C4%90%C3%A2uTh%E1%BA%BF2025",
+          "url": "https://www.youtube.com/@B%E1%BB%91%C6%A0iM%C3%ACnh%C4%90i%C4%90%C3%A2uTh%E1%BA%BF2025",
+          "channelId": "UC86ia6rq_U_fxSjtX2MHxyA"
+        }
+      ],
+      "channelId": "UC1VAL4j9yiPQVKMtIS1yUOA",
+      "numberOfSubscribers": 793000,
+      "duration": "00:54:41",
+      "commentsCount": 346,
+      "text": "🎬 BỐ ƠI MÌNH ĐI ĐÂU THẾ? 2025 - TẬP 4 - 7749 Kiếp Nạn Của Bố Tập Sự S.T Sơn Thạch Với 5 “Cơn Lốc Nhí”.\n\nChào đón mùa 5 với sự xuất hiện của dàn bố con khách mời hoàn toàn mới:  \n👨‍👧 Bố Neko Lê cùng hai cô con gái đáng yêu – Audi và Cati  \n👨‍👦 Bố Duy Hưng và cậu con trai tinh nghịch – Bean  \n👨‍👧 Bố Trung Ruồi và cô con gái hoạt bát – Dứa  \n👨‍👧 Bố Phan Đinh Tùng cùng cậu con trai lanh lợi - Noah\n\nTập 4 chào đón chào đón ông bố tập sự ST Sơn Thạch \nChưa từng có kinh nghiệm làm bố nhưng lần này, S.T phải \"nhập vai\" toàn tập:\n🍳 Chuẩn bị bữa ăn cho cả hội 10 người\n🎈 Đối mặt với “khối nghỉ hè\" siêu quậy”\n🎢 Vừa học làm bố, vừa vượt thử thách cùng các con\nLiệu một Bố tập sự như S.T có “qua môn” làm bố?\n---\n📌 **Xem trọn bộ Bố ơi mình đi đâu thế? - Mùa 5, tại đây: \n👉 https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku\n\n📺 **Đăng ký kênh để không bỏ lỡ tập mới:**  \n👉   TVHub Channel: https://www.youtube.com/@TVHub\n\n📢 **Theo dõi chúng tôi trên mạng xã hội:**  \nFacebook: https://www.facebook.com/booiminhdidau\nTikTok: https://www.tiktok.com/@booiminhdidauthe5\n---\n#BốƠiMìnhĐiĐâuThế #bốơimìnhđiđâuthế2025  \n#BoOiMinhDiDauThe #BOMDDT  \n#TVHub #VTV3  \n#Cosy #THtrueMILK #VinFast  \n#BambooAirways #Morethanjustaflight\n---\n © Bản quyền thuộc về TV HUB\nDo not reup! Thanks",
+      "translatedText": "🎬 DAD, WHERE ARE WE GOING? 2025 - EPISODE 4 - 7749 Tribulations of a Dad in Training - S.T. Son Thach with 5 \"Little Tornadoes\".\n\nWelcome to Season 5 with a brand new lineup of guest dads and kids:\n👨‍👧 Dad Neko Le and his two adorable daughters – Audi and Cati\n👨‍👦 Dad Duy Hung and his mischievous son – Bean\n👨‍👧 Dad Trung Ruoi and his lively daughter – Dua\n👨‍👧 Dad Phan Dinh Tung and his clever son - Noah\n\nEpisode 4 welcomes aspiring dad ST Son Thach\nWith no prior experience as a father, this time, S.T has to fully immerse himself in the role:\n🍳 Preparing a meal for a group of 10 people\n🎈 Facing a super-naughty \"summer vacation group\"\n🎢 Learning to be a dad while overcoming challenges with his children\nWill a aspiring dad like S.T be able to \"pass the exam\" of being a dad?\n\n--- 📌 *Watch the full episode* Where Are We Going, Dad? - Season 5, here:\n\n👉    • FULL - Bố Ơi Mình Đi Đâu Thế 2025 | Show H...  \n\n📺 *Subscribe to the channel so you don't miss new episodes:* 👉 TVHub Channel:    / @tvhub  \n\n📢 *Follow us on social media:* \nFacebook:   / booiminhdidau  \nTikTok:   / booiminhdidauthe5  \n---\n#WhereAreWeGoingDad? #wherearewegoingdad2025 \n#BoOiMinhDiDauThe #BOMDDT \n#TVHub #VTV3 \n#Cosy #THtrueMILK #VinFast \n#BambooAirways #Morethanjustaflight\n---\n© Copyright belongs to TV HUB\nDo not reupload! Thanks",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku",
+          "text": "   • FULL - Bố Ơi Mình Đi Đâu Thế 2025 | Show H...  "
+        },
+        {
+          "url": "https://www.youtube.com/@TVHub",
+          "text": "   / @tvhub  "
+        },
+        {
+          "url": "https://www.facebook.com/booiminhdidau",
+          "text": "  / booiminhdidau  "
+        },
+        {
+          "url": "https://www.tiktok.com/@booiminhdidauthe5",
+          "text": "  / booiminhdidauthe5  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/wherearewegoingdad",
+          "text": "#WhereAreWeGoingDad"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/wherearewegoingdad2025",
+          "text": "#wherearewegoingdad2025"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/booiminhdidauthe",
+          "text": "#BoOiMinhDiDauThe"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bomddt",
+          "text": "#BOMDDT"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tvhub",
+          "text": "#TVHub"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vtv3",
+          "text": "#VTV3"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/cosy",
+          "text": "#Cosy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thtruemilk",
+          "text": "#THtrueMILK"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vinfast",
+          "text": "#VinFast"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bambooairways",
+          "text": "#BambooAirways"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/morethanjustaflight",
+          "text": "#Morethanjustaflight"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 3,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku",
+      "isMonetized": null,
+      "hashtags": [
+        "#VinFast",
+        "#VTV3",
+        "#Cosy"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku",
+      "isPaidContent": false
+    },
+    {
+      "title": "TẬP 2 | BỐ ƠI MÌNH ĐI ĐÂU THẾ: DỨA và NOAH giận nhau, AUDI khóc nhớ ba NEKO, BEAN nhất quyết ĐỢI BỐ",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "sKarv-10zd4",
+      "url": "https://www.youtube.com/watch?v=sKarv-10zd4&list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku&index=2",
+      "thumbnailUrl": "https://i.ytimg.com/vi/sKarv-10zd4/maxresdefault.jpg",
+      "viewCount": 1071499,
+      "date": "2025-05-26T14:30:06.000Z",
+      "likes": 6500,
+      "location": null,
+      "channelName": "TV HUB",
+      "channelUrl": "https://www.youtube.com/@TVHub",
+      "channelUsername": "TVHub",
+      "collaborators": [
+        {
+          "name": "TV HUB",
+          "username": "TVHub",
+          "url": "https://www.youtube.com/@TVHub",
+          "channelId": "UC1VAL4j9yiPQVKMtIS1yUOA"
+        },
+        {
+          "name": "Bố Ơi Mình Đi Đâu Thế",
+          "username": "B%E1%BB%91%C6%A0iM%C3%ACnh%C4%90i%C4%90%C3%A2uTh%E1%BA%BF2025",
+          "url": "https://www.youtube.com/@B%E1%BB%91%C6%A0iM%C3%ACnh%C4%90i%C4%90%C3%A2uTh%E1%BA%BF2025",
+          "channelId": "UC86ia6rq_U_fxSjtX2MHxyA"
+        }
+      ],
+      "channelId": "UC1VAL4j9yiPQVKMtIS1yUOA",
+      "numberOfSubscribers": 793000,
+      "duration": "00:52:22",
+      "commentsCount": 344,
+      "text": "📺 Đón xem Tập mới Bố Ơi Mình Đi Đâu Thế\n21h30 trên YOUTUBE TV HUB\n\n📌 Đăng ký theo dõi kênh YouTube TV HUB:\nhttps://bit.ly/tvhubnetwork\n\n📘 Theo dõi fanpage chính thức: 🔹 BỐ ƠI MÌNH ĐI ĐÂU THẾ: https://www.facebook.com/booiminhdidau\n🌟TikTok Bố ơi mình đi đâu thế? https://www.tiktok.com/@booiminhdidauthe5\n\n📌 Các kênh thuộc TV HUB Entertainment & Media Group:\n🎬 TV HUB SHOW: https://bit.ly/tvhubshow\n🍽️ FOOD HUB: https://bit.ly/tvhubfood\n📺 TV HUB NETWORK: https://bit.ly/tvhubnetwork\n\n#BốƠiMìnhĐiĐâuThế #bốơimìnhđiđâuthế2025\n#BoOiMinhDiDauThe #BOMDDT\n#TVHub #VTV3\n#Cosy #THtrueMILK #VinFast \n#BambooAirways #Morethanjustaflight\n\n__________________________________________________________________\n © Bản quyền thuộc về TV HUB\nDo not reup! Thanks",
+      "translatedText": "📺 Đón xem Tập mới Bố Ơi Mình Đi Đâu Thế\n21h30 trên YOUTUBE TV HUB\n\n📌 Đăng ký theo dõi kênh YouTube TV HUB:\nhttps://bit.ly/tvhubnetwork\n\n📘 Theo dõi fanpage chính thức: 🔹 BỐ ƠI MÌNH ĐI ĐÂU THẾ:   / booiminhdidau  \n🌟TikTok Bố ơi mình đi đâu thế?   / booiminhdidauthe5  \n\n📌 Các kênh thuộc TV HUB Entertainment & Media Group:\n🎬 TV HUB SHOW: https://bit.ly/tvhubshow\n🍽️ FOOD HUB: https://bit.ly/tvhubfood\n📺 TV HUB NETWORK: https://bit.ly/tvhubnetwork\n\n#BốƠiMìnhĐiĐâuThế #bốơimìnhđiđâuthế2025\n#BoOiMinhDiDauThe #BOMDDT\n#TVHub #VTV3\n#Cosy #THtrueMILK #VinFast \n#BambooAirways #Morethanjustaflight\n\n__________________________________________________________________\n © Bản quyền thuộc về TV HUB\nDo not reup! Thanks",
+      "descriptionLinks": [
+        {
+          "url": "https://bit.ly/tvhubnetwork",
+          "text": "https://bit.ly/tvhubnetwork"
+        },
+        {
+          "url": "https://www.facebook.com/booiminhdidau",
+          "text": "  / booiminhdidau  "
+        },
+        {
+          "url": "https://www.tiktok.com/@booiminhdidauthe5",
+          "text": "  / booiminhdidauthe5  "
+        },
+        {
+          "url": "https://bit.ly/tvhubshow",
+          "text": "https://bit.ly/tvhubshow"
+        },
+        {
+          "url": "https://bit.ly/tvhubfood",
+          "text": "https://bit.ly/tvhubfood"
+        },
+        {
+          "url": "https://bit.ly/tvhubnetwork",
+          "text": "https://bit.ly/tvhubnetwork"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/b%E1%BB%91%C6%A1im%C3%ACnh%C4%91i%C4%91%C3%A2uth%E1%BA%BF",
+          "text": "#BốƠiMìnhĐiĐâuThế"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/b%E1%BB%91%C6%A1im%C3%ACnh%C4%91i%C4%91%C3%A2uth%E1%BA%BF2025",
+          "text": "#bốơimìnhđiđâuthế2025"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/booiminhdidauthe",
+          "text": "#BoOiMinhDiDauThe"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bomddt",
+          "text": "#BOMDDT"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tvhub",
+          "text": "#TVHub"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vtv3",
+          "text": "#VTV3"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/cosy",
+          "text": "#Cosy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thtruemilk",
+          "text": "#THtrueMILK"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vinfast",
+          "text": "#VinFast"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bambooairways",
+          "text": "#BambooAirways"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/morethanjustaflight",
+          "text": "#Morethanjustaflight"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 1,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku",
+      "isMonetized": null,
+      "hashtags": [
+        "#VinFast",
+        "#VTV3",
+        "#Cosy"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLLg_kRqp4Dpq0Gd1snNkyj5FF7hFIpGku",
+      "isPaidContent": false
+    }
+  ]
+}

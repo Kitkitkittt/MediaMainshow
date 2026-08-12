@@ -1,0 +1,3066 @@
+{
+  "actor_name": "streamers/youtube-scraper",
+  "actor_run_id": "STIIyERd6mW9xKeJl",
+  "dataset_id": "m6OGWBLccuEJukZfC",
+  "actor_build_id": "SUk0475fgtCh9zqMt",
+  "retrieved_at": "2026-08-12T14:39:15.554943+07:00",
+  "actor_input": {
+    "maxResults": 30,
+    "maxResultsShorts": 0,
+    "maxResultStreams": 0,
+    "startUrls": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca"
+      }
+    ],
+    "sourceBindingUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca"
+  },
+  "run_metadata": {
+    "status": "SUCCEEDED",
+    "startedAt": "2026-08-12T07:37:47.796Z",
+    "finishedAt": "2026-08-12T07:39:10.907Z",
+    "usageTotalUsd": 0.10400000000000001,
+    "chargedEventCounts": {
+      "result": 27,
+      "date-filter": 0,
+      "ai-video-description": 0,
+      "ai-video-summary": 0
+    }
+  },
+  "items": [
+    {
+      "title": "LA CA HÁT CA | TẬP 4 | “QUẨY BANH NÓC” VỚI TIẾNG TRỐNG PARANƯNG",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "e3zGKMHKn9A",
+      "url": "https://www.youtube.com/watch?v=e3zGKMHKn9A&list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca&index=21",
+      "thumbnailUrl": "https://i.ytimg.com/vi/e3zGKMHKn9A/maxresdefault.jpg",
+      "viewCount": 5429,
+      "date": "2023-07-18T14:00:33.000Z",
+      "likes": 39,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:05:28",
+      "commentsCount": 2,
+      "text": "Khi tiếng trống  PARANƯNG vang lên, hòa với tiếng đàn và tiếng hát đầy nội lực thì cũng là lúc bầu không khí dần nóng lên. Phải nói, khán giả quẩy số 2 thì không ai nhận số 1 👏…😎😎😎\n\n\n#myratran #trungquanidol #junpham #unghoangphuc #ngokienhuy #blacka #lacahatca #htv #gameshowhtv\n\n********************\nHTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://www.youtube.com/user/htvonlinetube?sub_confirmation=1 \n* Website: http://www.htv.com.vn \n* Facebook:https://www.fb.com/htv.hcm\n* Ứng dụng HTVC: https://htvc.tv",
+      "translatedText": "Khi tiếng trống  PARANƯNG vang lên, hòa với tiếng đàn và tiếng hát đầy nội lực thì cũng là lúc bầu không khí dần nóng lên. Phải nói, khán giả quẩy số 2 thì không ai nhận số 1 👏…😎😎😎\n\n\n#myratran #trungquanidol #junpham #unghoangphuc #ngokienhuy #blacka #lacahatca #htv #gameshowhtv\n\n********************\nHTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \nĐăng ký: https://www.youtube.com/user/htvonlin... \nWebsite: http://www.htv.com.vn \nFacebook:https://www.fb.com/htv.hcm\nỨng dụng HTVC: https://htvc.tv",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/myratran",
+          "text": "#myratran"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/trungquanidol",
+          "text": "#trungquanidol"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junpham",
+          "text": "#junpham"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/unghoangphuc",
+          "text": "#unghoangphuc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngokienhuy",
+          "text": "#ngokienhuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/blacka",
+          "text": "#blacka"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lacahatca",
+          "text": "#lacahatca"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#htv"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gameshowhtv",
+          "text": "#gameshowhtv"
+        },
+        {
+          "url": "https://www.youtube.com/user/htvonlinetube?sub_confirmation=1",
+          "text": "https://www.youtube.com/user/htvonlin..."
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.fb.com/htv.hcm",
+          "text": "https://www.fb.com/htv.hcm"
+        },
+        {
+          "url": "https://htvc.tv/",
+          "text": "https://htvc.tv"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 20,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isMonetized": null,
+      "hashtags": [
+        "#gameshowhtv",
+        "#myratran",
+        "#unghoangphuc"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isPaidContent": false
+    },
+    {
+      "title": "LA CÀ HÁT CA | TẬP 3 | BLACKA GỬI GẮM CA KHÚC MỚI DÀNH TẶNG NINH THUẬN",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "ar2xzYoi8BY",
+      "url": "https://www.youtube.com/watch?v=ar2xzYoi8BY&list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca&index=11",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ar2xzYoi8BY/maxresdefault.jpg",
+      "viewCount": 1313,
+      "date": "2023-07-10T09:00:02.000Z",
+      "likes": 30,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:03:40",
+      "commentsCount": 0,
+      "text": "Đây là bài rap mới nhất do chính Blacka sáng tác, thông qua ca khúc Blacka muốn cảm ơn một người anh mà anh cực kỳ yêu quý và cũng gửi lời cảm ơn đến Ninh Thuận vì sự nhiệt tình của các bạn khán giả nơi đây. Mọi người đã dành rất nhiều tình yêu cho Blacka cũng như là chương trình \"La Cà Hát Ca\".\n\n#myratran #trungquanidol #junpham #mewamazing #ngokienhuy #blacka #lacahatca #htv #gameshowhtv\n\n\n********************\nHTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://www.youtube.com/user/htvonlinetube?sub_confirmation=1 \n* Website: http://www.htv.com.vn \n* Facebook:https://www.fb.com/htv.hcm\n* Ứng dụng HTVC: https://htvc.tv",
+      "translatedText": "Đây là bài rap mới nhất do chính Blacka sáng tác, thông qua ca khúc Blacka muốn cảm ơn một người anh mà anh cực kỳ yêu quý và cũng gửi lời cảm ơn đến Ninh Thuận vì sự nhiệt tình của các bạn khán giả nơi đây. Mọi người đã dành rất nhiều tình yêu cho Blacka cũng như là chương trình \"La Cà Hát Ca\".\n\n#myratran #trungquanidol #junpham #mewamazing #ngokienhuy #blacka #lacahatca #htv #gameshowhtv\n\n\n********************\nHTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \nĐăng ký: https://www.youtube.com/user/htvonlin... \nWebsite: http://www.htv.com.vn \nFacebook:https://www.fb.com/htv.hcm\nỨng dụng HTVC: https://htvc.tv",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/myratran",
+          "text": "#myratran"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/trungquanidol",
+          "text": "#trungquanidol"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junpham",
+          "text": "#junpham"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mewamazing",
+          "text": "#mewamazing"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngokienhuy",
+          "text": "#ngokienhuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/blacka",
+          "text": "#blacka"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lacahatca",
+          "text": "#lacahatca"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#htv"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gameshowhtv",
+          "text": "#gameshowhtv"
+        },
+        {
+          "url": "https://www.youtube.com/user/htvonlinetube?sub_confirmation=1",
+          "text": "https://www.youtube.com/user/htvonlin..."
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.fb.com/htv.hcm",
+          "text": "https://www.fb.com/htv.hcm"
+        },
+        {
+          "url": "https://htvc.tv/",
+          "text": "https://htvc.tv"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 10,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isMonetized": null,
+      "hashtags": [
+        "#gameshowhtv",
+        "#myratran",
+        "#mewamazing"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isPaidContent": false
+    },
+    {
+      "title": "LA CÀ HÁT CA | TẬP 5 | THÍCH CÁI CÁCH TEAM LA CÀ \"FLEX\" TÌNH YÊU DÀNH CHO HÀ NỘI 🤩",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "VQFZ8hBX8M4",
+      "url": "https://www.youtube.com/watch?v=VQFZ8hBX8M4&list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca&index=24",
+      "thumbnailUrl": "https://i.ytimg.com/vi/VQFZ8hBX8M4/maxresdefault.jpg",
+      "viewCount": 3826,
+      "date": "2023-07-28T09:52:48.000Z",
+      "likes": 47,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:03:56",
+      "commentsCount": 1,
+      "text": "Thích cái cách team La Cà \"flex\" tình yêu dành cho hà nội quá nha, hát kiểu này, không chỉ hà Nội mà chắc cả nước phải đổ đứ đừ luôn đó 😝 \n\n#myratran #trungquanidol #junpham #tronghieu #ngokienhuy #blacka #lacahatca #htv #gameshowhtv\n\n********************\nHTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://www.youtube.com/user/htvonlinetube?sub_confirmation=1 \n* Website: http://www.htv.com.vn \n* Facebook:https://www.fb.com/htv.hcm\n* Ứng dụng HTVC: https://htvc.tv",
+      "translatedText": "Thích cái cách team La Cà \"flex\" tình yêu dành cho hà nội quá nha, hát kiểu này, không chỉ hà Nội mà chắc cả nước phải đổ đứ đừ luôn đó 😝 \n\n#myratran #trungquanidol #junpham #tronghieu #ngokienhuy #blacka #lacahatca #htv #gameshowhtv\n\n********************\nHTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \nĐăng ký: https://www.youtube.com/user/htvonlin... \nWebsite: http://www.htv.com.vn \nFacebook:https://www.fb.com/htv.hcm\nỨng dụng HTVC: https://htvc.tv",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/myratran",
+          "text": "#myratran"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/trungquanidol",
+          "text": "#trungquanidol"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junpham",
+          "text": "#junpham"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tronghieu",
+          "text": "#tronghieu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngokienhuy",
+          "text": "#ngokienhuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/blacka",
+          "text": "#blacka"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lacahatca",
+          "text": "#lacahatca"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#htv"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gameshowhtv",
+          "text": "#gameshowhtv"
+        },
+        {
+          "url": "https://www.youtube.com/user/htvonlinetube?sub_confirmation=1",
+          "text": "https://www.youtube.com/user/htvonlin..."
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.fb.com/htv.hcm",
+          "text": "https://www.fb.com/htv.hcm"
+        },
+        {
+          "url": "https://htvc.tv/",
+          "text": "https://htvc.tv"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 23,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isMonetized": null,
+      "hashtags": [
+        "#gameshowhtv",
+        "#myratran",
+        "#htv"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isPaidContent": false
+    },
+    {
+      "title": "Khi Trung Quân Idol \"Đánh Thức\" Những Kẻ Mộng Mơ...",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "B2tRR8fGb6c",
+      "url": "https://www.youtube.com/watch?v=B2tRR8fGb6c&list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca&index=18",
+      "thumbnailUrl": "https://i.ytimg.com/vi/B2tRR8fGb6c/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYVCBlKCQwDw==&rs=AOn4CLAmcmTQM-0XdBfgoI3wnl1TLlGPqg",
+      "viewCount": 6325,
+      "date": "2023-07-17T12:48:27.000Z",
+      "likes": 115,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:01:00",
+      "commentsCount": 0,
+      "text": "#htv #lacacahatHTV #musicshowHTV #lchc #HTV7 #TVSHOWHAY #gameshowHTV #htventertainment #TrungQuanIdol #MyraTran #NgoKienHuy #JunPham #blacka #amnhac #UngHoangPhuc  \n\n\"La cà hát ca\" phát sóng lúc 20g30 Chủ Nhật hàng tuần, trên kênh HTV7. \n\n\"La cà hát ca\" là chương trình thực tế kết hợp du lịch trải nghiệm và biểu diễn âm nhạc với sự đồng hành của 5 nghệ sĩ: Ngô Kiến Huy, Jun Phạm, Trung Quân, top 3 Ca sĩ mặt nạ Myra Trần, Á quân Rap Việt Blacka. Chia làm 2 đội \"La cà\" và \"Hát ca\", 5 nghệ sĩ sẽ có hành trình đi qua 3 miền Bắc - Trung - Nam để vừa du Lịch – trải Nghiệm – biểu diễn âm nhạc vừa tìm hiểu và tôn vinh giá trị lao động của người dân Việt Nam.\n\nFull Playlist: https://bit.ly/3JyHZoX \n\n#lacacahatHTV #musicshowHTV #HTV \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://bit.ly/3D9sgXH \n* Website: http://www.htv.com.vn  \n* Facebook: https://www.facebook.com/htv.hcm\n* Ứng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\nLa cà hát ca: https://bit.ly/3JyHZoX   \nƯớc mơ 4 bể là nhà: https://bit.ly/42ithKO  \nHè rồi đi thôi: https://bit.ly/3qP2De8  \nHay hay hên: https://bit.ly/3l2cXNv \nCa sĩ bí ẩn: https://bit.ly/41rxNX0",
+      "translatedText": "#htv #lacacahatHTV #musicshowHTV #lchc #HTV7 #TVSHOWHAY #gameshowHTV #htventertainment #TrungQuanIdol #MyraTran #NgoKienHuy #JunPham #blacka #amnhac #UngHoangPhuc  \n\n\"La cà hát ca\" phát sóng lúc 20g30 Chủ Nhật hàng tuần, trên kênh HTV7. \n\n\"La cà hát ca\" là chương trình thực tế kết hợp du lịch trải nghiệm và biểu diễn âm nhạc với sự đồng hành của 5 nghệ sĩ: Ngô Kiến Huy, Jun Phạm, Trung Quân, top 3 Ca sĩ mặt nạ Myra Trần, Á quân Rap Việt Blacka. Chia làm 2 đội \"La cà\" và \"Hát ca\", 5 nghệ sĩ sẽ có hành trình đi qua 3 miền Bắc - Trung - Nam để vừa du Lịch – trải Nghiệm – biểu diễn âm nhạc vừa tìm hiểu và tôn vinh giá trị lao động của người dân Việt Nam.\n\nFull Playlist: https://bit.ly/3JyHZoX \n\n#lacacahatHTV #musicshowHTV #HTV \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \nĐăng ký: https://bit.ly/3D9sgXH \nWebsite: http://www.htv.com.vn  \nFacebook:   / htv.hcm  \nỨng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\nLa cà hát ca: https://bit.ly/3JyHZoX   \nƯớc mơ 4 bể là nhà: https://bit.ly/42ithKO  \nHè rồi đi thôi: https://bit.ly/3qP2De8  \nHay hay hên: https://bit.ly/3l2cXNv \nCa sĩ bí ẩn: https://bit.ly/41rxNX0",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#htv"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lacacahathtv",
+          "text": "#lacacahatHTV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/musicshowhtv",
+          "text": "#musicshowHTV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lchc",
+          "text": "#lchc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv7",
+          "text": "#HTV7"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tvshowhay",
+          "text": "#TVSHOWHAY"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gameshowhtv",
+          "text": "#gameshowHTV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htventertainment",
+          "text": "#htventertainment"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/trungquanidol",
+          "text": "#TrungQuanIdol"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/myratran",
+          "text": "#MyraTran"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngokienhuy",
+          "text": "#NgoKienHuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junpham",
+          "text": "#JunPham"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/blacka",
+          "text": "#blacka"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/amnhac",
+          "text": "#amnhac"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/unghoangphuc",
+          "text": "#UngHoangPhuc"
+        },
+        {
+          "url": "https://bit.ly/3JyHZoX",
+          "text": "https://bit.ly/3JyHZoX"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lacacahathtv",
+          "text": "#lacacahatHTV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/musicshowhtv",
+          "text": "#musicshowHTV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#HTV"
+        },
+        {
+          "url": "https://bit.ly/3D9sgXH",
+          "text": "https://bit.ly/3D9sgXH"
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.facebook.com/htv.hcm",
+          "text": "  / htv.hcm  "
+        },
+        {
+          "url": "https://htvc.tv/",
+          "text": "https://htvc.tv"
+        },
+        {
+          "url": "https://bit.ly/3JyHZoX",
+          "text": "https://bit.ly/3JyHZoX"
+        },
+        {
+          "url": "https://bit.ly/42ithKO",
+          "text": "https://bit.ly/42ithKO"
+        },
+        {
+          "url": "https://bit.ly/3qP2De8",
+          "text": "https://bit.ly/3qP2De8"
+        },
+        {
+          "url": "https://bit.ly/3l2cXNv",
+          "text": "https://bit.ly/3l2cXNv"
+        },
+        {
+          "url": "https://bit.ly/41rxNX0",
+          "text": "https://bit.ly/41rxNX0"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 17,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isMonetized": null,
+      "hashtags": [
+        "#gameshowHTV",
+        "#MyraTran",
+        "#UngHoangPhuc"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isPaidContent": false
+    },
+    {
+      "title": "LA CÀ HÁT CA | TẬP 2 | Myra Trần đem hit của Đông Nhi “quậy tung” Đà Lạt",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "8gGzIo_vgxA",
+      "url": "https://www.youtube.com/watch?v=8gGzIo_vgxA&list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca&index=7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/8gGzIo_vgxA/maxresdefault.jpg",
+      "viewCount": 3024,
+      "date": "2023-07-04T09:44:01.000Z",
+      "likes": 34,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:04:10",
+      "commentsCount": 0,
+      "text": "Mưa thì mưa chứ quậy thì quậy!! Myra Trần với bản hit 30 ngày yêu của Đông Nhi quẫy hết mình cùng fan Đà Lạt. \n\n#myratran #trungquanidol #junpham #mewamazing #ngokienhuy #blacka #lacahatca #htv #gameshowhtv\n********************\nHTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://www.youtube.com/user/htvonlinetube?sub_confirmation=1 \n* Website: http://www.htv.com.vn \n* Facebook:https://www.fb.com/htv.hcm\n* Ứng dụng HTVC: https://htvc.tv",
+      "translatedText": "Mưa thì mưa chứ quậy thì quậy!! Myra Trần với bản hit 30 ngày yêu của Đông Nhi quẫy hết mình cùng fan Đà Lạt. \n\n#myratran #trungquanidol #junpham #mewamazing #ngokienhuy #blacka #lacahatca #htv #gameshowhtv\n********************\nHTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \nĐăng ký: https://www.youtube.com/user/htvonlin... \nWebsite: http://www.htv.com.vn \nFacebook:https://www.fb.com/htv.hcm\nỨng dụng HTVC: https://htvc.tv",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/myratran",
+          "text": "#myratran"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/trungquanidol",
+          "text": "#trungquanidol"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junpham",
+          "text": "#junpham"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mewamazing",
+          "text": "#mewamazing"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngokienhuy",
+          "text": "#ngokienhuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/blacka",
+          "text": "#blacka"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lacahatca",
+          "text": "#lacahatca"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#htv"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gameshowhtv",
+          "text": "#gameshowhtv"
+        },
+        {
+          "url": "https://www.youtube.com/user/htvonlinetube?sub_confirmation=1",
+          "text": "https://www.youtube.com/user/htvonlin..."
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.fb.com/htv.hcm",
+          "text": "https://www.fb.com/htv.hcm"
+        },
+        {
+          "url": "https://htvc.tv/",
+          "text": "https://htvc.tv"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 6,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isMonetized": null,
+      "hashtags": [
+        "#gameshowhtv",
+        "#myratran",
+        "#mewamazing"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isPaidContent": false
+    },
+    {
+      "title": "Nghe Ưng Hoàng Phúc \"Nói Hết Chân Tình\" Chàng Khờ Thuỷ Chung...",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "-wCGpXvncaY",
+      "url": "https://www.youtube.com/watch?v=-wCGpXvncaY&list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca&index=19",
+      "thumbnailUrl": "https://i.ytimg.com/vi/-wCGpXvncaY/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYVyBlKCMwDw==&rs=AOn4CLA2TitHEbEjeDB7Tj2iBRNnOaOXnw",
+      "viewCount": 6019,
+      "date": "2023-07-17T14:30:01.000Z",
+      "likes": 111,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:00:56",
+      "commentsCount": 2,
+      "text": "#htv #lacacahatHTV #musicshowHTV #lchc #HTV7 #TVSHOWHAY #gameshowHTV #htventertainment #TrungQuanIdol #MyraTran #NgoKienHuy #JunPham #blacka #amnhac #UngHoangPhuc  \n\n\"La cà hát ca\" phát sóng lúc 20g30 Chủ Nhật hàng tuần, trên kênh HTV7. \n\n\"La cà hát ca\" là chương trình thực tế kết hợp du lịch trải nghiệm và biểu diễn âm nhạc với sự đồng hành của 5 nghệ sĩ: Ngô Kiến Huy, Jun Phạm, Trung Quân, top 3 Ca sĩ mặt nạ Myra Trần, Á quân Rap Việt Blacka. Chia làm 2 đội \"La cà\" và \"Hát ca\", 5 nghệ sĩ sẽ có hành trình đi qua 3 miền Bắc - Trung - Nam để vừa du Lịch – trải Nghiệm – biểu diễn âm nhạc vừa tìm hiểu và tôn vinh giá trị lao động của người dân Việt Nam.\n\nFull Playlist: https://bit.ly/3JyHZoX \n\n#lacacahatHTV #musicshowHTV #HTV \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://bit.ly/3D9sgXH \n* Website: http://www.htv.com.vn  \n* Facebook: https://www.facebook.com/htv.hcm\n* Ứng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\nLa cà hát ca: https://bit.ly/3JyHZoX   \nƯớc mơ 4 bể là nhà: https://bit.ly/42ithKO  \nHè rồi đi thôi: https://bit.ly/3qP2De8  \nHay hay hên: https://bit.ly/3l2cXNv \nCa sĩ bí ẩn: https://bit.ly/41rxNX0",
+      "translatedText": "#htv #lacacahatHTV #musicshowHTV #lchc #HTV7 #TVSHOWHAY #gameshowHTV #htventertainment #TrungQuanIdol #MyraTran #NgoKienHuy #JunPham #blacka #amnhac #UngHoangPhuc  \n\n\"La cà hát ca\" phát sóng lúc 20g30 Chủ Nhật hàng tuần, trên kênh HTV7. \n\n\"La cà hát ca\" là chương trình thực tế kết hợp du lịch trải nghiệm và biểu diễn âm nhạc với sự đồng hành của 5 nghệ sĩ: Ngô Kiến Huy, Jun Phạm, Trung Quân, top 3 Ca sĩ mặt nạ Myra Trần, Á quân Rap Việt Blacka. Chia làm 2 đội \"La cà\" và \"Hát ca\", 5 nghệ sĩ sẽ có hành trình đi qua 3 miền Bắc - Trung - Nam để vừa du Lịch – trải Nghiệm – biểu diễn âm nhạc vừa tìm hiểu và tôn vinh giá trị lao động của người dân Việt Nam.\n\nFull Playlist: https://bit.ly/3JyHZoX \n\n#lacacahatHTV #musicshowHTV #HTV \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \nĐăng ký: https://bit.ly/3D9sgXH \nWebsite: http://www.htv.com.vn  \nFacebook:   / htv.hcm  \nỨng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\nLa cà hát ca: https://bit.ly/3JyHZoX   \nƯớc mơ 4 bể là nhà: https://bit.ly/42ithKO  \nHè rồi đi thôi: https://bit.ly/3qP2De8  \nHay hay hên: https://bit.ly/3l2cXNv \nCa sĩ bí ẩn: https://bit.ly/41rxNX0",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#htv"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lacacahathtv",
+          "text": "#lacacahatHTV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/musicshowhtv",
+          "text": "#musicshowHTV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lchc",
+          "text": "#lchc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv7",
+          "text": "#HTV7"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tvshowhay",
+          "text": "#TVSHOWHAY"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gameshowhtv",
+          "text": "#gameshowHTV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htventertainment",
+          "text": "#htventertainment"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/trungquanidol",
+          "text": "#TrungQuanIdol"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/myratran",
+          "text": "#MyraTran"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngokienhuy",
+          "text": "#NgoKienHuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junpham",
+          "text": "#JunPham"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/blacka",
+          "text": "#blacka"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/amnhac",
+          "text": "#amnhac"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/unghoangphuc",
+          "text": "#UngHoangPhuc"
+        },
+        {
+          "url": "https://bit.ly/3JyHZoX",
+          "text": "https://bit.ly/3JyHZoX"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lacacahathtv",
+          "text": "#lacacahatHTV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/musicshowhtv",
+          "text": "#musicshowHTV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#HTV"
+        },
+        {
+          "url": "https://bit.ly/3D9sgXH",
+          "text": "https://bit.ly/3D9sgXH"
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.facebook.com/htv.hcm",
+          "text": "  / htv.hcm  "
+        },
+        {
+          "url": "https://htvc.tv/",
+          "text": "https://htvc.tv"
+        },
+        {
+          "url": "https://bit.ly/3JyHZoX",
+          "text": "https://bit.ly/3JyHZoX"
+        },
+        {
+          "url": "https://bit.ly/42ithKO",
+          "text": "https://bit.ly/42ithKO"
+        },
+        {
+          "url": "https://bit.ly/3qP2De8",
+          "text": "https://bit.ly/3qP2De8"
+        },
+        {
+          "url": "https://bit.ly/3l2cXNv",
+          "text": "https://bit.ly/3l2cXNv"
+        },
+        {
+          "url": "https://bit.ly/41rxNX0",
+          "text": "https://bit.ly/41rxNX0"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 18,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isMonetized": null,
+      "hashtags": [
+        "#gameshowHTV",
+        "#MyraTran",
+        "#UngHoangPhuc"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isPaidContent": false
+    },
+    {
+      "title": "LA CÀ HÁT CA | TẬP 4 | JUN PHẠM KHÓC THÉT KHI BỊ ÉP \"KPI\"",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "kldTtB2O6mI",
+      "url": "https://www.youtube.com/watch?v=kldTtB2O6mI&list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca&index=15",
+      "thumbnailUrl": "https://i.ytimg.com/vi/kldTtB2O6mI/maxresdefault.jpg",
+      "viewCount": 74628,
+      "date": "2023-07-16T15:00:28.000Z",
+      "likes": 704,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "01:19:56",
+      "commentsCount": 117,
+      "text": "\"La cà hát ca\" phát sóng lúc 20g30 Chủ Nhật hàng tuần, trên kênh HTV7. \n\n\"La cà hát ca\" là chương trình thực tế kết hợp du lịch trải nghiệm và biểu diễn âm nhạc với sự đồng hành của 5 nghệ sĩ: Ngô Kiến Huy, Jun Phạm, Trung Quân, top 3 Ca sĩ mặt nạ Myra Trần, Á quân Rap Việt Blacka. Chia làm 2 đội \"La cà\" và \"Hát ca\", 5 nghệ sĩ sẽ có hành trình đi qua 3 miền Bắc - Trung - Nam để vừa du Lịch – trải Nghiệm – biểu diễn âm nhạc vừa tìm hiểu và tôn vinh giá trị lao động của người dân Việt Nam.\n\nFull Playlist: https://bit.ly/3JyHZoX \n\n#lacacahatHTV #musicshowHTV #HTV \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://bit.ly/3D9sgXH \n* Website: http://www.htv.com.vn  \n* Facebook: https://www.facebook.com/htv.hcm\n* Ứng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\nLa cà hát ca: https://bit.ly/3JyHZoX   \nƯớc mơ 4 bể là nhà: https://bit.ly/42ithKO  \nHè rồi đi thôi: https://bit.ly/3qP2De8  \nHay hay hên: https://bit.ly/3l2cXNv \nCa sĩ bí ẩn: https://bit.ly/41rxNX0",
+      "translatedText": "\"La cà hát ca\" phát sóng lúc 20g30 Chủ Nhật hàng tuần, trên kênh HTV7. \n\n\"La cà hát ca\" là chương trình thực tế kết hợp du lịch trải nghiệm và biểu diễn âm nhạc với sự đồng hành của 5 nghệ sĩ: Ngô Kiến Huy, Jun Phạm, Trung Quân, top 3 Ca sĩ mặt nạ Myra Trần, Á quân Rap Việt Blacka. Chia làm 2 đội \"La cà\" và \"Hát ca\", 5 nghệ sĩ sẽ có hành trình đi qua 3 miền Bắc - Trung - Nam để vừa du Lịch – trải Nghiệm – biểu diễn âm nhạc vừa tìm hiểu và tôn vinh giá trị lao động của người dân Việt Nam.\n\nFull Playlist: https://bit.ly/3JyHZoX \n\n#lacacahatHTV #musicshowHTV #HTV \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \nĐăng ký: https://bit.ly/3D9sgXH \nWebsite: http://www.htv.com.vn  \nFacebook:   / htv.hcm  \nỨng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\nLa cà hát ca: https://bit.ly/3JyHZoX   \nƯớc mơ 4 bể là nhà: https://bit.ly/42ithKO  \nHè rồi đi thôi: https://bit.ly/3qP2De8  \nHay hay hên: https://bit.ly/3l2cXNv \nCa sĩ bí ẩn: https://bit.ly/41rxNX0",
+      "descriptionLinks": [
+        {
+          "url": "https://bit.ly/3JyHZoX",
+          "text": "https://bit.ly/3JyHZoX"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lacacahathtv",
+          "text": "#lacacahatHTV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/musicshowhtv",
+          "text": "#musicshowHTV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#HTV"
+        },
+        {
+          "url": "https://bit.ly/3D9sgXH",
+          "text": "https://bit.ly/3D9sgXH"
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.facebook.com/htv.hcm",
+          "text": "  / htv.hcm  "
+        },
+        {
+          "url": "https://htvc.tv/",
+          "text": "https://htvc.tv"
+        },
+        {
+          "url": "https://bit.ly/3JyHZoX",
+          "text": "https://bit.ly/3JyHZoX"
+        },
+        {
+          "url": "https://bit.ly/42ithKO",
+          "text": "https://bit.ly/42ithKO"
+        },
+        {
+          "url": "https://bit.ly/3qP2De8",
+          "text": "https://bit.ly/3qP2De8"
+        },
+        {
+          "url": "https://bit.ly/3l2cXNv",
+          "text": "https://bit.ly/3l2cXNv"
+        },
+        {
+          "url": "https://bit.ly/41rxNX0",
+          "text": "https://bit.ly/41rxNX0"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 14,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isMonetized": null,
+      "hashtags": [
+        "#HTV",
+        "#lacacahatHTV",
+        "#musicshowHTV"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isPaidContent": false
+    },
+    {
+      "title": "LA CÀ HÁT CA | TẬP 2 | TRUNG QUÂN IDOL TỰ NHẬN “NGON” NHẤT ĐÀ LẠT",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "C7hRrH4zIps",
+      "url": "https://www.youtube.com/watch?v=C7hRrH4zIps&list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca&index=9",
+      "thumbnailUrl": "https://i.ytimg.com/vi/C7hRrH4zIps/maxresdefault.jpg",
+      "viewCount": 2266,
+      "date": "2023-07-05T09:00:08.000Z",
+      "likes": 56,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:05:33",
+      "commentsCount": 2,
+      "text": "Đắm chìm dưới màn mưa đêm Đà Lạt, Jun thành công đem ca khúc “Ai lên xứ hoa đào” chạm đến trái tim của “những kẻ tim mộng mơ “. Cơ mà cái kết bỗng “ngộ nghĩnh ngang” khi Trung Quân Idol thốt lên câu….\n\nXem ngay đi, hứa không cười đâu 🤓\n#myratran #trungquanidol #junpham #mewamazing #ngokienhuy #blacka #lacahatca #htv #gameshowhtv\n********************\nHTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://www.youtube.com/user/htvonlinetube?sub_confirmation=1 \n* Website: http://www.htv.com.vn \n* Facebook:https://www.fb.com/htv.hcm\n* Ứng dụng HTVC: https://htvc.tv",
+      "translatedText": "Đắm chìm dưới màn mưa đêm Đà Lạt, Jun thành công đem ca khúc “Ai lên xứ hoa đào” chạm đến trái tim của “những kẻ tim mộng mơ “. Cơ mà cái kết bỗng “ngộ nghĩnh ngang” khi Trung Quân Idol thốt lên câu….\n\nXem ngay đi, hứa không cười đâu 🤓\n#myratran #trungquanidol #junpham #mewamazing #ngokienhuy #blacka #lacahatca #htv #gameshowhtv\n********************\nHTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \nĐăng ký: https://www.youtube.com/user/htvonlin... \nWebsite: http://www.htv.com.vn \nFacebook:https://www.fb.com/htv.hcm\nỨng dụng HTVC: https://htvc.tv",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/myratran",
+          "text": "#myratran"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/trungquanidol",
+          "text": "#trungquanidol"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junpham",
+          "text": "#junpham"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mewamazing",
+          "text": "#mewamazing"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngokienhuy",
+          "text": "#ngokienhuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/blacka",
+          "text": "#blacka"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lacahatca",
+          "text": "#lacahatca"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#htv"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gameshowhtv",
+          "text": "#gameshowhtv"
+        },
+        {
+          "url": "https://www.youtube.com/user/htvonlinetube?sub_confirmation=1",
+          "text": "https://www.youtube.com/user/htvonlin..."
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.fb.com/htv.hcm",
+          "text": "https://www.fb.com/htv.hcm"
+        },
+        {
+          "url": "https://htvc.tv/",
+          "text": "https://htvc.tv"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 8,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isMonetized": null,
+      "hashtags": [
+        "#gameshowhtv",
+        "#myratran",
+        "#mewamazing"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isPaidContent": false
+    },
+    {
+      "title": "LA CA HÁT CA | TẬP 4 | LÀM GỐM THÔI MÀ CÓ CẦN “NGHẸT THỞ” ĐẾN THẾ?",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "owrjStOq_FQ",
+      "url": "https://www.youtube.com/watch?v=owrjStOq_FQ&list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca&index=20",
+      "thumbnailUrl": "https://i.ytimg.com/vi/owrjStOq_FQ/maxresdefault.jpg",
+      "viewCount": 1118,
+      "date": "2023-07-18T10:00:27.000Z",
+      "likes": 13,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:10:04",
+      "commentsCount": 0,
+      "text": "Không biết “những bàn tay vàng trong làng bóc số” đã bóc trúng số nào mà mặt “căng đét” thế! Nhìn thì có vẻ dễ làm mà nhỉ???\n\n#myratran #trungquanidol #junpham #unghoangphuc #ngokienhuy #blacka #lacahatca #htv #gameshowhtv\n\n********************\nHTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://www.youtube.com/user/htvonlinetube?sub_confirmation=1 \n* Website: http://www.htv.com.vn \n* Facebook:https://www.fb.com/htv.hcm\n* Ứng dụng HTVC: https://htvc.tv",
+      "translatedText": "Không biết “những bàn tay vàng trong làng bóc số” đã bóc trúng số nào mà mặt “căng đét” thế! Nhìn thì có vẻ dễ làm mà nhỉ???\n\n#myratran #trungquanidol #junpham #unghoangphuc #ngokienhuy #blacka #lacahatca #htv #gameshowhtv\n\n********************\nHTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \nĐăng ký: https://www.youtube.com/user/htvonlin... \nWebsite: http://www.htv.com.vn \nFacebook:https://www.fb.com/htv.hcm\nỨng dụng HTVC: https://htvc.tv",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/myratran",
+          "text": "#myratran"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/trungquanidol",
+          "text": "#trungquanidol"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junpham",
+          "text": "#junpham"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/unghoangphuc",
+          "text": "#unghoangphuc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngokienhuy",
+          "text": "#ngokienhuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/blacka",
+          "text": "#blacka"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lacahatca",
+          "text": "#lacahatca"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#htv"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gameshowhtv",
+          "text": "#gameshowhtv"
+        },
+        {
+          "url": "https://www.youtube.com/user/htvonlinetube?sub_confirmation=1",
+          "text": "https://www.youtube.com/user/htvonlin..."
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.fb.com/htv.hcm",
+          "text": "https://www.fb.com/htv.hcm"
+        },
+        {
+          "url": "https://htvc.tv/",
+          "text": "https://htvc.tv"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 19,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isMonetized": null,
+      "hashtags": [
+        "#gameshowhtv",
+        "#myratran",
+        "#unghoangphuc"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isPaidContent": false
+    },
+    {
+      "title": "LA CA HÁT CA | TẬP 3 | NINH THUẬN NHẮC JUN NHỚ VỀ \"1900 HỒI ĐÓ\"",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "oPDMC8DP8g4",
+      "url": "https://www.youtube.com/watch?v=oPDMC8DP8g4&list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca&index=14",
+      "thumbnailUrl": "https://i.ytimg.com/vi/oPDMC8DP8g4/maxresdefault.jpg",
+      "viewCount": 1861,
+      "date": "2023-07-11T09:00:25.000Z",
+      "likes": 29,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:05:44",
+      "commentsCount": 1,
+      "text": "Jun Phạm cảm động khi cùng La Cà Hát Ca đến với làng muối Phan Rang - Ninh Thuận. Với tất cả sự mộc mạc, bình dị và rất đời thường đã nhắc cho Jun nhớ về câu chuyện của bản thân mình năm 1900 hồi đó. Đó là những ký nào? Mời quý khán giả cùng xem và lắng nghe nhé!\n\n#myratran #trungquanidol #junpham #unghoangphuc #ngokienhuy #blacka #lacahatca #htv #gameshowhtv\n********************\nHTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://www.youtube.com/user/htvonlinetube?sub_confirmation=1 \n* Website: http://www.htv.com.vn \n* Facebook:https://www.fb.com/htv.hcm\n* Ứng dụng HTVC: https://htvc.tv",
+      "translatedText": "Jun Phạm cảm động khi cùng La Cà Hát Ca đến với làng muối Phan Rang - Ninh Thuận. Với tất cả sự mộc mạc, bình dị và rất đời thường đã nhắc cho Jun nhớ về câu chuyện của bản thân mình năm 1900 hồi đó. Đó là những ký nào? Mời quý khán giả cùng xem và lắng nghe nhé!\n\n#myratran #trungquanidol #junpham #unghoangphuc #ngokienhuy #blacka #lacahatca #htv #gameshowhtv\n********************\nHTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \nĐăng ký: https://www.youtube.com/user/htvonlin... \nWebsite: http://www.htv.com.vn \nFacebook:https://www.fb.com/htv.hcm\nỨng dụng HTVC: https://htvc.tv",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/myratran",
+          "text": "#myratran"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/trungquanidol",
+          "text": "#trungquanidol"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junpham",
+          "text": "#junpham"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/unghoangphuc",
+          "text": "#unghoangphuc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngokienhuy",
+          "text": "#ngokienhuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/blacka",
+          "text": "#blacka"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lacahatca",
+          "text": "#lacahatca"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#htv"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gameshowhtv",
+          "text": "#gameshowhtv"
+        },
+        {
+          "url": "https://www.youtube.com/user/htvonlinetube?sub_confirmation=1",
+          "text": "https://www.youtube.com/user/htvonlin..."
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.fb.com/htv.hcm",
+          "text": "https://www.fb.com/htv.hcm"
+        },
+        {
+          "url": "https://htvc.tv/",
+          "text": "https://htvc.tv"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 13,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isMonetized": null,
+      "hashtags": [
+        "#gameshowhtv",
+        "#myratran",
+        "#unghoangphuc"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isPaidContent": false
+    },
+    {
+      "title": "LA CÀ HÁT CA - TẬP 2: Thanh xuân của chúng ta",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "8poLNRFOrI0",
+      "url": "https://www.youtube.com/watch?v=8poLNRFOrI0&list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca&index=6",
+      "thumbnailUrl": "https://i.ytimg.com/vi/8poLNRFOrI0/maxresdefault.jpg",
+      "viewCount": 52793,
+      "date": "2023-07-02T15:00:08.000Z",
+      "likes": 1300,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "01:24:38",
+      "commentsCount": 29,
+      "text": "LA CÀ HÁT CA - TẬP 2: Thanh xuân của chúng ta | 2/7/2023\n\n\"La cà ca hát\" phát sóng lúc 20g30 Chủ Nhật hàng tuần, trên kênh HTV7. \n\n\"La cà ca hát\" là chương trình thực tế kết hợp du lịch trải nghiệm và biểu diễn âm nhạc với sự đồng hành của 5 nghệ sĩ: Ngô Kiến Huy, Jun Phạm, Trung Quân, top 3 Ca sĩ mặt nạ Myra Trần, Á quân Rap Việt Blacka. Chia làm 2 đội \"La cà\" và \"Hát ca\", 5 nghệ sĩ sẽ có hành trình đi qua 3 miền Bắc - Trung - Nam để vừa du Lịch – trải Nghiệm – biểu diễn âm nhạc vừa tìm hiểu và tôn vinh giá trị lao động của người dân Việt Nam.\n\nFull Playlist: https://bit.ly/3JyHZoX \n\n#lacacahatHTV #musicshowHTV #HTV \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://bit.ly/3D9sgXH \n* Website: http://www.htv.com.vn  \n* Facebook: https://www.facebook.com/htv.hcm\n* Ứng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\nLa cà ca hát: https://bit.ly/3JyHZoX   \nƯớc mơ 4 bể là nhà: https://bit.ly/42ithKO  \nHè rồi đi thôi: https://bit.ly/3qP2De8  \nHay hay hên: https://bit.ly/3l2cXNv \nCa sĩ bí ẩn: https://bit.ly/41rxNX0",
+      "translatedText": "LA CÀ HÁT CA - TẬP 2: Thanh xuân của chúng ta | 2/7/2023\n\n\"La cà ca hát\" phát sóng lúc 20g30 Chủ Nhật hàng tuần, trên kênh HTV7. \n\n\"La cà ca hát\" là chương trình thực tế kết hợp du lịch trải nghiệm và biểu diễn âm nhạc với sự đồng hành của 5 nghệ sĩ: Ngô Kiến Huy, Jun Phạm, Trung Quân, top 3 Ca sĩ mặt nạ Myra Trần, Á quân Rap Việt Blacka. Chia làm 2 đội \"La cà\" và \"Hát ca\", 5 nghệ sĩ sẽ có hành trình đi qua 3 miền Bắc - Trung - Nam để vừa du Lịch – trải Nghiệm – biểu diễn âm nhạc vừa tìm hiểu và tôn vinh giá trị lao động của người dân Việt Nam.\n\nFull Playlist: https://bit.ly/3JyHZoX \n\n#lacacahatHTV #musicshowHTV #HTV \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \nĐăng ký: https://bit.ly/3D9sgXH \nWebsite: http://www.htv.com.vn  \nFacebook:   / htv.hcm  \nỨng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\nLa cà ca hát: https://bit.ly/3JyHZoX   \nƯớc mơ 4 bể là nhà: https://bit.ly/42ithKO  \nHè rồi đi thôi: https://bit.ly/3qP2De8  \nHay hay hên: https://bit.ly/3l2cXNv \nCa sĩ bí ẩn: https://bit.ly/41rxNX0",
+      "descriptionLinks": [
+        {
+          "url": "https://bit.ly/3JyHZoX",
+          "text": "https://bit.ly/3JyHZoX"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lacacahathtv",
+          "text": "#lacacahatHTV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/musicshowhtv",
+          "text": "#musicshowHTV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#HTV"
+        },
+        {
+          "url": "https://bit.ly/3D9sgXH",
+          "text": "https://bit.ly/3D9sgXH"
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.facebook.com/htv.hcm",
+          "text": "  / htv.hcm  "
+        },
+        {
+          "url": "https://htvc.tv/",
+          "text": "https://htvc.tv"
+        },
+        {
+          "url": "https://bit.ly/3JyHZoX",
+          "text": "https://bit.ly/3JyHZoX"
+        },
+        {
+          "url": "https://bit.ly/42ithKO",
+          "text": "https://bit.ly/42ithKO"
+        },
+        {
+          "url": "https://bit.ly/3qP2De8",
+          "text": "https://bit.ly/3qP2De8"
+        },
+        {
+          "url": "https://bit.ly/3l2cXNv",
+          "text": "https://bit.ly/3l2cXNv"
+        },
+        {
+          "url": "https://bit.ly/41rxNX0",
+          "text": "https://bit.ly/41rxNX0"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 5,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isMonetized": null,
+      "hashtags": [
+        "#HTV",
+        "#lacacahatHTV",
+        "#musicshowHTV"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isPaidContent": false
+    },
+    {
+      "title": "LA CÀ HÁT CA | TẬP 3 | ƯNG HOÀNG PHÚC ĐƯỢC FAN \"NỰNG YÊU\" KHI ĐANG LÀM THỬ THÁCH",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "j323rj9yoeA",
+      "url": "https://www.youtube.com/watch?v=j323rj9yoeA&list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca&index=10",
+      "thumbnailUrl": "https://i.ytimg.com/vi/j323rj9yoeA/maxresdefault.jpg",
+      "viewCount": 22010,
+      "date": "2023-07-09T15:00:35.000Z",
+      "likes": 208,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "01:17:46",
+      "commentsCount": 11,
+      "text": "Tuần này, dàn cast La Cà Hát Ca sẽ đến với vùng đất đầy nắng và gió Phan Rang. Tại đây, các nghệ sĩ sẽ có những trải nghiệm cực kỳ thú vị, hoà mình vào cuộc sống và con người nơi đây. Để xem Ưng Hoàng Phúc - khách mời đặc biệt của hành trình này sẽ vượt qua những thử thách của chương trình thế nào nhé!\n\n\"La cà hát ca\" phát sóng lúc 20g30 Chủ Nhật hàng tuần, trên kênh HTV7. \n\n\"La cà hát ca\" là chương trình thực tế kết hợp du lịch trải nghiệm và biểu diễn âm nhạc với sự đồng hành của 5 nghệ sĩ: Ngô Kiến Huy, Jun Phạm, Trung Quân, top 3 Ca sĩ mặt nạ Myra Trần, Á quân Rap Việt Blacka. Chia làm 2 đội \"La cà\" và \"Hát ca\", 5 nghệ sĩ sẽ có hành trình đi qua 3 miền Bắc - Trung - Nam để vừa du Lịch – trải Nghiệm – biểu diễn âm nhạc vừa tìm hiểu và tôn vinh giá trị lao động của người dân Việt Nam.\n\nFull Playlist: https://bit.ly/3JyHZoX \n\n#lacacahatHTV #musicshowHTV #HTV \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://bit.ly/3D9sgXH \n* Website: http://www.htv.com.vn  \n* Facebook: https://www.facebook.com/htv.hcm\n* Ứng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\nLa cà hát ca: https://bit.ly/3JyHZoX   \nƯớc mơ 4 bể là nhà: https://bit.ly/42ithKO  \nHè rồi đi thôi: https://bit.ly/3qP2De8  \nHay hay hên: https://bit.ly/3l2cXNv \nCa sĩ bí ẩn: https://bit.ly/41rxNX0",
+      "translatedText": "Tuần này, dàn cast La Cà Hát Ca sẽ đến với vùng đất đầy nắng và gió Phan Rang. Tại đây, các nghệ sĩ sẽ có những trải nghiệm cực kỳ thú vị, hoà mình vào cuộc sống và con người nơi đây. Để xem Ưng Hoàng Phúc - khách mời đặc biệt của hành trình này sẽ vượt qua những thử thách của chương trình thế nào nhé!\n\n\"La cà hát ca\" phát sóng lúc 20g30 Chủ Nhật hàng tuần, trên kênh HTV7. \n\n\"La cà hát ca\" là chương trình thực tế kết hợp du lịch trải nghiệm và biểu diễn âm nhạc với sự đồng hành của 5 nghệ sĩ: Ngô Kiến Huy, Jun Phạm, Trung Quân, top 3 Ca sĩ mặt nạ Myra Trần, Á quân Rap Việt Blacka. Chia làm 2 đội \"La cà\" và \"Hát ca\", 5 nghệ sĩ sẽ có hành trình đi qua 3 miền Bắc - Trung - Nam để vừa du Lịch – trải Nghiệm – biểu diễn âm nhạc vừa tìm hiểu và tôn vinh giá trị lao động của người dân Việt Nam.\n\nFull Playlist: https://bit.ly/3JyHZoX \n\n#lacacahatHTV #musicshowHTV #HTV \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \nĐăng ký: https://bit.ly/3D9sgXH \nWebsite: http://www.htv.com.vn  \nFacebook:   / htv.hcm  \nỨng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\nLa cà hát ca: https://bit.ly/3JyHZoX   \nƯớc mơ 4 bể là nhà: https://bit.ly/42ithKO  \nHè rồi đi thôi: https://bit.ly/3qP2De8  \nHay hay hên: https://bit.ly/3l2cXNv \nCa sĩ bí ẩn: https://bit.ly/41rxNX0",
+      "descriptionLinks": [
+        {
+          "url": "https://bit.ly/3JyHZoX",
+          "text": "https://bit.ly/3JyHZoX"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lacacahathtv",
+          "text": "#lacacahatHTV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/musicshowhtv",
+          "text": "#musicshowHTV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#HTV"
+        },
+        {
+          "url": "https://bit.ly/3D9sgXH",
+          "text": "https://bit.ly/3D9sgXH"
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.facebook.com/htv.hcm",
+          "text": "  / htv.hcm  "
+        },
+        {
+          "url": "https://htvc.tv/",
+          "text": "https://htvc.tv"
+        },
+        {
+          "url": "https://bit.ly/3JyHZoX",
+          "text": "https://bit.ly/3JyHZoX"
+        },
+        {
+          "url": "https://bit.ly/42ithKO",
+          "text": "https://bit.ly/42ithKO"
+        },
+        {
+          "url": "https://bit.ly/3qP2De8",
+          "text": "https://bit.ly/3qP2De8"
+        },
+        {
+          "url": "https://bit.ly/3l2cXNv",
+          "text": "https://bit.ly/3l2cXNv"
+        },
+        {
+          "url": "https://bit.ly/41rxNX0",
+          "text": "https://bit.ly/41rxNX0"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 9,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isMonetized": null,
+      "hashtags": [
+        "#HTV",
+        "#lacacahatHTV",
+        "#musicshowHTV"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isPaidContent": false
+    },
+    {
+      "title": "LA CÀ HÁT CA | TẬP 6 | 30/7/2023",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "tKksb_J2Z00",
+      "url": "https://www.youtube.com/watch?v=tKksb_J2Z00&list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca&index=25",
+      "thumbnailUrl": "https://i.ytimg.com/vi/tKksb_J2Z00/maxresdefault.jpg",
+      "viewCount": 23020,
+      "date": "2023-07-30T15:00:41.000Z",
+      "likes": 185,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "01:19:47",
+      "commentsCount": 4,
+      "text": "\"La cà hát ca\" phát sóng lúc 20g30 Chủ Nhật hàng tuần, trên kênh HTV7. \n\n\"La cà hát ca\" là chương trình thực tế kết hợp du lịch trải nghiệm và biểu diễn âm nhạc với sự đồng hành của 5 nghệ sĩ: Ngô Kiến Huy, Jun Phạm, Trung Quân, top 3 Ca sĩ mặt nạ Myra Trần, Á quân Rap Việt Blacka. Chia làm 2 đội \"La cà\" và \"Hát ca\", 5 nghệ sĩ sẽ có hành trình đi qua 3 miền Bắc - Trung - Nam để vừa du Lịch – trải Nghiệm – biểu diễn âm nhạc vừa tìm hiểu và tôn vinh giá trị lao động của người dân Việt Nam.\n\nFull Playlist: https://bit.ly/3JyHZoX \n\n#lacacahatHTV #musicshowHTV #HTV \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://bit.ly/3D9sgXH \n* Website: http://www.htv.com.vn  \n* Facebook: https://www.facebook.com/htv.hcm\n* Ứng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\nLa cà hát ca: https://bit.ly/3JyHZoX   \nƯớc mơ 4 bể là nhà: https://bit.ly/42ithKO  \nHè rồi đi thôi: https://bit.ly/3qP2De8  \nHay hay hên: https://bit.ly/3l2cXNv \nCa sĩ bí ẩn: https://bit.ly/41rxNX0",
+      "translatedText": "\"La cà hát ca\" phát sóng lúc 20g30 Chủ Nhật hàng tuần, trên kênh HTV7. \n\n\"La cà hát ca\" là chương trình thực tế kết hợp du lịch trải nghiệm và biểu diễn âm nhạc với sự đồng hành của 5 nghệ sĩ: Ngô Kiến Huy, Jun Phạm, Trung Quân, top 3 Ca sĩ mặt nạ Myra Trần, Á quân Rap Việt Blacka. Chia làm 2 đội \"La cà\" và \"Hát ca\", 5 nghệ sĩ sẽ có hành trình đi qua 3 miền Bắc - Trung - Nam để vừa du Lịch – trải Nghiệm – biểu diễn âm nhạc vừa tìm hiểu và tôn vinh giá trị lao động của người dân Việt Nam.\n\nFull Playlist: https://bit.ly/3JyHZoX \n\n#lacacahatHTV #musicshowHTV #HTV \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \nĐăng ký: https://bit.ly/3D9sgXH \nWebsite: http://www.htv.com.vn  \nFacebook:   / htv.hcm  \nỨng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\nLa cà hát ca: https://bit.ly/3JyHZoX   \nƯớc mơ 4 bể là nhà: https://bit.ly/42ithKO  \nHè rồi đi thôi: https://bit.ly/3qP2De8  \nHay hay hên: https://bit.ly/3l2cXNv \nCa sĩ bí ẩn: https://bit.ly/41rxNX0",
+      "descriptionLinks": [
+        {
+          "url": "https://bit.ly/3JyHZoX",
+          "text": "https://bit.ly/3JyHZoX"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lacacahathtv",
+          "text": "#lacacahatHTV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/musicshowhtv",
+          "text": "#musicshowHTV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#HTV"
+        },
+        {
+          "url": "https://bit.ly/3D9sgXH",
+          "text": "https://bit.ly/3D9sgXH"
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.facebook.com/htv.hcm",
+          "text": "  / htv.hcm  "
+        },
+        {
+          "url": "https://htvc.tv/",
+          "text": "https://htvc.tv"
+        },
+        {
+          "url": "https://bit.ly/3JyHZoX",
+          "text": "https://bit.ly/3JyHZoX"
+        },
+        {
+          "url": "https://bit.ly/42ithKO",
+          "text": "https://bit.ly/42ithKO"
+        },
+        {
+          "url": "https://bit.ly/3qP2De8",
+          "text": "https://bit.ly/3qP2De8"
+        },
+        {
+          "url": "https://bit.ly/3l2cXNv",
+          "text": "https://bit.ly/3l2cXNv"
+        },
+        {
+          "url": "https://bit.ly/41rxNX0",
+          "text": "https://bit.ly/41rxNX0"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 24,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isMonetized": null,
+      "hashtags": [
+        "#HTV",
+        "#lacacahatHTV",
+        "#musicshowHTV"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isPaidContent": false
+    },
+    {
+      "title": "LA CA HÁT CA | TẬP 4 | ƯNG HOÀNG PHÚC NÁO LOẠN NINH THUẬN BẰNG “VẦNG TRĂNG CÔ ĐƠN”",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "fIyv0H0OUgg",
+      "url": "https://www.youtube.com/watch?v=fIyv0H0OUgg&list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca&index=17",
+      "thumbnailUrl": "https://i.ytimg.com/vi/fIyv0H0OUgg/maxresdefault.jpg",
+      "viewCount": 2214,
+      "date": "2023-07-17T11:30:15.000Z",
+      "likes": 32,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:04:48",
+      "commentsCount": 0,
+      "text": "Đưa bản hit “Vầng trăng cô đơn” đến với biển Ninh Thuận, cùng xem là Ưng Hoàng Phúc và “binh đoàn” La cà hát ca đã khuấy động không khí nơi đây thế nào nhé !\n\n#myratran #trungquanidol #junpham #unghoangphuc #ngokienhuy #blacka #lacahatca #htv #gameshowhtv\n*******************\nHTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://www.youtube.com/user/htvonlinetube?sub_confirmation=1 \n* Website: http://www.htv.com.vn \n* Facebook:https://www.fb.com/htv.hcm\n* Ứng dụng HTVC: https://htvc.tv",
+      "translatedText": "Đưa bản hit “Vầng trăng cô đơn” đến với biển Ninh Thuận, cùng xem là Ưng Hoàng Phúc và “binh đoàn” La cà hát ca đã khuấy động không khí nơi đây thế nào nhé !\n\n#myratran #trungquanidol #junpham #unghoangphuc #ngokienhuy #blacka #lacahatca #htv #gameshowhtv\n*******************\nHTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \nĐăng ký: https://www.youtube.com/user/htvonlin... \nWebsite: http://www.htv.com.vn \nFacebook:https://www.fb.com/htv.hcm\nỨng dụng HTVC: https://htvc.tv",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/myratran",
+          "text": "#myratran"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/trungquanidol",
+          "text": "#trungquanidol"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junpham",
+          "text": "#junpham"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/unghoangphuc",
+          "text": "#unghoangphuc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngokienhuy",
+          "text": "#ngokienhuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/blacka",
+          "text": "#blacka"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lacahatca",
+          "text": "#lacahatca"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#htv"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gameshowhtv",
+          "text": "#gameshowhtv"
+        },
+        {
+          "url": "https://www.youtube.com/user/htvonlinetube?sub_confirmation=1",
+          "text": "https://www.youtube.com/user/htvonlin..."
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.fb.com/htv.hcm",
+          "text": "https://www.fb.com/htv.hcm"
+        },
+        {
+          "url": "https://htvc.tv/",
+          "text": "https://htvc.tv"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 16,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isMonetized": null,
+      "hashtags": [
+        "#gameshowhtv",
+        "#myratran",
+        "#unghoangphuc"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isPaidContent": false
+    },
+    {
+      "title": "LA CÀ HÁT CA | TẬP 5 | TRỌNG HIẾU XÚC ĐỘNG CHIA SẺ VỀ BỐ TẠI SÂN KHẤU LA CÀ HÁT CA",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "DfyU9OA7P-4",
+      "url": "https://www.youtube.com/watch?v=DfyU9OA7P-4&list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca&index=27",
+      "thumbnailUrl": "https://i.ytimg.com/vi/DfyU9OA7P-4/maxresdefault.jpg",
+      "viewCount": 634,
+      "date": "2023-08-01T14:00:09.000Z",
+      "likes": 21,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:04:25",
+      "commentsCount": 0,
+      "text": "Ca khúc nào mà lại làm anh chàng nhớ về bố của mình nhỉ 😌\n\n#myratran #trungquanidol #junpham #tronghieu #ngokienhuy #blacka #lacahatca #htv #gameshowhtv\n\n********************\nHTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://www.youtube.com/user/htvonlinetube?sub_confirmation=1 \n* Website: http://www.htv.com.vn \n* Facebook:https://www.fb.com/htv.hcm\n* Ứng dụng HTVC: https://htvc.tv",
+      "translatedText": "Ca khúc nào mà lại làm anh chàng nhớ về bố của mình nhỉ 😌\n\n#myratran #trungquanidol #junpham #tronghieu #ngokienhuy #blacka #lacahatca #htv #gameshowhtv\n\n********************\nHTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \nĐăng ký: https://www.youtube.com/user/htvonlin... \nWebsite: http://www.htv.com.vn \nFacebook:https://www.fb.com/htv.hcm\nỨng dụng HTVC: https://htvc.tv",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/myratran",
+          "text": "#myratran"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/trungquanidol",
+          "text": "#trungquanidol"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junpham",
+          "text": "#junpham"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tronghieu",
+          "text": "#tronghieu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngokienhuy",
+          "text": "#ngokienhuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/blacka",
+          "text": "#blacka"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lacahatca",
+          "text": "#lacahatca"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#htv"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gameshowhtv",
+          "text": "#gameshowhtv"
+        },
+        {
+          "url": "https://www.youtube.com/user/htvonlinetube?sub_confirmation=1",
+          "text": "https://www.youtube.com/user/htvonlin..."
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.fb.com/htv.hcm",
+          "text": "https://www.fb.com/htv.hcm"
+        },
+        {
+          "url": "https://htvc.tv/",
+          "text": "https://htvc.tv"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 26,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isMonetized": null,
+      "hashtags": [
+        "#gameshowhtv",
+        "#myratran",
+        "#htv"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isPaidContent": false
+    },
+    {
+      "title": "LA CÀ HÁT CA - TẬP 1 | BUỔI TRỒNG CÂY \"BẤT ỔN\"CỦA JUN",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "mrqtBSHnR10",
+      "url": "https://www.youtube.com/watch?v=mrqtBSHnR10&list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca&index=3",
+      "thumbnailUrl": "https://i.ytimg.com/vi/mrqtBSHnR10/maxresdefault.jpg",
+      "viewCount": 2133,
+      "date": "2023-06-28T09:00:24.000Z",
+      "likes": 181,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:02:11",
+      "commentsCount": 0,
+      "text": "LA CÀ HÁT CA - TẬP 1 | BUỔI TRỒNG CÂY \"BẤT ỔN\"CỦA JUN\nCái gì cơ? \"Cho cây ăn đất cho người ăn cua\"? Phải nói là cái thanh niên trồng cây chung với Jun là ảnh hề nhất đoàn luôn 😆😆😆\n\n#myratran #trungquanidol #junpham #mewamazing #ngokienhuy #blacka #lacahatca #htv #gameshowhtv\n********************\nHTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://www.youtube.com/user/htvonlinetube?sub_confirmation=1 \n* Website: http://www.htv.com.vn \n* Facebook:https://www.fb.com/htv.hcm\n* Ứng dụng HTVC: https://htvc.tv",
+      "translatedText": "LA CÀ HÁT CA - TẬP 1 | BUỔI TRỒNG CÂY \"BẤT ỔN\"CỦA JUN\nCái gì cơ? \"Cho cây ăn đất cho người ăn cua\"? Phải nói là cái thanh niên trồng cây chung với Jun là ảnh hề nhất đoàn luôn 😆😆😆\n\n#myratran #trungquanidol #junpham #mewamazing #ngokienhuy #blacka #lacahatca #htv #gameshowhtv\n********************\nHTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \nĐăng ký: https://www.youtube.com/user/htvonlin... \nWebsite: http://www.htv.com.vn \nFacebook:https://www.fb.com/htv.hcm\nỨng dụng HTVC: https://htvc.tv",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/myratran",
+          "text": "#myratran"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/trungquanidol",
+          "text": "#trungquanidol"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junpham",
+          "text": "#junpham"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mewamazing",
+          "text": "#mewamazing"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngokienhuy",
+          "text": "#ngokienhuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/blacka",
+          "text": "#blacka"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lacahatca",
+          "text": "#lacahatca"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#htv"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gameshowhtv",
+          "text": "#gameshowhtv"
+        },
+        {
+          "url": "https://www.youtube.com/user/htvonlinetube?sub_confirmation=1",
+          "text": "https://www.youtube.com/user/htvonlin..."
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.fb.com/htv.hcm",
+          "text": "https://www.fb.com/htv.hcm"
+        },
+        {
+          "url": "https://htvc.tv/",
+          "text": "https://htvc.tv"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 2,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isMonetized": null,
+      "hashtags": [
+        "#gameshowhtv",
+        "#myratran",
+        "#mewamazing"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isPaidContent": false
+    },
+    {
+      "title": "LA CÀ HÁT CA | TẬP 5 | NGÔ KIẾN HUY VÀ CHIẾC LƯNG MÚA AEROBIC CỰC DẺO",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "uSGn0ij4YmI",
+      "url": "https://www.youtube.com/watch?v=uSGn0ij4YmI&list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca&index=22",
+      "thumbnailUrl": "https://i.ytimg.com/vi/uSGn0ij4YmI/maxresdefault.jpg",
+      "viewCount": 67144,
+      "date": "2023-07-23T15:00:44.000Z",
+      "likes": 417,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "01:19:28",
+      "commentsCount": 19,
+      "text": "Tuần này, team La Cà Hát Ca lại tiếp tục hành trình đem niềm vui và tiếng hát đến thủ đô Hà Nội. Với khách mời là anh Trọng Hiếu - chàng ca sĩ đa năng sẽ là khách mời của chặng này. Dàn cast và khách mời sẽ trải qua những thử thách \"toát mồ hôi\" để có được những giây phút thăng hoa với âm nhạc tại Bảo tàng Hà Nội.\n\n\"La cà hát ca\" phát sóng lúc 20g30 Chủ Nhật hàng tuần, trên kênh HTV7. \n\n\"La cà hát ca\" là chương trình thực tế kết hợp du lịch trải nghiệm và biểu diễn âm nhạc với sự đồng hành của 5 nghệ sĩ: Ngô Kiến Huy, Jun Phạm, Trung Quân, top 3 Ca sĩ mặt nạ Myra Trần, Á quân Rap Việt Blacka. Chia làm 2 đội \"La cà\" và \"Hát ca\", 5 nghệ sĩ sẽ có hành trình đi qua 3 miền Bắc - Trung - Nam để vừa du Lịch – trải Nghiệm – biểu diễn âm nhạc vừa tìm hiểu và tôn vinh giá trị lao động của người dân Việt Nam.\n\nFull Playlist: https://bit.ly/3JyHZoX \n\n#lacacahatHTV #musicshowHTV #HTV \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://bit.ly/3D9sgXH \n* Website: http://www.htv.com.vn  \n* Facebook: https://www.facebook.com/htv.hcm\n* Ứng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\nLa cà hát ca: https://bit.ly/3JyHZoX   \nƯớc mơ 4 bể là nhà: https://bit.ly/42ithKO  \nHè rồi đi thôi: https://bit.ly/3qP2De8  \nHay hay hên: https://bit.ly/3l2cXNv \nCa sĩ bí ẩn: https://bit.ly/41rxNX0",
+      "translatedText": "Tuần này, team La Cà Hát Ca lại tiếp tục hành trình đem niềm vui và tiếng hát đến thủ đô Hà Nội. Với khách mời là anh Trọng Hiếu - chàng ca sĩ đa năng sẽ là khách mời của chặng này. Dàn cast và khách mời sẽ trải qua những thử thách \"toát mồ hôi\" để có được những giây phút thăng hoa với âm nhạc tại Bảo tàng Hà Nội.\n\n\"La cà hát ca\" phát sóng lúc 20g30 Chủ Nhật hàng tuần, trên kênh HTV7. \n\n\"La cà hát ca\" là chương trình thực tế kết hợp du lịch trải nghiệm và biểu diễn âm nhạc với sự đồng hành của 5 nghệ sĩ: Ngô Kiến Huy, Jun Phạm, Trung Quân, top 3 Ca sĩ mặt nạ Myra Trần, Á quân Rap Việt Blacka. Chia làm 2 đội \"La cà\" và \"Hát ca\", 5 nghệ sĩ sẽ có hành trình đi qua 3 miền Bắc - Trung - Nam để vừa du Lịch – trải Nghiệm – biểu diễn âm nhạc vừa tìm hiểu và tôn vinh giá trị lao động của người dân Việt Nam.\n\nFull Playlist: https://bit.ly/3JyHZoX \n\n#lacacahatHTV #musicshowHTV #HTV \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \nĐăng ký: https://bit.ly/3D9sgXH \nWebsite: http://www.htv.com.vn  \nFacebook:   / htv.hcm  \nỨng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\nLa cà hát ca: https://bit.ly/3JyHZoX   \nƯớc mơ 4 bể là nhà: https://bit.ly/42ithKO  \nHè rồi đi thôi: https://bit.ly/3qP2De8  \nHay hay hên: https://bit.ly/3l2cXNv \nCa sĩ bí ẩn: https://bit.ly/41rxNX0",
+      "descriptionLinks": [
+        {
+          "url": "https://bit.ly/3JyHZoX",
+          "text": "https://bit.ly/3JyHZoX"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lacacahathtv",
+          "text": "#lacacahatHTV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/musicshowhtv",
+          "text": "#musicshowHTV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#HTV"
+        },
+        {
+          "url": "https://bit.ly/3D9sgXH",
+          "text": "https://bit.ly/3D9sgXH"
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.facebook.com/htv.hcm",
+          "text": "  / htv.hcm  "
+        },
+        {
+          "url": "https://htvc.tv/",
+          "text": "https://htvc.tv"
+        },
+        {
+          "url": "https://bit.ly/3JyHZoX",
+          "text": "https://bit.ly/3JyHZoX"
+        },
+        {
+          "url": "https://bit.ly/42ithKO",
+          "text": "https://bit.ly/42ithKO"
+        },
+        {
+          "url": "https://bit.ly/3qP2De8",
+          "text": "https://bit.ly/3qP2De8"
+        },
+        {
+          "url": "https://bit.ly/3l2cXNv",
+          "text": "https://bit.ly/3l2cXNv"
+        },
+        {
+          "url": "https://bit.ly/41rxNX0",
+          "text": "https://bit.ly/41rxNX0"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 21,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isMonetized": null,
+      "hashtags": [
+        "#HTV",
+        "#lacacahatHTV",
+        "#musicshowHTV"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isPaidContent": false
+    },
+    {
+      "title": "LA CÀ HÁT CA | TẬP 1| MYRA TRẦN - TRUNG QUÂN IDOL XANH XÁM MẶT MÀY KHI BỊ THẦY GIÁO NHẮC TÊN",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "Ur-O91HqH0M",
+      "url": "https://www.youtube.com/watch?v=Ur-O91HqH0M&list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca&index=4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Ur-O91HqH0M/maxresdefault.jpg",
+      "viewCount": 2104,
+      "date": "2023-06-29T03:00:11.000Z",
+      "likes": 159,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:03:21",
+      "commentsCount": 2,
+      "text": "Chán cầm mic, 2 ca sĩ đình đám chuyển qua cầm súng???\n\n#myratran #trungquanidol #junpham #mewamazing #ngokienhuy #blacka #lacahatca #htv #gameshowhtv\n********************\nHTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://www.youtube.com/user/htvonlinetube?sub_confirmation=1 \n* Website: http://www.htv.com.vn \n* Facebook:https://www.fb.com/htv.hcm\n* Ứng dụng HTVC: https://htvc.tv",
+      "translatedText": "Chán cầm mic, 2 ca sĩ đình đám chuyển qua cầm súng???\n\n#myratran #trungquanidol #junpham #mewamazing #ngokienhuy #blacka #lacahatca #htv #gameshowhtv\n********************\nHTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \nĐăng ký: https://www.youtube.com/user/htvonlin... \nWebsite: http://www.htv.com.vn \nFacebook:https://www.fb.com/htv.hcm\nỨng dụng HTVC: https://htvc.tv",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/myratran",
+          "text": "#myratran"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/trungquanidol",
+          "text": "#trungquanidol"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junpham",
+          "text": "#junpham"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mewamazing",
+          "text": "#mewamazing"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngokienhuy",
+          "text": "#ngokienhuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/blacka",
+          "text": "#blacka"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lacahatca",
+          "text": "#lacahatca"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#htv"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gameshowhtv",
+          "text": "#gameshowhtv"
+        },
+        {
+          "url": "https://www.youtube.com/user/htvonlinetube?sub_confirmation=1",
+          "text": "https://www.youtube.com/user/htvonlin..."
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.fb.com/htv.hcm",
+          "text": "https://www.fb.com/htv.hcm"
+        },
+        {
+          "url": "https://htvc.tv/",
+          "text": "https://htvc.tv"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 3,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isMonetized": null,
+      "hashtags": [
+        "#gameshowhtv",
+        "#myratran",
+        "#mewamazing"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isPaidContent": false
+    },
+    {
+      "title": "LA CÀ HÁT CA | TẬP 1 | XUẤT HIỆN \"PHI THUYỀN\" VÀ \"ĐOÀN DU HÀNH GIA\" TẠI LA CÀ HÁT CA",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "Y9f8JutiBgc",
+      "url": "https://www.youtube.com/watch?v=Y9f8JutiBgc&list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca&index=1",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Y9f8JutiBgc/maxresdefault.jpg",
+      "viewCount": 84913,
+      "date": "2023-06-25T15:00:18.000Z",
+      "likes": 1200,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "01:20:50",
+      "commentsCount": 60,
+      "text": "Với số phát sóng đầu tiên, “hành tinh” La Cà Hát Ca đã có những trải nghiệm vô cùng tuyệt vời tại trái đất. Cùng các du hành gia đoán chờ xem họ sẽ làm những gì đặc biệt tại chương trình này nhé !!!\n\n#htv #gameshowhtv #myratran #trungquanidol #junpham #mewamazing #ngokienhuy #blacka #lacahatca \n\n\n***************\nLa cà hát ca\" phát sóng lúc 20g30 Chủ Nhật hàng tuần, trên kênh HTV7. \n\n\"La cà hát ca\" là chương trình thực tế kết hợp du lịch trải nghiệm và biểu diễn âm nhạc với sự đồng hành của 5 nghệ sĩ: Ngô Kiến Huy, Jun Phạm, Trung Quân, top 3 Ca sĩ mặt nạ Myra Trần, Á quân Rap Việt Blacka. Chia làm 2 đội \"La cà\" và \"Hát ca\", 5 nghệ sĩ sẽ có hành trình đi qua 3 miền Bắc - Trung - Nam để vừa du Lịch – trải Nghiệm – biểu diễn âm nhạc vừa tìm hiểu và tôn vinh giá trị lao động của người dân Việt Nam.\n\n#lacahatca #musicshowHTV #lchc  \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://bit.ly/3D9sgXH \n* Website: http://www.htv.com.vn  \n* Facebook: https://www.facebook.com/htv.hcm\n* Ứng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\nChọn ai đây: https://bit.ly/3yAg2as \nƯớc mơ 4 bể là nhà: https://bit.ly/42ithKO \nNhanh như chớp: https://bit.ly/3p33S5g\nHay hay hên: https://bit.ly/3l2cXNv \nKhông gian cảm xúc: https://bit.ly/41mr8wW\n\n\"La cà hát ca\" phát sóng lúc 20g30 Chủ Nhật hàng tuần, trên kênh HTV7. \n\n\"La cà hát ca\" là chương trình thực tế kết hợp du lịch trải nghiệm và biểu diễn âm nhạc với sự đồng hành của 5 nghệ sĩ: Ngô Kiến Huy, Jun Phạm, Trung Quân, top 3 Ca sĩ mặt nạ Myra Trần, Á quân Rap Việt Blacka. Chia làm 2 đội \"La cà\" và \"Hát ca\", 5 nghệ sĩ sẽ có hành trình đi qua 3 miền Bắc - Trung - Nam để vừa du Lịch – trải Nghiệm – biểu diễn âm nhạc vừa tìm hiểu và tôn vinh giá trị lao động của người dân Việt Nam.\n\n#lacahatca #musicshowHTV #lchc  \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://bit.ly/3D9sgXH \n* Website: http://www.htv.com.vn  \n* Facebook: https://www.facebook.com/htv.hcm\n* Ứng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\nChọn ai đây: https://bit.ly/3yAg2as \nƯớc mơ 4 bể là nhà: https://bit.ly/42ithKO \nNhanh như chớp: https://bit.ly/3p33S5g\nHay hay hên: https://bit.ly/3l2cXNv \nKhông gian cảm xúc: https://bit.ly/41mr8wW",
+      "translatedText": "Với số phát sóng đầu tiên, “hành tinh” La Cà Hát Ca đã có những trải nghiệm vô cùng tuyệt vời tại trái đất. Cùng các du hành gia đoán chờ xem họ sẽ làm những gì đặc biệt tại chương trình này nhé !!!\n\n#htv #gameshowhtv #myratran #trungquanidol #junpham #mewamazing #ngokienhuy #blacka #lacahatca \n\n\n***************\nLa cà hát ca\" phát sóng lúc 20g30 Chủ Nhật hàng tuần, trên kênh HTV7. \n\n\"La cà hát ca\" là chương trình thực tế kết hợp du lịch trải nghiệm và biểu diễn âm nhạc với sự đồng hành của 5 nghệ sĩ: Ngô Kiến Huy, Jun Phạm, Trung Quân, top 3 Ca sĩ mặt nạ Myra Trần, Á quân Rap Việt Blacka. Chia làm 2 đội \"La cà\" và \"Hát ca\", 5 nghệ sĩ sẽ có hành trình đi qua 3 miền Bắc - Trung - Nam để vừa du Lịch – trải Nghiệm – biểu diễn âm nhạc vừa tìm hiểu và tôn vinh giá trị lao động của người dân Việt Nam.\n\n#lacahatca #musicshowHTV #lchc  \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \nĐăng ký: https://bit.ly/3D9sgXH \nWebsite: http://www.htv.com.vn  \nFacebook:   / htv.hcm  \nỨng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\nChọn ai đây: https://bit.ly/3yAg2as \nƯớc mơ 4 bể là nhà: https://bit.ly/42ithKO \nNhanh như chớp: https://bit.ly/3p33S5g\nHay hay hên: https://bit.ly/3l2cXNv \nKhông gian cảm xúc: https://bit.ly/41mr8wW\n\n\"La cà hát ca\" phát sóng lúc 20g30 Chủ Nhật hàng tuần, trên kênh HTV7. \n\n\"La cà hát ca\" là chương trình thực tế kết hợp du lịch trải nghiệm và biểu diễn âm nhạc với sự đồng hành của 5 nghệ sĩ: Ngô Kiến Huy, Jun Phạm, Trung Quân, top 3 Ca sĩ mặt nạ Myra Trần, Á quân Rap Việt Blacka. Chia làm 2 đội \"La cà\" và \"Hát ca\", 5 nghệ sĩ sẽ có hành trình đi qua 3 miền Bắc - Trung - Nam để vừa du Lịch – trải Nghiệm – biểu diễn âm nhạc vừa tìm hiểu và tôn vinh giá trị lao động của người dân Việt Nam.\n\n#lacahatca #musicshowHTV #lchc  \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \nĐăng ký: https://bit.ly/3D9sgXH \nWebsite: http://www.htv.com.vn  \nFacebook:   / htv.hcm  \nỨng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\nChọn ai đây: https://bit.ly/3yAg2as \nƯớc mơ 4 bể là nhà: https://bit.ly/42ithKO \nNhanh như chớp: https://bit.ly/3p33S5g\nHay hay hên: https://bit.ly/3l2cXNv \nKhông gian cảm xúc: https://bit.ly/41mr8wW",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#htv"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gameshowhtv",
+          "text": "#gameshowhtv"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/myratran",
+          "text": "#myratran"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/trungquanidol",
+          "text": "#trungquanidol"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junpham",
+          "text": "#junpham"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mewamazing",
+          "text": "#mewamazing"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngokienhuy",
+          "text": "#ngokienhuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/blacka",
+          "text": "#blacka"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lacahatca",
+          "text": "#lacahatca"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lacahatca",
+          "text": "#lacahatca"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/musicshowhtv",
+          "text": "#musicshowHTV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lchc",
+          "text": "#lchc"
+        },
+        {
+          "url": "https://bit.ly/3D9sgXH",
+          "text": "https://bit.ly/3D9sgXH"
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.facebook.com/htv.hcm",
+          "text": "  / htv.hcm  "
+        },
+        {
+          "url": "https://htvc.tv/",
+          "text": "https://htvc.tv"
+        },
+        {
+          "url": "https://bit.ly/3yAg2as",
+          "text": "https://bit.ly/3yAg2as"
+        },
+        {
+          "url": "https://bit.ly/42ithKO",
+          "text": "https://bit.ly/42ithKO"
+        },
+        {
+          "url": "https://bit.ly/3p33S5g",
+          "text": "https://bit.ly/3p33S5g"
+        },
+        {
+          "url": "https://bit.ly/3l2cXNv",
+          "text": "https://bit.ly/3l2cXNv"
+        },
+        {
+          "url": "https://bit.ly/41mr8wW",
+          "text": "https://bit.ly/41mr8wW"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lacahatca",
+          "text": "#lacahatca"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/musicshowhtv",
+          "text": "#musicshowHTV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lchc",
+          "text": "#lchc"
+        },
+        {
+          "url": "https://bit.ly/3D9sgXH",
+          "text": "https://bit.ly/3D9sgXH"
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.facebook.com/htv.hcm",
+          "text": "  / htv.hcm  "
+        },
+        {
+          "url": "https://htvc.tv/",
+          "text": "https://htvc.tv"
+        },
+        {
+          "url": "https://bit.ly/3yAg2as",
+          "text": "https://bit.ly/3yAg2as"
+        },
+        {
+          "url": "https://bit.ly/42ithKO",
+          "text": "https://bit.ly/42ithKO"
+        },
+        {
+          "url": "https://bit.ly/3p33S5g",
+          "text": "https://bit.ly/3p33S5g"
+        },
+        {
+          "url": "https://bit.ly/3l2cXNv",
+          "text": "https://bit.ly/3l2cXNv"
+        },
+        {
+          "url": "https://bit.ly/41mr8wW",
+          "text": "https://bit.ly/41mr8wW"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 0,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isMonetized": null,
+      "hashtags": [
+        "#gameshowhtv",
+        "#myratran",
+        "#mewamazing"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isPaidContent": false
+    },
+    {
+      "title": "LA CÀ HÁT CA | TẬP 1 | 🤣 LA CÀ BAND MUỐN \"VÀO ĐỜI\" HÁT CA 🤣",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "a0mmirqe2pk",
+      "url": "https://www.youtube.com/watch?v=a0mmirqe2pk&list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca&index=2",
+      "thumbnailUrl": "https://i.ytimg.com/vi/a0mmirqe2pk/maxresdefault.jpg",
+      "viewCount": 19014,
+      "date": "2023-06-28T12:00:01.000Z",
+      "likes": 329,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:06:30",
+      "commentsCount": 6,
+      "text": "La cà Band đã chính thức đổ bộ, hội tụ toàn những gương mặt \"kiwi kiwi\" thui, nghe bảo band muốn \"vào đời\", ai mà có dè mấy thành viên bất ổn quá 😆\n\n#myratran #trungquanidol #junpham #mewamazing #ngokienhuy #blacka #lacahatca #htv #gameshowhtv\n********************\nHTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://www.youtube.com/user/htvonlinetube?sub_confirmation=1 \n* Website: http://www.htv.com.vn \n* Facebook:https://www.fb.com/htv.hcm\n* Ứng dụng HTVC: https://htvc.tv",
+      "translatedText": "La cà Band đã chính thức đổ bộ, hội tụ toàn những gương mặt \"kiwi kiwi\" thui, nghe bảo band muốn \"vào đời\", ai mà có dè mấy thành viên bất ổn quá 😆\n\n#myratran #trungquanidol #junpham #mewamazing #ngokienhuy #blacka #lacahatca #htv #gameshowhtv\n********************\nHTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \nĐăng ký: https://www.youtube.com/user/htvonlin... \nWebsite: http://www.htv.com.vn \nFacebook:https://www.fb.com/htv.hcm\nỨng dụng HTVC: https://htvc.tv",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/myratran",
+          "text": "#myratran"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/trungquanidol",
+          "text": "#trungquanidol"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junpham",
+          "text": "#junpham"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mewamazing",
+          "text": "#mewamazing"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngokienhuy",
+          "text": "#ngokienhuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/blacka",
+          "text": "#blacka"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lacahatca",
+          "text": "#lacahatca"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#htv"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gameshowhtv",
+          "text": "#gameshowhtv"
+        },
+        {
+          "url": "https://www.youtube.com/user/htvonlinetube?sub_confirmation=1",
+          "text": "https://www.youtube.com/user/htvonlin..."
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.fb.com/htv.hcm",
+          "text": "https://www.fb.com/htv.hcm"
+        },
+        {
+          "url": "https://htvc.tv/",
+          "text": "https://htvc.tv"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 1,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isMonetized": null,
+      "hashtags": [
+        "#gameshowhtv",
+        "#myratran",
+        "#mewamazing"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isPaidContent": false
+    },
+    {
+      "title": "LA CÀ HÁT CA | TẬP 6 | PHIÊN BẢN NÀY LẠ MÀ BÁNH CUỐN ĐẾN KHÔNG NGỜ",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "-iUM_VFRk5U",
+      "url": "https://www.youtube.com/watch?v=-iUM_VFRk5U&list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca&index=28",
+      "thumbnailUrl": "https://i.ytimg.com/vi/-iUM_VFRk5U/maxresdefault.jpg",
+      "viewCount": 12208,
+      "date": "2023-08-02T11:30:00.000Z",
+      "likes": 77,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:02:21",
+      "commentsCount": 8,
+      "text": "\"Người ôm pháo hoa\" được team La Cà Hát Ca thể hiện lạ mà bánh cuốn đến không ngờ.\n\n#myratran #trungquanidol #junpham #mewamazing #ngokienhuy #blacka #lacahatca #htv #gameshowhtv\n********************\nHTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://www.youtube.com/user/htvonlinetube?sub_confirmation=1 \n* Website: http://www.htv.com.vn \n* Facebook:https://www.fb.com/htv.hcm\n* Ứng dụng HTVC: https://htvc.tv",
+      "translatedText": "\"Người ôm pháo hoa\" được team La Cà Hát Ca thể hiện lạ mà bánh cuốn đến không ngờ.\n\n#myratran #trungquanidol #junpham #mewamazing #ngokienhuy #blacka #lacahatca #htv #gameshowhtv\n********************\nHTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \nĐăng ký: https://www.youtube.com/user/htvonlin... \nWebsite: http://www.htv.com.vn \nFacebook:https://www.fb.com/htv.hcm\nỨng dụng HTVC: https://htvc.tv",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/myratran",
+          "text": "#myratran"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/trungquanidol",
+          "text": "#trungquanidol"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junpham",
+          "text": "#junpham"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mewamazing",
+          "text": "#mewamazing"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngokienhuy",
+          "text": "#ngokienhuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/blacka",
+          "text": "#blacka"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lacahatca",
+          "text": "#lacahatca"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#htv"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gameshowhtv",
+          "text": "#gameshowhtv"
+        },
+        {
+          "url": "https://www.youtube.com/user/htvonlinetube?sub_confirmation=1",
+          "text": "https://www.youtube.com/user/htvonlin..."
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.fb.com/htv.hcm",
+          "text": "https://www.fb.com/htv.hcm"
+        },
+        {
+          "url": "https://htvc.tv/",
+          "text": "https://htvc.tv"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 27,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isMonetized": null,
+      "hashtags": [
+        "#gameshowhtv",
+        "#myratran",
+        "#mewamazing"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isPaidContent": false
+    },
+    {
+      "title": "LA CÀ HÁT CA | TẬP 1 | HÀNH TRÌNH LÊN \"PHI THUYỀN TƯỞNG TƯỢNG\" ĐẦY BẤT ỔN",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "TP-RdBtBv6o",
+      "url": "https://www.youtube.com/watch?v=TP-RdBtBv6o&list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca&index=5",
+      "thumbnailUrl": "https://i.ytimg.com/vi/TP-RdBtBv6o/maxresdefault.jpg",
+      "viewCount": 1946,
+      "date": "2023-06-28T15:30:07.000Z",
+      "likes": 84,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:02:38",
+      "commentsCount": 0,
+      "text": "Phi thuyền phiên bản kinh phí thấp quy mô cỡ nào mà Myra Trần nói \"mình Trung Quân ngồi là hết rồi\"😆😆😆\n\n#myratran #trungquanidol #junpham #mewamazing #ngokienhuy #blacka #lacahatca #htv #gameshowhtv\n********************\nHTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://www.youtube.com/user/htvonlinetube?sub_confirmation=1 \n* Website: http://www.htv.com.vn \n* Facebook:https://www.fb.com/htv.hcm\n* Ứng dụng HTVC: https://htvc.tv",
+      "translatedText": "Phi thuyền phiên bản kinh phí thấp quy mô cỡ nào mà Myra Trần nói \"mình Trung Quân ngồi là hết rồi\"😆😆😆\n\n#myratran #trungquanidol #junpham #mewamazing #ngokienhuy #blacka #lacahatca #htv #gameshowhtv\n********************\nHTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \nĐăng ký: https://www.youtube.com/user/htvonlin... \nWebsite: http://www.htv.com.vn \nFacebook:https://www.fb.com/htv.hcm\nỨng dụng HTVC: https://htvc.tv",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/myratran",
+          "text": "#myratran"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/trungquanidol",
+          "text": "#trungquanidol"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junpham",
+          "text": "#junpham"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mewamazing",
+          "text": "#mewamazing"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngokienhuy",
+          "text": "#ngokienhuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/blacka",
+          "text": "#blacka"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lacahatca",
+          "text": "#lacahatca"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#htv"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gameshowhtv",
+          "text": "#gameshowhtv"
+        },
+        {
+          "url": "https://www.youtube.com/user/htvonlinetube?sub_confirmation=1",
+          "text": "https://www.youtube.com/user/htvonlin..."
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.fb.com/htv.hcm",
+          "text": "https://www.fb.com/htv.hcm"
+        },
+        {
+          "url": "https://htvc.tv/",
+          "text": "https://htvc.tv"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 4,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isMonetized": null,
+      "hashtags": [
+        "#gameshowhtv",
+        "#myratran",
+        "#mewamazing"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isPaidContent": false
+    },
+    {
+      "title": "LA CA HÁT CA | TẬP 5 | LA CA HÁT CA | TẬP 5| ANH HAI BÁO NGÔ KIẾN HUY ĐẨY ĐỒNG ĐỘI VÀO \"KIẾP NẠN 81\"",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "8lTMF4KHaOU",
+      "url": "https://www.youtube.com/watch?v=8lTMF4KHaOU&list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca&index=30",
+      "thumbnailUrl": "https://i.ytimg.com/vi/8lTMF4KHaOU/maxresdefault.jpg",
+      "viewCount": 1154,
+      "date": "2023-08-07T04:26:48.000Z",
+      "likes": 31,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:05:27",
+      "commentsCount": 0,
+      "text": "Mới vừa đặt chân đến thủ đô mà anh hai Ngô Kiến Huy đã báo quá báo. Còn gì trớ trêu hơn khi vừa là người đưa ra thử thách người khác, vừa là người hỗ trợ thực hiện thử thách 🤣 Mời mọi người cùng xem lại khoảnh khắc vượt qua kiếp nạn thứ 81 của dàn cast trong màn biểu diễn trượt ván qua người nhé!!\n\n#myratran #trungquanidol #junpham #tronghieu #ngokienhuy #blacka #lacahatca #htv #gameshowhtv\n********************\nHTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://www.youtube.com/user/htvonlinetube?sub_confirmation=1 \n* Website: http://www.htv.com.vn \n* Facebook:https://www.fb.com/htv.hcm\n* Ứng dụng HTVC: https://htvc.tv",
+      "translatedText": "Mới vừa đặt chân đến thủ đô mà anh hai Ngô Kiến Huy đã báo quá báo. Còn gì trớ trêu hơn khi vừa là người đưa ra thử thách người khác, vừa là người hỗ trợ thực hiện thử thách 🤣 Mời mọi người cùng xem lại khoảnh khắc vượt qua kiếp nạn thứ 81 của dàn cast trong màn biểu diễn trượt ván qua người nhé!!\n\n#myratran #trungquanidol #junpham #tronghieu #ngokienhuy #blacka #lacahatca #htv #gameshowhtv\n********************\nHTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \nĐăng ký: https://www.youtube.com/user/htvonlin... \nWebsite: http://www.htv.com.vn \nFacebook:https://www.fb.com/htv.hcm\nỨng dụng HTVC: https://htvc.tv",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/myratran",
+          "text": "#myratran"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/trungquanidol",
+          "text": "#trungquanidol"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junpham",
+          "text": "#junpham"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tronghieu",
+          "text": "#tronghieu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngokienhuy",
+          "text": "#ngokienhuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/blacka",
+          "text": "#blacka"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lacahatca",
+          "text": "#lacahatca"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#htv"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gameshowhtv",
+          "text": "#gameshowhtv"
+        },
+        {
+          "url": "https://www.youtube.com/user/htvonlinetube?sub_confirmation=1",
+          "text": "https://www.youtube.com/user/htvonlin..."
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.fb.com/htv.hcm",
+          "text": "https://www.fb.com/htv.hcm"
+        },
+        {
+          "url": "https://htvc.tv/",
+          "text": "https://htvc.tv"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 29,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isMonetized": null,
+      "hashtags": [
+        "#gameshowhtv",
+        "#myratran",
+        "#htv"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isPaidContent": false
+    },
+    {
+      "title": "Bạn Có Muốn Mãi Mãi Là Cô Bé Vô Tư Của Một Ai Đó?",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "jAHfjRa5MOU",
+      "url": "https://www.youtube.com/watch?v=jAHfjRa5MOU&list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca&index=16",
+      "thumbnailUrl": "https://i.ytimg.com/vi/jAHfjRa5MOU/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBDKEEwDw==&rs=AOn4CLBhjOL3tfshMrvYuJ-4vx6Bz7U_lw",
+      "viewCount": 3232,
+      "date": "2023-07-17T08:27:34.000Z",
+      "likes": 54,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:00:57",
+      "commentsCount": 0,
+      "text": "#htv #lacacahatHTV #musicshowHTV #lchc #HTV7 #TVSHOWHAY #gameshowHTV #htventertainment #TrungQuanIdol #MyraTran #NgoKienHuy #JunPham #blacka #amnhac #UngHoangPhuc  \n\n\"La cà hát ca\" phát sóng lúc 20g30 Chủ Nhật hàng tuần, trên kênh HTV7. \n\n\"La cà hát ca\" là chương trình thực tế kết hợp du lịch trải nghiệm và biểu diễn âm nhạc với sự đồng hành của 5 nghệ sĩ: Ngô Kiến Huy, Jun Phạm, Trung Quân, top 3 Ca sĩ mặt nạ Myra Trần, Á quân Rap Việt Blacka. Chia làm 2 đội \"La cà\" và \"Hát ca\", 5 nghệ sĩ sẽ có hành trình đi qua 3 miền Bắc - Trung - Nam để vừa du Lịch – trải Nghiệm – biểu diễn âm nhạc vừa tìm hiểu và tôn vinh giá trị lao động của người dân Việt Nam.\n\nFull Playlist: https://bit.ly/3JyHZoX \n\n#lacacahatHTV #musicshowHTV #HTV \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://bit.ly/3D9sgXH \n* Website: http://www.htv.com.vn  \n* Facebook: https://www.facebook.com/htv.hcm\n* Ứng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\nLa cà hát ca: https://bit.ly/3JyHZoX   \nƯớc mơ 4 bể là nhà: https://bit.ly/42ithKO  \nHè rồi đi thôi: https://bit.ly/3qP2De8  \nHay hay hên: https://bit.ly/3l2cXNv \nCa sĩ bí ẩn: https://bit.ly/41rxNX0",
+      "translatedText": "#htv #lacacahatHTV #musicshowHTV #lchc #HTV7 #TVSHOWHAY #gameshowHTV #htventertainment #TrungQuanIdol #MyraTran #NgoKienHuy #JunPham #blacka #amnhac #UngHoangPhuc  \n\n\"La cà hát ca\" phát sóng lúc 20g30 Chủ Nhật hàng tuần, trên kênh HTV7. \n\n\"La cà hát ca\" là chương trình thực tế kết hợp du lịch trải nghiệm và biểu diễn âm nhạc với sự đồng hành của 5 nghệ sĩ: Ngô Kiến Huy, Jun Phạm, Trung Quân, top 3 Ca sĩ mặt nạ Myra Trần, Á quân Rap Việt Blacka. Chia làm 2 đội \"La cà\" và \"Hát ca\", 5 nghệ sĩ sẽ có hành trình đi qua 3 miền Bắc - Trung - Nam để vừa du Lịch – trải Nghiệm – biểu diễn âm nhạc vừa tìm hiểu và tôn vinh giá trị lao động của người dân Việt Nam.\n\nFull Playlist: https://bit.ly/3JyHZoX \n\n#lacacahatHTV #musicshowHTV #HTV \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \nĐăng ký: https://bit.ly/3D9sgXH \nWebsite: http://www.htv.com.vn  \nFacebook:   / htv.hcm  \nỨng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\nLa cà hát ca: https://bit.ly/3JyHZoX   \nƯớc mơ 4 bể là nhà: https://bit.ly/42ithKO  \nHè rồi đi thôi: https://bit.ly/3qP2De8  \nHay hay hên: https://bit.ly/3l2cXNv \nCa sĩ bí ẩn: https://bit.ly/41rxNX0",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#htv"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lacacahathtv",
+          "text": "#lacacahatHTV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/musicshowhtv",
+          "text": "#musicshowHTV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lchc",
+          "text": "#lchc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv7",
+          "text": "#HTV7"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tvshowhay",
+          "text": "#TVSHOWHAY"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gameshowhtv",
+          "text": "#gameshowHTV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htventertainment",
+          "text": "#htventertainment"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/trungquanidol",
+          "text": "#TrungQuanIdol"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/myratran",
+          "text": "#MyraTran"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngokienhuy",
+          "text": "#NgoKienHuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junpham",
+          "text": "#JunPham"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/blacka",
+          "text": "#blacka"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/amnhac",
+          "text": "#amnhac"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/unghoangphuc",
+          "text": "#UngHoangPhuc"
+        },
+        {
+          "url": "https://bit.ly/3JyHZoX",
+          "text": "https://bit.ly/3JyHZoX"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lacacahathtv",
+          "text": "#lacacahatHTV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/musicshowhtv",
+          "text": "#musicshowHTV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#HTV"
+        },
+        {
+          "url": "https://bit.ly/3D9sgXH",
+          "text": "https://bit.ly/3D9sgXH"
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.facebook.com/htv.hcm",
+          "text": "  / htv.hcm  "
+        },
+        {
+          "url": "https://htvc.tv/",
+          "text": "https://htvc.tv"
+        },
+        {
+          "url": "https://bit.ly/3JyHZoX",
+          "text": "https://bit.ly/3JyHZoX"
+        },
+        {
+          "url": "https://bit.ly/42ithKO",
+          "text": "https://bit.ly/42ithKO"
+        },
+        {
+          "url": "https://bit.ly/3qP2De8",
+          "text": "https://bit.ly/3qP2De8"
+        },
+        {
+          "url": "https://bit.ly/3l2cXNv",
+          "text": "https://bit.ly/3l2cXNv"
+        },
+        {
+          "url": "https://bit.ly/41rxNX0",
+          "text": "https://bit.ly/41rxNX0"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 15,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isMonetized": null,
+      "hashtags": [
+        "#gameshowHTV",
+        "#MyraTran",
+        "#UngHoangPhuc"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isPaidContent": false
+    },
+    {
+      "title": "LA CA HÁT CA | TẬP 3 | CHO MYRA TRẦN GẦN NINH THUẬN THÊM CHÚT NỮA",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "mpkDUuCOkfU",
+      "url": "https://www.youtube.com/watch?v=mpkDUuCOkfU&list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca&index=12",
+      "thumbnailUrl": "https://i.ytimg.com/vi/mpkDUuCOkfU/maxresdefault.jpg",
+      "viewCount": 5516,
+      "date": "2023-07-11T08:00:17.000Z",
+      "likes": 62,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:06:42",
+      "commentsCount": 4,
+      "text": "Giọng hát của Myra Trần đã chinh phục quý vị khán giả Ninh Thuận bằng chính giọng hát tuyệt vời của mình. Đến mức khán giả phải cho 10 điểm vì màn biểu diễn xuất sắc và đầy cảm xúc này.\n\n#myratran #trungquanidol #junpham #unghoangphuc #ngokienhuy #blacka #lacahatca #htv #gameshowhtv\n\n********************\nHTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://www.youtube.com/user/htvonlinetube?sub_confirmation=1 \n* Website: http://www.htv.com.vn \n* Facebook:https://www.fb.com/htv.hcm\n* Ứng dụng HTVC: https://htvc.tv",
+      "translatedText": "Giọng hát của Myra Trần đã chinh phục quý vị khán giả Ninh Thuận bằng chính giọng hát tuyệt vời của mình. Đến mức khán giả phải cho 10 điểm vì màn biểu diễn xuất sắc và đầy cảm xúc này.\n\n#myratran #trungquanidol #junpham #unghoangphuc #ngokienhuy #blacka #lacahatca #htv #gameshowhtv\n\n********************\nHTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \nĐăng ký: https://www.youtube.com/user/htvonlin... \nWebsite: http://www.htv.com.vn \nFacebook:https://www.fb.com/htv.hcm\nỨng dụng HTVC: https://htvc.tv",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/myratran",
+          "text": "#myratran"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/trungquanidol",
+          "text": "#trungquanidol"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junpham",
+          "text": "#junpham"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/unghoangphuc",
+          "text": "#unghoangphuc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngokienhuy",
+          "text": "#ngokienhuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/blacka",
+          "text": "#blacka"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lacahatca",
+          "text": "#lacahatca"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#htv"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gameshowhtv",
+          "text": "#gameshowhtv"
+        },
+        {
+          "url": "https://www.youtube.com/user/htvonlinetube?sub_confirmation=1",
+          "text": "https://www.youtube.com/user/htvonlin..."
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.fb.com/htv.hcm",
+          "text": "https://www.fb.com/htv.hcm"
+        },
+        {
+          "url": "https://htvc.tv/",
+          "text": "https://htvc.tv"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 11,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isMonetized": null,
+      "hashtags": [
+        "#gameshowhtv",
+        "#myratran",
+        "#unghoangphuc"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isPaidContent": false
+    },
+    {
+      "title": "LA CA HÁT CA | TẬP 5 | TRỌNG HIẾU BÙNG NỔ SÂN KHẤU LA CÀ HÁT CA",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "L-mEt6NfURE",
+      "url": "https://www.youtube.com/watch?v=L-mEt6NfURE&list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca&index=26",
+      "thumbnailUrl": "https://i.ytimg.com/vi/L-mEt6NfURE/maxresdefault.jpg",
+      "viewCount": 1216,
+      "date": "2023-07-31T13:00:14.000Z",
+      "likes": 13,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:04:21",
+      "commentsCount": 0,
+      "text": "Sân khấu La cà hát ca được một phen bùng nổ khi ca sỹ Trọng Hiếu trình diễn ca khúc \"Dare to Be Different\" từng giúp nam ca sĩ giành vị trí thứ ba tại chung kết Eurovision Song Contest 2023\n\n#myratran #trungquanidol #junpham #tronghieu #ngokienhuy #blacka #lacahatca #htv #gameshowhtv #htvofficial #htventertainment \n\n\"La cà hát ca\" phát sóng lúc 20g30 Chủ Nhật hàng tuần, trên kênh HTV7. \n\n\"La cà hát ca\" là chương trình thực tế kết hợp du lịch trải nghiệm và biểu diễn âm nhạc với sự đồng hành của 5 nghệ sĩ: Ngô Kiến Huy, Jun Phạm, Trung Quân, top 3 Ca sĩ mặt nạ Myra Trần, Á quân Rap Việt Blacka. Chia làm 2 đội \"La cà\" và \"Hát ca\", 5 nghệ sĩ sẽ có hành trình đi qua 3 miền Bắc - Trung - Nam để vừa du Lịch – trải Nghiệm – biểu diễn âm nhạc vừa tìm hiểu và tôn vinh giá trị lao động của người dân Việt Nam.\n\nFull Playlist: https://bit.ly/3JyHZoX \n\n#lacacahatHTV #musicshowHTV #HTV \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://bit.ly/3D9sgXH \n* Website: http://www.htv.com.vn  \n* Facebook: https://www.facebook.com/htv.hcm\n* Ứng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\nLa cà hát ca: https://bit.ly/3JyHZoX   \nƯớc mơ 4 bể là nhà: https://bit.ly/42ithKO  \nHè rồi đi thôi: https://bit.ly/3qP2De8  \nHay hay hên: https://bit.ly/3l2cXNv \nCa sĩ bí ẩn: https://bit.ly/41rxNX0",
+      "translatedText": "Sân khấu La cà hát ca được một phen bùng nổ khi ca sỹ Trọng Hiếu trình diễn ca khúc \"Dare to Be Different\" từng giúp nam ca sĩ giành vị trí thứ ba tại chung kết Eurovision Song Contest 2023\n\n#myratran #trungquanidol #junpham #tronghieu #ngokienhuy #blacka #lacahatca #htv #gameshowhtv #htvofficial #htventertainment \n\n\"La cà hát ca\" phát sóng lúc 20g30 Chủ Nhật hàng tuần, trên kênh HTV7. \n\n\"La cà hát ca\" là chương trình thực tế kết hợp du lịch trải nghiệm và biểu diễn âm nhạc với sự đồng hành của 5 nghệ sĩ: Ngô Kiến Huy, Jun Phạm, Trung Quân, top 3 Ca sĩ mặt nạ Myra Trần, Á quân Rap Việt Blacka. Chia làm 2 đội \"La cà\" và \"Hát ca\", 5 nghệ sĩ sẽ có hành trình đi qua 3 miền Bắc - Trung - Nam để vừa du Lịch – trải Nghiệm – biểu diễn âm nhạc vừa tìm hiểu và tôn vinh giá trị lao động của người dân Việt Nam.\n\nFull Playlist: https://bit.ly/3JyHZoX \n\n#lacacahatHTV #musicshowHTV #HTV \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \nĐăng ký: https://bit.ly/3D9sgXH \nWebsite: http://www.htv.com.vn  \nFacebook:   / htv.hcm  \nỨng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\nLa cà hát ca: https://bit.ly/3JyHZoX   \nƯớc mơ 4 bể là nhà: https://bit.ly/42ithKO  \nHè rồi đi thôi: https://bit.ly/3qP2De8  \nHay hay hên: https://bit.ly/3l2cXNv \nCa sĩ bí ẩn: https://bit.ly/41rxNX0",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/myratran",
+          "text": "#myratran"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/trungquanidol",
+          "text": "#trungquanidol"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junpham",
+          "text": "#junpham"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tronghieu",
+          "text": "#tronghieu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngokienhuy",
+          "text": "#ngokienhuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/blacka",
+          "text": "#blacka"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lacahatca",
+          "text": "#lacahatca"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#htv"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gameshowhtv",
+          "text": "#gameshowhtv"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htvofficial",
+          "text": "#htvofficial"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htventertainment",
+          "text": "#htventertainment"
+        },
+        {
+          "url": "https://bit.ly/3JyHZoX",
+          "text": "https://bit.ly/3JyHZoX"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lacacahathtv",
+          "text": "#lacacahatHTV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/musicshowhtv",
+          "text": "#musicshowHTV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#HTV"
+        },
+        {
+          "url": "https://bit.ly/3D9sgXH",
+          "text": "https://bit.ly/3D9sgXH"
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.facebook.com/htv.hcm",
+          "text": "  / htv.hcm  "
+        },
+        {
+          "url": "https://htvc.tv/",
+          "text": "https://htvc.tv"
+        },
+        {
+          "url": "https://bit.ly/3JyHZoX",
+          "text": "https://bit.ly/3JyHZoX"
+        },
+        {
+          "url": "https://bit.ly/42ithKO",
+          "text": "https://bit.ly/42ithKO"
+        },
+        {
+          "url": "https://bit.ly/3qP2De8",
+          "text": "https://bit.ly/3qP2De8"
+        },
+        {
+          "url": "https://bit.ly/3l2cXNv",
+          "text": "https://bit.ly/3l2cXNv"
+        },
+        {
+          "url": "https://bit.ly/41rxNX0",
+          "text": "https://bit.ly/41rxNX0"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 25,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isMonetized": null,
+      "hashtags": [
+        "#gameshowhtv",
+        "#myratran",
+        "#htv"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isPaidContent": false
+    },
+    {
+      "title": "LA CÀ HÁT CA  | TẬP 3 | CHÚ BA VÀ BÉ NĂM LÁCH LUẬT HÁI NHO 🤣",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "tCGYNoj8c3M",
+      "url": "https://www.youtube.com/watch?v=tCGYNoj8c3M&list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca&index=13",
+      "thumbnailUrl": "https://i.ytimg.com/vi/tCGYNoj8c3M/maxresdefault.jpg",
+      "viewCount": 1345,
+      "date": "2023-07-11T14:00:40.000Z",
+      "likes": 24,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:03:50",
+      "commentsCount": 0,
+      "text": "Với tài năng thao túng tâm lý của \"Chú Ba\" Huy đã thuyết phục được \"công chúa vườn nho\" lách luật để giảnh lấy chiến thắng. Quả đúng là một bản thiết kế vĩ đại, mọi người rất yêu 😆\n\n#myratran #trungquanidol #junpham #unghoangphuc #ngokienhuy #blacka #lacahatca #htv #gameshowhtv\n\n********************\nHTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://www.youtube.com/user/htvonlinetube?sub_confirmation=1 \n* Website: http://www.htv.com.vn \n* Facebook:https://www.fb.com/htv.hcm\n* Ứng dụng HTVC: https://htvc.tv",
+      "translatedText": "Với tài năng thao túng tâm lý của \"Chú Ba\" Huy đã thuyết phục được \"công chúa vườn nho\" lách luật để giảnh lấy chiến thắng. Quả đúng là một bản thiết kế vĩ đại, mọi người rất yêu 😆\n\n#myratran #trungquanidol #junpham #unghoangphuc #ngokienhuy #blacka #lacahatca #htv #gameshowhtv\n\n********************\nHTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \nĐăng ký: https://www.youtube.com/user/htvonlin... \nWebsite: http://www.htv.com.vn \nFacebook:https://www.fb.com/htv.hcm\nỨng dụng HTVC: https://htvc.tv",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/myratran",
+          "text": "#myratran"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/trungquanidol",
+          "text": "#trungquanidol"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junpham",
+          "text": "#junpham"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/unghoangphuc",
+          "text": "#unghoangphuc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngokienhuy",
+          "text": "#ngokienhuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/blacka",
+          "text": "#blacka"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lacahatca",
+          "text": "#lacahatca"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#htv"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gameshowhtv",
+          "text": "#gameshowhtv"
+        },
+        {
+          "url": "https://www.youtube.com/user/htvonlinetube?sub_confirmation=1",
+          "text": "https://www.youtube.com/user/htvonlin..."
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.fb.com/htv.hcm",
+          "text": "https://www.fb.com/htv.hcm"
+        },
+        {
+          "url": "https://htvc.tv/",
+          "text": "https://htvc.tv"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 12,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isMonetized": null,
+      "hashtags": [
+        "#gameshowhtv",
+        "#myratran",
+        "#unghoangphuc"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isPaidContent": false
+    },
+    {
+      "title": "LA CÀ HÁT CA | TẬP 2 | ĐẠI HỌC ĐÀ LẠT KHUẤY ĐỘNG VỚI \"THANH XUÂN CỦA CHÚNG TA\"",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "SUZTMbXQznw",
+      "url": "https://www.youtube.com/watch?v=SUZTMbXQznw&list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca&index=8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/SUZTMbXQznw/maxresdefault.jpg",
+      "viewCount": 3810,
+      "date": "2023-07-05T01:00:09.000Z",
+      "likes": 52,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:04:06",
+      "commentsCount": 0,
+      "text": "Chủ đề \"Thanh xuân có bạn\", và thanh xuân của các bạn sinh viên trường Đại học Đà Lạt hôm nay đã có một \"thanh xuân của chúng ta\" cực đã, cực khuấy động với dàn cast chương trình.\n\n#myratran #trungquanidol #junpham #mewamazing #ngokienhuy #blacka #lacahatca #htv #gameshowhtv #baoanh \n\n\"La cà ca hát\" phát sóng lúc 20g30 Chủ Nhật hàng tuần, trên kênh HTV7. \n\n\"La cà ca hát\" là chương trình thực tế kết hợp du lịch trải nghiệm và biểu diễn âm nhạc với sự đồng hành của 5 nghệ sĩ: Ngô Kiến Huy, Jun Phạm, Trung Quân, top 3 Ca sĩ mặt nạ Myra Trần, Á quân Rap Việt Blacka. Chia làm 2 đội \"La cà\" và \"Hát ca\", 5 nghệ sĩ sẽ có hành trình đi qua 3 miền Bắc - Trung - Nam để vừa du Lịch – trải Nghiệm – biểu diễn âm nhạc vừa tìm hiểu và tôn vinh giá trị lao động của người dân Việt Nam.\n\nFull Playlist: https://bit.ly/3JyHZoX \n\n#lacacahatHTV #musicshowHTV #HTV \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://bit.ly/3D9sgXH \n* Website: http://www.htv.com.vn  \n* Facebook: https://www.facebook.com/htv.hcm\n* Ứng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\nLa cà ca hát: https://bit.ly/3JyHZoX   \nƯớc mơ 4 bể là nhà: https://bit.ly/42ithKO  \nHè rồi đi thôi: https://bit.ly/3qP2De8  \nHay hay hên: https://bit.ly/3l2cXNv \nCa sĩ bí ẩn: https://bit.ly/41rxNX0",
+      "translatedText": "Chủ đề \"Thanh xuân có bạn\", và thanh xuân của các bạn sinh viên trường Đại học Đà Lạt hôm nay đã có một \"thanh xuân của chúng ta\" cực đã, cực khuấy động với dàn cast chương trình.\n\n#myratran #trungquanidol #junpham #mewamazing #ngokienhuy #blacka #lacahatca #htv #gameshowhtv #baoanh \n\n\"La cà ca hát\" phát sóng lúc 20g30 Chủ Nhật hàng tuần, trên kênh HTV7. \n\n\"La cà ca hát\" là chương trình thực tế kết hợp du lịch trải nghiệm và biểu diễn âm nhạc với sự đồng hành của 5 nghệ sĩ: Ngô Kiến Huy, Jun Phạm, Trung Quân, top 3 Ca sĩ mặt nạ Myra Trần, Á quân Rap Việt Blacka. Chia làm 2 đội \"La cà\" và \"Hát ca\", 5 nghệ sĩ sẽ có hành trình đi qua 3 miền Bắc - Trung - Nam để vừa du Lịch – trải Nghiệm – biểu diễn âm nhạc vừa tìm hiểu và tôn vinh giá trị lao động của người dân Việt Nam.\n\nFull Playlist: https://bit.ly/3JyHZoX \n\n#lacacahatHTV #musicshowHTV #HTV \n********************\n👉 HTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \nĐăng ký: https://bit.ly/3D9sgXH \nWebsite: http://www.htv.com.vn  \nFacebook:   / htv.hcm  \nỨng dụng HTVC: https://htvc.tv\n\n👉 Các show hấp dẫn khác\nLa cà ca hát: https://bit.ly/3JyHZoX   \nƯớc mơ 4 bể là nhà: https://bit.ly/42ithKO  \nHè rồi đi thôi: https://bit.ly/3qP2De8  \nHay hay hên: https://bit.ly/3l2cXNv \nCa sĩ bí ẩn: https://bit.ly/41rxNX0",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/myratran",
+          "text": "#myratran"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/trungquanidol",
+          "text": "#trungquanidol"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junpham",
+          "text": "#junpham"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mewamazing",
+          "text": "#mewamazing"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngokienhuy",
+          "text": "#ngokienhuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/blacka",
+          "text": "#blacka"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lacahatca",
+          "text": "#lacahatca"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#htv"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gameshowhtv",
+          "text": "#gameshowhtv"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/baoanh",
+          "text": "#baoanh"
+        },
+        {
+          "url": "https://bit.ly/3JyHZoX",
+          "text": "https://bit.ly/3JyHZoX"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lacacahathtv",
+          "text": "#lacacahatHTV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/musicshowhtv",
+          "text": "#musicshowHTV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#HTV"
+        },
+        {
+          "url": "https://bit.ly/3D9sgXH",
+          "text": "https://bit.ly/3D9sgXH"
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.facebook.com/htv.hcm",
+          "text": "  / htv.hcm  "
+        },
+        {
+          "url": "https://htvc.tv/",
+          "text": "https://htvc.tv"
+        },
+        {
+          "url": "https://bit.ly/3JyHZoX",
+          "text": "https://bit.ly/3JyHZoX"
+        },
+        {
+          "url": "https://bit.ly/42ithKO",
+          "text": "https://bit.ly/42ithKO"
+        },
+        {
+          "url": "https://bit.ly/3qP2De8",
+          "text": "https://bit.ly/3qP2De8"
+        },
+        {
+          "url": "https://bit.ly/3l2cXNv",
+          "text": "https://bit.ly/3l2cXNv"
+        },
+        {
+          "url": "https://bit.ly/41rxNX0",
+          "text": "https://bit.ly/41rxNX0"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 7,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isMonetized": null,
+      "hashtags": [
+        "#gameshowhtv",
+        "#myratran",
+        "#baoanh"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isPaidContent": false
+    },
+    {
+      "title": "LA CÀ HÁT CA | TẬP 4 | THỔN THỨC CON TIM KHI NGHE \"VỚI ANH EM VẪN LÀ CÔ BÉ\"",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "d8PZd92kEKY",
+      "url": "https://www.youtube.com/watch?v=d8PZd92kEKY&list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca&index=23",
+      "thumbnailUrl": "https://i.ytimg.com/vi/d8PZd92kEKY/maxresdefault.jpg",
+      "viewCount": 2991,
+      "date": "2023-07-26T06:45:57.000Z",
+      "likes": 54,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:04:25",
+      "commentsCount": 0,
+      "text": "********************\nHTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \nĐăng ký: https://www.youtube.com/user/htvonlin... \nWebsite: http://www.htv.com.vn \nFacebook:https://www.fb.com/htv.hcm\nỨng dụng HTVC: https://htvc.tv",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/user/htvonlinetube?sub_confirmation=1",
+          "text": "https://www.youtube.com/user/htvonlin..."
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.fb.com/htv.hcm",
+          "text": "https://www.fb.com/htv.hcm"
+        },
+        {
+          "url": "https://htvc.tv/",
+          "text": "https://htvc.tv"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 22,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isPaidContent": false
+    },
+    {
+      "title": "LA CÀ HÁT CA | TẬP 6 | DỄ THƯƠNG HẾT NẤC VỚI PHIÊN BẢN ÔNG BÀ ANH THỜI HIỆN ĐẠI",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "6igCf-EP3Tc",
+      "url": "https://www.youtube.com/watch?v=6igCf-EP3Tc&list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca&index=29",
+      "thumbnailUrl": "https://i.ytimg.com/vi/6igCf-EP3Tc/maxresdefault.jpg",
+      "viewCount": 2400,
+      "date": "2023-08-06T13:00:08.000Z",
+      "likes": 22,
+      "location": null,
+      "channelName": "HTV Entertainment",
+      "channelUrl": "https://www.youtube.com/@EntertainmentHTV",
+      "channelUsername": "EntertainmentHTV",
+      "collaborators": null,
+      "channelId": "UCbq8aOyj9ZtIqcD-0MwG1fQ",
+      "numberOfSubscribers": 7020000,
+      "duration": "00:03:36",
+      "commentsCount": 0,
+      "text": "Ông bà thời 4.0 quậy quá quậy, con cháu xem chỉ biết ước..\n\n#myratran #trungquanidol #junpham #mewamazing #ngokienhuy #blacka #lacahatca #htv #gameshowhtv\n********************\nHTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://www.youtube.com/user/htvonlinetube?sub_confirmation=1 \n* Website: http://www.htv.com.vn \n* Facebook:https://www.fb.com/htv.hcm\n* Ứng dụng HTVC: https://htvc.tv",
+      "translatedText": "Ông bà thời 4.0 quậy quá quậy, con cháu xem chỉ biết ước..\n\n#myratran #trungquanidol #junpham #mewamazing #ngokienhuy #blacka #lacahatca #htv #gameshowhtv\n********************\nHTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \nĐăng ký: https://www.youtube.com/user/htvonlin... \nWebsite: http://www.htv.com.vn \nFacebook:https://www.fb.com/htv.hcm\nỨng dụng HTVC: https://htvc.tv",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/myratran",
+          "text": "#myratran"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/trungquanidol",
+          "text": "#trungquanidol"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junpham",
+          "text": "#junpham"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mewamazing",
+          "text": "#mewamazing"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngokienhuy",
+          "text": "#ngokienhuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/blacka",
+          "text": "#blacka"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lacahatca",
+          "text": "#lacahatca"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/htv",
+          "text": "#htv"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/gameshowhtv",
+          "text": "#gameshowhtv"
+        },
+        {
+          "url": "https://www.youtube.com/user/htvonlinetube?sub_confirmation=1",
+          "text": "https://www.youtube.com/user/htvonlin..."
+        },
+        {
+          "url": "http://www.htv.com.vn/",
+          "text": "http://www.htv.com.vn"
+        },
+        {
+          "url": "https://www.fb.com/htv.hcm",
+          "text": "https://www.fb.com/htv.hcm"
+        },
+        {
+          "url": "https://htvc.tv/",
+          "text": "https://htvc.tv"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 28,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isMonetized": null,
+      "hashtags": [
+        "#gameshowhtv",
+        "#myratran",
+        "#mewamazing"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLJSRfYQoW3dmvVTD69QV9X8wpEgxGFfca",
+      "isPaidContent": false
+    }
+  ]
+}

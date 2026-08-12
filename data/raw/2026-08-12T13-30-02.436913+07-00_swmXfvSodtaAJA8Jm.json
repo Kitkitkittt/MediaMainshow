@@ -1,0 +1,1527 @@
+{
+  "actor_name": "streamers/youtube-scraper",
+  "actor_run_id": "swmXfvSodtaAJA8Jm",
+  "dataset_id": "4RByInBaYH2M5irQj",
+  "actor_build_id": "SUk0475fgtCh9zqMt",
+  "retrieved_at": "2026-08-12T13:30:02.436913+07:00",
+  "actor_input": {
+    "startUrls": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PLdWk-MlnCC7M"
+      }
+    ],
+    "maxResults": 31,
+    "maxResultsShorts": 0,
+    "maxResultStreams": 0
+  },
+  "run_metadata": {
+    "status": "SUCCEEDED",
+    "startedAt": "2026-08-12T06:29:37.874Z",
+    "finishedAt": "2026-08-12T06:29:55.396Z",
+    "usageTotalUsd": 0.02,
+    "chargedEventCounts": {
+      "result": 5,
+      "date-filter": 0,
+      "ai-video-description": 0,
+      "ai-video-summary": 0
+    }
+  },
+  "items": [
+    {
+      "title": "ANH TRAI VƯỢT NGÀN CHÔNG GAI 2026 - Tập 4 | ẨN SỐ nào đang được khán giả mong chờ ở Bảng Đấu Hắc Mã",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "snc1rgD5W1M",
+      "url": "https://www.youtube.com/watch?v=snc1rgD5W1M&list=PLdWk-MlnCC7M&index=4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/snc1rgD5W1M/maxresdefault.jpg",
+      "viewCount": 1682382,
+      "date": "2026-07-25T13:30:06.000Z",
+      "likes": 22000,
+      "location": null,
+      "channelName": "YEAH1 SHOW",
+      "channelUrl": "https://www.youtube.com/@YEAH1SHOW",
+      "channelUsername": "YEAH1SHOW",
+      "collaborators": [
+        {
+          "name": "YEAH1 SHOW",
+          "username": "YEAH1SHOW",
+          "url": "https://www.youtube.com/@YEAH1SHOW",
+          "channelId": "UCh_zF2FsiCflCPgYDudtcqg"
+        },
+        {
+          "name": "YeaH1 Giải Trí",
+          "username": "YEAH1_GIAITRI",
+          "url": "https://www.youtube.com/@YEAH1_GIAITRI",
+          "channelId": "UCecta98cdYVFV6L_lfH__IA"
+        },
+        {
+          "name": "YeaH1 Trending",
+          "username": "YeaH1Trending",
+          "url": "https://www.youtube.com/@YeaH1Trending",
+          "channelId": "UCO4hOvuIUEx1rPHldofBCnw"
+        },
+        {
+          "name": "YEAH1 MUSIC",
+          "username": "yeah1music",
+          "url": "https://www.youtube.com/@yeah1music",
+          "channelId": "UCI2OiZs5aVcyBUBVsgovzng"
+        },
+        {
+          "name": "YeaH1 ONE",
+          "username": "YeaH1ONE",
+          "url": "https://www.youtube.com/@YeaH1ONE",
+          "channelId": "UC_np0YZuvNMIJceE6jHeggQ"
+        }
+      ],
+      "channelId": "UCh_zF2FsiCflCPgYDudtcqg",
+      "numberOfSubscribers": 765000,
+      "duration": "02:23:51",
+      "commentsCount": 5775,
+      "text": "ANH TRAI VƯỢT NGÀN CHÔNG GAI 2026 - Tập 4 | ẨN SỐ nào đang được khán giả mong chờ ở Bảng Đấu Hắc Mã\n\n#AnhTraiVuotNganChongGai2026 #ATVNCG2026 #ATVNCG #AnhTraiVuotNganChongGai #AnhTaiK26  #YeaH1 #1Production #AnhTraiVuotNganChongGai2026Show #realityshow #Chonggai #anhtraichonggai #music #liveperformance #showbiz #showmoi2026 \n\n----------------------------------------------\n  \nBảng đấu đầu tiên đã chính thức khép lại, mở ra chặng đua tiếp theo mang tên \"Bảng Đấu Hắc Mã\" - nơi những biến số khó lường có thể xoay chuyển cục diện bất cứ lúc nào. Khi kết quả của Công Diễn 1 dần được hé lộ, cuộc đua cũng bước vào giai đoạn căng thẳng hơn bao giờ hết, và những Nhà rơi vào vòng nguy hiểm sẽ chính thức lộ diện. Liệu đâu sẽ là nhóm giành chiến thắng chung cuộc sau Công Diễn đầu tiên?\n----------------------------------------------\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Anh Trai Vượt Ngàn Chông Gai 2026 trên: \n\n📍FanPage: https://www.facebook.com/AnhTraiVuotNganChongGai\n📍TikTok: https://www.tiktok.com/@anhtraivuotnganchonggai\n\n📺34 ANH TÀI GHI DANH NIÊN KHÓA 26 - ANH TRAI VƯỢT NGÀN CHÔNG GAI 2026\n\nChương trình truyền hình thực tế truyền cảm hứng Anh Trai Vượt Ngàn Chông Gai 2026 sẽ phát sóng vào thứ 7 hàng tuần lúc 20h trên kênh VTV3 và 20h30 trên YouTube YeaH1 Show từ ngày 27/06/2026\n\nAnh Trai Vượt Ngàn Chông Gai hứa hẹn tạo nên sự bùng nổ và tạo nên làn sóng giải trí hấp dẫn tại Việt Nam, mang đến màn trình diễn mãn nhãn, mãn nhĩ với những tiết mục trình diễn âm nhạc được dàn dựng công phu và hoành tráng nhất trên sân khấu bậc nhất, cũng như truyền tải năng lượng tích cực đến khán giả Việt Nam trong mỗi tập phát sóng.\n\n\n🕺 Các nghệ sĩ góp mặt vào của chương trình, bao gồm: ĐẠI NGHĨA, DŨNG DT, NGUYỄN VĂN CHUNG, THÁI VG, TÙNG MINT, THANH DUY, THỎ (DA LAB), TRỊNH THĂNG BÌNH, HOÀNG TÔN, THƠM (DA LAB), JUN PHẠM, ĐINH MẠNH NINH, VƯƠNG ANH TÚ, WILL, MEW AMAZING, NEKO LÊ, BB TRẦN, HOÀNG ROB, THUẬN NGUYỄN, HUỲNH LẬP, ĐÔNG HÙNG, TOKI THÀNH THỎ, IT'S CHARLES., DUY KHÁNH, CHENG, K.O, HOÀNG DŨNG, LÊ XUÂN TIỀN, OSAD, 14 CASPER, HỒ ĐÔNG QUAN, PHÙNG MINH CƯƠNG, THÁI LÊ MINH HIẾU, HÀ AN HUY.\n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng: https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44\n►Anh Trai Vượt Ngàn Chông Gai 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq\n►Chị Đẹp Đạp Gió 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF\n►Chị Đẹp Đạp Gió Rẽ Sóng 2023: https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A\n►Mẹ Siêu Nhân: https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3\n► Gia Đình Haha: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY\n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 SHOW: https://www.youtube.com/@YEAH1SHOW \n►YeaH1 GIẢI TRÍ: https://www.youtube.com/@yeah1entertainment \n►YeaH1 Music: https://www.youtube.com/@yeah1music\n----------------------------------------------\nTham khảo các sản phẩm công nghệ, thời trang, sản phẩm tiêu dùng\nBù Nước Bù Khoáng \n  👉 Link 1: https://s.shopee.vn/5VU0UuwMmc\n  👉 Link 2: https://s.shopee.vn/5LAaIbx07b\n  👉 Link 3: https://s.shopee.vn/AUsgS6dKdc\n  👉 Link 4: https://s.shopee.vn/AKZGFndxyb\n  👉 Link 5: https://s.shopee.vn/2BDWs0nJUu\n  👉 Link 6: https://s.shopee.vn/AAFq3UebJa\nBông Tẩy Trang\n  👉 Link 1: https://s.shopee.vn/LlxduBrr5\n  👉 Link 2: https://s.shopee.vn/2BDbpH4t8S\n  👉 Link 3: https://s.shopee.vn/20uBcy5WTR\n  👉 Link 4: https://s.shopee.vn/2VqSDt3cSY\n  👉 Link 5: https://s.shopee.vn/2LX21a4FnX\n\n-----------------------------------------------------------\n📺 Đón xem Anh Trai Vượt Ngàn Chông Gai 2026 Phát sóng 20h trên kênh VTV3 và 20h30 trên Youtube YeaH1 SHOW và Ứng dụng giải trí Mango Plus\n\n© Bản quyền thuộc YeaH1 - nhà sản xuất các chương trình giải trí hàng đầu như Gia Đình Haha, Tân Binh Toàn Năng, Anh Trai Vượt Ngàn Chông Gai 2024, Chị Đẹp Đạp Gió Rẽ Sóng\n#nhachaymoingay #nhachay2026 #musicvideo Tham khảo các sản phẩm công nghệ, thời trang, sản phẩm tiêu dùng\nBông tẩy trang làm sạch da Bông Bạch Tuyết Calla \n  👉 Link 1: https://s.shopee.vn/7KvxZWGTkA\n  👉 Link 2: https://s.shopee.vn/gP3cpYLCi\n  👉 Link 3: https://s.shopee.vn/qiTp8Xhrl\n  👉 Link 4: https://s.shopee.vn/111u1RX4Wo\n  👉 Link 5: https://s.shopee.vn/1BLKDkWRBr\n  👉 Link 6: https://s.shopee.vn/3VjF0AzVAZ\n  👉 Link 7: https://s.shopee.vn/30myPG1PBU\n  👉 Link 8: https://s.shopee.vn/3B6ObZ0lqX\n  👉 Link 9: https://s.shopee.vn/2gA80e2frS\n  👉 Link 10: https://s.shopee.vn/1qb10yTtpv\n\n   \nBù Nước Bù Khoáng \n  👉 Link 1: https://s.shopee.vn/W5dQnAqzI\n  👉 Link 2: https://s.shopee.vn/LmDEUBUKH\n  👉 Link 3: https://s.shopee.vn/904BYSCkMQ\n  👉 Link 4: https://s.shopee.vn/111u1lBrXv\n  👉 Link 5: https://s.shopee.vn/60QZyxatUT\n  👉 Link 6: https://s.shopee.vn/40fVbJ9Bos",
+      "translatedText": "ANH TRAI VƯỢT NGÀN CHÔNG GAI 2026 - Tập 4 | ẨN SỐ nào đang được khán giả mong chờ ở Bảng Đấu Hắc Mã\n\n#AnhTraiVuotNganChongGai2026 #ATVNCG2026 #ATVNCG #AnhTraiVuotNganChongGai #AnhTaiK26  #YeaH1 #1Production #AnhTraiVuotNganChongGai2026Show #realityshow #Chonggai #anhtraichonggai #music #liveperformance #showbiz #showmoi2026 \n\n----------------------------------------------\n  \nBảng đấu đầu tiên đã chính thức khép lại, mở ra chặng đua tiếp theo mang tên \"Bảng Đấu Hắc Mã\" - nơi những biến số khó lường có thể xoay chuyển cục diện bất cứ lúc nào. Khi kết quả của Công Diễn 1 dần được hé lộ, cuộc đua cũng bước vào giai đoạn căng thẳng hơn bao giờ hết, và những Nhà rơi vào vòng nguy hiểm sẽ chính thức lộ diện. Liệu đâu sẽ là nhóm giành chiến thắng chung cuộc sau Công Diễn đầu tiên?\n----------------------------------------------\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Anh Trai Vượt Ngàn Chông Gai 2026 trên: \n\n📍FanPage:   / anhtraivuotnganchonggai  \n📍TikTok:   / anhtraivuotnganchonggai  \n\n📺34 ANH TÀI GHI DANH NIÊN KHÓA 26 - ANH TRAI VƯỢT NGÀN CHÔNG GAI 2026\n\nChương trình truyền hình thực tế truyền cảm hứng Anh Trai Vượt Ngàn Chông Gai 2026 sẽ phát sóng vào thứ 7 hàng tuần lúc 20h trên kênh VTV3 và 20h30 trên YouTube YeaH1 Show từ ngày 27/06/2026\n\nAnh Trai Vượt Ngàn Chông Gai hứa hẹn tạo nên sự bùng nổ và tạo nên làn sóng giải trí hấp dẫn tại Việt Nam, mang đến màn trình diễn mãn nhãn, mãn nhĩ với những tiết mục trình diễn âm nhạc được dàn dựng công phu và hoành tráng nhất trên sân khấu bậc nhất, cũng như truyền tải năng lượng tích cực đến khán giả Việt Nam trong mỗi tập phát sóng.\n\n\n🕺 Các nghệ sĩ góp mặt vào của chương trình, bao gồm: ĐẠI NGHĨA, DŨNG DT, NGUYỄN VĂN CHUNG, THÁI VG, TÙNG MINT, THANH DUY, THỎ (DA LAB), TRỊNH THĂNG BÌNH, HOÀNG TÔN, THƠM (DA LAB), JUN PHẠM, ĐINH MẠNH NINH, VƯƠNG ANH TÚ, WILL, MEW AMAZING, NEKO LÊ, BB TRẦN, HOÀNG ROB, THUẬN NGUYỄN, HUỲNH LẬP, ĐÔNG HÙNG, TOKI THÀNH THỎ, IT'S CHARLES., DUY KHÁNH, CHENG, K.O, HOÀNG DŨNG, LÊ XUÂN TIỀN, OSAD, 14 CASPER, HỒ ĐÔNG QUAN, PHÙNG MINH CƯƠNG, THÁI LÊ MINH HIẾU, HÀ AN HUY.\n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng:    • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  \n►Anh Trai Vượt Ngàn Chông Gai 2024:    • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  \n►Chị Đẹp Đạp Gió 2024:    • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  \n►Chị Đẹp Đạp Gió Rẽ Sóng 2023:    • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  \n►Mẹ Siêu Nhân:    • MẸ SIÊU NHÂN 2024 | Bản Quyền của YeaH1  \n► Gia Đình Haha:    • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  \n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 SHOW:    / @yeah1show   \n►YeaH1 GIẢI TRÍ:    / @yeah1entertainment   \n►YeaH1 Music:    / @yeah1music  \n----------------------------------------------\nTham khảo các sản phẩm công nghệ, thời trang, sản phẩm tiêu dùng\nBù Nước Bù Khoáng \n  👉 Link 1: https://s.shopee.vn/5VU0UuwMmc\n  👉 Link 2: https://s.shopee.vn/5LAaIbx07b\n  👉 Link 3: https://s.shopee.vn/AUsgS6dKdc\n  👉 Link 4: https://s.shopee.vn/AKZGFndxyb\n  👉 Link 5: https://s.shopee.vn/2BDWs0nJUu\n  👉 Link 6: https://s.shopee.vn/AAFq3UebJa\nBông Tẩy Trang\n  👉 Link 1: https://s.shopee.vn/LlxduBrr5\n  👉 Link 2: https://s.shopee.vn/2BDbpH4t8S\n  👉 Link 3: https://s.shopee.vn/20uBcy5WTR\n  👉 Link 4: https://s.shopee.vn/2VqSDt3cSY\n  👉 Link 5: https://s.shopee.vn/2LX21a4FnX\n\n-----------------------------------------------------------\n📺 Đón xem Anh Trai Vượt Ngàn Chông Gai 2026 Phát sóng 20h trên kênh VTV3 và 20h30 trên Youtube YeaH1 SHOW và Ứng dụng giải trí Mango Plus\n\n© Bản quyền thuộc YeaH1 - nhà sản xuất các chương trình giải trí hàng đầu như Gia Đình Haha, Tân Binh Toàn Năng, Anh Trai Vượt Ngàn Chông Gai 2024, Chị Đẹp Đạp Gió Rẽ Sóng\n#nhachaymoingay #nhachay2026 #musicvideo Tham khảo các sản phẩm công nghệ, thời trang, sản phẩm tiêu dùng\nBông tẩy trang làm sạch da Bông Bạch Tuyết Calla \n  👉 Link 1: https://s.shopee.vn/7KvxZWGTkA\n  👉 Link 2: https://s.shopee.vn/gP3cpYLCi\n  👉 Link 3: https://s.shopee.vn/qiTp8Xhrl\n  👉 Link 4: https://s.shopee.vn/111u1RX4Wo\n  👉 Link 5: https://s.shopee.vn/1BLKDkWRBr\n  👉 Link 6: https://s.shopee.vn/3VjF0AzVAZ\n  👉 Link 7: https://s.shopee.vn/30myPG1PBU\n  👉 Link 8: https://s.shopee.vn/3B6ObZ0lqX\n  👉 Link 9: https://s.shopee.vn/2gA80e2frS\n  👉 Link 10: https://s.shopee.vn/1qb10yTtpv\n\n   \nBù Nước Bù Khoáng \n  👉 Link 1: https://s.shopee.vn/W5dQnAqzI\n  👉 Link 2: https://s.shopee.vn/LmDEUBUKH\n  👉 Link 3: https://s.shopee.vn/904BYSCkMQ\n  👉 Link 4: https://s.shopee.vn/111u1lBrXv\n  👉 Link 5: https://s.shopee.vn/60QZyxatUT\n  👉 Link 6: https://s.shopee.vn/40fVbJ9Bos",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/anhtraivuotnganchonggai2026",
+          "text": "#AnhTraiVuotNganChongGai2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/atvncg2026",
+          "text": "#ATVNCG2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/atvncg",
+          "text": "#ATVNCG"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtraivuotnganchonggai",
+          "text": "#AnhTraiVuotNganChongGai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtaik26",
+          "text": "#AnhTaiK26"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/1production",
+          "text": "#1Production"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtraivuotnganchonggai2026show",
+          "text": "#AnhTraiVuotNganChongGai2026Show"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/realityshow",
+          "text": "#realityshow"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chonggai",
+          "text": "#Chonggai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtraichonggai",
+          "text": "#anhtraichonggai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/music",
+          "text": "#music"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/liveperformance",
+          "text": "#liveperformance"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showbiz",
+          "text": "#showbiz"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showmoi2026",
+          "text": "#showmoi2026"
+        },
+        {
+          "url": "https://www.facebook.com/AnhTraiVuotNganChongGai",
+          "text": "  / anhtraivuotnganchonggai  "
+        },
+        {
+          "url": "https://www.tiktok.com/@anhtraivuotnganchonggai",
+          "text": "  / anhtraivuotnganchonggai  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44",
+          "text": "   • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+          "text": "   • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3",
+          "text": "   • MẸ SIÊU NHÂN 2024 | Bản Quyền của YeaH1  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY",
+          "text": "   • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCh_zF2FsiCflCPgYDudtcqg",
+          "text": "   / @yeah1show  "
+        },
+        {
+          "url": "https://www.youtube.com/@yeah1entertainment",
+          "text": "   / @yeah1entertainment  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCI2OiZs5aVcyBUBVsgovzng",
+          "text": "   / @yeah1music  "
+        },
+        {
+          "url": "https://s.shopee.vn/5VU0UuwMmc",
+          "text": "https://s.shopee.vn/5VU0UuwMmc"
+        },
+        {
+          "url": "https://s.shopee.vn/5LAaIbx07b",
+          "text": "https://s.shopee.vn/5LAaIbx07b"
+        },
+        {
+          "url": "https://s.shopee.vn/AUsgS6dKdc",
+          "text": "https://s.shopee.vn/AUsgS6dKdc"
+        },
+        {
+          "url": "https://s.shopee.vn/AKZGFndxyb",
+          "text": "https://s.shopee.vn/AKZGFndxyb"
+        },
+        {
+          "url": "https://s.shopee.vn/2BDWs0nJUu",
+          "text": "https://s.shopee.vn/2BDWs0nJUu"
+        },
+        {
+          "url": "https://s.shopee.vn/AAFq3UebJa",
+          "text": "https://s.shopee.vn/AAFq3UebJa"
+        },
+        {
+          "url": "https://s.shopee.vn/LlxduBrr5",
+          "text": "https://s.shopee.vn/LlxduBrr5"
+        },
+        {
+          "url": "https://s.shopee.vn/2BDbpH4t8S",
+          "text": "https://s.shopee.vn/2BDbpH4t8S"
+        },
+        {
+          "url": "https://s.shopee.vn/20uBcy5WTR",
+          "text": "https://s.shopee.vn/20uBcy5WTR"
+        },
+        {
+          "url": "https://s.shopee.vn/2VqSDt3cSY",
+          "text": "https://s.shopee.vn/2VqSDt3cSY"
+        },
+        {
+          "url": "https://s.shopee.vn/2LX21a4FnX",
+          "text": "https://s.shopee.vn/2LX21a4FnX"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/nhachaymoingay",
+          "text": "#nhachaymoingay"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/nhachay2026",
+          "text": "#nhachay2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/musicvideo",
+          "text": "#musicvideo"
+        },
+        {
+          "url": "https://s.shopee.vn/7KvxZWGTkA",
+          "text": "https://s.shopee.vn/7KvxZWGTkA"
+        },
+        {
+          "url": "https://s.shopee.vn/gP3cpYLCi",
+          "text": "https://s.shopee.vn/gP3cpYLCi"
+        },
+        {
+          "url": "https://s.shopee.vn/qiTp8Xhrl",
+          "text": "https://s.shopee.vn/qiTp8Xhrl"
+        },
+        {
+          "url": "https://s.shopee.vn/111u1RX4Wo",
+          "text": "https://s.shopee.vn/111u1RX4Wo"
+        },
+        {
+          "url": "https://s.shopee.vn/1BLKDkWRBr",
+          "text": "https://s.shopee.vn/1BLKDkWRBr"
+        },
+        {
+          "url": "https://s.shopee.vn/3VjF0AzVAZ",
+          "text": "https://s.shopee.vn/3VjF0AzVAZ"
+        },
+        {
+          "url": "https://s.shopee.vn/30myPG1PBU",
+          "text": "https://s.shopee.vn/30myPG1PBU"
+        },
+        {
+          "url": "https://s.shopee.vn/3B6ObZ0lqX",
+          "text": "https://s.shopee.vn/3B6ObZ0lqX"
+        },
+        {
+          "url": "https://s.shopee.vn/2gA80e2frS",
+          "text": "https://s.shopee.vn/2gA80e2frS"
+        },
+        {
+          "url": "https://s.shopee.vn/1qb10yTtpv",
+          "text": "https://s.shopee.vn/1qb10yTtpv"
+        },
+        {
+          "url": "https://s.shopee.vn/W5dQnAqzI",
+          "text": "https://s.shopee.vn/W5dQnAqzI"
+        },
+        {
+          "url": "https://s.shopee.vn/LmDEUBUKH",
+          "text": "https://s.shopee.vn/LmDEUBUKH"
+        },
+        {
+          "url": "https://s.shopee.vn/904BYSCkMQ",
+          "text": "https://s.shopee.vn/904BYSCkMQ"
+        },
+        {
+          "url": "https://s.shopee.vn/111u1lBrXv",
+          "text": "https://s.shopee.vn/111u1lBrXv"
+        },
+        {
+          "url": "https://s.shopee.vn/60QZyxatUT",
+          "text": "https://s.shopee.vn/60QZyxatUT"
+        },
+        {
+          "url": "https://s.shopee.vn/40fVbJ9Bos",
+          "text": "https://s.shopee.vn/40fVbJ9Bos"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 3,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLdWk-MlnCC7M",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLdWk-MlnCC7M",
+      "isPaidContent": false
+    },
+    {
+      "title": "ANH TRAI VƯỢT NGÀN CHÔNG GAI 2026 - Tập 2 | Cuộc chiến 6 Nhóm Anh Tài kết lại CÔNG DIỄN sẽ ra sao?",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "8gPXKl3BpMc",
+      "url": "https://www.youtube.com/watch?v=8gPXKl3BpMc&list=PLdWk-MlnCC7M&index=2",
+      "thumbnailUrl": "https://i.ytimg.com/vi/8gPXKl3BpMc/maxresdefault.jpg",
+      "viewCount": 4381141,
+      "date": "2026-07-04T13:30:06.000Z",
+      "likes": 46000,
+      "location": null,
+      "channelName": "YEAH1 SHOW",
+      "channelUrl": "https://www.youtube.com/@YEAH1SHOW",
+      "channelUsername": "YEAH1SHOW",
+      "collaborators": [
+        {
+          "name": "YEAH1 SHOW",
+          "username": "YEAH1SHOW",
+          "url": "https://www.youtube.com/@YEAH1SHOW",
+          "channelId": "UCh_zF2FsiCflCPgYDudtcqg"
+        },
+        {
+          "name": "YeaH1 Giải Trí",
+          "username": "YEAH1_GIAITRI",
+          "url": "https://www.youtube.com/@YEAH1_GIAITRI",
+          "channelId": "UCecta98cdYVFV6L_lfH__IA"
+        },
+        {
+          "name": "YeaH1 Trending",
+          "username": "YeaH1Trending",
+          "url": "https://www.youtube.com/@YeaH1Trending",
+          "channelId": "UCO4hOvuIUEx1rPHldofBCnw"
+        },
+        {
+          "name": "YEAH1 MUSIC",
+          "username": "yeah1music",
+          "url": "https://www.youtube.com/@yeah1music",
+          "channelId": "UCI2OiZs5aVcyBUBVsgovzng"
+        }
+      ],
+      "channelId": "UCh_zF2FsiCflCPgYDudtcqg",
+      "numberOfSubscribers": 765000,
+      "duration": "05:44:05",
+      "commentsCount": 8586,
+      "text": "ANH TRAI VƯỢT NGÀN CHÔNG GAI 2026 - Tập 2 | Cuộc chiến 6 Nhóm Anh Tài kết lại CÔNG DIỄN sẽ ra sao?\n\n#AnhTraiVuotNganChongGai2026 #ATVNCG2026 #ATVNCG #AnhTraiVuotNganChongGai #AnhTaiK26  #YeaH1 #1Production #AnhTraiVuotNganChongGai2026Show #realityshow #Chonggai #anhtraichonggai #music #liveperformance #showbiz #showmoi2026\n\n----------------------------------------------\nSau màn chào sân bùng nổ, cuộc đua tại Anh Trai Vượt Ngàn Chông Gai 2026 chính thức nóng hơn bao giờ hết. 28 tiết mục còn lại lần lượt lộ diện với những màn làm mới đầy bất ngờ, xen lẫn những khoảnh khắc hội ngộ, tiếng cười và cảm xúc. Nhưng ngay sau đó, luật chơi hoàn toàn mới được kích hoạt, mở ra bước ngoặt đầu tiên của hành trình và buộc các Anh Tài phải bước vào cuộc cạnh tranh quyết liệt để giành lấy lợi thế.\n----------------------------------------------\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Anh Trai Vượt Ngàn Chông Gai 2026 trên: \n\n📍FanPage: https://www.facebook.com/AnhTraiVuotNganChongGai\n📍TikTok: https://www.tiktok.com/@anhtraivuotnganchonggai\n\n📺34 ANH TÀI GHI DANH NIÊN KHÓA 26 - ANH TRAI VƯỢT NGÀN CHÔNG GAI 2026\n\nChương trình truyền hình thực tế truyền cảm hứng Anh Trai Vượt Ngàn Chông Gai 2026 sẽ phát sóng vào thứ 7 hàng tuần lúc 20h trên kênh VTV3 và 20h30 trên YouTube YeaH1 Show từ ngày 27/06/2026\n\nAnh Trai Vượt Ngàn Chông Gai hứa hẹn tạo nên sự bùng nổ và tạo nên làn sóng giải trí hấp dẫn tại Việt Nam, mang đến màn trình diễn mãn nhãn, mãn nhĩ với những tiết mục trình diễn âm nhạc được dàn dựng công phu và hoành tráng nhất trên sân khấu bậc nhất, cũng như truyền tải năng lượng tích cực đến khán giả Việt Nam trong mỗi tập phát sóng.\n\n\n🕺 Các nghệ sĩ góp mặt vào của chương trình, bao gồm: ĐẠI NGHĨA, DŨNG DT, NGUYỄN VĂN CHUNG, THÁI VG, TÙNG MINT, THANH DUY, THỎ (DA LAB), TRỊNH THĂNG BÌNH, HOÀNG TÔN, THƠM (DA LAB), JUN PHẠM, ĐINH MẠNH NINH, VƯƠNG ANH TÚ, WILL, MEW AMAZING, NEKO LÊ, BB TRẦN, HOÀNG ROB, THUẬN NGUYỄN, HUỲNH LẬP, ĐÔNG HÙNG, TOKI THÀNH THỎ, IT'S CHARLES., DUY KHÁNH, CHENG, K.O, HOÀNG DŨNG, LÊ XUÂN TIỀN, OSAD, 14 CASPER, HỒ ĐÔNG QUAN, PHÙNG MINH CƯƠNG, THÁI LÊ MINH HIẾU, HÀ AN HUY.\n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng: https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44\n►Anh Trai Vượt Ngàn Chông Gai 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq\n►Chị Đẹp Đạp Gió 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF\n►Chị Đẹp Đạp Gió Rẽ Sóng 2023: https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A\n►Mẹ Siêu Nhân: https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3\n► Gia Đình Haha: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY\n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 SHOW: https://www.youtube.com/@YEAH1SHOW \n►YeaH1 GIẢI TRÍ: https://www.youtube.com/@yeah1entertainment \n►YeaH1 Music: https://www.youtube.com/@yeah1music\n----------------------------------------------\nANH TRAI VƯỢT NGÀN CHÔNG GAI 2026\nTham khảo các sản phẩm công nghệ, thời trang, sản phẩm tiêu dùng\nCông Nghệ\n  👉 Link 1: https://s.shopee.vn/8AUCYWCnad\n  👉 Link 2: https://s.shopee.vn/4VauCT1Ctv\n  👉 Link 3: https://s.shopee.vn/6VLyZd1uhn\n  �� Link 4: https://s.shopee.vn/4qDkaampKX\n  👉 Link 5: https://s.shopee.vn/5fmraESFlM\n  👉 Link 6: https://s.shopee.vn/6VLyZob8WL\n  👉 Link 7: https://s.shopee.vn/70IFAl3UQP\n  👉 Link 8: https://s.shopee.vn/9Kg9xPu7DH\n  👉 Link 9: https://s.shopee.vn/8V72yRW1Fo\n  👉 Link 10: https://s.shopee.vn/6L2YOhtaWu\n  👉 Link 11: https://s.shopee.vn/7prMBX8bX3\nThời Trang💥\n  👉 Link 1: https://s.shopee.vn/18Uq4ijmz\n  👉 Link 2: https://s.shopee.vn/30m6P7IDhY\n  👉 Link 3: https://s.shopee.vn/3ViN0nJKUr\n  👉 Link 4: https://s.shopee.vn/3B5WcPmu5S\n  👉 Link 5: https://s.shopee.vn/4LHU0rJBk5\n  👉 Link 6: https://s.shopee.vn/6Aj8CG7LTl\n\n-----------------------------------------------------------\n📺 Đón xem Anh Trai Vượt Ngàn Chông Gai 2026 Phát sóng 20h trên kênh VTV3 và 20h30 trên Youtube YeaH1 SHOW và Ứng dụng giải trí Mango Plus\n\n© Bản quyền thuộc YeaH1 - nhà sản xuất các chương trình giải trí hàng đầu như Gia Đình Haha, Tân Binh Toàn Năng, Anh Trai Vượt Ngàn Chông Gai 2024, Chị Đẹp Đạp Gió Rẽ Sóng",
+      "translatedText": "ANH TRAI VƯỢT NGÀN CHÔNG GAI 2026 - Tập 2 | Cuộc chiến 6 Nhóm Anh Tài kết lại CÔNG DIỄN sẽ ra sao?\n\n#AnhTraiVuotNganChongGai2026 #ATVNCG2026 #ATVNCG #AnhTraiVuotNganChongGai #AnhTaiK26  #YeaH1 #1Production #AnhTraiVuotNganChongGai2026Show #realityshow #Chonggai #anhtraichonggai #music #liveperformance #showbiz #showmoi2026\n\n----------------------------------------------\nSau màn chào sân bùng nổ, cuộc đua tại Anh Trai Vượt Ngàn Chông Gai 2026 chính thức nóng hơn bao giờ hết. 28 tiết mục còn lại lần lượt lộ diện với những màn làm mới đầy bất ngờ, xen lẫn những khoảnh khắc hội ngộ, tiếng cười và cảm xúc. Nhưng ngay sau đó, luật chơi hoàn toàn mới được kích hoạt, mở ra bước ngoặt đầu tiên của hành trình và buộc các Anh Tài phải bước vào cuộc cạnh tranh quyết liệt để giành lấy lợi thế.\n----------------------------------------------\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Anh Trai Vượt Ngàn Chông Gai 2026 trên: \n\n📍FanPage:   / anhtraivuotnganchonggai  \n📍TikTok:   / anhtraivuotnganchonggai  \n\n📺34 ANH TÀI GHI DANH NIÊN KHÓA 26 - ANH TRAI VƯỢT NGÀN CHÔNG GAI 2026\n\nChương trình truyền hình thực tế truyền cảm hứng Anh Trai Vượt Ngàn Chông Gai 2026 sẽ phát sóng vào thứ 7 hàng tuần lúc 20h trên kênh VTV3 và 20h30 trên YouTube YeaH1 Show từ ngày 27/06/2026\n\nAnh Trai Vượt Ngàn Chông Gai hứa hẹn tạo nên sự bùng nổ và tạo nên làn sóng giải trí hấp dẫn tại Việt Nam, mang đến màn trình diễn mãn nhãn, mãn nhĩ với những tiết mục trình diễn âm nhạc được dàn dựng công phu và hoành tráng nhất trên sân khấu bậc nhất, cũng như truyền tải năng lượng tích cực đến khán giả Việt Nam trong mỗi tập phát sóng.\n\n\n🕺 Các nghệ sĩ góp mặt vào của chương trình, bao gồm: ĐẠI NGHĨA, DŨNG DT, NGUYỄN VĂN CHUNG, THÁI VG, TÙNG MINT, THANH DUY, THỎ (DA LAB), TRỊNH THĂNG BÌNH, HOÀNG TÔN, THƠM (DA LAB), JUN PHẠM, ĐINH MẠNH NINH, VƯƠNG ANH TÚ, WILL, MEW AMAZING, NEKO LÊ, BB TRẦN, HOÀNG ROB, THUẬN NGUYỄN, HUỲNH LẬP, ĐÔNG HÙNG, TOKI THÀNH THỎ, IT'S CHARLES., DUY KHÁNH, CHENG, K.O, HOÀNG DŨNG, LÊ XUÂN TIỀN, OSAD, 14 CASPER, HỒ ĐÔNG QUAN, PHÙNG MINH CƯƠNG, THÁI LÊ MINH HIẾU, HÀ AN HUY.\n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng:    • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  \n►Anh Trai Vượt Ngàn Chông Gai 2024:    • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  \n►Chị Đẹp Đạp Gió 2024:    • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  \n►Chị Đẹp Đạp Gió Rẽ Sóng 2023:    • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  \n►Mẹ Siêu Nhân:    • MẸ SIÊU NHÂN 2024 | Bản Quyền của YeaH1  \n► Gia Đình Haha:    • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  \n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 SHOW:    / @yeah1show   \n►YeaH1 GIẢI TRÍ:    / @yeah1entertainment   \n►YeaH1 Music:    / @yeah1music  \n----------------------------------------------\nANH TRAI VƯỢT NGÀN CHÔNG GAI 2026\nTham khảo các sản phẩm công nghệ, thời trang, sản phẩm tiêu dùng\nCông Nghệ\n  👉 Link 1: https://s.shopee.vn/8AUCYWCnad\n  👉 Link 2: https://s.shopee.vn/4VauCT1Ctv\n  👉 Link 3: https://s.shopee.vn/6VLyZd1uhn\n  👉 Link 4: https://s.shopee.vn/4qDkaampKX\n  👉 Link 5: https://s.shopee.vn/5fmraESFlM\n  👉 Link 6: https://s.shopee.vn/6VLyZob8WL\n  👉 Link 7: https://s.shopee.vn/70IFAl3UQP\n  👉 Link 8: https://s.shopee.vn/9Kg9xPu7DH\n  👉 Link 9: https://s.shopee.vn/8V72yRW1Fo\n  👉 Link 10: https://s.shopee.vn/6L2YOhtaWu\n  👉 Link 11: https://s.shopee.vn/7prMBX8bX3\nThời Trang💥\n  👉 Link 1: https://s.shopee.vn/18Uq4ijmz\n  👉 Link 2: https://s.shopee.vn/30m6P7IDhY\n  👉 Link 3: https://s.shopee.vn/3ViN0nJKUr\n  👉 Link 4: https://s.shopee.vn/3B5WcPmu5S\n  👉 Link 5: https://s.shopee.vn/4LHU0rJBk5\n  👉 Link 6: https://s.shopee.vn/6Aj8CG7LTl\n\n-----------------------------------------------------------\n📺 Đón xem Anh Trai Vượt Ngàn Chông Gai 2026 Phát sóng 20h trên kênh VTV3 và 20h30 trên Youtube YeaH1 SHOW và Ứng dụng giải trí Mango Plus\n\n© Bản quyền thuộc YeaH1 - nhà sản xuất các chương trình giải trí hàng đầu như Gia Đình Haha, Tân Binh Toàn Năng, Anh Trai Vượt Ngàn Chông Gai 2024, Chị Đẹp Đạp Gió Rẽ Sóng",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/anhtraivuotnganchonggai2026",
+          "text": "#AnhTraiVuotNganChongGai2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/atvncg2026",
+          "text": "#ATVNCG2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/atvncg",
+          "text": "#ATVNCG"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtraivuotnganchonggai",
+          "text": "#AnhTraiVuotNganChongGai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtaik26",
+          "text": "#AnhTaiK26"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/1production",
+          "text": "#1Production"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtraivuotnganchonggai2026show",
+          "text": "#AnhTraiVuotNganChongGai2026Show"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/realityshow",
+          "text": "#realityshow"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chonggai",
+          "text": "#Chonggai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtraichonggai",
+          "text": "#anhtraichonggai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/music",
+          "text": "#music"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/liveperformance",
+          "text": "#liveperformance"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showbiz",
+          "text": "#showbiz"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showmoi2026",
+          "text": "#showmoi2026"
+        },
+        {
+          "url": "https://www.facebook.com/AnhTraiVuotNganChongGai",
+          "text": "  / anhtraivuotnganchonggai  "
+        },
+        {
+          "url": "https://www.tiktok.com/@anhtraivuotnganchonggai",
+          "text": "  / anhtraivuotnganchonggai  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44",
+          "text": "   • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+          "text": "   • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3",
+          "text": "   • MẸ SIÊU NHÂN 2024 | Bản Quyền của YeaH1  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY",
+          "text": "   • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCh_zF2FsiCflCPgYDudtcqg",
+          "text": "   / @yeah1show  "
+        },
+        {
+          "url": "https://www.youtube.com/@yeah1entertainment",
+          "text": "   / @yeah1entertainment  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCI2OiZs5aVcyBUBVsgovzng",
+          "text": "   / @yeah1music  "
+        },
+        {
+          "url": "https://s.shopee.vn/8AUCYWCnad",
+          "text": "https://s.shopee.vn/8AUCYWCnad"
+        },
+        {
+          "url": "https://s.shopee.vn/4VauCT1Ctv",
+          "text": "https://s.shopee.vn/4VauCT1Ctv"
+        },
+        {
+          "url": "https://s.shopee.vn/6VLyZd1uhn",
+          "text": "https://s.shopee.vn/6VLyZd1uhn"
+        },
+        {
+          "url": "https://s.shopee.vn/4qDkaampKX",
+          "text": "https://s.shopee.vn/4qDkaampKX"
+        },
+        {
+          "url": "https://s.shopee.vn/5fmraESFlM",
+          "text": "https://s.shopee.vn/5fmraESFlM"
+        },
+        {
+          "url": "https://s.shopee.vn/6VLyZob8WL",
+          "text": "https://s.shopee.vn/6VLyZob8WL"
+        },
+        {
+          "url": "https://s.shopee.vn/70IFAl3UQP",
+          "text": "https://s.shopee.vn/70IFAl3UQP"
+        },
+        {
+          "url": "https://s.shopee.vn/9Kg9xPu7DH",
+          "text": "https://s.shopee.vn/9Kg9xPu7DH"
+        },
+        {
+          "url": "https://s.shopee.vn/8V72yRW1Fo",
+          "text": "https://s.shopee.vn/8V72yRW1Fo"
+        },
+        {
+          "url": "https://s.shopee.vn/6L2YOhtaWu",
+          "text": "https://s.shopee.vn/6L2YOhtaWu"
+        },
+        {
+          "url": "https://s.shopee.vn/7prMBX8bX3",
+          "text": "https://s.shopee.vn/7prMBX8bX3"
+        },
+        {
+          "url": "https://s.shopee.vn/18Uq4ijmz",
+          "text": "https://s.shopee.vn/18Uq4ijmz"
+        },
+        {
+          "url": "https://s.shopee.vn/30m6P7IDhY",
+          "text": "https://s.shopee.vn/30m6P7IDhY"
+        },
+        {
+          "url": "https://s.shopee.vn/3ViN0nJKUr",
+          "text": "https://s.shopee.vn/3ViN0nJKUr"
+        },
+        {
+          "url": "https://s.shopee.vn/3B5WcPmu5S",
+          "text": "https://s.shopee.vn/3B5WcPmu5S"
+        },
+        {
+          "url": "https://s.shopee.vn/4LHU0rJBk5",
+          "text": "https://s.shopee.vn/4LHU0rJBk5"
+        },
+        {
+          "url": "https://s.shopee.vn/6Aj8CG7LTl",
+          "text": "https://s.shopee.vn/6Aj8CG7LTl"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 1,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLdWk-MlnCC7M",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLdWk-MlnCC7M",
+      "isPaidContent": false
+    },
+    {
+      "title": "ANH TRAI VƯỢT NGÀN CHÔNG GAI 2026 - Tập 6 | MÃ PHI NƯỚC ĐẠI, VƯƠN MÌNH THÀNH CÔNG",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "qP0PAjdfH0s",
+      "url": "https://www.youtube.com/watch?v=qP0PAjdfH0s&list=PLdWk-MlnCC7M&index=6",
+      "thumbnailUrl": "https://i.ytimg.com/vi/qP0PAjdfH0s/maxresdefault.jpg",
+      "viewCount": 1805637,
+      "date": "2026-08-08T13:30:06.000Z",
+      "likes": 21000,
+      "location": null,
+      "channelName": "YEAH1 SHOW",
+      "channelUrl": "https://www.youtube.com/@YEAH1SHOW",
+      "channelUsername": "YEAH1SHOW",
+      "collaborators": [
+        {
+          "name": "YEAH1 SHOW",
+          "username": "YEAH1SHOW",
+          "url": "https://www.youtube.com/@YEAH1SHOW",
+          "channelId": "UCh_zF2FsiCflCPgYDudtcqg"
+        },
+        {
+          "name": "YeaH1 ONE",
+          "username": "YeaH1ONE",
+          "url": "https://www.youtube.com/@YeaH1ONE",
+          "channelId": "UC_np0YZuvNMIJceE6jHeggQ"
+        },
+        {
+          "name": "YeaH1 Giải Trí",
+          "username": "YEAH1_GIAITRI",
+          "url": "https://www.youtube.com/@YEAH1_GIAITRI",
+          "channelId": "UCecta98cdYVFV6L_lfH__IA"
+        },
+        {
+          "name": "YeaH1 Trending",
+          "username": "YeaH1Trending",
+          "url": "https://www.youtube.com/@YeaH1Trending",
+          "channelId": "UCO4hOvuIUEx1rPHldofBCnw"
+        },
+        {
+          "name": "YEAH1 MUSIC",
+          "username": "yeah1music",
+          "url": "https://www.youtube.com/@yeah1music",
+          "channelId": "UCI2OiZs5aVcyBUBVsgovzng"
+        }
+      ],
+      "channelId": "UCh_zF2FsiCflCPgYDudtcqg",
+      "numberOfSubscribers": 765000,
+      "duration": "03:39:02",
+      "commentsCount": 3872,
+      "text": "ANH TRAI VƯỢT NGÀN CHÔNG GAI 2026 - Tập 6 | MÃ PHI NƯỚC ĐẠI, VƯƠN MÌNH THÀNH CÔNG \n\n#AnhTraiVuotNganChongGai2026 #ATVNCG2026 #ATVNCG #AnhTraiVuotNganChongGai  #YeaH1 #1Production #AnhTraiVuotNganChongGai2026Show #realityshow #Chonggai #anhtraichonggai #music #liveperformance #showbiz #showmoi2026 \n----------------------------------------\nCông Diễn 2 chính thức mở màn với luật chơi mới đầy khốc liệt, khi 8 bản demo lần lượt được trình làng và mở ra cuộc chiến giành bài hát đầy căng thẳng giữa các Nhà. Muốn sở hữu ca khúc mình yêu thích, các Nhà không chỉ cần có chiến lược tính toán kỹ lưỡng mà còn phải đấu trí, cân nhắc từng lựa chọn trong cuộc đấu giá đầy hấp dẫn. Demo nào sẽ về tay Nhà nào, những màn thương lượng và cạnh tranh sẽ diễn ra ra sao, và các Nhà sẽ biến hóa những ca khúc ấy thành những tiết mục như thế nào? Tất cả sẽ dần được hé lộ trong Tập 6 tuần này.\n\nVà để cuộc chơi thêm phần kịch tính, phần thi Xóa Thẻ cũng chính thức được mở ra, mang đến cơ hội “lật ngược thế cờ” cho những Nhà đang đứng trước nguy cơ. Hai bản hit đình đám một thời sẽ bất ngờ trở lại, và hai Nhà nhận Thẻ Đỏ sẽ phải lựa chọn một thành viên đại diện để bước vào thử thách đặc biệt này. Ai sẽ là hai nhân tố được lựa chọn? Liệu họ có đủ bản lĩnh để chinh phục những bản hit và mang về cơ hội xóa Thẻ cho Nhà mình? Tất cả sẽ được hé lộ trong Tập 6!\n----------------------------------------------\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Anh Trai Vượt Ngàn Chông Gai 2026 trên: \n\n📍FanPage: https://www.facebook.com/AnhTraiVuotNganChongGai\n📍TikTok: https://www.tiktok.com/@anhtraivuotnganchonggai\n\n📺34 ANH TÀI GHI DANH NIÊN KHÓA 26 - ANH TRAI VƯỢT NGÀN CHÔNG GAI 2026\n\nChương trình truyền hình thực tế truyền cảm hứng Anh Trai Vượt Ngàn Chông Gai 2026 sẽ phát sóng vào thứ 7 hàng tuần lúc 20h trên kênh VTV3 và 20h30 trên YouTube YeaH1 Show từ ngày 27/06/2026\n\nAnh Trai Vượt Ngàn Chông Gai hứa hẹn tạo nên sự bùng nổ và tạo nên làn sóng giải trí hấp dẫn tại Việt Nam, mang đến màn trình diễn mãn nhãn, mãn nhĩ với những tiết mục trình diễn âm nhạc được dàn dựng công phu và hoành tráng nhất trên sân khấu bậc nhất, cũng như truyền tải năng lượng tích cực đến khán giả Việt Nam trong mỗi tập phát sóng.\n\n\n🕺 Các nghệ sĩ góp mặt vào của chương trình, bao gồm: ĐẠI NGHĨA, NGUYỄN VĂN CHUNG, THÁI VG, TÙNG MINT, THANH DUY, THỎ (DA LAB), TRỊNH THĂNG BÌNH, HOÀNG TÔN, THƠM (DA LAB), JUN PHẠM, ĐINH MẠNH NINH, VƯƠNG ANH TÚ, WILL, MEW AMAZING, NEKO LÊ, BB TRẦN, HOÀNG ROB, THUẬN NGUYỄN, HUỲNH LẬP, ĐÔNG HÙNG, TOKI THÀNH THỎ, IT'S CHARLES., DUY KHÁNH, CHENG, K.O, HOÀNG DŨNG, LÊ XUÂN TIỀN, OSAD, 14 CASPER, HỒ ĐÔNG QUAN, PHÙNG MINH CƯƠNG, THÁI LÊ MINH HIẾU, HÀ AN HUY.\n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng: https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44\n►Anh Trai Vượt Ngàn Chông Gai 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq\n►Chị Đẹp Đạp Gió 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF\n►Chị Đẹp Đạp Gió Rẽ Sóng 2023: https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A\n►Mẹ Siêu Nhân: https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3\n► Gia Đình Haha: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY\n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 SHOW: https://www.youtube.com/@YEAH1SHOW \n►YeaH1 GIẢI TRÍ: https://www.youtube.com/@yeah1entertainment \n►YeaH1 Music: https://www.youtube.com/@yeah1music\n----------------------------------------------\nTham khảo các sản phẩm công nghệ, thời trang, sản phẩm tiêu dùng\nBông tẩy trang làm sạch da Bông Bạch Tuyết Calla \n  👉 Link 1:  https://s.shopee.vn/6L3XDHDyca\n  👉 Link 2: https://s.shopee.vn/6VMxPaDLHd\n  👉 Link 3: https://s.shopee.vn/60QgofFFIY\n  👉 Link 4: https://s.shopee.vn/6Ak70yEbxb\n  👉 Link 5: https://s.shopee.vn/5fnqQ3GVyW\n  👉 Link 6: https://s.shopee.vn/3g2m2UW1cl\n  👉 Link 7: https://s.shopee.vn/4Az2dPU7bs\n  👉 Link 8: https://s.shopee.vn/40fcR6Ukwr\n  👉 Link 9: https://s.shopee.vn/4Vbt21Sqvy\n\n\n   \nBù Nước Bù Khoáng \n  👉 Link 1: https://s.shopee.vn/W5dQnAqzI\n  👉 Link 2: https://s.shopee.vn/LmDEUBUKH\n  👉 Link 3: https://s.shopee.vn/904BYSCkMQ\n  👉 Link 4: https://s.shopee.vn/111u1lBrXv\n  👉 Link 5: https://s.shopee.vn/60QZyxatUT\n  👉 Link 6: https://s.shopee.vn/40fVbJ9Bos\n-----------------------------------------------------------\n\n📺 Đón xem Anh Trai Vượt Ngàn Chông Gai 2026 Phát sóng 20h trên kênh VTV3 và 20h30 trên Youtube YeaH1 SHOW và Ứng dụng giải trí Mango Plus\n\n© Bản quyền thuộc YeaH1 - nhà sản xuất các chương trình giải trí hàng đầu như Gia Đình Haha, Tân Binh Toàn Năng, Anh Trai Vượt Ngàn Chông Gai 2024, Chị Đẹp Đạp Gió Rẽ Sóng\n#nhachaymoingay #nhachay2026 #musicvideo",
+      "translatedText": "ANH TRAI VƯỢT NGÀN CHÔNG GAI 2026 - Tập 6 | MÃ PHI NƯỚC ĐẠI, VƯƠN MÌNH THÀNH CÔNG \n\n#AnhTraiVuotNganChongGai2026 #ATVNCG2026 #ATVNCG #AnhTraiVuotNganChongGai  #YeaH1 #1Production #AnhTraiVuotNganChongGai2026Show #realityshow #Chonggai #anhtraichonggai #music #liveperformance #showbiz #showmoi2026 \n----------------------------------------\nCông Diễn 2 chính thức mở màn với luật chơi mới đầy khốc liệt, khi 8 bản demo lần lượt được trình làng và mở ra cuộc chiến giành bài hát đầy căng thẳng giữa các Nhà. Muốn sở hữu ca khúc mình yêu thích, các Nhà không chỉ cần có chiến lược tính toán kỹ lưỡng mà còn phải đấu trí, cân nhắc từng lựa chọn trong cuộc đấu giá đầy hấp dẫn. Demo nào sẽ về tay Nhà nào, những màn thương lượng và cạnh tranh sẽ diễn ra ra sao, và các Nhà sẽ biến hóa những ca khúc ấy thành những tiết mục như thế nào? Tất cả sẽ dần được hé lộ trong Tập 6 tuần này.\n\nVà để cuộc chơi thêm phần kịch tính, phần thi Xóa Thẻ cũng chính thức được mở ra, mang đến cơ hội “lật ngược thế cờ” cho những Nhà đang đứng trước nguy cơ. Hai bản hit đình đám một thời sẽ bất ngờ trở lại, và hai Nhà nhận Thẻ Đỏ sẽ phải lựa chọn một thành viên đại diện để bước vào thử thách đặc biệt này. Ai sẽ là hai nhân tố được lựa chọn? Liệu họ có đủ bản lĩnh để chinh phục những bản hit và mang về cơ hội xóa Thẻ cho Nhà mình? Tất cả sẽ được hé lộ trong Tập 6!\n----------------------------------------------\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Anh Trai Vượt Ngàn Chông Gai 2026 trên: \n\n📍FanPage:   / anhtraivuotnganchonggai  \n📍TikTok:   / anhtraivuotnganchonggai  \n\n📺34 ANH TÀI GHI DANH NIÊN KHÓA 26 - ANH TRAI VƯỢT NGÀN CHÔNG GAI 2026\n\nChương trình truyền hình thực tế truyền cảm hứng Anh Trai Vượt Ngàn Chông Gai 2026 sẽ phát sóng vào thứ 7 hàng tuần lúc 20h trên kênh VTV3 và 20h30 trên YouTube YeaH1 Show từ ngày 27/06/2026\n\nAnh Trai Vượt Ngàn Chông Gai hứa hẹn tạo nên sự bùng nổ và tạo nên làn sóng giải trí hấp dẫn tại Việt Nam, mang đến màn trình diễn mãn nhãn, mãn nhĩ với những tiết mục trình diễn âm nhạc được dàn dựng công phu và hoành tráng nhất trên sân khấu bậc nhất, cũng như truyền tải năng lượng tích cực đến khán giả Việt Nam trong mỗi tập phát sóng.\n\n\n🕺 Các nghệ sĩ góp mặt vào của chương trình, bao gồm: ĐẠI NGHĨA, NGUYỄN VĂN CHUNG, THÁI VG, TÙNG MINT, THANH DUY, THỎ (DA LAB), TRỊNH THĂNG BÌNH, HOÀNG TÔN, THƠM (DA LAB), JUN PHẠM, ĐINH MẠNH NINH, VƯƠNG ANH TÚ, WILL, MEW AMAZING, NEKO LÊ, BB TRẦN, HOÀNG ROB, THUẬN NGUYỄN, HUỲNH LẬP, ĐÔNG HÙNG, TOKI THÀNH THỎ, IT'S CHARLES., DUY KHÁNH, CHENG, K.O, HOÀNG DŨNG, LÊ XUÂN TIỀN, OSAD, 14 CASPER, HỒ ĐÔNG QUAN, PHÙNG MINH CƯƠNG, THÁI LÊ MINH HIẾU, HÀ AN HUY.\n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng:    • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  \n►Anh Trai Vượt Ngàn Chông Gai 2024:    • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  \n►Chị Đẹp Đạp Gió 2024:    • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  \n►Chị Đẹp Đạp Gió Rẽ Sóng 2023:    • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  \n►Mẹ Siêu Nhân:    • MẸ SIÊU NHÂN 2024 | Bản Quyền của YeaH1  \n► Gia Đình Haha:    • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  \n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 SHOW:    / @yeah1show   \n►YeaH1 GIẢI TRÍ:    / @yeah1entertainment   \n►YeaH1 Music:    / @yeah1music  \n----------------------------------------------\nTham khảo các sản phẩm công nghệ, thời trang, sản phẩm tiêu dùng\nBông tẩy trang làm sạch da Bông Bạch Tuyết Calla \n  👉 Link 1:  https://s.shopee.vn/6L3XDHDyca\n  👉 Link 2: https://s.shopee.vn/6VMxPaDLHd\n  👉 Link 3: https://s.shopee.vn/60QgofFFIY\n  👉 Link 4: https://s.shopee.vn/6Ak70yEbxb\n  👉 Link 5: https://s.shopee.vn/5fnqQ3GVyW\n  👉 Link 6: https://s.shopee.vn/3g2m2UW1cl\n  👉 Link 7: https://s.shopee.vn/4Az2dPU7bs\n  👉 Link 8: https://s.shopee.vn/40fcR6Ukwr\n  👉 Link 9: https://s.shopee.vn/4Vbt21Sqvy\n\n\n   \nBù Nước Bù Khoáng \n  👉 Link 1: https://s.shopee.vn/W5dQnAqzI\n  👉 Link 2: https://s.shopee.vn/LmDEUBUKH\n  👉 Link 3: https://s.shopee.vn/904BYSCkMQ\n  👉 Link 4: https://s.shopee.vn/111u1lBrXv\n  👉 Link 5: https://s.shopee.vn/60QZyxatUT\n  👉 Link 6: https://s.shopee.vn/40fVbJ9Bos\n-----------------------------------------------------------\n\n📺 Đón xem Anh Trai Vượt Ngàn Chông Gai 2026 Phát sóng 20h trên kênh VTV3 và 20h30 trên Youtube YeaH1 SHOW và Ứng dụng giải trí Mango Plus\n\n© Bản quyền thuộc YeaH1 - nhà sản xuất các chương trình giải trí hàng đầu như Gia Đình Haha, Tân Binh Toàn Năng, Anh Trai Vượt Ngàn Chông Gai 2024, Chị Đẹp Đạp Gió Rẽ Sóng\n#nhachaymoingay #nhachay2026 #musicvideo",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/anhtraivuotnganchonggai2026",
+          "text": "#AnhTraiVuotNganChongGai2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/atvncg2026",
+          "text": "#ATVNCG2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/atvncg",
+          "text": "#ATVNCG"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtraivuotnganchonggai",
+          "text": "#AnhTraiVuotNganChongGai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/1production",
+          "text": "#1Production"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtraivuotnganchonggai2026show",
+          "text": "#AnhTraiVuotNganChongGai2026Show"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/realityshow",
+          "text": "#realityshow"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chonggai",
+          "text": "#Chonggai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtraichonggai",
+          "text": "#anhtraichonggai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/music",
+          "text": "#music"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/liveperformance",
+          "text": "#liveperformance"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showbiz",
+          "text": "#showbiz"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showmoi2026",
+          "text": "#showmoi2026"
+        },
+        {
+          "url": "https://www.facebook.com/AnhTraiVuotNganChongGai",
+          "text": "  / anhtraivuotnganchonggai  "
+        },
+        {
+          "url": "https://www.tiktok.com/@anhtraivuotnganchonggai",
+          "text": "  / anhtraivuotnganchonggai  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44",
+          "text": "   • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+          "text": "   • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3",
+          "text": "   • MẸ SIÊU NHÂN 2024 | Bản Quyền của YeaH1  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY",
+          "text": "   • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCh_zF2FsiCflCPgYDudtcqg",
+          "text": "   / @yeah1show  "
+        },
+        {
+          "url": "https://www.youtube.com/@yeah1entertainment",
+          "text": "   / @yeah1entertainment  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCI2OiZs5aVcyBUBVsgovzng",
+          "text": "   / @yeah1music  "
+        },
+        {
+          "url": "https://s.shopee.vn/6L3XDHDyca",
+          "text": "https://s.shopee.vn/6L3XDHDyca"
+        },
+        {
+          "url": "https://s.shopee.vn/6VMxPaDLHd",
+          "text": "https://s.shopee.vn/6VMxPaDLHd"
+        },
+        {
+          "url": "https://s.shopee.vn/60QgofFFIY",
+          "text": "https://s.shopee.vn/60QgofFFIY"
+        },
+        {
+          "url": "https://s.shopee.vn/6Ak70yEbxb",
+          "text": "https://s.shopee.vn/6Ak70yEbxb"
+        },
+        {
+          "url": "https://s.shopee.vn/5fnqQ3GVyW",
+          "text": "https://s.shopee.vn/5fnqQ3GVyW"
+        },
+        {
+          "url": "https://s.shopee.vn/3g2m2UW1cl",
+          "text": "https://s.shopee.vn/3g2m2UW1cl"
+        },
+        {
+          "url": "https://s.shopee.vn/4Az2dPU7bs",
+          "text": "https://s.shopee.vn/4Az2dPU7bs"
+        },
+        {
+          "url": "https://s.shopee.vn/40fcR6Ukwr",
+          "text": "https://s.shopee.vn/40fcR6Ukwr"
+        },
+        {
+          "url": "https://s.shopee.vn/4Vbt21Sqvy",
+          "text": "https://s.shopee.vn/4Vbt21Sqvy"
+        },
+        {
+          "url": "https://s.shopee.vn/W5dQnAqzI",
+          "text": "https://s.shopee.vn/W5dQnAqzI"
+        },
+        {
+          "url": "https://s.shopee.vn/LmDEUBUKH",
+          "text": "https://s.shopee.vn/LmDEUBUKH"
+        },
+        {
+          "url": "https://s.shopee.vn/904BYSCkMQ",
+          "text": "https://s.shopee.vn/904BYSCkMQ"
+        },
+        {
+          "url": "https://s.shopee.vn/111u1lBrXv",
+          "text": "https://s.shopee.vn/111u1lBrXv"
+        },
+        {
+          "url": "https://s.shopee.vn/60QZyxatUT",
+          "text": "https://s.shopee.vn/60QZyxatUT"
+        },
+        {
+          "url": "https://s.shopee.vn/40fVbJ9Bos",
+          "text": "https://s.shopee.vn/40fVbJ9Bos"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/nhachaymoingay",
+          "text": "#nhachaymoingay"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/nhachay2026",
+          "text": "#nhachay2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/musicvideo",
+          "text": "#musicvideo"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 5,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLdWk-MlnCC7M",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLdWk-MlnCC7M",
+      "isPaidContent": false
+    },
+    {
+      "title": "ANH TRAI VƯỢT NGÀN CHÔNG GAI 2026 - Tập 1 | 34 Anh Tài - Hành Trình Cổ Tích Của Người Hùng bắt đầu",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "dXkw0uMUBYs",
+      "url": "https://www.youtube.com/watch?v=dXkw0uMUBYs&list=PLdWk-MlnCC7M&index=1",
+      "thumbnailUrl": "https://i.ytimg.com/vi/dXkw0uMUBYs/maxresdefault.jpg",
+      "viewCount": 6598360,
+      "date": "2026-06-27T13:30:06.000Z",
+      "likes": 70000,
+      "location": null,
+      "channelName": "YEAH1 SHOW",
+      "channelUrl": "https://www.youtube.com/@YEAH1SHOW",
+      "channelUsername": "YEAH1SHOW",
+      "collaborators": [
+        {
+          "name": "YEAH1 SHOW",
+          "username": "YEAH1SHOW",
+          "url": "https://www.youtube.com/@YEAH1SHOW",
+          "channelId": "UCh_zF2FsiCflCPgYDudtcqg"
+        },
+        {
+          "name": "YeaH1 Giải Trí",
+          "username": "YEAH1_GIAITRI",
+          "url": "https://www.youtube.com/@YEAH1_GIAITRI",
+          "channelId": "UCecta98cdYVFV6L_lfH__IA"
+        },
+        {
+          "name": "YeaH1 Trending",
+          "username": "YeaH1Trending",
+          "url": "https://www.youtube.com/@YeaH1Trending",
+          "channelId": "UCO4hOvuIUEx1rPHldofBCnw"
+        },
+        {
+          "name": "YEAH1 MUSIC",
+          "username": "yeah1music",
+          "url": "https://www.youtube.com/@yeah1music",
+          "channelId": "UCI2OiZs5aVcyBUBVsgovzng"
+        }
+      ],
+      "channelId": "UCh_zF2FsiCflCPgYDudtcqg",
+      "numberOfSubscribers": 765000,
+      "duration": "05:38:25",
+      "commentsCount": 9449,
+      "text": "ANH TRAI VƯỢT NGÀN CHÔNG GAI 2026 - Tập 1 | 34 Anh Tài - Hành Trình Cổ Tích Của Người Hùng bắt đầu\n\n#AnhTraiVuotNganChongGai2026 #ATVNCG2026 #ATVNCG #AnhTraiVuotNganChongGai #AnhTaiK26  #YeaH1 #1Production #AnhTraiVuotNganChongGai2026Show #realityshow #Chonggai #anhtraichonggai #music #liveperformance #showbiz #showmoi2026\n\n----------------------------------------------\n34 Anh Tài đã chính thức hội ngộ, mở màn cho hành trình đầy thử thách. Ngay trong lần đầu tiên cùng xuất hiện trên một sân khấu, các Anh Tài sẽ được chia thành 10 nhóm với những màu sắc và cá tính riêng để bước vào màn đối đầu đầu tiên. Thế nhưng, khi cuộc chơi vừa bắt đầu, đồng hồ đã lập tức đếm ngược, đẩy mọi người vào cuộc đua với áp lực và thời gian. Liệu những thử thách nào đang chờ đón phía trước? Cùng khám phá những cặp đấu đầu tiên trong tập mở màn!\n----------------------------------------------\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Anh Trai Vượt Ngàn Chông Gai 2026 trên: \n\n📍FanPage: https://www.facebook.com/AnhTraiVuotNganChongGai\n📍TikTok: https://www.tiktok.com/@anhtraivuotnganchonggai\n\n📺34 ANH TÀI GHI DANH NIÊN KHÓA 26 - ANH TRAI VƯỢT NGÀN CHÔNG GAI 2026\n\nChương trình truyền hình thực tế truyền cảm hứng Anh Trai Vượt Ngàn Chông Gai 2026 sẽ phát sóng vào thứ 7 hàng tuần lúc 20h trên kênh VTV3 và 20h30 trên YouTube YeaH1 Show từ ngày 27/06/2026\n\nAnh Trai Vượt Ngàn Chông Gai hứa hẹn tạo nên sự bùng nổ và tạo nên làn sóng giải trí hấp dẫn tại Việt Nam, mang đến màn trình diễn mãn nhãn, mãn nhĩ với những tiết mục trình diễn âm nhạc được dàn dựng công phu và hoành tráng nhất trên sân khấu bậc nhất, cũng như truyền tải năng lượng tích cực đến khán giả Việt Nam trong mỗi tập phát sóng.\n\n\n🕺 Các nghệ sĩ góp mặt vào của chương trình, bao gồm: ĐẠI NGHĨA, DŨNG DT, NGUYỄN VĂN CHUNG, THÁI VG, TÙNG MINT, THANH DUY, THỎ (DA LAB), TRỊNH THĂNG BÌNH, HOÀNG TÔN, THƠM (DA LAB), JUN PHẠM, ĐINH MẠNH NINH, VƯƠNG ANH TÚ, WILL, MEW AMAZING, NEKO LÊ, BB TRẦN, HOÀNG ROB, THUẬN NGUYỄN, HUỲNH LẬP, ĐÔNG HÙNG, TOKI THÀNH THỎ, IT'S CHARLES., DUY KHÁNH, CHENG, K.O, HOÀNG DŨNG, LÊ XUÂN TIỀN, OSAD, 14 CASPER, HỒ ĐÔNG QUAN, PHÙNG MINH CƯƠNG, THÁI LÊ MINH HIẾU, HÀ AN HUY.\n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng: https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44\n►Anh Trai Vượt Ngàn Chông Gai 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq\n►Chị Đẹp Đạp Gió 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF\n►Chị Đẹp Đạp Gió Rẽ Sóng 2023: https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A\n►Mẹ Siêu Nhân: https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3\n► Gia Đình Haha: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY\n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 SHOW: https://www.youtube.com/@YEAH1SHOW \n►YeaH1 GIẢI TRÍ: https://www.youtube.com/@yeah1entertainment \n►YeaH1 Music: https://www.youtube.com/@yeah1music\n----------------------------------------------\n📺 Đón xem Anh Trai Vượt Ngàn Chông Gai 2026 Phát sóng 20h trên kênh VTV3 và 20h30 trên Youtube YeaH1 SHOW và Ứng dụng giải trí Mango Plus\n\n© Bản quyền thuộc YeaH1 - nhà sản xuất các chương trình giải trí hàng đầu như Gia Đình Haha, Tân Binh Toàn Năng, Anh Trai Vượt Ngàn Chông Gai 2024, Chị Đẹp Đạp Gió Rẽ Sóng",
+      "translatedText": "ANH TRAI VƯỢT NGÀN CHÔNG GAI 2026 - Tập 1 | 34 Anh Tài - Hành Trình Cổ Tích Của Người Hùng bắt đầu\n\n#AnhTraiVuotNganChongGai2026 #ATVNCG2026 #ATVNCG #AnhTraiVuotNganChongGai #AnhTaiK26  #YeaH1 #1Production #AnhTraiVuotNganChongGai2026Show #realityshow #Chonggai #anhtraichonggai #music #liveperformance #showbiz #showmoi2026\n\n----------------------------------------------\n34 Anh Tài đã chính thức hội ngộ, mở màn cho hành trình đầy thử thách. Ngay trong lần đầu tiên cùng xuất hiện trên một sân khấu, các Anh Tài sẽ được chia thành 10 nhóm với những màu sắc và cá tính riêng để bước vào màn đối đầu đầu tiên. Thế nhưng, khi cuộc chơi vừa bắt đầu, đồng hồ đã lập tức đếm ngược, đẩy mọi người vào cuộc đua với áp lực và thời gian. Liệu những thử thách nào đang chờ đón phía trước? Cùng khám phá những cặp đấu đầu tiên trong tập mở màn!\n----------------------------------------------\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Anh Trai Vượt Ngàn Chông Gai 2026 trên: \n\n📍FanPage:   / anhtraivuotnganchonggai  \n📍TikTok:   / anhtraivuotnganchonggai  \n\n📺34 ANH TÀI GHI DANH NIÊN KHÓA 26 - ANH TRAI VƯỢT NGÀN CHÔNG GAI 2026\n\nChương trình truyền hình thực tế truyền cảm hứng Anh Trai Vượt Ngàn Chông Gai 2026 sẽ phát sóng vào thứ 7 hàng tuần lúc 20h trên kênh VTV3 và 20h30 trên YouTube YeaH1 Show từ ngày 27/06/2026\n\nAnh Trai Vượt Ngàn Chông Gai hứa hẹn tạo nên sự bùng nổ và tạo nên làn sóng giải trí hấp dẫn tại Việt Nam, mang đến màn trình diễn mãn nhãn, mãn nhĩ với những tiết mục trình diễn âm nhạc được dàn dựng công phu và hoành tráng nhất trên sân khấu bậc nhất, cũng như truyền tải năng lượng tích cực đến khán giả Việt Nam trong mỗi tập phát sóng.\n\n\n🕺 Các nghệ sĩ góp mặt vào của chương trình, bao gồm: ĐẠI NGHĨA, DŨNG DT, NGUYỄN VĂN CHUNG, THÁI VG, TÙNG MINT, THANH DUY, THỎ (DA LAB), TRỊNH THĂNG BÌNH, HOÀNG TÔN, THƠM (DA LAB), JUN PHẠM, ĐINH MẠNH NINH, VƯƠNG ANH TÚ, WILL, MEW AMAZING, NEKO LÊ, BB TRẦN, HOÀNG ROB, THUẬN NGUYỄN, HUỲNH LẬP, ĐÔNG HÙNG, TOKI THÀNH THỎ, IT'S CHARLES., DUY KHÁNH, CHENG, K.O, HOÀNG DŨNG, LÊ XUÂN TIỀN, OSAD, 14 CASPER, HỒ ĐÔNG QUAN, PHÙNG MINH CƯƠNG, THÁI LÊ MINH HIẾU, HÀ AN HUY.\n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng:    • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  \n►Anh Trai Vượt Ngàn Chông Gai 2024:    • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  \n►Chị Đẹp Đạp Gió 2024:    • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  \n►Chị Đẹp Đạp Gió Rẽ Sóng 2023:    • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  \n►Mẹ Siêu Nhân:    • MẸ SIÊU NHÂN 2024 | Bản Quyền của YeaH1  \n► Gia Đình Haha:    • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  \n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 SHOW:    / @yeah1show   \n►YeaH1 GIẢI TRÍ:    / @yeah1entertainment   \n►YeaH1 Music:    / @yeah1music  \n----------------------------------------------\n📺 Đón xem Anh Trai Vượt Ngàn Chông Gai 2026 Phát sóng 20h trên kênh VTV3 và 20h30 trên Youtube YeaH1 SHOW và Ứng dụng giải trí Mango Plus\n\n© Bản quyền thuộc YeaH1 - nhà sản xuất các chương trình giải trí hàng đầu như Gia Đình Haha, Tân Binh Toàn Năng, Anh Trai Vượt Ngàn Chông Gai 2024, Chị Đẹp Đạp Gió Rẽ Sóng",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/anhtraivuotnganchonggai2026",
+          "text": "#AnhTraiVuotNganChongGai2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/atvncg2026",
+          "text": "#ATVNCG2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/atvncg",
+          "text": "#ATVNCG"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtraivuotnganchonggai",
+          "text": "#AnhTraiVuotNganChongGai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtaik26",
+          "text": "#AnhTaiK26"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/1production",
+          "text": "#1Production"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtraivuotnganchonggai2026show",
+          "text": "#AnhTraiVuotNganChongGai2026Show"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/realityshow",
+          "text": "#realityshow"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chonggai",
+          "text": "#Chonggai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtraichonggai",
+          "text": "#anhtraichonggai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/music",
+          "text": "#music"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/liveperformance",
+          "text": "#liveperformance"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showbiz",
+          "text": "#showbiz"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showmoi2026",
+          "text": "#showmoi2026"
+        },
+        {
+          "url": "https://www.facebook.com/AnhTraiVuotNganChongGai",
+          "text": "  / anhtraivuotnganchonggai  "
+        },
+        {
+          "url": "https://www.tiktok.com/@anhtraivuotnganchonggai",
+          "text": "  / anhtraivuotnganchonggai  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44",
+          "text": "   • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+          "text": "   • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3",
+          "text": "   • MẸ SIÊU NHÂN 2024 | Bản Quyền của YeaH1  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY",
+          "text": "   • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCh_zF2FsiCflCPgYDudtcqg",
+          "text": "   / @yeah1show  "
+        },
+        {
+          "url": "https://www.youtube.com/@yeah1entertainment",
+          "text": "   / @yeah1entertainment  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCI2OiZs5aVcyBUBVsgovzng",
+          "text": "   / @yeah1music  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 0,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLdWk-MlnCC7M",
+      "isMonetized": null,
+      "hashtags": [
+        "#AnhTraiVuotNganChongGai2026",
+        "#ATVNCG",
+        "#ATVNCG2026"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLdWk-MlnCC7M",
+      "isPaidContent": false
+    },
+    {
+      "title": "ANH TRAI VƯỢT NGÀN CHÔNG GAI 2026 - Tập 3 | Công diễn 1 mở màn - Bảng đấu định đoạt số phận ra sao?",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "AXCczcyNCoQ",
+      "url": "https://www.youtube.com/watch?v=AXCczcyNCoQ&list=PLdWk-MlnCC7M&index=3",
+      "thumbnailUrl": "https://i.ytimg.com/vi/AXCczcyNCoQ/maxresdefault.jpg",
+      "viewCount": 3025738,
+      "date": "2026-07-18T13:30:06.000Z",
+      "likes": 32000,
+      "location": null,
+      "channelName": "YEAH1 SHOW",
+      "channelUrl": "https://www.youtube.com/@YEAH1SHOW",
+      "channelUsername": "YEAH1SHOW",
+      "collaborators": [
+        {
+          "name": "YEAH1 SHOW",
+          "username": "YEAH1SHOW",
+          "url": "https://www.youtube.com/@YEAH1SHOW",
+          "channelId": "UCh_zF2FsiCflCPgYDudtcqg"
+        },
+        {
+          "name": "YeaH1 Giải Trí",
+          "username": "YEAH1_GIAITRI",
+          "url": "https://www.youtube.com/@YEAH1_GIAITRI",
+          "channelId": "UCecta98cdYVFV6L_lfH__IA"
+        },
+        {
+          "name": "YeaH1 Trending",
+          "username": "YeaH1Trending",
+          "url": "https://www.youtube.com/@YeaH1Trending",
+          "channelId": "UCO4hOvuIUEx1rPHldofBCnw"
+        },
+        {
+          "name": "YEAH1 MUSIC",
+          "username": "yeah1music",
+          "url": "https://www.youtube.com/@yeah1music",
+          "channelId": "UCI2OiZs5aVcyBUBVsgovzng"
+        },
+        {
+          "name": "YeaH1 ONE",
+          "username": "YeaH1ONE",
+          "url": "https://www.youtube.com/@YeaH1ONE",
+          "channelId": "UC_np0YZuvNMIJceE6jHeggQ"
+        }
+      ],
+      "channelId": "UCh_zF2FsiCflCPgYDudtcqg",
+      "numberOfSubscribers": 765000,
+      "duration": "03:39:05",
+      "commentsCount": 4434,
+      "text": "ANH TRAI VƯỢT NGÀN CHÔNG GAI 2026 - Tập 3 | Công diễn 1 mở màn - Bảng đấu định đoạt số phận ra sao?\n\n\n#AnhTraiVuotNganChongGai2026 #ATVNCG2026 #ATVNCG #AnhTraiVuotNganChongGai #AnhTaiK26  #YeaH1 #1Production #AnhTraiVuotNganChongGai2026Show #realityshow #Chonggai #anhtraichonggai #music #liveperformance #showbiz #showmoi2026 \n\n----------------------------------------------\nCông Diễn 1 chính thức khởi tranh với luật chơi mới đầy khắc nghiệt, đánh dấu sự tan rã của các nhóm tại Công Diễn Hội Ngộ khi các anh tài phải chia đội để bước vào những màn đối đầu trực diện. Chỉ duy nhất một đội ở mỗi bảng giành quyền an toàn, khiến cuộc chiến trở nên căng thẳng hơn bao giờ hết khi sẽ có những anh tài phải dừng cuộc chơi ngay sau Công Diễn đầu tiên. Với chủ đề \"Người Đàn Ông Trên Lưng Ngựa\", các đội sẽ mang đến những màn trình diễn được đầu tư công phu, hứa hẹn đưa khán giả đi qua nhiều cung bậc cảm xúc. Đừng bỏ lỡ Tập 3 và cùng chia sẻ đâu là tiết mục khiến bạn ấn tượng nhất!\n----------------------------------------------\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Anh Trai Vượt Ngàn Chông Gai 2026 trên: \n\n📍FanPage: https://www.facebook.com/AnhTraiVuotNganChongGai\n📍TikTok: https://www.tiktok.com/@anhtraivuotnganchonggai\n\n📺34 ANH TÀI GHI DANH NIÊN KHÓA 26 - ANH TRAI VƯỢT NGÀN CHÔNG GAI 2026\n\nChương trình truyền hình thực tế truyền cảm hứng Anh Trai Vượt Ngàn Chông Gai 2026 sẽ phát sóng vào thứ 7 hàng tuần lúc 20h trên kênh VTV3 và 20h30 trên YouTube YeaH1 Show từ ngày 27/06/2026\n\nAnh Trai Vượt Ngàn Chông Gai hứa hẹn tạo nên sự bùng nổ và tạo nên làn sóng giải trí hấp dẫn tại Việt Nam, mang đến màn trình diễn mãn nhãn, mãn nhĩ với những tiết mục trình diễn âm nhạc được dàn dựng công phu và hoành tráng nhất trên sân khấu bậc nhất, cũng như truyền tải năng lượng tích cực đến khán giả Việt Nam trong mỗi tập phát sóng.\n\n\n🕺 Các nghệ sĩ góp mặt vào của chương trình, bao gồm: ĐẠI NGHĨA, DŨNG DT, NGUYỄN VĂN CHUNG, THÁI VG, TÙNG MINT, THANH DUY, THỎ (DA LAB), TRỊNH THĂNG BÌNH, HOÀNG TÔN, THƠM (DA LAB), JUN PHẠM, ĐINH MẠNH NINH, VƯƠNG ANH TÚ, WILL, MEW AMAZING, NEKO LÊ, BB TRẦN, HOÀNG ROB, THUẬN NGUYỄN, HUỲNH LẬP, ĐÔNG HÙNG, TOKI THÀNH THỎ, IT'S CHARLES., DUY KHÁNH, CHENG, K.O, HOÀNG DŨNG, LÊ XUÂN TIỀN, OSAD, 14 CASPER, HỒ ĐÔNG QUAN, PHÙNG MINH CƯƠNG, THÁI LÊ MINH HIẾU, HÀ AN HUY.\n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng: https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44\n►Anh Trai Vượt Ngàn Chông Gai 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq\n►Chị Đẹp Đạp Gió 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF\n►Chị Đẹp Đạp Gió Rẽ Sóng 2023: https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A\n►Mẹ Siêu Nhân: https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3\n► Gia Đình Haha: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY\n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 SHOW: https://www.youtube.com/@YEAH1SHOW \n►YeaH1 GIẢI TRÍ: https://www.youtube.com/@yeah1entertainment \n►YeaH1 Music: https://www.youtube.com/@yeah1music\n----------------------------------------------\nTham khảo các sản phẩm công nghệ, thời trang, sản phẩm tiêu dùng\nBù Nước Bù Khoáng \n  👉 Link 1: https://s.shopee.vn/6VMSaNFSkQ\n  👉 Link 2: https://s.shopee.vn/20u3FMrsll\n  👉 Link 3: https://s.shopee.vn/2BDTRhqAIo\n  👉 Link 4: https://s.shopee.vn/6ffso0hAA5\n  👉 Link 5: https://s.shopee.vn/AKZBAlXxLT\n  👉 Link 6: https://s.shopee.vn/9V04BFqscF\nCông Nghệ\n  👉 Link 1: https://s.shopee.vn/8AUCYWCnad\n  👉 Link 2: https://s.shopee.vn/4VauCT1Ctv\n  👉 Link 3: https://s.shopee.vn/6VLyZd1uhn\n  👉 Link 4: https://s.shopee.vn/4qDkaampKX\n  👉 Link 5: https://s.shopee.vn/5fmraESFlM\n  👉 Link 6: https://s.shopee.vn/6VLyZob8WL\n  👉 Link 7: https://s.shopee.vn/70IFAl3UQP\n  👉 Link 8: https://s.shopee.vn/9Kg9xPu7DH\n  👉 Link 9: https://s.shopee.vn/8V72yRW1Fo\n  👉 Link 10: https://s.shopee.vn/6L2YOhtaWu\n  👉 Link 11: https://s.shopee.vn/7prMBX8bX3\nThời Trang💥\n  👉 Link 1: https://s.shopee.vn/18Uq4ijmz\n  👉 Link 2: https://s.shopee.vn/30m6P7IDhY\n  👉 Link 3: https://s.shopee.vn/3ViN0nJKUr\n  👉 Link 4: https://s.shopee.vn/3B5WcPmu5S\n  👉 Link 5: https://s.shopee.vn/4LHU0rJBk5\n  👉 Link 6: https://s.shopee.vn/6Aj8CG7LTl\n-----------------------------------------------------------\n📺 Đón xem Anh Trai Vượt Ngàn Chông Gai 2026 Phát sóng 20h trên kênh VTV3 và 20h30 trên Youtube YeaH1 SHOW và Ứng dụng giải trí Mango Plus\n\n© Bản quyền thuộc YeaH1 - nhà sản xuất các chương trình giải trí hàng đầu như Gia Đình Haha, Tân Binh Toàn Năng, Anh Trai Vượt Ngàn Chông Gai 2024, Chị Đẹp Đạp Gió Rẽ Sóng\n#nhachaymoingay #nhachay2026 #musicvideo",
+      "translatedText": "ANH TRAI VƯỢT NGÀN CHÔNG GAI 2026 - Tập 3 | Công diễn 1 mở màn - Bảng đấu định đoạt số phận ra sao?\n\n\n#AnhTraiVuotNganChongGai2026 #ATVNCG2026 #ATVNCG #AnhTraiVuotNganChongGai #AnhTaiK26  #YeaH1 #1Production #AnhTraiVuotNganChongGai2026Show #realityshow #Chonggai #anhtraichonggai #music #liveperformance #showbiz #showmoi2026 \n\n----------------------------------------------\nCông Diễn 1 chính thức khởi tranh với luật chơi mới đầy khắc nghiệt, đánh dấu sự tan rã của các nhóm tại Công Diễn Hội Ngộ khi các anh tài phải chia đội để bước vào những màn đối đầu trực diện. Chỉ duy nhất một đội ở mỗi bảng giành quyền an toàn, khiến cuộc chiến trở nên căng thẳng hơn bao giờ hết khi sẽ có những anh tài phải dừng cuộc chơi ngay sau Công Diễn đầu tiên. Với chủ đề \"Người Đàn Ông Trên Lưng Ngựa\", các đội sẽ mang đến những màn trình diễn được đầu tư công phu, hứa hẹn đưa khán giả đi qua nhiều cung bậc cảm xúc. Đừng bỏ lỡ Tập 3 và cùng chia sẻ đâu là tiết mục khiến bạn ấn tượng nhất!\n----------------------------------------------\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Anh Trai Vượt Ngàn Chông Gai 2026 trên: \n\n📍FanPage:   / anhtraivuotnganchonggai  \n📍TikTok:   / anhtraivuotnganchonggai  \n\n📺34 ANH TÀI GHI DANH NIÊN KHÓA 26 - ANH TRAI VƯỢT NGÀN CHÔNG GAI 2026\n\nChương trình truyền hình thực tế truyền cảm hứng Anh Trai Vượt Ngàn Chông Gai 2026 sẽ phát sóng vào thứ 7 hàng tuần lúc 20h trên kênh VTV3 và 20h30 trên YouTube YeaH1 Show từ ngày 27/06/2026\n\nAnh Trai Vượt Ngàn Chông Gai hứa hẹn tạo nên sự bùng nổ và tạo nên làn sóng giải trí hấp dẫn tại Việt Nam, mang đến màn trình diễn mãn nhãn, mãn nhĩ với những tiết mục trình diễn âm nhạc được dàn dựng công phu và hoành tráng nhất trên sân khấu bậc nhất, cũng như truyền tải năng lượng tích cực đến khán giả Việt Nam trong mỗi tập phát sóng.\n\n\n🕺 Các nghệ sĩ góp mặt vào của chương trình, bao gồm: ĐẠI NGHĨA, DŨNG DT, NGUYỄN VĂN CHUNG, THÁI VG, TÙNG MINT, THANH DUY, THỎ (DA LAB), TRỊNH THĂNG BÌNH, HOÀNG TÔN, THƠM (DA LAB), JUN PHẠM, ĐINH MẠNH NINH, VƯƠNG ANH TÚ, WILL, MEW AMAZING, NEKO LÊ, BB TRẦN, HOÀNG ROB, THUẬN NGUYỄN, HUỲNH LẬP, ĐÔNG HÙNG, TOKI THÀNH THỎ, IT'S CHARLES., DUY KHÁNH, CHENG, K.O, HOÀNG DŨNG, LÊ XUÂN TIỀN, OSAD, 14 CASPER, HỒ ĐÔNG QUAN, PHÙNG MINH CƯƠNG, THÁI LÊ MINH HIẾU, HÀ AN HUY.\n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng:    • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  \n►Anh Trai Vượt Ngàn Chông Gai 2024:    • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  \n►Chị Đẹp Đạp Gió 2024:    • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  \n►Chị Đẹp Đạp Gió Rẽ Sóng 2023:    • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  \n►Mẹ Siêu Nhân:    • MẸ SIÊU NHÂN 2024 | Bản Quyền của YeaH1  \n► Gia Đình Haha:    • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  \n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 SHOW:    / @yeah1show   \n►YeaH1 GIẢI TRÍ:    / @yeah1entertainment   \n►YeaH1 Music:    / @yeah1music  \n----------------------------------------------\nTham khảo các sản phẩm công nghệ, thời trang, sản phẩm tiêu dùng\nBù Nước Bù Khoáng \n  👉 Link 1: https://s.shopee.vn/6VMSaNFSkQ\n  👉 Link 2: https://s.shopee.vn/20u3FMrsll\n  👉 Link 3: https://s.shopee.vn/2BDTRhqAIo\n  👉 Link 4: https://s.shopee.vn/6ffso0hAA5\n  👉 Link 5: https://s.shopee.vn/AKZBAlXxLT\n  👉 Link 6: https://s.shopee.vn/9V04BFqscF\nCông Nghệ\n  👉 Link 1: https://s.shopee.vn/8AUCYWCnad\n  👉 Link 2: https://s.shopee.vn/4VauCT1Ctv\n  👉 Link 3: https://s.shopee.vn/6VLyZd1uhn\n  👉 Link 4: https://s.shopee.vn/4qDkaampKX\n  👉 Link 5: https://s.shopee.vn/5fmraESFlM\n  👉 Link 6: https://s.shopee.vn/6VLyZob8WL\n  👉 Link 7: https://s.shopee.vn/70IFAl3UQP\n  👉 Link 8: https://s.shopee.vn/9Kg9xPu7DH\n  👉 Link 9: https://s.shopee.vn/8V72yRW1Fo\n  👉 Link 10: https://s.shopee.vn/6L2YOhtaWu\n  👉 Link 11: https://s.shopee.vn/7prMBX8bX3\nThời Trang💥\n  👉 Link 1: https://s.shopee.vn/18Uq4ijmz\n  👉 Link 2: https://s.shopee.vn/30m6P7IDhY\n  👉 Link 3: https://s.shopee.vn/3ViN0nJKUr\n  👉 Link 4: https://s.shopee.vn/3B5WcPmu5S\n  👉 Link 5: https://s.shopee.vn/4LHU0rJBk5\n  👉 Link 6: https://s.shopee.vn/6Aj8CG7LTl\n-----------------------------------------------------------\n📺 Đón xem Anh Trai Vượt Ngàn Chông Gai 2026 Phát sóng 20h trên kênh VTV3 và 20h30 trên Youtube YeaH1 SHOW và Ứng dụng giải trí Mango Plus\n\n© Bản quyền thuộc YeaH1 - nhà sản xuất các chương trình giải trí hàng đầu như Gia Đình Haha, Tân Binh Toàn Năng, Anh Trai Vượt Ngàn Chông Gai 2024, Chị Đẹp Đạp Gió Rẽ Sóng\n#nhachaymoingay #nhachay2026 #musicvideo",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/anhtraivuotnganchonggai2026",
+          "text": "#AnhTraiVuotNganChongGai2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/atvncg2026",
+          "text": "#ATVNCG2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/atvncg",
+          "text": "#ATVNCG"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtraivuotnganchonggai",
+          "text": "#AnhTraiVuotNganChongGai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtaik26",
+          "text": "#AnhTaiK26"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/1production",
+          "text": "#1Production"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtraivuotnganchonggai2026show",
+          "text": "#AnhTraiVuotNganChongGai2026Show"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/realityshow",
+          "text": "#realityshow"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chonggai",
+          "text": "#Chonggai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtraichonggai",
+          "text": "#anhtraichonggai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/music",
+          "text": "#music"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/liveperformance",
+          "text": "#liveperformance"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showbiz",
+          "text": "#showbiz"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showmoi2026",
+          "text": "#showmoi2026"
+        },
+        {
+          "url": "https://www.facebook.com/AnhTraiVuotNganChongGai",
+          "text": "  / anhtraivuotnganchonggai  "
+        },
+        {
+          "url": "https://www.tiktok.com/@anhtraivuotnganchonggai",
+          "text": "  / anhtraivuotnganchonggai  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44",
+          "text": "   • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+          "text": "   • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3",
+          "text": "   • MẸ SIÊU NHÂN 2024 | Bản Quyền của YeaH1  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY",
+          "text": "   • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCh_zF2FsiCflCPgYDudtcqg",
+          "text": "   / @yeah1show  "
+        },
+        {
+          "url": "https://www.youtube.com/@yeah1entertainment",
+          "text": "   / @yeah1entertainment  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCI2OiZs5aVcyBUBVsgovzng",
+          "text": "   / @yeah1music  "
+        },
+        {
+          "url": "https://s.shopee.vn/6VMSaNFSkQ",
+          "text": "https://s.shopee.vn/6VMSaNFSkQ"
+        },
+        {
+          "url": "https://s.shopee.vn/20u3FMrsll",
+          "text": "https://s.shopee.vn/20u3FMrsll"
+        },
+        {
+          "url": "https://s.shopee.vn/2BDTRhqAIo",
+          "text": "https://s.shopee.vn/2BDTRhqAIo"
+        },
+        {
+          "url": "https://s.shopee.vn/6ffso0hAA5",
+          "text": "https://s.shopee.vn/6ffso0hAA5"
+        },
+        {
+          "url": "https://s.shopee.vn/AKZBAlXxLT",
+          "text": "https://s.shopee.vn/AKZBAlXxLT"
+        },
+        {
+          "url": "https://s.shopee.vn/9V04BFqscF",
+          "text": "https://s.shopee.vn/9V04BFqscF"
+        },
+        {
+          "url": "https://s.shopee.vn/8AUCYWCnad",
+          "text": "https://s.shopee.vn/8AUCYWCnad"
+        },
+        {
+          "url": "https://s.shopee.vn/4VauCT1Ctv",
+          "text": "https://s.shopee.vn/4VauCT1Ctv"
+        },
+        {
+          "url": "https://s.shopee.vn/6VLyZd1uhn",
+          "text": "https://s.shopee.vn/6VLyZd1uhn"
+        },
+        {
+          "url": "https://s.shopee.vn/4qDkaampKX",
+          "text": "https://s.shopee.vn/4qDkaampKX"
+        },
+        {
+          "url": "https://s.shopee.vn/5fmraESFlM",
+          "text": "https://s.shopee.vn/5fmraESFlM"
+        },
+        {
+          "url": "https://s.shopee.vn/6VLyZob8WL",
+          "text": "https://s.shopee.vn/6VLyZob8WL"
+        },
+        {
+          "url": "https://s.shopee.vn/70IFAl3UQP",
+          "text": "https://s.shopee.vn/70IFAl3UQP"
+        },
+        {
+          "url": "https://s.shopee.vn/9Kg9xPu7DH",
+          "text": "https://s.shopee.vn/9Kg9xPu7DH"
+        },
+        {
+          "url": "https://s.shopee.vn/8V72yRW1Fo",
+          "text": "https://s.shopee.vn/8V72yRW1Fo"
+        },
+        {
+          "url": "https://s.shopee.vn/6L2YOhtaWu",
+          "text": "https://s.shopee.vn/6L2YOhtaWu"
+        },
+        {
+          "url": "https://s.shopee.vn/7prMBX8bX3",
+          "text": "https://s.shopee.vn/7prMBX8bX3"
+        },
+        {
+          "url": "https://s.shopee.vn/18Uq4ijmz",
+          "text": "https://s.shopee.vn/18Uq4ijmz"
+        },
+        {
+          "url": "https://s.shopee.vn/30m6P7IDhY",
+          "text": "https://s.shopee.vn/30m6P7IDhY"
+        },
+        {
+          "url": "https://s.shopee.vn/3ViN0nJKUr",
+          "text": "https://s.shopee.vn/3ViN0nJKUr"
+        },
+        {
+          "url": "https://s.shopee.vn/3B5WcPmu5S",
+          "text": "https://s.shopee.vn/3B5WcPmu5S"
+        },
+        {
+          "url": "https://s.shopee.vn/4LHU0rJBk5",
+          "text": "https://s.shopee.vn/4LHU0rJBk5"
+        },
+        {
+          "url": "https://s.shopee.vn/6Aj8CG7LTl",
+          "text": "https://s.shopee.vn/6Aj8CG7LTl"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/nhachaymoingay",
+          "text": "#nhachaymoingay"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/nhachay2026",
+          "text": "#nhachay2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/musicvideo",
+          "text": "#musicvideo"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 2,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLdWk-MlnCC7M",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLdWk-MlnCC7M",
+      "isPaidContent": false
+    },
+    {
+      "title": "ANH TRAI VƯỢT NGÀN CHÔNG GAI 2026 - Tập 5 | Chuyến Ngoại Khoá SUNG SƯỚNG & THOẢI MÁI của Các Anh Tài",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "ESz__7Pdyf8",
+      "url": "https://www.youtube.com/watch?v=ESz__7Pdyf8&list=PLdWk-MlnCC7M&index=5",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ESz__7Pdyf8/maxresdefault.jpg",
+      "viewCount": 2200150,
+      "date": "2026-08-01T13:30:06.000Z",
+      "likes": 21000,
+      "location": null,
+      "channelName": "YEAH1 SHOW",
+      "channelUrl": "https://www.youtube.com/@YEAH1SHOW",
+      "channelUsername": "YEAH1SHOW",
+      "collaborators": [
+        {
+          "name": "YEAH1 SHOW",
+          "username": "YEAH1SHOW",
+          "url": "https://www.youtube.com/@YEAH1SHOW",
+          "channelId": "UCh_zF2FsiCflCPgYDudtcqg"
+        },
+        {
+          "name": "YeaH1 Giải Trí",
+          "username": "YEAH1_GIAITRI",
+          "url": "https://www.youtube.com/@YEAH1_GIAITRI",
+          "channelId": "UCecta98cdYVFV6L_lfH__IA"
+        },
+        {
+          "name": "YeaH1 ONE",
+          "username": "YeaH1ONE",
+          "url": "https://www.youtube.com/@YeaH1ONE",
+          "channelId": "UC_np0YZuvNMIJceE6jHeggQ"
+        },
+        {
+          "name": "YeaH1 Trending",
+          "username": "YeaH1Trending",
+          "url": "https://www.youtube.com/@YeaH1Trending",
+          "channelId": "UCO4hOvuIUEx1rPHldofBCnw"
+        },
+        {
+          "name": "YEAH1 MUSIC",
+          "username": "yeah1music",
+          "url": "https://www.youtube.com/@yeah1music",
+          "channelId": "UCI2OiZs5aVcyBUBVsgovzng"
+        }
+      ],
+      "channelId": "UCh_zF2FsiCflCPgYDudtcqg",
+      "numberOfSubscribers": 765000,
+      "duration": "04:10:46",
+      "commentsCount": 2715,
+      "text": "ANH TRAI VƯỢT NGÀN CHÔNG GAI 2026 - Tập 5 | Chuyến Ngoại Khoá SUNG SƯỚNG & THOẢI MÁI của Các Anh Tài\n\n#AnhTraiVuotNganChongGai2026 #ATVNCG2026 #ATVNCG #AnhTraiVuotNganChongGai #AnhTaiK26  #YeaH1 #1Production #AnhTraiVuotNganChongGai2026Show #realityshow #Chonggai #anhtraichonggai #music #liveperformance #showbiz #showmoi2026 \n\n----------------------------------------------\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Anh Trai Vượt Ngàn Chông Gai 2026 trên: \n\n📍FanPage: https://www.facebook.com/AnhTraiVuotNganChongGai\n📍TikTok: https://www.tiktok.com/@anhtraivuotnganchonggai\n\n📺34 ANH TÀI GHI DANH NIÊN KHÓA 26 - ANH TRAI VƯỢT NGÀN CHÔNG GAI 2026\n\nChương trình truyền hình thực tế truyền cảm hứng Anh Trai Vượt Ngàn Chông Gai 2026 sẽ phát sóng vào thứ 7 hàng tuần lúc 20h trên kênh VTV3 và 20h30 trên YouTube YeaH1 Show từ ngày 27/06/2026\n\nAnh Trai Vượt Ngàn Chông Gai hứa hẹn tạo nên sự bùng nổ và tạo nên làn sóng giải trí hấp dẫn tại Việt Nam, mang đến màn trình diễn mãn nhãn, mãn nhĩ với những tiết mục trình diễn âm nhạc được dàn dựng công phu và hoành tráng nhất trên sân khấu bậc nhất, cũng như truyền tải năng lượng tích cực đến khán giả Việt Nam trong mỗi tập phát sóng.\n\n\n🕺 Các nghệ sĩ góp mặt vào của chương trình, bao gồm: ĐẠI NGHĨA, NGUYỄN VĂN CHUNG, THÁI VG, TÙNG MINT, THANH DUY, THỎ (DA LAB), TRỊNH THĂNG BÌNH, HOÀNG TÔN, THƠM (DA LAB), JUN PHẠM, ĐINH MẠNH NINH, VƯƠNG ANH TÚ, WILL, MEW AMAZING, NEKO LÊ, BB TRẦN, HOÀNG ROB, THUẬN NGUYỄN, HUỲNH LẬP, ĐÔNG HÙNG, TOKI THÀNH THỎ, IT'S CHARLES., DUY KHÁNH, CHENG, K.O, HOÀNG DŨNG, LÊ XUÂN TIỀN, OSAD, 14 CASPER, HỒ ĐÔNG QUAN, PHÙNG MINH CƯƠNG, THÁI LÊ MINH HIẾU, HÀ AN HUY.\n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng: https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44\n►Anh Trai Vượt Ngàn Chông Gai 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq\n►Chị Đẹp Đạp Gió 2024: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF\n►Chị Đẹp Đạp Gió Rẽ Sóng 2023: https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A\n►Mẹ Siêu Nhân: https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3\n► Gia Đình Haha: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY\n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 SHOW: https://www.youtube.com/@YEAH1SHOW \n►YeaH1 GIẢI TRÍ: https://www.youtube.com/@yeah1entertainment \n►YeaH1 Music: https://www.youtube.com/@yeah1music\n----------------------------------------------\nTham khảo các sản phẩm công nghệ, thời trang, sản phẩm tiêu dùng\nBù Nước Bù Khoáng \n  👉 Link 1: https://s.shopee.vn/2LXAPdlHTL\n  👉 Link 2: https://s.shopee.vn/4fv5BwOrbw\n  👉 Link 3: https://s.shopee.vn/3qLyCQ9l3v\n  👉 Link 4: https://s.shopee.vn/3B6HPCzArH\n  👉 Link 5: https://s.shopee.vn/8pke9dCndQ\n  👉 Link 6: https://s.shopee.vn/2qTR0duper\nBông Tẩy Trang\n  👉 Link 1: https://s.shopee.vn/9044M2V3JA\n  👉 Link 2: https://s.shopee.vn/30mrD1igs0\n  👉 Link 3: https://s.shopee.vn/6pzZm5lynW\n  👉 Link 4: https://s.shopee.vn/60QSmaSCyX\n  👉 Link 5: https://s.shopee.vn/2VqacAaFPl\n  👉 Link 6: https://s.shopee.vn/9pdBLgTJYZ\n-----------------------------------------------------------\n📺 Đón xem Anh Trai Vượt Ngàn Chông Gai 2026 Phát sóng 20h trên kênh VTV3 và 20h30 trên Youtube YeaH1 SHOW và Ứng dụng giải trí Mango Plus\n\n© Bản quyền thuộc YeaH1 - nhà sản xuất các chương trình giải trí hàng đầu như Gia Đình Haha, Tân Binh Toàn Năng, Anh Trai Vượt Ngàn Chông Gai 2024, Chị Đẹp Đạp Gió Rẽ Sóng\n#nhachaymoingay #nhachay2026 #musicvideo Tham khảo các sản phẩm công nghệ, thời trang, sản phẩm tiêu dùng\nBông tẩy trang làm sạch da Bông Bạch Tuyết Calla \n  👉 Link 1: https://s.shopee.vn/7KvxZWGTkA\n  👉 Link 2: https://s.shopee.vn/gP3cpYLCi\n  👉 Link 3: https://s.shopee.vn/qiTp8Xhrl\n  👉 Link 4: https://s.shopee.vn/111u1RX4Wo\n  👉 Link 5: https://s.shopee.vn/1BLKDkWRBr\n  👉 Link 6: https://s.shopee.vn/3VjF0AzVAZ\n  👉 Link 7: https://s.shopee.vn/30myPG1PBU\n  👉 Link 8: https://s.shopee.vn/3B6ObZ0lqX\n  👉 Link 9: https://s.shopee.vn/2gA80e2frS\n  👉 Link 10: https://s.shopee.vn/1qb10yTtpv\n\n   \nBù Nước Bù Khoáng \n  👉 Link 1: https://s.shopee.vn/W5dQnAqzI\n  👉 Link 2: https://s.shopee.vn/LmDEUBUKH\n  👉 Link 3: https://s.shopee.vn/904BYSCkMQ\n  👉 Link 4: https://s.shopee.vn/111u1lBrXv\n  👉 Link 5: https://s.shopee.vn/60QZyxatUT\n  👉 Link 6: https://s.shopee.vn/40fVbJ9Bos",
+      "translatedText": "ANH TRAI VƯỢT NGÀN CHÔNG GAI 2026 - Tập 5 | Chuyến Ngoại Khoá SUNG SƯỚNG & THOẢI MÁI của Các Anh Tài\n\n#AnhTraiVuotNganChongGai2026 #ATVNCG2026 #ATVNCG #AnhTraiVuotNganChongGai #AnhTaiK26  #YeaH1 #1Production #AnhTraiVuotNganChongGai2026Show #realityshow #Chonggai #anhtraichonggai #music #liveperformance #showbiz #showmoi2026 \n\n----------------------------------------------\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Anh Trai Vượt Ngàn Chông Gai 2026 trên: \n\n📍FanPage:   / anhtraivuotnganchonggai  \n📍TikTok:   / anhtraivuotnganchonggai  \n\n📺34 ANH TÀI GHI DANH NIÊN KHÓA 26 - ANH TRAI VƯỢT NGÀN CHÔNG GAI 2026\n\nChương trình truyền hình thực tế truyền cảm hứng Anh Trai Vượt Ngàn Chông Gai 2026 sẽ phát sóng vào thứ 7 hàng tuần lúc 20h trên kênh VTV3 và 20h30 trên YouTube YeaH1 Show từ ngày 27/06/2026\n\nAnh Trai Vượt Ngàn Chông Gai hứa hẹn tạo nên sự bùng nổ và tạo nên làn sóng giải trí hấp dẫn tại Việt Nam, mang đến màn trình diễn mãn nhãn, mãn nhĩ với những tiết mục trình diễn âm nhạc được dàn dựng công phu và hoành tráng nhất trên sân khấu bậc nhất, cũng như truyền tải năng lượng tích cực đến khán giả Việt Nam trong mỗi tập phát sóng.\n\n\n🕺 Các nghệ sĩ góp mặt vào của chương trình, bao gồm: ĐẠI NGHĨA, NGUYỄN VĂN CHUNG, THÁI VG, TÙNG MINT, THANH DUY, THỎ (DA LAB), TRỊNH THĂNG BÌNH, HOÀNG TÔN, THƠM (DA LAB), JUN PHẠM, ĐINH MẠNH NINH, VƯƠNG ANH TÚ, WILL, MEW AMAZING, NEKO LÊ, BB TRẦN, HOÀNG ROB, THUẬN NGUYỄN, HUỲNH LẬP, ĐÔNG HÙNG, TOKI THÀNH THỎ, IT'S CHARLES., DUY KHÁNH, CHENG, K.O, HOÀNG DŨNG, LÊ XUÂN TIỀN, OSAD, 14 CASPER, HỒ ĐÔNG QUAN, PHÙNG MINH CƯƠNG, THÁI LÊ MINH HIẾU, HÀ AN HUY.\n----------------------------------------------\n\nXem các chương trình hấp dẫn khác của YeaH1:\n►Tân Binh Toàn Năng:    • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  \n►Anh Trai Vượt Ngàn Chông Gai 2024:    • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  \n►Chị Đẹp Đạp Gió 2024:    • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  \n►Chị Đẹp Đạp Gió Rẽ Sóng 2023:    • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  \n►Mẹ Siêu Nhân:    • MẸ SIÊU NHÂN 2024 | Bản Quyền của YeaH1  \n► Gia Đình Haha:    • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  \n\nHoặc xem thêm trên hệ thống YeaH1:\n►YeaH1 SHOW:    / @yeah1show   \n►YeaH1 GIẢI TRÍ:    / @yeah1entertainment   \n►YeaH1 Music:    / @yeah1music  \n----------------------------------------------\nTham khảo các sản phẩm công nghệ, thời trang, sản phẩm tiêu dùng\nBù Nước Bù Khoáng \n  👉 Link 1: https://s.shopee.vn/2LXAPdlHTL\n  👉 Link 2: https://s.shopee.vn/4fv5BwOrbw\n  👉 Link 3: https://s.shopee.vn/3qLyCQ9l3v\n  👉 Link 4: https://s.shopee.vn/3B6HPCzArH\n  👉 Link 5: https://s.shopee.vn/8pke9dCndQ\n  👉 Link 6: https://s.shopee.vn/2qTR0duper\nBông Tẩy Trang\n  👉 Link 1: https://s.shopee.vn/9044M2V3JA\n  👉 Link 2: https://s.shopee.vn/30mrD1igs0\n  👉 Link 3: https://s.shopee.vn/6pzZm5lynW\n  👉 Link 4: https://s.shopee.vn/60QSmaSCyX\n  👉 Link 5: https://s.shopee.vn/2VqacAaFPl\n  👉 Link 6: https://s.shopee.vn/9pdBLgTJYZ\n-----------------------------------------------------------\n📺 Đón xem Anh Trai Vượt Ngàn Chông Gai 2026 Phát sóng 20h trên kênh VTV3 và 20h30 trên Youtube YeaH1 SHOW và Ứng dụng giải trí Mango Plus\n\n© Bản quyền thuộc YeaH1 - nhà sản xuất các chương trình giải trí hàng đầu như Gia Đình Haha, Tân Binh Toàn Năng, Anh Trai Vượt Ngàn Chông Gai 2024, Chị Đẹp Đạp Gió Rẽ Sóng\n#nhachaymoingay #nhachay2026 #musicvideo Tham khảo các sản phẩm công nghệ, thời trang, sản phẩm tiêu dùng\nBông tẩy trang làm sạch da Bông Bạch Tuyết Calla \n  👉 Link 1: https://s.shopee.vn/7KvxZWGTkA\n  👉 Link 2: https://s.shopee.vn/gP3cpYLCi\n  👉 Link 3: https://s.shopee.vn/qiTp8Xhrl\n  👉 Link 4: https://s.shopee.vn/111u1RX4Wo\n  👉 Link 5: https://s.shopee.vn/1BLKDkWRBr\n  👉 Link 6: https://s.shopee.vn/3VjF0AzVAZ\n  👉 Link 7: https://s.shopee.vn/30myPG1PBU\n  👉 Link 8: https://s.shopee.vn/3B6ObZ0lqX\n  👉 Link 9: https://s.shopee.vn/2gA80e2frS\n  👉 Link 10: https://s.shopee.vn/1qb10yTtpv\n\n   \nBù Nước Bù Khoáng \n  👉 Link 1: https://s.shopee.vn/W5dQnAqzI\n  👉 Link 2: https://s.shopee.vn/LmDEUBUKH\n  👉 Link 3: https://s.shopee.vn/904BYSCkMQ\n  👉 Link 4: https://s.shopee.vn/111u1lBrXv\n  👉 Link 5: https://s.shopee.vn/60QZyxatUT\n  👉 Link 6: https://s.shopee.vn/40fVbJ9Bos",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/anhtraivuotnganchonggai2026",
+          "text": "#AnhTraiVuotNganChongGai2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/atvncg2026",
+          "text": "#ATVNCG2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/atvncg",
+          "text": "#ATVNCG"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtraivuotnganchonggai",
+          "text": "#AnhTraiVuotNganChongGai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtaik26",
+          "text": "#AnhTaiK26"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/1production",
+          "text": "#1Production"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtraivuotnganchonggai2026show",
+          "text": "#AnhTraiVuotNganChongGai2026Show"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/realityshow",
+          "text": "#realityshow"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/chonggai",
+          "text": "#Chonggai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtraichonggai",
+          "text": "#anhtraichonggai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/music",
+          "text": "#music"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/liveperformance",
+          "text": "#liveperformance"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showbiz",
+          "text": "#showbiz"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/showmoi2026",
+          "text": "#showmoi2026"
+        },
+        {
+          "url": "https://www.facebook.com/AnhTraiVuotNganChongGai",
+          "text": "  / anhtraivuotnganchonggai  "
+        },
+        {
+          "url": "https://www.tiktok.com/@anhtraivuotnganchonggai",
+          "text": "  / anhtraivuotnganchonggai  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxzJoCs9IE7LuiFrcB1P7V44",
+          "text": "   • Series Phái Sinh TÂN BINH TOÀN NĂNG | Bản ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+          "text": "   • ANH TRAI VƯỢT NGÀN CHÔNG GAI 2024 - K24 | ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ 2024 | Bản Quyền thuộ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A",
+          "text": "   • Show CHỊ ĐẸP ĐẠP GIÓ RẼ SÓNG 2023 | Bản Qu...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxwbIigokI1Pps9YiF2K9rJ3",
+          "text": "   • MẸ SIÊU NHÂN 2024 | Bản Quyền của YeaH1  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxz_bKONMLhVVhqGkvgmz0rY",
+          "text": "   • Show GIA ĐÌNH HAHA | Chốn Bình Yên Của Tiế...  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCh_zF2FsiCflCPgYDudtcqg",
+          "text": "   / @yeah1show  "
+        },
+        {
+          "url": "https://www.youtube.com/@yeah1entertainment",
+          "text": "   / @yeah1entertainment  "
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCI2OiZs5aVcyBUBVsgovzng",
+          "text": "   / @yeah1music  "
+        },
+        {
+          "url": "https://s.shopee.vn/2LXAPdlHTL",
+          "text": "https://s.shopee.vn/2LXAPdlHTL"
+        },
+        {
+          "url": "https://s.shopee.vn/4fv5BwOrbw",
+          "text": "https://s.shopee.vn/4fv5BwOrbw"
+        },
+        {
+          "url": "https://s.shopee.vn/3qLyCQ9l3v",
+          "text": "https://s.shopee.vn/3qLyCQ9l3v"
+        },
+        {
+          "url": "https://s.shopee.vn/3B6HPCzArH",
+          "text": "https://s.shopee.vn/3B6HPCzArH"
+        },
+        {
+          "url": "https://s.shopee.vn/8pke9dCndQ",
+          "text": "https://s.shopee.vn/8pke9dCndQ"
+        },
+        {
+          "url": "https://s.shopee.vn/2qTR0duper",
+          "text": "https://s.shopee.vn/2qTR0duper"
+        },
+        {
+          "url": "https://s.shopee.vn/9044M2V3JA",
+          "text": "https://s.shopee.vn/9044M2V3JA"
+        },
+        {
+          "url": "https://s.shopee.vn/30mrD1igs0",
+          "text": "https://s.shopee.vn/30mrD1igs0"
+        },
+        {
+          "url": "https://s.shopee.vn/6pzZm5lynW",
+          "text": "https://s.shopee.vn/6pzZm5lynW"
+        },
+        {
+          "url": "https://s.shopee.vn/60QSmaSCyX",
+          "text": "https://s.shopee.vn/60QSmaSCyX"
+        },
+        {
+          "url": "https://s.shopee.vn/2VqacAaFPl",
+          "text": "https://s.shopee.vn/2VqacAaFPl"
+        },
+        {
+          "url": "https://s.shopee.vn/9pdBLgTJYZ",
+          "text": "https://s.shopee.vn/9pdBLgTJYZ"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/nhachaymoingay",
+          "text": "#nhachaymoingay"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/nhachay2026",
+          "text": "#nhachay2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/musicvideo",
+          "text": "#musicvideo"
+        },
+        {
+          "url": "https://s.shopee.vn/7KvxZWGTkA",
+          "text": "https://s.shopee.vn/7KvxZWGTkA"
+        },
+        {
+          "url": "https://s.shopee.vn/gP3cpYLCi",
+          "text": "https://s.shopee.vn/gP3cpYLCi"
+        },
+        {
+          "url": "https://s.shopee.vn/qiTp8Xhrl",
+          "text": "https://s.shopee.vn/qiTp8Xhrl"
+        },
+        {
+          "url": "https://s.shopee.vn/111u1RX4Wo",
+          "text": "https://s.shopee.vn/111u1RX4Wo"
+        },
+        {
+          "url": "https://s.shopee.vn/1BLKDkWRBr",
+          "text": "https://s.shopee.vn/1BLKDkWRBr"
+        },
+        {
+          "url": "https://s.shopee.vn/3VjF0AzVAZ",
+          "text": "https://s.shopee.vn/3VjF0AzVAZ"
+        },
+        {
+          "url": "https://s.shopee.vn/30myPG1PBU",
+          "text": "https://s.shopee.vn/30myPG1PBU"
+        },
+        {
+          "url": "https://s.shopee.vn/3B6ObZ0lqX",
+          "text": "https://s.shopee.vn/3B6ObZ0lqX"
+        },
+        {
+          "url": "https://s.shopee.vn/2gA80e2frS",
+          "text": "https://s.shopee.vn/2gA80e2frS"
+        },
+        {
+          "url": "https://s.shopee.vn/1qb10yTtpv",
+          "text": "https://s.shopee.vn/1qb10yTtpv"
+        },
+        {
+          "url": "https://s.shopee.vn/W5dQnAqzI",
+          "text": "https://s.shopee.vn/W5dQnAqzI"
+        },
+        {
+          "url": "https://s.shopee.vn/LmDEUBUKH",
+          "text": "https://s.shopee.vn/LmDEUBUKH"
+        },
+        {
+          "url": "https://s.shopee.vn/904BYSCkMQ",
+          "text": "https://s.shopee.vn/904BYSCkMQ"
+        },
+        {
+          "url": "https://s.shopee.vn/111u1lBrXv",
+          "text": "https://s.shopee.vn/111u1lBrXv"
+        },
+        {
+          "url": "https://s.shopee.vn/60QZyxatUT",
+          "text": "https://s.shopee.vn/60QZyxatUT"
+        },
+        {
+          "url": "https://s.shopee.vn/40fVbJ9Bos",
+          "text": "https://s.shopee.vn/40fVbJ9Bos"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 4,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLdWk-MlnCC7M",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLdWk-MlnCC7M",
+      "isPaidContent": false
+    }
+  ]
+}

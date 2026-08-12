@@ -1,0 +1,2752 @@
+{
+  "actor_name": "streamers/youtube-scraper",
+  "actor_run_id": "1YFtRDU1wNjkafveH",
+  "dataset_id": "ijX28udyfVNVe9RSe",
+  "actor_build_id": "SUk0475fgtCh9zqMt",
+  "retrieved_at": "2026-08-12T14:30:13.671856+07:00",
+  "actor_input": {
+    "maxResults": 30,
+    "maxResultsShorts": 0,
+    "maxResultStreams": 0,
+    "startUrls": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ"
+      }
+    ],
+    "sourceBindingUrl": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ"
+  },
+  "run_metadata": {
+    "status": "SUCCEEDED",
+    "startedAt": "2026-08-12T07:28:53.934Z",
+    "finishedAt": "2026-08-12T07:30:06.105Z",
+    "usageTotalUsd": 0.048,
+    "chargedEventCounts": {
+      "result": 13,
+      "date-filter": 0,
+      "ai-video-description": 0,
+      "ai-video-summary": 0
+    }
+  },
+  "items": [
+    {
+      "title": "Đấu Trường Gia Tốc Tập 6: Phương Anh Đào thể hiện bản lĩnh, Quân Lee giải mã thần sầu",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "Yfyy7BEj9P0",
+      "url": "https://www.youtube.com/watch?v=Yfyy7BEj9P0&list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ&index=8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Yfyy7BEj9P0/maxresdefault.jpg",
+      "viewCount": 602944,
+      "date": "2025-07-10T13:30:27.000Z",
+      "likes": 3600,
+      "location": null,
+      "channelName": "ĐÔNG TÂY PROMOTION OFFICIAL",
+      "channelUrl": "https://www.youtube.com/@dongtaypromotionofficial",
+      "channelUsername": "dongtaypromotionofficial",
+      "collaborators": null,
+      "channelId": "UCFMEYTv6N64hIL9FlQ_hxBw",
+      "numberOfSubscribers": 9830000,
+      "duration": "02:04:52",
+      "commentsCount": 295,
+      "text": "Đấu Trường Gia Tốc Tập 6: Phương Anh Đào thể hiện bản lĩnh, Quân Lee giải mã thần sầu\n\nXEM TRỌN BỘ ĐẤU TRƯỜNG GIA TỐC 👉: https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ\n\n#ĐấuTrườngGiaTốc #DauTruongGiaToc #RunForTime #RunForTimeVietNam #DongTayPromotion\n#RHYDER #HURRYKNG #WeanLe #DươngDomic #QuânLee \n#NgôKiếnHuy #CrisPhan #KaityNguyễn #PhươngAnhĐào #HưngNguyễn  \n\nĐấu Trường Gia Tốc là chương trình truyền hình thực tế Việt Nam với Format “PHIM TRONG SHOW” với hơn 20 năm thành công tại Nhật Bản. Chỉ với 120 phút để sinh tồn, người chơi phải trốn thoát thợ săn vượt qua nhiệm vụ cùng những \"plot twist\" đi vào lòng người. Người chơi \"biến hình\" nhập vai trong thế giới cổ tích lịch sử hoặc tương lai viễn tưởng - một format chưa từng có trên truyền hình Việt với những câu chuyện thời đại đồng hành đa thế hệ \"chạm\" đủ mọi tầng cảm xúc.\n\n⏰ Đón xem Đấu Trường Gia Tốc - Run For Time Vietnam vào lúc \n📺  20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️  20H40 trên kênh   @dongtaypromotionofficial   và kênh  @dautruonggiatoc  \n\n📣 Subscribe kênhĐẤU TRƯỜNG GIA TỐC để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4iuOI28\n\n©️ Đấu Trường Gia Tốc - Run For Time Vietnam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK.\n\n👉 Theo dõi các kênh chính thức của Đấu Trường Gia Tốc:\nYouTube: https://youtube.com/@dautruonggiatoc\nFanpage: https://www.facebook.com/dautruonggiatoc.dongtaypromotion\nTikTok: https://www.tiktok.com/@dautruonggiatoc\n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nĐấu Trường Gia Tốc: https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ\n2 Ngày 1 Đêm Việt Nam: https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc\nTổ Đội \"1 Không 2\":  https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3\n7 Nụ Cười Xuân: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig\n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage: https://www.facebook.com/DongTayPromotion\n► Instagram: https://www.instagram.com/dongtaypromotion.official/\n► TikTok: https://www.tiktok.com/@dongtaypromotionofficial\n\nTham khảo thêm các sản phẩm công nghệ, tiêu dùng: ️🛒️🛒👇\n️🛒👉Best YouTube Shopping Choice, xem ngay tại đây:\nhttps://www.youtube.com/shopcollection/SCUCbpsE7elhjA0CCnXQQ_AZs_E9OxHsDqgeQ?GoPro",
+      "translatedText": "Đấu Trường Gia Tốc Tập 6: Phương Anh Đào thể hiện bản lĩnh, Quân Lee giải mã thần sầu\n\nXEM TRỌN BỘ ĐẤU TRƯỜNG GIA TỐC 👉:    • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  \n\n#ĐấuTrườngGiaTốc #DauTruongGiaToc #RunForTime #RunForTimeVietNam #DongTayPromotion\n#RHYDER #HURRYKNG #WeanLe #DươngDomic #QuânLee \n#NgôKiếnHuy #CrisPhan #KaityNguyễn #PhươngAnhĐào #HưngNguyễn  \n\nĐấu Trường Gia Tốc là chương trình truyền hình thực tế Việt Nam với Format “PHIM TRONG SHOW” với hơn 20 năm thành công tại Nhật Bản. Chỉ với 120 phút để sinh tồn, người chơi phải trốn thoát thợ săn vượt qua nhiệm vụ cùng những \"plot twist\" đi vào lòng người. Người chơi \"biến hình\" nhập vai trong thế giới cổ tích lịch sử hoặc tương lai viễn tưởng - một format chưa từng có trên truyền hình Việt với những câu chuyện thời đại đồng hành đa thế hệ \"chạm\" đủ mọi tầng cảm xúc.\n\n⏰ Đón xem Đấu Trường Gia Tốc - Run For Time Vietnam vào lúc \n📺  20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️  20H40 trên kênh   @dongtaypromotionofficial   và kênh  @dautruonggiatoc  \n\n📣 Subscribe kênhĐẤU TRƯỜNG GIA TỐC để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4iuOI28\n\n©️ Đấu Trường Gia Tốc - Run For Time Vietnam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK.\n\n👉 Theo dõi các kênh chính thức của Đấu Trường Gia Tốc:\nYouTube:    / @dautruonggiatoc  \nFanpage: https://www.facebook.com/dautruonggiatoc.d...\nTikTok: https://www.tiktok.com/@dautruonggiatoc\n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nĐấu Trường Gia Tốc:    • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  \n2 Ngày 1 Đêm Việt Nam:    • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  \nTổ Đội \"1 Không 2\":     • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  \n7 Nụ Cười Xuân:    • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  \n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage: https://www.facebook.com/DongTayPromotion\n► Instagram: https://www.instagram.com/dongtaypromotion...\n► TikTok: https://www.tiktok.com/@dongtaypromotionof...\n\nTham khảo thêm các sản phẩm công nghệ, tiêu dùng: ️🛒️🛒👇\n️🛒👉Best YouTube Shopping Choice, xem ngay tại đây:\nhttps://www.youtube.com/shopcollectio...",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+          "text": "   • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/%C4%91%E1%BA%A5utr%C6%B0%E1%BB%9Dnggiat%E1%BB%91c",
+          "text": "#ĐấuTrườngGiaTốc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dautruonggiatoc",
+          "text": "#DauTruongGiaToc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/runfortime",
+          "text": "#RunForTime"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/runfortimevietnam",
+          "text": "#RunForTimeVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dongtaypromotion",
+          "text": "#DongTayPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/rhyder",
+          "text": "#RHYDER"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hurrykng",
+          "text": "#HURRYKNG"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/weanle",
+          "text": "#WeanLe"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/d%C6%B0%C6%A1ngdomic",
+          "text": "#DươngDomic"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/qu%C3%A2nlee",
+          "text": "#QuânLee"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ng%C3%B4ki%E1%BA%BFnhuy",
+          "text": "#NgôKiếnHuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/crisphan",
+          "text": "#CrisPhan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/kaitynguy%E1%BB%85n",
+          "text": "#KaityNguyễn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ph%C6%B0%C6%A1nganh%C4%91%C3%A0o",
+          "text": "#PhươngAnhĐào"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/h%C6%B0ngnguy%E1%BB%85n",
+          "text": "#HưngNguyễn"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC5bxATIALkxlwWQzACzdjHw",
+          "text": "   / @dautruonggiatoc  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+          "text": "   • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc",
+          "text": "   • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+          "text": "   • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig",
+          "text": "   • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  "
+        },
+        {
+          "url": "https://www.youtube.com/shopcollection/SCUCbpsE7elhjA0CCnXQQ_AZs_E9OxHsDqgeQ?GoPro",
+          "text": "https://www.youtube.com/shopcollectio..."
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 7,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+      "isPaidContent": false
+    },
+    {
+      "title": "Đấu Trường Gia Tốc Tập 9: Cris Phan xứng danh ông trùm chiến thuật, NEGAV đối đầu với HURRYKNG",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "Tf9DVcSakH4",
+      "url": "https://www.youtube.com/watch?v=Tf9DVcSakH4&list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ&index=5",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Tf9DVcSakH4/maxresdefault.jpg",
+      "viewCount": 3335797,
+      "date": "2025-07-27T13:40:06.000Z",
+      "likes": 29000,
+      "location": null,
+      "channelName": "ĐÔNG TÂY PROMOTION OFFICIAL",
+      "channelUrl": "https://www.youtube.com/@dongtaypromotionofficial",
+      "channelUsername": "dongtaypromotionofficial",
+      "collaborators": null,
+      "channelId": "UCFMEYTv6N64hIL9FlQ_hxBw",
+      "numberOfSubscribers": 9830000,
+      "duration": "02:12:23",
+      "commentsCount": 6136,
+      "text": "Đấu Trường Gia Tốc Tập 9: Cris Phan xứng danh ông trùm chiến thuật, NEGAV đối đầu với HURRYKNG\n\nXEM TRỌN BỘ ĐẤU TRƯỜNG GIA TỐC 👉: https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ\n\n#ĐấuTrườngGiaTốc #DauTruongGiaToc #RunForTime #RunForTimeVietNam #DongTayPromotion\n#RHYDER #HURRYKNG #WeanLe #DươngDomic #QuânLee \n#NgôKiếnHuy #CrisPhan #KaityNguyễn #PhươngAnhĐào #HưngNguyễn  \n\nĐấu Trường Gia Tốc là chương trình truyền hình thực tế Việt Nam với Format “PHIM TRONG SHOW” với hơn 20 năm thành công tại Nhật Bản. Chỉ với 120 phút để sinh tồn, người chơi phải trốn thoát thợ săn vượt qua nhiệm vụ cùng những \"plot twist\" đi vào lòng người. Người chơi \"biến hình\" nhập vai trong thế giới cổ tích lịch sử hoặc tương lai viễn tưởng - một format chưa từng có trên truyền hình Việt với những câu chuyện thời đại đồng hành đa thế hệ \"chạm\" đủ mọi tầng cảm xúc.\n\n⏰ Đón xem Đấu Trường Gia Tốc - Run For Time Vietnam vào lúc \n📺  20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️  20H40 trên kênh @dongtaypromotionofficial  và kênh @dautruonggiatoc \n\n📣 Subscribe kênhĐẤU TRƯỜNG GIA TỐC để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4iuOI28\n\n©️ Đấu Trường Gia Tốc - Run For Time Vietnam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK.\n\n👉 Theo dõi các kênh chính thức của Đấu Trường Gia Tốc:\nYouTube: https://youtube.com/@dautruonggiatoc\nFanpage: https://www.facebook.com/dautruonggiatoc.dongtaypromotion\nTikTok: https://www.tiktok.com/@dautruonggiatoc\n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nĐấu Trường Gia Tốc: https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ\n2 Ngày 1 Đêm Việt Nam: https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc\nTổ Đội \"1 Không 2\":  https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3\n7 Nụ Cười Xuân: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig\n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage: https://www.facebook.com/DongTayPromotion\n► Instagram: https://www.instagram.com/dongtaypromotion.official/\n► TikTok: https://www.tiktok.com/@dongtaypromotionofficial\n\n🛒Tham khảo các sản phẩm công nghệ, thời trang và tiêu dùng:\nGoPro HERO: \nhttps://shopee.vn/product/1285072534/28111994123?\nhttps://shopee.vn/product/1285072534/24785644497?\nMicro không dây cài áo: https://shopee.vn/product/73621000/42252316878?\nGọng Kính Cận: https://shopee.vn/product/13690137/42501934375?\nMũ kết lưỡi trai: \nhttps://shopee.vn/product/40233555/24560768206?\nhttps://shopee.vn/product/1155962713/24109018841?\nÁo vest nam: https://shopee.vn/product/145486940/2427550263?\nDầu gội cho nam: https://shopee.vn/product/1397276155/26168459444?\nTúi Đeo Chạy Bộ : https://shopee.vn/product/840597657/12596837194?\nKính thời trang kim loại: https://shopee.vn/product/302989029/3862257062?",
+      "translatedText": "Đấu Trường Gia Tốc Tập 9: Cris Phan xứng danh ông trùm chiến thuật, NEGAV đối đầu với HURRYKNG\n\nXEM TRỌN BỘ ĐẤU TRƯỜNG GIA TỐC 👉:    • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  \n\n#ĐấuTrườngGiaTốc #DauTruongGiaToc #RunForTime #RunForTimeVietNam #DongTayPromotion\n#RHYDER #HURRYKNG #WeanLe #DươngDomic #QuânLee \n#NgôKiếnHuy #CrisPhan #KaityNguyễn #PhươngAnhĐào #HưngNguyễn  \n\nĐấu Trường Gia Tốc là chương trình truyền hình thực tế Việt Nam với Format “PHIM TRONG SHOW” với hơn 20 năm thành công tại Nhật Bản. Chỉ với 120 phút để sinh tồn, người chơi phải trốn thoát thợ săn vượt qua nhiệm vụ cùng những \"plot twist\" đi vào lòng người. Người chơi \"biến hình\" nhập vai trong thế giới cổ tích lịch sử hoặc tương lai viễn tưởng - một format chưa từng có trên truyền hình Việt với những câu chuyện thời đại đồng hành đa thế hệ \"chạm\" đủ mọi tầng cảm xúc.\n\n⏰ Đón xem Đấu Trường Gia Tốc - Run For Time Vietnam vào lúc \n📺  20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️  20H40 trên kênh ‪@dongtaypromotionofficial‬  và kênh ‪@dautruonggiatoc‬ \n\n📣 Subscribe kênhĐẤU TRƯỜNG GIA TỐC để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4iuOI28\n\n©️ Đấu Trường Gia Tốc - Run For Time Vietnam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK.\n\n👉 Theo dõi các kênh chính thức của Đấu Trường Gia Tốc:\nYouTube:    / @dautruonggiatoc  \nFanpage:   / dautruonggiatoc.dongtaypromotion  \nTikTok:   / dautruonggiatoc  \n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nĐấu Trường Gia Tốc:    • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  \n2 Ngày 1 Đêm Việt Nam:    • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  \nTổ Đội \"1 Không 2\":     • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  \n7 Nụ Cười Xuân:    • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  \n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage:   / dongtaypromotion  \n► Instagram:   / dongtaypromotion.official  \n► TikTok:   / dongtaypromotionofficial  \n\n🛒Tham khảo các sản phẩm công nghệ, thời trang và tiêu dùng:\nGoPro HERO: \nhttps://shopee.vn/product/1285072534/...\nhttps://shopee.vn/product/1285072534/...\nMicro không dây cài áo: https://shopee.vn/product/73621000/42...\nGọng Kính Cận: https://shopee.vn/product/13690137/42...\nMũ kết lưỡi trai: \nhttps://shopee.vn/product/40233555/24...\nhttps://shopee.vn/product/1155962713/...\nÁo vest nam: https://shopee.vn/product/145486940/2...\nDầu gội cho nam: https://shopee.vn/product/1397276155/...\nTúi Đeo Chạy Bộ : https://shopee.vn/product/840597657/1...\nKính thời trang kim loại: https://shopee.vn/product/302989029/3...",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+          "text": "   • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/%C4%91%E1%BA%A5utr%C6%B0%E1%BB%9Dnggiat%E1%BB%91c",
+          "text": "#ĐấuTrườngGiaTốc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dautruonggiatoc",
+          "text": "#DauTruongGiaToc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/runfortime",
+          "text": "#RunForTime"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/runfortimevietnam",
+          "text": "#RunForTimeVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dongtaypromotion",
+          "text": "#DongTayPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/rhyder",
+          "text": "#RHYDER"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hurrykng",
+          "text": "#HURRYKNG"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/weanle",
+          "text": "#WeanLe"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/d%C6%B0%C6%A1ngdomic",
+          "text": "#DươngDomic"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/qu%C3%A2nlee",
+          "text": "#QuânLee"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ng%C3%B4ki%E1%BA%BFnhuy",
+          "text": "#NgôKiếnHuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/crisphan",
+          "text": "#CrisPhan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/kaitynguy%E1%BB%85n",
+          "text": "#KaityNguyễn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ph%C6%B0%C6%A1nganh%C4%91%C3%A0o",
+          "text": "#PhươngAnhĐào"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/h%C6%B0ngnguy%E1%BB%85n",
+          "text": "#HưngNguyễn"
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "‪@dongtaypromotionofficial‬"
+        },
+        {
+          "url": "https://www.youtube.com/@dautruonggiatoc",
+          "text": "‪@dautruonggiatoc‬"
+        },
+        {
+          "url": "https://bit.ly/4iuOI28",
+          "text": "https://bit.ly/4iuOI28"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC5bxATIALkxlwWQzACzdjHw",
+          "text": "   / @dautruonggiatoc  "
+        },
+        {
+          "url": "https://www.facebook.com/dautruonggiatoc.dongtaypromotion",
+          "text": "  / dautruonggiatoc.dongtaypromotion  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dautruonggiatoc",
+          "text": "  / dautruonggiatoc  "
+        },
+        {
+          "url": "https://bit.ly/SubDTP",
+          "text": "https://bit.ly/SubDTP"
+        },
+        {
+          "url": "https://bit.ly/SubDTE",
+          "text": "https://bit.ly/SubDTE"
+        },
+        {
+          "url": "https://bit.ly/HAUTRUONGDTP",
+          "text": "https://bit.ly/HAUTRUONGDTP"
+        },
+        {
+          "url": "https://bit.ly/showhotDTP",
+          "text": "https://bit.ly/showhotDTP"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+          "text": "   • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc",
+          "text": "   • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+          "text": "   • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig",
+          "text": "   • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  "
+        },
+        {
+          "url": "https://www.facebook.com/DongTayPromotion",
+          "text": "  / dongtaypromotion  "
+        },
+        {
+          "url": "https://www.instagram.com/dongtaypromotion.official/",
+          "text": "  / dongtaypromotion.official  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dongtaypromotionofficial",
+          "text": "  / dongtaypromotionofficial  "
+        },
+        {
+          "url": "https://shopee.vn/product/1285072534/28111994123",
+          "text": "https://shopee.vn/product/1285072534/..."
+        },
+        {
+          "url": "https://shopee.vn/product/1285072534/24785644497",
+          "text": "https://shopee.vn/product/1285072534/..."
+        },
+        {
+          "url": "https://shopee.vn/product/73621000/42252316878",
+          "text": "https://shopee.vn/product/73621000/42..."
+        },
+        {
+          "url": "https://shopee.vn/product/13690137/42501934375",
+          "text": "https://shopee.vn/product/13690137/42..."
+        },
+        {
+          "url": "https://shopee.vn/product/40233555/24560768206",
+          "text": "https://shopee.vn/product/40233555/24..."
+        },
+        {
+          "url": "https://shopee.vn/product/1155962713/24109018841",
+          "text": "https://shopee.vn/product/1155962713/..."
+        },
+        {
+          "url": "https://shopee.vn/product/145486940/2427550263",
+          "text": "https://shopee.vn/product/145486940/2..."
+        },
+        {
+          "url": "https://shopee.vn/product/1397276155/26168459444",
+          "text": "https://shopee.vn/product/1397276155/..."
+        },
+        {
+          "url": "https://shopee.vn/product/840597657/12596837194",
+          "text": "https://shopee.vn/product/840597657/1..."
+        },
+        {
+          "url": "https://shopee.vn/product/302989029/3862257062",
+          "text": "https://shopee.vn/product/302989029/3..."
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 4,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+      "isPaidContent": false
+    },
+    {
+      "title": "Đấu Trường Gia Tốc Tập 7: Emily–BigDaddy chạm trán cực căng, WEAN-Dương Domic quay cuồng dưới nước",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "pDXUKkHJfEU",
+      "url": "https://www.youtube.com/watch?v=pDXUKkHJfEU&list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ&index=7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/pDXUKkHJfEU/maxresdefault.jpg",
+      "viewCount": 608420,
+      "date": "2025-07-17T13:30:53.000Z",
+      "likes": 3600,
+      "location": null,
+      "channelName": "ĐÔNG TÂY PROMOTION OFFICIAL",
+      "channelUrl": "https://www.youtube.com/@dongtaypromotionofficial",
+      "channelUsername": "dongtaypromotionofficial",
+      "collaborators": null,
+      "channelId": "UCFMEYTv6N64hIL9FlQ_hxBw",
+      "numberOfSubscribers": 9830000,
+      "duration": "02:04:07",
+      "commentsCount": 233,
+      "text": "Đấu Trường Gia Tốc Tập 7: Emily–BigDaddy chạm trán cực căng, WEAN-Dương Domic quay cuồng dưới nước\n\nXEM TRỌN BỘ ĐẤU TRƯỜNG GIA TỐC 👉: https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ\n\n#ĐấuTrườngGiaTốc #DauTruongGiaToc #RunForTime #RunForTimeVietNam #DongTayPromotion\n#RHYDER #HURRYKNG #WeanLe #DươngDomic #QuânLee \n#NgôKiếnHuy #CrisPhan #KaityNguyễn #PhươngAnhĐào #HưngNguyễn  \n\nĐấu Trường Gia Tốc là chương trình truyền hình thực tế Việt Nam với Format “PHIM TRONG SHOW” với hơn 20 năm thành công tại Nhật Bản. Chỉ với 120 phút để sinh tồn, người chơi phải trốn thoát thợ săn vượt qua nhiệm vụ cùng những \"plot twist\" đi vào lòng người. Người chơi \"biến hình\" nhập vai trong thế giới cổ tích lịch sử hoặc tương lai viễn tưởng - một format chưa từng có trên truyền hình Việt với những câu chuyện thời đại đồng hành đa thế hệ \"chạm\" đủ mọi tầng cảm xúc.\n\n⏰ Đón xem Đấu Trường Gia Tốc - Run For Time Vietnam vào lúc \n📺  20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️  20H40 trên kênh   @dongtaypromotionofficial   và kênh  @dautruonggiatoc  \n\n📣 Subscribe kênhĐẤU TRƯỜNG GIA TỐC để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4iuOI28\n\n©️ Đấu Trường Gia Tốc - Run For Time Vietnam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK.\n\n👉 Theo dõi các kênh chính thức của Đấu Trường Gia Tốc:\nYouTube: https://youtube.com/@dautruonggiatoc\nFanpage: https://www.facebook.com/dautruonggiatoc.dongtaypromotion\nTikTok: https://www.tiktok.com/@dautruonggiatoc\n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nĐấu Trường Gia Tốc: https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ\n2 Ngày 1 Đêm Việt Nam: https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc\nTổ Đội \"1 Không 2\":  https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3\n7 Nụ Cười Xuân: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig\n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage: https://www.facebook.com/DongTayPromotion\n► Instagram: https://www.instagram.com/dongtaypromotion.official/\n► TikTok: https://www.tiktok.com/@dongtaypromotionofficial\n\nTham khảo thêm các sản phẩm công nghệ, tiêu dùng: ️🛒️🛒👇\n️🛒👉Best YouTube Shopping Choice, xem ngay tại đây:\nhttps://www.youtube.com/shopcollection/SCUCbpsE7elhjA0CCnXQQ_AZs_E9OxHsDqgeQ?GoPro",
+      "translatedText": "Đấu Trường Gia Tốc Tập 7: Emily–BigDaddy chạm trán cực căng, WEAN-Dương Domic quay cuồng dưới nước\n\nXEM TRỌN BỘ ĐẤU TRƯỜNG GIA TỐC 👉:    • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  \n\n#ĐấuTrườngGiaTốc #DauTruongGiaToc #RunForTime #RunForTimeVietNam #DongTayPromotion\n#RHYDER #HURRYKNG #WeanLe #DươngDomic #QuânLee \n#NgôKiếnHuy #CrisPhan #KaityNguyễn #PhươngAnhĐào #HưngNguyễn  \n\nĐấu Trường Gia Tốc là chương trình truyền hình thực tế Việt Nam với Format “PHIM TRONG SHOW” với hơn 20 năm thành công tại Nhật Bản. Chỉ với 120 phút để sinh tồn, người chơi phải trốn thoát thợ săn vượt qua nhiệm vụ cùng những \"plot twist\" đi vào lòng người. Người chơi \"biến hình\" nhập vai trong thế giới cổ tích lịch sử hoặc tương lai viễn tưởng - một format chưa từng có trên truyền hình Việt với những câu chuyện thời đại đồng hành đa thế hệ \"chạm\" đủ mọi tầng cảm xúc.\n\n⏰ Đón xem Đấu Trường Gia Tốc - Run For Time Vietnam vào lúc \n📺  20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️  20H40 trên kênh   @dongtaypromotionofficial   và kênh  @dautruonggiatoc  \n\n📣 Subscribe kênhĐẤU TRƯỜNG GIA TỐC để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4iuOI28\n\n©️ Đấu Trường Gia Tốc - Run For Time Vietnam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK.\n\n👉 Theo dõi các kênh chính thức của Đấu Trường Gia Tốc:\nYouTube:    / @dautruonggiatoc  \nFanpage:   / dautruonggiatoc.dongtaypromotion  \nTikTok:   / dautruonggiatoc  \n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nĐấu Trường Gia Tốc:    • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  \n2 Ngày 1 Đêm Việt Nam:    • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  \nTổ Đội \"1 Không 2\":     • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  \n7 Nụ Cười Xuân:    • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  \n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage:   / dongtaypromotion  \n► Instagram:   / dongtaypromotion.official  \n► TikTok:   / dongtaypromotionofficial  \n\nTham khảo thêm các sản phẩm công nghệ, tiêu dùng: ️🛒️🛒👇\n️🛒👉Best YouTube Shopping Choice, xem ngay tại đây:\nhttps://www.youtube.com/shopcollectio...",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+          "text": "   • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/%C4%91%E1%BA%A5utr%C6%B0%E1%BB%9Dnggiat%E1%BB%91c",
+          "text": "#ĐấuTrườngGiaTốc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dautruonggiatoc",
+          "text": "#DauTruongGiaToc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/runfortime",
+          "text": "#RunForTime"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/runfortimevietnam",
+          "text": "#RunForTimeVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dongtaypromotion",
+          "text": "#DongTayPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/rhyder",
+          "text": "#RHYDER"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hurrykng",
+          "text": "#HURRYKNG"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/weanle",
+          "text": "#WeanLe"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/d%C6%B0%C6%A1ngdomic",
+          "text": "#DươngDomic"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/qu%C3%A2nlee",
+          "text": "#QuânLee"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ng%C3%B4ki%E1%BA%BFnhuy",
+          "text": "#NgôKiếnHuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/crisphan",
+          "text": "#CrisPhan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/kaitynguy%E1%BB%85n",
+          "text": "#KaityNguyễn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ph%C6%B0%C6%A1nganh%C4%91%C3%A0o",
+          "text": "#PhươngAnhĐào"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/h%C6%B0ngnguy%E1%BB%85n",
+          "text": "#HưngNguyễn"
+        },
+        {
+          "url": "https://bit.ly/4iuOI28",
+          "text": "https://bit.ly/4iuOI28"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC5bxATIALkxlwWQzACzdjHw",
+          "text": "   / @dautruonggiatoc  "
+        },
+        {
+          "url": "https://www.facebook.com/dautruonggiatoc.dongtaypromotion",
+          "text": "  / dautruonggiatoc.dongtaypromotion  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dautruonggiatoc",
+          "text": "  / dautruonggiatoc  "
+        },
+        {
+          "url": "https://bit.ly/SubDTP",
+          "text": "https://bit.ly/SubDTP"
+        },
+        {
+          "url": "https://bit.ly/SubDTE",
+          "text": "https://bit.ly/SubDTE"
+        },
+        {
+          "url": "https://bit.ly/HAUTRUONGDTP",
+          "text": "https://bit.ly/HAUTRUONGDTP"
+        },
+        {
+          "url": "https://bit.ly/showhotDTP",
+          "text": "https://bit.ly/showhotDTP"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+          "text": "   • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc",
+          "text": "   • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+          "text": "   • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig",
+          "text": "   • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  "
+        },
+        {
+          "url": "https://www.facebook.com/DongTayPromotion",
+          "text": "  / dongtaypromotion  "
+        },
+        {
+          "url": "https://www.instagram.com/dongtaypromotion.official/",
+          "text": "  / dongtaypromotion.official  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dongtaypromotionofficial",
+          "text": "  / dongtaypromotionofficial  "
+        },
+        {
+          "url": "https://www.youtube.com/shopcollection/SCUCbpsE7elhjA0CCnXQQ_AZs_E9OxHsDqgeQ?GoPro",
+          "text": "https://www.youtube.com/shopcollectio..."
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 6,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+      "isPaidContent": false
+    },
+    {
+      "title": "Đấu Trường Gia Tốc Tập 12: Kịch tính màn đối đầu giữa Cris và RHYDER, quán quân mùa đầu tiên lộ diện",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "erWINGggTh0",
+      "url": "https://www.youtube.com/watch?v=erWINGggTh0&list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ&index=1",
+      "thumbnailUrl": "https://i.ytimg.com/vi/erWINGggTh0/maxresdefault.jpg",
+      "viewCount": 2570141,
+      "date": "2025-08-17T13:40:06.000Z",
+      "likes": 36000,
+      "location": null,
+      "channelName": "ĐÔNG TÂY PROMOTION OFFICIAL",
+      "channelUrl": "https://www.youtube.com/@dongtaypromotionofficial",
+      "channelUsername": "dongtaypromotionofficial",
+      "collaborators": null,
+      "channelId": "UCFMEYTv6N64hIL9FlQ_hxBw",
+      "numberOfSubscribers": 9830000,
+      "duration": "02:19:11",
+      "commentsCount": 5476,
+      "text": "Đấu Trường Gia Tốc Tập 12: Kịch tính màn đối đầu giữa Cris và RHYDER, quán quân mùa đầu tiên lộ diện\n\nXEM TRỌN BỘ ĐẤU TRƯỜNG GIA TỐC 👉: https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ\n\n#ĐấuTrườngGiaTốc #DauTruongGiaToc #RunForTimeVietNam\n#rhyder #hurrykng #dươngdomic #weanle #crisphan #ngôkiếnhuy #run\n#phươnganhđào #kaitynguyễn #hưngnguyễn #quânlee #crisdevilgamer\n\nĐấu Trường Gia Tốc là chương trình truyền hình thực tế Việt Nam với Format “PHIM TRONG SHOW” với hơn 20 năm thành công tại Nhật Bản. Chỉ với 120 phút để sinh tồn, người chơi phải trốn thoát thợ săn vượt qua nhiệm vụ cùng những \"plot twist\" đi vào lòng người. Người chơi \"biến hình\" nhập vai trong thế giới cổ tích lịch sử hoặc tương lai viễn tưởng - một format chưa từng có trên truyền hình Việt với những câu chuyện thời đại đồng hành đa thế hệ \"chạm\" đủ mọi tầng cảm xúc.\n\n⏰ Đón xem Đấu Trường Gia Tốc - Run For Time Vietnam vào lúc \n📺  20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️  20H40 trên kênh  @dongtaypromotionofficial  và kênh  @dautruonggiatoc  \n\n📣 Subscribe kênhĐẤU TRƯỜNG GIA TỐC để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4iuOI28\n\n©️ Đấu Trường Gia Tốc - Run For Time Vietnam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK.\n\n👉 Theo dõi các kênh chính thức của Đấu Trường Gia Tốc:\nYouTube: https://youtube.com/@dautruonggiatoc\nFanpage: https://www.facebook.com/dautruonggiatoc.dongtaypromotion\nTikTok: https://www.tiktok.com/@dautruonggiatoc\n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nĐấu Trường Gia Tốc: https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ\n2 Ngày 1 Đêm Việt Nam: https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc\nTổ Đội \"1 Không 2\":  https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3\n7 Nụ Cười Xuân: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig\n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage: https://www.facebook.com/DongTayPromotion\n► Instagram: https://www.instagram.com/dongtaypromotion.official/\n► TikTok: https://www.tiktok.com/@dongtaypromotionofficial\n\n️🛒👉Best YouTube Shopping Choice, xem ngay tại đây:\nhttps://www.youtube.com/shopcollection/SCUCbpsE7elhjA0CCnXQQ_AZs_E9OxHsDqgeQ?\n\n🛒Tham khảo các sản phẩm công nghệ, thời trang và tiêu dùng:\nÁo Blouse trắng thân dài, tay dài https://shopee.vn/product/1095250065/27421993034?\nMũ bảo hiểm: https://shopee.vn/product/726432436/26272946378?\nBơm lốp: https://shopee.vn/product/128986877/29789016834?\nMũ bucket: https://shopee.vn/product/71009635/27082711780?\nMũ lưỡi trai: https://shopee.vn/product/71009635/28732751208?\nQuần chạy bộ nam: https://shopee.vn/product/470271325/20100725919?\nÁo vest nam: https://shopee.vn/product/145486940/2427550263?\nDầu gội cho nam: https://shopee.vn/product/1397276155/26168459444?\nKính thời trang kim loại: https://shopee.vn/product/302989029/3862257062?\nÁo chạy bộ: https://shopee.vn/product/272527398/19974870049?\ntúi chạy bộ: https://shopee.vn/product/890736951/40550928941?\nPhụ kiện chạy bộ: https://shopee.vn/product/1197449446/40054232800?\nKính chạy bộ: https://shopee.vn/product/235346769/21875048715?\nBó gối chạy bộ: https://shopee.vn/product/272356020/5037204047?",
+      "translatedText": "Đấu Trường Gia Tốc Tập 12: Kịch tính màn đối đầu giữa Cris và RHYDER, quán quân mùa đầu tiên lộ diện\n\nXEM TRỌN BỘ ĐẤU TRƯỜNG GIA TỐC 👉:    • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  \n\n#ĐấuTrườngGiaTốc #DauTruongGiaToc #RunForTimeVietNam\n#rhyder #hurrykng #dươngdomic #weanle #crisphan #ngôkiếnhuy #run\n#phươnganhđào #kaitynguyễn #hưngnguyễn #quânlee #crisdevilgamer\n\nĐấu Trường Gia Tốc là chương trình truyền hình thực tế Việt Nam với Format “PHIM TRONG SHOW” với hơn 20 năm thành công tại Nhật Bản. Chỉ với 120 phút để sinh tồn, người chơi phải trốn thoát thợ săn vượt qua nhiệm vụ cùng những \"plot twist\" đi vào lòng người. Người chơi \"biến hình\" nhập vai trong thế giới cổ tích lịch sử hoặc tương lai viễn tưởng - một format chưa từng có trên truyền hình Việt với những câu chuyện thời đại đồng hành đa thế hệ \"chạm\" đủ mọi tầng cảm xúc.\n\n⏰ Đón xem Đấu Trường Gia Tốc - Run For Time Vietnam vào lúc \n📺  20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️  20H40 trên kênh  @dongtaypromotionofficial  và kênh  @dautruonggiatoc  \n\n📣 Subscribe kênhĐẤU TRƯỜNG GIA TỐC để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4iuOI28\n\n©️ Đấu Trường Gia Tốc - Run For Time Vietnam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK.\n\n👉 Theo dõi các kênh chính thức của Đấu Trường Gia Tốc:\nYouTube:    / @dautruonggiatoc  \nFanpage:   / dautruonggiatoc.dongtaypromotion  \nTikTok:   / dautruonggiatoc  \n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nĐấu Trường Gia Tốc:    • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  \n2 Ngày 1 Đêm Việt Nam:    • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  \nTổ Đội \"1 Không 2\":     • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  \n7 Nụ Cười Xuân:    • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  \n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage:   / dongtaypromotion  \n► Instagram:   / dongtaypromotion.official  \n► TikTok:   / dongtaypromotionofficial  \n\n️🛒👉Best YouTube Shopping Choice, xem ngay tại đây:\nhttps://www.youtube.com/shopcollectio...\n\n🛒Tham khảo các sản phẩm công nghệ, thời trang và tiêu dùng:\nÁo Blouse trắng thân dài, tay dài https://shopee.vn/product/1095250065/...\nMũ bảo hiểm: https://shopee.vn/product/726432436/2...\nBơm lốp: https://shopee.vn/product/128986877/2...\nMũ bucket: https://shopee.vn/product/71009635/27...\nMũ lưỡi trai: https://shopee.vn/product/71009635/28...\nQuần chạy bộ nam: https://shopee.vn/product/470271325/2...\nÁo vest nam: https://shopee.vn/product/145486940/2...\nDầu gội cho nam: https://shopee.vn/product/1397276155/...\nKính thời trang kim loại: https://shopee.vn/product/302989029/3...\nÁo chạy bộ: https://shopee.vn/product/272527398/1...\ntúi chạy bộ: https://shopee.vn/product/890736951/4...\nPhụ kiện chạy bộ: https://shopee.vn/product/1197449446/...\nKính chạy bộ: https://shopee.vn/product/235346769/2...\nBó gối chạy bộ: https://shopee.vn/product/272356020/5...",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+          "text": "   • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/%C4%91%E1%BA%A5utr%C6%B0%E1%BB%9Dnggiat%E1%BB%91c",
+          "text": "#ĐấuTrườngGiaTốc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dautruonggiatoc",
+          "text": "#DauTruongGiaToc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/runfortimevietnam",
+          "text": "#RunForTimeVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/rhyder",
+          "text": "#rhyder"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hurrykng",
+          "text": "#hurrykng"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/d%C6%B0%C6%A1ngdomic",
+          "text": "#dươngdomic"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/weanle",
+          "text": "#weanle"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/crisphan",
+          "text": "#crisphan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ng%C3%B4ki%E1%BA%BFnhuy",
+          "text": "#ngôkiếnhuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/run",
+          "text": "#run"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ph%C6%B0%C6%A1nganh%C4%91%C3%A0o",
+          "text": "#phươnganhđào"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/kaitynguy%E1%BB%85n",
+          "text": "#kaitynguyễn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/h%C6%B0ngnguy%E1%BB%85n",
+          "text": "#hưngnguyễn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/qu%C3%A2nlee",
+          "text": "#quânlee"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/crisdevilgamer",
+          "text": "#crisdevilgamer"
+        },
+        {
+          "url": "https://bit.ly/4iuOI28",
+          "text": "https://bit.ly/4iuOI28"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC5bxATIALkxlwWQzACzdjHw",
+          "text": "   / @dautruonggiatoc  "
+        },
+        {
+          "url": "https://www.facebook.com/dautruonggiatoc.dongtaypromotion",
+          "text": "  / dautruonggiatoc.dongtaypromotion  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dautruonggiatoc",
+          "text": "  / dautruonggiatoc  "
+        },
+        {
+          "url": "https://bit.ly/SubDTP",
+          "text": "https://bit.ly/SubDTP"
+        },
+        {
+          "url": "https://bit.ly/SubDTE",
+          "text": "https://bit.ly/SubDTE"
+        },
+        {
+          "url": "https://bit.ly/HAUTRUONGDTP",
+          "text": "https://bit.ly/HAUTRUONGDTP"
+        },
+        {
+          "url": "https://bit.ly/showhotDTP",
+          "text": "https://bit.ly/showhotDTP"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+          "text": "   • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc",
+          "text": "   • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+          "text": "   • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig",
+          "text": "   • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  "
+        },
+        {
+          "url": "https://www.facebook.com/DongTayPromotion",
+          "text": "  / dongtaypromotion  "
+        },
+        {
+          "url": "https://www.instagram.com/dongtaypromotion.official/",
+          "text": "  / dongtaypromotion.official  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dongtaypromotionofficial",
+          "text": "  / dongtaypromotionofficial  "
+        },
+        {
+          "url": "https://www.youtube.com/shopcollection/SCUCbpsE7elhjA0CCnXQQ_AZs_E9OxHsDqgeQ",
+          "text": "https://www.youtube.com/shopcollectio..."
+        },
+        {
+          "url": "https://shopee.vn/product/1095250065/27421993034",
+          "text": "https://shopee.vn/product/1095250065/..."
+        },
+        {
+          "url": "https://shopee.vn/product/726432436/26272946378",
+          "text": "https://shopee.vn/product/726432436/2..."
+        },
+        {
+          "url": "https://shopee.vn/product/128986877/29789016834",
+          "text": "https://shopee.vn/product/128986877/2..."
+        },
+        {
+          "url": "https://shopee.vn/product/71009635/27082711780",
+          "text": "https://shopee.vn/product/71009635/27..."
+        },
+        {
+          "url": "https://shopee.vn/product/71009635/28732751208",
+          "text": "https://shopee.vn/product/71009635/28..."
+        },
+        {
+          "url": "https://shopee.vn/product/470271325/20100725919",
+          "text": "https://shopee.vn/product/470271325/2..."
+        },
+        {
+          "url": "https://shopee.vn/product/145486940/2427550263",
+          "text": "https://shopee.vn/product/145486940/2..."
+        },
+        {
+          "url": "https://shopee.vn/product/1397276155/26168459444",
+          "text": "https://shopee.vn/product/1397276155/..."
+        },
+        {
+          "url": "https://shopee.vn/product/302989029/3862257062",
+          "text": "https://shopee.vn/product/302989029/3..."
+        },
+        {
+          "url": "https://shopee.vn/product/272527398/19974870049",
+          "text": "https://shopee.vn/product/272527398/1..."
+        },
+        {
+          "url": "https://shopee.vn/product/890736951/40550928941",
+          "text": "https://shopee.vn/product/890736951/4..."
+        },
+        {
+          "url": "https://shopee.vn/product/1197449446/40054232800",
+          "text": "https://shopee.vn/product/1197449446/..."
+        },
+        {
+          "url": "https://shopee.vn/product/235346769/21875048715",
+          "text": "https://shopee.vn/product/235346769/2..."
+        },
+        {
+          "url": "https://shopee.vn/product/272356020/5037204047",
+          "text": "https://shopee.vn/product/272356020/5..."
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 0,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+      "isPaidContent": false
+    },
+    {
+      "title": "Đấu Trường Gia Tốc Tập 11: Cris-Kaity bắt tay giải mã mê cung, Dương Domic-HURRYKNG đọ trình go kart",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "-WAD83tAFLM",
+      "url": "https://www.youtube.com/watch?v=-WAD83tAFLM&list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ&index=3",
+      "thumbnailUrl": "https://i.ytimg.com/vi/-WAD83tAFLM/maxresdefault.jpg",
+      "viewCount": 3384354,
+      "date": "2025-08-10T13:40:06.000Z",
+      "likes": 27000,
+      "location": null,
+      "channelName": "ĐÔNG TÂY PROMOTION OFFICIAL",
+      "channelUrl": "https://www.youtube.com/@dongtaypromotionofficial",
+      "channelUsername": "dongtaypromotionofficial",
+      "collaborators": null,
+      "channelId": "UCFMEYTv6N64hIL9FlQ_hxBw",
+      "numberOfSubscribers": 9830000,
+      "duration": "02:08:36",
+      "commentsCount": 3988,
+      "text": "Đấu Trường Gia Tốc Tập 11: Cris-Kaity bắt tay giải mã mê cung, Dương Domic-HURRYKNG đọ trình go kart\n\nXEM TRỌN BỘ ĐẤU TRƯỜNG GIA TỐC 👉: https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ\n\n#ĐấuTrườngGiaTốc #DauTruongGiaToc #RunForTimeVietNam\n#rhyder #hurrykng #dươngdomic #weanle #crisphan #ngôkiếnhuy #run\n#phươnganhđào #kaitynguyễn #hưngnguyễn #quânlee #crisdevilgamer\n\nĐấu Trường Gia Tốc là chương trình truyền hình thực tế Việt Nam với Format “PHIM TRONG SHOW” với hơn 20 năm thành công tại Nhật Bản. Chỉ với 120 phút để sinh tồn, người chơi phải trốn thoát thợ săn vượt qua nhiệm vụ cùng những \"plot twist\" đi vào lòng người. Người chơi \"biến hình\" nhập vai trong thế giới cổ tích lịch sử hoặc tương lai viễn tưởng - một format chưa từng có trên truyền hình Việt với những câu chuyện thời đại đồng hành đa thế hệ \"chạm\" đủ mọi tầng cảm xúc.\n\n⏰ Đón xem Đấu Trường Gia Tốc - Run For Time Vietnam vào lúc \n📺  20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️  20H40 trên kênh @dongtaypromotionofficial và kênh @dautruonggiatoc \n\n📣 Subscribe kênhĐẤU TRƯỜNG GIA TỐC để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4iuOI28\n\n©️ Đấu Trường Gia Tốc - Run For Time Vietnam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK.\n\n👉 Theo dõi các kênh chính thức của Đấu Trường Gia Tốc:\nYouTube: https://youtube.com/@dautruonggiatoc\nFanpage: https://www.facebook.com/dautruonggiatoc.dongtaypromotion\nTikTok: https://www.tiktok.com/@dautruonggiatoc\n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nĐấu Trường Gia Tốc: https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ\n2 Ngày 1 Đêm Việt Nam: https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc\nTổ Đội \"1 Không 2\":  https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3\n7 Nụ Cười Xuân: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig\n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage: https://www.facebook.com/DongTayPromotion\n► Instagram: https://www.instagram.com/dongtaypromotion.official/\n► TikTok: https://www.tiktok.com/@dongtaypromotionofficial\n\n️🛒👉Best YouTube Shopping Choice, xem ngay tại đây:\nhttps://www.youtube.com/shopcollection/SCUCbpsE7elhjA0CCnXQQ_AZs_E9OxHsDqgeQ?\n\n🛒Tham khảo các sản phẩm công nghệ, thời trang và tiêu dùng:\nXe đua F1: https://shopee.vn/product/58805443/29076578698?\nÁo Blouse trắng thân dài, tay dài https://shopee.vn/product/1095250065/27421993034?\nMũ bảo hiểm: https://shopee.vn/product/726432436/26272946378?\nBơm lốp: https://shopee.vn/product/128986877/29789016834?\nMũ bucket: https://shopee.vn/product/71009635/27082711780?\nMũ lưỡi trai: https://shopee.vn/product/71009635/28732751208?\nQuần chạy bộ nam: https://shopee.vn/product/470271325/20100725919?\nÁo vest nam: https://shopee.vn/product/145486940/2427550263?\nDầu gội cho nam: https://shopee.vn/product/1397276155/26168459444?\nKính thời trang kim loại: https://shopee.vn/product/302989029/3862257062?\nÁo chạy bộ: https://shopee.vn/product/272527398/19974870049?\ntúi chạy bộ: https://shopee.vn/product/890736951/40550928941?\nPhụ kiện chạy bộ: https://shopee.vn/product/1197449446/40054232800?\nKính chạy bộ: https://shopee.vn/product/235346769/21875048715?\nBó gối chạy bộ: https://shopee.vn/product/272356020/5037204047?",
+      "translatedText": "Đấu Trường Gia Tốc Tập 11: Cris-Kaity bắt tay giải mã mê cung, Dương Domic-HURRYKNG đọ trình go kart\n\nXEM TRỌN BỘ ĐẤU TRƯỜNG GIA TỐC 👉:    • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  \n\n#ĐấuTrườngGiaTốc #DauTruongGiaToc #RunForTimeVietNam\n#rhyder #hurrykng #dươngdomic #weanle #crisphan #ngôkiếnhuy #run\n#phươnganhđào #kaitynguyễn #hưngnguyễn #quânlee #crisdevilgamer\n\nĐấu Trường Gia Tốc là chương trình truyền hình thực tế Việt Nam với Format “PHIM TRONG SHOW” với hơn 20 năm thành công tại Nhật Bản. Chỉ với 120 phút để sinh tồn, người chơi phải trốn thoát thợ săn vượt qua nhiệm vụ cùng những \"plot twist\" đi vào lòng người. Người chơi \"biến hình\" nhập vai trong thế giới cổ tích lịch sử hoặc tương lai viễn tưởng - một format chưa từng có trên truyền hình Việt với những câu chuyện thời đại đồng hành đa thế hệ \"chạm\" đủ mọi tầng cảm xúc.\n\n⏰ Đón xem Đấu Trường Gia Tốc - Run For Time Vietnam vào lúc \n📺  20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️  20H40 trên kênh ‪@dongtaypromotionofficial‬ và kênh ‪@dautruonggiatoc‬ \n\n📣 Subscribe kênhĐẤU TRƯỜNG GIA TỐC để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4iuOI28\n\n©️ Đấu Trường Gia Tốc - Run For Time Vietnam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK.\n\n👉 Theo dõi các kênh chính thức của Đấu Trường Gia Tốc:\nYouTube:    / @dautruonggiatoc  \nFanpage:   / dautruonggiatoc.dongtaypromotion  \nTikTok:   / dautruonggiatoc  \n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nĐấu Trường Gia Tốc:    • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  \n2 Ngày 1 Đêm Việt Nam:    • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  \nTổ Đội \"1 Không 2\":     • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  \n7 Nụ Cười Xuân:    • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  \n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage:   / dongtaypromotion  \n► Instagram:   / dongtaypromotion.official  \n► TikTok:   / dongtaypromotionofficial  \n\n️🛒👉Best YouTube Shopping Choice, xem ngay tại đây:\nhttps://www.youtube.com/shopcollectio...\n\n🛒Tham khảo các sản phẩm công nghệ, thời trang và tiêu dùng:\nXe đua F1: https://shopee.vn/product/58805443/29...\nÁo Blouse trắng thân dài, tay dài https://shopee.vn/product/1095250065/...\nMũ bảo hiểm: https://shopee.vn/product/726432436/2...\nBơm lốp: https://shopee.vn/product/128986877/2...\nMũ bucket: https://shopee.vn/product/71009635/27...\nMũ lưỡi trai: https://shopee.vn/product/71009635/28...\nQuần chạy bộ nam: https://shopee.vn/product/470271325/2...\nÁo vest nam: https://shopee.vn/product/145486940/2...\nDầu gội cho nam: https://shopee.vn/product/1397276155/...\nKính thời trang kim loại: https://shopee.vn/product/302989029/3...\nÁo chạy bộ: https://shopee.vn/product/272527398/1...\ntúi chạy bộ: https://shopee.vn/product/890736951/4...\nPhụ kiện chạy bộ: https://shopee.vn/product/1197449446/...\nKính chạy bộ: https://shopee.vn/product/235346769/2...\nBó gối chạy bộ: https://shopee.vn/product/272356020/5...",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+          "text": "   • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/%C4%91%E1%BA%A5utr%C6%B0%E1%BB%9Dnggiat%E1%BB%91c",
+          "text": "#ĐấuTrườngGiaTốc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dautruonggiatoc",
+          "text": "#DauTruongGiaToc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/runfortimevietnam",
+          "text": "#RunForTimeVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/rhyder",
+          "text": "#rhyder"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hurrykng",
+          "text": "#hurrykng"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/d%C6%B0%C6%A1ngdomic",
+          "text": "#dươngdomic"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/weanle",
+          "text": "#weanle"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/crisphan",
+          "text": "#crisphan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ng%C3%B4ki%E1%BA%BFnhuy",
+          "text": "#ngôkiếnhuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/run",
+          "text": "#run"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ph%C6%B0%C6%A1nganh%C4%91%C3%A0o",
+          "text": "#phươnganhđào"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/kaitynguy%E1%BB%85n",
+          "text": "#kaitynguyễn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/h%C6%B0ngnguy%E1%BB%85n",
+          "text": "#hưngnguyễn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/qu%C3%A2nlee",
+          "text": "#quânlee"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/crisdevilgamer",
+          "text": "#crisdevilgamer"
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "‪@dongtaypromotionofficial‬"
+        },
+        {
+          "url": "https://www.youtube.com/@dautruonggiatoc",
+          "text": "‪@dautruonggiatoc‬"
+        },
+        {
+          "url": "https://bit.ly/4iuOI28",
+          "text": "https://bit.ly/4iuOI28"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC5bxATIALkxlwWQzACzdjHw",
+          "text": "   / @dautruonggiatoc  "
+        },
+        {
+          "url": "https://www.facebook.com/dautruonggiatoc.dongtaypromotion",
+          "text": "  / dautruonggiatoc.dongtaypromotion  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dautruonggiatoc",
+          "text": "  / dautruonggiatoc  "
+        },
+        {
+          "url": "https://bit.ly/SubDTP",
+          "text": "https://bit.ly/SubDTP"
+        },
+        {
+          "url": "https://bit.ly/SubDTE",
+          "text": "https://bit.ly/SubDTE"
+        },
+        {
+          "url": "https://bit.ly/HAUTRUONGDTP",
+          "text": "https://bit.ly/HAUTRUONGDTP"
+        },
+        {
+          "url": "https://bit.ly/showhotDTP",
+          "text": "https://bit.ly/showhotDTP"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+          "text": "   • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc",
+          "text": "   • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+          "text": "   • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig",
+          "text": "   • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  "
+        },
+        {
+          "url": "https://www.facebook.com/DongTayPromotion",
+          "text": "  / dongtaypromotion  "
+        },
+        {
+          "url": "https://www.instagram.com/dongtaypromotion.official/",
+          "text": "  / dongtaypromotion.official  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dongtaypromotionofficial",
+          "text": "  / dongtaypromotionofficial  "
+        },
+        {
+          "url": "https://www.youtube.com/shopcollection/SCUCbpsE7elhjA0CCnXQQ_AZs_E9OxHsDqgeQ",
+          "text": "https://www.youtube.com/shopcollectio..."
+        },
+        {
+          "url": "https://shopee.vn/product/58805443/29076578698",
+          "text": "https://shopee.vn/product/58805443/29..."
+        },
+        {
+          "url": "https://shopee.vn/product/1095250065/27421993034",
+          "text": "https://shopee.vn/product/1095250065/..."
+        },
+        {
+          "url": "https://shopee.vn/product/726432436/26272946378",
+          "text": "https://shopee.vn/product/726432436/2..."
+        },
+        {
+          "url": "https://shopee.vn/product/128986877/29789016834",
+          "text": "https://shopee.vn/product/128986877/2..."
+        },
+        {
+          "url": "https://shopee.vn/product/71009635/27082711780",
+          "text": "https://shopee.vn/product/71009635/27..."
+        },
+        {
+          "url": "https://shopee.vn/product/71009635/28732751208",
+          "text": "https://shopee.vn/product/71009635/28..."
+        },
+        {
+          "url": "https://shopee.vn/product/470271325/20100725919",
+          "text": "https://shopee.vn/product/470271325/2..."
+        },
+        {
+          "url": "https://shopee.vn/product/145486940/2427550263",
+          "text": "https://shopee.vn/product/145486940/2..."
+        },
+        {
+          "url": "https://shopee.vn/product/1397276155/26168459444",
+          "text": "https://shopee.vn/product/1397276155/..."
+        },
+        {
+          "url": "https://shopee.vn/product/302989029/3862257062",
+          "text": "https://shopee.vn/product/302989029/3..."
+        },
+        {
+          "url": "https://shopee.vn/product/272527398/19974870049",
+          "text": "https://shopee.vn/product/272527398/1..."
+        },
+        {
+          "url": "https://shopee.vn/product/890736951/40550928941",
+          "text": "https://shopee.vn/product/890736951/4..."
+        },
+        {
+          "url": "https://shopee.vn/product/1197449446/40054232800",
+          "text": "https://shopee.vn/product/1197449446/..."
+        },
+        {
+          "url": "https://shopee.vn/product/235346769/21875048715",
+          "text": "https://shopee.vn/product/235346769/2..."
+        },
+        {
+          "url": "https://shopee.vn/product/272356020/5037204047",
+          "text": "https://shopee.vn/product/272356020/5..."
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 2,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+      "isPaidContent": false
+    },
+    {
+      "title": "Đấu Trường Gia Tốc Tập 0:Hai VUATROCHOI \"chiến đấu\" giành HURRYKNG, RHYDER - HƯNG NGUYỄN tạo bất ngờ",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "mamNbhyBw78",
+      "url": "https://www.youtube.com/watch?v=mamNbhyBw78&list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ&index=13",
+      "thumbnailUrl": "https://i.ytimg.com/vi/mamNbhyBw78/maxresdefault.jpg",
+      "viewCount": 4053602,
+      "date": "2025-05-18T13:40:06.000Z",
+      "likes": 50000,
+      "location": null,
+      "channelName": "ĐÔNG TÂY PROMOTION OFFICIAL",
+      "channelUrl": "https://www.youtube.com/@dongtaypromotionofficial",
+      "channelUsername": "dongtaypromotionofficial",
+      "collaborators": null,
+      "channelId": "UCFMEYTv6N64hIL9FlQ_hxBw",
+      "numberOfSubscribers": 9830000,
+      "duration": "01:28:59",
+      "commentsCount": 5308,
+      "text": "Đấu Trường Gia Tốc Tập 0:Hai VUATROCHOI \"chiến đấu\" giành HURRYKNG, RHYDER - HƯNG NGUYỄN tạo bất ngờ\n\nXEM TRỌN BỘ ĐẤU TRƯỜNG GIA TỐC 👉: https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ\n\n#ĐấuTrườngGiaTốc #DauTruongGiaToc #RunForTime #RunForTimeVietNam #DongTayPromotion #RHYDER #HURRYKNG #WeanLe #DươngDomic #QuânLee \n#NgôKiếnHuy #CrisPhan #KaityNguyễn #PhươngAnhĐào #HưngNguyễn  #DatVietVAC\n\nĐấu Trường Gia Tốc là chương trình truyền hình thực tế Việt Nam với Format “PHIM TRONG SHOW” với hơn 20 năm thành công tại Nhật Bản. Chỉ với 120 phút để sinh tồn, người chơi phải trốn thoát thợ săn vượt qua nhiệm vụ cùng những \"plot twist\" đi vào lòng người. Người chơi \"biến hình\" nhập vai trong thế giới cổ tích lịch sử hoặc tương lai viễn tưởng - một format chưa từng có trên truyền hình Việt với những câu chuyện thời đại đồng hành đa thế hệ \"chạm\" đủ mọi tầng cảm xúc.\n\n⏰ Đón xem Đấu Trường Gia Tốc - Run For Time Vietnam vào lúc \n📺  20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️  20H40 trên kênh @dongtaypromotionofficial  kênh @dautruonggiatoc \n\n📣 Subscribe kênhĐẤU TRƯỜNG GIA TỐC để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4iuOI28\n\n©️ Đấu Trường Gia Tốc - Run For Time Vietnam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK.\n\n👉 Theo dõi các kênh chính thức của Đấu Trường Gia Tốc:\nYouTube: https://youtube.com/@dautruonggiatoc\nFanpage: https://www.facebook.com/dautruonggiatoc.dongtaypromotion\nTikTok: https://www.tiktok.com/@dautruonggiatoc\n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nTổ Đội \"1 Không 2\":  https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3\nOur Song Việt Nam:  https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP\n2 Ngày 1 Đêm Việt Nam: https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc\n7 Nụ Cười Xuân: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig\n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage: https://www.facebook.com/DongTayPromotion\n► Instagram: https://www.instagram.com/dongtaypromotion.official/\n► TikTok: https://www.tiktok.com/@dongtaypromotionofficial\n\n🛒Tham khảo các sản phẩm công nghệ, thời trang và tiêu dùng 👇:\nSet Áo Khoác Blazer + Quần Dài Thời Trang Cho Nam: https://shopee.vn/product/130132010/25907679699?\nkính râm thể thao chống nắng Dành cho nam và nữ: https://shopee.vn/product/93020558/28608870594?\nÁo gile túi hộp: https://shopee.vn/product/1231675701/24774024197?\nTúi Đeo Chéo Trước Ngực Màu Sắc Cá Tính Cho Nam Nữ - AUROA: https://shopee.vn/product/1241578615/27850010164?\nMŨ / NÓN CÓI ( ĐI BIỂN ) MỀM VINTAGE THẮT NƠ DA [SH1]: https://shopee.vn/product/275488757/7438642888?\nTRACKSUIT JACKET / ÁO KHOÁC GIÓ / GAMBLE WORLDWIDE: https://shopee.vn/product/118545923/27080319280?\nÁo khoác dù phối 2 lớp: https://shopee.vn/product/415422361/13398531812?\nNón Bảo Hiểm: https://shopee.vn/product/40233555/2894996989?\nKính mát: https://shopee.vn/product/741434470/20575383177?\nÁo len POLO dài tay: https://shopee.vn/product/846764119/27513304165?",
+      "translatedText": "Đấu Trường Gia Tốc Tập 0:Hai VUATROCHOI \"chiến đấu\" giành HURRYKNG, RHYDER - HƯNG NGUYỄN tạo bất ngờ\n\nXEM TRỌN BỘ ĐẤU TRƯỜNG GIA TỐC 👉:    • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  \n\n#ĐấuTrườngGiaTốc #DauTruongGiaToc #RunForTime #RunForTimeVietNam #DongTayPromotion #RHYDER #HURRYKNG #WeanLe #DươngDomic #QuânLee \n#NgôKiếnHuy #CrisPhan #KaityNguyễn #PhươngAnhĐào #HưngNguyễn  #DatVietVAC\n\nĐấu Trường Gia Tốc là chương trình truyền hình thực tế Việt Nam với Format “PHIM TRONG SHOW” với hơn 20 năm thành công tại Nhật Bản. Chỉ với 120 phút để sinh tồn, người chơi phải trốn thoát thợ săn vượt qua nhiệm vụ cùng những \"plot twist\" đi vào lòng người. Người chơi \"biến hình\" nhập vai trong thế giới cổ tích lịch sử hoặc tương lai viễn tưởng - một format chưa từng có trên truyền hình Việt với những câu chuyện thời đại đồng hành đa thế hệ \"chạm\" đủ mọi tầng cảm xúc.\n\n⏰ Đón xem Đấu Trường Gia Tốc - Run For Time Vietnam vào lúc \n📺  20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️  20H40 trên kênh ‪@dongtaypromotionofficial‬  kênh ‪@dautruonggiatoc‬ \n\n📣 Subscribe kênhĐẤU TRƯỜNG GIA TỐC để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4iuOI28\n\n©️ Đấu Trường Gia Tốc - Run For Time Vietnam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK.\n\n👉 Theo dõi các kênh chính thức của Đấu Trường Gia Tốc:\nYouTube:    / @dautruonggiatoc  \nFanpage:   / dautruonggiatoc.dongtaypromotion  \nTikTok:   / dautruonggiatoc  \n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nTổ Đội \"1 Không 2\":     • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  \nOur Song Việt Nam:     • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  \n2 Ngày 1 Đêm Việt Nam:    • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  \n7 Nụ Cười Xuân:    • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  \n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage:   / dongtaypromotion  \n► Instagram:   / dongtaypromotion.official  \n► TikTok:   / dongtaypromotionofficial  \n\n🛒Tham khảo các sản phẩm công nghệ, thời trang và tiêu dùng 👇:\nSet Áo Khoác Blazer + Quần Dài Thời Trang Cho Nam: https://shopee.vn/product/130132010/2...\nkính râm thể thao chống nắng Dành cho nam và nữ: https://shopee.vn/product/93020558/28...\nÁo gile túi hộp: https://shopee.vn/product/1231675701/...\nTúi Đeo Chéo Trước Ngực Màu Sắc Cá Tính Cho Nam Nữ - AUROA: https://shopee.vn/product/1241578615/...\nMŨ / NÓN CÓI ( ĐI BIỂN ) MỀM VINTAGE THẮT NƠ DA [SH1]: https://shopee.vn/product/275488757/7...\nTRACKSUIT JACKET / ÁO KHOÁC GIÓ / GAMBLE WORLDWIDE: https://shopee.vn/product/118545923/2...\nÁo khoác dù phối 2 lớp: https://shopee.vn/product/415422361/1...\nNón Bảo Hiểm: https://shopee.vn/product/40233555/28...\nKính mát: https://shopee.vn/product/741434470/2...\nÁo len POLO dài tay: https://shopee.vn/product/846764119/2...",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+          "text": "   • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/%C4%91%E1%BA%A5utr%C6%B0%E1%BB%9Dnggiat%E1%BB%91c",
+          "text": "#ĐấuTrườngGiaTốc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dautruonggiatoc",
+          "text": "#DauTruongGiaToc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/runfortime",
+          "text": "#RunForTime"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/runfortimevietnam",
+          "text": "#RunForTimeVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dongtaypromotion",
+          "text": "#DongTayPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/rhyder",
+          "text": "#RHYDER"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hurrykng",
+          "text": "#HURRYKNG"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/weanle",
+          "text": "#WeanLe"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/d%C6%B0%C6%A1ngdomic",
+          "text": "#DươngDomic"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/qu%C3%A2nlee",
+          "text": "#QuânLee"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ng%C3%B4ki%E1%BA%BFnhuy",
+          "text": "#NgôKiếnHuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/crisphan",
+          "text": "#CrisPhan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/kaitynguy%E1%BB%85n",
+          "text": "#KaityNguyễn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ph%C6%B0%C6%A1nganh%C4%91%C3%A0o",
+          "text": "#PhươngAnhĐào"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/h%C6%B0ngnguy%E1%BB%85n",
+          "text": "#HưngNguyễn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/datvietvac",
+          "text": "#DatVietVAC"
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "‪@dongtaypromotionofficial‬"
+        },
+        {
+          "url": "https://www.youtube.com/@dautruonggiatoc",
+          "text": "‪@dautruonggiatoc‬"
+        },
+        {
+          "url": "https://bit.ly/4iuOI28",
+          "text": "https://bit.ly/4iuOI28"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC5bxATIALkxlwWQzACzdjHw",
+          "text": "   / @dautruonggiatoc  "
+        },
+        {
+          "url": "https://www.facebook.com/dautruonggiatoc.dongtaypromotion",
+          "text": "  / dautruonggiatoc.dongtaypromotion  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dautruonggiatoc",
+          "text": "  / dautruonggiatoc  "
+        },
+        {
+          "url": "https://bit.ly/SubDTP",
+          "text": "https://bit.ly/SubDTP"
+        },
+        {
+          "url": "https://bit.ly/SubDTE",
+          "text": "https://bit.ly/SubDTE"
+        },
+        {
+          "url": "https://bit.ly/HAUTRUONGDTP",
+          "text": "https://bit.ly/HAUTRUONGDTP"
+        },
+        {
+          "url": "https://bit.ly/showhotDTP",
+          "text": "https://bit.ly/showhotDTP"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+          "text": "   • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+          "text": "   • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc",
+          "text": "   • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig",
+          "text": "   • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  "
+        },
+        {
+          "url": "https://www.facebook.com/DongTayPromotion",
+          "text": "  / dongtaypromotion  "
+        },
+        {
+          "url": "https://www.instagram.com/dongtaypromotion.official/",
+          "text": "  / dongtaypromotion.official  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dongtaypromotionofficial",
+          "text": "  / dongtaypromotionofficial  "
+        },
+        {
+          "url": "https://shopee.vn/product/130132010/25907679699",
+          "text": "https://shopee.vn/product/130132010/2..."
+        },
+        {
+          "url": "https://shopee.vn/product/93020558/28608870594",
+          "text": "https://shopee.vn/product/93020558/28..."
+        },
+        {
+          "url": "https://shopee.vn/product/1231675701/24774024197",
+          "text": "https://shopee.vn/product/1231675701/..."
+        },
+        {
+          "url": "https://shopee.vn/product/1241578615/27850010164",
+          "text": "https://shopee.vn/product/1241578615/..."
+        },
+        {
+          "url": "https://shopee.vn/product/275488757/7438642888",
+          "text": "https://shopee.vn/product/275488757/7..."
+        },
+        {
+          "url": "https://shopee.vn/product/118545923/27080319280",
+          "text": "https://shopee.vn/product/118545923/2..."
+        },
+        {
+          "url": "https://shopee.vn/product/415422361/13398531812",
+          "text": "https://shopee.vn/product/415422361/1..."
+        },
+        {
+          "url": "https://shopee.vn/product/40233555/2894996989",
+          "text": "https://shopee.vn/product/40233555/28..."
+        },
+        {
+          "url": "https://shopee.vn/product/741434470/20575383177",
+          "text": "https://shopee.vn/product/741434470/2..."
+        },
+        {
+          "url": "https://shopee.vn/product/846764119/27513304165",
+          "text": "https://shopee.vn/product/846764119/2..."
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 12,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+      "isPaidContent": false
+    },
+    {
+      "title": "Đấu Trường Gia Tốc Tập 1:Cris - RHYDER cặp đôi giải mã cừ khôi, Dương Domic - WEAN đôi bạn cùng tiến",
+      "translatedTitle": "Acceleration Arena Episode 1: Cris - RHYDER, the ultimate decoding duo; Dương Domic - WEAN, the p...",
+      "type": "video",
+      "id": "iz76RZfj2v8",
+      "url": "https://www.youtube.com/watch?v=iz76RZfj2v8&list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ&index=12",
+      "thumbnailUrl": "https://i.ytimg.com/vi/iz76RZfj2v8/maxresdefault.jpg",
+      "viewCount": 5140511,
+      "date": "2025-06-01T13:40:06.000Z",
+      "likes": 51000,
+      "location": null,
+      "channelName": "ĐÔNG TÂY PROMOTION OFFICIAL",
+      "channelUrl": "https://www.youtube.com/@dongtaypromotionofficial",
+      "channelUsername": "dongtaypromotionofficial",
+      "collaborators": null,
+      "channelId": "UCFMEYTv6N64hIL9FlQ_hxBw",
+      "numberOfSubscribers": 9830000,
+      "duration": "01:53:36",
+      "commentsCount": 4762,
+      "text": "Đấu Trường Gia Tốc Tập 1:Cris - RHYDER cặp đôi giải mã cừ khôi, Dương Domic - WEAN đôi bạn cùng tiến\n\nXEM TRỌN BỘ ĐẤU TRƯỜNG GIA TỐC 👉: https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ\n\n#ĐấuTrườngGiaTốc #DauTruongGiaToc #RunForTime #RunForTimeVietNam #DongTayPromotion #RHYDER #HURRYKNG #WeanLe #DươngDomic #QuânLee \n#NgôKiếnHuy #CrisPhan #KaityNguyễn #PhươngAnhĐào #HưngNguyễn  \n\nĐấu Trường Gia Tốc là chương trình truyền hình thực tế Việt Nam với Format “PHIM TRONG SHOW” với hơn 20 năm thành công tại Nhật Bản. Chỉ với 120 phút để sinh tồn, người chơi phải trốn thoát thợ săn vượt qua nhiệm vụ cùng những \"plot twist\" đi vào lòng người. Người chơi \"biến hình\" nhập vai trong thế giới cổ tích lịch sử hoặc tương lai viễn tưởng - một format chưa từng có trên truyền hình Việt với những câu chuyện thời đại đồng hành đa thế hệ \"chạm\" đủ mọi tầng cảm xúc.\n\n⏰ Đón xem Đấu Trường Gia Tốc - Run For Time Vietnam vào lúc \n📺  20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️  20H40 trên kênh @dongtaypromotionofficial  và kênh @dautruonggiatoc \n\n📣 Subscribe kênhĐẤU TRƯỜNG GIA TỐC để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4iuOI28\n\n©️ Đấu Trường Gia Tốc - Run For Time Vietnam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK.\n\n👉 Theo dõi các kênh chính thức của Đấu Trường Gia Tốc:\nYouTube: https://youtube.com/@dautruonggiatoc\nFanpage: https://www.facebook.com/dautruonggiatoc.dongtaypromotion\nTikTok: https://www.tiktok.com/@dautruonggiatoc\n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nĐấu Trường Gia Tốc: https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ\n2 Ngày 1 Đêm Việt Nam: https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc\nTổ Đội \"1 Không 2\":  https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3\n7 Nụ Cười Xuân: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig\n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage: https://www.facebook.com/DongTayPromotion\n► Instagram: https://www.instagram.com/dongtaypromotion.official/\n► TikTok: https://www.tiktok.com/@dongtaypromotionofficial\n\n🛒Tham khảo các sản phẩm công nghệ, thời trang và tiêu dùng 👇:\nDầu gội sạch gàu Clear 630G: https://shopee.vn/product/1397276155/25688651553?\nInstax Mini 12 - Mini SE - Mini 11 - Máy ảnh lấy ngay Fujifilm Chính hãng - Bảo hành 1 năm: https://shopee.vn/product/38156246/4431892311?\nNón Tai Bèo Rộng Vành Chống Nắng Màu Sắc Tương Phản Phong Cách Nhật Bản Dành Cho Nam Nữ: https://shopee.vn/product/698020750/22975884414?\nMũ bảo hộ lao động giá rẻ khoá vặn ôm sát đầu, Nón bảo hộ lao động khoá bấm, nón bảo hộ công nhân công trình: https://shopee.vn/product/73172251/21429521775?\nNón lá Huế trơn, 40cm, 45cm, 50cm: https://shopee.vn/product/107414628/18124921502?\nCombo 2 Cái Bộ Đàm Baofeng BF888S Kèm Tai Nghe Cự Ly Đến 5km Full Phụ Kiện, 16 Kênh: https://shopee.vn/product/1311351523/27457785465?\nKính mát: https://shopee.vn/product/741434470/20575383177?\nMũ lưỡi trai trơn nam nữ CAPMAN CLUB, nón kết basic unisex CM99 đơn giản, cá tính: https://shopee.vn/product/329396034/3187679536?\nTúi bao tử đeo chéo nam nữ vải dù chống thấm nước BEE GEE DCN9363: https://shopee.vn/product/119317207/29204438485?\nTúi thắt lưng MARK RYDEN Lmr615 thời trang cho nam: https://shopee.vn/product/347656804/21092439019?\nMũ Lưỡi Trai Thể Thao Nửa Đầu Chống Nắng Cho Nam: https://shopee.vn/product/698020750/21113991644?\nÁO GHI LÊ PHẢN QUANG: https://shopee.vn/product/971653447/23759216323?",
+      "translatedText": "Run For Time Episode 1: Cris - RHYDER, the excellent decoding duo; Duong Domic - WEAN, the dynamic duo\n\nWATCH THE FULL SERIES OF RUN FOR TIME 👉:    • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  \n\n#RunForTime #RunForTimeVietNam #DongTayPromotion #RHYDER #HURRYKNG #WeanLe #DuongDomic #QuanLee\n\n#NgoKienHuy #CrisPhan #KaityNguyen #PhuongAnhDao #HungNguyen\n\nRun For Time is a Vietnamese reality TV show with a \"FILM IN A SHOW\" format, with over 20 years of success in Japan. With only 120 minutes to survive, players must escape hunters and complete missions with heartwarming plot twists. Players \"transform\" and role-play in historical fairytale or futuristic fantasy worlds – a format never before seen on Vietnamese television, featuring contemporary stories that resonate across generations and evoke a wide range of emotions.\n\n⏰ Watch Run For Time Vietnam at\n\n📺 8:30 PM every Sunday on HTV7 and the VieON entertainment app\n\n▶️ 8:40 PM on @dongtaypromotionofficial and @dautruonggiatoc\n\n📣 Subscribe to the Run For Time channel to watch the EARLIEST and NEWEST episodes: https://bit.ly/4iuOI28\n\n©️ Run For Time Vietnam is owned by Dong Tay Promotion and protected by copyright by VieNETWORK.\n\n👉 Follow the official channels of Acceleration Arena:\nYouTube:    / @dautruonggiatoc  \nFanpage:   / dautruonggiatoc.dongtaypromotion  \nTikTok:   / dautruonggiatoc  \n\n📣 Subscribe to the DONG TAY PROMOTION OFFICIAL channel to not miss out on SUPER EXCITING programs: https://bit.ly/SubDTP\n📣 Subscribe to the DONG TAY ENTERTAINMENT channel to watch HOT VIDEOS from the top shows: https://bit.ly/SubDTE\n\n⏩ Behind-the-Scenes Secrets: https://bit.ly/HAUTRUONGDTP ⏩ Great Shows every day: https://bit.ly/showhotDTP 👉 OTHER HOT SHOWS: \nAcceleration Arena:    • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  \n2 Days 1 Night Vietnam:    • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  \nThe \"One of a Kind\" Team:    • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  \n7 Spring Smiles:    • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  \n\n👉 Follow the official channels of Dong Tay Promotion - owned by DatVietVAC at:\n► Fanpage:   / dongtaypromotion  \n► Instagram:   / dongtaypromotion.official  \n► TikTok:   / dongtaypromotionofficial  \n\n🛒Check out our technology, fashion, and consumer products 👇:\nClear Anti-Dandruff Shampoo 630G: https://shopee.vn/product/1397276155/...\nInstax Mini 12 - Mini SE - Mini 11 - Fujifilm Instant Cameras - Genuine - 1-Year Warranty: https://shopee.vn/product/38156246/44...\nWide-Brimmed Bucket Hat with Contrasting Colors, Japanese Style for Men and Women: https://shopee.vn/product/698020750/2...\n\nCheap safety helmets with screw-on buckles, safety helmets with snap locks, construction worker safety helmets: https://shopee.vn/product/73172251/21...\nPlain Hue conical hats, 40cm, 45cm, 50cm: https://shopee.vn/product/107414628/1...\nCombo of 2 Baofeng BF888S Walkie Talkies with Headset, Range up to 5km, Full Accessories, 16 Channels: https://shopee.vn/product/1311351523/...\nSunglasses: https://shopee.vn/product/741434470/2...\nCAPMAN CLUB Plain Baseball Cap for Men and Women, CM99 Basic Unisex Cap - Simple and Stylish: https://shopee.vn/product/329396034/3...\nBEE GEE DCN9363 Waterproof Crossbody Waist Bag for Men and Women: https://shopee.vn/product/119317207/2...\nMARK RYDEN Lmr615 Fashionable Belt Bag for Men: https://shopee.vn/product/347656804/2...\nMen's Half-Head Sports Sun Protection Baseball Cap: https://shopee.vn/product/698020750/2...\n\nReflective Vest: https://shopee.vn/product/971653447/2...",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+          "text": "   • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/runfortime",
+          "text": "#RunForTime"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/runfortimevietnam",
+          "text": "#RunForTimeVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dongtaypromotion",
+          "text": "#DongTayPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/rhyder",
+          "text": "#RHYDER"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hurrykng",
+          "text": "#HURRYKNG"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/weanle",
+          "text": "#WeanLe"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/duongdomic",
+          "text": "#DuongDomic"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quanlee",
+          "text": "#QuanLee"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngokienhuy",
+          "text": "#NgoKienHuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/crisphan",
+          "text": "#CrisPhan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/kaitynguyen",
+          "text": "#KaityNguyen"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phuonganhdao",
+          "text": "#PhuongAnhDao"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hungnguyen",
+          "text": "#HungNguyen"
+        },
+        {
+          "url": "https://bit.ly/4iuOI28",
+          "text": "https://bit.ly/4iuOI28"
+        },
+        {
+          "url": "https://youtube.com/@dautruonggiatoc",
+          "text": "   / @dautruonggiatoc  "
+        },
+        {
+          "url": "https://www.facebook.com/dautruonggiatoc.dongtaypromotion",
+          "text": "  / dautruonggiatoc.dongtaypromotion  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dautruonggiatoc",
+          "text": "  / dautruonggiatoc  "
+        },
+        {
+          "url": "https://bit.ly/SubDTP",
+          "text": "https://bit.ly/SubDTP"
+        },
+        {
+          "url": "https://bit.ly/SubDTE",
+          "text": "https://bit.ly/SubDTE"
+        },
+        {
+          "url": "https://bit.ly/HAUTRUONGDTP",
+          "text": "https://bit.ly/HAUTRUONGDTP"
+        },
+        {
+          "url": "https://bit.ly/showhotDTP",
+          "text": "https://bit.ly/showhotDTP"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+          "text": "   • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc",
+          "text": "   • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+          "text": "   • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig",
+          "text": "   • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  "
+        },
+        {
+          "url": "https://www.facebook.com/DongTayPromotion",
+          "text": "  / dongtaypromotion  "
+        },
+        {
+          "url": "https://www.instagram.com/dongtaypromotion.official/",
+          "text": "  / dongtaypromotion.official  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dongtaypromotionofficial",
+          "text": "  / dongtaypromotionofficial  "
+        },
+        {
+          "url": "https://shopee.vn/product/1397276155/25688651553",
+          "text": "https://shopee.vn/product/1397276155/..."
+        },
+        {
+          "url": "https://shopee.vn/product/38156246/4431892311",
+          "text": "https://shopee.vn/product/38156246/44..."
+        },
+        {
+          "url": "https://shopee.vn/product/698020750/22975884414",
+          "text": "https://shopee.vn/product/698020750/2..."
+        },
+        {
+          "url": "https://shopee.vn/product/73172251/21429521775",
+          "text": "https://shopee.vn/product/73172251/21..."
+        },
+        {
+          "url": "https://shopee.vn/product/107414628/18124921502",
+          "text": "https://shopee.vn/product/107414628/1..."
+        },
+        {
+          "url": "https://shopee.vn/product/1311351523/27457785465",
+          "text": "https://shopee.vn/product/1311351523/..."
+        },
+        {
+          "url": "https://shopee.vn/product/741434470/20575383177",
+          "text": "https://shopee.vn/product/741434470/2..."
+        },
+        {
+          "url": "https://shopee.vn/product/329396034/3187679536",
+          "text": "https://shopee.vn/product/329396034/3..."
+        },
+        {
+          "url": "https://shopee.vn/product/119317207/29204438485",
+          "text": "https://shopee.vn/product/119317207/2..."
+        },
+        {
+          "url": "https://shopee.vn/product/347656804/21092439019",
+          "text": "https://shopee.vn/product/347656804/2..."
+        },
+        {
+          "url": "https://shopee.vn/product/698020750/21113991644",
+          "text": "https://shopee.vn/product/698020750/2..."
+        },
+        {
+          "url": "https://shopee.vn/product/971653447/23759216323",
+          "text": "https://shopee.vn/product/971653447/2..."
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 11,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+      "isPaidContent": false
+    },
+    {
+      "title": "Đấu Trường Gia Tốc Tập 8: Ngô Kiến Huy lột xác bứt tốc, Cris Phan thể hiện bản lĩnh đội trưởng",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "HFb9tjcMWi4",
+      "url": "https://www.youtube.com/watch?v=HFb9tjcMWi4&list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ&index=6",
+      "thumbnailUrl": "https://i.ytimg.com/vi/HFb9tjcMWi4/maxresdefault.jpg",
+      "viewCount": 2945285,
+      "date": "2025-07-20T13:40:06.000Z",
+      "likes": 26000,
+      "location": null,
+      "channelName": "ĐÔNG TÂY PROMOTION OFFICIAL",
+      "channelUrl": "https://www.youtube.com/@dongtaypromotionofficial",
+      "channelUsername": "dongtaypromotionofficial",
+      "collaborators": null,
+      "channelId": "UCFMEYTv6N64hIL9FlQ_hxBw",
+      "numberOfSubscribers": 9830000,
+      "duration": "01:58:03",
+      "commentsCount": 4429,
+      "text": "Đấu Trường Gia Tốc Tập 8: Ngô Kiến Huy lột xác bứt tốc, Cris Phan thể hiện bản lĩnh đội trưởng\n\nXEM TRỌN BỘ ĐẤU TRƯỜNG GIA TỐC 👉: https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ\n\n#ĐấuTrườngGiaTốc #DauTruongGiaToc #RunForTime #RunForTimeVietNam #DongTayPromotion\n#RHYDER #HURRYKNG #WeanLe #DươngDomic #QuânLee \n#NgôKiếnHuy #CrisPhan #KaityNguyễn #PhươngAnhĐào #HưngNguyễn  \n\nĐấu Trường Gia Tốc là chương trình truyền hình thực tế Việt Nam với Format “PHIM TRONG SHOW” với hơn 20 năm thành công tại Nhật Bản. Chỉ với 120 phút để sinh tồn, người chơi phải trốn thoát thợ săn vượt qua nhiệm vụ cùng những \"plot twist\" đi vào lòng người. Người chơi \"biến hình\" nhập vai trong thế giới cổ tích lịch sử hoặc tương lai viễn tưởng - một format chưa từng có trên truyền hình Việt với những câu chuyện thời đại đồng hành đa thế hệ \"chạm\" đủ mọi tầng cảm xúc.\n\n⏰ Đón xem Đấu Trường Gia Tốc - Run For Time Vietnam vào lúc \n📺  20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️  20H40 trên kênh  @dongtaypromotionofficial  và kênh  @dautruonggiatoc \n\n📣 Subscribe kênhĐẤU TRƯỜNG GIA TỐC để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4iuOI28\n\n©️ Đấu Trường Gia Tốc - Run For Time Vietnam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK.\n\n👉 Theo dõi các kênh chính thức của Đấu Trường Gia Tốc:\nYouTube: https://youtube.com/@dautruonggiatoc\nFanpage: https://www.facebook.com/dautruonggiatoc.dongtaypromotion\nTikTok: https://www.tiktok.com/@dautruonggiatoc\n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nĐấu Trường Gia Tốc: https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ\n2 Ngày 1 Đêm Việt Nam: https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc\nTổ Đội \"1 Không 2\":  https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3\n7 Nụ Cười Xuân: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig\n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage: https://www.facebook.com/DongTayPromotion\n► Instagram: https://www.instagram.com/dongtaypromotion.official/\n► TikTok: https://www.tiktok.com/@dongtaypromotionofficial\n\n🛒Tham khảo các sản phẩm công nghệ, thời trang và tiêu dùng:\nGoPro HERO: \nhttps://shopee.vn/product/1285072534/28111994123?\nhttps://shopee.vn/product/1285072534/24785644497?\nMicro không dây cài áo: https://shopee.vn/product/73621000/42252316878?\nGọng Kính Cận: https://shopee.vn/product/13690137/42501934375?\nMũ kết lưỡi trai: \nhttps://shopee.vn/product/40233555/24560768206?\nhttps://shopee.vn/product/1155962713/24109018841?\nMũ Bucket: https://shopee.vn/product/28284863/21290465634?\nGiày thể thao nam trắng: https://shopee.vn/product/25211549/28888119962?\nGiày thể thao nam đen: https://shopee.vn/product/71009635/28835672756?\nQuần thể thao: https://shopee.vn/product/71009635/29432684493?\nPhụ kiện chạy bộ: https://shopee.vn/product/71009635/26332782425?\nQuần áo thể thao nữ: https://shopee.vn/product/71009635/28285919666?",
+      "translatedText": "Đấu Trường Gia Tốc Tập 8: Ngô Kiến Huy lột xác bứt tốc, Cris Phan thể hiện bản lĩnh đội trưởng\n\nXEM TRỌN BỘ ĐẤU TRƯỜNG GIA TỐC 👉:    • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  \n\n#ĐấuTrườngGiaTốc #DauTruongGiaToc #RunForTime #RunForTimeVietNam #DongTayPromotion\n#RHYDER #HURRYKNG #WeanLe #DươngDomic #QuânLee \n#NgôKiếnHuy #CrisPhan #KaityNguyễn #PhươngAnhĐào #HưngNguyễn  \n\nĐấu Trường Gia Tốc là chương trình truyền hình thực tế Việt Nam với Format “PHIM TRONG SHOW” với hơn 20 năm thành công tại Nhật Bản. Chỉ với 120 phút để sinh tồn, người chơi phải trốn thoát thợ săn vượt qua nhiệm vụ cùng những \"plot twist\" đi vào lòng người. Người chơi \"biến hình\" nhập vai trong thế giới cổ tích lịch sử hoặc tương lai viễn tưởng - một format chưa từng có trên truyền hình Việt với những câu chuyện thời đại đồng hành đa thế hệ \"chạm\" đủ mọi tầng cảm xúc.\n\n⏰ Đón xem Đấu Trường Gia Tốc - Run For Time Vietnam vào lúc \n📺  20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️  20H40 trên kênh  ‪@dongtaypromotionofficial‬  và kênh  ‪@dautruonggiatoc‬ \n\n📣 Subscribe kênhĐẤU TRƯỜNG GIA TỐC để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4iuOI28\n\n©️ Đấu Trường Gia Tốc - Run For Time Vietnam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK.\n\n👉 Theo dõi các kênh chính thức của Đấu Trường Gia Tốc:\nYouTube:    / @dautruonggiatoc  \nFanpage:   / dautruonggiatoc.dongtaypromotion  \nTikTok:   / dautruonggiatoc  \n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nĐấu Trường Gia Tốc:    • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  \n2 Ngày 1 Đêm Việt Nam:    • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  \nTổ Đội \"1 Không 2\":     • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  \n7 Nụ Cười Xuân:    • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  \n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage:   / dongtaypromotion  \n► Instagram:   / dongtaypromotion.official  \n► TikTok:   / dongtaypromotionofficial  \n\n🛒Tham khảo các sản phẩm công nghệ, thời trang và tiêu dùng:\nGoPro HERO: \nhttps://shopee.vn/product/1285072534/...\nhttps://shopee.vn/product/1285072534/...\nMicro không dây cài áo: https://shopee.vn/product/73621000/42...\nGọng Kính Cận: https://shopee.vn/product/13690137/42...\nMũ kết lưỡi trai: \nhttps://shopee.vn/product/40233555/24...\nhttps://shopee.vn/product/1155962713/...\nMũ Bucket: https://shopee.vn/product/28284863/21...\nGiày thể thao nam trắng: https://shopee.vn/product/25211549/28...\nGiày thể thao nam đen: https://shopee.vn/product/71009635/28...\nQuần thể thao: https://shopee.vn/product/71009635/29...\nPhụ kiện chạy bộ: https://shopee.vn/product/71009635/26...\nQuần áo thể thao nữ: https://shopee.vn/product/71009635/28...",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+          "text": "   • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/%C4%91%E1%BA%A5utr%C6%B0%E1%BB%9Dnggiat%E1%BB%91c",
+          "text": "#ĐấuTrườngGiaTốc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dautruonggiatoc",
+          "text": "#DauTruongGiaToc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/runfortime",
+          "text": "#RunForTime"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/runfortimevietnam",
+          "text": "#RunForTimeVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dongtaypromotion",
+          "text": "#DongTayPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/rhyder",
+          "text": "#RHYDER"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hurrykng",
+          "text": "#HURRYKNG"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/weanle",
+          "text": "#WeanLe"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/d%C6%B0%C6%A1ngdomic",
+          "text": "#DươngDomic"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/qu%C3%A2nlee",
+          "text": "#QuânLee"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ng%C3%B4ki%E1%BA%BFnhuy",
+          "text": "#NgôKiếnHuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/crisphan",
+          "text": "#CrisPhan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/kaitynguy%E1%BB%85n",
+          "text": "#KaityNguyễn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ph%C6%B0%C6%A1nganh%C4%91%C3%A0o",
+          "text": "#PhươngAnhĐào"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/h%C6%B0ngnguy%E1%BB%85n",
+          "text": "#HưngNguyễn"
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "‪@dongtaypromotionofficial‬"
+        },
+        {
+          "url": "https://www.youtube.com/@dautruonggiatoc",
+          "text": "‪@dautruonggiatoc‬"
+        },
+        {
+          "url": "https://bit.ly/4iuOI28",
+          "text": "https://bit.ly/4iuOI28"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC5bxATIALkxlwWQzACzdjHw",
+          "text": "   / @dautruonggiatoc  "
+        },
+        {
+          "url": "https://www.facebook.com/dautruonggiatoc.dongtaypromotion",
+          "text": "  / dautruonggiatoc.dongtaypromotion  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dautruonggiatoc",
+          "text": "  / dautruonggiatoc  "
+        },
+        {
+          "url": "https://bit.ly/SubDTP",
+          "text": "https://bit.ly/SubDTP"
+        },
+        {
+          "url": "https://bit.ly/SubDTE",
+          "text": "https://bit.ly/SubDTE"
+        },
+        {
+          "url": "https://bit.ly/HAUTRUONGDTP",
+          "text": "https://bit.ly/HAUTRUONGDTP"
+        },
+        {
+          "url": "https://bit.ly/showhotDTP",
+          "text": "https://bit.ly/showhotDTP"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+          "text": "   • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc",
+          "text": "   • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+          "text": "   • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig",
+          "text": "   • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  "
+        },
+        {
+          "url": "https://www.facebook.com/DongTayPromotion",
+          "text": "  / dongtaypromotion  "
+        },
+        {
+          "url": "https://www.instagram.com/dongtaypromotion.official/",
+          "text": "  / dongtaypromotion.official  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dongtaypromotionofficial",
+          "text": "  / dongtaypromotionofficial  "
+        },
+        {
+          "url": "https://shopee.vn/product/1285072534/28111994123",
+          "text": "https://shopee.vn/product/1285072534/..."
+        },
+        {
+          "url": "https://shopee.vn/product/1285072534/24785644497",
+          "text": "https://shopee.vn/product/1285072534/..."
+        },
+        {
+          "url": "https://shopee.vn/product/73621000/42252316878",
+          "text": "https://shopee.vn/product/73621000/42..."
+        },
+        {
+          "url": "https://shopee.vn/product/13690137/42501934375",
+          "text": "https://shopee.vn/product/13690137/42..."
+        },
+        {
+          "url": "https://shopee.vn/product/40233555/24560768206",
+          "text": "https://shopee.vn/product/40233555/24..."
+        },
+        {
+          "url": "https://shopee.vn/product/1155962713/24109018841",
+          "text": "https://shopee.vn/product/1155962713/..."
+        },
+        {
+          "url": "https://shopee.vn/product/28284863/21290465634",
+          "text": "https://shopee.vn/product/28284863/21..."
+        },
+        {
+          "url": "https://shopee.vn/product/25211549/28888119962",
+          "text": "https://shopee.vn/product/25211549/28..."
+        },
+        {
+          "url": "https://shopee.vn/product/71009635/28835672756",
+          "text": "https://shopee.vn/product/71009635/28..."
+        },
+        {
+          "url": "https://shopee.vn/product/71009635/29432684493",
+          "text": "https://shopee.vn/product/71009635/29..."
+        },
+        {
+          "url": "https://shopee.vn/product/71009635/26332782425",
+          "text": "https://shopee.vn/product/71009635/26..."
+        },
+        {
+          "url": "https://shopee.vn/product/71009635/28285919666",
+          "text": "https://shopee.vn/product/71009635/28..."
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 5,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+      "isMonetized": null,
+      "hashtags": [
+        "#HURRYKNG",
+        "#DauTruongGiaToc",
+        "#RHYDER"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+      "isPaidContent": false
+    },
+    {
+      "title": "Đấu Trường Gia Tốc Tập 2: WEAN - Dương Domic \"mất kết nối\", Cris - Ngô Kiến Huy song kiếm hợp bích",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "8vShlfJv_lI",
+      "url": "https://www.youtube.com/watch?v=8vShlfJv_lI&list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ&index=11",
+      "thumbnailUrl": "https://i.ytimg.com/vi/8vShlfJv_lI/maxresdefault.jpg",
+      "viewCount": 3489156,
+      "date": "2025-06-08T13:40:06.000Z",
+      "likes": 35000,
+      "location": null,
+      "channelName": "ĐÔNG TÂY PROMOTION OFFICIAL",
+      "channelUrl": "https://www.youtube.com/@dongtaypromotionofficial",
+      "channelUsername": "dongtaypromotionofficial",
+      "collaborators": null,
+      "channelId": "UCFMEYTv6N64hIL9FlQ_hxBw",
+      "numberOfSubscribers": 9830000,
+      "duration": "01:38:38",
+      "commentsCount": 4966,
+      "text": "Đấu Trường Gia Tốc Tập 2: WEAN - Dương Domic \"mất kết nối\", Cris - Ngô Kiến Huy song kiếm hợp bích\n\nXEM TRỌN BỘ ĐẤU TRƯỜNG GIA TỐC 👉: https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ\n\n#ĐấuTrườngGiaTốc #DauTruongGiaToc #RunForTime #RunForTimeVietNam #DongTayPromotion #RHYDER #HURRYKNG #WeanLe #DươngDomic #QuânLee \n#NgôKiếnHuy #CrisPhan #KaityNguyễn #PhươngAnhĐào #HưngNguyễn  \n\nĐấu Trường Gia Tốc là chương trình truyền hình thực tế Việt Nam với Format “PHIM TRONG SHOW” với hơn 20 năm thành công tại Nhật Bản. Chỉ với 120 phút để sinh tồn, người chơi phải trốn thoát thợ săn vượt qua nhiệm vụ cùng những \"plot twist\" đi vào lòng người. Người chơi \"biến hình\" nhập vai trong thế giới cổ tích lịch sử hoặc tương lai viễn tưởng - một format chưa từng có trên truyền hình Việt với những câu chuyện thời đại đồng hành đa thế hệ \"chạm\" đủ mọi tầng cảm xúc.\n\n⏰ Đón xem Đấu Trường Gia Tốc - Run For Time Vietnam vào lúc \n📺  20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️  20H40 trên kênh  @dongtaypromotionofficial  và kênh  @dautruonggiatoc \n\n📣 Subscribe kênhĐẤU TRƯỜNG GIA TỐC để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4iuOI28\n\n©️ Đấu Trường Gia Tốc - Run For Time Vietnam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK.\n\n👉 Theo dõi các kênh chính thức của Đấu Trường Gia Tốc:\nYouTube: https://youtube.com/@dautruonggiatoc\nFanpage: https://www.facebook.com/dautruonggiatoc.dongtaypromotion\nTikTok: https://www.tiktok.com/@dautruonggiatoc\n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nĐấu Trường Gia Tốc: https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ\n2 Ngày 1 Đêm Việt Nam: https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc\nTổ Đội \"1 Không 2\":  https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3\n7 Nụ Cười Xuân: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig\n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage: https://www.facebook.com/DongTayPromotion\n► Instagram: https://www.instagram.com/dongtaypromotion.official/\n► TikTok: https://www.tiktok.com/@dongtaypromotionofficial\n\n🛒Tham khảo các sản phẩm công nghệ, thời trang và tiêu dùng 👇:\nDầu gội sạch gàu Clear 630G: https://shopee.vn/product/1397276155/25688651553?\nKính mát nam nữ, kính râm LILYEYEWEAR chất liệu nhựa cứng cáp, cao cấp chống UV400 bảo vệ mắt KC850: https://shopee.vn/product/230940122/24721362283?\nMicro không Dây uhf karaoke micrô động cầm tay kép với bộ thu có thể sạc lại cho tiệc cưới câu lạc bộ nhà thờ phát biểu: https://shopee.vn/product/1002982787/28821817158?\nMũ cao bồi vành rộng nam nữ chống nắng nón bucket tai bèo đi biển chống tia uv thoáng mát HT-A-179: https://shopee.vn/product/35879370/24677718720?\nMũ kết lưỡi trai nam nữ thời trang NÓN SƠN-MC020-DN1: https://shopee.vn/product/40233555/18577926597?\nMũ xô WUZIA, Mũ lướt sóng chống nước chống tia cực tím, Mũ Panama khô nhanh thoáng khí mùa hè Lướt sóng cưỡi ngựa: https://shopee.vn/product/460961370/29737118288?\nDầu Gội Đầu Clear Men Deep Cleanse Than Hoạt Tính Đánh Bay Gàu, Ngứa Và Dưỡng Tóc Khỏi Khói Bụi 900g: https://shopee.vn/product/1397276155/24438655190?\nTúi thắt lưng MARK RYDEN Lmr615 thời trang cho nam: https://shopee.vn/product/347656804/21092439019?\nKính thể thao chạy bộ, đạp xe, kính râm chống nắng câu cá chống tia UV cao cấp siêu bền, siêu nhẹ: https://shopee.vn/product/600013721/26151922146?\nGăng Tay Tập Gym Cao Cấp ONEFIT Chính Hãng Thiết Kế Hở Ngón Thoáng Khí Mồ Hôi Kết Hợp Đệm Silicone Chống Trơn Trượt: https://shopee.vn/product/1120708233/23589095225?\nMũ Lưỡi Trai Thể Thao Nửa Đầu Chống Nắng Cho Nam: https://shopee.vn/product/698020750/21113991644?",
+      "translatedText": "Đấu Trường Gia Tốc Tập 2: WEAN - Dương Domic \"mất kết nối\", Cris - Ngô Kiến Huy song kiếm hợp bích\n\nXEM TRỌN BỘ ĐẤU TRƯỜNG GIA TỐC 👉:    • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  \n\n#ĐấuTrườngGiaTốc #DauTruongGiaToc #RunForTime #RunForTimeVietNam #DongTayPromotion #RHYDER #HURRYKNG #WeanLe #DươngDomic #QuânLee \n#NgôKiếnHuy #CrisPhan #KaityNguyễn #PhươngAnhĐào #HưngNguyễn  \n\nĐấu Trường Gia Tốc là chương trình truyền hình thực tế Việt Nam với Format “PHIM TRONG SHOW” với hơn 20 năm thành công tại Nhật Bản. Chỉ với 120 phút để sinh tồn, người chơi phải trốn thoát thợ săn vượt qua nhiệm vụ cùng những \"plot twist\" đi vào lòng người. Người chơi \"biến hình\" nhập vai trong thế giới cổ tích lịch sử hoặc tương lai viễn tưởng - một format chưa từng có trên truyền hình Việt với những câu chuyện thời đại đồng hành đa thế hệ \"chạm\" đủ mọi tầng cảm xúc.\n\n⏰ Đón xem Đấu Trường Gia Tốc - Run For Time Vietnam vào lúc \n📺  20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️  20H40 trên kênh  ‪@dongtaypromotionofficial‬  và kênh  ‪@dautruonggiatoc‬ \n\n📣 Subscribe kênhĐẤU TRƯỜNG GIA TỐC để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4iuOI28\n\n©️ Đấu Trường Gia Tốc - Run For Time Vietnam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK.\n\n👉 Theo dõi các kênh chính thức của Đấu Trường Gia Tốc:\nYouTube:    / @dautruonggiatoc  \nFanpage:   / dautruonggiatoc.dongtaypromotion  \nTikTok:   / dautruonggiatoc  \n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nĐấu Trường Gia Tốc:    • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  \n2 Ngày 1 Đêm Việt Nam:    • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  \nTổ Đội \"1 Không 2\":     • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  \n7 Nụ Cười Xuân:    • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  \n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage:   / dongtaypromotion  \n► Instagram:   / dongtaypromotion.official  \n► TikTok:   / dongtaypromotionofficial  \n\n🛒Tham khảo các sản phẩm công nghệ, thời trang và tiêu dùng 👇:\nDầu gội sạch gàu Clear 630G: https://shopee.vn/product/1397276155/...\nKính mát nam nữ, kính râm LILYEYEWEAR chất liệu nhựa cứng cáp, cao cấp chống UV400 bảo vệ mắt KC850: https://shopee.vn/product/230940122/2...\nMicro không Dây uhf karaoke micrô động cầm tay kép với bộ thu có thể sạc lại cho tiệc cưới câu lạc bộ nhà thờ phát biểu: https://shopee.vn/product/1002982787/...\nMũ cao bồi vành rộng nam nữ chống nắng nón bucket tai bèo đi biển chống tia uv thoáng mát HT-A-179: https://shopee.vn/product/35879370/24...\nMũ kết lưỡi trai nam nữ thời trang NÓN SƠN-MC020-DN1: https://shopee.vn/product/40233555/18...\nMũ xô WUZIA, Mũ lướt sóng chống nước chống tia cực tím, Mũ Panama khô nhanh thoáng khí mùa hè Lướt sóng cưỡi ngựa: https://shopee.vn/product/460961370/2...\nDầu Gội Đầu Clear Men Deep Cleanse Than Hoạt Tính Đánh Bay Gàu, Ngứa Và Dưỡng Tóc Khỏi Khói Bụi 900g: https://shopee.vn/product/1397276155/...\nTúi thắt lưng MARK RYDEN Lmr615 thời trang cho nam: https://shopee.vn/product/347656804/2...\nKính thể thao chạy bộ, đạp xe, kính râm chống nắng câu cá chống tia UV cao cấp siêu bền, siêu nhẹ: https://shopee.vn/product/600013721/2...\nGăng Tay Tập Gym Cao Cấp ONEFIT Chính Hãng Thiết Kế Hở Ngón Thoáng Khí Mồ Hôi Kết Hợp Đệm Silicone Chống Trơn Trượt: https://shopee.vn/product/1120708233/...\nMũ Lưỡi Trai Thể Thao Nửa Đầu Chống Nắng Cho Nam: https://shopee.vn/product/698020750/2...",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+          "text": "   • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/%C4%91%E1%BA%A5utr%C6%B0%E1%BB%9Dnggiat%E1%BB%91c",
+          "text": "#ĐấuTrườngGiaTốc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dautruonggiatoc",
+          "text": "#DauTruongGiaToc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/runfortime",
+          "text": "#RunForTime"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/runfortimevietnam",
+          "text": "#RunForTimeVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dongtaypromotion",
+          "text": "#DongTayPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/rhyder",
+          "text": "#RHYDER"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hurrykng",
+          "text": "#HURRYKNG"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/weanle",
+          "text": "#WeanLe"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/d%C6%B0%C6%A1ngdomic",
+          "text": "#DươngDomic"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/qu%C3%A2nlee",
+          "text": "#QuânLee"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ng%C3%B4ki%E1%BA%BFnhuy",
+          "text": "#NgôKiếnHuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/crisphan",
+          "text": "#CrisPhan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/kaitynguy%E1%BB%85n",
+          "text": "#KaityNguyễn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ph%C6%B0%C6%A1nganh%C4%91%C3%A0o",
+          "text": "#PhươngAnhĐào"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/h%C6%B0ngnguy%E1%BB%85n",
+          "text": "#HưngNguyễn"
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "‪@dongtaypromotionofficial‬"
+        },
+        {
+          "url": "https://www.youtube.com/@dautruonggiatoc",
+          "text": "‪@dautruonggiatoc‬"
+        },
+        {
+          "url": "https://bit.ly/4iuOI28",
+          "text": "https://bit.ly/4iuOI28"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC5bxATIALkxlwWQzACzdjHw",
+          "text": "   / @dautruonggiatoc  "
+        },
+        {
+          "url": "https://www.facebook.com/dautruonggiatoc.dongtaypromotion",
+          "text": "  / dautruonggiatoc.dongtaypromotion  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dautruonggiatoc",
+          "text": "  / dautruonggiatoc  "
+        },
+        {
+          "url": "https://bit.ly/SubDTP",
+          "text": "https://bit.ly/SubDTP"
+        },
+        {
+          "url": "https://bit.ly/SubDTE",
+          "text": "https://bit.ly/SubDTE"
+        },
+        {
+          "url": "https://bit.ly/HAUTRUONGDTP",
+          "text": "https://bit.ly/HAUTRUONGDTP"
+        },
+        {
+          "url": "https://bit.ly/showhotDTP",
+          "text": "https://bit.ly/showhotDTP"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+          "text": "   • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc",
+          "text": "   • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+          "text": "   • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig",
+          "text": "   • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  "
+        },
+        {
+          "url": "https://www.facebook.com/DongTayPromotion",
+          "text": "  / dongtaypromotion  "
+        },
+        {
+          "url": "https://www.instagram.com/dongtaypromotion.official/",
+          "text": "  / dongtaypromotion.official  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dongtaypromotionofficial",
+          "text": "  / dongtaypromotionofficial  "
+        },
+        {
+          "url": "https://shopee.vn/product/1397276155/25688651553",
+          "text": "https://shopee.vn/product/1397276155/..."
+        },
+        {
+          "url": "https://shopee.vn/product/230940122/24721362283",
+          "text": "https://shopee.vn/product/230940122/2..."
+        },
+        {
+          "url": "https://shopee.vn/product/1002982787/28821817158",
+          "text": "https://shopee.vn/product/1002982787/..."
+        },
+        {
+          "url": "https://shopee.vn/product/35879370/24677718720",
+          "text": "https://shopee.vn/product/35879370/24..."
+        },
+        {
+          "url": "https://shopee.vn/product/40233555/18577926597",
+          "text": "https://shopee.vn/product/40233555/18..."
+        },
+        {
+          "url": "https://shopee.vn/product/460961370/29737118288",
+          "text": "https://shopee.vn/product/460961370/2..."
+        },
+        {
+          "url": "https://shopee.vn/product/1397276155/24438655190",
+          "text": "https://shopee.vn/product/1397276155/..."
+        },
+        {
+          "url": "https://shopee.vn/product/347656804/21092439019",
+          "text": "https://shopee.vn/product/347656804/2..."
+        },
+        {
+          "url": "https://shopee.vn/product/600013721/26151922146",
+          "text": "https://shopee.vn/product/600013721/2..."
+        },
+        {
+          "url": "https://shopee.vn/product/1120708233/23589095225",
+          "text": "https://shopee.vn/product/1120708233/..."
+        },
+        {
+          "url": "https://shopee.vn/product/698020750/21113991644",
+          "text": "https://shopee.vn/product/698020750/2..."
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 10,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+      "isPaidContent": false
+    },
+    {
+      "title": "Say Hi Rực Rỡ - Tập 3: Hội anh trai trốn khỏi rừng, hé lộ cuốn nhật kí \"cảm lạnh\" 80 trang",
+      "translatedTitle": "Say Hi Ruc Ro - Episode 3: The brotherhood escapes the forest, revealing an 80-page \"cringe-worth...",
+      "type": "video",
+      "id": "2V20IKyMqnM",
+      "url": "https://www.youtube.com/watch?v=2V20IKyMqnM&list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ&index=2",
+      "thumbnailUrl": "https://i.ytimg.com/vi/2V20IKyMqnM/maxresdefault.jpg",
+      "viewCount": 2379100,
+      "date": "2026-06-21T13:00:07.000Z",
+      "likes": 17000,
+      "location": null,
+      "channelName": "ĐÔNG TÂY PROMOTION OFFICIAL",
+      "channelUrl": "https://www.youtube.com/@dongtaypromotionofficial",
+      "channelUsername": "dongtaypromotionofficial",
+      "collaborators": [
+        {
+          "name": "ĐÔNG TÂY PROMOTION OFFICIAL",
+          "username": "dongtaypromotionofficial",
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "channelId": "UCFMEYTv6N64hIL9FlQ_hxBw"
+        },
+        {
+          "name": "JSOL",
+          "username": "JSOL.DreamS",
+          "url": "https://www.youtube.com/@JSOL.DreamS",
+          "channelId": "UCtX0nlcMMHiNS0djekXscIw"
+        },
+        {
+          "name": "RHYDER OFFICIAL",
+          "username": "RHYDERofficialchannel",
+          "url": "https://www.youtube.com/@RHYDERofficialchannel",
+          "channelId": "UCPjbFSSZXI7ERLRt3O0CGBQ"
+        },
+        {
+          "name": "ĐỨC PHÚC OFFICIAL",
+          "username": "DucPhucOfficial",
+          "url": "https://www.youtube.com/@DucPhucOfficial",
+          "channelId": "UCVIIa6OL-FautUqhHjAoz_A"
+        }
+      ],
+      "channelId": "UCFMEYTv6N64hIL9FlQ_hxBw",
+      "numberOfSubscribers": 9830000,
+      "duration": "01:46:29",
+      "commentsCount": 1323,
+      "text": "Say Hi Rực Rỡ - Tập 3: Hội anh trai trốn khỏi rừng, hé lộ cuốn nhật kí \"cảm lạnh\" 80 trang\n#SayHiRucRo #DatVietVAC \n-------            \n📺 Xem trọn vẹn SAY HI RỰC RỠ TẠI: https://www.youtube.com/watch?v=pJWXb8ofStw&list=PLy_TpcUT2LZtXLChiL_bOHqWmKB0rWuuO            \n🎬 Chương trình sinh tồn thực tế đầu tiên của các idol Việt Nam             \n👥 Dàn cast: Isaac, WEAN, HURRYKNG, RHYDER, Dương Domic, Hùng Huỳnh, Đức Phúc, NICKY, JSOL, Pháp Kiều, Dương Lâm             \n© Nội dung được khai thác và bảo vệ bản quyền bởi VieNETWORK             \n🔥 Partner:             \nMì SiuKay đồng hành cùng chương trình Say Hi Rực Rỡ 2026, sẵn sàng khuấy đảo vị giác!\n7 cấp độ cay thách thức bản lĩnh, nhiều phiên bản - hương vị khác biệt, cùng Mì SiuKay chinh phục thử thách, bật tinh thần \"Cay tột đỉnh - Bùng bản lĩnh\"!! \nXem thêm tại: https://www.facebook.com/mianlienacecook\"             \nCảm ơn Ngân hàng Đồng hành chính thức VietinBank - Nâng giá trị cuộc sống\n#VietinBank #VWealth_DauTuTuDong #TheVietinBankJCB #BaohiemVietinBank\nTìm hiểu thêm: https://www.facebook.com/share/p/18f3qHxMsM/             \nFleur de Lys Hotels & Resorts - Cho Kỳ Nghỉ Rạng Ngời \n#FleurdeLysHotelsandResorts #FleurdeLysHotelQuyNhon #FleurdeLysLongHai #LuxuryHotel #ChoKyNghiRangNgoi\n🌐 Website: https://fleurdelys.vn            \n             \n#DuongLam #DucPhuc #Isaac #NICKY #JSOL #HURRYKNG #RHYDER #WEAN #DuongDomic #HungHuynh #PhapKieu #NamDuLichQuocGia2026 #VietinBank #MìSiuKay             \n             \n📣 Subscribe ĐÔNG TÂY PROMOTION OFFICIAL- Các chương trình SIÊU HẤP DẪN: https://www.youtube.com/c/dongtaypromotionofficial?sub_confirmation=1 \n📣 Subscribe DONG TAY ENTERTAINMENT- VIDEO HOT từ các Show Giải Trí: https://www.youtube.com/DONGTAYENTERTAINMENTofficial?sub_confirmation=1 \n📣 Subscribe 2 NGÀY 1 ĐÊM VIETNAM-  Reality Show Được Yêu Thích : https://www.youtube.com/2NGAY1DEM?sub_confirmation=1 \n📣 Subscribe ĐẤU TRƯỜNG GIA TỐC- Reality Show Đối Kháng & Chiến Thuật: https://www.youtube.com/@dautruonggiatoc?sub_confirmation=1\n📣 Subscribe VIEBUZZ - Nội Dung Đang Thịnh Hành: https://www.youtube.com/@viebuzz1174?sub_confirmation=1\n📣 Subscribe DONG TAY SHOWS - Âm Nhạc Giải Trí: https://www.youtube.com/DongTayShows?sub_confirmation=1             \n👉 CÁC SHOW MỚI  2026 : \nAnh Trai Và Cái Đuôi Nhỏ:  https://www.youtube.com/watch?v=KRef2BML-wc&list=PLy_TpcUT2LZvcJAmF_eYxx195KpRGmzrB \n2 Ngày 1 Đêm Việt Nam: https://www.youtube.com/playlist?list=PLy_TpcUT2LZtXvH1z8NTxInXdl09ODACC \nĐấu Trường Gia Tốc: https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ \nTổ Đội \"\"1 Không 2\"\":  ️⛳TỔ ĐỘI \"\"1 KHÔNG 2\"\" FULL | Những thử thách “CỰC HẠN - KHÔNG TƯỞNG - CÓ 102\"\" \n7 Nụ Cười Xuân: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig            \n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại: \n► YouTube: https://www.youtube.com/@dongtaypromotionofficial\n► Fanpage: https://www.facebook.com/DongTayPromotion \n► Instagram: https://www.instagram.com/dongtaypromotion.official/ \n► TikTok: https://www.tiktok.com/@dongtaypromotionofficial             \n\n🛒Tham khảo các sản phẩm công nghệ, thời trang và tiêu dùng:\nMì SiuKay mì cay 7 cấp độ Siêu Cay: https://shopee.vn/product/989881080/25820464563\nCOMBO Mỳ SiuKay 7 cấp độ vị bò và hải sản: https://shopee.vn/product/1618174041/55559913629\n🍜 [THÙNG 24 GÓI] Mì SiuKay vị Bò Acecook - Mì Cay 7 Cấp Độ ( Date mới ): https://shopee.vn/product/1500107620/48910974250\nThùng 24 gói Mì Siukay hải sản/ vị bò/ gà cay phomai: https://shopee.vn/product/1118874397/47660194642\nCombo 6 gói mì SiuKay Vị Bò/Hải Sản/Gà phô mai 128gr/gói: https://shopee.vn/product/78955766/42950399684\n[COMBO 10 GÓI/ 1 THÙNG] Mỳ Siu Kay Acecook Vị Bò/ Hải Sản/Gà sốt phomai: https://shopee.vn/product/13340891/43013549408\nThùng 12 Tô Mì Hải Sản SiuKay Tia Chớp 96g: https://shopee.vn/product/1375408429/27768710381\nThùng 12 tô mì Siukay mix vị 95g: https://shopee.vn/product/1086006715/48661370292\nKẹo Nhai 3 Viên Có Nhân Dynamite Chews Candy (Gói 125g): https://shopee.vn/product/95140732/11306217297\nKẹo Dynamite Soda gói 96g: https://shopee.vn/product/95140732/43768122575\nMẫu Mới - Kẹo Mềm Bạc Hà MAXX DYNAMITE 112.5Gram: https://shopee.vn/product/735555966/56008997186\nJacknjill Dynamite Gummy Play Kẹo Dẻo Sáng Tạo Gói 40g - Vị Trái Cây & Hạt Mâm Xôi: https://shopee.vn/product/1561861818/48500132695\nKẹo The Nhân KG Hương Bạc Hà Nhân Sôcôla Dynamite BigBang(Gói 1kg): https://shopee.vn/product/1152931648/24969741932\nDành Cho DJI OSMO POCKET 3 / Pocket 4: https://shopee.vn/product/893104401/25256751666\nUlanzi MT90 CKA Quick Release Tripod Selfie Stick: https://shopee.vn/product/1057822455/48461372997\nTAY CẦM MINI GOPRO VÀ ACTION CAM TELESIN CHÍNH HÃNG: https://shopee.vn/product/57280012/10468719365\nCamera hành động DJI Osmo Action 5 Pro:\nhttps://shopee.vn/product/1486443761/26830494813\nMáy ảnh lấy liền FUJIFILM Instax Mini Evo Hybrid: https://shopee.vn/product/233153238/14742565861",
+      "translatedText": "Say Hi Rực Rỡ - Episode 3: The Brothers Escape from the Forest, Revealing an 80-Page \"Cold\" Diary\n#SayHiRucRo #DatVietVAC\n------- 📺 Watch the full SAY HI RỰC RỠ at:    • Say Hi Rực Rỡ - Tập 2: \"Dành Dành\" Đức Phú...   \n🎬 The first reality survival show of Vietnamese idols \n👥 Cast: Isaac, WEAN, HURRYKNG, RHYDER, Dương Domic, Hùng Huỳnh, Đức Phúc, NICKY, JSOL, Pháp Kiều, Dương Lâm \n© Content is exploited and protected by copyright by VieNETWORK \n🔥 Partner: \nSiuKay Noodles is accompanying the Say Hi Rực Rỡ 2026 program, ready to stir up your taste buds! 7 levels of spiciness to challenge your limits, multiple variations - different flavors, conquer the challenge with SiuKay Noodles, unleash your \"Ultimate Spicy - Unleash Your Courage\" spirit!! See more at:   / mianlienacecook  \nThank you to our official partner, VietinBank - Enhancing the value of life\n#VietinBank #VWealth_AutomaticInvestment #TheVietinBankJCB #VietinBankInsurance\nLearn more:   / 18f3qhxmsm   Fleur de Lys Hotels & Resorts - For a Radiant Vacation \n#FleurdeLysHotelsandResorts #FleurdeLysHotelQuyNhon #FleurdeLysLongHai #LuxuryHotel #ForARadiantVacation\n🌐 Website: https://fleurdelys.vn \n#DuongLam #DucPhuc #Isaac #NICKY #JSOL #HURRYKNG #RHYDER #WEAN #DuongDomic #HungHuynh #PhapKieu #NationalTourismYear2026 #VietinBank #SiuKayNoodles\n\n📣 Subscribe to DONG TAY PROMOTION OFFICIAL - Super Exciting Programs: https://www.youtube.com/c/dongtayprom...\n📣 Subscribe to DONG TAY ENTERTAINMENT - Hot Videos from Entertainment Shows: https://www.youtube.com/DONGTAYENTERT...\n📣 Subscribe to 2 DAYS 1 NIGHT VIETNAM - Popular Reality Show: https://www.youtube.com/2NGAY1DEM?sub...\n📣 Subscribe to ACCELERATION ARENA - Reality Show of Combat & Strategy: https://www.youtube.com/@dautruonggia...\n📣 Subscribe to VIEBUZZ - Trending Content Trending: https://www.youtube.com/@viebuzz1174?...\n📣 Subscribe to DONG TAY SHOWS - Music & Entertainment: https://www.youtube.com/DongTayShows?... 👉 NEW SHOWS 2026: \nBrother and the Little Tail:    • Anh Trai Và Cái Đuôi Nhỏ  - Tập 1: ISAAC, ...   2 Days 1 Night Vietnam:    • 💥2 NGÀY 1 ĐÊM MÙA 4 | Kết nối vô biên, càn...   \nAcceleration Arena:    • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...   ► Team \"1 No 2\": ️⛳ TEAM \"1 NO 2\" FULL | The \"EXTREME - UNBELIEVABLE - ONE OF A KIND\" Challenges 7 Nụ Cười Xuân:    • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...   \n👉 Follow the official channels of Dong Tay Promotion - owned by DatVietVAC at: ► YouTube:    / @dongtaypromotionofficial  \n► Fanpage:   / dongtaypromotion   ► Instagram:   / dongtaypromotion.official   ► TikTok:   / dongtaypromotionofficial   \n🛒 Check out technology, fashion and consumer products Uses:\nSiuKay Spicy Noodles 7 Levels of Spice: https://shopee.vn/product/989881080/2...\nCombo SiuKay Noodles 7 Levels of Spice (Beef and Seafood Flavor): https://shopee.vn/product/1618174041/...\n🍜 [BOX OF 24 PACKS] Acecook SiuKay Beef Flavor Noodles - 7 Levels of Spice (New Expiry Date): https://shopee.vn/product/1500107620/...\nBox of 24 packs SiuKay Seafood/Beef/Chicken Spicy Cheese Noodles: https://shopee.vn/product/1118874397/...\nCombo of 6 packs of SiuKay Noodles (Beef/Seafood Flavor) Seafood/Chicken Cheese Flavor 128g/pack: https://shopee.vn/product/78955766/42...\n[COMBO 10 PACKS/ 1 BOX] Acecook Siu Kay Instant Noodles Beef/Seafood/Chicken with Cheese Sauce: https://shopee.vn/product/13340891/43...\nBox of 12 Siu Kay Lightning Seafood Instant Noodles 96g: https://shopee.vn/product/1375408429/...\nBox of 12 Siu Kay Mixed Flavor Instant Noodles 95g: https://shopee.vn/product/1086006715/...\nDynamite Chews Candy (3 pieces with filling) (125g pack): https://shopee.vn/product/95140732/11...\nDynamite Soda Candy 96g pack: https://shopee.vn/product/95140732/43...\nNew Model - MAXX DYNAMITE Mint Soft Candy 112.5 Gram: https://shopee.vn/product/735555966/5...\nJacknjill Dynamite Gummy Play Creative Gummy Candy 40g pack - Fruit & Raspberry Flavor: https://shopee.vn/product/1561861818/...\nDynamite BigBang Mint Chocolate Filled Candy (1kg pack): https://shopee.vn/product/1152931648/...\nFor DJI OSMO POCKET 3 / Pocket 4: https://shopee.vn/product/893104401/2...\nUlanzi MT90 CKA Quick Release Tripod Selfie Stick: https://shopee.vn/product/1057822455/...\nGenuine Mini GoPro and Action Cam Telesin Handle: https://shopee.vn/product/57280012/10...\nDJI Osmo Action 5 Pro Action Camera:\n\nhttps://shopee.vn/product/1486443761/...\nFUJIFILM Instax Mini Evo Hybrid Instant Camera: https://shopee.vn/product/233153238/1...",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/sayhirucro",
+          "text": "#SayHiRucRo"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/datvietvac",
+          "text": "#DatVietVAC"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=pJWXb8ofStw&list=PLy_TpcUT2LZtXLChiL_bOHqWmKB0rWuuO&index=1",
+          "text": "   • Say Hi Rực Rỡ - Tập 2: \"Dành Dành\" Đức Phú...  "
+        },
+        {
+          "url": "https://www.facebook.com/mianlienacecook",
+          "text": "  / mianlienacecook  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vietinbank",
+          "text": "#VietinBank"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vwealth_automaticinvestment",
+          "text": "#VWealth_AutomaticInvestment"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thevietinbankjcb",
+          "text": "#TheVietinBankJCB"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vietinbankinsurance",
+          "text": "#VietinBankInsurance"
+        },
+        {
+          "url": "https://www.facebook.com/share/p/18f3qHxMsM/",
+          "text": "  / 18f3qhxmsm  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/fleurdelyshotelsandresorts",
+          "text": "#FleurdeLysHotelsandResorts"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/fleurdelyshotelquynhon",
+          "text": "#FleurdeLysHotelQuyNhon"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/fleurdelyslonghai",
+          "text": "#FleurdeLysLongHai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/luxuryhotel",
+          "text": "#LuxuryHotel"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/foraradiantvacation",
+          "text": "#ForARadiantVacation"
+        },
+        {
+          "url": "https://fleurdelys.vn/",
+          "text": "https://fleurdelys.vn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/duonglam",
+          "text": "#DuongLam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ducphuc",
+          "text": "#DucPhuc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/isaac",
+          "text": "#Isaac"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/nicky",
+          "text": "#NICKY"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/jsol",
+          "text": "#JSOL"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hurrykng",
+          "text": "#HURRYKNG"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/rhyder",
+          "text": "#RHYDER"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/wean",
+          "text": "#WEAN"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/duongdomic",
+          "text": "#DuongDomic"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hunghuynh",
+          "text": "#HungHuynh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phapkieu",
+          "text": "#PhapKieu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/nationaltourismyear2026",
+          "text": "#NationalTourismYear2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vietinbank",
+          "text": "#VietinBank"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/siukaynoodles",
+          "text": "#SiuKayNoodles"
+        },
+        {
+          "url": "https://www.youtube.com/c/dongtaypromotionofficial?sub_confirmation=1",
+          "text": "https://www.youtube.com/c/dongtayprom..."
+        },
+        {
+          "url": "https://www.youtube.com/DONGTAYENTERTAINMENTofficial?sub_confirmation=1",
+          "text": "https://www.youtube.com/DONGTAYENTERT..."
+        },
+        {
+          "url": "https://www.youtube.com/2NGAY1DEM?sub_confirmation=1",
+          "text": "https://www.youtube.com/2NGAY1DEM?sub..."
+        },
+        {
+          "url": "https://www.youtube.com/@dautruonggiatoc?sub_confirmation=1",
+          "text": "https://www.youtube.com/@dautruonggia..."
+        },
+        {
+          "url": "https://www.youtube.com/@viebuzz1174?sub_confirmation=1",
+          "text": "https://www.youtube.com/@viebuzz1174?..."
+        },
+        {
+          "url": "https://www.youtube.com/DongTayShows?sub_confirmation=1",
+          "text": "https://www.youtube.com/DongTayShows?..."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=KRef2BML-wc&list=PLy_TpcUT2LZvcJAmF_eYxx195KpRGmzrB&index=1",
+          "text": "   • Anh Trai Và Cái Đuôi Nhỏ  - Tập 1: ISAAC, ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtXvH1z8NTxInXdl09ODACC",
+          "text": "   • 💥2 NGÀY 1 ĐÊM MÙA 4 | Kết nối vô biên, càn...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+          "text": "   • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig",
+          "text": "   • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  "
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "   / @dongtaypromotionofficial  "
+        },
+        {
+          "url": "https://www.facebook.com/DongTayPromotion",
+          "text": "  / dongtaypromotion  "
+        },
+        {
+          "url": "https://www.instagram.com/dongtaypromotion.official/",
+          "text": "  / dongtaypromotion.official  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dongtaypromotionofficial",
+          "text": "  / dongtaypromotionofficial  "
+        },
+        {
+          "url": "https://shopee.vn/product/989881080/25820464563",
+          "text": "https://shopee.vn/product/989881080/2..."
+        },
+        {
+          "url": "https://shopee.vn/product/1618174041/55559913629",
+          "text": "https://shopee.vn/product/1618174041/..."
+        },
+        {
+          "url": "https://shopee.vn/product/1500107620/48910974250",
+          "text": "https://shopee.vn/product/1500107620/..."
+        },
+        {
+          "url": "https://shopee.vn/product/1118874397/47660194642",
+          "text": "https://shopee.vn/product/1118874397/..."
+        },
+        {
+          "url": "https://shopee.vn/product/78955766/42950399684",
+          "text": "https://shopee.vn/product/78955766/42..."
+        },
+        {
+          "url": "https://shopee.vn/product/13340891/43013549408",
+          "text": "https://shopee.vn/product/13340891/43..."
+        },
+        {
+          "url": "https://shopee.vn/product/1375408429/27768710381",
+          "text": "https://shopee.vn/product/1375408429/..."
+        },
+        {
+          "url": "https://shopee.vn/product/1086006715/48661370292",
+          "text": "https://shopee.vn/product/1086006715/..."
+        },
+        {
+          "url": "https://shopee.vn/product/95140732/11306217297",
+          "text": "https://shopee.vn/product/95140732/11..."
+        },
+        {
+          "url": "https://shopee.vn/product/95140732/43768122575",
+          "text": "https://shopee.vn/product/95140732/43..."
+        },
+        {
+          "url": "https://shopee.vn/product/735555966/56008997186",
+          "text": "https://shopee.vn/product/735555966/5..."
+        },
+        {
+          "url": "https://shopee.vn/product/1561861818/48500132695",
+          "text": "https://shopee.vn/product/1561861818/..."
+        },
+        {
+          "url": "https://shopee.vn/product/1152931648/24969741932",
+          "text": "https://shopee.vn/product/1152931648/..."
+        },
+        {
+          "url": "https://shopee.vn/product/893104401/25256751666",
+          "text": "https://shopee.vn/product/893104401/2..."
+        },
+        {
+          "url": "https://shopee.vn/product/1057822455/48461372997",
+          "text": "https://shopee.vn/product/1057822455/..."
+        },
+        {
+          "url": "https://shopee.vn/product/57280012/10468719365",
+          "text": "https://shopee.vn/product/57280012/10..."
+        },
+        {
+          "url": "https://shopee.vn/product/1486443761/26830494813",
+          "text": "https://shopee.vn/product/1486443761/..."
+        },
+        {
+          "url": "https://shopee.vn/product/233153238/14742565861",
+          "text": "https://shopee.vn/product/233153238/1..."
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 1,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+      "isPaidContent": false
+    },
+    {
+      "title": "Đấu Trường Gia Tốc Tập 10: Cris - Ngô Kiến Huy đấu trí cực căng, hai đội rượt đuổi nhau nghẹt thở",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "5a1oq9x5Ea4",
+      "url": "https://www.youtube.com/watch?v=5a1oq9x5Ea4&list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ&index=4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/5a1oq9x5Ea4/maxresdefault.jpg",
+      "viewCount": 3315541,
+      "date": "2025-08-03T13:40:06.000Z",
+      "likes": 29000,
+      "location": null,
+      "channelName": "ĐÔNG TÂY PROMOTION OFFICIAL",
+      "channelUrl": "https://www.youtube.com/@dongtaypromotionofficial",
+      "channelUsername": "dongtaypromotionofficial",
+      "collaborators": null,
+      "channelId": "UCFMEYTv6N64hIL9FlQ_hxBw",
+      "numberOfSubscribers": 9830000,
+      "duration": "02:31:29",
+      "commentsCount": 4793,
+      "text": "Đấu Trường Gia Tốc Tập 10: Cris - Ngô Kiến Huy đấu trí cực căng, hai đội rượt đuổi nhau nghẹt thở\n\nXEM TRỌN BỘ ĐẤU TRƯỜNG GIA TỐC 👉: https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ\n\n#ĐấuTrườngGiaTốc #DauTruongGiaToc #RunForTime #RunForTimeVietNam #DongTayPromotion\n#RHYDER #HURRYKNG #WeanLe #DươngDomic #QuânLee \n#NgôKiếnHuy #CrisPhan #KaityNguyễn #PhươngAnhĐào #HưngNguyễn  \n\nĐấu Trường Gia Tốc là chương trình truyền hình thực tế Việt Nam với Format “PHIM TRONG SHOW” với hơn 20 năm thành công tại Nhật Bản. Chỉ với 120 phút để sinh tồn, người chơi phải trốn thoát thợ săn vượt qua nhiệm vụ cùng những \"plot twist\" đi vào lòng người. Người chơi \"biến hình\" nhập vai trong thế giới cổ tích lịch sử hoặc tương lai viễn tưởng - một format chưa từng có trên truyền hình Việt với những câu chuyện thời đại đồng hành đa thế hệ \"chạm\" đủ mọi tầng cảm xúc.\n\n⏰ Đón xem Đấu Trường Gia Tốc - Run For Time Vietnam vào lúc \n📺  20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️  20H40 trên kênh  @dongtaypromotionofficial  và kênh  @dautruonggiatoc \n\n📣 Subscribe kênhĐẤU TRƯỜNG GIA TỐC để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4iuOI28\n\n©️ Đấu Trường Gia Tốc - Run For Time Vietnam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK.\n\n👉 Theo dõi các kênh chính thức của Đấu Trường Gia Tốc:\nYouTube: https://youtube.com/@dautruonggiatoc\nFanpage: https://www.facebook.com/dautruonggiatoc.dongtaypromotion\nTikTok: https://www.tiktok.com/@dautruonggiatoc\n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nĐấu Trường Gia Tốc: https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ\n2 Ngày 1 Đêm Việt Nam: https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc\nTổ Đội \"1 Không 2\":  https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3\n7 Nụ Cười Xuân: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig\n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage: https://www.facebook.com/DongTayPromotion\n► Instagram: https://www.instagram.com/dongtaypromotion.official/\n► TikTok: https://www.tiktok.com/@dongtaypromotionofficial\n\n🛒Tham khảo các sản phẩm công nghệ, thời trang và tiêu dùng:\nMũ bucket: https://shopee.vn/product/71009635/27082711780?\nMũ lưỡi trai: https://shopee.vn/product/71009635/28732751208?\nQuần chạy bộ nam: https://shopee.vn/product/470271325/20100725919?\nÁo vest nam: https://shopee.vn/product/145486940/2427550263?\nDầu gội cho nam: https://shopee.vn/product/1397276155/26168459444?\nKính thời trang kim loại: https://shopee.vn/product/302989029/3862257062?\nÁo chạy bộ: https://shopee.vn/product/272527398/19974870049?\ntúi chạy bộ: https://shopee.vn/product/890736951/40550928941?\nPhụ kiện chạy bộ: https://shopee.vn/product/1197449446/40054232800?\nKính chạy bộ: https://shopee.vn/product/235346769/21875048715?\nBó gối chạy bộ: https://shopee.vn/product/272356020/5037204047?",
+      "translatedText": "Đấu Trường Gia Tốc Tập 10: Cris - Ngô Kiến Huy đấu trí cực căng, hai đội rượt đuổi nhau nghẹt thở\n\nXEM TRỌN BỘ ĐẤU TRƯỜNG GIA TỐC 👉:    • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  \n\n#ĐấuTrườngGiaTốc #DauTruongGiaToc #RunForTime #RunForTimeVietNam #DongTayPromotion\n#RHYDER #HURRYKNG #WeanLe #DươngDomic #QuânLee \n#NgôKiếnHuy #CrisPhan #KaityNguyễn #PhươngAnhĐào #HưngNguyễn  \n\nĐấu Trường Gia Tốc là chương trình truyền hình thực tế Việt Nam với Format “PHIM TRONG SHOW” với hơn 20 năm thành công tại Nhật Bản. Chỉ với 120 phút để sinh tồn, người chơi phải trốn thoát thợ săn vượt qua nhiệm vụ cùng những \"plot twist\" đi vào lòng người. Người chơi \"biến hình\" nhập vai trong thế giới cổ tích lịch sử hoặc tương lai viễn tưởng - một format chưa từng có trên truyền hình Việt với những câu chuyện thời đại đồng hành đa thế hệ \"chạm\" đủ mọi tầng cảm xúc.\n\n⏰ Đón xem Đấu Trường Gia Tốc - Run For Time Vietnam vào lúc \n📺  20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️  20H40 trên kênh  ‪@dongtaypromotionofficial‬  và kênh  ‪@dautruonggiatoc‬ \n\n📣 Subscribe kênhĐẤU TRƯỜNG GIA TỐC để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4iuOI28\n\n©️ Đấu Trường Gia Tốc - Run For Time Vietnam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK.\n\n👉 Theo dõi các kênh chính thức của Đấu Trường Gia Tốc:\nYouTube:    / @dautruonggiatoc  \nFanpage:   / dautruonggiatoc.dongtaypromotion  \nTikTok:   / dautruonggiatoc  \n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nĐấu Trường Gia Tốc:    • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  \n2 Ngày 1 Đêm Việt Nam:    • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  \nTổ Đội \"1 Không 2\":     • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  \n7 Nụ Cười Xuân:    • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  \n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage:   / dongtaypromotion  \n► Instagram:   / dongtaypromotion.official  \n► TikTok:   / dongtaypromotionofficial  \n\n🛒Tham khảo các sản phẩm công nghệ, thời trang và tiêu dùng:\nMũ bucket: https://shopee.vn/product/71009635/27...\nMũ lưỡi trai: https://shopee.vn/product/71009635/28...\nQuần chạy bộ nam: https://shopee.vn/product/470271325/2...\nÁo vest nam: https://shopee.vn/product/145486940/2...\nDầu gội cho nam: https://shopee.vn/product/1397276155/...\nKính thời trang kim loại: https://shopee.vn/product/302989029/3...\nÁo chạy bộ: https://shopee.vn/product/272527398/1...\ntúi chạy bộ: https://shopee.vn/product/890736951/4...\nPhụ kiện chạy bộ: https://shopee.vn/product/1197449446/...\nKính chạy bộ: https://shopee.vn/product/235346769/2...\nBó gối chạy bộ: https://shopee.vn/product/272356020/5...",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+          "text": "   • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/%C4%91%E1%BA%A5utr%C6%B0%E1%BB%9Dnggiat%E1%BB%91c",
+          "text": "#ĐấuTrườngGiaTốc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dautruonggiatoc",
+          "text": "#DauTruongGiaToc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/runfortime",
+          "text": "#RunForTime"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/runfortimevietnam",
+          "text": "#RunForTimeVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dongtaypromotion",
+          "text": "#DongTayPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/rhyder",
+          "text": "#RHYDER"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hurrykng",
+          "text": "#HURRYKNG"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/weanle",
+          "text": "#WeanLe"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/d%C6%B0%C6%A1ngdomic",
+          "text": "#DươngDomic"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/qu%C3%A2nlee",
+          "text": "#QuânLee"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ng%C3%B4ki%E1%BA%BFnhuy",
+          "text": "#NgôKiếnHuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/crisphan",
+          "text": "#CrisPhan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/kaitynguy%E1%BB%85n",
+          "text": "#KaityNguyễn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ph%C6%B0%C6%A1nganh%C4%91%C3%A0o",
+          "text": "#PhươngAnhĐào"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/h%C6%B0ngnguy%E1%BB%85n",
+          "text": "#HưngNguyễn"
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "‪@dongtaypromotionofficial‬"
+        },
+        {
+          "url": "https://www.youtube.com/@dautruonggiatoc",
+          "text": "‪@dautruonggiatoc‬"
+        },
+        {
+          "url": "https://bit.ly/4iuOI28",
+          "text": "https://bit.ly/4iuOI28"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC5bxATIALkxlwWQzACzdjHw",
+          "text": "   / @dautruonggiatoc  "
+        },
+        {
+          "url": "https://www.facebook.com/dautruonggiatoc.dongtaypromotion",
+          "text": "  / dautruonggiatoc.dongtaypromotion  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dautruonggiatoc",
+          "text": "  / dautruonggiatoc  "
+        },
+        {
+          "url": "https://bit.ly/SubDTP",
+          "text": "https://bit.ly/SubDTP"
+        },
+        {
+          "url": "https://bit.ly/SubDTE",
+          "text": "https://bit.ly/SubDTE"
+        },
+        {
+          "url": "https://bit.ly/HAUTRUONGDTP",
+          "text": "https://bit.ly/HAUTRUONGDTP"
+        },
+        {
+          "url": "https://bit.ly/showhotDTP",
+          "text": "https://bit.ly/showhotDTP"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+          "text": "   • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc",
+          "text": "   • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+          "text": "   • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig",
+          "text": "   • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  "
+        },
+        {
+          "url": "https://www.facebook.com/DongTayPromotion",
+          "text": "  / dongtaypromotion  "
+        },
+        {
+          "url": "https://www.instagram.com/dongtaypromotion.official/",
+          "text": "  / dongtaypromotion.official  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dongtaypromotionofficial",
+          "text": "  / dongtaypromotionofficial  "
+        },
+        {
+          "url": "https://shopee.vn/product/71009635/27082711780",
+          "text": "https://shopee.vn/product/71009635/27..."
+        },
+        {
+          "url": "https://shopee.vn/product/71009635/28732751208",
+          "text": "https://shopee.vn/product/71009635/28..."
+        },
+        {
+          "url": "https://shopee.vn/product/470271325/20100725919",
+          "text": "https://shopee.vn/product/470271325/2..."
+        },
+        {
+          "url": "https://shopee.vn/product/145486940/2427550263",
+          "text": "https://shopee.vn/product/145486940/2..."
+        },
+        {
+          "url": "https://shopee.vn/product/1397276155/26168459444",
+          "text": "https://shopee.vn/product/1397276155/..."
+        },
+        {
+          "url": "https://shopee.vn/product/302989029/3862257062",
+          "text": "https://shopee.vn/product/302989029/3..."
+        },
+        {
+          "url": "https://shopee.vn/product/272527398/19974870049",
+          "text": "https://shopee.vn/product/272527398/1..."
+        },
+        {
+          "url": "https://shopee.vn/product/890736951/40550928941",
+          "text": "https://shopee.vn/product/890736951/4..."
+        },
+        {
+          "url": "https://shopee.vn/product/1197449446/40054232800",
+          "text": "https://shopee.vn/product/1197449446/..."
+        },
+        {
+          "url": "https://shopee.vn/product/235346769/21875048715",
+          "text": "https://shopee.vn/product/235346769/2..."
+        },
+        {
+          "url": "https://shopee.vn/product/272356020/5037204047",
+          "text": "https://shopee.vn/product/272356020/5..."
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 3,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+      "isPaidContent": false
+    },
+    {
+      "title": "Đấu Trường Gia Tốc Tập 4: Dương Domic chơi tất tay đối đầu với 8 thợ săn, HURRYKNG giải mã thần sầu",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "ycH-DrBanJE",
+      "url": "https://www.youtube.com/watch?v=ycH-DrBanJE&list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ&index=9",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ycH-DrBanJE/maxresdefault.jpg",
+      "viewCount": 3130270,
+      "date": "2025-06-22T13:40:06.000Z",
+      "likes": 34000,
+      "location": null,
+      "channelName": "ĐÔNG TÂY PROMOTION OFFICIAL",
+      "channelUrl": "https://www.youtube.com/@dongtaypromotionofficial",
+      "channelUsername": "dongtaypromotionofficial",
+      "collaborators": null,
+      "channelId": "UCFMEYTv6N64hIL9FlQ_hxBw",
+      "numberOfSubscribers": 9830000,
+      "duration": "01:54:06",
+      "commentsCount": 4121,
+      "text": "Đấu Trường Gia Tốc Tập 4: Dương Domic chơi tất tay đối đầu với 8 thợ săn, HURRYKNG giải mã thần sầu\n\nXEM TRỌN BỘ ĐẤU TRƯỜNG GIA TỐC 👉: https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ\n\n#ĐấuTrườngGiaTốc #DauTruongGiaToc #RunForTime #RunForTimeVietNam #DongTayPromotion\n#RHYDER #HURRYKNG #WeanLe #DươngDomic #QuânLee \n#NgôKiếnHuy #CrisPhan #KaityNguyễn #PhươngAnhĐào #HưngNguyễn  \n\nĐấu Trường Gia Tốc là chương trình truyền hình thực tế Việt Nam với Format “PHIM TRONG SHOW” với hơn 20 năm thành công tại Nhật Bản. Chỉ với 120 phút để sinh tồn, người chơi phải trốn thoát thợ săn vượt qua nhiệm vụ cùng những \"plot twist\" đi vào lòng người. Người chơi \"biến hình\" nhập vai trong thế giới cổ tích lịch sử hoặc tương lai viễn tưởng - một format chưa từng có trên truyền hình Việt với những câu chuyện thời đại đồng hành đa thế hệ \"chạm\" đủ mọi tầng cảm xúc.\n\n⏰ Đón xem Đấu Trường Gia Tốc - Run For Time Vietnam vào lúc \n📺  20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️  20H40 trên kênh @dongtaypromotionofficial  và kênh @dautruonggiatoc \n\n📣 Subscribe kênhĐẤU TRƯỜNG GIA TỐC để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4iuOI28\n\n©️ Đấu Trường Gia Tốc - Run For Time Vietnam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK.\n\n👉 Theo dõi các kênh chính thức của Đấu Trường Gia Tốc:\nYouTube: https://youtube.com/@dautruonggiatoc\nFanpage: https://www.facebook.com/dautruonggiatoc.dongtaypromotion\nTikTok: https://www.tiktok.com/@dautruonggiatoc\n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nĐấu Trường Gia Tốc: https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ\n2 Ngày 1 Đêm Việt Nam: https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc\nTổ Đội \"1 Không 2\":  https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3\n7 Nụ Cười Xuân: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig\n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage: https://www.facebook.com/DongTayPromotion\n► Instagram: https://www.instagram.com/dongtaypromotion.official/\n► TikTok: https://www.tiktok.com/@dongtaypromotionofficial\n\nTham khảo các sản phẩm công nghệ, thời trang và tiêu dùng :\nNón mữ beret nam nữ giữ ấm vải nỉ 2 lớp dày mũ nồi lưỡi trai nón mỏ vịt: https://shopee.vn/product/8604870/24554920957?\nDitipoo Nẹp Đàn Hồi, Rộng 3.5cm 6 Kẹp Nẹp Treo, Vintage Chữ Y Có Thể Điều Chỉnh Dây Đeo Kẹp: https://shopee.vn/product/1263776289/27170203961?\nNơ cài áo Nam thời trang, Nơ chú rể, Nơ chụp ảnh: https://shopee.vn/product/35296526/26875318341?\nIPhone 16 Pro Max 512GB: https://shopee.vn/product/288286284/25085979970?\nThanh la bằng đồng đk 20cm _ bộ cồng chiêng tây nguyên: https://shopee.vn/product/32359648/5519921418?\nLồng đèn tổ ong: https://shopee.vn/product/39775365/24539546825?\nCamera Gopro Hero 13 black: https://shopee.vn/product/1466857/29312961690?\nKính mát nam nữ, kính râm LILYEYEWEAR chất liệu nhựa cứng cáp, cao cấp chống UV400: https://shopee.vn/product/230940122/24721362283?\nÁo dài đen: https://shopee.vn/product/365335862/26411058893?\nBảng từ trắng: https://shopee.vn/product/1021382476/26601176298?\nTranh Đông Hồ Đám Cưới Chuột: https://shopee.vn/product/899899639/24113815167?\nNón Tai Bèo Cao Bồi: https://shopee.vn/product/214196144/12683576568?\nMũ lưỡi trai trơn nam nữ: https://shopee.vn/product/329396034/3187679536?\nÁo vest nam hàn quốc trẻ trung 2 lớp 1 cúc Mifado, áo khoác Blazer thời trang sang trọng: https://shopee.vn/product/998598642/23342233614?\nBộ kẹp phủ chắn gió micro: https://shopee.vn/product/503704357/21323409512?",
+      "translatedText": "Đấu Trường Gia Tốc Tập 4: Dương Domic chơi tất tay đối đầu với 8 thợ săn, HURRYKNG giải mã thần sầu\n\nXEM TRỌN BỘ ĐẤU TRƯỜNG GIA TỐC 👉:    • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  \n\n#ĐấuTrườngGiaTốc #DauTruongGiaToc #RunForTime #RunForTimeVietNam #DongTayPromotion\n#RHYDER #HURRYKNG #WeanLe #DươngDomic #QuânLee \n#NgôKiếnHuy #CrisPhan #KaityNguyễn #PhươngAnhĐào #HưngNguyễn  \n\nĐấu Trường Gia Tốc là chương trình truyền hình thực tế Việt Nam với Format “PHIM TRONG SHOW” với hơn 20 năm thành công tại Nhật Bản. Chỉ với 120 phút để sinh tồn, người chơi phải trốn thoát thợ săn vượt qua nhiệm vụ cùng những \"plot twist\" đi vào lòng người. Người chơi \"biến hình\" nhập vai trong thế giới cổ tích lịch sử hoặc tương lai viễn tưởng - một format chưa từng có trên truyền hình Việt với những câu chuyện thời đại đồng hành đa thế hệ \"chạm\" đủ mọi tầng cảm xúc.\n\n⏰ Đón xem Đấu Trường Gia Tốc - Run For Time Vietnam vào lúc \n📺  20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️  20H40 trên kênh ‪@dongtaypromotionofficial‬  và kênh ‪@dautruonggiatoc‬ \n\n📣 Subscribe kênhĐẤU TRƯỜNG GIA TỐC để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4iuOI28\n\n©️ Đấu Trường Gia Tốc - Run For Time Vietnam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK.\n\n👉 Theo dõi các kênh chính thức của Đấu Trường Gia Tốc:\nYouTube:    / @dautruonggiatoc  \nFanpage:   / dautruonggiatoc.dongtaypromotion  \nTikTok:   / dautruonggiatoc  \n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nĐấu Trường Gia Tốc:    • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  \n2 Ngày 1 Đêm Việt Nam:    • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  \nTổ Đội \"1 Không 2\":     • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  \n7 Nụ Cười Xuân:    • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  \n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage:   / dongtaypromotion  \n► Instagram:   / dongtaypromotion.official  \n► TikTok:   / dongtaypromotionofficial  \n\nTham khảo các sản phẩm công nghệ, thời trang và tiêu dùng :\nNón mữ beret nam nữ giữ ấm vải nỉ 2 lớp dày mũ nồi lưỡi trai nón mỏ vịt: https://shopee.vn/product/8604870/245...\nDitipoo Nẹp Đàn Hồi, Rộng 3.5cm 6 Kẹp Nẹp Treo, Vintage Chữ Y Có Thể Điều Chỉnh Dây Đeo Kẹp: https://shopee.vn/product/1263776289/...\nNơ cài áo Nam thời trang, Nơ chú rể, Nơ chụp ảnh: https://shopee.vn/product/35296526/26...\nIPhone 16 Pro Max 512GB: https://shopee.vn/product/288286284/2...\nThanh la bằng đồng đk 20cm _ bộ cồng chiêng tây nguyên: https://shopee.vn/product/32359648/55...\nLồng đèn tổ ong: https://shopee.vn/product/39775365/24...\nCamera Gopro Hero 13 black: https://shopee.vn/product/1466857/293...\nKính mát nam nữ, kính râm LILYEYEWEAR chất liệu nhựa cứng cáp, cao cấp chống UV400: https://shopee.vn/product/230940122/2...\nÁo dài đen: https://shopee.vn/product/365335862/2...\nBảng từ trắng: https://shopee.vn/product/1021382476/...\nTranh Đông Hồ Đám Cưới Chuột: https://shopee.vn/product/899899639/2...\nNón Tai Bèo Cao Bồi: https://shopee.vn/product/214196144/1...\nMũ lưỡi trai trơn nam nữ: https://shopee.vn/product/329396034/3...\nÁo vest nam hàn quốc trẻ trung 2 lớp 1 cúc Mifado, áo khoác Blazer thời trang sang trọng: https://shopee.vn/product/998598642/2...\nBộ kẹp phủ chắn gió micro: https://shopee.vn/product/503704357/2...",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+          "text": "   • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/%C4%91%E1%BA%A5utr%C6%B0%E1%BB%9Dnggiat%E1%BB%91c",
+          "text": "#ĐấuTrườngGiaTốc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dautruonggiatoc",
+          "text": "#DauTruongGiaToc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/runfortime",
+          "text": "#RunForTime"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/runfortimevietnam",
+          "text": "#RunForTimeVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dongtaypromotion",
+          "text": "#DongTayPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/rhyder",
+          "text": "#RHYDER"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hurrykng",
+          "text": "#HURRYKNG"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/weanle",
+          "text": "#WeanLe"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/d%C6%B0%C6%A1ngdomic",
+          "text": "#DươngDomic"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/qu%C3%A2nlee",
+          "text": "#QuânLee"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ng%C3%B4ki%E1%BA%BFnhuy",
+          "text": "#NgôKiếnHuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/crisphan",
+          "text": "#CrisPhan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/kaitynguy%E1%BB%85n",
+          "text": "#KaityNguyễn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ph%C6%B0%C6%A1nganh%C4%91%C3%A0o",
+          "text": "#PhươngAnhĐào"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/h%C6%B0ngnguy%E1%BB%85n",
+          "text": "#HưngNguyễn"
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "‪@dongtaypromotionofficial‬"
+        },
+        {
+          "url": "https://www.youtube.com/@dautruonggiatoc",
+          "text": "‪@dautruonggiatoc‬"
+        },
+        {
+          "url": "https://bit.ly/4iuOI28",
+          "text": "https://bit.ly/4iuOI28"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC5bxATIALkxlwWQzACzdjHw",
+          "text": "   / @dautruonggiatoc  "
+        },
+        {
+          "url": "https://www.facebook.com/dautruonggiatoc.dongtaypromotion",
+          "text": "  / dautruonggiatoc.dongtaypromotion  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dautruonggiatoc",
+          "text": "  / dautruonggiatoc  "
+        },
+        {
+          "url": "https://bit.ly/SubDTP",
+          "text": "https://bit.ly/SubDTP"
+        },
+        {
+          "url": "https://bit.ly/SubDTE",
+          "text": "https://bit.ly/SubDTE"
+        },
+        {
+          "url": "https://bit.ly/HAUTRUONGDTP",
+          "text": "https://bit.ly/HAUTRUONGDTP"
+        },
+        {
+          "url": "https://bit.ly/showhotDTP",
+          "text": "https://bit.ly/showhotDTP"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+          "text": "   • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc",
+          "text": "   • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+          "text": "   • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig",
+          "text": "   • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  "
+        },
+        {
+          "url": "https://www.facebook.com/DongTayPromotion",
+          "text": "  / dongtaypromotion  "
+        },
+        {
+          "url": "https://www.instagram.com/dongtaypromotion.official/",
+          "text": "  / dongtaypromotion.official  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dongtaypromotionofficial",
+          "text": "  / dongtaypromotionofficial  "
+        },
+        {
+          "url": "https://shopee.vn/product/8604870/24554920957",
+          "text": "https://shopee.vn/product/8604870/245..."
+        },
+        {
+          "url": "https://shopee.vn/product/1263776289/27170203961",
+          "text": "https://shopee.vn/product/1263776289/..."
+        },
+        {
+          "url": "https://shopee.vn/product/35296526/26875318341",
+          "text": "https://shopee.vn/product/35296526/26..."
+        },
+        {
+          "url": "https://shopee.vn/product/288286284/25085979970",
+          "text": "https://shopee.vn/product/288286284/2..."
+        },
+        {
+          "url": "https://shopee.vn/product/32359648/5519921418",
+          "text": "https://shopee.vn/product/32359648/55..."
+        },
+        {
+          "url": "https://shopee.vn/product/39775365/24539546825",
+          "text": "https://shopee.vn/product/39775365/24..."
+        },
+        {
+          "url": "https://shopee.vn/product/1466857/29312961690",
+          "text": "https://shopee.vn/product/1466857/293..."
+        },
+        {
+          "url": "https://shopee.vn/product/230940122/24721362283",
+          "text": "https://shopee.vn/product/230940122/2..."
+        },
+        {
+          "url": "https://shopee.vn/product/365335862/26411058893",
+          "text": "https://shopee.vn/product/365335862/2..."
+        },
+        {
+          "url": "https://shopee.vn/product/1021382476/26601176298",
+          "text": "https://shopee.vn/product/1021382476/..."
+        },
+        {
+          "url": "https://shopee.vn/product/899899639/24113815167",
+          "text": "https://shopee.vn/product/899899639/2..."
+        },
+        {
+          "url": "https://shopee.vn/product/214196144/12683576568",
+          "text": "https://shopee.vn/product/214196144/1..."
+        },
+        {
+          "url": "https://shopee.vn/product/329396034/3187679536",
+          "text": "https://shopee.vn/product/329396034/3..."
+        },
+        {
+          "url": "https://shopee.vn/product/998598642/23342233614",
+          "text": "https://shopee.vn/product/998598642/2..."
+        },
+        {
+          "url": "https://shopee.vn/product/503704357/21323409512",
+          "text": "https://shopee.vn/product/503704357/2..."
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 8,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+      "isPaidContent": false
+    },
+    {
+      "title": "Đấu Trường Gia Tốc Tập 3: Kaity - Phương Anh Đào hóa \"nữ cường\", Cris Phan-RHYDER tổ đội IQ đỉnh cao",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "HbTqOA5gXWk",
+      "url": "https://www.youtube.com/watch?v=HbTqOA5gXWk&list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ&index=10",
+      "thumbnailUrl": "https://i.ytimg.com/vi/HbTqOA5gXWk/maxresdefault.jpg",
+      "viewCount": 3608892,
+      "date": "2025-06-15T13:40:05.000Z",
+      "likes": 34000,
+      "location": null,
+      "channelName": "ĐÔNG TÂY PROMOTION OFFICIAL",
+      "channelUrl": "https://www.youtube.com/@dongtaypromotionofficial",
+      "channelUsername": "dongtaypromotionofficial",
+      "collaborators": null,
+      "channelId": "UCFMEYTv6N64hIL9FlQ_hxBw",
+      "numberOfSubscribers": 9830000,
+      "duration": "01:55:37",
+      "commentsCount": 3985,
+      "text": "Đấu Trường Gia Tốc Tập 3: Kaity - Phương Anh Đào hóa \"nữ cường\", Cris Phan-RHYDER tổ đội IQ đỉnh cao\n\nXEM TRỌN BỘ ĐẤU TRƯỜNG GIA TỐC 👉: https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ\n\n#ĐấuTrườngGiaTốc #DauTruongGiaToc #RunForTime #RunForTimeVietNam #DongTayPromotion\n#RHYDER #HURRYKNG #WeanLe #DươngDomic #QuânLee \n#NgôKiếnHuy #CrisPhan #KaityNguyễn #PhươngAnhĐào #HưngNguyễn  \n\nĐấu Trường Gia Tốc là chương trình truyền hình thực tế Việt Nam với Format “PHIM TRONG SHOW” với hơn 20 năm thành công tại Nhật Bản. Chỉ với 120 phút để sinh tồn, người chơi phải trốn thoát thợ săn vượt qua nhiệm vụ cùng những \"plot twist\" đi vào lòng người. Người chơi \"biến hình\" nhập vai trong thế giới cổ tích lịch sử hoặc tương lai viễn tưởng - một format chưa từng có trên truyền hình Việt với những câu chuyện thời đại đồng hành đa thế hệ \"chạm\" đủ mọi tầng cảm xúc.\n\n⏰ Đón xem Đấu Trường Gia Tốc - Run For Time Vietnam vào lúc \n📺  20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️  20H40 trên kênh @dongtaypromotionofficial  và kênh  @dautruonggiatoc \n\n📣 Subscribe kênhĐẤU TRƯỜNG GIA TỐC để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4iuOI28\n\n©️ Đấu Trường Gia Tốc - Run For Time Vietnam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK.\n\n👉 Theo dõi các kênh chính thức của Đấu Trường Gia Tốc:\nYouTube: https://youtube.com/@dautruonggiatoc\nFanpage: https://www.facebook.com/dautruonggiatoc.dongtaypromotion\nTikTok: https://www.tiktok.com/@dautruonggiatoc\n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nĐấu Trường Gia Tốc: https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ\n2 Ngày 1 Đêm Việt Nam: https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc\nTổ Đội \"1 Không 2\":  https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3\n7 Nụ Cười Xuân: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig\n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage: https://www.facebook.com/DongTayPromotion\n► Instagram: https://www.instagram.com/dongtaypromotion.official/\n► TikTok: https://www.tiktok.com/@dongtaypromotionofficial\n\n🛒Tham khảo các sản phẩm công nghệ, thời trang và tiêu dùng 👇:\nÁo vest nam hàn quốc trẻ trung 2 lớp 1 cúc Mifado: https://shopee.vn/product/998598642/23342233614?\nCamera Gopro Hero 13 black: https://shopee.vn/product/1466857/29312961690?\nKính mát nam nữ, kính râm LILYEYEWEAR chất liệu nhựa cứng cáp, cao cấp chống UV400 bảo vệ mắt KC850: https://shopee.vn/product/230940122/24721362283?\nBalo chạy bộ, đạp xe, leo núi dã ngoại thể thao Goodfit GF302RV: https://shopee.vn/product/272356020/26160369704?\nThanh la bằng đồng đk 20cm _ bộ cồng chiêng tây nguyên: https://shopee.vn/product/32359648/5519921418?\nLồng đèn tổ ong: https://shopee.vn/product/39775365/24539546825?\nKính thể thao chạy bộ, đạp xe, kính râm chống nắng câu cá chống tia UV cao cấp siêu bền, siêu nhẹ: https://shopee.vn/product/600013721/26151922146?",
+      "translatedText": "Đấu Trường Gia Tốc Tập 3: Kaity - Phương Anh Đào hóa \"nữ cường\", Cris Phan-RHYDER tổ đội IQ đỉnh cao\n\nXEM TRỌN BỘ ĐẤU TRƯỜNG GIA TỐC 👉:    • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  \n\n#ĐấuTrườngGiaTốc #DauTruongGiaToc #RunForTime #RunForTimeVietNam #DongTayPromotion\n#RHYDER #HURRYKNG #WeanLe #DươngDomic #QuânLee \n#NgôKiếnHuy #CrisPhan #KaityNguyễn #PhươngAnhĐào #HưngNguyễn  \n\nĐấu Trường Gia Tốc là chương trình truyền hình thực tế Việt Nam với Format “PHIM TRONG SHOW” với hơn 20 năm thành công tại Nhật Bản. Chỉ với 120 phút để sinh tồn, người chơi phải trốn thoát thợ săn vượt qua nhiệm vụ cùng những \"plot twist\" đi vào lòng người. Người chơi \"biến hình\" nhập vai trong thế giới cổ tích lịch sử hoặc tương lai viễn tưởng - một format chưa từng có trên truyền hình Việt với những câu chuyện thời đại đồng hành đa thế hệ \"chạm\" đủ mọi tầng cảm xúc.\n\n⏰ Đón xem Đấu Trường Gia Tốc - Run For Time Vietnam vào lúc \n📺  20H30 Chủ Nhật hàng tuần trên kênh truyền hình HTV7, siêu ứng dụng giải trí VieON\n▶️  20H40 trên kênh ‪@dongtaypromotionofficial‬  và kênh  ‪@dautruonggiatoc‬ \n\n📣 Subscribe kênhĐẤU TRƯỜNG GIA TỐC để xem các tập SỚM NHẤT và MỚI NHẤT: https://bit.ly/4iuOI28\n\n©️ Đấu Trường Gia Tốc - Run For Time Vietnam thuộc sở hữu của Dong Tay Promotion và được bảo vệ bản quyền bởi VieNETWORK.\n\n👉 Theo dõi các kênh chính thức của Đấu Trường Gia Tốc:\nYouTube:    / @dautruonggiatoc  \nFanpage:   / dautruonggiatoc.dongtaypromotion  \nTikTok:   / dautruonggiatoc  \n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nĐấu Trường Gia Tốc:    • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  \n2 Ngày 1 Đêm Việt Nam:    • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  \nTổ Đội \"1 Không 2\":     • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  \n7 Nụ Cười Xuân:    • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  \n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage:   / dongtaypromotion  \n► Instagram:   / dongtaypromotion.official  \n► TikTok:   / dongtaypromotionofficial  \n\n🛒Tham khảo các sản phẩm công nghệ, thời trang và tiêu dùng 👇:\nÁo vest nam hàn quốc trẻ trung 2 lớp 1 cúc Mifado: https://shopee.vn/product/998598642/2...\nCamera Gopro Hero 13 black: https://shopee.vn/product/1466857/293...\nKính mát nam nữ, kính râm LILYEYEWEAR chất liệu nhựa cứng cáp, cao cấp chống UV400 bảo vệ mắt KC850: https://shopee.vn/product/230940122/2...\nBalo chạy bộ, đạp xe, leo núi dã ngoại thể thao Goodfit GF302RV: https://shopee.vn/product/272356020/2...\nThanh la bằng đồng đk 20cm _ bộ cồng chiêng tây nguyên: https://shopee.vn/product/32359648/55...\nLồng đèn tổ ong: https://shopee.vn/product/39775365/24...\nKính thể thao chạy bộ, đạp xe, kính râm chống nắng câu cá chống tia UV cao cấp siêu bền, siêu nhẹ: https://shopee.vn/product/600013721/2...",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+          "text": "   • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/%C4%91%E1%BA%A5utr%C6%B0%E1%BB%9Dnggiat%E1%BB%91c",
+          "text": "#ĐấuTrườngGiaTốc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dautruonggiatoc",
+          "text": "#DauTruongGiaToc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/runfortime",
+          "text": "#RunForTime"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/runfortimevietnam",
+          "text": "#RunForTimeVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dongtaypromotion",
+          "text": "#DongTayPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/rhyder",
+          "text": "#RHYDER"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hurrykng",
+          "text": "#HURRYKNG"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/weanle",
+          "text": "#WeanLe"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/d%C6%B0%C6%A1ngdomic",
+          "text": "#DươngDomic"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/qu%C3%A2nlee",
+          "text": "#QuânLee"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ng%C3%B4ki%E1%BA%BFnhuy",
+          "text": "#NgôKiếnHuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/crisphan",
+          "text": "#CrisPhan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/kaitynguy%E1%BB%85n",
+          "text": "#KaityNguyễn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ph%C6%B0%C6%A1nganh%C4%91%C3%A0o",
+          "text": "#PhươngAnhĐào"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/h%C6%B0ngnguy%E1%BB%85n",
+          "text": "#HưngNguyễn"
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "‪@dongtaypromotionofficial‬"
+        },
+        {
+          "url": "https://www.youtube.com/@dautruonggiatoc",
+          "text": "‪@dautruonggiatoc‬"
+        },
+        {
+          "url": "https://bit.ly/4iuOI28",
+          "text": "https://bit.ly/4iuOI28"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC5bxATIALkxlwWQzACzdjHw",
+          "text": "   / @dautruonggiatoc  "
+        },
+        {
+          "url": "https://www.facebook.com/dautruonggiatoc.dongtaypromotion",
+          "text": "  / dautruonggiatoc.dongtaypromotion  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dautruonggiatoc",
+          "text": "  / dautruonggiatoc  "
+        },
+        {
+          "url": "https://bit.ly/SubDTP",
+          "text": "https://bit.ly/SubDTP"
+        },
+        {
+          "url": "https://bit.ly/SubDTE",
+          "text": "https://bit.ly/SubDTE"
+        },
+        {
+          "url": "https://bit.ly/HAUTRUONGDTP",
+          "text": "https://bit.ly/HAUTRUONGDTP"
+        },
+        {
+          "url": "https://bit.ly/showhotDTP",
+          "text": "https://bit.ly/showhotDTP"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+          "text": "   • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc",
+          "text": "   • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuLuV_ZdXi-Q84PGwjQ2GR3",
+          "text": "   • ️⛳TỔ ĐỘI \"1 KHÔNG 2\" FULL | Những thử thác...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig",
+          "text": "   • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  "
+        },
+        {
+          "url": "https://www.facebook.com/DongTayPromotion",
+          "text": "  / dongtaypromotion  "
+        },
+        {
+          "url": "https://www.instagram.com/dongtaypromotion.official/",
+          "text": "  / dongtaypromotion.official  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dongtaypromotionofficial",
+          "text": "  / dongtaypromotionofficial  "
+        },
+        {
+          "url": "https://shopee.vn/product/998598642/23342233614",
+          "text": "https://shopee.vn/product/998598642/2..."
+        },
+        {
+          "url": "https://shopee.vn/product/1466857/29312961690",
+          "text": "https://shopee.vn/product/1466857/293..."
+        },
+        {
+          "url": "https://shopee.vn/product/230940122/24721362283",
+          "text": "https://shopee.vn/product/230940122/2..."
+        },
+        {
+          "url": "https://shopee.vn/product/272356020/26160369704",
+          "text": "https://shopee.vn/product/272356020/2..."
+        },
+        {
+          "url": "https://shopee.vn/product/32359648/5519921418",
+          "text": "https://shopee.vn/product/32359648/55..."
+        },
+        {
+          "url": "https://shopee.vn/product/39775365/24539546825",
+          "text": "https://shopee.vn/product/39775365/24..."
+        },
+        {
+          "url": "https://shopee.vn/product/600013721/26151922146",
+          "text": "https://shopee.vn/product/600013721/2..."
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 9,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+      "isPaidContent": false
+    }
+  ]
+}

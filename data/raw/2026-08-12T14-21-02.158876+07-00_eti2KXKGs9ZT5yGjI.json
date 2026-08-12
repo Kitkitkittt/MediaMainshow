@@ -1,0 +1,2020 @@
+{
+  "actor_name": "streamers/youtube-scraper",
+  "actor_run_id": "eti2KXKGs9ZT5yGjI",
+  "dataset_id": "cXP1lfcbokObh0xO6",
+  "actor_build_id": "SUk0475fgtCh9zqMt",
+  "retrieved_at": "2026-08-12T14:21:02.158876+07:00",
+  "actor_input": {
+    "maxResults": 36,
+    "maxResultsShorts": 0,
+    "maxResultStreams": 0,
+    "startUrls": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO"
+      }
+    ],
+    "sourceBindingUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO"
+  },
+  "run_metadata": {
+    "status": "SUCCEEDED",
+    "startedAt": "2026-08-12T07:19:26.337Z",
+    "finishedAt": "2026-08-12T07:20:56.813Z",
+    "usageTotalUsd": 0.132,
+    "chargedEventCounts": {
+      "result": 34,
+      "date-filter": 0,
+      "ai-video-description": 0,
+      "ai-video-summary": 0
+    }
+  },
+  "items": [
+    {
+      "title": "Tập 11 uncut l SNN 2020 l Diệu Nhi như được \"sinh ra lần 2\", Hậu Hoàng công khai làm nũng Mũi trưởng",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "HdxGkZ9cJOc",
+      "url": "https://www.youtube.com/watch?v=HdxGkZ9cJOc&list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO&index=17",
+      "thumbnailUrl": "https://i.ytimg.com/vi/HdxGkZ9cJOc/maxresdefault.jpg",
+      "viewCount": 9907405,
+      "date": "2021-02-14T03:00:18.000Z",
+      "likes": 75000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "01:23:23",
+      "commentsCount": 7776,
+      "text": "🔥 Sao nhập ngũ 2020 – Nữ chiến binh hứa hẹn nhiều bất ngờ với dàn cast đình đàm: Nghệ sỹ Diệu Nhi, Nam Thư, Hoa hậu Kỳ Duyên, Youtuber Hậu Hoàng, Ca sĩ Dương Hoàng Yến, Diễn viên Đỗ Khánh Vân. Trải nghiệm các nội dung tại Lữ đoàn Đặc công bộ, ai sẽ soán ngôi “lầy” của Hoa hậu Hương Giang SS4? \n🔥 Link Full mùa 2020-2021: https://bom.to/qKfbwVwv\n🔥 Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2020 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 08h00 Chủ nhật trên VTV3\n     💓 09H00 Chủ nhật trên Mocha & Keeng Movies\n     💓 10h00 Chủ nhật trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn: Lê Quý Giáp & Lê Đức Cường\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Phạm Thanh Hảo\n• D.O.P: Đoàn Ngọc Ước \n• Quay phim: Mai Trùng Khánh; Thái Ngân; Thế Chiến, Ngọc Thắng, Văn Thảo, Tuấn Vũ, Mạnh Cường, Thành Nam, Quang Huy, Huy Tuấn, Vũ Sướng\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Thành Nguyên, Đức Chính, Văn Hà, Minh Tuyến\n• Âm thanh: Đoàn Lộc & Nguyễn Tới\n• Hỗ trợ sản xuất: Văn Hải, Ngọc Hoàng, Anh Tuấn, Triệu Hương, Văn Huệ, Minh Tân\n• Editor: Hải Khoa Lương, Cường Lê, Quý Giáp, Thanh Hảo, Leo Kay; Thanh Liêm, Thanh Tùng, Anh Đức, Hiệp Cine\n• Đồ họa: Phùng Tùng & HaoMi & Hannah Ru & Cao Hà\n• Truyền thông: Nga Nguyễn, Trần Phương, Giang Bùm, Linh Bá\n• Bảo trợ truyền thông: Tiin.vn\n=========================================\nCài ngay app Xgaming tại http://xgaming.com.vn/app để theo dõi và tham gia chảo lửa thách đấu cùng những streamers hot nhất các tựa game\n★ Fanpage:   / xgamingvtm  \n★ Website: http://xgaming.com.vn/\n-----------------------------------------------------------------------------\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bom.to/qKfbwVwv",
+          "text": "https://bom.to/qKfbwVwv"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "http://xgaming.com.vn/app",
+          "text": "http://xgaming.com.vn/app"
+        },
+        {
+          "url": "https://www.facebook.com/xgamingvtm",
+          "text": "  / xgamingvtm  "
+        },
+        {
+          "url": "http://xgaming.com.vn/",
+          "text": "http://xgaming.com.vn/"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 16,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ 2020 Hóng tập 10: Hậu Hoàng: Người nói tin em đi, Mũi trưởng: Tôi tin!",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "viWSaUtUBtU",
+      "url": "https://www.youtube.com/watch?v=viWSaUtUBtU&list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO&index=21",
+      "thumbnailUrl": "https://i.ytimg.com/vi/viWSaUtUBtU/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGFggZShHMA8=&rs=AOn4CLD7zdmW4rGs6i5yrwNnCimIzUCb4w",
+      "viewCount": 531929,
+      "date": "2021-02-05T14:15:36.000Z",
+      "likes": 6900,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:02:15",
+      "commentsCount": 318,
+      "text": "🔥 Sao nhập ngũ 2020 – Nữ chiến binh hứa hẹn nhiều bất ngờ với dàn cast đình đàm: Nghệ sỹ Diệu Nhi, Nam Thư, Hoa hậu Kỳ Duyên, Youtuber Hậu Hoàng, Ca sĩ Dương Hoàng Yến, Diễn viên Đỗ Khánh Vân. Trải nghiệm các nội dung tại Lữ đoàn Đặc công bộ, ai sẽ soán ngôi “lầy” của Hoa hậu Hương Giang SS4? \n🔥 Link Full mùa 2020-2021: https://bom.to/qKfbwVwv\n🔥 Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2020 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 08h00 Chủ nhật trên VTV3\n     💓 09H00 Chủ nhật trên Mocha & Keeng Movies\n     💓 10h00 Chủ nhật trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn: Lê Quý Giáp & Lê Đức Cường\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Phạm Thanh Hảo\n• D.O.P: Đoàn Ngọc Ước \n• Quay phim: Mai Trùng Khánh; Thái Ngân; Thế Chiến, Ngọc Thắng, Văn Thảo, Tuấn Vũ, Mạnh Cường, Thành Nam, Quang Huy, Huy Tuấn, Vũ Sướng\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Thành Nguyên, Đức Chính, Văn Hà, Minh Tuyến\n• Âm thanh: Đoàn Lộc & Nguyễn Tới\n• Hỗ trợ sản xuất: Văn Hải, Ngọc Hoàng, Anh Tuấn, Triệu Hương, Văn Huệ, Minh Tân\n• Editor: Hải Khoa Lương, Cường Lê, Quý Giáp, Thanh Hảo, Leo Kay; Thanh Liêm, Thanh Tùng, Anh Đức, Hiệp Cine\n• Đồ họa: Phùng Tùng & HaoMi & Hannah Ru & Cao Hà\n• Truyền thông: Nga Nguyễn, Trần Phương, Giang Bùm, Linh Bá\n• Bảo trợ truyền thông: Tiin.vn\n=========================================\nCài ngay app Xgaming tại http://xgaming.com.vn/app để theo dõi và tham gia chảo lửa thách đấu cùng những streamers hot nhất các tựa game\n★ Fanpage:   / xgamingvtm  \n★ Website: http://xgaming.com.vn/\n-----------------------------------------------------------------------------\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bom.to/qKfbwVwv",
+          "text": "https://bom.to/qKfbwVwv"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "http://xgaming.com.vn/app",
+          "text": "http://xgaming.com.vn/app"
+        },
+        {
+          "url": "https://www.facebook.com/xgamingvtm",
+          "text": "  / xgamingvtm  "
+        },
+        {
+          "url": "http://xgaming.com.vn/",
+          "text": "http://xgaming.com.vn/"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 20,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isPaidContent": false
+    },
+    {
+      "title": "TRAILER TẬP 11 l SNN 2020 l Khánh Vân đam mê súng ống, Mũi trưởng Long trình diễn bắn súng đỉnh cao",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "-k9T8d5PCeM",
+      "url": "https://www.youtube.com/watch?v=-k9T8d5PCeM&list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO&index=18",
+      "thumbnailUrl": "https://i.ytimg.com/vi/-k9T8d5PCeM/maxresdefault.jpg",
+      "viewCount": 623507,
+      "date": "2021-02-12T13:00:17.000Z",
+      "likes": 7000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:04:05",
+      "commentsCount": 376,
+      "text": "🔥 Sao nhập ngũ 2020 – Nữ chiến binh hứa hẹn nhiều bất ngờ với dàn cast đình đàm: Nghệ sỹ Diệu Nhi, Nam Thư, Hoa hậu Kỳ Duyên, Youtuber Hậu Hoàng, Ca sĩ Dương Hoàng Yến, Diễn viên Đỗ Khánh Vân. Trải nghiệm các nội dung tại Lữ đoàn Đặc công bộ, ai sẽ soán ngôi “lầy” của Hoa hậu Hương Giang SS4? \n🔥 Link Full mùa 2020-2021: https://bom.to/qKfbwVwv\n🔥 Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2020 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 08h00 Chủ nhật trên VTV3\n     💓 09H00 Chủ nhật trên Mocha & Keeng Movies\n     💓 10h00 Chủ nhật trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn: Lê Quý Giáp & Lê Đức Cường\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Phạm Thanh Hảo\n• D.O.P: Đoàn Ngọc Ước \n• Quay phim: Mai Trùng Khánh; Thái Ngân; Thế Chiến, Ngọc Thắng, Văn Thảo, Tuấn Vũ, Mạnh Cường, Thành Nam, Quang Huy, Huy Tuấn, Vũ Sướng\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Thành Nguyên, Đức Chính, Văn Hà, Minh Tuyến\n• Âm thanh: Đoàn Lộc & Nguyễn Tới\n• Hỗ trợ sản xuất: Văn Hải, Ngọc Hoàng, Anh Tuấn, Triệu Hương, Văn Huệ, Minh Tân\n• Editor: Hải Khoa Lương, Cường Lê, Quý Giáp, Thanh Hảo, Leo Kay; Thanh Liêm, Thanh Tùng, Anh Đức, Hiệp Cine\n• Đồ họa: Phùng Tùng & HaoMi & Hannah Ru & Cao Hà\n• Truyền thông: Nga Nguyễn, Trần Phương, Giang Bùm, Linh Bá\n• Bảo trợ truyền thông: Tiin.vn\n=========================================\nCài ngay app Xgaming tại http://xgaming.com.vn/app để theo dõi và tham gia chảo lửa thách đấu cùng những streamers hot nhất các tựa game\n★ Fanpage:   / xgamingvtm  \n★ Website: http://xgaming.com.vn/\n-----------------------------------------------------------------------------\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bom.to/qKfbwVwv",
+          "text": "https://bom.to/qKfbwVwv"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "http://xgaming.com.vn/app",
+          "text": "http://xgaming.com.vn/app"
+        },
+        {
+          "url": "https://www.facebook.com/xgamingvtm",
+          "text": "  / xgamingvtm  "
+        },
+        {
+          "url": "http://xgaming.com.vn/",
+          "text": "http://xgaming.com.vn/"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 17,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isPaidContent": false
+    },
+    {
+      "title": "TRAILER TẬP 14 | SNN 2020 | Diệu Nhi không chịu nổi nhiệt khi tắm heo, Kỳ Duyên quyết không bỏ cuộc",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "Dc5rk7DhD3s",
+      "url": "https://www.youtube.com/watch?v=Dc5rk7DhD3s&list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO&index=12",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Dc5rk7DhD3s/maxresdefault.jpg",
+      "viewCount": 930478,
+      "date": "2021-03-06T11:00:17.000Z",
+      "likes": 9900,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:06:16",
+      "commentsCount": 435,
+      "text": "🔥 Sao nhập ngũ 2020 – Nữ chiến binh hứa hẹn nhiều bất ngờ với dàn cast đình đàm: Nghệ sỹ Diệu Nhi, Nam Thư, Hoa hậu Kỳ Duyên, Youtuber Hậu Hoàng, Ca sĩ Dương Hoàng Yến, Diễn viên Đỗ Khánh Vân. Trải nghiệm các nội dung tại Lữ đoàn Đặc công bộ, ai sẽ soán ngôi “lầy” của Hoa hậu Hương Giang SS4? \n🔥 Link Full mùa 2020-2021: https://bom.to/qKfbwVwv\n🔥 Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2020 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 08h00 Chủ nhật trên VTV3\n     💓 09H00 Chủ nhật trên Mocha & Keeng Movies\n     💓 10h00 Chủ nhật trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn: Lê Quý Giáp & Lê Đức Cường\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Phạm Thanh Hảo\n• D.O.P: Đoàn Ngọc Ước \n• Quay phim: Mai Trùng Khánh; Thái Ngân; Thế Chiến, Ngọc Thắng, Văn Thảo, Tuấn Vũ, Mạnh Cường, Thành Nam, Quang Huy, Huy Tuấn, Vũ Sướng\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Thành Nguyên, Đức Chính, Văn Hà, Minh Tuyến\n• Âm thanh: Đoàn Lộc & Nguyễn Tới\n• Hỗ trợ sản xuất: Văn Hải, Ngọc Hoàng, Anh Tuấn, Triệu Hương, Văn Huệ, Minh Tân\n• Editor: Hải Khoa Lương, Cường Lê, Quý Giáp, Thanh Hảo, Leo Kay; Thanh Liêm, Thanh Tùng, Anh Đức, Hiệp Cine\n• Đồ họa: Phùng Tùng & HaoMi & Hannah Ru & Cao Hà\n• Truyền thông: Nga Nguyễn, Trần Phương, Giang Bùm, Linh Bá\n• Bảo trợ truyền thông: Tiin.vn\n=========================================\nCài ngay app Xgaming tại http://xgaming.com.vn/app để theo dõi và tham gia chảo lửa thách đấu cùng những streamers hot nhất các tựa game\n★ Fanpage:   / xgamingvtm  \n★ Website: http://xgaming.com.vn/\n-----------------------------------------------------------------------------\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bom.to/qKfbwVwv",
+          "text": "https://bom.to/qKfbwVwv"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "http://xgaming.com.vn/app",
+          "text": "http://xgaming.com.vn/app"
+        },
+        {
+          "url": "https://www.facebook.com/xgamingvtm",
+          "text": "  / xgamingvtm  "
+        },
+        {
+          "url": "http://xgaming.com.vn/",
+          "text": "http://xgaming.com.vn/"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 11,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tập 9 Uncut | Hậu Hoàng nuốt nước mắt vào trong, Kỳ Duyên mạnh mẽ vượt qua mọi thử thách",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "FJw460TMaWk",
+      "url": "https://www.youtube.com/watch?v=FJw460TMaWk&list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO&index=22",
+      "thumbnailUrl": "https://i.ytimg.com/vi/FJw460TMaWk/maxresdefault.jpg",
+      "viewCount": 8756638,
+      "date": "2021-01-31T03:00:12.000Z",
+      "likes": 85000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "01:10:05",
+      "commentsCount": 8696,
+      "text": "🔥 Sao nhập ngũ 2020 – Nữ chiến binh hứa hẹn nhiều bất ngờ với dàn cast đình đàm: Nghệ sỹ Diệu Nhi, Nam Thư, Hoa hậu Kỳ Duyên, Youtuber Hậu Hoàng, Ca sĩ Dương Hoàng Yến, Diễn viên Đỗ Khánh Vân. Trải nghiệm các nội dung tại Lữ đoàn Đặc công bộ, ai sẽ soán ngôi “lầy” của Hoa hậu Hương Giang SS4? \n🔥 Link Full mùa 2020-2021: https://bom.to/qKfbwVwv\n🔥 Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2020 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 08h00 Chủ nhật trên VTV3\n     💓 09H00 Chủ nhật trên Mocha & Keeng Movies\n     💓 10h00 Chủ nhật trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn: Lê Quý Giáp & Lê Đức Cường\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Phạm Thanh Hảo\n• D.O.P: Đoàn Ngọc Ước \n• Quay phim: Mai Trùng Khánh; Thái Ngân; Thế Chiến, Ngọc Thắng, Văn Thảo, Tuấn Vũ, Mạnh Cường, Thành Nam, Quang Huy, Huy Tuấn, Vũ Sướng\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Thành Nguyên, Đức Chính, Văn Hà, Minh Tuyến\n• Âm thanh: Đoàn Lộc & Nguyễn Tới\n• Hỗ trợ sản xuất: Văn Hải, Ngọc Hoàng, Anh Tuấn, Triệu Hương, Văn Huệ, Minh Tân\n• Editor: Hải Khoa Lương, Cường Lê, Quý Giáp, Thanh Hảo, Leo Kay; Thanh Liêm, Thanh Tùng, Anh Đức, Hiệp Cine\n• Đồ họa: Phùng Tùng & HaoMi & Hannah Ru & Cao Hà\n• Truyền thông: Nga Nguyễn, Trần Phương, Giang Bùm, Linh Bá\n• Bảo trợ truyền thông: Tiin.vn\n=========================================\nCài ngay app Xgaming tại http://xgaming.com.vn/app để theo dõi và tham gia chảo lửa thách đấu cùng những streamers hot nhất các tựa game\n★ Fanpage:   / xgamingvtm  \n★ Website: http://xgaming.com.vn/\n-----------------------------------------------------------------------------\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bom.to/qKfbwVwv",
+          "text": "https://bom.to/qKfbwVwv"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "http://xgaming.com.vn/app",
+          "text": "http://xgaming.com.vn/app"
+        },
+        {
+          "url": "https://www.facebook.com/xgamingvtm",
+          "text": "  / xgamingvtm  "
+        },
+        {
+          "url": "http://xgaming.com.vn/",
+          "text": "http://xgaming.com.vn/"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 21,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isPaidContent": false
+    },
+    {
+      "title": "TRAILER TẬP 10 l SNN 2020 l Giới hạn tột cùng, Diệu Nhi tự thôi miên, Hậu Hoàng không tự tin đối mặt",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "QxsPLEUuUyw",
+      "url": "https://www.youtube.com/watch?v=QxsPLEUuUyw&list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO&index=20",
+      "thumbnailUrl": "https://i.ytimg.com/vi/QxsPLEUuUyw/maxresdefault.jpg",
+      "viewCount": 784976,
+      "date": "2021-02-06T04:45:11.000Z",
+      "likes": 8200,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:04:09",
+      "commentsCount": 318,
+      "text": "🔥 Sao nhập ngũ 2020 – Nữ chiến binh hứa hẹn nhiều bất ngờ với dàn cast đình đàm: Nghệ sỹ Diệu Nhi, Nam Thư, Hoa hậu Kỳ Duyên, Youtuber Hậu Hoàng, Ca sĩ Dương Hoàng Yến, Diễn viên Đỗ Khánh Vân. Trải nghiệm các nội dung tại Lữ đoàn Đặc công bộ, ai sẽ soán ngôi “lầy” của Hoa hậu Hương Giang SS4? \n🔥 Link Full mùa 2020-2021: https://bom.to/qKfbwVwv\n🔥 Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2020 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 08h00 Chủ nhật trên VTV3\n     💓 09H00 Chủ nhật trên Mocha & Keeng Movies\n     💓 10h00 Chủ nhật trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn: Lê Quý Giáp & Lê Đức Cường\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Phạm Thanh Hảo\n• D.O.P: Đoàn Ngọc Ước \n• Quay phim: Mai Trùng Khánh; Thái Ngân; Thế Chiến, Ngọc Thắng, Văn Thảo, Tuấn Vũ, Mạnh Cường, Thành Nam, Quang Huy, Huy Tuấn, Vũ Sướng\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Thành Nguyên, Đức Chính, Văn Hà, Minh Tuyến\n• Âm thanh: Đoàn Lộc & Nguyễn Tới\n• Hỗ trợ sản xuất: Văn Hải, Ngọc Hoàng, Anh Tuấn, Triệu Hương, Văn Huệ, Minh Tân\n• Editor: Hải Khoa Lương, Cường Lê, Quý Giáp, Thanh Hảo, Leo Kay; Thanh Liêm, Thanh Tùng, Anh Đức, Hiệp Cine\n• Đồ họa: Phùng Tùng & HaoMi & Hannah Ru & Cao Hà\n• Truyền thông: Nga Nguyễn, Trần Phương, Giang Bùm, Linh Bá\n• Bảo trợ truyền thông: Tiin.vn\n=========================================\nCài ngay app Xgaming tại http://xgaming.com.vn/app để theo dõi và tham gia chảo lửa thách đấu cùng những streamers hot nhất các tựa game\n★ Fanpage:   / xgamingvtm  \n★ Website: http://xgaming.com.vn/\n-----------------------------------------------------------------------------\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bom.to/qKfbwVwv",
+          "text": "https://bom.to/qKfbwVwv"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "http://xgaming.com.vn/app",
+          "text": "http://xgaming.com.vn/app"
+        },
+        {
+          "url": "https://www.facebook.com/xgamingvtm",
+          "text": "  / xgamingvtm  "
+        },
+        {
+          "url": "http://xgaming.com.vn/",
+          "text": "http://xgaming.com.vn/"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 19,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isPaidContent": false
+    },
+    {
+      "title": "TRAILER TẬP 12 |SNN 2020| Hậu Hoàng nói cảm xúc thật về Mũi trưởng, Kỳ Duyên \"mất tích\"  bất thường",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "VjbF3mp0_K4",
+      "url": "https://www.youtube.com/watch?v=VjbF3mp0_K4&list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO&index=16",
+      "thumbnailUrl": "https://i.ytimg.com/vi/VjbF3mp0_K4/maxresdefault.jpg",
+      "viewCount": 947208,
+      "date": "2021-02-20T01:30:15.000Z",
+      "likes": 9100,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:03:37",
+      "commentsCount": 469,
+      "text": "🔥 Sao nhập ngũ 2020 – Nữ chiến binh hứa hẹn nhiều bất ngờ với dàn cast đình đàm: Nghệ sỹ Diệu Nhi, Nam Thư, Hoa hậu Kỳ Duyên, Youtuber Hậu Hoàng, Ca sĩ Dương Hoàng Yến, Diễn viên Đỗ Khánh Vân. Trải nghiệm các nội dung tại Lữ đoàn Đặc công bộ, ai sẽ soán ngôi “lầy” của Hoa hậu Hương Giang SS4? \n🔥 Link Full mùa 2020-2021: https://bom.to/qKfbwVwv\n🔥 Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2020 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 08h00 Chủ nhật trên VTV3\n     💓 09H00 Chủ nhật trên Mocha & Keeng Movies\n     💓 10h00 Chủ nhật trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn: Lê Quý Giáp & Lê Đức Cường\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Phạm Thanh Hảo\n• D.O.P: Đoàn Ngọc Ước \n• Quay phim: Mai Trùng Khánh; Thái Ngân; Thế Chiến, Ngọc Thắng, Văn Thảo, Tuấn Vũ, Mạnh Cường, Thành Nam, Quang Huy, Huy Tuấn, Vũ Sướng\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Thành Nguyên, Đức Chính, Văn Hà, Minh Tuyến\n• Âm thanh: Đoàn Lộc & Nguyễn Tới\n• Hỗ trợ sản xuất: Văn Hải, Ngọc Hoàng, Anh Tuấn, Triệu Hương, Văn Huệ, Minh Tân\n• Editor: Hải Khoa Lương, Cường Lê, Quý Giáp, Thanh Hảo, Leo Kay; Thanh Liêm, Thanh Tùng, Anh Đức, Hiệp Cine\n• Đồ họa: Phùng Tùng & HaoMi & Hannah Ru & Cao Hà\n• Truyền thông: Nga Nguyễn, Trần Phương, Giang Bùm, Linh Bá\n• Bảo trợ truyền thông: Tiin.vn\n=========================================\nCài ngay app Xgaming tại http://xgaming.com.vn/app để theo dõi và tham gia chảo lửa thách đấu cùng những streamers hot nhất các tựa game\n★ Fanpage:   / xgamingvtm  \n★ Website: http://xgaming.com.vn/\n-----------------------------------------------------------------------------\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bom.to/qKfbwVwv",
+          "text": "https://bom.to/qKfbwVwv"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "http://xgaming.com.vn/app",
+          "text": "http://xgaming.com.vn/app"
+        },
+        {
+          "url": "https://www.facebook.com/xgamingvtm",
+          "text": "  / xgamingvtm  "
+        },
+        {
+          "url": "http://xgaming.com.vn/",
+          "text": "http://xgaming.com.vn/"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 15,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isPaidContent": false
+    },
+    {
+      "title": "[Uncut - Tập 5 SNN 2020] Nàng hậu Kỳ Duyên không ngại ngần cõng đồng đội nam, nàng hậu cười hớn hở",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "Gj6hcqSSFSU",
+      "url": "https://www.youtube.com/watch?v=Gj6hcqSSFSU&list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO&index=32",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Gj6hcqSSFSU/maxresdefault.jpg",
+      "viewCount": 855007,
+      "date": "2021-01-05T14:00:32.000Z",
+      "likes": 9400,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:04:46",
+      "commentsCount": 979,
+      "text": "🔥 Sao nhập ngũ 2020 – Nữ chiến binh hứa hẹn nhiều bất ngờ với dàn cast đình đàm: Nghệ sỹ Diệu Nhi, Nam Thư, Hoa hậu Kỳ Duyên, Youtuber Hậu Hoàng, Ca sĩ Dương Hoàng Yến, Diễn viên Đỗ Khánh Vân. Trải nghiệm các nội dung tại Lữ đoàn Đặc công bộ, ai sẽ soán ngôi “lầy” của Hoa hậu Hương Giang SS4? \n🔥 Link Full mùa 2020-2021: https://bom.to/qKfbwVwv\n🔥 Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2020 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 08h00 Chủ nhật trên VTV3\n     💓 09H00 Chủ nhật trên Mocha & Keeng Movies\n     💓 10h00 Chủ nhật trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn: Lê Quý Giáp & Lê Đức Cường\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Phạm Thanh Hảo\n• D.O.P: Đoàn Ngọc Ước \n• Quay phim: Mai Trùng Khánh; Thái Ngân; Thế Chiến, Ngọc Thắng, Văn Thảo, Tuấn Vũ, Mạnh Cường, Thành Nam, Quang Huy, Huy Tuấn, Vũ Sướng\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Thành Nguyên, Đức Chính, Văn Hà, Minh Tuyến\n• Âm thanh: Đoàn Lộc & Nguyễn Tới\n• Hỗ trợ sản xuất: Văn Hải, Ngọc Hoàng, Anh Tuấn, Triệu Hương, Văn Huệ, Minh Tân\n• Editor: Hải Khoa Lương, Cường Lê, Quý Giáp, Thanh Hảo, Leo Kay; Thanh Liêm, Thanh Tùng, Anh Đức, Hiệp Cine\n• Đồ họa: Phùng Tùng & HaoMi & Hannah Ru & Cao Hà\n• Truyền thông: Nga Nguyễn, Trần Phương, Giang Bùm, Linh Bá\n• Bảo trợ truyền thông: Tiin.vn\n=========================================\nCài ngay app Xgaming tại http://xgaming.com.vn/app để theo dõi và tham gia chảo lửa thách đấu cùng những streamers hot nhất các tựa game\n★ Fanpage:   / xgamingvtm  \n★ Website: http://xgaming.com.vn/\n-----------------------------------------------------------------------------\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bom.to/qKfbwVwv",
+          "text": "https://bom.to/qKfbwVwv"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "http://xgaming.com.vn/app",
+          "text": "http://xgaming.com.vn/app"
+        },
+        {
+          "url": "https://www.facebook.com/xgamingvtm",
+          "text": "  / xgamingvtm  "
+        },
+        {
+          "url": "http://xgaming.com.vn/",
+          "text": "http://xgaming.com.vn/"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 31,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tập 8 | SNN 2020 | Diệu Nhi & Kỳ Duyên vươn lên dẫn đầu, nguy cơ bể thuyền Mũi trưởng & Hậu Hoàng",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "6dApuDKCuLM",
+      "url": "https://www.youtube.com/watch?v=6dApuDKCuLM&list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO&index=24",
+      "thumbnailUrl": "https://i.ytimg.com/vi/6dApuDKCuLM/maxresdefault.jpg",
+      "viewCount": 8363474,
+      "date": "2021-01-24T03:01:06.000Z",
+      "likes": 74000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:38:37",
+      "commentsCount": 4544,
+      "text": "🔥 Sao nhập ngũ 2020 – Nữ chiến binh hứa hẹn nhiều bất ngờ với dàn cast đình đàm: Nghệ sỹ Diệu Nhi, Nam Thư, Hoa hậu Kỳ Duyên, Youtuber Hậu Hoàng, Ca sĩ Dương Hoàng Yến, Diễn viên Đỗ Khánh Vân. Trải nghiệm các nội dung tại Lữ đoàn Đặc công bộ, ai sẽ soán ngôi “lầy” của Hoa hậu Hương Giang SS4? \n🔥 Link Full mùa 2020-2021: https://bom.to/qKfbwVwv\n🔥 Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2020 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 08h00 Chủ nhật trên VTV3\n     💓 09H00 Chủ nhật trên Mocha & Keeng Movies\n     💓 10h00 Chủ nhật trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn: Lê Quý Giáp & Lê Đức Cường\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Phạm Thanh Hảo\n• D.O.P: Đoàn Ngọc Ước \n• Quay phim: Mai Trùng Khánh; Thái Ngân; Thế Chiến, Ngọc Thắng, Văn Thảo, Tuấn Vũ, Mạnh Cường, Thành Nam, Quang Huy, Huy Tuấn, Vũ Sướng\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Thành Nguyên, Đức Chính, Văn Hà, Minh Tuyến\n• Âm thanh: Đoàn Lộc & Nguyễn Tới\n• Hỗ trợ sản xuất: Văn Hải, Ngọc Hoàng, Anh Tuấn, Triệu Hương, Văn Huệ, Minh Tân\n• Editor: Hải Khoa Lương, Cường Lê, Quý Giáp, Thanh Hảo, Leo Kay; Thanh Liêm, Thanh Tùng, Anh Đức, Hiệp Cine\n• Đồ họa: Phùng Tùng & HaoMi & Hannah Ru & Cao Hà\n• Truyền thông: Nga Nguyễn, Trần Phương, Giang Bùm, Linh Bá\n• Bảo trợ truyền thông: Tiin.vn\n=========================================\nCài ngay app Xgaming tại http://xgaming.com.vn/app để theo dõi và tham gia chảo lửa thách đấu cùng những streamers hot nhất các tựa game\n★ Fanpage:   / xgamingvtm  \n★ Website: http://xgaming.com.vn/\n-----------------------------------------------------------------------------\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bom.to/qKfbwVwv",
+          "text": "https://bom.to/qKfbwVwv"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "http://xgaming.com.vn/app",
+          "text": "http://xgaming.com.vn/app"
+        },
+        {
+          "url": "https://www.facebook.com/xgamingvtm",
+          "text": "  / xgamingvtm  "
+        },
+        {
+          "url": "http://xgaming.com.vn/",
+          "text": "http://xgaming.com.vn/"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 23,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isPaidContent": false
+    },
+    {
+      "title": "SNN NGOẠI TRUYỆN | Hành trình nhập ngũ đủ cung bậc cảm xúc của cô nàng hot Youtuber Hậu Hoàng",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "y95_z8a18sk",
+      "url": "https://www.youtube.com/watch?v=y95_z8a18sk&list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO&index=1",
+      "thumbnailUrl": "https://i.ytimg.com/vi/y95_z8a18sk/maxresdefault.jpg",
+      "viewCount": 796939,
+      "date": "2021-05-19T13:00:13.000Z",
+      "likes": 11000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:38:49",
+      "commentsCount": 698,
+      "text": "🔥 Sao nhập ngũ 2020 – Nữ chiến binh hứa hẹn nhiều bất ngờ với dàn cast đình đàm: Nghệ sỹ Diệu Nhi, Nam Thư, Hoa hậu Kỳ Duyên, Youtuber Hậu Hoàng, Ca sĩ Dương Hoàng Yến, Diễn viên Đỗ Khánh Vân. Trải nghiệm các nội dung tại Lữ đoàn Đặc công bộ, ai sẽ soán ngôi “lầy” của Hoa hậu Hương Giang SS4? \n🔥 Link Full mùa 2020-2021: https://bom.to/qKfbwVwv\n🔥 Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2020 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 08h00 Chủ nhật trên VTV3\n     💓 09H00 Chủ nhật trên Mocha & Keeng Movies\n     💓 10h00 Chủ nhật trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn: Lê Quý Giáp & Lê Đức Cường\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Phạm Thanh Hảo\n• D.O.P: Đoàn Ngọc Ước \n• Quay phim: Mai Trùng Khánh; Thái Ngân; Thế Chiến, Ngọc Thắng, Văn Thảo, Tuấn Vũ, Mạnh Cường, Thành Nam, Quang Huy, Huy Tuấn, Vũ Sướng\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Thành Nguyên, Đức Chính, Văn Hà, Minh Tuyến\n• Âm thanh: Đoàn Lộc & Nguyễn Tới\n• Hỗ trợ sản xuất: Văn Hải, Ngọc Hoàng, Anh Tuấn, Triệu Hương, Văn Huệ, Minh Tân\n• Editor: Hải Khoa Lương, Cường Lê, Quý Giáp, Thanh Hảo, Leo Kay; Thanh Liêm, Thanh Tùng, Anh Đức, Hiệp Cine\n• Đồ họa: Phùng Tùng & HaoMi & Hannah Ru & Cao Hà\n• Truyền thông: Nga Nguyễn, Trần Phương, Giang Bùm, Linh Bá\n• Bảo trợ truyền thông: Tiin.vn\n=========================================\nCài ngay app Xgaming tại http://xgaming.com.vn/app để theo dõi và tham gia chảo lửa thách đấu cùng những streamers hot nhất các tựa game\n★ Fanpage:   / xgamingvtm  \n★ Website: http://xgaming.com.vn/\n-----------------------------------------------------------------------------\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bom.to/qKfbwVwv",
+          "text": "https://bom.to/qKfbwVwv"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "http://xgaming.com.vn/app",
+          "text": "http://xgaming.com.vn/app"
+        },
+        {
+          "url": "https://www.facebook.com/xgamingvtm",
+          "text": "  / xgamingvtm  "
+        },
+        {
+          "url": "http://xgaming.com.vn/",
+          "text": "http://xgaming.com.vn/"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 0,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isPaidContent": false
+    },
+    {
+      "title": "SNN NGOẠI TRUYỆN | Xúc động với “món quà” tâm huyết của 6 nữ chiến binh Sao nhập ngũ 2020",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "6XqFot382T4",
+      "url": "https://www.youtube.com/watch?v=6XqFot382T4&list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO&index=2",
+      "thumbnailUrl": "https://i.ytimg.com/vi/6XqFot382T4/maxresdefault.jpg",
+      "viewCount": 1103608,
+      "date": "2021-04-25T03:00:16.000Z",
+      "likes": 12000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:10:19",
+      "commentsCount": 562,
+      "text": "🔥 Sao nhập ngũ 2020 – Nữ chiến binh hứa hẹn nhiều bất ngờ với dàn cast đình đàm: Nghệ sỹ Diệu Nhi, Nam Thư, Hoa hậu Kỳ Duyên, Youtuber Hậu Hoàng, Ca sĩ Dương Hoàng Yến, Diễn viên Đỗ Khánh Vân. Trải nghiệm các nội dung tại Lữ đoàn Đặc công bộ, ai sẽ soán ngôi “lầy” của Hoa hậu Hương Giang SS4? \n🔥 Link Full mùa 2020-2021: https://bom.to/qKfbwVwv\n🔥 Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2020 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 08h00 Chủ nhật trên VTV3\n     💓 09H00 Chủ nhật trên Mocha & Keeng Movies\n     💓 10h00 Chủ nhật trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn: Lê Quý Giáp & Lê Đức Cường\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Phạm Thanh Hảo\n• D.O.P: Đoàn Ngọc Ước \n• Quay phim: Mai Trùng Khánh; Thái Ngân; Thế Chiến, Ngọc Thắng, Văn Thảo, Tuấn Vũ, Mạnh Cường, Thành Nam, Quang Huy, Huy Tuấn, Vũ Sướng\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Thành Nguyên, Đức Chính, Văn Hà, Minh Tuyến\n• Âm thanh: Đoàn Lộc & Nguyễn Tới\n• Hỗ trợ sản xuất: Văn Hải, Ngọc Hoàng, Anh Tuấn, Triệu Hương, Văn Huệ, Minh Tân\n• Editor: Hải Khoa Lương, Cường Lê, Quý Giáp, Thanh Hảo, Leo Kay; Thanh Liêm, Thanh Tùng, Anh Đức, Hiệp Cine\n• Đồ họa: Phùng Tùng & HaoMi & Hannah Ru & Cao Hà\n• Truyền thông: Nga Nguyễn, Trần Phương, Giang Bùm, Linh Bá\n• Bảo trợ truyền thông: Tiin.vn\n=========================================\nCài ngay app Xgaming tại http://xgaming.com.vn/app để theo dõi và tham gia chảo lửa thách đấu cùng những streamers hot nhất các tựa game\n★ Fanpage:   / xgamingvtm  \n★ Website: http://xgaming.com.vn/\n-----------------------------------------------------------------------------\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bom.to/qKfbwVwv",
+          "text": "https://bom.to/qKfbwVwv"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "http://xgaming.com.vn/app",
+          "text": "http://xgaming.com.vn/app"
+        },
+        {
+          "url": "https://www.facebook.com/xgamingvtm",
+          "text": "  / xgamingvtm  "
+        },
+        {
+          "url": "http://xgaming.com.vn/",
+          "text": "http://xgaming.com.vn/"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 1,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ Trailer tập 5: Diệu Nhi khuyên bạn đào hố chôn thành phẩm nếu đi nặng khi làm nhiệm vụ",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "bnZjNnQU5R0",
+      "url": "https://www.youtube.com/watch?v=bnZjNnQU5R0&list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO&index=35",
+      "thumbnailUrl": "https://i.ytimg.com/vi/bnZjNnQU5R0/maxresdefault.jpg",
+      "viewCount": 1959185,
+      "date": "2021-01-01T03:00:10.000Z",
+      "likes": 19000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:02:46",
+      "commentsCount": 539,
+      "text": "🔥 Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Sao nhập ngũ 2020 – Nữ chiến binh hứa hẹn nhiều bất ngờ với dàn cast đình đàm: Nghệ sỹ Diệu Nhi, Nam Thư, Hoa hậu Kỳ Duyên, Youtuber Hậu Hoàng, Ca sĩ Dương Hoàng Yến, Diễn viên Đỗ Khánh Vân. Trải nghiệm các nội dung tại Lữ đoàn Đặc công bộ, ai sẽ soán ngôi “lầy” của Hoa hậu Hương Giang SS4? \n🔥 Link Full mùa 2020-2021: https://bom.to/qKfbwVwv\n🔥 Đón xem Sao nhập ngũ 2020 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 08h00 Chủ nhật trên VTV3\n     💓 09H00 Chủ nhật trên Mocha & Keeng Movies\n     💓 10h00 Chủ nhật trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn: Lê Quý Giáp & Lê Đức Cường\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Phạm Thanh Hảo\n• D.O.P: Đoàn Ngọc Ước \n• Quay phim: Mai Trùng Khánh; Thái Ngân; Thế Chiến, Ngọc Thắng, Văn Thảo, Tuấn Vũ, Mạnh Cường, Thành Nam, Quang Huy, Huy Tuấn, Vũ Sướng\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Thành Nguyên, Đức Chính, Văn Hà, Minh Tuyến\n• Âm thanh: Đoàn Lộc & Nguyễn Tới\n• Hỗ trợ sản xuất: Văn Hải, Ngọc Hoàng, Anh Tuấn, Triệu Hương, Văn Huệ, Minh Tân\n• Editor: Hải Khoa Lương, Cường Lê, Quý Giáp, Thanh Hảo, Leo Kay; Thanh Liêm, Thanh Tùng, Anh Đức, Hiệp Cine\n• Đồ họa: Phùng Tùng & HaoMi & Hannah Ru & Cao Hà\n• Truyền thông: Nga Nguyễn, Trần Phương, Giang Bùm, Linh Bá\n• Bảo trợ truyền thông: Tiin.vn\n=========================================\nCài ngay app Xgaming tại http://xgaming.com.vn/app để theo dõi và tham gia chảo lửa thách đấu cùng những streamers hot nhất các tựa game\n★ Fanpage:   / xgamingvtm  \n★ Website: http://xgaming.com.vn/\n-----------------------------------------------------------------------------\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "https://bom.to/qKfbwVwv",
+          "text": "https://bom.to/qKfbwVwv"
+        },
+        {
+          "url": "http://xgaming.com.vn/app",
+          "text": "http://xgaming.com.vn/app"
+        },
+        {
+          "url": "https://www.facebook.com/xgamingvtm",
+          "text": "  / xgamingvtm  "
+        },
+        {
+          "url": "http://xgaming.com.vn/",
+          "text": "http://xgaming.com.vn/"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 34,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ 2020 I Replay Tập 4: Vân - Toàn: Couple Chưa Xây Nhà Đã Lợp Mái",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "jLf81Hpae7k",
+      "url": "https://www.youtube.com/watch?v=jLf81Hpae7k&list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO&index=36",
+      "thumbnailUrl": "https://i.ytimg.com/vi/jLf81Hpae7k/maxresdefault.jpg",
+      "viewCount": 295051,
+      "date": "2020-12-31T01:22:09.000Z",
+      "likes": 2500,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:04:29",
+      "commentsCount": 136,
+      "text": "🔥 Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Sao nhập ngũ 2020 – Nữ chiến binh hứa hẹn nhiều bất ngờ với dàn cast đình đàm: Nghệ sỹ Diệu Nhi, Nam Thư, Hoa hậu Kỳ Duyên, Youtuber Hậu Hoàng, Ca sĩ Dương Hoàng Yến, Diễn viên Đỗ Khánh Vân. Trải nghiệm các nội dung tại Lữ đoàn Đặc công bộ, ai sẽ soán ngôi “lầy” của Hoa hậu Hương Giang SS4? \n🔥 Link Full mùa 2020-2021: https://bom.to/qKfbwVwv\n🔥 Đón xem Sao nhập ngũ 2020 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 08h00 Chủ nhật trên VTV3\n     💓 09H00 Chủ nhật trên Mocha & Keeng Movies\n     💓 10h00 Chủ nhật trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn: Lê Quý Giáp & Lê Đức Cường\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Phạm Thanh Hảo\n• D.O.P: Đoàn Ngọc Ước \n• Quay phim: Mai Trùng Khánh; Thái Ngân; Thế Chiến, Ngọc Thắng, Văn Thảo, Tuấn Vũ, Mạnh Cường, Thành Nam, Quang Huy, Huy Tuấn, Vũ Sướng\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Thành Nguyên, Đức Chính, Văn Hà, Minh Tuyến\n• Âm thanh: Đoàn Lộc & Nguyễn Tới\n• Hỗ trợ sản xuất: Văn Hải, Ngọc Hoàng, Anh Tuấn, Triệu Hương, Văn Huệ, Minh Tân\n• Editor: Hải Khoa Lương, Cường Lê, Quý Giáp, Thanh Hảo, Leo Kay; Thanh Liêm, Thanh Tùng, Anh Đức, Hiệp Cine\n• Đồ họa: Phùng Tùng & HaoMi & Hannah Ru & Cao Hà\n• Truyền thông: Nga Nguyễn, Trần Phương, Giang Bùm, Linh Bá\n• Bảo trợ truyền thông: Tiin.vn\n=========================================\nCài ngay app Xgaming tại http://xgaming.com.vn/app để theo dõi và tham gia chảo lửa thách đấu cùng những streamers hot nhất các tựa game\n★ Fanpage:   / xgamingvtm  \n★ Website: http://xgaming.com.vn/\n-----------------------------------------------------------------------------\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "https://bom.to/qKfbwVwv",
+          "text": "https://bom.to/qKfbwVwv"
+        },
+        {
+          "url": "http://xgaming.com.vn/app",
+          "text": "http://xgaming.com.vn/app"
+        },
+        {
+          "url": "https://www.facebook.com/xgamingvtm",
+          "text": "  / xgamingvtm  "
+        },
+        {
+          "url": "http://xgaming.com.vn/",
+          "text": "http://xgaming.com.vn/"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 35,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ 2020 Trailer 2 Tập 5: Thêm 1 chút \"Diệu Nhi\" anh Editor quên bỏ vô trailer",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "FjBBoqceG-o",
+      "url": "https://www.youtube.com/watch?v=FjBBoqceG-o&list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO&index=34",
+      "thumbnailUrl": "https://i.ytimg.com/vi/FjBBoqceG-o/maxresdefault.jpg",
+      "viewCount": 896807,
+      "date": "2021-01-01T03:15:10.000Z",
+      "likes": 7200,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:00:38",
+      "commentsCount": 239,
+      "text": "🔥 Sao nhập ngũ 2020 – Nữ chiến binh hứa hẹn nhiều bất ngờ với dàn cast đình đàm: Nghệ sỹ Diệu Nhi, Nam Thư, Hoa hậu Kỳ Duyên, Youtuber Hậu Hoàng, Ca sĩ Dương Hoàng Yến, Diễn viên Đỗ Khánh Vân. Trải nghiệm các nội dung tại Lữ đoàn Đặc công bộ, ai sẽ soán ngôi “lầy” của Hoa hậu Hương Giang SS4? \n🔥 Link Full mùa 2020-2021: https://bom.to/qKfbwVwv\n🔥 Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2020 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 08h00 Chủ nhật trên VTV3\n     💓 09H00 Chủ nhật trên Mocha & Keeng Movies\n     💓 10h00 Chủ nhật trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn: Lê Quý Giáp & Lê Đức Cường\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Phạm Thanh Hảo\n• D.O.P: Đoàn Ngọc Ước \n• Quay phim: Mai Trùng Khánh; Thái Ngân; Thế Chiến, Ngọc Thắng, Văn Thảo, Tuấn Vũ, Mạnh Cường, Thành Nam, Quang Huy, Huy Tuấn, Vũ Sướng\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Thành Nguyên, Đức Chính, Văn Hà, Minh Tuyến\n• Âm thanh: Đoàn Lộc & Nguyễn Tới\n• Hỗ trợ sản xuất: Văn Hải, Ngọc Hoàng, Anh Tuấn, Triệu Hương, Văn Huệ, Minh Tân\n• Editor: Hải Khoa Lương, Cường Lê, Quý Giáp, Thanh Hảo, Leo Kay; Thanh Liêm, Thanh Tùng, Anh Đức, Hiệp Cine\n• Đồ họa: Phùng Tùng & HaoMi & Hannah Ru & Cao Hà\n• Truyền thông: Nga Nguyễn, Trần Phương, Giang Bùm, Linh Bá\n• Bảo trợ truyền thông: Tiin.vn\n=========================================\nCài ngay app Xgaming tại http://xgaming.com.vn/app để theo dõi và tham gia chảo lửa thách đấu cùng những streamers hot nhất các tựa game\n★ Fanpage:   / xgamingvtm  \n★ Website: http://xgaming.com.vn/\n-----------------------------------------------------------------------------\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bom.to/qKfbwVwv",
+          "text": "https://bom.to/qKfbwVwv"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "http://xgaming.com.vn/app",
+          "text": "http://xgaming.com.vn/app"
+        },
+        {
+          "url": "https://www.facebook.com/xgamingvtm",
+          "text": "  / xgamingvtm  "
+        },
+        {
+          "url": "http://xgaming.com.vn/",
+          "text": "http://xgaming.com.vn/"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 33,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isPaidContent": false
+    },
+    {
+      "title": "Trailer Tập 6 - Sao nhập ngũ 2020 | Diệu Nhi tiết lộ từng \"phi dao\" rọc giấy vào người cũ",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "ep-vO2bo7MQ",
+      "url": "https://www.youtube.com/watch?v=ep-vO2bo7MQ&list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO&index=31",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ep-vO2bo7MQ/maxresdefault.jpg",
+      "viewCount": 1600268,
+      "date": "2021-01-07T13:00:11.000Z",
+      "likes": 20000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:02:42",
+      "commentsCount": 836,
+      "text": "🔥 Sao nhập ngũ 2020 – Nữ chiến binh hứa hẹn nhiều bất ngờ với dàn cast đình đàm: Nghệ sỹ Diệu Nhi, Nam Thư, Hoa hậu Kỳ Duyên, Youtuber Hậu Hoàng, Ca sĩ Dương Hoàng Yến, Diễn viên Đỗ Khánh Vân. Trải nghiệm các nội dung tại Lữ đoàn Đặc công bộ, ai sẽ soán ngôi “lầy” của Hoa hậu Hương Giang SS4? \n🔥 Link Full mùa 2020-2021: https://bom.to/qKfbwVwv\n🔥 Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2020 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 08h00 Chủ nhật trên VTV3\n     💓 09H00 Chủ nhật trên Mocha & Keeng Movies\n     💓 10h00 Chủ nhật trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn: Lê Quý Giáp & Lê Đức Cường\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Phạm Thanh Hảo\n• D.O.P: Đoàn Ngọc Ước \n• Quay phim: Mai Trùng Khánh; Thái Ngân; Thế Chiến, Ngọc Thắng, Văn Thảo, Tuấn Vũ, Mạnh Cường, Thành Nam, Quang Huy, Huy Tuấn, Vũ Sướng\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Thành Nguyên, Đức Chính, Văn Hà, Minh Tuyến\n• Âm thanh: Đoàn Lộc & Nguyễn Tới\n• Hỗ trợ sản xuất: Văn Hải, Ngọc Hoàng, Anh Tuấn, Triệu Hương, Văn Huệ, Minh Tân\n• Editor: Hải Khoa Lương, Cường Lê, Quý Giáp, Thanh Hảo, Leo Kay; Thanh Liêm, Thanh Tùng, Anh Đức, Hiệp Cine\n• Đồ họa: Phùng Tùng & HaoMi & Hannah Ru & Cao Hà\n• Truyền thông: Nga Nguyễn, Trần Phương, Giang Bùm, Linh Bá\n• Bảo trợ truyền thông: Tiin.vn\n=========================================\nCài ngay app Xgaming tại http://xgaming.com.vn/app để theo dõi và tham gia chảo lửa thách đấu cùng những streamers hot nhất các tựa game\n★ Fanpage:   / xgamingvtm  \n★ Website: http://xgaming.com.vn/\n-----------------------------------------------------------------------------\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bom.to/qKfbwVwv",
+          "text": "https://bom.to/qKfbwVwv"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "http://xgaming.com.vn/app",
+          "text": "http://xgaming.com.vn/app"
+        },
+        {
+          "url": "https://www.facebook.com/xgamingvtm",
+          "text": "  / xgamingvtm  "
+        },
+        {
+          "url": "http://xgaming.com.vn/",
+          "text": "http://xgaming.com.vn/"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 30,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isPaidContent": false
+    },
+    {
+      "title": "TRAILER TẬP 9 l Sao nhập ngũ 2020 l Ranh giới bỏ cuộc và đi tiếp Diệu Nhi, Hoàng Yến bật khóc",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "CceXMiP1JpE",
+      "url": "https://www.youtube.com/watch?v=CceXMiP1JpE&list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO&index=23",
+      "thumbnailUrl": "https://i.ytimg.com/vi/CceXMiP1JpE/maxresdefault.jpg",
+      "viewCount": 1184642,
+      "date": "2021-01-29T13:00:13.000Z",
+      "likes": 13000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:04:31",
+      "commentsCount": 765,
+      "text": "🔥 Sao nhập ngũ 2020 – Nữ chiến binh hứa hẹn nhiều bất ngờ với dàn cast đình đàm: Nghệ sỹ Diệu Nhi, Nam Thư, Hoa hậu Kỳ Duyên, Youtuber Hậu Hoàng, Ca sĩ Dương Hoàng Yến, Diễn viên Đỗ Khánh Vân. Trải nghiệm các nội dung tại Lữ đoàn Đặc công bộ, ai sẽ soán ngôi “lầy” của Hoa hậu Hương Giang SS4? \n🔥 Link Full mùa 2020-2021: https://bom.to/qKfbwVwv\n🔥 Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2020 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 08h00 Chủ nhật trên VTV3\n     💓 09H00 Chủ nhật trên Mocha & Keeng Movies\n     💓 10h00 Chủ nhật trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn: Lê Quý Giáp & Lê Đức Cường\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Phạm Thanh Hảo\n• D.O.P: Đoàn Ngọc Ước \n• Quay phim: Mai Trùng Khánh; Thái Ngân; Thế Chiến, Ngọc Thắng, Văn Thảo, Tuấn Vũ, Mạnh Cường, Thành Nam, Quang Huy, Huy Tuấn, Vũ Sướng\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Thành Nguyên, Đức Chính, Văn Hà, Minh Tuyến\n• Âm thanh: Đoàn Lộc & Nguyễn Tới\n• Hỗ trợ sản xuất: Văn Hải, Ngọc Hoàng, Anh Tuấn, Triệu Hương, Văn Huệ, Minh Tân\n• Editor: Hải Khoa Lương, Cường Lê, Quý Giáp, Thanh Hảo, Leo Kay; Thanh Liêm, Thanh Tùng, Anh Đức, Hiệp Cine\n• Đồ họa: Phùng Tùng & HaoMi & Hannah Ru & Cao Hà\n• Truyền thông: Nga Nguyễn, Trần Phương, Giang Bùm, Linh Bá\n• Bảo trợ truyền thông: Tiin.vn\n=========================================\nCài ngay app Xgaming tại http://xgaming.com.vn/app để theo dõi và tham gia chảo lửa thách đấu cùng những streamers hot nhất các tựa game\n★ Fanpage:   / xgamingvtm  \n★ Website: http://xgaming.com.vn/\n-----------------------------------------------------------------------------\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bom.to/qKfbwVwv",
+          "text": "https://bom.to/qKfbwVwv"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "http://xgaming.com.vn/app",
+          "text": "http://xgaming.com.vn/app"
+        },
+        {
+          "url": "https://www.facebook.com/xgamingvtm",
+          "text": "  / xgamingvtm  "
+        },
+        {
+          "url": "http://xgaming.com.vn/",
+          "text": "http://xgaming.com.vn/"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 22,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isPaidContent": false
+    },
+    {
+      "title": "Giải mã chiến hạm Long & Hậu | SNN 2020 Chuyện bên lề | Hậu Hoàng ngơ ngác bị đẩy lên thuyền",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "IRdvmln8mB8",
+      "url": "https://www.youtube.com/watch?v=IRdvmln8mB8&list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO&index=6",
+      "thumbnailUrl": "https://i.ytimg.com/vi/IRdvmln8mB8/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgVChGMA8=&rs=AOn4CLC6JkmJ1TOqlBTNDqIu9xd0aDG5cg",
+      "viewCount": 732866,
+      "date": "2021-03-28T03:00:16.000Z",
+      "likes": 12000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:08:55",
+      "commentsCount": 1082,
+      "text": "🔥 Sao nhập ngũ 2020 – Nữ chiến binh hứa hẹn nhiều bất ngờ với dàn cast đình đàm: Nghệ sỹ Diệu Nhi, Nam Thư, Hoa hậu Kỳ Duyên, Youtuber Hậu Hoàng, Ca sĩ Dương Hoàng Yến, Diễn viên Đỗ Khánh Vân. Trải nghiệm các nội dung tại Lữ đoàn Đặc công bộ, ai sẽ soán ngôi “lầy” của Hoa hậu Hương Giang SS4? \n🔥 Link Full mùa 2020-2021: https://bom.to/qKfbwVwv\n🔥 Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2020 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 08h00 Chủ nhật trên VTV3\n     💓 09H00 Chủ nhật trên Mocha & Keeng Movies\n     💓 10h00 Chủ nhật trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn: Lê Quý Giáp & Lê Đức Cường\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Phạm Thanh Hảo\n• D.O.P: Đoàn Ngọc Ước \n• Quay phim: Mai Trùng Khánh; Thái Ngân; Thế Chiến, Ngọc Thắng, Văn Thảo, Tuấn Vũ, Mạnh Cường, Thành Nam, Quang Huy, Huy Tuấn, Vũ Sướng\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Thành Nguyên, Đức Chính, Văn Hà, Minh Tuyến\n• Âm thanh: Đoàn Lộc & Nguyễn Tới\n• Hỗ trợ sản xuất: Văn Hải, Ngọc Hoàng, Anh Tuấn, Triệu Hương, Văn Huệ, Minh Tân\n• Editor: Hải Khoa Lương, Cường Lê, Quý Giáp, Thanh Hảo, Leo Kay; Thanh Liêm, Thanh Tùng, Anh Đức, Hiệp Cine\n• Đồ họa: Phùng Tùng & HaoMi & Hannah Ru & Cao Hà\n• Truyền thông: Nga Nguyễn, Trần Phương, Giang Bùm, Linh Bá\n• Bảo trợ truyền thông: Tiin.vn\n=========================================\nCài ngay app Xgaming tại http://xgaming.com.vn/app để theo dõi và tham gia chảo lửa thách đấu cùng những streamers hot nhất các tựa game\n★ Fanpage:   / xgamingvtm  \n★ Website: http://xgaming.com.vn/\n-----------------------------------------------------------------------------\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bom.to/qKfbwVwv",
+          "text": "https://bom.to/qKfbwVwv"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "http://xgaming.com.vn/app",
+          "text": "http://xgaming.com.vn/app"
+        },
+        {
+          "url": "https://www.facebook.com/xgamingvtm",
+          "text": "  / xgamingvtm  "
+        },
+        {
+          "url": "http://xgaming.com.vn/",
+          "text": "http://xgaming.com.vn/"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 5,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tập 6 Full |Sao nhập ngũ 2020 |Hậu Hoàng băng băng leo tường, trai đẹp xuất hiện làm nao lòng chị em",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "qbJtMTbtY7M",
+      "url": "https://www.youtube.com/watch?v=qbJtMTbtY7M&list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO&index=29",
+      "thumbnailUrl": "https://i.ytimg.com/vi/qbJtMTbtY7M/maxresdefault.jpg",
+      "viewCount": 12554106,
+      "date": "2021-01-10T03:00:26.000Z",
+      "likes": 123000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:56:53",
+      "commentsCount": 8251,
+      "text": "🔥 Sao nhập ngũ 2020 – Nữ chiến binh hứa hẹn nhiều bất ngờ với dàn cast đình đàm: Nghệ sỹ Diệu Nhi, Nam Thư, Hoa hậu Kỳ Duyên, Youtuber Hậu Hoàng, Ca sĩ Dương Hoàng Yến, Diễn viên Đỗ Khánh Vân. Trải nghiệm các nội dung tại Lữ đoàn Đặc công bộ, ai sẽ soán ngôi “lầy” của Hoa hậu Hương Giang SS4? \n🔥 Link Full mùa 2020-2021: https://bom.to/qKfbwVwv\n🔥 Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2020 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 08h00 Chủ nhật trên VTV3\n     💓 09H00 Chủ nhật trên Mocha & Keeng Movies\n     💓 10h00 Chủ nhật trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn: Lê Quý Giáp & Lê Đức Cường\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Phạm Thanh Hảo\n• D.O.P: Đoàn Ngọc Ước \n• Quay phim: Mai Trùng Khánh; Thái Ngân; Thế Chiến, Ngọc Thắng, Văn Thảo, Tuấn Vũ, Mạnh Cường, Thành Nam, Quang Huy, Huy Tuấn, Vũ Sướng\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Thành Nguyên, Đức Chính, Văn Hà, Minh Tuyến\n• Âm thanh: Đoàn Lộc & Nguyễn Tới\n• Hỗ trợ sản xuất: Văn Hải, Ngọc Hoàng, Anh Tuấn, Triệu Hương, Văn Huệ, Minh Tân\n• Editor: Hải Khoa Lương, Cường Lê, Quý Giáp, Thanh Hảo, Leo Kay; Thanh Liêm, Thanh Tùng, Anh Đức, Hiệp Cine\n• Đồ họa: Phùng Tùng & HaoMi & Hannah Ru & Cao Hà\n• Truyền thông: Nga Nguyễn, Trần Phương, Giang Bùm, Linh Bá\n• Bảo trợ truyền thông: Tiin.vn\n=========================================\nCài ngay app Xgaming tại http://xgaming.com.vn/app để theo dõi và tham gia chảo lửa thách đấu cùng những streamers hot nhất các tựa game\n★ Fanpage:   / xgamingvtm  \n★ Website: http://xgaming.com.vn/\n-----------------------------------------------------------------------------\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bom.to/qKfbwVwv",
+          "text": "https://bom.to/qKfbwVwv"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "http://xgaming.com.vn/app",
+          "text": "http://xgaming.com.vn/app"
+        },
+        {
+          "url": "https://www.facebook.com/xgamingvtm",
+          "text": "  / xgamingvtm  "
+        },
+        {
+          "url": "http://xgaming.com.vn/",
+          "text": "http://xgaming.com.vn/"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 28,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isPaidContent": false
+    },
+    {
+      "title": "SNN NGOẠI TRUYỆN | Kỳ Duyên trải lòng hành trình “nhập ngũ” và thực hiện thiện nguyện ý nghĩa!!!",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "P0RqU3qr9UA",
+      "url": "https://www.youtube.com/watch?v=P0RqU3qr9UA&list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO&index=3",
+      "thumbnailUrl": "https://i.ytimg.com/vi/P0RqU3qr9UA/maxresdefault.jpg",
+      "viewCount": 293901,
+      "date": "2021-04-18T08:00:29.000Z",
+      "likes": 4000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:22:15",
+      "commentsCount": 456,
+      "text": "🔥 Sao nhập ngũ 2020 – Nữ chiến binh hứa hẹn nhiều bất ngờ với dàn cast đình đàm: Nghệ sỹ Diệu Nhi, Nam Thư, Hoa hậu Kỳ Duyên, Youtuber Hậu Hoàng, Ca sĩ Dương Hoàng Yến, Diễn viên Đỗ Khánh Vân. Trải nghiệm các nội dung tại Lữ đoàn Đặc công bộ, ai sẽ soán ngôi “lầy” của Hoa hậu Hương Giang SS4? \n🔥 Link Full mùa 2020-2021: https://bom.to/qKfbwVwv\n🔥 Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2020 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 08h00 Chủ nhật trên VTV3\n     💓 09H00 Chủ nhật trên Mocha & Keeng Movies\n     💓 10h00 Chủ nhật trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn: Lê Quý Giáp & Lê Đức Cường\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Phạm Thanh Hảo\n• D.O.P: Đoàn Ngọc Ước \n• Quay phim: Mai Trùng Khánh; Thái Ngân; Thế Chiến, Ngọc Thắng, Văn Thảo, Tuấn Vũ, Mạnh Cường, Thành Nam, Quang Huy, Huy Tuấn, Vũ Sướng\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Thành Nguyên, Đức Chính, Văn Hà, Minh Tuyến\n• Âm thanh: Đoàn Lộc & Nguyễn Tới\n• Hỗ trợ sản xuất: Văn Hải, Ngọc Hoàng, Anh Tuấn, Triệu Hương, Văn Huệ, Minh Tân\n• Editor: Hải Khoa Lương, Cường Lê, Quý Giáp, Thanh Hảo, Leo Kay; Thanh Liêm, Thanh Tùng, Anh Đức, Hiệp Cine\n• Đồ họa: Phùng Tùng & HaoMi & Hannah Ru & Cao Hà\n• Truyền thông: Nga Nguyễn, Trần Phương, Giang Bùm, Linh Bá\n• Bảo trợ truyền thông: Tiin.vn\n=========================================\nCài ngay app Xgaming tại http://xgaming.com.vn/app để theo dõi và tham gia chảo lửa thách đấu cùng những streamers hot nhất các tựa game\n★ Fanpage:   / xgamingvtm  \n★ Website: http://xgaming.com.vn/\n-----------------------------------------------------------------------------\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bom.to/qKfbwVwv",
+          "text": "https://bom.to/qKfbwVwv"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "http://xgaming.com.vn/app",
+          "text": "http://xgaming.com.vn/app"
+        },
+        {
+          "url": "https://www.facebook.com/xgamingvtm",
+          "text": "  / xgamingvtm  "
+        },
+        {
+          "url": "http://xgaming.com.vn/",
+          "text": "http://xgaming.com.vn/"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 2,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isPaidContent": false
+    },
+    {
+      "title": "Trailer Tập 7 l SNN 2020 l Diệu Nhi trổ tài ca hát, tiếng hét thất thanh của Hậu Hoàng & Kỳ Duyên",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "vg3SfpPjH2Q",
+      "url": "https://www.youtube.com/watch?v=vg3SfpPjH2Q&list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO&index=28",
+      "thumbnailUrl": "https://i.ytimg.com/vi/vg3SfpPjH2Q/maxresdefault.jpg",
+      "viewCount": 1425430,
+      "date": "2021-01-14T13:00:11.000Z",
+      "likes": 16000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:03:23",
+      "commentsCount": 704,
+      "text": "🔥 Sao nhập ngũ 2020 – Nữ chiến binh hứa hẹn nhiều bất ngờ với dàn cast đình đàm: Nghệ sỹ Diệu Nhi, Nam Thư, Hoa hậu Kỳ Duyên, Youtuber Hậu Hoàng, Ca sĩ Dương Hoàng Yến, Diễn viên Đỗ Khánh Vân. Trải nghiệm các nội dung tại Lữ đoàn Đặc công bộ, ai sẽ soán ngôi “lầy” của Hoa hậu Hương Giang SS4? \n🔥 Link Full mùa 2020-2021: https://bom.to/qKfbwVwv\n🔥 Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2020 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 08h00 Chủ nhật trên VTV3\n     💓 09H00 Chủ nhật trên Mocha & Keeng Movies\n     💓 10h00 Chủ nhật trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn: Lê Quý Giáp & Lê Đức Cường\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Phạm Thanh Hảo\n• D.O.P: Đoàn Ngọc Ước \n• Quay phim: Mai Trùng Khánh; Thái Ngân; Thế Chiến, Ngọc Thắng, Văn Thảo, Tuấn Vũ, Mạnh Cường, Thành Nam, Quang Huy, Huy Tuấn, Vũ Sướng\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Thành Nguyên, Đức Chính, Văn Hà, Minh Tuyến\n• Âm thanh: Đoàn Lộc & Nguyễn Tới\n• Hỗ trợ sản xuất: Văn Hải, Ngọc Hoàng, Anh Tuấn, Triệu Hương, Văn Huệ, Minh Tân\n• Editor: Hải Khoa Lương, Cường Lê, Quý Giáp, Thanh Hảo, Leo Kay; Thanh Liêm, Thanh Tùng, Anh Đức, Hiệp Cine\n• Đồ họa: Phùng Tùng & HaoMi & Hannah Ru & Cao Hà\n• Truyền thông: Nga Nguyễn, Trần Phương, Giang Bùm, Linh Bá\n• Bảo trợ truyền thông: Tiin.vn\n=========================================\nCài ngay app Xgaming tại http://xgaming.com.vn/app để theo dõi và tham gia chảo lửa thách đấu cùng những streamers hot nhất các tựa game\n★ Fanpage:   / xgamingvtm  \n★ Website: http://xgaming.com.vn/\n-----------------------------------------------------------------------------\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bom.to/qKfbwVwv",
+          "text": "https://bom.to/qKfbwVwv"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "http://xgaming.com.vn/app",
+          "text": "http://xgaming.com.vn/app"
+        },
+        {
+          "url": "https://www.facebook.com/xgamingvtm",
+          "text": "  / xgamingvtm  "
+        },
+        {
+          "url": "http://xgaming.com.vn/",
+          "text": "http://xgaming.com.vn/"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 27,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isPaidContent": false
+    },
+    {
+      "title": "TRAILER TẬP 16 | SNN 2020 | Phút chia tay cận kề, đồng đội tâm tình, 6 nữ chiến binh bịn rịn!!!",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "NIK4fqsa0x4",
+      "url": "https://www.youtube.com/watch?v=NIK4fqsa0x4&list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO&index=8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/NIK4fqsa0x4/maxresdefault.jpg",
+      "viewCount": 1040894,
+      "date": "2021-03-20T11:00:14.000Z",
+      "likes": 12000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:07:57",
+      "commentsCount": 1012,
+      "text": "🔥 Sao nhập ngũ 2020 – Nữ chiến binh hứa hẹn nhiều bất ngờ với dàn cast đình đàm: Nghệ sỹ Diệu Nhi, Nam Thư, Hoa hậu Kỳ Duyên, Youtuber Hậu Hoàng, Ca sĩ Dương Hoàng Yến, Diễn viên Đỗ Khánh Vân. Trải nghiệm các nội dung tại Lữ đoàn Đặc công bộ, ai sẽ soán ngôi “lầy” của Hoa hậu Hương Giang SS4? \n🔥 Link Full mùa 2020-2021: https://bom.to/qKfbwVwv\n🔥 Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2020 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 08h00 Chủ nhật trên VTV3\n     💓 09H00 Chủ nhật trên Mocha & Keeng Movies\n     💓 10h00 Chủ nhật trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn: Lê Quý Giáp & Lê Đức Cường\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Phạm Thanh Hảo\n• D.O.P: Đoàn Ngọc Ước \n• Quay phim: Mai Trùng Khánh; Thái Ngân; Thế Chiến, Ngọc Thắng, Văn Thảo, Tuấn Vũ, Mạnh Cường, Thành Nam, Quang Huy, Huy Tuấn, Vũ Sướng\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Thành Nguyên, Đức Chính, Văn Hà, Minh Tuyến\n• Âm thanh: Đoàn Lộc & Nguyễn Tới\n• Hỗ trợ sản xuất: Văn Hải, Ngọc Hoàng, Anh Tuấn, Triệu Hương, Văn Huệ, Minh Tân\n• Editor: Hải Khoa Lương, Cường Lê, Quý Giáp, Thanh Hảo, Leo Kay; Thanh Liêm, Thanh Tùng, Anh Đức, Hiệp Cine\n• Đồ họa: Phùng Tùng & HaoMi & Hannah Ru & Cao Hà\n• Truyền thông: Nga Nguyễn, Trần Phương, Giang Bùm, Linh Bá\n• Bảo trợ truyền thông: Tiin.vn\n=========================================\nCài ngay app Xgaming tại http://xgaming.com.vn/app để theo dõi và tham gia chảo lửa thách đấu cùng những streamers hot nhất các tựa game\n★ Fanpage:   / xgamingvtm  \n★ Website: http://xgaming.com.vn/\n-----------------------------------------------------------------------------\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bom.to/qKfbwVwv",
+          "text": "https://bom.to/qKfbwVwv"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "http://xgaming.com.vn/app",
+          "text": "http://xgaming.com.vn/app"
+        },
+        {
+          "url": "https://www.facebook.com/xgamingvtm",
+          "text": "  / xgamingvtm  "
+        },
+        {
+          "url": "http://xgaming.com.vn/",
+          "text": "http://xgaming.com.vn/"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 7,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isPaidContent": false
+    },
+    {
+      "title": "TRAILER TẬP 15 l SNN 2020 l Diệu Nhi nghĩ hành quân chỉ là đi bộ, Hậu Hoàng vừa đi vừa Rap cực ngầu",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "cm4PBgbPL_g",
+      "url": "https://www.youtube.com/watch?v=cm4PBgbPL_g&list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO&index=10",
+      "thumbnailUrl": "https://i.ytimg.com/vi/cm4PBgbPL_g/maxresdefault.jpg",
+      "viewCount": 751832,
+      "date": "2021-03-13T03:45:13.000Z",
+      "likes": 8100,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:06:14",
+      "commentsCount": 563,
+      "text": "🔥 Sao nhập ngũ 2020 – Nữ chiến binh hứa hẹn nhiều bất ngờ với dàn cast đình đàm: Nghệ sỹ Diệu Nhi, Nam Thư, Hoa hậu Kỳ Duyên, Youtuber Hậu Hoàng, Ca sĩ Dương Hoàng Yến, Diễn viên Đỗ Khánh Vân. Trải nghiệm các nội dung tại Lữ đoàn Đặc công bộ, ai sẽ soán ngôi “lầy” của Hoa hậu Hương Giang SS4? \n🔥 Link Full mùa 2020-2021: https://bom.to/qKfbwVwv\n🔥 Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2020 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 08h00 Chủ nhật trên VTV3\n     💓 09H00 Chủ nhật trên Mocha & Keeng Movies\n     💓 10h00 Chủ nhật trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn: Lê Quý Giáp & Lê Đức Cường\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Phạm Thanh Hảo\n• D.O.P: Đoàn Ngọc Ước \n• Quay phim: Mai Trùng Khánh; Thái Ngân; Thế Chiến, Ngọc Thắng, Văn Thảo, Tuấn Vũ, Mạnh Cường, Thành Nam, Quang Huy, Huy Tuấn, Vũ Sướng\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Thành Nguyên, Đức Chính, Văn Hà, Minh Tuyến\n• Âm thanh: Đoàn Lộc & Nguyễn Tới\n• Hỗ trợ sản xuất: Văn Hải, Ngọc Hoàng, Anh Tuấn, Triệu Hương, Văn Huệ, Minh Tân\n• Editor: Hải Khoa Lương, Cường Lê, Quý Giáp, Thanh Hảo, Leo Kay; Thanh Liêm, Thanh Tùng, Anh Đức, Hiệp Cine\n• Đồ họa: Phùng Tùng & HaoMi & Hannah Ru & Cao Hà\n• Truyền thông: Nga Nguyễn, Trần Phương, Giang Bùm, Linh Bá\n• Bảo trợ truyền thông: Tiin.vn\n=========================================\nCài ngay app Xgaming tại http://xgaming.com.vn/app để theo dõi và tham gia chảo lửa thách đấu cùng những streamers hot nhất các tựa game\n★ Fanpage:   / xgamingvtm  \n★ Website: http://xgaming.com.vn/\n-----------------------------------------------------------------------------\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bom.to/qKfbwVwv",
+          "text": "https://bom.to/qKfbwVwv"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "http://xgaming.com.vn/app",
+          "text": "http://xgaming.com.vn/app"
+        },
+        {
+          "url": "https://www.facebook.com/xgamingvtm",
+          "text": "  / xgamingvtm  "
+        },
+        {
+          "url": "http://xgaming.com.vn/",
+          "text": "http://xgaming.com.vn/"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 9,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isPaidContent": false
+    },
+    {
+      "title": "TẬP 13 Uncut | SNN 2020 | Diệu Nhi gọi đồng chí Sơn trong lúc bị thương, Kỳ Duyên nỗ lực “cân team”",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "KN08r90TYwg",
+      "url": "https://www.youtube.com/watch?v=KN08r90TYwg&list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO&index=13",
+      "thumbnailUrl": "https://i.ytimg.com/vi/KN08r90TYwg/maxresdefault.jpg",
+      "viewCount": 7045756,
+      "date": "2021-02-28T03:00:17.000Z",
+      "likes": 58000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:55:49",
+      "commentsCount": 4072,
+      "text": "🔥 Sao nhập ngũ 2020 – Nữ chiến binh hứa hẹn nhiều bất ngờ với dàn cast đình đàm: Nghệ sỹ Diệu Nhi, Nam Thư, Hoa hậu Kỳ Duyên, Youtuber Hậu Hoàng, Ca sĩ Dương Hoàng Yến, Diễn viên Đỗ Khánh Vân. Trải nghiệm các nội dung tại Lữ đoàn Đặc công bộ, ai sẽ soán ngôi “lầy” của Hoa hậu Hương Giang SS4? \n🔥 Link Full mùa 2020-2021: https://bom.to/qKfbwVwv\n🔥 Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2020 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 08h00 Chủ nhật trên VTV3\n     💓 09H00 Chủ nhật trên Mocha & Keeng Movies\n     💓 10h00 Chủ nhật trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn: Lê Quý Giáp & Lê Đức Cường\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Phạm Thanh Hảo\n• D.O.P: Đoàn Ngọc Ước \n• Quay phim: Mai Trùng Khánh; Thái Ngân; Thế Chiến, Ngọc Thắng, Văn Thảo, Tuấn Vũ, Mạnh Cường, Thành Nam, Quang Huy, Huy Tuấn, Vũ Sướng\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Thành Nguyên, Đức Chính, Văn Hà, Minh Tuyến\n• Âm thanh: Đoàn Lộc & Nguyễn Tới\n• Hỗ trợ sản xuất: Văn Hải, Ngọc Hoàng, Anh Tuấn, Triệu Hương, Văn Huệ, Minh Tân\n• Editor: Hải Khoa Lương, Cường Lê, Quý Giáp, Thanh Hảo, Leo Kay; Thanh Liêm, Thanh Tùng, Anh Đức, Hiệp Cine\n• Đồ họa: Phùng Tùng & HaoMi & Hannah Ru & Cao Hà\n• Truyền thông: Nga Nguyễn, Trần Phương, Giang Bùm, Linh Bá\n• Bảo trợ truyền thông: Tiin.vn\n=========================================\nCài ngay app Xgaming tại http://xgaming.com.vn/app để theo dõi và tham gia chảo lửa thách đấu cùng những streamers hot nhất các tựa game\n★ Fanpage:   / xgamingvtm  \n★ Website: http://xgaming.com.vn/\n-----------------------------------------------------------------------------\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bom.to/qKfbwVwv",
+          "text": "https://bom.to/qKfbwVwv"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "http://xgaming.com.vn/app",
+          "text": "http://xgaming.com.vn/app"
+        },
+        {
+          "url": "https://www.facebook.com/xgamingvtm",
+          "text": "  / xgamingvtm  "
+        },
+        {
+          "url": "http://xgaming.com.vn/",
+          "text": "http://xgaming.com.vn/"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 12,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ 2020 | Tập 5 |Nam Thư chấn thương nặng, Diệu Nhi, Hậu Hoàng cảm phục chiến sĩ đặc công!",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "lUbc97BUWIY",
+      "url": "https://www.youtube.com/watch?v=lUbc97BUWIY&list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO&index=33",
+      "thumbnailUrl": "https://i.ytimg.com/vi/lUbc97BUWIY/maxresdefault.jpg",
+      "viewCount": 12328519,
+      "date": "2021-01-03T03:00:50.000Z",
+      "likes": 119000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:43:45",
+      "commentsCount": 8434,
+      "text": "🔥 Sao nhập ngũ 2020 – Nữ chiến binh hứa hẹn nhiều bất ngờ với dàn cast đình đàm: Nghệ sỹ Diệu Nhi, Nam Thư, Hoa hậu Kỳ Duyên, Youtuber Hậu Hoàng, Ca sĩ Dương Hoàng Yến, Diễn viên Đỗ Khánh Vân. Trải nghiệm các nội dung tại Lữ đoàn Đặc công bộ, ai sẽ soán ngôi “lầy” của Hoa hậu Hương Giang SS4? \n🔥 Link Full mùa 2020-2021: https://bom.to/qKfbwVwv\n🔥 Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2020 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 08h00 Chủ nhật trên VTV3\n     💓 09H00 Chủ nhật trên Mocha & Keeng Movies\n     💓 10h00 Chủ nhật trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn: Lê Quý Giáp & Lê Đức Cường\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Phạm Thanh Hảo\n• D.O.P: Đoàn Ngọc Ước \n• Quay phim: Mai Trùng Khánh; Thái Ngân; Thế Chiến, Ngọc Thắng, Văn Thảo, Tuấn Vũ, Mạnh Cường, Thành Nam, Quang Huy, Huy Tuấn, Vũ Sướng\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Thành Nguyên, Đức Chính, Văn Hà, Minh Tuyến\n• Âm thanh: Đoàn Lộc & Nguyễn Tới\n• Hỗ trợ sản xuất: Văn Hải, Ngọc Hoàng, Anh Tuấn, Triệu Hương, Văn Huệ, Minh Tân\n• Editor: Hải Khoa Lương, Cường Lê, Quý Giáp, Thanh Hảo, Leo Kay; Thanh Liêm, Thanh Tùng, Anh Đức, Hiệp Cine\n• Đồ họa: Phùng Tùng & HaoMi & Hannah Ru & Cao Hà\n• Truyền thông: Nga Nguyễn, Trần Phương, Giang Bùm, Linh Bá\n• Bảo trợ truyền thông: Tiin.vn\n=========================================\nCài ngay app Xgaming tại http://xgaming.com.vn/app để theo dõi và tham gia chảo lửa thách đấu cùng những streamers hot nhất các tựa game\n★ Fanpage:   / xgamingvtm  \n★ Website: http://xgaming.com.vn/\n-----------------------------------------------------------------------------\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bom.to/qKfbwVwv",
+          "text": "https://bom.to/qKfbwVwv"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "http://xgaming.com.vn/app",
+          "text": "http://xgaming.com.vn/app"
+        },
+        {
+          "url": "https://www.facebook.com/xgamingvtm",
+          "text": "  / xgamingvtm  "
+        },
+        {
+          "url": "http://xgaming.com.vn/",
+          "text": "http://xgaming.com.vn/"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 32,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isPaidContent": false
+    },
+    {
+      "title": "HÓNG TẬP 7 | Hậu Hoàng, Kỳ Duyên đi gác, người lo lắng, người đanh như thép, hạ địch trong tích tắc",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "S-mzNdxBhvA",
+      "url": "https://www.youtube.com/watch?v=S-mzNdxBhvA&list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO&index=27",
+      "thumbnailUrl": "https://i.ytimg.com/vi/S-mzNdxBhvA/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgWihDMA8=&rs=AOn4CLDKSo_MbymVooN8hfUDT4MpDtk_xA",
+      "viewCount": 667341,
+      "date": "2021-01-16T08:30:10.000Z",
+      "likes": 6700,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:02:32",
+      "commentsCount": 276,
+      "text": "🔥 Sao nhập ngũ 2020 – Nữ chiến binh hứa hẹn nhiều bất ngờ với dàn cast đình đàm: Nghệ sỹ Diệu Nhi, Nam Thư, Hoa hậu Kỳ Duyên, Youtuber Hậu Hoàng, Ca sĩ Dương Hoàng Yến, Diễn viên Đỗ Khánh Vân. Trải nghiệm các nội dung tại Lữ đoàn Đặc công bộ, ai sẽ soán ngôi “lầy” của Hoa hậu Hương Giang SS4? \n🔥 Link Full mùa 2020-2021: https://bom.to/qKfbwVwv\n🔥 Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2020 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 08h00 Chủ nhật trên VTV3\n     💓 09H00 Chủ nhật trên Mocha & Keeng Movies\n     💓 10h00 Chủ nhật trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn: Lê Quý Giáp & Lê Đức Cường\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Phạm Thanh Hảo\n• D.O.P: Đoàn Ngọc Ước \n• Quay phim: Mai Trùng Khánh; Thái Ngân; Thế Chiến, Ngọc Thắng, Văn Thảo, Tuấn Vũ, Mạnh Cường, Thành Nam, Quang Huy, Huy Tuấn, Vũ Sướng\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Thành Nguyên, Đức Chính, Văn Hà, Minh Tuyến\n• Âm thanh: Đoàn Lộc & Nguyễn Tới\n• Hỗ trợ sản xuất: Văn Hải, Ngọc Hoàng, Anh Tuấn, Triệu Hương, Văn Huệ, Minh Tân\n• Editor: Hải Khoa Lương, Cường Lê, Quý Giáp, Thanh Hảo, Leo Kay; Thanh Liêm, Thanh Tùng, Anh Đức, Hiệp Cine\n• Đồ họa: Phùng Tùng & HaoMi & Hannah Ru & Cao Hà\n• Truyền thông: Nga Nguyễn, Trần Phương, Giang Bùm, Linh Bá\n• Bảo trợ truyền thông: Tiin.vn\n=========================================\nCài ngay app Xgaming tại http://xgaming.com.vn/app để theo dõi và tham gia chảo lửa thách đấu cùng những streamers hot nhất các tựa game\n★ Fanpage:   / xgamingvtm  \n★ Website: http://xgaming.com.vn/\n-----------------------------------------------------------------------------\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bom.to/qKfbwVwv",
+          "text": "https://bom.to/qKfbwVwv"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "http://xgaming.com.vn/app",
+          "text": "http://xgaming.com.vn/app"
+        },
+        {
+          "url": "https://www.facebook.com/xgamingvtm",
+          "text": "  / xgamingvtm  "
+        },
+        {
+          "url": "http://xgaming.com.vn/",
+          "text": "http://xgaming.com.vn/"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 26,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tập 7 Full | Sao nhập ngũ 2020 | Diệu Nhi leo dây bứt phá không ngờ, Kỳ Duyên vượt khó xuất sắc",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "TXC8CG2NcRY",
+      "url": "https://www.youtube.com/watch?v=TXC8CG2NcRY&list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO&index=26",
+      "thumbnailUrl": "https://i.ytimg.com/vi/TXC8CG2NcRY/maxresdefault.jpg",
+      "viewCount": 10610740,
+      "date": "2021-01-17T03:10:15.000Z",
+      "likes": 104000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:58:37",
+      "commentsCount": 6980,
+      "text": "🔥 Sao nhập ngũ 2020 – Nữ chiến binh hứa hẹn nhiều bất ngờ với dàn cast đình đàm: Nghệ sỹ Diệu Nhi, Nam Thư, Hoa hậu Kỳ Duyên, Youtuber Hậu Hoàng, Ca sĩ Dương Hoàng Yến, Diễn viên Đỗ Khánh Vân. Trải nghiệm các nội dung tại Lữ đoàn Đặc công bộ, ai sẽ soán ngôi “lầy” của Hoa hậu Hương Giang SS4? \n🔥 Link Full mùa 2020-2021: https://bom.to/qKfbwVwv\n🔥 Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2020 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 08h00 Chủ nhật trên VTV3\n     💓 09H00 Chủ nhật trên Mocha & Keeng Movies\n     💓 10h00 Chủ nhật trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn: Lê Quý Giáp & Lê Đức Cường\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Phạm Thanh Hảo\n• D.O.P: Đoàn Ngọc Ước \n• Quay phim: Mai Trùng Khánh; Thái Ngân; Thế Chiến, Ngọc Thắng, Văn Thảo, Tuấn Vũ, Mạnh Cường, Thành Nam, Quang Huy, Huy Tuấn, Vũ Sướng\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Thành Nguyên, Đức Chính, Văn Hà, Minh Tuyến\n• Âm thanh: Đoàn Lộc & Nguyễn Tới\n• Hỗ trợ sản xuất: Văn Hải, Ngọc Hoàng, Anh Tuấn, Triệu Hương, Văn Huệ, Minh Tân\n• Editor: Hải Khoa Lương, Cường Lê, Quý Giáp, Thanh Hảo, Leo Kay; Thanh Liêm, Thanh Tùng, Anh Đức, Hiệp Cine\n• Đồ họa: Phùng Tùng & HaoMi & Hannah Ru & Cao Hà\n• Truyền thông: Nga Nguyễn, Trần Phương, Giang Bùm, Linh Bá\n• Bảo trợ truyền thông: Tiin.vn\n=========================================\nCài ngay app Xgaming tại http://xgaming.com.vn/app để theo dõi và tham gia chảo lửa thách đấu cùng những streamers hot nhất các tựa game\n★ Fanpage:   / xgamingvtm  \n★ Website: http://xgaming.com.vn/\n-----------------------------------------------------------------------------\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bom.to/qKfbwVwv",
+          "text": "https://bom.to/qKfbwVwv"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "http://xgaming.com.vn/app",
+          "text": "http://xgaming.com.vn/app"
+        },
+        {
+          "url": "https://www.facebook.com/xgamingvtm",
+          "text": "  / xgamingvtm  "
+        },
+        {
+          "url": "http://xgaming.com.vn/",
+          "text": "http://xgaming.com.vn/"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 25,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isPaidContent": false
+    },
+    {
+      "title": "TẬP CUỐI l SNN 2020 l Màn boxing \"tấu hài\" và những phân đoạn chưa từng lên sóng!!!",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "O3vJALe-xnM",
+      "url": "https://www.youtube.com/watch?v=O3vJALe-xnM&list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO&index=7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/O3vJALe-xnM/maxresdefault.jpg",
+      "viewCount": 8681525,
+      "date": "2021-03-21T03:00:14.000Z",
+      "likes": 74000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "01:33:38",
+      "commentsCount": 6812,
+      "text": "🔥 Sao nhập ngũ 2020 – Nữ chiến binh hứa hẹn nhiều bất ngờ với dàn cast đình đàm: Nghệ sỹ Diệu Nhi, Nam Thư, Hoa hậu Kỳ Duyên, Youtuber Hậu Hoàng, Ca sĩ Dương Hoàng Yến, Diễn viên Đỗ Khánh Vân. Trải nghiệm các nội dung tại Lữ đoàn Đặc công bộ, ai sẽ soán ngôi “lầy” của Hoa hậu Hương Giang SS4? \n🔥 Link Full mùa 2020-2021: https://bom.to/qKfbwVwv\n🔥 Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2020 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 08h00 Chủ nhật trên VTV3\n     💓 09H00 Chủ nhật trên Mocha & Keeng Movies\n     💓 10h00 Chủ nhật trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn: Lê Quý Giáp & Lê Đức Cường\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Phạm Thanh Hảo\n• D.O.P: Đoàn Ngọc Ước \n• Quay phim: Mai Trùng Khánh; Thái Ngân; Thế Chiến, Ngọc Thắng, Văn Thảo, Tuấn Vũ, Mạnh Cường, Thành Nam, Quang Huy, Huy Tuấn, Vũ Sướng\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Thành Nguyên, Đức Chính, Văn Hà, Minh Tuyến\n• Âm thanh: Đoàn Lộc & Nguyễn Tới\n• Hỗ trợ sản xuất: Văn Hải, Ngọc Hoàng, Anh Tuấn, Triệu Hương, Văn Huệ, Minh Tân\n• Editor: Hải Khoa Lương, Cường Lê, Quý Giáp, Thanh Hảo, Leo Kay; Thanh Liêm, Thanh Tùng, Anh Đức, Hiệp Cine\n• Đồ họa: Phùng Tùng & HaoMi & Hannah Ru & Cao Hà\n• Truyền thông: Nga Nguyễn, Trần Phương, Giang Bùm, Linh Bá\n• Bảo trợ truyền thông: Tiin.vn\n=========================================\nCài ngay app Xgaming tại http://xgaming.com.vn/app để theo dõi và tham gia chảo lửa thách đấu cùng những streamers hot nhất các tựa game\n★ Fanpage:   / xgamingvtm  \n★ Website: http://xgaming.com.vn/\n-----------------------------------------------------------------------------\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bom.to/qKfbwVwv",
+          "text": "https://bom.to/qKfbwVwv"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "http://xgaming.com.vn/app",
+          "text": "http://xgaming.com.vn/app"
+        },
+        {
+          "url": "https://www.facebook.com/xgamingvtm",
+          "text": "  / xgamingvtm  "
+        },
+        {
+          "url": "http://xgaming.com.vn/",
+          "text": "http://xgaming.com.vn/"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 6,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tập 12 Uncut | SNN 2020 | Khánh Vân công khai \"ghen\" với Nam Thư, Diệu Nhi hoang mang tìm đồng đội",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "AoUHptyZU7k",
+      "url": "https://www.youtube.com/watch?v=AoUHptyZU7k&list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO&index=15",
+      "thumbnailUrl": "https://i.ytimg.com/vi/AoUHptyZU7k/maxresdefault.jpg",
+      "viewCount": 9275283,
+      "date": "2021-02-21T03:00:15.000Z",
+      "likes": 67000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "01:21:50",
+      "commentsCount": 5528,
+      "text": "❤ Cảm ơn Ca sĩ Thái Trinh & Team đã cho phép Sao nhập ngũ sử dụng ca khúc Cover \"Pictures of My heart\" trong Tập 12 Sao nhập ngũ 2020.\n🔥 Sao nhập ngũ 2020 – Nữ chiến binh hứa hẹn nhiều bất ngờ với dàn cast đình đàm: Nghệ sỹ Diệu Nhi, Nam Thư, Hoa hậu Kỳ Duyên, Youtuber Hậu Hoàng, Ca sĩ Dương Hoàng Yến, Diễn viên Đỗ Khánh Vân. Trải nghiệm các nội dung tại Lữ đoàn Đặc công bộ, ai sẽ soán ngôi “lầy” của Hoa hậu Hương Giang SS4? \n🔥 Link Full mùa 2020-2021: https://bom.to/qKfbwVwv\n🔥 Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2020 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 08h00 Chủ nhật trên VTV3\n     💓 09H00 Chủ nhật trên Mocha & Keeng Movies\n     💓 10h00 Chủ nhật trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn: Lê Quý Giáp & Lê Đức Cường\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Phạm Thanh Hảo\n• D.O.P: Đoàn Ngọc Ước \n• Quay phim: Mai Trùng Khánh; Thái Ngân; Thế Chiến, Ngọc Thắng, Văn Thảo, Tuấn Vũ, Mạnh Cường, Thành Nam, Quang Huy, Huy Tuấn, Vũ Sướng\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Thành Nguyên, Đức Chính, Văn Hà, Minh Tuyến\n• Âm thanh: Đoàn Lộc & Nguyễn Tới\n• Hỗ trợ sản xuất: Văn Hải, Ngọc Hoàng, Anh Tuấn, Triệu Hương, Văn Huệ, Minh Tân\n• Editor: Hải Khoa Lương, Cường Lê, Quý Giáp, Thanh Hảo, Leo Kay; Thanh Liêm, Thanh Tùng, Anh Đức, Hiệp Cine\n• Đồ họa: Phùng Tùng & HaoMi & Hannah Ru & Cao Hà\n• Truyền thông: Nga Nguyễn, Trần Phương, Giang Bùm, Linh Bá\n• Bảo trợ truyền thông: Tiin.vn\n=========================================\nCài ngay app Xgaming tại http://xgaming.com.vn/app để theo dõi và tham gia chảo lửa thách đấu cùng những streamers hot nhất các tựa game\n★ Fanpage:   / xgamingvtm  \n★ Website: http://xgaming.com.vn/\n-----------------------------------------------------------------------------\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bom.to/qKfbwVwv",
+          "text": "https://bom.to/qKfbwVwv"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "http://xgaming.com.vn/app",
+          "text": "http://xgaming.com.vn/app"
+        },
+        {
+          "url": "https://www.facebook.com/xgamingvtm",
+          "text": "  / xgamingvtm  "
+        },
+        {
+          "url": "http://xgaming.com.vn/",
+          "text": "http://xgaming.com.vn/"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 14,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isPaidContent": false
+    },
+    {
+      "title": "TRAILER TẬP 13 |SNN 2020| Hậu Hoàng hét thất thanh giữa rừng, Mũi trưởng Long gặp thử thách khó nhằn",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "x8I6tAb36q0",
+      "url": "https://www.youtube.com/watch?v=x8I6tAb36q0&list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO&index=14",
+      "thumbnailUrl": "https://i.ytimg.com/vi/x8I6tAb36q0/maxresdefault.jpg",
+      "viewCount": 1095777,
+      "date": "2021-02-27T03:00:12.000Z",
+      "likes": 11000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:05:00",
+      "commentsCount": 467,
+      "text": "🔥 Sao nhập ngũ 2020 – Nữ chiến binh hứa hẹn nhiều bất ngờ với dàn cast đình đàm: Nghệ sỹ Diệu Nhi, Nam Thư, Hoa hậu Kỳ Duyên, Youtuber Hậu Hoàng, Ca sĩ Dương Hoàng Yến, Diễn viên Đỗ Khánh Vân. Trải nghiệm các nội dung tại Lữ đoàn Đặc công bộ, ai sẽ soán ngôi “lầy” của Hoa hậu Hương Giang SS4? \n🔥 Link Full mùa 2020-2021: https://bom.to/qKfbwVwv\n🔥 Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2020 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 08h00 Chủ nhật trên VTV3\n     💓 09H00 Chủ nhật trên Mocha & Keeng Movies\n     💓 10h00 Chủ nhật trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn: Lê Quý Giáp & Lê Đức Cường\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Phạm Thanh Hảo\n• D.O.P: Đoàn Ngọc Ước \n• Quay phim: Mai Trùng Khánh; Thái Ngân; Thế Chiến, Ngọc Thắng, Văn Thảo, Tuấn Vũ, Mạnh Cường, Thành Nam, Quang Huy, Huy Tuấn, Vũ Sướng\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Thành Nguyên, Đức Chính, Văn Hà, Minh Tuyến\n• Âm thanh: Đoàn Lộc & Nguyễn Tới\n• Hỗ trợ sản xuất: Văn Hải, Ngọc Hoàng, Anh Tuấn, Triệu Hương, Văn Huệ, Minh Tân\n• Editor: Hải Khoa Lương, Cường Lê, Quý Giáp, Thanh Hảo, Leo Kay; Thanh Liêm, Thanh Tùng, Anh Đức, Hiệp Cine\n• Đồ họa: Phùng Tùng & HaoMi & Hannah Ru & Cao Hà\n• Truyền thông: Nga Nguyễn, Trần Phương, Giang Bùm, Linh Bá\n• Bảo trợ truyền thông: Tiin.vn\n=========================================\nCài ngay app Xgaming tại http://xgaming.com.vn/app để theo dõi và tham gia chảo lửa thách đấu cùng những streamers hot nhất các tựa game\n★ Fanpage:   / xgamingvtm  \n★ Website: http://xgaming.com.vn/\n-----------------------------------------------------------------------------\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bom.to/qKfbwVwv",
+          "text": "https://bom.to/qKfbwVwv"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "http://xgaming.com.vn/app",
+          "text": "http://xgaming.com.vn/app"
+        },
+        {
+          "url": "https://www.facebook.com/xgamingvtm",
+          "text": "  / xgamingvtm  "
+        },
+        {
+          "url": "http://xgaming.com.vn/",
+          "text": "http://xgaming.com.vn/"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 13,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isPaidContent": false
+    },
+    {
+      "title": "TRAILER TẬP 8 l SNN 2020 l Nam Thư muốn về vì \"bất lực\" với chính mình, Mũi trưởng gắt với Hậu Hoàng",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "hBzbCm8RyN0",
+      "url": "https://www.youtube.com/watch?v=hBzbCm8RyN0&list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO&index=25",
+      "thumbnailUrl": "https://i.ytimg.com/vi/hBzbCm8RyN0/maxresdefault.jpg",
+      "viewCount": 1307617,
+      "date": "2021-01-21T11:30:10.000Z",
+      "likes": 15000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:04:24",
+      "commentsCount": 654,
+      "text": "🔥 6 tiếng cuối cùng quyết định giải WeChoice Awards 2020, hãy bình chọn thật \"hổ báo\" cho chúng tôi: https://wechoice.vn/de-cu/tvshow-cua-... và Hậu Hoàng: https://wechoice.vn/de-cu/hot-youtube... . Mỗi bạn 1 VOTE sẽ làm nên kỳ tích!!!!!Yêu mọi người thật nhiều. \n🔥 Link Full mùa 2020-2021: https://bom.to/qKfbwVwv\n🔥 Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2020 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 08h00 Chủ nhật trên VTV3\n     💓 09H00 Chủ nhật trên Mocha & Keeng Movies\n     💓 10h00 Chủ nhật trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn: Lê Quý Giáp & Lê Đức Cường\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Phạm Thanh Hảo\n• D.O.P: Đoàn Ngọc Ước \n• Quay phim: Mai Trùng Khánh; Thái Ngân; Thế Chiến, Ngọc Thắng, Văn Thảo, Tuấn Vũ, Mạnh Cường, Thành Nam, Quang Huy, Huy Tuấn, Vũ Sướng\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Thành Nguyên, Đức Chính, Văn Hà, Minh Tuyến\n• Âm thanh: Đoàn Lộc & Nguyễn Tới\n• Hỗ trợ sản xuất: Văn Hải, Ngọc Hoàng, Anh Tuấn, Triệu Hương, Văn Huệ, Minh Tân\n• Editor: Hải Khoa Lương, Cường Lê, Quý Giáp, Thanh Hảo, Leo Kay; Thanh Liêm, Thanh Tùng, Anh Đức, Hiệp Cine\n• Đồ họa: Phùng Tùng & HaoMi & Hannah Ru & Cao Hà\n• Truyền thông: Nga Nguyễn, Trần Phương, Giang Bùm, Linh Bá\n• Bảo trợ truyền thông: Tiin.vn\n=========================================\nCài ngay app Xgaming tại http://xgaming.com.vn/app để theo dõi và tham gia chảo lửa thách đấu cùng những streamers hot nhất các tựa game\n★ Fanpage:   / xgamingvtm  \n★ Website: http://xgaming.com.vn/\n-----------------------------------------------------------------------------\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://wechoice.vn/de-cu/tvshow-cua-nam-15/sao-nhap-ngu-25.htm",
+          "text": "https://wechoice.vn/de-cu/tvshow-cua-..."
+        },
+        {
+          "url": "https://wechoice.vn/de-cu/hot-youtuber-cua-nam-3/hau-hoang-93.htm",
+          "text": "https://wechoice.vn/de-cu/hot-youtube..."
+        },
+        {
+          "url": "https://bom.to/qKfbwVwv",
+          "text": "https://bom.to/qKfbwVwv"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "http://xgaming.com.vn/app",
+          "text": "http://xgaming.com.vn/app"
+        },
+        {
+          "url": "https://www.facebook.com/xgamingvtm",
+          "text": "  / xgamingvtm  "
+        },
+        {
+          "url": "http://xgaming.com.vn/",
+          "text": "http://xgaming.com.vn/"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 24,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tập 10 | SNN 2020 | Nam Thư gắng sức bị Diệu Nhi \"mắng\" không thương tiếc,Khánh Vân thích đi tắm heo",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "hdw760UVAFw",
+      "url": "https://www.youtube.com/watch?v=hdw760UVAFw&list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO&index=19",
+      "thumbnailUrl": "https://i.ytimg.com/vi/hdw760UVAFw/maxresdefault.jpg",
+      "viewCount": 8827636,
+      "date": "2021-02-07T03:00:13.000Z",
+      "likes": 70000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "01:08:05",
+      "commentsCount": 5974,
+      "text": "🔥 Sao nhập ngũ 2020 – Nữ chiến binh hứa hẹn nhiều bất ngờ với dàn cast đình đàm: Nghệ sỹ Diệu Nhi, Nam Thư, Hoa hậu Kỳ Duyên, Youtuber Hậu Hoàng, Ca sĩ Dương Hoàng Yến, Diễn viên Đỗ Khánh Vân. Trải nghiệm các nội dung tại Lữ đoàn Đặc công bộ, ai sẽ soán ngôi “lầy” của Hoa hậu Hương Giang SS4? \n🔥 Link Full mùa 2020-2021: https://bom.to/qKfbwVwv\n🔥 Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2020 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 08h00 Chủ nhật trên VTV3\n     💓 09H00 Chủ nhật trên Mocha & Keeng Movies\n     💓 10h00 Chủ nhật trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn: Lê Quý Giáp & Lê Đức Cường\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Phạm Thanh Hảo\n• D.O.P: Đoàn Ngọc Ước \n• Quay phim: Mai Trùng Khánh; Thái Ngân; Thế Chiến, Ngọc Thắng, Văn Thảo, Tuấn Vũ, Mạnh Cường, Thành Nam, Quang Huy, Huy Tuấn, Vũ Sướng\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Thành Nguyên, Đức Chính, Văn Hà, Minh Tuyến\n• Âm thanh: Đoàn Lộc & Nguyễn Tới\n• Hỗ trợ sản xuất: Văn Hải, Ngọc Hoàng, Anh Tuấn, Triệu Hương, Văn Huệ, Minh Tân\n• Editor: Hải Khoa Lương, Cường Lê, Quý Giáp, Thanh Hảo, Leo Kay; Thanh Liêm, Thanh Tùng, Anh Đức, Hiệp Cine\n• Đồ họa: Phùng Tùng & HaoMi & Hannah Ru & Cao Hà\n• Truyền thông: Nga Nguyễn, Trần Phương, Giang Bùm, Linh Bá\n• Bảo trợ truyền thông: Tiin.vn\n=========================================\nCài ngay app Xgaming tại http://xgaming.com.vn/app để theo dõi và tham gia chảo lửa thách đấu cùng những streamers hot nhất các tựa game\n★ Fanpage:   / xgamingvtm  \n★ Website: http://xgaming.com.vn/\n-----------------------------------------------------------------------------\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bom.to/qKfbwVwv",
+          "text": "https://bom.to/qKfbwVwv"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "http://xgaming.com.vn/app",
+          "text": "http://xgaming.com.vn/app"
+        },
+        {
+          "url": "https://www.facebook.com/xgamingvtm",
+          "text": "  / xgamingvtm  "
+        },
+        {
+          "url": "http://xgaming.com.vn/",
+          "text": "http://xgaming.com.vn/"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 18,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isPaidContent": false
+    },
+    {
+      "title": "TẬP 15 Uncut | SNN 2020 | Diệu Nhi “khóc thét” khi đi bắt cá, Khánh Vân vượt qua chính mình.",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "VrWxuCYch5Q",
+      "url": "https://www.youtube.com/watch?v=VrWxuCYch5Q&list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO&index=9",
+      "thumbnailUrl": "https://i.ytimg.com/vi/VrWxuCYch5Q/maxresdefault.jpg",
+      "viewCount": 6917331,
+      "date": "2021-03-14T03:03:48.000Z",
+      "likes": 57000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "01:13:12",
+      "commentsCount": 7853,
+      "text": "❤️ Hành trình 7 ngày của 6 nữ chiến binh đã gần tới hồi kết, cuộc hành quân này như phép thử cho lòng can đảm và ý chí vượt qua chính mình! Xin cảm ơn 6 nghệ sỹ đã sẵn sàng đương đầu và vượt qua nỗi sợ! Các đồng chí đã chiến thắng chính mình với sự nỗ lực không ngừng nghỉ!\n🔥 Sao nhập ngũ 2020 – Nữ chiến binh hứa hẹn nhiều bất ngờ với dàn cast đình đàm: Nghệ sỹ Diệu Nhi, Nam Thư, Hoa hậu Kỳ Duyên, Youtuber Hậu Hoàng, Ca sĩ Dương Hoàng Yến, Diễn viên Đỗ Khánh Vân. Trải nghiệm các nội dung tại Lữ đoàn Đặc công bộ, ai sẽ soán ngôi “lầy” của Hoa hậu Hương Giang SS4? \n🔥 Link Full mùa 2020-2021: https://bom.to/qKfbwVwv\n🔥 Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2020 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 08h00 Chủ nhật trên VTV3\n     💓 09H00 Chủ nhật trên Mocha & Keeng Movies\n     💓 10h00 Chủ nhật trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn: Lê Quý Giáp & Lê Đức Cường\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Phạm Thanh Hảo\n• D.O.P: Đoàn Ngọc Ước \n• Quay phim: Mai Trùng Khánh; Thái Ngân; Thế Chiến, Ngọc Thắng, Văn Thảo, Tuấn Vũ, Mạnh Cường, Thành Nam, Quang Huy, Huy Tuấn, Vũ Sướng\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Thành Nguyên, Đức Chính, Văn Hà, Minh Tuyến\n• Âm thanh: Đoàn Lộc & Nguyễn Tới\n• Hỗ trợ sản xuất: Văn Hải, Ngọc Hoàng, Anh Tuấn, Triệu Hương, Văn Huệ, Minh Tân\n• Editor: Hải Khoa Lương, Cường Lê, Quý Giáp, Thanh Hảo, Leo Kay; Thanh Liêm, Thanh Tùng, Anh Đức, Hiệp Cine\n• Đồ họa: Phùng Tùng & HaoMi & Hannah Ru & Cao Hà\n• Truyền thông: Nga Nguyễn, Trần Phương, Giang Bùm, Linh Bá\n• Bảo trợ truyền thông: Tiin.vn\n=========================================\nCài ngay app Xgaming tại http://xgaming.com.vn/app để theo dõi và tham gia chảo lửa thách đấu cùng những streamers hot nhất các tựa game\n★ Fanpage:   / xgamingvtm  \n★ Website: http://xgaming.com.vn/\n-----------------------------------------------------------------------------\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bom.to/qKfbwVwv",
+          "text": "https://bom.to/qKfbwVwv"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "http://xgaming.com.vn/app",
+          "text": "http://xgaming.com.vn/app"
+        },
+        {
+          "url": "https://www.facebook.com/xgamingvtm",
+          "text": "  / xgamingvtm  "
+        },
+        {
+          "url": "http://xgaming.com.vn/",
+          "text": "http://xgaming.com.vn/"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 8,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isPaidContent": false
+    },
+    {
+      "title": "SNN NGOẠI TRUYỆN | Hành trình Diệu Nhi từ “Kịch sĩ” thành “Chiến sĩ” Bật mí bí mật chưa từng công bố",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "sVhOHXB4MpE",
+      "url": "https://www.youtube.com/watch?v=sVhOHXB4MpE&list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO&index=5",
+      "thumbnailUrl": "https://i.ytimg.com/vi/sVhOHXB4MpE/hqdefault.jpg",
+      "viewCount": 489832,
+      "date": "2021-04-04T03:00:14.000Z",
+      "likes": 6100,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:23:07",
+      "commentsCount": 200,
+      "text": "🔥 Sao nhập ngũ 2020 – Nữ chiến binh hứa hẹn nhiều bất ngờ với dàn cast đình đàm: Nghệ sỹ Diệu Nhi, Nam Thư, Hoa hậu Kỳ Duyên, Youtuber Hậu Hoàng, Ca sĩ Dương Hoàng Yến, Diễn viên Đỗ Khánh Vân. Trải nghiệm các nội dung tại Lữ đoàn Đặc công bộ, ai sẽ soán ngôi “lầy” của Hoa hậu Hương Giang SS4? \n🔥 Link Full mùa 2020-2021: https://bom.to/qKfbwVwv\n🔥 Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2020 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 08h00 Chủ nhật trên VTV3\n     💓 09H00 Chủ nhật trên Mocha & Keeng Movies\n     💓 10h00 Chủ nhật trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn: Lê Quý Giáp & Lê Đức Cường\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Phạm Thanh Hảo\n• D.O.P: Đoàn Ngọc Ước \n• Quay phim: Mai Trùng Khánh; Thái Ngân; Thế Chiến, Ngọc Thắng, Văn Thảo, Tuấn Vũ, Mạnh Cường, Thành Nam, Quang Huy, Huy Tuấn, Vũ Sướng\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Thành Nguyên, Đức Chính, Văn Hà, Minh Tuyến\n• Âm thanh: Đoàn Lộc & Nguyễn Tới\n• Hỗ trợ sản xuất: Văn Hải, Ngọc Hoàng, Anh Tuấn, Triệu Hương, Văn Huệ, Minh Tân\n• Editor: Hải Khoa Lương, Cường Lê, Quý Giáp, Thanh Hảo, Leo Kay; Thanh Liêm, Thanh Tùng, Anh Đức, Hiệp Cine\n• Đồ họa: Phùng Tùng & HaoMi & Hannah Ru & Cao Hà\n• Truyền thông: Nga Nguyễn, Trần Phương, Giang Bùm, Linh Bá\n• Bảo trợ truyền thông: Tiin.vn\n=========================================\nCài ngay app Xgaming tại http://xgaming.com.vn/app để theo dõi và tham gia chảo lửa thách đấu cùng những streamers hot nhất các tựa game\n★ Fanpage:   / xgamingvtm  \n★ Website: http://xgaming.com.vn/\n-----------------------------------------------------------------------------\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bom.to/qKfbwVwv",
+          "text": "https://bom.to/qKfbwVwv"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "http://xgaming.com.vn/app",
+          "text": "http://xgaming.com.vn/app"
+        },
+        {
+          "url": "https://www.facebook.com/xgamingvtm",
+          "text": "  / xgamingvtm  "
+        },
+        {
+          "url": "http://xgaming.com.vn/",
+          "text": "http://xgaming.com.vn/"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 4,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isPaidContent": false
+    },
+    {
+      "title": "SNN NGOẠI TRUYỆN | Hành trình nhập ngũ của Nam Thư, nghị lực phi thường của Kiều nữ Làng Hài",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "pfwL-y8br4o",
+      "url": "https://www.youtube.com/watch?v=pfwL-y8br4o&list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO&index=4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/pfwL-y8br4o/maxresdefault.jpg",
+      "viewCount": 163002,
+      "date": "2021-04-11T08:00:11.000Z",
+      "likes": 2300,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:36:06",
+      "commentsCount": 131,
+      "text": "🔥 Sao nhập ngũ 2020 – Nữ chiến binh hứa hẹn nhiều bất ngờ với dàn cast đình đàm: Nghệ sỹ Diệu Nhi, Nam Thư, Hoa hậu Kỳ Duyên, Youtuber Hậu Hoàng, Ca sĩ Dương Hoàng Yến, Diễn viên Đỗ Khánh Vân. Trải nghiệm các nội dung tại Lữ đoàn Đặc công bộ, ai sẽ soán ngôi “lầy” của Hoa hậu Hương Giang SS4? \n🔥 Link Full mùa 2020-2021: https://bom.to/qKfbwVwv\n🔥 Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2020 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 08h00 Chủ nhật trên VTV3\n     💓 09H00 Chủ nhật trên Mocha & Keeng Movies\n     💓 10h00 Chủ nhật trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn: Lê Quý Giáp & Lê Đức Cường\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Phạm Thanh Hảo\n• D.O.P: Đoàn Ngọc Ước \n• Quay phim: Mai Trùng Khánh; Thái Ngân; Thế Chiến, Ngọc Thắng, Văn Thảo, Tuấn Vũ, Mạnh Cường, Thành Nam, Quang Huy, Huy Tuấn, Vũ Sướng\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Thành Nguyên, Đức Chính, Văn Hà, Minh Tuyến\n• Âm thanh: Đoàn Lộc & Nguyễn Tới\n• Hỗ trợ sản xuất: Văn Hải, Ngọc Hoàng, Anh Tuấn, Triệu Hương, Văn Huệ, Minh Tân\n• Editor: Hải Khoa Lương, Cường Lê, Quý Giáp, Thanh Hảo, Leo Kay; Thanh Liêm, Thanh Tùng, Anh Đức, Hiệp Cine\n• Đồ họa: Phùng Tùng & HaoMi & Hannah Ru & Cao Hà\n• Truyền thông: Nga Nguyễn, Trần Phương, Giang Bùm, Linh Bá\n• Bảo trợ truyền thông: Tiin.vn\n=========================================\nCài ngay app Xgaming tại http://xgaming.com.vn/app để theo dõi và tham gia chảo lửa thách đấu cùng những streamers hot nhất các tựa game\n★ Fanpage:   / xgamingvtm  \n★ Website: http://xgaming.com.vn/\n-----------------------------------------------------------------------------\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bom.to/qKfbwVwv",
+          "text": "https://bom.to/qKfbwVwv"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "http://xgaming.com.vn/app",
+          "text": "http://xgaming.com.vn/app"
+        },
+        {
+          "url": "https://www.facebook.com/xgamingvtm",
+          "text": "  / xgamingvtm  "
+        },
+        {
+          "url": "http://xgaming.com.vn/",
+          "text": "http://xgaming.com.vn/"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 3,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tập 14 Uncut | SNN 2020 | Khánh Vân lên vượt lên đứng đầu, Hoàng Yến bật khóc",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "bLx8ywpLwEE",
+      "url": "https://www.youtube.com/watch?v=bLx8ywpLwEE&list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO&index=11",
+      "thumbnailUrl": "https://i.ytimg.com/vi/bLx8ywpLwEE/maxresdefault.jpg",
+      "viewCount": 7379234,
+      "date": "2021-03-07T03:14:14.000Z",
+      "likes": 62000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "01:13:57",
+      "commentsCount": 5702,
+      "text": "🔥 Sao nhập ngũ 2020 – Nữ chiến binh hứa hẹn nhiều bất ngờ với dàn cast đình đàm: Nghệ sỹ Diệu Nhi, Nam Thư, Hoa hậu Kỳ Duyên, Youtuber Hậu Hoàng, Ca sĩ Dương Hoàng Yến, Diễn viên Đỗ Khánh Vân. Trải nghiệm các nội dung tại Lữ đoàn Đặc công bộ, ai sẽ soán ngôi “lầy” của Hoa hậu Hương Giang SS4? \n🔥 Link Full mùa 2020-2021: https://bom.to/qKfbwVwv\n🔥 Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2020 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 08h00 Chủ nhật trên VTV3\n     💓 09H00 Chủ nhật trên Mocha & Keeng Movies\n     💓 10h00 Chủ nhật trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn: Lê Quý Giáp & Lê Đức Cường\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Phạm Thanh Hảo\n• D.O.P: Đoàn Ngọc Ước \n• Quay phim: Mai Trùng Khánh; Thái Ngân; Thế Chiến, Ngọc Thắng, Văn Thảo, Tuấn Vũ, Mạnh Cường, Thành Nam, Quang Huy, Huy Tuấn, Vũ Sướng\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Thành Nguyên, Đức Chính, Văn Hà, Minh Tuyến\n• Âm thanh: Đoàn Lộc & Nguyễn Tới\n• Hỗ trợ sản xuất: Văn Hải, Ngọc Hoàng, Anh Tuấn, Triệu Hương, Văn Huệ, Minh Tân\n• Editor: Hải Khoa Lương, Cường Lê, Quý Giáp, Thanh Hảo, Leo Kay; Thanh Liêm, Thanh Tùng, Anh Đức, Hiệp Cine\n• Đồ họa: Phùng Tùng & HaoMi & Hannah Ru & Cao Hà\n• Truyền thông: Nga Nguyễn, Trần Phương, Giang Bùm, Linh Bá\n• Bảo trợ truyền thông: Tiin.vn\n=========================================\nCài ngay app Xgaming tại http://xgaming.com.vn/app để theo dõi và tham gia chảo lửa thách đấu cùng những streamers hot nhất các tựa game\n★ Fanpage:   / xgamingvtm  \n★ Website: http://xgaming.com.vn/\n-----------------------------------------------------------------------------\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bom.to/qKfbwVwv",
+          "text": "https://bom.to/qKfbwVwv"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "http://xgaming.com.vn/app",
+          "text": "http://xgaming.com.vn/app"
+        },
+        {
+          "url": "https://www.facebook.com/xgamingvtm",
+          "text": "  / xgamingvtm  "
+        },
+        {
+          "url": "http://xgaming.com.vn/",
+          "text": "http://xgaming.com.vn/"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 10,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isPaidContent": false
+    },
+    {
+      "title": "Hóng Tập 6 | Sao nhập ngũ 2020|Xuất hiện nhân vật khiến  Nam Thư hò hét bung lụa, Diệu Nhi thất thần",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "T0fBVX9kCUY",
+      "url": "https://www.youtube.com/watch?v=T0fBVX9kCUY&list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO&index=30",
+      "thumbnailUrl": "https://i.ytimg.com/vi/T0fBVX9kCUY/maxresdefault.jpg",
+      "viewCount": 929256,
+      "date": "2021-01-09T13:15:10.000Z",
+      "likes": 8700,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:01:56",
+      "commentsCount": 387,
+      "text": "🔥 Sao nhập ngũ 2020 – Nữ chiến binh hứa hẹn nhiều bất ngờ với dàn cast đình đàm: Nghệ sỹ Diệu Nhi, Nam Thư, Hoa hậu Kỳ Duyên, Youtuber Hậu Hoàng, Ca sĩ Dương Hoàng Yến, Diễn viên Đỗ Khánh Vân. Trải nghiệm các nội dung tại Lữ đoàn Đặc công bộ, ai sẽ soán ngôi “lầy” của Hoa hậu Hương Giang SS4? \n🔥 Link Full mùa 2020-2021: https://bom.to/qKfbwVwv\n🔥 Xem sớm nhất trên ứng dụng Mocha - Free 3G/4G đối với thuê bao Viettel - Xem thỏa sức - giải trí hết mình: http://video.mocha.com.vn/Sao-Nhap-Ng...\n🔥 Đón xem Sao nhập ngũ 2020 trong các khung giờ: \n     💓 12H00 Thứ 7 trên Kênh TH QPVN\n     💓 08h00 Chủ nhật trên VTV3\n     💓 09H00 Chủ nhật trên Mocha & Keeng Movies\n     💓 10h00 Chủ nhật trên Kênh Youtube: Sao nhập ngũ - QPVN\n🔥 Production Team\n• Tổng đạo diễn: Lương Hải Khoa\n• Đạo diễn: Lê Quý Giáp & Lê Đức Cường\n• Tổ chức sản xuất: Nguyễn Nga\n• Biên tập: Phạm Thanh Hảo\n• D.O.P: Đoàn Ngọc Ước \n• Quay phim: Mai Trùng Khánh; Thái Ngân; Thế Chiến, Ngọc Thắng, Văn Thảo, Tuấn Vũ, Mạnh Cường, Thành Nam, Quang Huy, Huy Tuấn, Vũ Sướng\n• Kỹ thuật & Ánh sáng: Đỗ Duy Sỹ, Thành Nguyên, Đức Chính, Văn Hà, Minh Tuyến\n• Âm thanh: Đoàn Lộc & Nguyễn Tới\n• Hỗ trợ sản xuất: Văn Hải, Ngọc Hoàng, Anh Tuấn, Triệu Hương, Văn Huệ, Minh Tân\n• Editor: Hải Khoa Lương, Cường Lê, Quý Giáp, Thanh Hảo, Leo Kay; Thanh Liêm, Thanh Tùng, Anh Đức, Hiệp Cine\n• Đồ họa: Phùng Tùng & HaoMi & Hannah Ru & Cao Hà\n• Truyền thông: Nga Nguyễn, Trần Phương, Giang Bùm, Linh Bá\n• Bảo trợ truyền thông: Tiin.vn\n=========================================\nCài ngay app Xgaming tại http://xgaming.com.vn/app để theo dõi và tham gia chảo lửa thách đấu cùng những streamers hot nhất các tựa game\n★ Fanpage:   / xgamingvtm  \n★ Website: http://xgaming.com.vn/\n-----------------------------------------------------------------------------\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0965079955/0985903900",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bom.to/qKfbwVwv",
+          "text": "https://bom.to/qKfbwVwv"
+        },
+        {
+          "url": "http://video.mocha.com.vn/Sao-Nhap-Ngu-cn2703",
+          "text": "http://video.mocha.com.vn/Sao-Nhap-Ng..."
+        },
+        {
+          "url": "http://xgaming.com.vn/app",
+          "text": "http://xgaming.com.vn/app"
+        },
+        {
+          "url": "https://www.facebook.com/xgamingvtm",
+          "text": "  / xgamingvtm  "
+        },
+        {
+          "url": "http://xgaming.com.vn/",
+          "text": "http://xgaming.com.vn/"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 29,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CpiGXxipKjNENU8hkenUgOO",
+      "isPaidContent": false
+    }
+  ]
+}

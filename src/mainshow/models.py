@@ -40,6 +40,8 @@ class Classification:
     score: int
     confidence: str
     episode_no: int | None
+    episode_label: str | None
+    video_type: str
     exclusion_reason: str | None
     reasons: tuple[str, ...]
 

@@ -87,3 +87,68 @@ def test_view_snapshots_are_append_only_and_idempotent(tmp_path: Path) -> None:
     with (output / "view_snapshot.csv").open(encoding="utf-8-sig") as stream:
         snapshots = list(csv.DictReader(stream))
     assert [row["view_count"] for row in snapshots] == ["100", "120"]
+
+
+def test_airing_season_can_publish_views_to_date_before_five_episodes(tmp_path: Path) -> None:
+    root = Path(__file__).resolve().parents[1]
+    raw = tmp_path / "raw.json"
+    source_url = (
+        "https://www.youtube.com/@VieChannelHTV2/search?query="
+        "TINH%20H%C3%80%20SAY%20HI%20T%E1%BA%ACP"
+    )
+    raw.write_text(
+        json.dumps(
+            {
+                "actor_name": "fixture/actor",
+                "actor_run_id": "airing-run",
+                "dataset_id": "airing-dataset",
+                "retrieved_at": "2026-08-12T12:00:00+07:00",
+                "actor_input": {"sourceBindingUrl": source_url},
+                "items": [
+                    {
+                        "id": f"airing0000{episode}",
+                        "title": f"Tinh Hà Say Hi Tập {episode}",
+                        "channelId": "UCkna2OcuN1E6u5I8GVtdkOw",
+                        "duration": "1:00:00",
+                        "viewCount": episode * 100,
+                    }
+                    for episode in range(1, 4)
+                ],
+            }
+        ),
+        encoding="utf-8",
+    )
+    output = tmp_path / "output"
+    build_pilot(raw, output, load_project_config(root), "THSH", season_id="THSH_2026")
+    with (output / "season_summary.csv").open(encoding="utf-8-sig") as stream:
+        summary = next(csv.DictReader(stream))
+    assert summary["qc_status"] == "WARNING"
+    assert summary["missing_episode_count"] == "0"
+    assert summary["total_views"] == "600"
+    assert "Views-to-date" in summary["notes"]
+
+
+def test_upcoming_season_with_no_main_episode_is_not_a_failure(tmp_path: Path) -> None:
+    root = Path(__file__).resolve().parents[1]
+    raw = tmp_path / "raw.json"
+    raw.write_text(
+        json.dumps(
+            {
+                "actor_name": "fixture/actor",
+                "actor_run_id": "upcoming-run",
+                "dataset_id": "upcoming-dataset",
+                "retrieved_at": "2026-08-12T12:00:00+07:00",
+                "actor_input": {
+                    "sourceBindingUrl": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE"
+                },
+                "items": [],
+            }
+        ),
+        encoding="utf-8",
+    )
+    output = tmp_path / "output"
+    build_pilot(raw, output, load_project_config(root), "SNN", season_id="SNN_2026")
+    with (output / "season_summary.csv").open(encoding="utf-8-sig") as stream:
+        summary = next(csv.DictReader(stream))
+    assert summary["qc_status"] == "NOT_STARTED"
+    assert summary["total_views"] == ""

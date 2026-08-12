@@ -1,0 +1,2498 @@
+{
+  "actor_name": "streamers/youtube-scraper",
+  "actor_run_id": "csqekMeoBu6i3BPbj",
+  "dataset_id": "TaD5Vd5YWjYk63Thm",
+  "actor_build_id": "SUk0475fgtCh9zqMt",
+  "retrieved_at": "2026-08-12T14:00:36.110442+07:00",
+  "actor_input": {
+    "maxResults": 30,
+    "maxResultsShorts": 0,
+    "maxResultStreams": 0,
+    "startUrls": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP"
+      }
+    ],
+    "sourceBindingUrl": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP"
+  },
+  "run_metadata": {
+    "status": "SUCCEEDED",
+    "startedAt": "2026-08-12T07:00:02.288Z",
+    "finishedAt": "2026-08-12T07:00:30.972Z",
+    "usageTotalUsd": 0.052000000000000005,
+    "chargedEventCounts": {
+      "result": 13,
+      "date-filter": 0,
+      "ai-video-description": 0,
+      "ai-video-summary": 0
+    }
+  },
+  "items": [
+    {
+      "title": "Our Song Việt Nam - Tập 12: Quang Hùng MasterD mở màn cực cháy, Thanh Lam hát dân ca Nam Bộ ngọt lịm",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "Z-z5GnsUEeE",
+      "url": "https://www.youtube.com/watch?v=Z-z5GnsUEeE&list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP&index=4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Z-z5GnsUEeE/maxresdefault.jpg",
+      "viewCount": 3390986,
+      "date": "2024-11-17T14:30:07.000Z",
+      "likes": 11000,
+      "location": null,
+      "channelName": "ĐÔNG TÂY PROMOTION OFFICIAL",
+      "channelUrl": "https://www.youtube.com/@dongtaypromotionofficial",
+      "channelUsername": "dongtaypromotionofficial",
+      "collaborators": null,
+      "channelId": "UCFMEYTv6N64hIL9FlQ_hxBw",
+      "numberOfSubscribers": 9830000,
+      "duration": "02:48:29",
+      "commentsCount": 2240,
+      "text": "Our Song Việt Nam - Tập 12: Quang Hùng MasterD mở màn cực cháy, Thanh Lam hát dân ca Nam Bộ ngọt lịm \n\nXem TRỌN BỘ Our Song Việt Nam - Bài Hát Của Chúng Ta: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP\n\n#OurSongVietNam #OurSong #BaiHatCuaChungTa #ĐôngTâyPromotion \n#QuangLinh #PhạmAnhDuy #ThuMinh #VũThảoMy #LươngBíchHữu #OgeNus\n#ThanhLam #Orange #HoàngHải #LâmBảoNgọc #MaiTiếnDũng #LyLy #QuangHùngMasterD\n\nMở thẻ VPBank liền tay, nhận ngay vạn deal cùng siêu hoàn tiền đến 15% mọi chi tiêu\n \n\n▶ Tìm nghe các bản audio Tập 12 Bài Hát Của Chúng Ta - Our Song Vietnam trên: https://WMVN.lnk.to/OSVN-EP12\n▶ Follow playlist Bài Hát Của Chúng Ta - Our Song Vietnam để được cập nhật sớm nhất khi audio được phát hành: https://WMVN.lnk.to/OSVN \n\n✨Bài Hát Của Chúng Ta - Our Song Việt Nam là chương trình âm nhạc THỜI THƯỢNG đem đến cho khán giả ĐA THẾ HỆ trải nghiệm tận hưởng khát khao dẫn đầu xu hướng “QUAY VỀ TƯƠNG LAI\".\n\n⏰Đón xem OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚNG TA  vào lúc:\n📺 21H15 Chủ Nhật hàng tuần trên kênh truyền hình VTV3, siêu ứng dụng giải trí VieON\n▶️ 21H45 trên kênh  @dongtaypromotionofficial \n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n \n\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nOur Song Việt Nam:  https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP\n2 Ngày 1 Đêm Việt Nam: https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc\n7 Nụ Cười Xuân: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig\nNhanh Như Chớp: https://www.youtube.com/playlist?list=PLy_TpcUT2LZuqASIzsS38QmT8CDA7zdSs\n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage: https://www.facebook.com/DongTayPromotion\n► Instagram: https://www.instagram.com/dongtaypromotion.official/\n► TikTok: https://www.tiktok.com/@dongtaypromotionofficial",
+      "translatedText": "Our Song Việt Nam - Tập 12: Quang Hùng MasterD mở màn cực cháy, Thanh Lam hát dân ca Nam Bộ ngọt lịm \n\nXem TRỌN BỘ Our Song Việt Nam - Bài Hát Của Chúng Ta:    • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  \n\n#OurSongVietNam #OurSong #BaiHatCuaChungTa #ĐôngTâyPromotion \n#QuangLinh #PhạmAnhDuy #ThuMinh #VũThảoMy #LươngBíchHữu #OgeNus\n#ThanhLam #Orange #HoàngHải #LâmBảoNgọc #MaiTiếnDũng #LyLy #QuangHùngMasterD\n\nMở thẻ VPBank liền tay, nhận ngay vạn deal cùng siêu hoàn tiền đến 15% mọi chi tiêu\n \n\n▶ Tìm nghe các bản audio Tập 12 Bài Hát Của Chúng Ta - Our Song Vietnam trên: https://WMVN.lnk.to/OSVN-EP12\n▶ Follow playlist Bài Hát Của Chúng Ta - Our Song Vietnam để được cập nhật sớm nhất khi audio được phát hành: https://WMVN.lnk.to/OSVN \n\n✨Bài Hát Của Chúng Ta - Our Song Việt Nam là chương trình âm nhạc THỜI THƯỢNG đem đến cho khán giả ĐA THẾ HỆ trải nghiệm tận hưởng khát khao dẫn đầu xu hướng “QUAY VỀ TƯƠNG LAI\".\n\n⏰Đón xem OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚNG TA  vào lúc:\n📺 21H15 Chủ Nhật hàng tuần trên kênh truyền hình VTV3, siêu ứng dụng giải trí VieON\n▶️ 21H45 trên kênh  ‪@dongtaypromotionofficial‬ \n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n \n\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nOur Song Việt Nam:     • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  \n2 Ngày 1 Đêm Việt Nam:    • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  \n7 Nụ Cười Xuân:    • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  \nNhanh Như Chớp:    • ⚡️⚡️NHANH NHƯ CHỚP MÙA 5⚡️⚡️ | Gameshow gi...  \n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage:   / dongtaypromotion  \n► Instagram:   / dongtaypromotion.official  \n► TikTok:   / dongtaypromotionofficial  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+          "text": "   • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/oursongvietnam",
+          "text": "#OurSongVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/oursong",
+          "text": "#OurSong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/baihatcuachungta",
+          "text": "#BaiHatCuaChungTa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/%C4%91%C3%B4ngt%C3%A2ypromotion",
+          "text": "#ĐôngTâyPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quanglinh",
+          "text": "#QuangLinh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ph%E1%BA%A1manhduy",
+          "text": "#PhạmAnhDuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thuminh",
+          "text": "#ThuMinh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/v%C5%A9th%E1%BA%A3omy",
+          "text": "#VũThảoMy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C6%B0%C6%A1ngb%C3%ADchh%E1%BB%AFu",
+          "text": "#LươngBíchHữu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ogenus",
+          "text": "#OgeNus"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thanhlam",
+          "text": "#ThanhLam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/orange",
+          "text": "#Orange"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ho%C3%A0ngh%E1%BA%A3i",
+          "text": "#HoàngHải"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%A2mb%E1%BA%A3ong%E1%BB%8Dc",
+          "text": "#LâmBảoNgọc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/maiti%E1%BA%BFnd%C5%A9ng",
+          "text": "#MaiTiếnDũng"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lyly",
+          "text": "#LyLy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quangh%C3%B9ngmasterd",
+          "text": "#QuangHùngMasterD"
+        },
+        {
+          "url": "https://WMVN.lnk.to/OSVN-EP12",
+          "text": "https://WMVN.lnk.to/OSVN-EP12"
+        },
+        {
+          "url": "https://WMVN.lnk.to/OSVN",
+          "text": "https://WMVN.lnk.to/OSVN"
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "‪@dongtaypromotionofficial‬"
+        },
+        {
+          "url": "https://bit.ly/SubDTP",
+          "text": "https://bit.ly/SubDTP"
+        },
+        {
+          "url": "https://bit.ly/SubDTE",
+          "text": "https://bit.ly/SubDTE"
+        },
+        {
+          "url": "https://bit.ly/HAUTRUONGDTP",
+          "text": "https://bit.ly/HAUTRUONGDTP"
+        },
+        {
+          "url": "https://bit.ly/showhotDTP",
+          "text": "https://bit.ly/showhotDTP"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+          "text": "   • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc",
+          "text": "   • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig",
+          "text": "   • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuqASIzsS38QmT8CDA7zdSs",
+          "text": "   • ⚡️⚡️NHANH NHƯ CHỚP MÙA 5⚡️⚡️ | Gameshow gi...  "
+        },
+        {
+          "url": "https://www.facebook.com/DongTayPromotion",
+          "text": "  / dongtaypromotion  "
+        },
+        {
+          "url": "https://www.instagram.com/dongtaypromotion.official/",
+          "text": "  / dongtaypromotion.official  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dongtaypromotionofficial",
+          "text": "  / dongtaypromotionofficial  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 3,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+      "isMonetized": null,
+      "hashtags": [
+        "#OurSongVietNam",
+        "#OurSong",
+        "#HoàngHải"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+      "isPaidContent": false
+    },
+    {
+      "title": "Our Song Việt Nam-Tập 7:Mai Tiến Dũng lột xác cùng Pháp Kiều, Orange \"rén\"vì sức nóng từ liên minh B",
+      "translatedTitle": "Our Song Vietnam-Episode 7: Mai Tien Dung transforms with Phap Kieu, Orange \"intimidated\" by the ...",
+      "type": "video",
+      "id": "RoBPjIwFbb0",
+      "url": "https://www.youtube.com/watch?v=RoBPjIwFbb0&list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP&index=9",
+      "thumbnailUrl": "https://i.ytimg.com/vi/RoBPjIwFbb0/maxresdefault.jpg",
+      "viewCount": 2742653,
+      "date": "2024-10-13T14:30:06.000Z",
+      "likes": 7100,
+      "location": null,
+      "channelName": "ĐÔNG TÂY PROMOTION OFFICIAL",
+      "channelUrl": "https://www.youtube.com/@dongtaypromotionofficial",
+      "channelUsername": "dongtaypromotionofficial",
+      "collaborators": null,
+      "channelId": "UCFMEYTv6N64hIL9FlQ_hxBw",
+      "numberOfSubscribers": 9830000,
+      "duration": "01:34:40",
+      "commentsCount": 1539,
+      "text": "Our Song Việt Nam - Tập 7: Our Song Việt Nam - Tập 7: Mai Tiến Dũng lột xác cùng Pháp Kiều, Orange \"rén\" vì sức nóng từ liên minh B\n\nXem TRỌN BỘ Our Song Việt Nam - Bài Hát Của Chúng Ta: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP\n\n#OurSongVietNam #OurSong #BaiHatCuaChungTa #ĐôngTâyPromotion \n#QuangLinh #ThanhLam #ThanhHà #MaiTiếnDũng #DươngEdward\n#LyLy #Orange #PhạmAnhDuy #PhápKiều #AliHoàngDương #TrấnThành\n\nMở thẻ VPBank liền tay, nhận ngay vạn deal cùng siêu hoàn tiền đến 15% mọi chi tiêu\n  \n\n▶ Tìm nghe các bản audio Tập 7 Bài Hát Của Chúng Ta - Our Song Vietnam trên: https://WMVN.lnk.to/OSVN-EP7\n▶ Follow playlist Bài Hát Của Chúng Ta - Our Song Vietnam để được cập nhật sớm nhất khi audio được phát hành: https://WMVN.lnk.to/OSVN \n\n✨Bài Hát Của Chúng Ta - Our Song Việt Nam là chương trình âm nhạc THỜI THƯỢNG đem đến cho khán giả ĐA THẾ HỆ trải nghiệm tận hưởng khát khao dẫn đầu xu hướng “QUAY VỀ TƯƠNG LAI\".\n\n⏰Đón xem OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚNG TA  vào lúc:\n📺 21H15 Chủ Nhật hàng tuần trên kênh truyền hình VTV3, siêu ứng dụng giải trí VieON\n▶️ 21H45 trên kênh   @dongtaypromotionofficial \n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n \n\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nOur Song Việt Nam:  https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP\n2 Ngày 1 Đêm Việt Nam: https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc\n7 Nụ Cười Xuân: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig\nNhanh Như Chớp: https://www.youtube.com/playlist?list=PLy_TpcUT2LZuqASIzsS38QmT8CDA7zdSs\n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage: https://www.facebook.com/DongTayPromotion\n► Instagram: https://www.instagram.com/dongtaypromotion.official/\n► TikTok: https://www.tiktok.com/@dongtaypromotionofficial",
+      "translatedText": "Our Song Vietnam - Episode 7: Mai Tien Dung transforms alongside Phap Kieu, Orange is intimidated by the heat from the B alliance\n\nWatch the FULL Our Song Vietnam - Our Song:    • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  \n\n#OurSongVietNam #OurSong #BaiHatCuaChungTa #DongTayPromotion\n\n#QuangLinh #ThanhLam #ThanhHa #MaiTienDung #DuongEdward\n\n#LyLy #Orange #PhamAnhDuy #PhapKieu #AliHoangDuong #TranThanh\n\nOpen a VPBank card now, get thousands of deals and super cashback up to 15% on all spending\n\n▶ Find and listen to the audio versions of Episode 7 of Our Song Vietnam on: https://WMVN.lnk.to/OSVN-EP7\n▶ Follow the playlist Our Song Vietnam to get the earliest updates when the audio is released: https://WMVN.lnk.to/OSVN\n\n✨Our Song Vietnam is a TRENDY music program that brings to MULTI-GENERATIONAL audiences the experience of enjoying the desire to lead the trend of “RETURNING TO THE FUTURE”.\n\n⏰ Watch OUR SONG VIETNAM - OUR SONG at:\n\n📺 9:15 PM every Sunday on VTV3 and the VieON entertainment app\n▶️ 9:45 PM on @dongtaypromotionofficial\n\n📣 Subscribe to DONG TAY PROMOTION OFFICIAL to not miss out on SUPER EXCITING programs: https://bit.ly/SubDTP\n📣 Subscribe to DONG TAY ENTERTAINMENT to watch HOT VIDEOS from the top shows: https://bit.ly/SubDTE\n\n\n⏩ Behind-the-Scenes Secrets: https://bit.ly/HAUTRUONGDTP ⏩ Great Shows every day: https://bit.ly/showhotDTP 👉 OTHER HOT SHOWS: \nOur Song Vietnam:    • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  \n2 Days 1 Night Vietnam:    • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  \n7 Spring Smiles:    • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  \nFast as Lightning:    • ⚡️⚡️NHANH NHƯ CHỚP MÙA 5⚡️⚡️ | Gameshow gi...  \n\n👉 Follow the official channels of Dong Tay Promotion - owned by DatVietVAC at:\n► Fanpage:   / dongtaypromotion  \n► Instagram:   / dongtaypromotion.official  \n► TikTok:   / dongtaypromotionofficial  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+          "text": "   • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/oursongvietnam",
+          "text": "#OurSongVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/oursong",
+          "text": "#OurSong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/baihatcuachungta",
+          "text": "#BaiHatCuaChungTa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dongtaypromotion",
+          "text": "#DongTayPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quanglinh",
+          "text": "#QuangLinh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thanhlam",
+          "text": "#ThanhLam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thanhha",
+          "text": "#ThanhHa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/maitiendung",
+          "text": "#MaiTienDung"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/duongedward",
+          "text": "#DuongEdward"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lyly",
+          "text": "#LyLy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/orange",
+          "text": "#Orange"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phamanhduy",
+          "text": "#PhamAnhDuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phapkieu",
+          "text": "#PhapKieu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/alihoangduong",
+          "text": "#AliHoangDuong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tranthanh",
+          "text": "#TranThanh"
+        },
+        {
+          "url": "https://WMVN.lnk.to/OSVN-EP7",
+          "text": "https://WMVN.lnk.to/OSVN-EP7"
+        },
+        {
+          "url": "https://WMVN.lnk.to/OSVN",
+          "text": "https://WMVN.lnk.to/OSVN"
+        },
+        {
+          "url": "https://bit.ly/SubDTP",
+          "text": "https://bit.ly/SubDTP"
+        },
+        {
+          "url": "https://bit.ly/SubDTE",
+          "text": "https://bit.ly/SubDTE"
+        },
+        {
+          "url": "https://bit.ly/HAUTRUONGDTP",
+          "text": "https://bit.ly/HAUTRUONGDTP"
+        },
+        {
+          "url": "https://bit.ly/showhotDTP",
+          "text": "https://bit.ly/showhotDTP"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+          "text": "   • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc",
+          "text": "   • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig",
+          "text": "   • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuqASIzsS38QmT8CDA7zdSs",
+          "text": "   • ⚡️⚡️NHANH NHƯ CHỚP MÙA 5⚡️⚡️ | Gameshow gi...  "
+        },
+        {
+          "url": "https://www.facebook.com/DongTayPromotion",
+          "text": "  / dongtaypromotion  "
+        },
+        {
+          "url": "https://www.instagram.com/dongtaypromotion.official/",
+          "text": "  / dongtaypromotion.official  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dongtaypromotionofficial",
+          "text": "  / dongtaypromotionofficial  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 8,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+      "isMonetized": null,
+      "hashtags": [
+        "#OurSongVietNam",
+        "#OurSong",
+        "#QuangLinh"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+      "isPaidContent": false
+    },
+    {
+      "title": "Our Song Việt Nam - Tập 11: Thanh Lam - Thu Minh đối đầu nghẹt thở, Orange cosplay \"bạn gái Joker\"",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "PJ7ZVNcyqvM",
+      "url": "https://www.youtube.com/watch?v=PJ7ZVNcyqvM&list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP&index=5",
+      "thumbnailUrl": "https://i.ytimg.com/vi/PJ7ZVNcyqvM/maxresdefault.jpg",
+      "viewCount": 3014772,
+      "date": "2024-11-10T14:30:06.000Z",
+      "likes": 8900,
+      "location": null,
+      "channelName": "ĐÔNG TÂY PROMOTION OFFICIAL",
+      "channelUrl": "https://www.youtube.com/@dongtaypromotionofficial",
+      "channelUsername": "dongtaypromotionofficial",
+      "collaborators": null,
+      "channelId": "UCFMEYTv6N64hIL9FlQ_hxBw",
+      "numberOfSubscribers": 9830000,
+      "duration": "02:51:55",
+      "commentsCount": 2714,
+      "text": "Our Song Việt Nam - Tập 11: Thanh Lam - Thu Minh đối đầu nghẹt thở, Orange cosplay \"bạn gái Joker\"\n\nXem TRỌN BỘ Our Song Việt Nam - Bài Hát Của Chúng Ta: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP\n\n#OurSongVietNam #OurSong #BaiHatCuaChungTa #ĐôngTâyPromotion \n#QuangLinh #PhạmAnhDuy #ThuMinh #VũThảoMy #LươngBíchHữu #OgeNus\n#ThanhLam #Orange #HoàngHải #LâmBảoNgọc #MaiTiếnDũng #LyLy \n\nMở thẻ VPBank liền tay, nhận ngay vạn deal cùng siêu hoàn tiền đến 15% mọi chi tiêu\n \n\n▶ Tìm nghe các bản audio Tập 11 Bài Hát Của Chúng Ta - Our Song Vietnam trên: https://WMVN.lnk.to/OSVN-EP11\n▶ Follow playlist Bài Hát Của Chúng Ta - Our Song Vietnam để được cập nhật sớm nhất khi audio được phát hành: https://WMVN.lnk.to/OSVN \n\n✨Bài Hát Của Chúng Ta - Our Song Việt Nam là chương trình âm nhạc THỜI THƯỢNG đem đến cho khán giả ĐA THẾ HỆ trải nghiệm tận hưởng khát khao dẫn đầu xu hướng “QUAY VỀ TƯƠNG LAI\".\n\n⏰Đón xem OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚNG TA  vào lúc:\n📺 21H15 Chủ Nhật hàng tuần trên kênh truyền hình VTV3, siêu ứng dụng giải trí VieON\n▶️ 21H45 trên kênh  @dongtaypromotionofficial \n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n \n\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n��� CÁC SHOW HOT KHÁC: \nOur Song Việt Nam:  https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP\n2 Ngày 1 Đêm Việt Nam: https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc\n7 Nụ Cười Xuân: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig\nNhanh Như Chớp: https://www.youtube.com/playlist?list=PLy_TpcUT2LZuqASIzsS38QmT8CDA7zdSs\n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage: https://www.facebook.com/DongTayPromotion\n► Instagram: https://www.instagram.com/dongtaypromotion.official/\n► TikTok: https://www.tiktok.com/@dongtaypromotionofficial",
+      "translatedText": "Our Song Việt Nam - Tập 11: Thanh Lam - Thu Minh đối đầu nghẹt thở, Orange cosplay \"bạn gái Joker\"\n\nXem TRỌN BỘ Our Song Việt Nam - Bài Hát Của Chúng Ta:    • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  \n\n#OurSongVietNam #OurSong #BaiHatCuaChungTa #ĐôngTâyPromotion \n#QuangLinh #PhạmAnhDuy #ThuMinh #VũThảoMy #LươngBíchHữu #OgeNus\n#ThanhLam #Orange #HoàngHải #LâmBảoNgọc #MaiTiếnDũng #LyLy \n\nMở thẻ VPBank liền tay, nhận ngay vạn deal cùng siêu hoàn tiền đến 15% mọi chi tiêu\n \n\n▶ Tìm nghe các bản audio Tập 11 Bài Hát Của Chúng Ta - Our Song Vietnam trên: https://WMVN.lnk.to/OSVN-EP11\n▶ Follow playlist Bài Hát Của Chúng Ta - Our Song Vietnam để được cập nhật sớm nhất khi audio được phát hành: https://WMVN.lnk.to/OSVN \n\n✨Bài Hát Của Chúng Ta - Our Song Việt Nam là chương trình âm nhạc THỜI THƯỢNG đem đến cho khán giả ĐA THẾ HỆ trải nghiệm tận hưởng khát khao dẫn đầu xu hướng “QUAY VỀ TƯƠNG LAI\".\n\n⏰Đón xem OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚNG TA  vào lúc:\n📺 21H15 Chủ Nhật hàng tuần trên kênh truyền hình VTV3, siêu ứng dụng giải trí VieON\n▶️ 21H45 trên kênh  ‪@dongtaypromotionofficial‬ \n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n \n\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nOur Song Việt Nam:     • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  \n2 Ngày 1 Đêm Việt Nam:    • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  \n7 Nụ Cười Xuân:    • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  \nNhanh Như Chớp:    • ⚡️⚡️NHANH NHƯ CHỚP MÙA 5⚡️⚡️ | Gameshow gi...  \n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage:   / dongtaypromotion  \n► Instagram:   / dongtaypromotion.official  \n► TikTok:   / dongtaypromotionofficial  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+          "text": "   • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/oursongvietnam",
+          "text": "#OurSongVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/oursong",
+          "text": "#OurSong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/baihatcuachungta",
+          "text": "#BaiHatCuaChungTa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/%C4%91%C3%B4ngt%C3%A2ypromotion",
+          "text": "#ĐôngTâyPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quanglinh",
+          "text": "#QuangLinh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ph%E1%BA%A1manhduy",
+          "text": "#PhạmAnhDuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thuminh",
+          "text": "#ThuMinh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/v%C5%A9th%E1%BA%A3omy",
+          "text": "#VũThảoMy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C6%B0%C6%A1ngb%C3%ADchh%E1%BB%AFu",
+          "text": "#LươngBíchHữu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ogenus",
+          "text": "#OgeNus"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thanhlam",
+          "text": "#ThanhLam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/orange",
+          "text": "#Orange"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ho%C3%A0ngh%E1%BA%A3i",
+          "text": "#HoàngHải"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%A2mb%E1%BA%A3ong%E1%BB%8Dc",
+          "text": "#LâmBảoNgọc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/maiti%E1%BA%BFnd%C5%A9ng",
+          "text": "#MaiTiếnDũng"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lyly",
+          "text": "#LyLy"
+        },
+        {
+          "url": "https://WMVN.lnk.to/OSVN-EP11",
+          "text": "https://WMVN.lnk.to/OSVN-EP11"
+        },
+        {
+          "url": "https://WMVN.lnk.to/OSVN",
+          "text": "https://WMVN.lnk.to/OSVN"
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "‪@dongtaypromotionofficial‬"
+        },
+        {
+          "url": "https://bit.ly/SubDTP",
+          "text": "https://bit.ly/SubDTP"
+        },
+        {
+          "url": "https://bit.ly/SubDTE",
+          "text": "https://bit.ly/SubDTE"
+        },
+        {
+          "url": "https://bit.ly/HAUTRUONGDTP",
+          "text": "https://bit.ly/HAUTRUONGDTP"
+        },
+        {
+          "url": "https://bit.ly/showhotDTP",
+          "text": "https://bit.ly/showhotDTP"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+          "text": "   • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc",
+          "text": "   • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig",
+          "text": "   • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuqASIzsS38QmT8CDA7zdSs",
+          "text": "   • ⚡️⚡️NHANH NHƯ CHỚP MÙA 5⚡️⚡️ | Gameshow gi...  "
+        },
+        {
+          "url": "https://www.facebook.com/DongTayPromotion",
+          "text": "  / dongtaypromotion  "
+        },
+        {
+          "url": "https://www.instagram.com/dongtaypromotion.official/",
+          "text": "  / dongtaypromotion.official  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dongtaypromotionofficial",
+          "text": "  / dongtaypromotionofficial  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 4,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+      "isMonetized": null,
+      "hashtags": [
+        "#OurSongVietNam",
+        "#OurSong",
+        "#HoàngHải"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+      "isPaidContent": false
+    },
+    {
+      "title": "Our Song Việt Nam-Tập 14: Đêm Công Bố & Trao Giải: \"Sao Hạng A\" hội tụ, cặp đôi nào sẽ là Quán quân?",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "nv-EC2OPtYw",
+      "url": "https://www.youtube.com/watch?v=nv-EC2OPtYw&list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP&index=1",
+      "thumbnailUrl": "https://i.ytimg.com/vi/nv-EC2OPtYw/maxresdefault.jpg",
+      "viewCount": 3426786,
+      "date": "2024-12-01T14:15:06.000Z",
+      "likes": 8500,
+      "location": null,
+      "channelName": "ĐÔNG TÂY PROMOTION OFFICIAL",
+      "channelUrl": "https://www.youtube.com/@dongtaypromotionofficial",
+      "channelUsername": "dongtaypromotionofficial",
+      "collaborators": null,
+      "channelId": "UCFMEYTv6N64hIL9FlQ_hxBw",
+      "numberOfSubscribers": 9830000,
+      "duration": "02:42:53",
+      "commentsCount": 1494,
+      "text": "Our Song Việt Nam - Tập 14: Đêm Công Bố & Trao Giải: \"Sao Hạng A\" hội tụ, cặp đôi nào sẽ là Quán quân?\n\nXem TRỌN BỘ Our Song Việt Nam - Bài Hát Của Chúng Ta: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP\n\n#OurSongVietNam #OurSong #BaiHatCuaChungTa #ĐôngTâyPromotion \n#LươngBíchHữu #OgeNus #HồNgọcHà #VănMaiHương #VươngBình \n#HIEUTHUHAI #SongLuân #DươngDomic #Jsol #VũThảoMy #24kRight\n\nMở thẻ VPBank liền tay, nhận ngay vạn deal cùng siêu hoàn tiền đến 15% mọi chi tiêu\n \n\n▶ Tìm nghe bản audio Tập 14 Bài Hát Của Chúng Ta - Our Song Vietnam trên: https://WMVN.lnk.to/OSVN-EP14\n▶ Nghe toàn bộ bản thu chính thức từ Bài Hát Của Chúng Ta - Our Song Vietnam trên: https://WMVN.lnk.to/OSVN \n\n✨Bài Hát Của Chúng Ta - Our Song Việt Nam là chương trình âm nhạc THỜI THƯỢNG đem đến cho khán giả ĐA THẾ HỆ trải nghiệm tận hưởng khát khao dẫn đầu xu hướng “QUAY VỀ TƯƠNG LAI\".\n\n⏰Đón xem OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚNG TA  vào lúc:\n📺 21H15 Chủ Nhật hàng tuần trên kênh truyền hình VTV3, siêu ứng dụng giải trí VieON\n▶️ 21H45 trên kênh  @dongtaypromotionofficial \n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n \n\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nOur Song Việt Nam:  https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP\n2 Ngày 1 Đêm Việt Nam: https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc\n7 Nụ Cười Xuân: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig\nNhanh Như Chớp: https://www.youtube.com/playlist?list=PLy_TpcUT2LZuqASIzsS38QmT8CDA7zdSs\n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage: https://www.facebook.com/DongTayPromotion\n► Instagram: https://www.instagram.com/dongtaypromotion.official/\n► TikTok: https://www.tiktok.com/@dongtaypromotionofficial",
+      "translatedText": "Our Song Việt Nam - Tập 14: Đêm Công Bố & Trao Giải: \"Sao Hạng A\" hội tụ, cặp đôi nào sẽ là Quán quân?\n\nXem TRỌN BỘ Our Song Việt Nam - Bài Hát Của Chúng Ta:    • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  \n\n#OurSongVietNam #OurSong #BaiHatCuaChungTa #ĐôngTâyPromotion \n#LươngBíchHữu #OgeNus #HồNgọcHà #VănMaiHương #VươngBình \n#HIEUTHUHAI #SongLuân #DươngDomic #Jsol #VũThảoMy #24kRight\n\nMở thẻ VPBank liền tay, nhận ngay vạn deal cùng siêu hoàn tiền đến 15% mọi chi tiêu\n \n\n▶ Tìm nghe bản audio Tập 14 Bài Hát Của Chúng Ta - Our Song Vietnam trên: https://WMVN.lnk.to/OSVN-EP14\n▶ Nghe toàn bộ bản thu chính thức từ Bài Hát Của Chúng Ta - Our Song Vietnam trên: https://WMVN.lnk.to/OSVN \n\n✨Bài Hát Của Chúng Ta - Our Song Việt Nam là chương trình âm nhạc THỜI THƯỢNG đem đến cho khán giả ĐA THẾ HỆ trải nghiệm tận hưởng khát khao dẫn đầu xu hướng “QUAY VỀ TƯƠNG LAI\".\n\n⏰Đón xem OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚNG TA  vào lúc:\n📺 21H15 Chủ Nhật hàng tuần trên kênh truyền hình VTV3, siêu ứng dụng giải trí VieON\n▶️ 21H45 trên kênh  ‪@dongtaypromotionofficial‬ \n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n \n\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nOur Song Việt Nam:     • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  \n2 Ngày 1 Đêm Việt Nam:    • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  \n7 Nụ Cười Xuân:    • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  \nNhanh Như Chớp:    • ⚡️⚡️NHANH NHƯ CHỚP MÙA 5⚡️⚡️ | Gameshow gi...  \n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage:   / dongtaypromotion  \n► Instagram:   / dongtaypromotion.official  \n► TikTok:   / dongtaypromotionofficial  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+          "text": "   • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/oursongvietnam",
+          "text": "#OurSongVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/oursong",
+          "text": "#OurSong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/baihatcuachungta",
+          "text": "#BaiHatCuaChungTa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/%C4%91%C3%B4ngt%C3%A2ypromotion",
+          "text": "#ĐôngTâyPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C6%B0%C6%A1ngb%C3%ADchh%E1%BB%AFu",
+          "text": "#LươngBíchHữu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ogenus",
+          "text": "#OgeNus"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/h%E1%BB%93ng%E1%BB%8Dch%C3%A0",
+          "text": "#HồNgọcHà"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/v%C4%83nmaih%C6%B0%C6%A1ng",
+          "text": "#VănMaiHương"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/v%C6%B0%C6%A1ngb%C3%ACnh",
+          "text": "#VươngBình"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hieuthuhai",
+          "text": "#HIEUTHUHAI"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/songlu%C3%A2n",
+          "text": "#SongLuân"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/d%C6%B0%C6%A1ngdomic",
+          "text": "#DươngDomic"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/jsol",
+          "text": "#Jsol"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/v%C5%A9th%E1%BA%A3omy",
+          "text": "#VũThảoMy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/24kright",
+          "text": "#24kRight"
+        },
+        {
+          "url": "https://WMVN.lnk.to/OSVN-EP14",
+          "text": "https://WMVN.lnk.to/OSVN-EP14"
+        },
+        {
+          "url": "https://WMVN.lnk.to/OSVN",
+          "text": "https://WMVN.lnk.to/OSVN"
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "‪@dongtaypromotionofficial‬"
+        },
+        {
+          "url": "https://bit.ly/SubDTP",
+          "text": "https://bit.ly/SubDTP"
+        },
+        {
+          "url": "https://bit.ly/SubDTE",
+          "text": "https://bit.ly/SubDTE"
+        },
+        {
+          "url": "https://bit.ly/HAUTRUONGDTP",
+          "text": "https://bit.ly/HAUTRUONGDTP"
+        },
+        {
+          "url": "https://bit.ly/showhotDTP",
+          "text": "https://bit.ly/showhotDTP"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+          "text": "   • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc",
+          "text": "   • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig",
+          "text": "   • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuqASIzsS38QmT8CDA7zdSs",
+          "text": "   • ⚡️⚡️NHANH NHƯ CHỚP MÙA 5⚡️⚡️ | Gameshow gi...  "
+        },
+        {
+          "url": "https://www.facebook.com/DongTayPromotion",
+          "text": "  / dongtaypromotion  "
+        },
+        {
+          "url": "https://www.instagram.com/dongtaypromotion.official/",
+          "text": "  / dongtaypromotion.official  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dongtaypromotionofficial",
+          "text": "  / dongtaypromotionofficial  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 0,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+      "isMonetized": null,
+      "hashtags": [
+        "#OurSongVietNam",
+        "#OurSong",
+        "#24kRight"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+      "isPaidContent": false
+    },
+    {
+      "title": "Say Hi Rực Rỡ - Tập 3: Hội anh trai trốn khỏi rừng, hé lộ cuốn nhật kí \"cảm lạnh\" 80 trang",
+      "translatedTitle": "Say Hi Ruc Ro - Episode 3: The brotherhood escapes the forest, revealing an 80-page \"cringe-worth...",
+      "type": "video",
+      "id": "2V20IKyMqnM",
+      "url": "https://www.youtube.com/watch?v=2V20IKyMqnM&list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP&index=2",
+      "thumbnailUrl": "https://i.ytimg.com/vi/2V20IKyMqnM/maxresdefault.jpg",
+      "viewCount": 2378970,
+      "date": "2026-06-21T13:00:07.000Z",
+      "likes": 17000,
+      "location": null,
+      "channelName": "ĐÔNG TÂY PROMOTION OFFICIAL",
+      "channelUrl": "https://www.youtube.com/@dongtaypromotionofficial",
+      "channelUsername": "dongtaypromotionofficial",
+      "collaborators": [
+        {
+          "name": "ĐÔNG TÂY PROMOTION OFFICIAL",
+          "username": "dongtaypromotionofficial",
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "channelId": "UCFMEYTv6N64hIL9FlQ_hxBw"
+        },
+        {
+          "name": "JSOL",
+          "username": "JSOL.DreamS",
+          "url": "https://www.youtube.com/@JSOL.DreamS",
+          "channelId": "UCtX0nlcMMHiNS0djekXscIw"
+        },
+        {
+          "name": "RHYDER OFFICIAL",
+          "username": "RHYDERofficialchannel",
+          "url": "https://www.youtube.com/@RHYDERofficialchannel",
+          "channelId": "UCPjbFSSZXI7ERLRt3O0CGBQ"
+        },
+        {
+          "name": "ĐỨC PHÚC OFFICIAL",
+          "username": "DucPhucOfficial",
+          "url": "https://www.youtube.com/@DucPhucOfficial",
+          "channelId": "UCVIIa6OL-FautUqhHjAoz_A"
+        }
+      ],
+      "channelId": "UCFMEYTv6N64hIL9FlQ_hxBw",
+      "numberOfSubscribers": 9830000,
+      "duration": "01:46:29",
+      "commentsCount": 1323,
+      "text": "Say Hi Rực Rỡ - Tập 3: Hội anh trai trốn khỏi rừng, hé lộ cuốn nhật kí \"cảm lạnh\" 80 trang\n#SayHiRucRo #DatVietVAC \n-------            \n📺 Xem trọn vẹn SAY HI RỰC RỠ TẠI: https://www.youtube.com/watch?v=pJWXb8ofStw&list=PLy_TpcUT2LZtXLChiL_bOHqWmKB0rWuuO            \n🎬 Chương trình sinh tồn thực tế đầu tiên của các idol Việt Nam             \n👥 Dàn cast: Isaac, WEAN, HURRYKNG, RHYDER, Dương Domic, Hùng Huỳnh, Đức Phúc, NICKY, JSOL, Pháp Kiều, Dương Lâm             \n© Nội dung được khai thác và bảo vệ bản quyền bởi VieNETWORK             \n🔥 Partner:             \nMì SiuKay đồng hành cùng chương trình Say Hi Rực Rỡ 2026, sẵn sàng khuấy đảo vị giác!\n7 cấp độ cay thách thức bản lĩnh, nhiều phiên bản - hương vị khác biệt, cùng Mì SiuKay chinh phục thử thách, bật tinh thần \"Cay tột đỉnh - Bùng bản lĩnh\"!! \nXem thêm tại: https://www.facebook.com/mianlienacecook\"             \nCảm ơn Ngân hàng Đồng hành chính thức VietinBank - Nâng giá trị cuộc sống\n#VietinBank #VWealth_DauTuTuDong #TheVietinBankJCB #BaohiemVietinBank\nTìm hiểu thêm: https://www.facebook.com/share/p/18f3qHxMsM/             \nFleur de Lys Hotels & Resorts - Cho Kỳ Nghỉ Rạng Ngời \n#FleurdeLysHotelsandResorts #FleurdeLysHotelQuyNhon #FleurdeLysLongHai #LuxuryHotel #ChoKyNghiRangNgoi\n🌐 Website: https://fleurdelys.vn            \n             \n#DuongLam #DucPhuc #Isaac #NICKY #JSOL #HURRYKNG #RHYDER #WEAN #DuongDomic #HungHuynh #PhapKieu #NamDuLichQuocGia2026 #VietinBank #MìSiuKay             \n             \n📣 Subscribe ĐÔNG TÂY PROMOTION OFFICIAL- Các chương trình SIÊU HẤP DẪN: https://www.youtube.com/c/dongtaypromotionofficial?sub_confirmation=1 \n📣 Subscribe DONG TAY ENTERTAINMENT- VIDEO HOT từ các Show Giải Trí: https://www.youtube.com/DONGTAYENTERTAINMENTofficial?sub_confirmation=1 \n📣 Subscribe 2 NGÀY 1 ĐÊM VIETNAM-  Reality Show Được Yêu Thích : https://www.youtube.com/2NGAY1DEM?sub_confirmation=1 \n📣 Subscribe ĐẤU TRƯỜNG GIA TỐC- Reality Show Đối Kháng & Chiến Thuật: https://www.youtube.com/@dautruonggiatoc?sub_confirmation=1\n📣 Subscribe VIEBUZZ - Nội Dung Đang Thịnh Hành: https://www.youtube.com/@viebuzz1174?sub_confirmation=1\n📣 Subscribe DONG TAY SHOWS - Âm Nhạc Giải Trí: https://www.youtube.com/DongTayShows?sub_confirmation=1             \n👉 CÁC SHOW MỚI  2026 : \nAnh Trai Và Cái Đuôi Nhỏ:  https://www.youtube.com/watch?v=KRef2BML-wc&list=PLy_TpcUT2LZvcJAmF_eYxx195KpRGmzrB \n2 Ngày 1 Đêm Việt Nam: https://www.youtube.com/playlist?list=PLy_TpcUT2LZtXvH1z8NTxInXdl09ODACC \nĐấu Trường Gia Tốc: https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ \nTổ Đội \"\"1 Không 2\"\":  ️⛳TỔ ĐỘI \"\"1 KHÔNG 2\"\" FULL | Những thử thách “CỰC HẠN - KHÔNG TƯỞNG - CÓ 102\"\" \n7 Nụ Cười Xuân: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig            \n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại: \n► YouTube: https://www.youtube.com/@dongtaypromotionofficial\n► Fanpage: https://www.facebook.com/DongTayPromotion \n► Instagram: https://www.instagram.com/dongtaypromotion.official/ \n► TikTok: https://www.tiktok.com/@dongtaypromotionofficial             \n\n🛒Tham khảo các sản phẩm công nghệ, thời trang và tiêu dùng:\nMì SiuKay mì cay 7 cấp độ Siêu Cay: https://shopee.vn/product/989881080/25820464563\nCOMBO Mỳ SiuKay 7 cấp độ vị bò và hải sản: https://shopee.vn/product/1618174041/55559913629\n🍜 [THÙNG 24 GÓI] Mì SiuKay vị Bò Acecook - Mì Cay 7 Cấp Độ ( Date mới ): https://shopee.vn/product/1500107620/48910974250\nThùng 24 gói Mì Siukay hải sản/ vị bò/ gà cay phomai: https://shopee.vn/product/1118874397/47660194642\nCombo 6 gói mì SiuKay Vị Bò/Hải Sản/Gà phô mai 128gr/gói: https://shopee.vn/product/78955766/42950399684\n[COMBO 10 GÓI/ 1 THÙNG] Mỳ Siu Kay Acecook Vị Bò/ Hải Sản/Gà sốt phomai: https://shopee.vn/product/13340891/43013549408\nThùng 12 Tô Mì Hải Sản SiuKay Tia Chớp 96g: https://shopee.vn/product/1375408429/27768710381\nThùng 12 tô mì Siukay mix vị 95g: https://shopee.vn/product/1086006715/48661370292\nKẹo Nhai 3 Viên Có Nhân Dynamite Chews Candy (Gói 125g): https://shopee.vn/product/95140732/11306217297\nKẹo Dynamite Soda gói 96g: https://shopee.vn/product/95140732/43768122575\nMẫu Mới - Kẹo Mềm Bạc Hà MAXX DYNAMITE 112.5Gram: https://shopee.vn/product/735555966/56008997186\nJacknjill Dynamite Gummy Play Kẹo Dẻo Sáng Tạo Gói 40g - Vị Trái Cây & Hạt Mâm Xôi: https://shopee.vn/product/1561861818/48500132695\nKẹo The Nhân KG Hương Bạc Hà Nhân Sôcôla Dynamite BigBang(Gói 1kg): https://shopee.vn/product/1152931648/24969741932\nDành Cho DJI OSMO POCKET 3 / Pocket 4: https://shopee.vn/product/893104401/25256751666\nUlanzi MT90 CKA Quick Release Tripod Selfie Stick: https://shopee.vn/product/1057822455/48461372997\nTAY CẦM MINI GOPRO VÀ ACTION CAM TELESIN CHÍNH HÃNG: https://shopee.vn/product/57280012/10468719365\nCamera hành động DJI Osmo Action 5 Pro:\nhttps://shopee.vn/product/1486443761/26830494813\nMáy ảnh lấy liền FUJIFILM Instax Mini Evo Hybrid: https://shopee.vn/product/233153238/14742565861",
+      "translatedText": "Say Hi Rực Rỡ - Episode 3: The Brothers Escape from the Forest, Revealing an 80-Page \"Cold\" Diary\n#SayHiRucRo #DatVietVAC\n------- 📺 Watch the full SAY HI RỰC RỠ at:    • Say Hi Rực Rỡ - Tập 2: \"Dành Dành\" Đức Phú...   \n🎬 The first reality survival show of Vietnamese idols \n👥 Cast: Isaac, WEAN, HURRYKNG, RHYDER, Dương Domic, Hùng Huỳnh, Đức Phúc, NICKY, JSOL, Pháp Kiều, Dương Lâm \n© Content is exploited and protected by copyright by VieNETWORK \n🔥 Partner: \nSiuKay Noodles is accompanying the Say Hi Rực Rỡ 2026 program, ready to stir up your taste buds! 7 levels of spiciness to challenge your limits, multiple variations - different flavors, conquer the challenge with SiuKay Noodles, unleash your \"Ultimate Spicy - Unleash Your Courage\" spirit!! See more at:   / mianlienacecook  \nThank you to our official partner, VietinBank - Enhancing the value of life\n#VietinBank #VWealth_AutomaticInvestment #TheVietinBankJCB #VietinBankInsurance\nLearn more:   / 18f3qhxmsm   Fleur de Lys Hotels & Resorts - For a Radiant Vacation \n#FleurdeLysHotelsandResorts #FleurdeLysHotelQuyNhon #FleurdeLysLongHai #LuxuryHotel #ForARadiantVacation\n🌐 Website: https://fleurdelys.vn \n#DuongLam #DucPhuc #Isaac #NICKY #JSOL #HURRYKNG #RHYDER #WEAN #DuongDomic #HungHuynh #PhapKieu #NationalTourismYear2026 #VietinBank #SiuKayNoodles\n\n📣 Subscribe to DONG TAY PROMOTION OFFICIAL - Super Exciting Programs: https://www.youtube.com/c/dongtayprom...\n📣 Subscribe to DONG TAY ENTERTAINMENT - Hot Videos from Entertainment Shows: https://www.youtube.com/DONGTAYENTERT...\n📣 Subscribe to 2 DAYS 1 NIGHT VIETNAM - Popular Reality Show: https://www.youtube.com/2NGAY1DEM?sub...\n📣 Subscribe to ACCELERATION ARENA - Reality Show of Combat & Strategy: https://www.youtube.com/@dautruonggia...\n📣 Subscribe to VIEBUZZ - Trending Content Trending: https://www.youtube.com/@viebuzz1174?...\n📣 Subscribe to DONG TAY SHOWS - Music & Entertainment: https://www.youtube.com/DongTayShows?... 👉 NEW SHOWS 2026: \nBrother and the Little Tail:    • Anh Trai Và Cái Đuôi Nhỏ  - Tập 1: ISAAC, ...   2 Days 1 Night Vietnam:    • 💥2 NGÀY 1 ĐÊM MÙA 4 | Kết nối vô biên, càn...   \nAcceleration Arena:    • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...   ► Team \"1 No 2\": ️⛳ TEAM \"1 NO 2\" FULL | The \"EXTREME - UNBELIEVABLE - ONE OF A KIND\" Challenges 7 Nụ Cười Xuân:    • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...   \n👉 Follow the official channels of Dong Tay Promotion - owned by DatVietVAC at: ► YouTube:    / @dongtaypromotionofficial  \n► Fanpage:   / dongtaypromotion   ► Instagram:   / dongtaypromotion.official   ► TikTok:   / dongtaypromotionofficial   \n🛒 Check out technology, fashion and consumer products Uses:\nSiuKay Spicy Noodles 7 Levels of Spice: https://shopee.vn/product/989881080/2...\nCombo SiuKay Noodles 7 Levels of Spice (Beef and Seafood Flavor): https://shopee.vn/product/1618174041/...\n🍜 [BOX OF 24 PACKS] Acecook SiuKay Beef Flavor Noodles - 7 Levels of Spice (New Expiry Date): https://shopee.vn/product/1500107620/...\nBox of 24 packs SiuKay Seafood/Beef/Chicken Spicy Cheese Noodles: https://shopee.vn/product/1118874397/...\nCombo of 6 packs of SiuKay Noodles (Beef/Seafood Flavor) Seafood/Chicken Cheese Flavor 128g/pack: https://shopee.vn/product/78955766/42...\n[COMBO 10 PACKS/ 1 BOX] Acecook Siu Kay Instant Noodles Beef/Seafood/Chicken with Cheese Sauce: https://shopee.vn/product/13340891/43...\nBox of 12 Siu Kay Lightning Seafood Instant Noodles 96g: https://shopee.vn/product/1375408429/...\nBox of 12 Siu Kay Mixed Flavor Instant Noodles 95g: https://shopee.vn/product/1086006715/...\nDynamite Chews Candy (3 pieces with filling) (125g pack): https://shopee.vn/product/95140732/11...\nDynamite Soda Candy 96g pack: https://shopee.vn/product/95140732/43...\nNew Model - MAXX DYNAMITE Mint Soft Candy 112.5 Gram: https://shopee.vn/product/735555966/5...\nJacknjill Dynamite Gummy Play Creative Gummy Candy 40g pack - Fruit & Raspberry Flavor: https://shopee.vn/product/1561861818/...\nDynamite BigBang Mint Chocolate Filled Candy (1kg pack): https://shopee.vn/product/1152931648/...\nFor DJI OSMO POCKET 3 / Pocket 4: https://shopee.vn/product/893104401/2...\nUlanzi MT90 CKA Quick Release Tripod Selfie Stick: https://shopee.vn/product/1057822455/...\nGenuine Mini GoPro and Action Cam Telesin Handle: https://shopee.vn/product/57280012/10...\nDJI Osmo Action 5 Pro Action Camera:\n\nhttps://shopee.vn/product/1486443761/...\nFUJIFILM Instax Mini Evo Hybrid Instant Camera: https://shopee.vn/product/233153238/1...",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/sayhirucro",
+          "text": "#SayHiRucRo"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/datvietvac",
+          "text": "#DatVietVAC"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=pJWXb8ofStw&list=PLy_TpcUT2LZtXLChiL_bOHqWmKB0rWuuO&index=1",
+          "text": "   • Say Hi Rực Rỡ - Tập 2: \"Dành Dành\" Đức Phú...  "
+        },
+        {
+          "url": "https://www.facebook.com/mianlienacecook",
+          "text": "  / mianlienacecook  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vietinbank",
+          "text": "#VietinBank"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vwealth_automaticinvestment",
+          "text": "#VWealth_AutomaticInvestment"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thevietinbankjcb",
+          "text": "#TheVietinBankJCB"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vietinbankinsurance",
+          "text": "#VietinBankInsurance"
+        },
+        {
+          "url": "https://www.facebook.com/share/p/18f3qHxMsM/",
+          "text": "  / 18f3qhxmsm  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/fleurdelyshotelsandresorts",
+          "text": "#FleurdeLysHotelsandResorts"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/fleurdelyshotelquynhon",
+          "text": "#FleurdeLysHotelQuyNhon"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/fleurdelyslonghai",
+          "text": "#FleurdeLysLongHai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/luxuryhotel",
+          "text": "#LuxuryHotel"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/foraradiantvacation",
+          "text": "#ForARadiantVacation"
+        },
+        {
+          "url": "https://fleurdelys.vn/",
+          "text": "https://fleurdelys.vn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/duonglam",
+          "text": "#DuongLam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ducphuc",
+          "text": "#DucPhuc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/isaac",
+          "text": "#Isaac"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/nicky",
+          "text": "#NICKY"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/jsol",
+          "text": "#JSOL"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hurrykng",
+          "text": "#HURRYKNG"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/rhyder",
+          "text": "#RHYDER"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/wean",
+          "text": "#WEAN"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/duongdomic",
+          "text": "#DuongDomic"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hunghuynh",
+          "text": "#HungHuynh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phapkieu",
+          "text": "#PhapKieu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/nationaltourismyear2026",
+          "text": "#NationalTourismYear2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vietinbank",
+          "text": "#VietinBank"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/siukaynoodles",
+          "text": "#SiuKayNoodles"
+        },
+        {
+          "url": "https://www.youtube.com/c/dongtaypromotionofficial?sub_confirmation=1",
+          "text": "https://www.youtube.com/c/dongtayprom..."
+        },
+        {
+          "url": "https://www.youtube.com/DONGTAYENTERTAINMENTofficial?sub_confirmation=1",
+          "text": "https://www.youtube.com/DONGTAYENTERT..."
+        },
+        {
+          "url": "https://www.youtube.com/2NGAY1DEM?sub_confirmation=1",
+          "text": "https://www.youtube.com/2NGAY1DEM?sub..."
+        },
+        {
+          "url": "https://www.youtube.com/@dautruonggiatoc?sub_confirmation=1",
+          "text": "https://www.youtube.com/@dautruonggia..."
+        },
+        {
+          "url": "https://www.youtube.com/@viebuzz1174?sub_confirmation=1",
+          "text": "https://www.youtube.com/@viebuzz1174?..."
+        },
+        {
+          "url": "https://www.youtube.com/DongTayShows?sub_confirmation=1",
+          "text": "https://www.youtube.com/DongTayShows?..."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=KRef2BML-wc&list=PLy_TpcUT2LZvcJAmF_eYxx195KpRGmzrB&index=1",
+          "text": "   • Anh Trai Và Cái Đuôi Nhỏ  - Tập 1: ISAAC, ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtXvH1z8NTxInXdl09ODACC",
+          "text": "   • 💥2 NGÀY 1 ĐÊM MÙA 4 | Kết nối vô biên, càn...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZtKjiN00baVxhHVN1HthDiQ",
+          "text": "   • 🏃ĐẤU TRƯỜNG GIA TỐC | Những cuộc rượt đuổi...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig",
+          "text": "   • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  "
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "   / @dongtaypromotionofficial  "
+        },
+        {
+          "url": "https://www.facebook.com/DongTayPromotion",
+          "text": "  / dongtaypromotion  "
+        },
+        {
+          "url": "https://www.instagram.com/dongtaypromotion.official/",
+          "text": "  / dongtaypromotion.official  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dongtaypromotionofficial",
+          "text": "  / dongtaypromotionofficial  "
+        },
+        {
+          "url": "https://shopee.vn/product/989881080/25820464563",
+          "text": "https://shopee.vn/product/989881080/2..."
+        },
+        {
+          "url": "https://shopee.vn/product/1618174041/55559913629",
+          "text": "https://shopee.vn/product/1618174041/..."
+        },
+        {
+          "url": "https://shopee.vn/product/1500107620/48910974250",
+          "text": "https://shopee.vn/product/1500107620/..."
+        },
+        {
+          "url": "https://shopee.vn/product/1118874397/47660194642",
+          "text": "https://shopee.vn/product/1118874397/..."
+        },
+        {
+          "url": "https://shopee.vn/product/78955766/42950399684",
+          "text": "https://shopee.vn/product/78955766/42..."
+        },
+        {
+          "url": "https://shopee.vn/product/13340891/43013549408",
+          "text": "https://shopee.vn/product/13340891/43..."
+        },
+        {
+          "url": "https://shopee.vn/product/1375408429/27768710381",
+          "text": "https://shopee.vn/product/1375408429/..."
+        },
+        {
+          "url": "https://shopee.vn/product/1086006715/48661370292",
+          "text": "https://shopee.vn/product/1086006715/..."
+        },
+        {
+          "url": "https://shopee.vn/product/95140732/11306217297",
+          "text": "https://shopee.vn/product/95140732/11..."
+        },
+        {
+          "url": "https://shopee.vn/product/95140732/43768122575",
+          "text": "https://shopee.vn/product/95140732/43..."
+        },
+        {
+          "url": "https://shopee.vn/product/735555966/56008997186",
+          "text": "https://shopee.vn/product/735555966/5..."
+        },
+        {
+          "url": "https://shopee.vn/product/1561861818/48500132695",
+          "text": "https://shopee.vn/product/1561861818/..."
+        },
+        {
+          "url": "https://shopee.vn/product/1152931648/24969741932",
+          "text": "https://shopee.vn/product/1152931648/..."
+        },
+        {
+          "url": "https://shopee.vn/product/893104401/25256751666",
+          "text": "https://shopee.vn/product/893104401/2..."
+        },
+        {
+          "url": "https://shopee.vn/product/1057822455/48461372997",
+          "text": "https://shopee.vn/product/1057822455/..."
+        },
+        {
+          "url": "https://shopee.vn/product/57280012/10468719365",
+          "text": "https://shopee.vn/product/57280012/10..."
+        },
+        {
+          "url": "https://shopee.vn/product/1486443761/26830494813",
+          "text": "https://shopee.vn/product/1486443761/..."
+        },
+        {
+          "url": "https://shopee.vn/product/233153238/14742565861",
+          "text": "https://shopee.vn/product/233153238/1..."
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 1,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+      "isPaidContent": false
+    },
+    {
+      "title": "Our Song Việt Nam - Tập 13: Top 3 tạo cơn địa chấn đêm chung kết, Kim Phút Kim Giờ tung version mới",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "1PbUucFccGg",
+      "url": "https://www.youtube.com/watch?v=1PbUucFccGg&list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP&index=3",
+      "thumbnailUrl": "https://i.ytimg.com/vi/1PbUucFccGg/maxresdefault.jpg",
+      "viewCount": 3590745,
+      "date": "2024-11-24T14:30:07.000Z",
+      "likes": 6300,
+      "location": null,
+      "channelName": "ĐÔNG TÂY PROMOTION OFFICIAL",
+      "channelUrl": "https://www.youtube.com/@dongtaypromotionofficial",
+      "channelUsername": "dongtaypromotionofficial",
+      "collaborators": null,
+      "channelId": "UCFMEYTv6N64hIL9FlQ_hxBw",
+      "numberOfSubscribers": 9830000,
+      "duration": "02:02:28",
+      "commentsCount": 1059,
+      "text": "Our Song Việt Nam - Tập 13: Top 3 tạo cơn địa chấn đêm chung kết, Kim Phút Kim Giờ tung version mới\n\nXem TRỌN BỘ Our Song Việt Nam - Bài Hát Của Chúng Ta: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP\n\n#OurSongVietNam #OurSong #BaiHatCuaChungTa #ĐôngTâyPromotion \n#ThuMinh #VũThảoMy #ThanhLam #Orange #LươngBíchHữu #OgeNus #TrấnThành\n#HoàngHải #LâmBảoNgọc #MaiTiếnDũng #LyLy #NgọcAnh #CaptainBoy\n\nMở thẻ VPBank liền tay, nhận ngay vạn deal cùng siêu hoàn tiền đến 15% mọi chi tiêu\n \n\n▶ Tìm nghe các bản audio Tập 13 Bài Hát Của Chúng Ta - Our Song Vietnam trên: https://WMVN.lnk.to/OSVN-EP13\n▶ Follow playlist Bài Hát Của Chúng Ta - Our Song Vietnam để được cập nhật sớm nhất khi audio được phát hành: https://WMVN.lnk.to/OSVN \n\n✨Bài Hát Của Chúng Ta - Our Song Việt Nam là chương trình âm nhạc THỜI THƯỢNG đem đến cho khán giả ĐA THẾ HỆ trải nghiệm tận hưởng khát khao dẫn đầu xu hướng “QUAY VỀ TƯƠNG LAI\".\n\n⏰Đón xem OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚNG TA  vào lúc:\n📺 21H15 Chủ Nhật hàng tuần trên kênh truyền hình VTV3, siêu ứng dụng giải trí VieON\n▶️ 21H45 trên kênh @dongtaypromotionofficial \n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n \n\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nOur Song Việt Nam:  https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP\n2 Ngày 1 Đêm Việt Nam: https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc\n7 Nụ Cười Xuân: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig\nNhanh Như Chớp: https://www.youtube.com/playlist?list=PLy_TpcUT2LZuqASIzsS38QmT8CDA7zdSs\n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage: https://www.facebook.com/DongTayPromotion\n► Instagram: https://www.instagram.com/dongtaypromotion.official/\n► TikTok: https://www.tiktok.com/@dongtaypromotionofficial",
+      "translatedText": "Our Song Việt Nam - Tập 13: Top 3 tạo cơn địa chấn đêm chung kết, Kim Phút Kim Giờ tung version mới\n\nXem TRỌN BỘ Our Song Việt Nam - Bài Hát Của Chúng Ta:    • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  \n\n#OurSongVietNam #OurSong #BaiHatCuaChungTa #ĐôngTâyPromotion \n#ThuMinh #VũThảoMy #ThanhLam #Orange #LươngBíchHữu #OgeNus #TrấnThành\n#HoàngHải #LâmBảoNgọc #MaiTiếnDũng #LyLy #NgọcAnh #CaptainBoy\n\nMở thẻ VPBank liền tay, nhận ngay vạn deal cùng siêu hoàn tiền đến 15% mọi chi tiêu\n \n\n▶ Tìm nghe các bản audio Tập 13 Bài Hát Của Chúng Ta - Our Song Vietnam trên: https://WMVN.lnk.to/OSVN-EP13\n▶ Follow playlist Bài Hát Của Chúng Ta - Our Song Vietnam để được cập nhật sớm nhất khi audio được phát hành: https://WMVN.lnk.to/OSVN \n\n✨Bài Hát Của Chúng Ta - Our Song Việt Nam là chương trình âm nhạc THỜI THƯỢNG đem đến cho khán giả ĐA THẾ HỆ trải nghiệm tận hưởng khát khao dẫn đầu xu hướng “QUAY VỀ TƯƠNG LAI\".\n\n⏰Đón xem OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚNG TA  vào lúc:\n📺 21H15 Chủ Nhật hàng tuần trên kênh truyền hình VTV3, siêu ứng dụng giải trí VieON\n▶️ 21H45 trên kênh ‪@dongtaypromotionofficial‬ \n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n \n\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nOur Song Việt Nam:     • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  \n2 Ngày 1 Đêm Việt Nam:    • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  \n7 Nụ Cười Xuân:    • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  \nNhanh Như Chớp:    • ⚡️⚡️NHANH NHƯ CHỚP MÙA 5⚡️⚡️ | Gameshow gi...  \n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage:   / dongtaypromotion  \n► Instagram:   / dongtaypromotion.official  \n► TikTok:   / dongtaypromotionofficial  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+          "text": "   • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/oursongvietnam",
+          "text": "#OurSongVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/oursong",
+          "text": "#OurSong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/baihatcuachungta",
+          "text": "#BaiHatCuaChungTa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/%C4%91%C3%B4ngt%C3%A2ypromotion",
+          "text": "#ĐôngTâyPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thuminh",
+          "text": "#ThuMinh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/v%C5%A9th%E1%BA%A3omy",
+          "text": "#VũThảoMy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thanhlam",
+          "text": "#ThanhLam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/orange",
+          "text": "#Orange"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C6%B0%C6%A1ngb%C3%ADchh%E1%BB%AFu",
+          "text": "#LươngBíchHữu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ogenus",
+          "text": "#OgeNus"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tr%E1%BA%A5nth%C3%A0nh",
+          "text": "#TrấnThành"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ho%C3%A0ngh%E1%BA%A3i",
+          "text": "#HoàngHải"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%A2mb%E1%BA%A3ong%E1%BB%8Dc",
+          "text": "#LâmBảoNgọc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/maiti%E1%BA%BFnd%C5%A9ng",
+          "text": "#MaiTiếnDũng"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lyly",
+          "text": "#LyLy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ng%E1%BB%8Dcanh",
+          "text": "#NgọcAnh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/captainboy",
+          "text": "#CaptainBoy"
+        },
+        {
+          "url": "https://WMVN.lnk.to/OSVN-EP13",
+          "text": "https://WMVN.lnk.to/OSVN-EP13"
+        },
+        {
+          "url": "https://WMVN.lnk.to/OSVN",
+          "text": "https://WMVN.lnk.to/OSVN"
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "‪@dongtaypromotionofficial‬"
+        },
+        {
+          "url": "https://bit.ly/SubDTP",
+          "text": "https://bit.ly/SubDTP"
+        },
+        {
+          "url": "https://bit.ly/SubDTE",
+          "text": "https://bit.ly/SubDTE"
+        },
+        {
+          "url": "https://bit.ly/HAUTRUONGDTP",
+          "text": "https://bit.ly/HAUTRUONGDTP"
+        },
+        {
+          "url": "https://bit.ly/showhotDTP",
+          "text": "https://bit.ly/showhotDTP"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+          "text": "   • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc",
+          "text": "   • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig",
+          "text": "   • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuqASIzsS38QmT8CDA7zdSs",
+          "text": "   • ⚡️⚡️NHANH NHƯ CHỚP MÙA 5⚡️⚡️ | Gameshow gi...  "
+        },
+        {
+          "url": "https://www.facebook.com/DongTayPromotion",
+          "text": "  / dongtaypromotion  "
+        },
+        {
+          "url": "https://www.instagram.com/dongtaypromotion.official/",
+          "text": "  / dongtaypromotion.official  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dongtaypromotionofficial",
+          "text": "  / dongtaypromotionofficial  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 2,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+      "isMonetized": null,
+      "hashtags": [
+        "#OurSongVietNam",
+        "#OurSong",
+        "#HoàngHải"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+      "isPaidContent": false
+    },
+    {
+      "title": "Our Song Việt Nam-Tập 4: Lương Bích Hữu tái hiện Thế giới Vpop, LyLy mượn rượu tỏ tình Mai Tiến Dũng",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "0HMkCTg_IFE",
+      "url": "https://www.youtube.com/watch?v=0HMkCTg_IFE&list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP&index=12",
+      "thumbnailUrl": "https://i.ytimg.com/vi/0HMkCTg_IFE/maxresdefault.jpg",
+      "viewCount": 3147341,
+      "date": "2024-09-22T14:30:07.000Z",
+      "likes": 8800,
+      "location": null,
+      "channelName": "ĐÔNG TÂY PROMOTION OFFICIAL",
+      "channelUrl": "https://www.youtube.com/@dongtaypromotionofficial",
+      "channelUsername": "dongtaypromotionofficial",
+      "collaborators": null,
+      "channelId": "UCFMEYTv6N64hIL9FlQ_hxBw",
+      "numberOfSubscribers": 9830000,
+      "duration": "01:33:44",
+      "commentsCount": 2175,
+      "text": "Our Song Việt Nam - Tập 4: Lương Bích Hữu tái hiện Thế giới Vpop, LyLy mượn rượu tỏ tình Mai Tiến Dũng\n\nXem TRỌN BỘ Our Song Việt Nam - Bài Hát Của Chúng Ta: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP\n\n#OurSongVietNam #OurSong #BaiHatCuaChungTa #ĐôngTâyPromotion \n#ThuMinh #VũThảoMy #LươngBíchHữu #OgeNus \n#ThanhLam #Orange #LyLy #MaiTiếnDũng \n\nMở thẻ VPBank liền tay, nhận ngay vạn deal cùng siêu hoàn tiền đến 15% mọi chi tiêu\n  \n\n▶ Tìm nghe các bản audio Tập 4 Bài Hát Của Chúng Ta - Our Song Vietnam trên: https://WMVN.lnk.to/OSVN-EP4\n▶ Follow playlist Bài Hát Của Chúng Ta - Our Song Vietnam để được cập nhật sớm nhất khi audio được phát hành: https://WMVN.lnk.to/OSVN \n\n✨Bài Hát Của Chúng Ta - Our Song Việt Nam là chương trình âm nhạc THỜI THƯỢNG đem đến cho khán giả ĐA THẾ HỆ trải nghiệm tận hưởng khát khao dẫn đầu xu hướng “QUAY VỀ TƯƠNG LAI\".\n\n⏰Đón xem OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚNG TA  vào lúc:\n📺 21H15 Chủ Nhật hàng tuần trên kênh truyền hình VTV3, siêu ứng dụng giải trí VieON\n▶️ 21H45 trên kênh   @dongtaypromotionofficial  \n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n \n\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nOur Song Việt Nam:  https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP\n2 Ngày 1 Đêm Việt Nam: https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc\n7 Nụ Cười Xuân: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig\nNhanh Như Chớp: https://www.youtube.com/playlist?list=PLy_TpcUT2LZuqASIzsS38QmT8CDA7zdSs\n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage: https://www.facebook.com/DongTayPromotion\n► Instagram: https://www.instagram.com/dongtaypromotion.official/\n► TikTok: https://www.tiktok.com/@dongtaypromotionofficial",
+      "translatedText": "Our Song Việt Nam - Tập 4: Lương Bích Hữu tái hiện Thế giới Vpop, LyLy mượn rượu tỏ tình Mai Tiến Dũng\n\nXem TRỌN BỘ Our Song Việt Nam - Bài Hát Của Chúng Ta:    • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  \n\n#OurSongVietNam #OurSong #BaiHatCuaChungTa #ĐôngTâyPromotion \n#ThuMinh #VũThảoMy #LươngBíchHữu #OgeNus \n#ThanhLam #Orange #LyLy #MaiTiếnDũng \n\nMở thẻ VPBank liền tay, nhận ngay vạn deal cùng siêu hoàn tiền đến 15% mọi chi tiêu\n  \n\n▶ Tìm nghe các bản audio Tập 4 Bài Hát Của Chúng Ta - Our Song Vietnam trên: https://WMVN.lnk.to/OSVN-EP4\n▶ Follow playlist Bài Hát Của Chúng Ta - Our Song Vietnam để được cập nhật sớm nhất khi audio được phát hành: https://WMVN.lnk.to/OSVN \n\n✨Bài Hát Của Chúng Ta - Our Song Việt Nam là chương trình âm nhạc THỜI THƯỢNG đem đến cho khán giả ĐA THẾ HỆ trải nghiệm tận hưởng khát khao dẫn đầu xu hướng “QUAY VỀ TƯƠNG LAI\".\n\n⏰Đón xem OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚNG TA  vào lúc:\n📺 21H15 Chủ Nhật hàng tuần trên kênh truyền hình VTV3, siêu ứng dụng giải trí VieON\n▶️ 21H45 trên kênh   @dongtaypromotionofficial  \n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n \n\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nOur Song Việt Nam:     • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  \n2 Ngày 1 Đêm Việt Nam:    • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  \n7 Nụ Cười Xuân:    • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  \nNhanh Như Chớp:    • ⚡️⚡️NHANH NHƯ CHỚP MÙA 5⚡️⚡️ | Gameshow gi...  \n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage:   / dongtaypromotion  \n► Instagram:   / dongtaypromotion.official  \n► TikTok:   / dongtaypromotionofficial  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+          "text": "   • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/oursongvietnam",
+          "text": "#OurSongVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/oursong",
+          "text": "#OurSong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/baihatcuachungta",
+          "text": "#BaiHatCuaChungTa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/%C4%91%C3%B4ngt%C3%A2ypromotion",
+          "text": "#ĐôngTâyPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thuminh",
+          "text": "#ThuMinh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/v%C5%A9th%E1%BA%A3omy",
+          "text": "#VũThảoMy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C6%B0%C6%A1ngb%C3%ADchh%E1%BB%AFu",
+          "text": "#LươngBíchHữu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ogenus",
+          "text": "#OgeNus"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thanhlam",
+          "text": "#ThanhLam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/orange",
+          "text": "#Orange"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lyly",
+          "text": "#LyLy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/maiti%E1%BA%BFnd%C5%A9ng",
+          "text": "#MaiTiếnDũng"
+        },
+        {
+          "url": "https://WMVN.lnk.to/OSVN-EP4",
+          "text": "https://WMVN.lnk.to/OSVN-EP4"
+        },
+        {
+          "url": "https://WMVN.lnk.to/OSVN",
+          "text": "https://WMVN.lnk.to/OSVN"
+        },
+        {
+          "url": "https://bit.ly/SubDTP",
+          "text": "https://bit.ly/SubDTP"
+        },
+        {
+          "url": "https://bit.ly/SubDTE",
+          "text": "https://bit.ly/SubDTE"
+        },
+        {
+          "url": "https://bit.ly/HAUTRUONGDTP",
+          "text": "https://bit.ly/HAUTRUONGDTP"
+        },
+        {
+          "url": "https://bit.ly/showhotDTP",
+          "text": "https://bit.ly/showhotDTP"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+          "text": "   • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc",
+          "text": "   • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig",
+          "text": "   • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuqASIzsS38QmT8CDA7zdSs",
+          "text": "   • ⚡️⚡️NHANH NHƯ CHỚP MÙA 5⚡️⚡️ | Gameshow gi...  "
+        },
+        {
+          "url": "https://www.facebook.com/DongTayPromotion",
+          "text": "  / dongtaypromotion  "
+        },
+        {
+          "url": "https://www.instagram.com/dongtaypromotion.official/",
+          "text": "  / dongtaypromotion.official  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dongtaypromotionofficial",
+          "text": "  / dongtaypromotionofficial  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 11,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+      "isMonetized": null,
+      "hashtags": [
+        "#OurSongVietNam",
+        "#OurSong",
+        "#LyLy"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+      "isPaidContent": false
+    },
+    {
+      "title": "Our Song Việt Nam-Tập 6: Vũ Thảo My-WEAN thiêu đốt sân khấu, Hoàng Hải flex trình hát opera cực đỉnh",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "RYPVmeZ0RCk",
+      "url": "https://www.youtube.com/watch?v=RYPVmeZ0RCk&list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP&index=10",
+      "thumbnailUrl": "https://i.ytimg.com/vi/RYPVmeZ0RCk/maxresdefault.jpg",
+      "viewCount": 2841491,
+      "date": "2024-10-06T14:30:08.000Z",
+      "likes": 6900,
+      "location": null,
+      "channelName": "ĐÔNG TÂY PROMOTION OFFICIAL",
+      "channelUrl": "https://www.youtube.com/@dongtaypromotionofficial",
+      "channelUsername": "dongtaypromotionofficial",
+      "collaborators": null,
+      "channelId": "UCFMEYTv6N64hIL9FlQ_hxBw",
+      "numberOfSubscribers": 9830000,
+      "duration": "01:36:43",
+      "commentsCount": 1895,
+      "text": "Our Song Việt Nam-Tập 6: Vũ Thảo My-WEAN thiêu đốt sân khấu, Hoàng Hải flex trình hát opera cực đỉnh\n\nXem TRỌN BỘ Our Song Việt Nam - Bài Hát Của Chúng Ta: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP\n\n#OurSongVietNam #OurSong #BaiHatCuaChungTa #ĐôngTâyPromotion \n#ThuMinh #NgọcAnh #HoàngHải  #LươngBíchHữu #OgeNus\n#WEAN #HoàngDũng #LâmBảoNgọc #VũThảoMy #PhanDuyAnh\n\nMở thẻ VPBank liền tay, nhận ngay vạn deal cùng siêu hoàn tiền đến 15% mọi chi tiêu\n  \n\n▶ Tìm nghe các bản audio Tập 6 Bài Hát Của Chúng Ta - Our Song Vietnam trên: https://WMVN.lnk.to/OSVN-EP6\n▶ Follow playlist Bài Hát Của Chúng Ta - Our Song Vietnam để được cập nhật sớm nhất khi audio được phát hành: https://WMVN.lnk.to/OSVN \n\n✨Bài Hát Của Chúng Ta - Our Song Việt Nam là chương trình âm nhạc THỜI THƯỢNG đem đến cho khán giả ĐA THẾ HỆ trải nghiệm tận hưởng khát khao dẫn đầu xu hướng “QUAY VỀ TƯƠNG LAI\".\n\n⏰Đón xem OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚNG TA  vào lúc:\n📺 21H15 Chủ Nhật hàng tuần trên kênh truyền hình VTV3, siêu ứng dụng giải trí VieON\n▶️ 21H45 trên kênh   @dongtaypromotionofficial \n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n \n\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nOur Song Việt Nam:  https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP\n2 Ngày 1 Đêm Việt Nam: https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc\n7 Nụ Cười Xuân: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig\nNhanh Như Chớp: https://www.youtube.com/playlist?list=PLy_TpcUT2LZuqASIzsS38QmT8CDA7zdSs\n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage: https://www.facebook.com/DongTayPromotion\n► Instagram: https://www.instagram.com/dongtaypromotion.official/\n► TikTok: https://www.tiktok.com/@dongtaypromotionofficial",
+      "translatedText": "Our Song Việt Nam-Tập 6: Vũ Thảo My-WEAN thiêu đốt sân khấu, Hoàng Hải flex trình hát opera cực đỉnh\n\nXem TRỌN BỘ Our Song Việt Nam - Bài Hát Của Chúng Ta:    • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  \n\n#OurSongVietNam #OurSong #BaiHatCuaChungTa #ĐôngTâyPromotion \n#ThuMinh #NgọcAnh #HoàngHải  #LươngBíchHữu #OgeNus\n#WEAN #HoàngDũng #LâmBảoNgọc #VũThảoMy #PhanDuyAnh\n\nMở thẻ VPBank liền tay, nhận ngay vạn deal cùng siêu hoàn tiền đến 15% mọi chi tiêu\n  \n\n▶ Tìm nghe các bản audio Tập 6 Bài Hát Của Chúng Ta - Our Song Vietnam trên: https://WMVN.lnk.to/OSVN-EP6\n▶ Follow playlist Bài Hát Của Chúng Ta - Our Song Vietnam để được cập nhật sớm nhất khi audio được phát hành: https://WMVN.lnk.to/OSVN \n\n✨Bài Hát Của Chúng Ta - Our Song Việt Nam là chương trình âm nhạc THỜI THƯỢNG đem đến cho khán giả ĐA THẾ HỆ trải nghiệm tận hưởng khát khao dẫn đầu xu hướng “QUAY VỀ TƯƠNG LAI\".\n\n⏰Đón xem OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚNG TA  vào lúc:\n📺 21H15 Chủ Nhật hàng tuần trên kênh truyền hình VTV3, siêu ứng dụng giải trí VieON\n▶️ 21H45 trên kênh   @dongtaypromotionofficial \n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n \n\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nOur Song Việt Nam:     • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  \n2 Ngày 1 Đêm Việt Nam:    • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  \n7 Nụ Cười Xuân:    • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  \nNhanh Như Chớp:    • ⚡️⚡️NHANH NHƯ CHỚP MÙA 5⚡️⚡️ | Gameshow gi...  \n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage:   / dongtaypromotion  \n► Instagram:   / dongtaypromotion.official  \n► TikTok:   / dongtaypromotionofficial  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+          "text": "   • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/oursongvietnam",
+          "text": "#OurSongVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/oursong",
+          "text": "#OurSong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/baihatcuachungta",
+          "text": "#BaiHatCuaChungTa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/%C4%91%C3%B4ngt%C3%A2ypromotion",
+          "text": "#ĐôngTâyPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thuminh",
+          "text": "#ThuMinh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ng%E1%BB%8Dcanh",
+          "text": "#NgọcAnh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ho%C3%A0ngh%E1%BA%A3i",
+          "text": "#HoàngHải"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C6%B0%C6%A1ngb%C3%ADchh%E1%BB%AFu",
+          "text": "#LươngBíchHữu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ogenus",
+          "text": "#OgeNus"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/wean",
+          "text": "#WEAN"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ho%C3%A0ngd%C5%A9ng",
+          "text": "#HoàngDũng"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%A2mb%E1%BA%A3ong%E1%BB%8Dc",
+          "text": "#LâmBảoNgọc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/v%C5%A9th%E1%BA%A3omy",
+          "text": "#VũThảoMy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phanduyanh",
+          "text": "#PhanDuyAnh"
+        },
+        {
+          "url": "https://WMVN.lnk.to/OSVN-EP6",
+          "text": "https://WMVN.lnk.to/OSVN-EP6"
+        },
+        {
+          "url": "https://WMVN.lnk.to/OSVN",
+          "text": "https://WMVN.lnk.to/OSVN"
+        },
+        {
+          "url": "https://bit.ly/SubDTP",
+          "text": "https://bit.ly/SubDTP"
+        },
+        {
+          "url": "https://bit.ly/SubDTE",
+          "text": "https://bit.ly/SubDTE"
+        },
+        {
+          "url": "https://bit.ly/HAUTRUONGDTP",
+          "text": "https://bit.ly/HAUTRUONGDTP"
+        },
+        {
+          "url": "https://bit.ly/showhotDTP",
+          "text": "https://bit.ly/showhotDTP"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+          "text": "   • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc",
+          "text": "   • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig",
+          "text": "   • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuqASIzsS38QmT8CDA7zdSs",
+          "text": "   • ⚡️⚡️NHANH NHƯ CHỚP MÙA 5⚡️⚡️ | Gameshow gi...  "
+        },
+        {
+          "url": "https://www.facebook.com/DongTayPromotion",
+          "text": "  / dongtaypromotion  "
+        },
+        {
+          "url": "https://www.instagram.com/dongtaypromotion.official/",
+          "text": "  / dongtaypromotion.official  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dongtaypromotionofficial",
+          "text": "  / dongtaypromotionofficial  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 9,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+      "isMonetized": null,
+      "hashtags": [
+        "#OurSongVietNam",
+        "#OurSong",
+        "#HoàngHải"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+      "isPaidContent": false
+    },
+    {
+      "title": "Our Song Việt Nam - Tập 5: Quang Linh nhảy disco chấn động, Phạm Anh Duy hội ngộ dàn Anh Trai Say Hi",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "oR-NS4hr6T0",
+      "url": "https://www.youtube.com/watch?v=oR-NS4hr6T0&list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP&index=11",
+      "thumbnailUrl": "https://i.ytimg.com/vi/oR-NS4hr6T0/maxresdefault.jpg",
+      "viewCount": 2776270,
+      "date": "2024-09-29T14:30:22.000Z",
+      "likes": 9100,
+      "location": null,
+      "channelName": "ĐÔNG TÂY PROMOTION OFFICIAL",
+      "channelUrl": "https://www.youtube.com/@dongtaypromotionofficial",
+      "channelUsername": "dongtaypromotionofficial",
+      "collaborators": null,
+      "channelId": "UCFMEYTv6N64hIL9FlQ_hxBw",
+      "numberOfSubscribers": 9830000,
+      "duration": "01:39:32",
+      "commentsCount": 1709,
+      "text": "Our Song Việt Nam - Tập 5: Quang Linh nhảy disco chấn động, Phạm Anh Duy hội ngộ dàn Anh Trai Say Hi\n\nXem TRỌN BỘ Our Song Việt Nam - Bài Hát Của Chúng Ta: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP\n\n#OurSongVietNam #OurSong #BaiHatCuaChungTa #ĐôngTâyPromotion \n#ThanhHà #NgọcAnh #QuangLinh #HoàngHải \n#DươngEdward #LâmBảoNgọc #PhanDuyAnh #PhạmAnhDuy\n\nMở thẻ VPBank liền tay, nhận ngay vạn deal cùng siêu hoàn tiền đến 15% mọi chi tiêu\n  \n\n▶ Tìm nghe các bản audio Tập 5 Bài Hát Của Chúng Ta - Our Song Vietnam trên: https://WMVN.lnk.to/OSVN-EP5\n▶ Follow playlist Bài Hát Của Chúng Ta - Our Song Vietnam để được cập nhật sớm nhất khi audio được phát hành: https://WMVN.lnk.to/OSVN \n\n✨Bài Hát Của Chúng Ta - Our Song Việt Nam là chương trình âm nhạc THỜI THƯỢNG đem đến cho khán giả ĐA THẾ HỆ trải nghiệm tận hưởng khát khao dẫn đầu xu hướng “QUAY VỀ TƯƠNG LAI\".\n\n⏰Đón xem OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚNG TA  vào lúc:\n📺 21H15 Chủ Nhật hàng tuần trên kênh truyền hình VTV3, siêu ứng dụng giải trí VieON\n▶️ 21H45 trên kênh   @dongtaypromotionofficial  \n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương tr��nh SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n \n\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nOur Song Việt Nam:  https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP\n2 Ngày 1 Đêm Việt Nam: https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc\n7 Nụ Cười Xuân: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig\nNhanh Như Chớp: https://www.youtube.com/playlist?list=PLy_TpcUT2LZuqASIzsS38QmT8CDA7zdSs\n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage: https://www.facebook.com/DongTayPromotion\n► Instagram: https://www.instagram.com/dongtaypromotion.official/\n► TikTok: https://www.tiktok.com/@dongtaypromotionofficial",
+      "translatedText": "Our Song Việt Nam - Tập 5: Quang Linh nhảy disco chấn động, Phạm Anh Duy hội ngộ dàn Anh Trai Say Hi\n\nXem TRỌN BỘ Our Song Việt Nam - Bài Hát Của Chúng Ta:    • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  \n\n#OurSongVietNam #OurSong #BaiHatCuaChungTa #ĐôngTâyPromotion \n#ThanhHà #NgọcAnh #QuangLinh #HoàngHải \n#DươngEdward #LâmBảoNgọc #PhanDuyAnh #PhạmAnhDuy\n\nMở thẻ VPBank liền tay, nhận ngay vạn deal cùng siêu hoàn tiền đến 15% mọi chi tiêu\n  \n\n▶ Tìm nghe các bản audio Tập 5 Bài Hát Của Chúng Ta - Our Song Vietnam trên: https://WMVN.lnk.to/OSVN-EP5\n▶ Follow playlist Bài Hát Của Chúng Ta - Our Song Vietnam để được cập nhật sớm nhất khi audio được phát hành: https://WMVN.lnk.to/OSVN \n\n✨Bài Hát Của Chúng Ta - Our Song Việt Nam là chương trình âm nhạc THỜI THƯỢNG đem đến cho khán giả ĐA THẾ HỆ trải nghiệm tận hưởng khát khao dẫn đầu xu hướng “QUAY VỀ TƯƠNG LAI\".\n\n⏰Đón xem OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚNG TA  vào lúc:\n📺 21H15 Chủ Nhật hàng tuần trên kênh truyền hình VTV3, siêu ứng dụng giải trí VieON\n▶️ 21H45 trên kênh   @dongtaypromotionofficial  \n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n \n\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nOur Song Việt Nam:     • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  \n2 Ngày 1 Đêm Việt Nam:    • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  \n7 Nụ Cười Xuân:    • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  \nNhanh Như Chớp:    • ⚡️⚡️NHANH NHƯ CHỚP MÙA 5⚡️⚡️ | Gameshow gi...  \n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage:   / dongtaypromotion  \n► Instagram:   / dongtaypromotion.official  \n► TikTok:   / dongtaypromotionofficial  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+          "text": "   • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/oursongvietnam",
+          "text": "#OurSongVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/oursong",
+          "text": "#OurSong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/baihatcuachungta",
+          "text": "#BaiHatCuaChungTa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/%C4%91%C3%B4ngt%C3%A2ypromotion",
+          "text": "#ĐôngTâyPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thanhh%C3%A0",
+          "text": "#ThanhHà"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ng%E1%BB%8Dcanh",
+          "text": "#NgọcAnh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quanglinh",
+          "text": "#QuangLinh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ho%C3%A0ngh%E1%BA%A3i",
+          "text": "#HoàngHải"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/d%C6%B0%C6%A1ngedward",
+          "text": "#DươngEdward"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%A2mb%E1%BA%A3ong%E1%BB%8Dc",
+          "text": "#LâmBảoNgọc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phanduyanh",
+          "text": "#PhanDuyAnh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ph%E1%BA%A1manhduy",
+          "text": "#PhạmAnhDuy"
+        },
+        {
+          "url": "https://WMVN.lnk.to/OSVN-EP5",
+          "text": "https://WMVN.lnk.to/OSVN-EP5"
+        },
+        {
+          "url": "https://WMVN.lnk.to/OSVN",
+          "text": "https://WMVN.lnk.to/OSVN"
+        },
+        {
+          "url": "https://bit.ly/SubDTP",
+          "text": "https://bit.ly/SubDTP"
+        },
+        {
+          "url": "https://bit.ly/SubDTE",
+          "text": "https://bit.ly/SubDTE"
+        },
+        {
+          "url": "https://bit.ly/HAUTRUONGDTP",
+          "text": "https://bit.ly/HAUTRUONGDTP"
+        },
+        {
+          "url": "https://bit.ly/showhotDTP",
+          "text": "https://bit.ly/showhotDTP"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+          "text": "   • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc",
+          "text": "   • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig",
+          "text": "   • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuqASIzsS38QmT8CDA7zdSs",
+          "text": "   • ⚡️⚡️NHANH NHƯ CHỚP MÙA 5⚡️⚡️ | Gameshow gi...  "
+        },
+        {
+          "url": "https://www.facebook.com/DongTayPromotion",
+          "text": "  / dongtaypromotion  "
+        },
+        {
+          "url": "https://www.instagram.com/dongtaypromotion.official/",
+          "text": "  / dongtaypromotion.official  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dongtaypromotionofficial",
+          "text": "  / dongtaypromotionofficial  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 10,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+      "isMonetized": null,
+      "hashtags": [
+        "#OurSongVietNam",
+        "#OurSong",
+        "#HoàngHải"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+      "isPaidContent": false
+    },
+    {
+      "title": "Our Song Việt Nam - Tập 1: Quang Linh phiêu cùng nhạc Orange, LyLy cực slay và cháy với guitar điện",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "nFzKI9YrWLQ",
+      "url": "https://www.youtube.com/watch?v=nFzKI9YrWLQ&list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP&index=15",
+      "thumbnailUrl": "https://i.ytimg.com/vi/nFzKI9YrWLQ/maxresdefault.jpg",
+      "viewCount": 3558962,
+      "date": "2024-08-25T14:30:07.000Z",
+      "likes": 28000,
+      "location": null,
+      "channelName": "ĐÔNG TÂY PROMOTION OFFICIAL",
+      "channelUrl": "https://www.youtube.com/@dongtaypromotionofficial",
+      "channelUsername": "dongtaypromotionofficial",
+      "collaborators": null,
+      "channelId": "UCFMEYTv6N64hIL9FlQ_hxBw",
+      "numberOfSubscribers": 9830000,
+      "duration": "02:52:16",
+      "commentsCount": 4409,
+      "text": "Our Song Việt Nam - Tập 1: Quang Linh phiêu cùng nhạc Orange, LyLy cực slay và cháy với guitar điện\n\nXem TRỌN BỘ Our Song Việt Nam - Bài Hát Của Chúng Ta: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP\n\n#OurSongVietNam #OurSong #BaiHatCuaChungTa #ĐôngTâyPromotion \n#QuangLinh #Orange #LyLy  #ThanhLam #ThuMinh #HoàngHải  \n#LươngBíchHữu #OgeNus #PhạmAnhDuy #DươngEdward #LâmBảoNgọc\n\n✨Bài Hát Của Chúng Ta - Our Song Việt Nam là chương trình âm nhạc THỜI THƯỢNG đem đến cho khán giả ĐA THẾ HỆ trải nghiệm tận hưởng khát khao dẫn đầu xu hướng “QUAY VỀ TƯƠNG LAI\".\n\nMở thẻ VPBank liền tay, nhận ngay vạn deal cùng siêu hoàn tiền đến 15% mọi chi tiêu\n  \n\n⏰Đón xem OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚNG TA  vào lúc:\n📺 21H15 Chủ Nhật hàng tuần trên kênh truyền hình VTV3, siêu ứng dụng giải trí VieON\n▶️ 21H45 trên kênh  @dongtaypromotionofficial \n\n▶ Tìm nghe các bản audio Tập 1 Bài Hát Của Chúng Ta - Our Song Vietnam trên: https://WMVN.lnk.to/OSVN-EP1\n▶ Follow playlist Bài Hát Của Chúng Ta - Our Song Vietnam để được cập nhật sớm nhất khi audio được phát hành: https://WMVN.lnk.to/OSVN \n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n \n\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nOur Song Việt Nam:  https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP\n2 Ngày 1 Đêm Việt Nam: https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc\n7 Nụ Cười Xuân: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig\nNhanh Như Chớp: https://www.youtube.com/playlist?list=PLy_TpcUT2LZuqASIzsS38QmT8CDA7zdSs\n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage: https://www.facebook.com/DongTayPromotion\n► Instagram: https://www.instagram.com/dongtaypromotion.official/\n► TikTok: https://www.tiktok.com/@dongtaypromotionofficial",
+      "translatedText": "Our Song Việt Nam - Tập 1: Quang Linh phiêu cùng nhạc Orange, LyLy cực slay và cháy với guitar điện\n\nXem TRỌN BỘ Our Song Việt Nam - Bài Hát Của Chúng Ta:    • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  \n\n#OurSongVietNam #OurSong #BaiHatCuaChungTa #ĐôngTâyPromotion \n#QuangLinh #Orange #LyLy  #ThanhLam #ThuMinh #HoàngHải  \n#LươngBíchHữu #OgeNus #PhạmAnhDuy #DươngEdward #LâmBảoNgọc\n\n✨Bài Hát Của Chúng Ta - Our Song Việt Nam là chương trình âm nhạc THỜI THƯỢNG đem đến cho khán giả ĐA THẾ HỆ trải nghiệm tận hưởng khát khao dẫn đầu xu hướng “QUAY VỀ TƯƠNG LAI\".\n\nMở thẻ VPBank liền tay, nhận ngay vạn deal cùng siêu hoàn tiền đến 15% mọi chi tiêu\n  \n\n⏰Đón xem OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚNG TA  vào lúc:\n📺 21H15 Chủ Nhật hàng tuần trên kênh truyền hình VTV3, siêu ứng dụng giải trí VieON\n▶️ 21H45 trên kênh  ‪@dongtaypromotionofficial‬ \n\n▶ Tìm nghe các bản audio Tập 1 Bài Hát Của Chúng Ta - Our Song Vietnam trên: https://WMVN.lnk.to/OSVN-EP1\n▶ Follow playlist Bài Hát Của Chúng Ta - Our Song Vietnam để được cập nhật sớm nhất khi audio được phát hành: https://WMVN.lnk.to/OSVN \n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n \n\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nOur Song Việt Nam:     • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  \n2 Ngày 1 Đêm Việt Nam:    • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  \n7 Nụ Cười Xuân:    • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  \nNhanh Như Chớp:    • ⚡️⚡️NHANH NHƯ CHỚP MÙA 5⚡️⚡️ | Gameshow gi...  \n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage:   / dongtaypromotion  \n► Instagram:   / dongtaypromotion.official  \n► TikTok:   / dongtaypromotionofficial  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+          "text": "   • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/oursongvietnam",
+          "text": "#OurSongVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/oursong",
+          "text": "#OurSong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/baihatcuachungta",
+          "text": "#BaiHatCuaChungTa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/%C4%91%C3%B4ngt%C3%A2ypromotion",
+          "text": "#ĐôngTâyPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quanglinh",
+          "text": "#QuangLinh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/orange",
+          "text": "#Orange"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lyly",
+          "text": "#LyLy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thanhlam",
+          "text": "#ThanhLam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thuminh",
+          "text": "#ThuMinh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ho%C3%A0ngh%E1%BA%A3i",
+          "text": "#HoàngHải"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C6%B0%C6%A1ngb%C3%ADchh%E1%BB%AFu",
+          "text": "#LươngBíchHữu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ogenus",
+          "text": "#OgeNus"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ph%E1%BA%A1manhduy",
+          "text": "#PhạmAnhDuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/d%C6%B0%C6%A1ngedward",
+          "text": "#DươngEdward"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%A2mb%E1%BA%A3ong%E1%BB%8Dc",
+          "text": "#LâmBảoNgọc"
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "‪@dongtaypromotionofficial‬"
+        },
+        {
+          "url": "https://WMVN.lnk.to/OSVN-EP1",
+          "text": "https://WMVN.lnk.to/OSVN-EP1"
+        },
+        {
+          "url": "https://WMVN.lnk.to/OSVN",
+          "text": "https://WMVN.lnk.to/OSVN"
+        },
+        {
+          "url": "https://bit.ly/SubDTP",
+          "text": "https://bit.ly/SubDTP"
+        },
+        {
+          "url": "https://bit.ly/SubDTE",
+          "text": "https://bit.ly/SubDTE"
+        },
+        {
+          "url": "https://bit.ly/HAUTRUONGDTP",
+          "text": "https://bit.ly/HAUTRUONGDTP"
+        },
+        {
+          "url": "https://bit.ly/showhotDTP",
+          "text": "https://bit.ly/showhotDTP"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+          "text": "   • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc",
+          "text": "   • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig",
+          "text": "   • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuqASIzsS38QmT8CDA7zdSs",
+          "text": "   • ⚡️⚡️NHANH NHƯ CHỚP MÙA 5⚡️⚡️ | Gameshow gi...  "
+        },
+        {
+          "url": "https://www.facebook.com/DongTayPromotion",
+          "text": "  / dongtaypromotion  "
+        },
+        {
+          "url": "https://www.instagram.com/dongtaypromotion.official/",
+          "text": "  / dongtaypromotion.official  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dongtaypromotionofficial",
+          "text": "  / dongtaypromotionofficial  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 14,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+      "isMonetized": null,
+      "hashtags": [
+        "#OurSongVietNam",
+        "#OurSong",
+        "#HoàngHải"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+      "isPaidContent": false
+    },
+    {
+      "title": "Our Song Việt Nam - Tập 8: Thu Minh - Lương Bích Hữu bứt phá, hé lộ 2 nghệ sĩ đầu tiên rời cuộc chơi",
+      "translatedTitle": "Our Song Vietnam - Episode 8: Thu Minh and Luong Bich Huu Break Through, First Two Artists Elimin...",
+      "type": "video",
+      "id": "npvwYFAww5o",
+      "url": "https://www.youtube.com/watch?v=npvwYFAww5o&list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP&index=8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/npvwYFAww5o/maxresdefault.jpg",
+      "viewCount": 2713241,
+      "date": "2024-10-20T14:30:06.000Z",
+      "likes": 5200,
+      "location": null,
+      "channelName": "ĐÔNG TÂY PROMOTION OFFICIAL",
+      "channelUrl": "https://www.youtube.com/@dongtaypromotionofficial",
+      "channelUsername": "dongtaypromotionofficial",
+      "collaborators": null,
+      "channelId": "UCFMEYTv6N64hIL9FlQ_hxBw",
+      "numberOfSubscribers": 9830000,
+      "duration": "01:33:16",
+      "commentsCount": 1741,
+      "text": "Our Song Việt Nam - Tập 8: Thu Minh - Lương Bích Hữu bứt phá, hé lộ 2 nghệ sĩ đầu tiên rời cuộc chơi\n\nXem TRỌN BỘ Our Song Việt Nam - Bài Hát Của Chúng Ta: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP\n\n#OurSongVietNam #OurSong #BaiHatCuaChungTa #ĐôngTâyPromotion \n#NgọcAnh #HoàngHải #LâmBảoNgọc #PhanDuyAnh #HàNhi \n#ThuMinh #LươngBíchHữu #OgeNus #VũThảoMy #TrấnThành\n\nMở thẻ VPBank liền tay, nhận ngay vạn deal cùng siêu hoàn tiền đến 15% mọi chi tiêu\n \n\n▶ Tìm nghe các bản audio Tập 8 Bài Hát Của Chúng Ta - Our Song Vietnam trên: https://WMVN.lnk.to/OSVN-EP8\n▶ Follow playlist Bài Hát Của Chúng Ta - Our Song Vietnam để được cập nhật sớm nhất khi audio được phát hành: https://WMVN.lnk.to/OSVN \n\n✨Bài Hát Của Chúng Ta - Our Song Việt Nam là chương trình âm nhạc THỜI THƯỢNG đem đến cho khán giả ĐA THẾ HỆ trải nghiệm tận hưởng khát khao dẫn đầu xu hướng “QUAY VỀ TƯƠNG LAI\".\n\n⏰Đón xem OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚNG TA  vào lúc:\n📺 21H15 Chủ Nhật hàng tuần trên kênh truyền hình VTV3, siêu ứng dụng giải trí VieON\n▶️ 21H45 trên kênh @dongtaypromotionofficial  \n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n \n\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nOur Song Việt Nam:  https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP\n2 Ngày 1 Đêm Việt Nam: https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc\n7 Nụ Cười Xuân: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig\nNhanh Như Chớp: https://www.youtube.com/playlist?list=PLy_TpcUT2LZuqASIzsS38QmT8CDA7zdSs\n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage: https://www.facebook.com/DongTayPromotion\n► Instagram: https://www.instagram.com/dongtaypromotion.official/\n► TikTok: https://www.tiktok.com/@dongtaypromotionofficial",
+      "translatedText": "Our Song Vietnam - Episode 8: Thu Minh and Luong Bich Huu make a breakthrough, revealing the first two artists to leave the competition.\n\nWatch the FULL Our Song Vietnam - Our Song:    • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  \n\n#OurSongVietNam #OurSong #BaiHatCuaChungTa #DongTayPromotion\n\n#NgocAnh #HoangHai #LamBaoNgoc #PhanDuyAnh #HaNhi\n\n#ThuMinh #LuongBichHuu #OgeNus #VuThaoMy #TranThanh\n\nOpen a VPBank card now, get thousands of deals and super cashback up to 15% on all spending.\n\n▶ Find and listen to the audio versions of Episode 8 of Our Song Vietnam on: https://WMVN.lnk.to/OSVN-EP8\n▶ Follow the playlist Our Song Vietnam to get the earliest updates when audio is released: https://WMVN.lnk.to/OSVN\n\n✨Our Song Vietnam is a TRENDY music program that brings multi-generational audiences the experience of enjoying the desire to lead the trend of \"RETURNING TO THE FUTURE\".\n\n⏰ Watch OUR SONG VIETNAM - OUR SONG at:\n\n📺 9:15 PM every Sunday on VTV3 and the VieON entertainment app\n▶️ 9:45 PM on @dongtaypromotionofficial\n\n📣 Subscribe to DONG TAY PROMOTION OFFICIAL to not miss out on SUPER EXCITING programs: https://bit.ly/SubDTP\n📣 Subscribe to DONG TAY ENTERTAINMENT to watch HOT VIDEOS from the top shows: https://bit.ly/SubDTE\n\n\n⏩ Behind-the-Scenes Secrets: https://bit.ly/HAUTRUONGDTP ⏩ Great Shows every day: https://bit.ly/showhotDTP 👉 OTHER HOT SHOWS: \nOur Song Vietnam:    • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  \n2 Days 1 Night Vietnam:    • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  \n7 Spring Smiles:    • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  \nFast as Lightning:    • ⚡️⚡️NHANH NHƯ CHỚP MÙA 5⚡️⚡️ | Gameshow gi...  \n\n👉 Follow the official channels of Dong Tay Promotion - owned by DatVietVAC at:\n► Fanpage:   / dongtaypromotion  \n► Instagram:   / dongtaypromotion.official  \n► TikTok:   / dongtaypromotionofficial  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+          "text": "   • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/oursongvietnam",
+          "text": "#OurSongVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/oursong",
+          "text": "#OurSong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/baihatcuachungta",
+          "text": "#BaiHatCuaChungTa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dongtaypromotion",
+          "text": "#DongTayPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ngocanh",
+          "text": "#NgocAnh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hoanghai",
+          "text": "#HoangHai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lambaongoc",
+          "text": "#LamBaoNgoc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phanduyanh",
+          "text": "#PhanDuyAnh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hanhi",
+          "text": "#HaNhi"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thuminh",
+          "text": "#ThuMinh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/luongbichhuu",
+          "text": "#LuongBichHuu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ogenus",
+          "text": "#OgeNus"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vuthaomy",
+          "text": "#VuThaoMy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tranthanh",
+          "text": "#TranThanh"
+        },
+        {
+          "url": "https://WMVN.lnk.to/OSVN-EP8",
+          "text": "https://WMVN.lnk.to/OSVN-EP8"
+        },
+        {
+          "url": "https://WMVN.lnk.to/OSVN",
+          "text": "https://WMVN.lnk.to/OSVN"
+        },
+        {
+          "url": "https://bit.ly/SubDTP",
+          "text": "https://bit.ly/SubDTP"
+        },
+        {
+          "url": "https://bit.ly/SubDTE",
+          "text": "https://bit.ly/SubDTE"
+        },
+        {
+          "url": "https://bit.ly/HAUTRUONGDTP",
+          "text": "https://bit.ly/HAUTRUONGDTP"
+        },
+        {
+          "url": "https://bit.ly/showhotDTP",
+          "text": "https://bit.ly/showhotDTP"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+          "text": "   • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc",
+          "text": "   • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig",
+          "text": "   • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuqASIzsS38QmT8CDA7zdSs",
+          "text": "   • ⚡️⚡️NHANH NHƯ CHỚP MÙA 5⚡️⚡️ | Gameshow gi...  "
+        },
+        {
+          "url": "https://www.facebook.com/DongTayPromotion",
+          "text": "  / dongtaypromotion  "
+        },
+        {
+          "url": "https://www.instagram.com/dongtaypromotion.official/",
+          "text": "  / dongtaypromotion.official  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dongtaypromotionofficial",
+          "text": "  / dongtaypromotionofficial  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 7,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+      "isMonetized": null,
+      "hashtags": [
+        "#OurSongVietNam",
+        "#OurSong",
+        "#HoàngHải"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+      "isPaidContent": false
+    },
+    {
+      "title": "Our Song Việt Nam - Tập 10: Quang Linh tung chiêu đu dây, Lương Bích Hữu hóa nữ thần mê hoặc OgeNus",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "ElnXBYa2hsQ",
+      "url": "https://www.youtube.com/watch?v=ElnXBYa2hsQ&list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP&index=6",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ElnXBYa2hsQ/maxresdefault.jpg",
+      "viewCount": 2665318,
+      "date": "2024-11-03T14:30:06.000Z",
+      "likes": 7100,
+      "location": null,
+      "channelName": "ĐÔNG TÂY PROMOTION OFFICIAL",
+      "channelUrl": "https://www.youtube.com/@dongtaypromotionofficial",
+      "channelUsername": "dongtaypromotionofficial",
+      "collaborators": null,
+      "channelId": "UCFMEYTv6N64hIL9FlQ_hxBw",
+      "numberOfSubscribers": 9830000,
+      "duration": "02:07:31",
+      "commentsCount": 2192,
+      "text": "Our Song Việt Nam - Tập 10: Quang Linh tung chiêu đu dây, Lương Bích Hữu hóa nữ thần mê hoặc OgeNus\n\nXem TRỌN BỘ Our Song Việt Nam - Bài Hát Của Chúng Ta: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP\n\n#OurSongVietNam #OurSong #BaiHatCuaChungTa #ĐôngTâyPromotion \n#QuangLinh #PhạmAnhDuy #ThuMinh #VũThảoMy #LươngBíchHữu #OgeNus\n#ThanhLam #Orange #HoàngHải #LâmBảoNgọc #MaiTiếnDũng #LyLy \n\nMở thẻ VPBank liền tay, nhận ngay vạn deal cùng siêu hoàn tiền đến 15% mọi chi tiêu\n \n\n▶ Tìm nghe các bản audio Tập 11 Bài Hát Của Chúng Ta - Our Song Vietnam trên: https://WMVN.lnk.to/OSVN-EP11\n▶ Follow playlist Bài Hát Của Chúng Ta - Our Song Vietnam để được cập nhật sớm nhất khi audio được phát hành: https://WMVN.lnk.to/OSVN \n\n▶ Tìm nghe các bản audio Tập 10 Bài Hát Của Chúng Ta - Our Song Vietnam trên: https://WMVN.lnk.to/OSVN-EP10\n▶ Follow playlist Bài Hát Của Chúng Ta - Our Song Vietnam để được cập nhật sớm nhất khi audio được phát hành: https://WMVN.lnk.to/OSVN \n\n✨Bài Hát Của Chúng Ta - Our Song Việt Nam là chương trình âm nhạc THỜI THƯỢNG đem đến cho khán giả ĐA THẾ HỆ trải nghiệm tận hưởng khát khao dẫn đầu xu hướng “QUAY VỀ TƯƠNG LAI\".\n\n⏰Đón xem OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚNG TA  vào lúc:\n📺 21H15 Chủ Nhật hàng tuần trên kênh truyền hình VTV3, siêu ứng dụng giải trí VieON\n▶️ 21H45 trên kênh   @dongtaypromotionofficial \n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n \n\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nOur Song Việt Nam:  https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP\n2 Ngày 1 Đêm Việt Nam: https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc\n7 Nụ Cười Xuân: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig\nNhanh Như Chớp: https://www.youtube.com/playlist?list=PLy_TpcUT2LZuqASIzsS38QmT8CDA7zdSs\n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage: https://www.facebook.com/DongTayPromotion\n► Instagram: https://www.instagram.com/dongtaypromotion.official/\n► TikTok: https://www.tiktok.com/@dongtaypromotionofficial",
+      "translatedText": "Our Song Việt Nam - Tập 10: Quang Linh tung chiêu đu dây, Lương Bích Hữu hóa nữ thần mê hoặc OgeNus\n\nXem TRỌN BỘ Our Song Việt Nam - Bài Hát Của Chúng Ta:    • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  \n\n#OurSongVietNam #OurSong #BaiHatCuaChungTa #ĐôngTâyPromotion \n#QuangLinh #PhạmAnhDuy #ThuMinh #VũThảoMy #LươngBíchHữu #OgeNus\n#ThanhLam #Orange #HoàngHải #LâmBảoNgọc #MaiTiếnDũng #LyLy \n\nMở thẻ VPBank liền tay, nhận ngay vạn deal cùng siêu hoàn tiền đến 15% mọi chi tiêu\n \n\n▶ Tìm nghe các bản audio Tập 11 Bài Hát Của Chúng Ta - Our Song Vietnam trên: https://WMVN.lnk.to/OSVN-EP11\n▶ Follow playlist Bài Hát Của Chúng Ta - Our Song Vietnam để được cập nhật sớm nhất khi audio được phát hành: https://WMVN.lnk.to/OSVN \n\n▶ Tìm nghe các bản audio Tập 10 Bài Hát Của Chúng Ta - Our Song Vietnam trên: https://WMVN.lnk.to/OSVN-EP10\n▶ Follow playlist Bài Hát Của Chúng Ta - Our Song Vietnam để được cập nhật sớm nhất khi audio được phát hành: https://WMVN.lnk.to/OSVN \n\n✨Bài Hát Của Chúng Ta - Our Song Việt Nam là chương trình âm nhạc THỜI THƯỢNG đem đến cho khán giả ĐA THẾ HỆ trải nghiệm tận hưởng khát khao dẫn đầu xu hướng “QUAY VỀ TƯƠNG LAI\".\n\n⏰Đón xem OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚNG TA  vào lúc:\n📺 21H15 Chủ Nhật hàng tuần trên kênh truyền hình VTV3, siêu ứng dụng giải trí VieON\n▶️ 21H45 trên kênh   ‪@dongtaypromotionofficial‬ \n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n \n\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nOur Song Việt Nam:     • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  \n2 Ngày 1 Đêm Việt Nam:    • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  \n7 Nụ Cười Xuân:    • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  \nNhanh Như Chớp:    • ⚡️⚡️NHANH NHƯ CHỚP MÙA 5⚡️⚡️ | Gameshow gi...  \n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage:   / dongtaypromotion  \n► Instagram:   / dongtaypromotion.official  \n► TikTok:   / dongtaypromotionofficial  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+          "text": "   • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/oursongvietnam",
+          "text": "#OurSongVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/oursong",
+          "text": "#OurSong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/baihatcuachungta",
+          "text": "#BaiHatCuaChungTa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/%C4%91%C3%B4ngt%C3%A2ypromotion",
+          "text": "#ĐôngTâyPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quanglinh",
+          "text": "#QuangLinh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ph%E1%BA%A1manhduy",
+          "text": "#PhạmAnhDuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thuminh",
+          "text": "#ThuMinh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/v%C5%A9th%E1%BA%A3omy",
+          "text": "#VũThảoMy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C6%B0%C6%A1ngb%C3%ADchh%E1%BB%AFu",
+          "text": "#LươngBíchHữu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ogenus",
+          "text": "#OgeNus"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thanhlam",
+          "text": "#ThanhLam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/orange",
+          "text": "#Orange"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ho%C3%A0ngh%E1%BA%A3i",
+          "text": "#HoàngHải"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%A2mb%E1%BA%A3ong%E1%BB%8Dc",
+          "text": "#LâmBảoNgọc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/maiti%E1%BA%BFnd%C5%A9ng",
+          "text": "#MaiTiếnDũng"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lyly",
+          "text": "#LyLy"
+        },
+        {
+          "url": "https://WMVN.lnk.to/OSVN-EP11",
+          "text": "https://WMVN.lnk.to/OSVN-EP11"
+        },
+        {
+          "url": "https://WMVN.lnk.to/OSVN",
+          "text": "https://WMVN.lnk.to/OSVN"
+        },
+        {
+          "url": "https://WMVN.lnk.to/OSVN-EP10",
+          "text": "https://WMVN.lnk.to/OSVN-EP10"
+        },
+        {
+          "url": "https://WMVN.lnk.to/OSVN",
+          "text": "https://WMVN.lnk.to/OSVN"
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "‪@dongtaypromotionofficial‬"
+        },
+        {
+          "url": "https://bit.ly/SubDTP",
+          "text": "https://bit.ly/SubDTP"
+        },
+        {
+          "url": "https://bit.ly/SubDTE",
+          "text": "https://bit.ly/SubDTE"
+        },
+        {
+          "url": "https://bit.ly/HAUTRUONGDTP",
+          "text": "https://bit.ly/HAUTRUONGDTP"
+        },
+        {
+          "url": "https://bit.ly/showhotDTP",
+          "text": "https://bit.ly/showhotDTP"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+          "text": "   • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc",
+          "text": "   • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig",
+          "text": "   • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuqASIzsS38QmT8CDA7zdSs",
+          "text": "   • ⚡️⚡️NHANH NHƯ CHỚP MÙA 5⚡️⚡️ | Gameshow gi...  "
+        },
+        {
+          "url": "https://www.facebook.com/DongTayPromotion",
+          "text": "  / dongtaypromotion  "
+        },
+        {
+          "url": "https://www.instagram.com/dongtaypromotion.official/",
+          "text": "  / dongtaypromotion.official  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dongtaypromotionofficial",
+          "text": "  / dongtaypromotionofficial  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 5,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+      "isMonetized": null,
+      "hashtags": [
+        "#OurSongVietNam",
+        "#OurSong",
+        "#HoàngHải"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+      "isPaidContent": false
+    },
+    {
+      "title": "Our Song Việt Nam -Tập 3: Thanh Hà-Ngọc Anh “đấu khẩu”,Dương Lâm cosplay Thu Minh làm lễ “tuyên thệ”",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "MbLvPIt7cAA",
+      "url": "https://www.youtube.com/watch?v=MbLvPIt7cAA&list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP&index=13",
+      "thumbnailUrl": "https://i.ytimg.com/vi/MbLvPIt7cAA/maxresdefault.jpg",
+      "viewCount": 2476664,
+      "date": "2024-09-08T14:30:13.000Z",
+      "likes": 18000,
+      "location": null,
+      "channelName": "ĐÔNG TÂY PROMOTION OFFICIAL",
+      "channelUrl": "https://www.youtube.com/@dongtaypromotionofficial",
+      "channelUsername": "dongtaypromotionofficial",
+      "collaborators": null,
+      "channelId": "UCFMEYTv6N64hIL9FlQ_hxBw",
+      "numberOfSubscribers": 9830000,
+      "duration": "01:51:41",
+      "commentsCount": 2468,
+      "text": "Our Song Việt Nam - Tập 3: Thanh Hà - Ngọc Anh “đấu khẩu”, Dương Lâm cosplay Thu Minh làm lễ “tuyên thệ”\n\nXem TRỌN BỘ Our Song Việt Nam - Bài Hát Của Chúng Ta: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP\n\n#OurSongVietNam #OurSong #BaiHatCuaChungTa #ĐôngTâyPromotion \n#ThanhHà #NgọcAnh #DươngEdward #PhanDuyAnh \n#TrấnThành #DươngLâm #LâmVỹDạ #Puka\n\nMở thẻ VPBank liền tay, nhận ngay vạn deal cùng siêu hoàn tiền đến 15% mọi chi tiêu\n  \n\n✨Bài Hát Của Chúng Ta - Our Song Việt Nam là chương trình âm nhạc THỜI THƯỢNG đem đến cho khán giả ĐA THẾ HỆ trải nghiệm tận hưởng khát khao dẫn đầu xu hướng “QUAY VỀ TƯƠNG LAI\".\n\n⏰Đón xem OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚNG TA  vào lúc:\n📺 21H15 Chủ Nhật hàng tuần trên kênh truyền hình VTV3, siêu ứng dụng giải trí VieON\n▶️ 21H45 trên kênh   @dongtaypromotionofficial  \n\n▶ Tìm nghe các bản audio Tập 3 Bài Hát Của Chúng Ta - Our Song Vietnam trên: https://WMVN.lnk.to/OSVN-EP3\n▶ Follow playlist Bài Hát Của Chúng Ta - Our Song Vietnam để được cập nhật sớm nhất khi audio được phát hành: https://WMVN.lnk.to/OSVN \n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n \n\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nOur Song Việt Nam:  https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP\n2 Ngày 1 Đêm Việt Nam: https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc\n7 Nụ Cười Xuân: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig\nNhanh Như Chớp: https://www.youtube.com/playlist?list=PLy_TpcUT2LZuqASIzsS38QmT8CDA7zdSs\n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage: https://www.facebook.com/DongTayPromotion\n► Instagram: https://www.instagram.com/dongtaypromotion.official/\n► TikTok: https://www.tiktok.com/@dongtaypromotionofficial",
+      "translatedText": "Our Song Việt Nam - Tập 3: Thanh Hà - Ngọc Anh “đấu khẩu”, Dương Lâm cosplay Thu Minh làm lễ “tuyên thệ”\n\nXem TRỌN BỘ Our Song Việt Nam - Bài Hát Của Chúng Ta:    • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  \n\n#OurSongVietNam #OurSong #BaiHatCuaChungTa #ĐôngTâyPromotion \n#ThanhHà #NgọcAnh #DươngEdward #PhanDuyAnh \n#TrấnThành #DươngLâm #LâmVỹDạ #Puka\n\nMở thẻ VPBank liền tay, nhận ngay vạn deal cùng siêu hoàn tiền đến 15% mọi chi tiêu\n  \n\n✨Bài Hát Của Chúng Ta - Our Song Việt Nam là chương trình âm nhạc THỜI THƯỢNG đem đến cho khán giả ĐA THẾ HỆ trải nghiệm tận hưởng khát khao dẫn đầu xu hướng “QUAY VỀ TƯƠNG LAI\".\n\n⏰Đón xem OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚNG TA  vào lúc:\n📺 21H15 Chủ Nhật hàng tuần trên kênh truyền hình VTV3, siêu ứng dụng giải trí VieON\n▶️ 21H45 trên kênh   @dongtaypromotionofficial  \n\n▶ Tìm nghe các bản audio Tập 3 Bài Hát Của Chúng Ta - Our Song Vietnam trên: https://WMVN.lnk.to/OSVN-EP3\n▶ Follow playlist Bài Hát Của Chúng Ta - Our Song Vietnam để được cập nhật sớm nhất khi audio được phát hành: https://WMVN.lnk.to/OSVN \n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n \n\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nOur Song Việt Nam:     • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  \n2 Ngày 1 Đêm Việt Nam:    • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  \n7 Nụ Cười Xuân:    • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  \nNhanh Như Chớp:    • ⚡️⚡️NHANH NHƯ CHỚP MÙA 5⚡️⚡️ | Gameshow gi...  \n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage:   / dongtaypromotion  \n► Instagram:   / dongtaypromotion.official  \n► TikTok:   / dongtaypromotionofficial  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+          "text": "   • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/oursongvietnam",
+          "text": "#OurSongVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/oursong",
+          "text": "#OurSong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/baihatcuachungta",
+          "text": "#BaiHatCuaChungTa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/%C4%91%C3%B4ngt%C3%A2ypromotion",
+          "text": "#ĐôngTâyPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thanhh%C3%A0",
+          "text": "#ThanhHà"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ng%E1%BB%8Dcanh",
+          "text": "#NgọcAnh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/d%C6%B0%C6%A1ngedward",
+          "text": "#DươngEdward"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phanduyanh",
+          "text": "#PhanDuyAnh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tr%E1%BA%A5nth%C3%A0nh",
+          "text": "#TrấnThành"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/d%C6%B0%C6%A1ngl%C3%A2m",
+          "text": "#DươngLâm"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%A2mv%E1%BB%B9d%E1%BA%A1",
+          "text": "#LâmVỹDạ"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/puka",
+          "text": "#Puka"
+        },
+        {
+          "url": "https://WMVN.lnk.to/OSVN-EP3",
+          "text": "https://WMVN.lnk.to/OSVN-EP3"
+        },
+        {
+          "url": "https://WMVN.lnk.to/OSVN",
+          "text": "https://WMVN.lnk.to/OSVN"
+        },
+        {
+          "url": "https://bit.ly/SubDTP",
+          "text": "https://bit.ly/SubDTP"
+        },
+        {
+          "url": "https://bit.ly/SubDTE",
+          "text": "https://bit.ly/SubDTE"
+        },
+        {
+          "url": "https://bit.ly/HAUTRUONGDTP",
+          "text": "https://bit.ly/HAUTRUONGDTP"
+        },
+        {
+          "url": "https://bit.ly/showhotDTP",
+          "text": "https://bit.ly/showhotDTP"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+          "text": "   • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc",
+          "text": "   • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig",
+          "text": "   • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuqASIzsS38QmT8CDA7zdSs",
+          "text": "   • ⚡️⚡️NHANH NHƯ CHỚP MÙA 5⚡️⚡️ | Gameshow gi...  "
+        },
+        {
+          "url": "https://www.facebook.com/DongTayPromotion",
+          "text": "  / dongtaypromotion  "
+        },
+        {
+          "url": "https://www.instagram.com/dongtaypromotion.official/",
+          "text": "  / dongtaypromotion.official  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dongtaypromotionofficial",
+          "text": "  / dongtaypromotionofficial  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 12,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+      "isMonetized": null,
+      "hashtags": [
+        "#OurSongVietNam",
+        "#OurSong",
+        "#Puka"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+      "isPaidContent": false
+    },
+    {
+      "title": "Our Song Việt Nam - Tập 2: Thu Minh khiến OgeNus \"mù quáng\", Trấn Thành từ chối \"miếng\" Phạm Anh Duy",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "ygktYBEwWTU",
+      "url": "https://www.youtube.com/watch?v=ygktYBEwWTU&list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP&index=14",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ygktYBEwWTU/maxresdefault.jpg",
+      "viewCount": 2702116,
+      "date": "2024-09-01T14:30:07.000Z",
+      "likes": 14000,
+      "location": null,
+      "channelName": "ĐÔNG TÂY PROMOTION OFFICIAL",
+      "channelUrl": "https://www.youtube.com/@dongtaypromotionofficial",
+      "channelUsername": "dongtaypromotionofficial",
+      "collaborators": null,
+      "channelId": "UCFMEYTv6N64hIL9FlQ_hxBw",
+      "numberOfSubscribers": 9830000,
+      "duration": "01:52:54",
+      "commentsCount": 3077,
+      "text": "Our Song Việt Nam - Tập 2: Thu Minh khiến OgeNus \"mù quáng\", Trấn Thành từ chối \"miếng\" Phạm Anh Duy\n\nXem TRỌN BỘ Our Song Việt Nam - Bài Hát Của Chúng Ta: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP\n\n#OurSongVietNam #OurSong #BaiHatCuaChungTa #ĐôngTâyPromotion \n#QuangLinh #ThuMinh #LươngBíchHữu \n#PhạmAnhDuy #LâmBảoNgọc #VũThảoMy \n\nMở thẻ VPBank liền tay, nhận ngay vạn deal cùng siêu hoàn tiền đến 15% mọi chi tiêu\n  \n\n✨Bài Hát Của Chúng Ta - Our Song Việt Nam là chương trình âm nhạc THỜI THƯỢNG đem đến cho khán giả ĐA THẾ HỆ trải nghiệm tận hưởng khát khao dẫn đầu xu hướng “QUAY VỀ TƯƠNG LAI\".\n\n⏰Đón xem OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚNG TA  vào lúc:\n📺 21H15 Chủ Nhật hàng tuần trên kênh truyền hình VTV3, siêu ứng dụng giải trí VieON\n▶️ 21H45 trên kênh  @dongtaypromotionofficial \n\n▶ Tìm nghe các bản audio Tập 2 Bài Hát Của Chúng Ta - Our Song Vietnam trên: https://WMVN.lnk.to/OSVN-EP2\n▶ Follow playlist Bài Hát Của Chúng Ta - Our Song Vietnam để được cập nhật sớm nhất khi audio được phát hành: https://WMVN.lnk.to/OSVN\n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n \n\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nOur Song Việt Nam:  https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP\n2 Ngày 1 Đêm Việt Nam: https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc\n7 Nụ Cười Xuân: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig\nNhanh Như Chớp: https://www.youtube.com/playlist?list=PLy_TpcUT2LZuqASIzsS38QmT8CDA7zdSs\n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage: https://www.facebook.com/DongTayPromotion\n► Instagram: https://www.instagram.com/dongtaypromotion.official/\n► TikTok: https://www.tiktok.com/@dongtaypromotionofficial",
+      "translatedText": "Our Song Việt Nam - Tập 2: Thu Minh khiến OgeNus \"mù quáng\", Trấn Thành từ chối \"miếng\" Phạm Anh Duy\n\nXem TRỌN BỘ Our Song Việt Nam - Bài Hát Của Chúng Ta:    • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  \n\n#OurSongVietNam #OurSong #BaiHatCuaChungTa #ĐôngTâyPromotion \n#QuangLinh #ThuMinh #LươngBíchHữu \n#PhạmAnhDuy #LâmBảoNgọc #VũThảoMy \n\nMở thẻ VPBank liền tay, nhận ngay vạn deal cùng siêu hoàn tiền đến 15% mọi chi tiêu\n  \n\n✨Bài Hát Của Chúng Ta - Our Song Việt Nam là chương trình âm nhạc THỜI THƯỢNG đem đến cho khán giả ĐA THẾ HỆ trải nghiệm tận hưởng khát khao dẫn đầu xu hướng “QUAY VỀ TƯƠNG LAI\".\n\n⏰Đón xem OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚNG TA  vào lúc:\n📺 21H15 Chủ Nhật hàng tuần trên kênh truyền hình VTV3, siêu ứng dụng giải trí VieON\n▶️ 21H45 trên kênh  ‪@dongtaypromotionofficial‬ \n\n▶ Tìm nghe các bản audio Tập 2 Bài Hát Của Chúng Ta - Our Song Vietnam trên: https://WMVN.lnk.to/OSVN-EP2\n▶ Follow playlist Bài Hát Của Chúng Ta - Our Song Vietnam để được cập nhật sớm nhất khi audio được phát hành: https://WMVN.lnk.to/OSVN\n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n \n\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nOur Song Việt Nam:     • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  \n2 Ngày 1 Đêm Việt Nam:    • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  \n7 Nụ Cười Xuân:    • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  \nNhanh Như Chớp:    • ⚡️⚡️NHANH NHƯ CHỚP MÙA 5⚡️⚡️ | Gameshow gi...  \n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage:   / dongtaypromotion  \n► Instagram:   / dongtaypromotion.official  \n► TikTok:   / dongtaypromotionofficial  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+          "text": "   • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/oursongvietnam",
+          "text": "#OurSongVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/oursong",
+          "text": "#OurSong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/baihatcuachungta",
+          "text": "#BaiHatCuaChungTa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/%C4%91%C3%B4ngt%C3%A2ypromotion",
+          "text": "#ĐôngTâyPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quanglinh",
+          "text": "#QuangLinh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thuminh",
+          "text": "#ThuMinh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C6%B0%C6%A1ngb%C3%ADchh%E1%BB%AFu",
+          "text": "#LươngBíchHữu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ph%E1%BA%A1manhduy",
+          "text": "#PhạmAnhDuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%C3%A2mb%E1%BA%A3ong%E1%BB%8Dc",
+          "text": "#LâmBảoNgọc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/v%C5%A9th%E1%BA%A3omy",
+          "text": "#VũThảoMy"
+        },
+        {
+          "url": "https://www.youtube.com/@dongtaypromotionofficial",
+          "text": "‪@dongtaypromotionofficial‬"
+        },
+        {
+          "url": "https://WMVN.lnk.to/OSVN-EP2",
+          "text": "https://WMVN.lnk.to/OSVN-EP2"
+        },
+        {
+          "url": "https://WMVN.lnk.to/OSVN",
+          "text": "https://WMVN.lnk.to/OSVN"
+        },
+        {
+          "url": "https://bit.ly/SubDTP",
+          "text": "https://bit.ly/SubDTP"
+        },
+        {
+          "url": "https://bit.ly/SubDTE",
+          "text": "https://bit.ly/SubDTE"
+        },
+        {
+          "url": "https://bit.ly/HAUTRUONGDTP",
+          "text": "https://bit.ly/HAUTRUONGDTP"
+        },
+        {
+          "url": "https://bit.ly/showhotDTP",
+          "text": "https://bit.ly/showhotDTP"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+          "text": "   • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc",
+          "text": "   • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig",
+          "text": "   • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuqASIzsS38QmT8CDA7zdSs",
+          "text": "   • ⚡️⚡️NHANH NHƯ CHỚP MÙA 5⚡️⚡️ | Gameshow gi...  "
+        },
+        {
+          "url": "https://www.facebook.com/DongTayPromotion",
+          "text": "  / dongtaypromotion  "
+        },
+        {
+          "url": "https://www.instagram.com/dongtaypromotion.official/",
+          "text": "  / dongtaypromotion.official  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dongtaypromotionofficial",
+          "text": "  / dongtaypromotionofficial  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 13,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+      "isMonetized": null,
+      "hashtags": [
+        "#OurSongVietNam",
+        "#OurSong",
+        "#QuangLinh"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+      "isPaidContent": false
+    },
+    {
+      "title": "Our Song Việt Nam-Tập 9:Thanh Hà - Phạm Anh Duy làm nên siêu phẩm, một OG bất ngờ xin dừng cuộc chơi",
+      "translatedTitle": "Our Song Vietnam - Episode 9: Thanh Ha and Pham Anh Duy create a masterpiece, an OG unexpectedly ...",
+      "type": "video",
+      "id": "RUpi6MrvdUo",
+      "url": "https://www.youtube.com/watch?v=RUpi6MrvdUo&list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP&index=7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/RUpi6MrvdUo/maxresdefault.jpg",
+      "viewCount": 2587696,
+      "date": "2024-10-27T14:30:06.000Z",
+      "likes": 5500,
+      "location": null,
+      "channelName": "ĐÔNG TÂY PROMOTION OFFICIAL",
+      "channelUrl": "https://www.youtube.com/@dongtaypromotionofficial",
+      "channelUsername": "dongtaypromotionofficial",
+      "collaborators": null,
+      "channelId": "UCFMEYTv6N64hIL9FlQ_hxBw",
+      "numberOfSubscribers": 9830000,
+      "duration": "01:54:22",
+      "commentsCount": 2187,
+      "text": "Our Song Việt Nam-Tập 9:Thanh Hà - Phạm Anh Duy làm nên siêu phẩm, một OG bất ngờ xin dừng cuộc chơi\n\nXem TRỌN BỘ Our Song Việt Nam - Bài Hát Của Chúng Ta: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP\n\n#OurSongVietNam #OurSong #BaiHatCuaChungTa #ĐôngTâyPromotion \n#QuangLinh #ThanhHà #DươngEdward #PhạmAnhDuy #Erik \n#ThanhLam #Orange #MaiTiếnDũng #LyLy #TrấnThành\n\nMở thẻ VPBank liền tay, nhận ngay vạn deal cùng siêu hoàn tiền đến 15% mọi chi tiêu\n \n\n▶ Tìm nghe các bản audio Tập 9 Bài Hát Của Chúng Ta - Our Song Vietnam trên: https://WMVN.lnk.to/OSVN-EP9\n▶ Follow playlist Bài Hát Của Chúng Ta - Our Song Vietnam để được cập nhật sớm nhất khi audio được phát hành: https://WMVN.lnk.to/OSVN \n\n✨Bài Hát Của Chúng Ta - Our Song Việt Nam là chương trình âm nhạc THỜI THƯỢNG đem đến cho khán giả ĐA THẾ HỆ trải nghiệm tận hưởng khát khao dẫn đầu xu hướng “QUAY VỀ TƯƠNG LAI\".\n\n⏰Đón xem OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚNG TA  vào lúc:\n📺 21H15 Chủ Nhật hàng tuần trên kênh truyền hình VTV3, siêu ứng dụng giải trí VieON\n▶️ 21H45 trên kênh   @dongtaypromotionofficial  \n\n📣 Subscribe kênh ĐÔNG TÂY PROMOTION OFFICIAL để không bỏ lỡ các chương trình SIÊU HẤP DẪN: https://bit.ly/SubDTP\n📣 Subscribe kênh DONG TAY ENTERTAINMENT để xem các VIDEO HOT từ các show đỉnh nhất: https://bit.ly/SubDTE\n \n\n\n\n⏩ Bí mật HẬU TRƯỜNG: https://bit.ly/HAUTRUONGDTP \n⏩ SHOW HAY mỗi ngày: https://bit.ly/showhotDTP \n\n👉 CÁC SHOW HOT KHÁC: \nOur Song Việt Nam:  https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP\n2 Ngày 1 Đêm Việt Nam: https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc\n7 Nụ Cười Xuân: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig\nNhanh Như Chớp: https://www.youtube.com/playlist?list=PLy_TpcUT2LZuqASIzsS38QmT8CDA7zdSs\n\n👉 Theo dõi các kênh chính thức của Dong Tay Promotion - thuộc sở hữu của DatVietVAC tại:\n► Fanpage: https://www.facebook.com/DongTayPromotion\n► Instagram: https://www.instagram.com/dongtaypromotion.official/\n► TikTok: https://www.tiktok.com/@dongtaypromotionofficial",
+      "translatedText": "Our Song Vietnam - Episode 9: Thanh Ha and Pham Anh Duy create a masterpiece, one contestant unexpectedly withdraws from the competition.\n\nWatch the FULL Our Song Vietnam - Our Song:    • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  \n\n#OurSongVietNam #OurSong #BaiHatCuaChungTa #DongTayPromotion\n\n#QuangLinh #ThanhHa #DuongEdward #PhamAnhDuy #Erik\n\n#ThanhLam #Orange #MaiTienDung #LyLy #TranThanh\n\nOpen a VPBank card now and receive thousands of deals and super cashback up to 15% on all spending.\n\n▶ Find and listen to the audio versions of Episode 9 of Our Song Vietnam on: https://WMVN.lnk.to/OSVN-EP9\n\n▶ Follow the Song playlist Our Song Vietnam - Stay updated as soon as the audio is released: https://WMVN.lnk.to/OSVN\n\n✨Our Song Vietnam is a TRENDY music program that brings multi-generational audiences the experience of enjoying the desire to lead the trend of \"RETURNING TO THE FUTURE\".\n\n⏰ Watch OUR SONG VIETNAM - OUR SONG at:\n\n📺 9:15 PM every Sunday on VTV3 and the VieON entertainment app\n▶️ 9:45 PM on @dongtaypromotionofficial\n\n📣 Subscribe to DONG TAY PROMOTION OFFICIAL to not miss out on SUPER EXCITING programs: https://bit.ly/SubDTP\n📣 Subscribe to DONG TAY ENTERTAINMENT to watch HOT VIDEOS from the top shows: https://bit.ly/SubDTE\n\n\n⏩ Behind-the-Scenes Secrets: https://bit.ly/HAUTRUONGDTP ⏩ Great Shows every day: https://bit.ly/showhotDTP 👉 OTHER HOT SHOWS: \nOur Song Vietnam:    • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  \n2 Days 1 Night Vietnam:    • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  \n7 Spring Smiles:    • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  \nFast as Lightning:    • ⚡️⚡️NHANH NHƯ CHỚP MÙA 5⚡️⚡️ | Gameshow gi...  \n\n👉 Follow the official channels of Dong Tay Promotion - owned by DatVietVAC at:\n► Fanpage:   / dongtaypromotion  \n► Instagram:   / dongtaypromotion.official  \n► TikTok:   / dongtaypromotionofficial  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+          "text": "   • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/oursongvietnam",
+          "text": "#OurSongVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/oursong",
+          "text": "#OurSong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/baihatcuachungta",
+          "text": "#BaiHatCuaChungTa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dongtaypromotion",
+          "text": "#DongTayPromotion"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quanglinh",
+          "text": "#QuangLinh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thanhha",
+          "text": "#ThanhHa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/duongedward",
+          "text": "#DuongEdward"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phamanhduy",
+          "text": "#PhamAnhDuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/erik",
+          "text": "#Erik"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/thanhlam",
+          "text": "#ThanhLam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/orange",
+          "text": "#Orange"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/maitiendung",
+          "text": "#MaiTienDung"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lyly",
+          "text": "#LyLy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tranthanh",
+          "text": "#TranThanh"
+        },
+        {
+          "url": "https://WMVN.lnk.to/OSVN-EP9",
+          "text": "https://WMVN.lnk.to/OSVN-EP9"
+        },
+        {
+          "url": "https://WMVN.lnk.to/OSVN",
+          "text": "https://WMVN.lnk.to/OSVN"
+        },
+        {
+          "url": "https://bit.ly/SubDTP",
+          "text": "https://bit.ly/SubDTP"
+        },
+        {
+          "url": "https://bit.ly/SubDTE",
+          "text": "https://bit.ly/SubDTE"
+        },
+        {
+          "url": "https://bit.ly/HAUTRUONGDTP",
+          "text": "https://bit.ly/HAUTRUONGDTP"
+        },
+        {
+          "url": "https://bit.ly/showhotDTP",
+          "text": "https://bit.ly/showhotDTP"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+          "text": "   • ️️💟 ️🎼 OUR SONG VIỆT NAM - BÀI HÁT CỦA CHÚ...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZsq7Q3VQPzQgYT7cvfAKrcc",
+          "text": "   • 🔥 2 NGÀY 1 ĐÊM VIỆT NAM - MÙA 3 | Chương t...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs1nSp5Kj_FrLixOmgUqoig",
+          "text": "   • 7 NỤ CƯỜI XUÂN MÙA 7 | Show giải trí tạp k...  "
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZuqASIzsS38QmT8CDA7zdSs",
+          "text": "   • ⚡️⚡️NHANH NHƯ CHỚP MÙA 5⚡️⚡️ | Gameshow gi...  "
+        },
+        {
+          "url": "https://www.facebook.com/DongTayPromotion",
+          "text": "  / dongtaypromotion  "
+        },
+        {
+          "url": "https://www.instagram.com/dongtaypromotion.official/",
+          "text": "  / dongtaypromotion.official  "
+        },
+        {
+          "url": "https://www.tiktok.com/@dongtaypromotionofficial",
+          "text": "  / dongtaypromotionofficial  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 6,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+      "isMonetized": null,
+      "hashtags": [
+        "#OurSongVietNam",
+        "#OurSong",
+        "#QuangLinh"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP",
+      "isPaidContent": false
+    }
+  ]
+}

@@ -1,0 +1,2008 @@
+{
+  "actor_name": "streamers/youtube-scraper",
+  "actor_run_id": "i3J1i2O99cTyHPbyz",
+  "dataset_id": "hNEdhAUPGTl7J3W0L",
+  "actor_build_id": "SUk0475fgtCh9zqMt",
+  "retrieved_at": "2026-08-12T14:28:50.049091+07:00",
+  "actor_input": {
+    "maxResults": 36,
+    "maxResultsShorts": 0,
+    "maxResultStreams": 0,
+    "startUrls": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE"
+      }
+    ],
+    "sourceBindingUrl": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE"
+  },
+  "run_metadata": {
+    "status": "SUCCEEDED",
+    "startedAt": "2026-08-12T07:27:17.362Z",
+    "finishedAt": "2026-08-12T07:28:45.540Z",
+    "usageTotalUsd": 0.14,
+    "chargedEventCounts": {
+      "result": 35,
+      "date-filter": 0,
+      "ai-video-description": 0,
+      "ai-video-summary": 0
+    }
+  },
+  "items": [
+    {
+      "title": "ĐỒNG HÀNH | Văn Mai Hương và Tuấn Dương TẤU HỀ, DỰ ĐOÁN \"CHẤN ĐỘNG\" trước ngày đi SAO NHẬP NGŨ",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "mq_PMKgDmeA",
+      "url": "https://www.youtube.com/watch?v=mq_PMKgDmeA&list=PLZuraW9kAXuE&index=18",
+      "thumbnailUrl": "https://i.ytimg.com/vi/mq_PMKgDmeA/maxresdefault.jpg",
+      "viewCount": 2771,
+      "date": "2026-08-02T13:00:09.000Z",
+      "likes": 26,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:03:26",
+      "commentsCount": 4,
+      "text": "ĐỒNG HÀNH | Văn Mai Hương và Tuấn Dương TẤU HỀ, DỰ ĐOÁN \"CHẤN ĐỘNG\" trước ngày đi SAO NHẬP NGŨ\n------------------------------\n🎥 Đón xem Sao Nhập Ngũ 2026, phát sóng vào tháng 8/2026\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548\n#SaoNhapNgu #SaoNhapNgu2026 #ViettelMedia #ToQuocNoiDauSong",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#SaoNhapNgu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu2026",
+          "text": "#SaoNhapNgu2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#ViettelMedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/toquocnoidausong",
+          "text": "#ToQuocNoiDauSong"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 17,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isMonetized": null,
+      "hashtags": [
+        "#SaoNhapNgu2026",
+        "#ViettelMedia",
+        "#SaoNhapNgu"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isPaidContent": false
+    },
+    {
+      "title": "ĐỒNG HÀNH | Phan Mạnh Quỳnh và Thúy Ngân DỰ ĐOÁN \"CHẤN ĐỘNG\" trước ngày nhập ngũ | SAO NHẬP NGŨ 2026",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "9QvMZ5DqB9s",
+      "url": "https://www.youtube.com/watch?v=9QvMZ5DqB9s&list=PLZuraW9kAXuE&index=21",
+      "thumbnailUrl": "https://i.ytimg.com/vi/9QvMZ5DqB9s/maxresdefault.jpg",
+      "viewCount": 10017,
+      "date": "2026-07-30T13:00:32.000Z",
+      "likes": 97,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:03:51",
+      "commentsCount": 9,
+      "text": "ĐỒNG HÀNH | Phan Mạnh Quỳnh và Thúy Ngân DỰ ĐOÁN \"CHẤN ĐỘNG\" trước ngày nhập ngũ | SAO NHẬP NGŨ 2026\n------------------------------\n🎥 Đón xem Sao Nhập Ngũ 2026, phát sóng vào tháng 8/2026\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548\n#SaoNhapNgu #SaoNhapNgu2026 #ViettelMedia #ToQuocNoiDauSong",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#SaoNhapNgu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu2026",
+          "text": "#SaoNhapNgu2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#ViettelMedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/toquocnoidausong",
+          "text": "#ToQuocNoiDauSong"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 20,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isMonetized": null,
+      "hashtags": [
+        "#SaoNhapNgu2026",
+        "#ViettelMedia",
+        "#SaoNhapNgu"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isPaidContent": false
+    },
+    {
+      "title": "Các đồng chí cùng làm quen chiến sĩ mới Nguyễn Quốc Trường nha 😙| SAO NHẬP NGŨ 2025 #shorts",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "4-BvL8WTFVk",
+      "url": "https://www.youtube.com/watch?v=4-BvL8WTFVk&list=PLZuraW9kAXuE&index=24",
+      "thumbnailUrl": "https://i.ytimg.com/vi/4-BvL8WTFVk/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGGUgVChTMA8=&rs=AOn4CLDN-mqXLWeUrPPJ1Dx6AwJVnkCbkQ",
+      "viewCount": 6732,
+      "date": "2026-07-28T12:00:08.000Z",
+      "likes": 107,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:01:36",
+      "commentsCount": 2,
+      "text": "[PHỎNG VẤN NHANH] Các đồng chí cùng làm quen chiến sĩ mới Nguyễn Quốc Trường nha 😙\n#QuocTruong #SaoNhapNgu #SaoNhapNgu2026 #ViettelMedia #ToQuocNoiDauSong\n------------------------------\n🎥 Đón xem Sao Nhập Ngũ 2026 - Tổ Quốc Nơi Đầu Sóng\n⌛Tháng 8/2026\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548",
+      "translatedText": "[PHỎNG VẤN NHANH] Các đồng chí cùng làm quen chiến sĩ mới Nguyễn Quốc Trường nha 😙\n#QuocTruong #SaoNhapNgu #SaoNhapNgu2026 #ViettelMedia #ToQuocNoiDauSong\n------------------------------\n🎥 Đón xem Sao Nhập Ngũ 2026 - Tổ Quốc Nơi Đầu Sóng\n⌛Tháng 8/2026\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/quoctruong",
+          "text": "#QuocTruong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#SaoNhapNgu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu2026",
+          "text": "#SaoNhapNgu2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#ViettelMedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/toquocnoidausong",
+          "text": "#ToQuocNoiDauSong"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 23,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isPaidContent": false
+    },
+    {
+      "title": "Dương mất kết nối thật rồi !!!😅 | SAO NHẬP NGŨ 2026",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "3qqSHhf0QD8",
+      "url": "https://www.youtube.com/watch?v=3qqSHhf0QD8&list=PLZuraW9kAXuE&index=14",
+      "thumbnailUrl": "https://i.ytimg.com/vi/3qqSHhf0QD8/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYWiBlKEYwDw==&rs=AOn4CLCimrut8XHrQAv8yqguEBP8cNxTAg",
+      "viewCount": 2057,
+      "date": "2026-08-03T13:00:37.000Z",
+      "likes": 13,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:00:18",
+      "commentsCount": 0,
+      "text": "Dương mất kết nối thật rồi !!!😅 | SAO NHẬP NGŨ 2026\n------------------------------\n🎥 Đón xem Sao Nhập Ngũ 2026, phát sóng vào tháng 8/2026\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548\n#SaoNhapNgu #SaoNhapNgu2026 #ViettelMedia #ToQuocNoiDauSong",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#SaoNhapNgu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu2026",
+          "text": "#SaoNhapNgu2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#ViettelMedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/toquocnoidausong",
+          "text": "#ToQuocNoiDauSong"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 13,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isMonetized": null,
+      "hashtags": [
+        "#SaoNhapNgu2026",
+        "#ViettelMedia",
+        "#SaoNhapNgu"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isPaidContent": false
+    },
+    {
+      "title": "4 chiến sĩ Thúy Ngân - Minh Trang - Mạnh Quỳnh - Trung Thành đã sẵn sàng 🙌🏻 | SAO NHẬP NGŨ 2026",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "wwNitOWWQVY",
+      "url": "https://www.youtube.com/watch?v=wwNitOWWQVY&list=PLZuraW9kAXuE&index=23",
+      "thumbnailUrl": "https://i.ytimg.com/vi/wwNitOWWQVY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGFEgSyhlMA8=&rs=AOn4CLAxeYoB4Lf8dMqnoYDOl6AtdLdiJg",
+      "viewCount": 5197,
+      "date": "2026-07-29T12:10:07.000Z",
+      "likes": 134,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:02:59",
+      "commentsCount": 8,
+      "text": "[SAO SẴN SÀNG] 4 chiến sĩ Thúy Ngân - Minh Trang - Mạnh Quỳnh - Trung Thành đã sẵn sàng 🙌🏻 Các đồng chí đã sẵn sàng chưa? 🙌🏻\n------------------------------\n🎥 Đón xem Sao Nhập Ngũ 2026, phát sóng vào tháng 8/2026\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548\n#SaoNhapNgu #SaoNhapNgu2026 #ViettelMedia #ToQuocNoiDauSong",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#SaoNhapNgu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu2026",
+          "text": "#SaoNhapNgu2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#ViettelMedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/toquocnoidausong",
+          "text": "#ToQuocNoiDauSong"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 22,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isMonetized": null,
+      "hashtags": [
+        "#SaoNhapNgu2026",
+        "#ViettelMedia",
+        "#SaoNhapNgu"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isPaidContent": false
+    },
+    {
+      "title": "Các đồng chí cùng làm quen chiến sĩ mới Trần Tuấn Dương nha 🫡 | SAO NHẬP NGŨ 2026 #TuanDuong",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "acQnMMTlORw",
+      "url": "https://www.youtube.com/watch?v=acQnMMTlORw&list=PLZuraW9kAXuE&index=26",
+      "thumbnailUrl": "https://i.ytimg.com/vi/acQnMMTlORw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGGEgZShHMA8=&rs=AOn4CLDUn3y69mh_WV2EyDkZnaPqjTlcGQ",
+      "viewCount": 4286,
+      "date": "2026-07-26T14:00:00.000Z",
+      "likes": 84,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:02:10",
+      "commentsCount": 3,
+      "text": "[PHỎNG VẤN NHANH] Các đồng chí cùng làm quen chiến sĩ mới Trần Tuấn Dương nha 🫡\n#TuanDuong #SaoNhapNgu #SaoNhapNgu2026 #ViettelMedia #ToQuocNoiDauSong\n------------------------------\n🎥 Đón xem Sao Nhập Ngũ 2026 - Tổ Quốc Nơi Đầu Sóng\n⌛Tháng 8/2026\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548",
+      "translatedText": "[PHỎNG VẤN NHANH] Các đồng chí cùng làm quen chiến sĩ mới Trần Tuấn Dương nha 🫡\n#TuanDuong #SaoNhapNgu #SaoNhapNgu2026 #ViettelMedia #ToQuocNoiDauSong\n------------------------------\n🎥 Đón xem Sao Nhập Ngũ 2026 - Tổ Quốc Nơi Đầu Sóng\n⌛Tháng 8/2026\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/tuanduong",
+          "text": "#TuanDuong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#SaoNhapNgu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu2026",
+          "text": "#SaoNhapNgu2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#ViettelMedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/toquocnoidausong",
+          "text": "#ToQuocNoiDauSong"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 25,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isPaidContent": false
+    },
+    {
+      "title": "ĐỒNG HÀNH | Quốc Trường và Minh Trang DỰ ĐOÁN \"CHẤN ĐỘNG\" trước ngày nhập ngũ | SAO NHẬP NGŨ 2026",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "LbVYtaEQK2E",
+      "url": "https://www.youtube.com/watch?v=LbVYtaEQK2E&list=PLZuraW9kAXuE&index=20",
+      "thumbnailUrl": "https://i.ytimg.com/vi/LbVYtaEQK2E/maxresdefault.jpg",
+      "viewCount": 3393,
+      "date": "2026-07-31T12:00:35.000Z",
+      "likes": 47,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:03:32",
+      "commentsCount": 2,
+      "text": "ĐỒNG HÀNH | Quốc Trường và Minh Trang DỰ ĐOÁN \"CHẤN ĐỘNG\" trước ngày nhập ngũ | SAO NHẬP NGŨ 2026\n------------------------------\n🎥 Đón xem Sao Nhập Ngũ 2026 - Tổ Quốc Nơi Đầu Sóng\n👉🏻 Từ 13/08 lúc 20h45 tối Thứ 5 hằng tuần trên kênh QPVN\n❤️‍🔥 Từ 13/08 lúc 21h00 trên kênh HTV7 và Youtube \n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548\n#SaoNhapNgu #SaoNhapNgu2026 #ViettelMedia #ToQuocNoiDauSong",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#SaoNhapNgu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu2026",
+          "text": "#SaoNhapNgu2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#ViettelMedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/toquocnoidausong",
+          "text": "#ToQuocNoiDauSong"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 19,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isMonetized": null,
+      "hashtags": [
+        "#SaoNhapNgu2026",
+        "#ViettelMedia",
+        "#SaoNhapNgu"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isPaidContent": false
+    },
+    {
+      "title": "Các đồng chí cùng làm quen chiến sĩ mới Lê Trung Thành nha 🫡 | SAO NHẬP NGŨ #saonhapngu",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "QyLEHBODCeI",
+      "url": "https://www.youtube.com/watch?v=QyLEHBODCeI&list=PLZuraW9kAXuE&index=27",
+      "thumbnailUrl": "https://i.ytimg.com/vi/QyLEHBODCeI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGGUgTyhHMA8=&rs=AOn4CLCwNaAUfE-LMQJ9KzmPZyzd4mjduA",
+      "viewCount": 5715,
+      "date": "2026-07-26T02:00:00.000Z",
+      "likes": 126,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:02:26",
+      "commentsCount": 2,
+      "text": "Các đồng chí cùng làm quen chiến sĩ mới Lê Trung Thành nha 🫡\n#Erik #SaoNhapNgu #SaoNhapNgu2026 #ViettelMedia #ToQuocNoiDauSong\n------------------------------\n🎥 Đón xem Sao Nhập Ngũ 2026 - Tổ Quốc Nơi Đầu Sóng\n⌛Tháng 8/2026\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548",
+      "translatedText": "Các đồng chí cùng làm quen chiến sĩ mới Lê Trung Thành nha 🫡\n#Erik #SaoNhapNgu #SaoNhapNgu2026 #ViettelMedia #ToQuocNoiDauSong\n------------------------------\n🎥 Đón xem Sao Nhập Ngũ 2026 - Tổ Quốc Nơi Đầu Sóng\n⌛Tháng 8/2026\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/erik",
+          "text": "#Erik"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#SaoNhapNgu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu2026",
+          "text": "#SaoNhapNgu2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#ViettelMedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/toquocnoidausong",
+          "text": "#ToQuocNoiDauSong"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 26,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isPaidContent": false
+    },
+    {
+      "title": "Chào Sao Nhập Ngũ 2026! Đồng chí Phan Mạnh Quỳnh đã có mặt 🫡 #saonhapngu #phanmanhquynh",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "xo0i0-Re-OM",
+      "url": "https://www.youtube.com/watch?v=xo0i0-Re-OM&list=PLZuraW9kAXuE&index=30",
+      "thumbnailUrl": "https://i.ytimg.com/vi/xo0i0-Re-OM/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYYyBlKEwwDw==&rs=AOn4CLC7O4-qVAZYzOhhMbYVdxh90kg_4Q",
+      "viewCount": 9109,
+      "date": "2026-07-24T13:30:38.000Z",
+      "likes": 194,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:00:21",
+      "commentsCount": 5,
+      "text": "Chào Sao Nhập Ngũ 2026! Đồng chí Phan Mạnh Quỳnh đã có mặt 🫡 #saonhapngu #phanmanhquynh \n------------------------------\n🎥 Đón xem Sao Nhập Ngũ 2026 - Tổ Quốc Nơi Đầu Sóng\n⌛Tháng 8/2026\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548\n#SaoNhapNgu #SaoNhapNgu2026 #ViettelMedia #ToQuocNoiDauSong",
+      "translatedText": "Chào Sao Nhập Ngũ 2026! Đồng chí Phan Mạnh Quỳnh đã có mặt 🫡 #saonhapngu #phanmanhquynh \n------------------------------\n🎥 Đón xem Sao Nhập Ngũ 2026 - Tổ Quốc Nơi Đầu Sóng\n⌛Tháng 8/2026\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548\n#SaoNhapNgu #SaoNhapNgu2026 #ViettelMedia #ToQuocNoiDauSong",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phanmanhquynh",
+          "text": "#phanmanhquynh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#SaoNhapNgu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu2026",
+          "text": "#SaoNhapNgu2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#ViettelMedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/toquocnoidausong",
+          "text": "#ToQuocNoiDauSong"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 29,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isPaidContent": false
+    },
+    {
+      "title": "Các đồng chí cùng làm quen chiến sĩ mới Bùi Thái Bảo Châu nha 🥰 | SAO NHẬP NGŨ #ChauBui #SaoNhapNgu",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "CDRafzIuW2Q",
+      "url": "https://www.youtube.com/watch?v=CDRafzIuW2Q&list=PLZuraW9kAXuE&index=32",
+      "thumbnailUrl": "https://i.ytimg.com/vi/CDRafzIuW2Q/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGGUgTihKMA8=&rs=AOn4CLAF5Hbd8WtxN9QFAtY7mA_JnEGwIw",
+      "viewCount": 6091,
+      "date": "2026-07-23T14:03:05.000Z",
+      "likes": 135,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:01:46",
+      "commentsCount": 2,
+      "text": "Các đồng chí cùng làm quen chiến sĩ mới Bùi Thái Bảo Châu nha 🥰 | SAO NHẬP NGŨ\n\n#ChauBui #SaoNhapNgu #SaoNhapNgu2026 #ViettelMedia #ToQuocNoiDauSong\n------------------------------\n🎥 Đón xem Sao Nhập Ngũ 2026 - Tổ Quốc Nơi Đầu Sóng\n⌛Tháng 8/2026\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548",
+      "translatedText": "Các đồng chí cùng làm quen chiến sĩ mới Bùi Thái Bảo Châu nha 🥰 | SAO NHẬP NGŨ\n\n#ChauBui #SaoNhapNgu #SaoNhapNgu2026 #ViettelMedia #ToQuocNoiDauSong\n------------------------------\n🎥 Đón xem Sao Nhập Ngũ 2026 - Tổ Quốc Nơi Đầu Sóng\n⌛Tháng 8/2026\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/chaubui",
+          "text": "#ChauBui"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#SaoNhapNgu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu2026",
+          "text": "#SaoNhapNgu2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#ViettelMedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/toquocnoidausong",
+          "text": "#ToQuocNoiDauSong"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 31,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isPaidContent": false
+    },
+    {
+      "title": "OFFICIAL INTRO | SAO NHẬP NGŨ 2026 - TỔ QUỐC NƠI ĐẦU SÓNG",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "tMOK8R6qf8g",
+      "url": "https://www.youtube.com/watch?v=tMOK8R6qf8g&list=PLZuraW9kAXuE&index=1",
+      "thumbnailUrl": "https://i.ytimg.com/vi/tMOK8R6qf8g/maxresdefault.jpg",
+      "viewCount": 754,
+      "date": "2026-08-12T03:30:07.000Z",
+      "likes": 37,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:00:32",
+      "commentsCount": 5,
+      "text": "OFFICIAL INTRO | SAO NHẬP NGŨ 2026 - TỔ QUỐC NƠI ĐẦU SÓNG \n------------------------------\n🎥 Đón xem Sao Nhập Ngũ 2026, phát sóng vào tháng 8/2026\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548\n#SaoNhapNgu #SaoNhapNgu2026 #ViettelMedia #ToQuocNoiDauSong",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#SaoNhapNgu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu2026",
+          "text": "#SaoNhapNgu2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#ViettelMedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/toquocnoidausong",
+          "text": "#ToQuocNoiDauSong"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 0,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isMonetized": null,
+      "hashtags": [
+        "#SaoNhapNgu",
+        "#SaoNhapNgu2026",
+        "#ViettelMedia"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isPaidContent": false
+    },
+    {
+      "title": "Thúy Ngân, Phan Mạnh Quỳnh, Văn Mai Hương, Tuấn Dương đoán tên vật dụng chuẩn thuật ngữ quân đội 🤔",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "O5EdMtIRzcw",
+      "url": "https://www.youtube.com/watch?v=O5EdMtIRzcw&list=PLZuraW9kAXuE&index=7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/O5EdMtIRzcw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGFggXShlMA8=&rs=AOn4CLDDVJtvs5G7PNuX5u9hoDjZO5L_oQ",
+      "viewCount": 3130,
+      "date": "2026-08-07T03:32:17.000Z",
+      "likes": 64,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:02:12",
+      "commentsCount": 5,
+      "text": "Đoán tên vật dụng chuẩn thuật ngữ quân đội cùng Thúy Ngân, Phan Mạnh Quỳnh, Văn Mai Hương, Tuấn Dương | SAO NHẬP NGŨ 2026\n------------------------------\n🎥 Đón xem Sao Nhập Ngũ 2026, phát sóng vào tháng 8/2026\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548\n#SaoNhapNgu #SaoNhapNgu2026 #ViettelMedia #ToQuocNoiDauSong",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#SaoNhapNgu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu2026",
+          "text": "#SaoNhapNgu2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#ViettelMedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/toquocnoidausong",
+          "text": "#ToQuocNoiDauSong"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 6,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isMonetized": null,
+      "hashtags": [
+        "#SaoNhapNgu2026",
+        "#ViettelMedia",
+        "#SaoNhapNgu"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isPaidContent": false
+    },
+    {
+      "title": "Các đồng chí cùng làm quen chiến sĩ mới Lê Huỳnh Thúy Ngân nha 💌#ThuyNgan #SaoNhapNgu2026",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "0sdLGedT_98",
+      "url": "https://www.youtube.com/watch?v=0sdLGedT_98&list=PLZuraW9kAXuE&index=33",
+      "thumbnailUrl": "https://i.ytimg.com/vi/0sdLGedT_98/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGFggXihlMA8=&rs=AOn4CLCf_KirSn2YVmz0_jCM7DOU4kmORA",
+      "viewCount": 16566,
+      "date": "2026-07-22T13:00:06.000Z",
+      "likes": 356,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:02:01",
+      "commentsCount": 11,
+      "text": "[PHỎNG VẤN NHANH] Các đồng chí cùng làm quen chiến sĩ mới Lê Huỳnh Thúy Ngân nha 💌\n#ThuyNgan #saonhapngu  #SaoNhapNgu2026 #ViettelMedia #ToQuocNoiDauSong\n------------------------------\n🎥 Đón xem Sao Nhập Ngũ 2026 - Tổ Quốc Nơi Đầu Sóng\n⌛Tháng 8/2026\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548",
+      "translatedText": "[PHỎNG VẤN NHANH] Các đồng chí cùng làm quen chiến sĩ mới Lê Huỳnh Thúy Ngân nha 💌\n#ThuyNgan #saonhapngu  #SaoNhapNgu2026 #ViettelMedia #ToQuocNoiDauSong\n------------------------------\n🎥 Đón xem Sao Nhập Ngũ 2026 - Tổ Quốc Nơi Đầu Sóng\n⌛Tháng 8/2026\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/thuyngan",
+          "text": "#ThuyNgan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu2026",
+          "text": "#SaoNhapNgu2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#ViettelMedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/toquocnoidausong",
+          "text": "#ToQuocNoiDauSong"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 32,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isPaidContent": false
+    },
+    {
+      "title": "10 điểm cho Erik (Lê Trung Thành) | SAO NHẬP NGŨ 2026",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "P0Vidn830uQ",
+      "url": "https://www.youtube.com/watch?v=P0Vidn830uQ&list=PLZuraW9kAXuE&index=11",
+      "thumbnailUrl": "https://i.ytimg.com/vi/P0Vidn830uQ/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBVKFMwDw==&rs=AOn4CLDtjy-HFGLuJl5l2TiSAoQnRLinnA",
+      "viewCount": 3171,
+      "date": "2026-08-04T03:00:23.000Z",
+      "likes": 42,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:00:18",
+      "commentsCount": 0,
+      "text": "10 điểm cho Erik (Lê Trung Thành) | SAO NHẬP NGŨ 2026\n------------------------------\n🎥 Đón xem Sao Nhập Ngũ 2026, phát sóng vào tháng 8/2026\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548\n#SaoNhapNgu #SaoNhapNgu2026 #ViettelMedia #ToQuocNoiDauSong",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#SaoNhapNgu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu2026",
+          "text": "#SaoNhapNgu2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#ViettelMedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/toquocnoidausong",
+          "text": "#ToQuocNoiDauSong"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 10,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isMonetized": null,
+      "hashtags": [
+        "#SaoNhapNgu2026",
+        "#ViettelMedia",
+        "#SaoNhapNgu"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isPaidContent": false
+    },
+    {
+      "title": "🤣 Ôi đồng chí Tuấn Dương ơi | SAO NHẬP NGŨ 2026",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "9VFqJlur3rk",
+      "url": "https://www.youtube.com/watch?v=9VFqJlur3rk&list=PLZuraW9kAXuE&index=6",
+      "thumbnailUrl": "https://i.ytimg.com/vi/9VFqJlur3rk/maxresdefault.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYWyBlKEUwDw==&rs=AOn4CLBSAV5fQH-_EIQgPHq-5_mjc3nL5w",
+      "viewCount": 2799,
+      "date": "2026-08-07T05:30:38.000Z",
+      "likes": 20,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:00:33",
+      "commentsCount": 1,
+      "text": "🤣 Ôi đồng chí Tuấn Dương ơi | SAO NHẬP NGŨ 2026\n------------------------------\n🎥 Đón xem Sao Nhập Ngũ 2026, phát sóng vào tháng 8/2026\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548\n#SaoNhapNgu #SaoNhapNgu2026 #ViettelMedia #ToQuocNoiDauSong",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#SaoNhapNgu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu2026",
+          "text": "#SaoNhapNgu2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#ViettelMedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/toquocnoidausong",
+          "text": "#ToQuocNoiDauSong"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 5,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isMonetized": null,
+      "hashtags": [
+        "#SaoNhapNgu2026",
+        "#ViettelMedia",
+        "#SaoNhapNgu"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isPaidContent": false
+    },
+    {
+      "title": "🤣 Ôi đồng chí Minh Trang ơi | SAO NHẬP NGŨ 2026",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "a6YFKixBswo",
+      "url": "https://www.youtube.com/watch?v=a6YFKixBswo&list=PLZuraW9kAXuE&index=4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/a6YFKixBswo/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYUiBNKGUwDw==&rs=AOn4CLB6NTrHqYpt-FEpIREh53CaQWKMyw",
+      "viewCount": 6993,
+      "date": "2026-08-07T11:00:16.000Z",
+      "likes": 64,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:00:30",
+      "commentsCount": 1,
+      "text": "🤣 Ôi đồng chí Minh Trang ơi | SAO NHẬP NGŨ 2026\n------------------------------\n🎥 Đón xem Sao Nhập Ngũ 2026, phát sóng vào tháng 8/2026\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548\n#SaoNhapNgu #SaoNhapNgu2026 #ViettelMedia #ToQuocNoiDauSong",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#SaoNhapNgu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu2026",
+          "text": "#SaoNhapNgu2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#ViettelMedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/toquocnoidausong",
+          "text": "#ToQuocNoiDauSong"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 3,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isMonetized": null,
+      "hashtags": [
+        "#SaoNhapNgu2026",
+        "#ViettelMedia",
+        "#SaoNhapNgu"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tuấn Dương nhắc Erik nha 🤣 | SAO NHẬP NGŨ 2026",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "pVoApXwXxgw",
+      "url": "https://www.youtube.com/watch?v=pVoApXwXxgw&list=PLZuraW9kAXuE&index=9",
+      "thumbnailUrl": "https://i.ytimg.com/vi/pVoApXwXxgw/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBTKE8wDw==&rs=AOn4CLBNm_4pF0yVR7L16QyqztUyJawrVw",
+      "viewCount": 5052,
+      "date": "2026-08-06T05:22:42.000Z",
+      "likes": 48,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:00:26",
+      "commentsCount": 0,
+      "text": "Tuấn Dương nhắc Erik nha 🤣 | SAO NHẬP NGŨ 2026\n------------------------------\n🎥 Đón xem Sao Nhập Ngũ 2026, phát sóng vào tháng 8/2026\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548\n#SaoNhapNgu #SaoNhapNgu2026 #ViettelMedia #ToQuocNoiDauSong",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#SaoNhapNgu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu2026",
+          "text": "#SaoNhapNgu2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#ViettelMedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/toquocnoidausong",
+          "text": "#ToQuocNoiDauSong"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 8,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isMonetized": null,
+      "hashtags": [
+        "#SaoNhapNgu2026",
+        "#ViettelMedia",
+        "#SaoNhapNgu"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isPaidContent": false
+    },
+    {
+      "title": "Quốc Trường và Tuấn Dương ai sẽ nói nhiều hơn ai đây? | SAO NHẬP NGŨ 2026",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "oDWEO6z6W44",
+      "url": "https://www.youtube.com/watch?v=oDWEO6z6W44&list=PLZuraW9kAXuE&index=10",
+      "thumbnailUrl": "https://i.ytimg.com/vi/oDWEO6z6W44/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYWiBfKGUwDw==&rs=AOn4CLD0tmi0tAQmGKn7xjcdve0MNaXv4A",
+      "viewCount": 3694,
+      "date": "2026-08-04T03:00:28.000Z",
+      "likes": 40,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:00:17",
+      "commentsCount": 0,
+      "text": "Quốc Trường và Tuấn Dương ai sẽ nói nhiều hơn ai đây? | SAO NHẬP NGŨ 2026\n------------------------------\n🎥 Đón xem Sao Nhập Ngũ 2026, phát sóng vào tháng 8/2026\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548\n#SaoNhapNgu #SaoNhapNgu2026 #ViettelMedia #ToQuocNoiDauSong",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#SaoNhapNgu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu2026",
+          "text": "#SaoNhapNgu2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#ViettelMedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/toquocnoidausong",
+          "text": "#ToQuocNoiDauSong"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 9,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isMonetized": null,
+      "hashtags": [
+        "#SaoNhapNgu2026",
+        "#ViettelMedia",
+        "#SaoNhapNgu"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isPaidContent": false
+    },
+    {
+      "title": "CƯỜI KHỜ: Phan Mạnh Quỳnh GỌI TÊN ĐỒNG ĐỘI chỉ qua 1 ÁNH MẮT, 1 BỜ MÔI... | ĐỒNG HÀNH SAO NHẬP NGŨ",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "Ug9sDCPoSek",
+      "url": "https://www.youtube.com/watch?v=Ug9sDCPoSek&list=PLZuraW9kAXuE&index=3",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Ug9sDCPoSek/maxresdefault.jpg",
+      "viewCount": 1040,
+      "date": "2026-08-08T02:00:10.000Z",
+      "likes": 23,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:03:02",
+      "commentsCount": 4,
+      "text": "CƯỜI KHỜ: Phan Mạnh Quỳnh GỌI TÊN ĐỒNG ĐỘI chỉ qua 1 ÁNH MẮT, 1 BỜ MÔI... | ĐỒNG HÀNH SAO NHẬP NGŨ\n------------------------------\n🎥 Đón xem Sao Nhập Ngũ 2026, phát sóng vào tháng 8/2026\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548\n#SaoNhapNgu #SaoNhapNgu2026 #ViettelMedia #ToQuocNoiDauSong",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#SaoNhapNgu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu2026",
+          "text": "#SaoNhapNgu2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#ViettelMedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/toquocnoidausong",
+          "text": "#ToQuocNoiDauSong"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 2,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isMonetized": null,
+      "hashtags": [
+        "#SaoNhapNgu2026",
+        "#ViettelMedia",
+        "#SaoNhapNgu"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isPaidContent": false
+    },
+    {
+      "title": "Chém gió như Châu Bùi 🤣 | SAO NHẬP NGŨ 2026",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "eBhSf340m1w",
+      "url": "https://www.youtube.com/watch?v=eBhSf340m1w&list=PLZuraW9kAXuE&index=12",
+      "thumbnailUrl": "https://i.ytimg.com/vi/eBhSf340m1w/maxresdefault.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBLKEAwDw==&rs=AOn4CLDIwEjg6CLJ0FH06V4RUDH_S2Ybdg",
+      "viewCount": 4175,
+      "date": "2026-08-04T02:00:39.000Z",
+      "likes": 56,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:00:17",
+      "commentsCount": 0,
+      "text": "Chém gió như Châu Bùi 🤣 | SAO NHẬP NGŨ 2026\n------------------------------\n🎥 Đón xem Sao Nhập Ngũ 2026, phát sóng vào tháng 8/2026\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548\n#SaoNhapNgu #SaoNhapNgu2026 #ViettelMedia #ToQuocNoiDauSong",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#SaoNhapNgu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu2026",
+          "text": "#SaoNhapNgu2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#ViettelMedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/toquocnoidausong",
+          "text": "#ToQuocNoiDauSong"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 11,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isMonetized": null,
+      "hashtags": [
+        "#SaoNhapNgu2026",
+        "#ViettelMedia",
+        "#SaoNhapNgu"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isPaidContent": false
+    },
+    {
+      "title": "Chào Sao Nhập Ngũ 2026! Đồng chí Lê Trung Thành đã có mặt 🫡",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "qGXU_AHDfGc",
+      "url": "https://www.youtube.com/watch?v=qGXU_AHDfGc&list=PLZuraW9kAXuE&index=35",
+      "thumbnailUrl": "https://i.ytimg.com/vi/qGXU_AHDfGc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBTKEEwDw==&rs=AOn4CLClxArfacqMWScYtwlsZ3ErIQTdAg",
+      "viewCount": 10405,
+      "date": "2026-07-18T13:30:27.000Z",
+      "likes": 183,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:00:25",
+      "commentsCount": 6,
+      "text": "Chào Sao Nhập Ngũ 2026! Đồng chí Lê Trung Thành đã có mặt 🫡\n------------------------------\n🎥 Đón xem Sao Nhập Ngũ 2026 - Tổ Quốc Nơi Đầu Sóng\n⌛Tháng 8/2026\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548\n#saonhapngu  #SaoNhapNgu2026 #ViettelMedia #ToQuocNoiDauSong",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu2026",
+          "text": "#SaoNhapNgu2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#ViettelMedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/toquocnoidausong",
+          "text": "#ToQuocNoiDauSong"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 34,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isMonetized": null,
+      "hashtags": [
+        "#saonhapngu",
+        "#SaoNhapNgu2026",
+        "#ViettelMedia"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isPaidContent": false
+    },
+    {
+      "title": "Mình à sao đôi ta?!!! 🤣 | SAO NHẬP NGŨ 2026",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "_ushprfeLd0",
+      "url": "https://www.youtube.com/watch?v=_ushprfeLd0&list=PLZuraW9kAXuE&index=15",
+      "thumbnailUrl": "https://i.ytimg.com/vi/_ushprfeLd0/maxresdefault.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYXCBlKEMwDw==&rs=AOn4CLDYTPT8TAS-kz-j7vLriujB2giMiw",
+      "viewCount": 5731,
+      "date": "2026-08-03T12:00:29.000Z",
+      "likes": 68,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:00:27",
+      "commentsCount": 0,
+      "text": "Mình à sao đôi ta?!!! 🤣 | SAO NHẬP NGŨ 2026\n------------------------------\n🎥 Đón xem Sao Nhập Ngũ 2026, phát sóng vào tháng 8/2026\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548\n#SaoNhapNgu #SaoNhapNgu2026 #ViettelMedia #ToQuocNoiDauSong",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#SaoNhapNgu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu2026",
+          "text": "#SaoNhapNgu2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#ViettelMedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/toquocnoidausong",
+          "text": "#ToQuocNoiDauSong"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 14,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isMonetized": null,
+      "hashtags": [
+        "#SaoNhapNgu2026",
+        "#ViettelMedia",
+        "#SaoNhapNgu"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isPaidContent": false
+    },
+    {
+      "title": "Chào Sao Nhập Ngũ 2026! Đồng chí Nguyễn Quốc Trường đã có mặt 🫡 #saonhapngu #quốctrường",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "uwjO2yYQL3U",
+      "url": "https://www.youtube.com/watch?v=uwjO2yYQL3U&list=PLZuraW9kAXuE&index=29",
+      "thumbnailUrl": "https://i.ytimg.com/vi/uwjO2yYQL3U/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYYyBlKEkwDw==&rs=AOn4CLCg2MRNvyrMCGBi_dF7k5YfRf5t5Q",
+      "viewCount": 12005,
+      "date": "2026-07-25T03:30:16.000Z",
+      "likes": 212,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:00:22",
+      "commentsCount": 6,
+      "text": "Chào Sao Nhập Ngũ 2026! Đồng chí Nguyễn Quốc Trường đã có mặt 🫡\n------------------------------\n🎥 Đón xem Sao Nhập Ngũ 2026 - Tổ Quốc Nơi Đầu Sóng\n⌛Tháng 8/2026\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548\n#SaoNhapNgu #SaoNhapNgu2026 #ViettelMedia #ToQuocNoiDauSong",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#SaoNhapNgu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu2026",
+          "text": "#SaoNhapNgu2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#ViettelMedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/toquocnoidausong",
+          "text": "#ToQuocNoiDauSong"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 28,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isPaidContent": false
+    },
+    {
+      "title": "Chào Sao Nhập Ngũ 2026! Đồng chí Bùi Thái Bảo Châu đã có mặt! 🫡",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "E0ZHuD_muCE",
+      "url": "https://www.youtube.com/watch?v=E0ZHuD_muCE&list=PLZuraW9kAXuE&index=36",
+      "thumbnailUrl": "https://i.ytimg.com/vi/E0ZHuD_muCE/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYfyAnKCkwDw==&rs=AOn4CLBGCVp-CFasyjO42CQY3QtZbF75Gg",
+      "viewCount": 8527,
+      "date": "2026-07-18T03:30:24.000Z",
+      "likes": 144,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:00:30",
+      "commentsCount": 1,
+      "text": "Chào Sao Nhập Ngũ 2026! Đồng chí Bùi Thái Bảo Châu đã có mặt!🫡\n------------------------------\n🎥 Đón xem Sao Nhập Ngũ 2026 - Tổ Quốc Nơi Đầu Sóng\n⌛Tháng 8/2026© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548#saonhậpngũ\n#SaoNhapNgu2026 #ViettelMedia #ToQuocNoiDauSong",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonh%E1%BA%ADpng%C5%A9",
+          "text": "#saonhậpngũ"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu2026",
+          "text": "#SaoNhapNgu2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#ViettelMedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/toquocnoidausong",
+          "text": "#ToQuocNoiDauSong"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 35,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isMonetized": null,
+      "hashtags": [
+        "#saonhậpngũ",
+        "#SaoNhapNgu2026",
+        "#ViettelMedia"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isPaidContent": false
+    },
+    {
+      "title": "Chào Sao Nhập Ngũ 2026! Đồng chí Trần Tuấn Dương đã có mặt 🫡 #saonhapngu #tuanduong",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "j_xcEhbM9jk",
+      "url": "https://www.youtube.com/watch?v=j_xcEhbM9jk&list=PLZuraW9kAXuE&index=28",
+      "thumbnailUrl": "https://i.ytimg.com/vi/j_xcEhbM9jk/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYRSBQKGUwDw==&rs=AOn4CLC70ac6FFWDwfdTHUF0Zp1HmBf12Q",
+      "viewCount": 9265,
+      "date": "2026-07-25T13:30:16.000Z",
+      "likes": 140,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:00:25",
+      "commentsCount": 3,
+      "text": "Chào Sao Nhập Ngũ 2026! Đồng chí Trần Tuấn Dương đã có mặt 🫡\n------------------------------\n🎥 Đón xem Sao Nhập Ngũ 2026 - Tổ Quốc Nơi Đầu Sóng\n⌛Tháng 8/2026\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548\n#SaoNhapNgu #SaoNhapNgu2026 #ViettelMedia #ToQuocNoiDauSong",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#SaoNhapNgu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu2026",
+          "text": "#SaoNhapNgu2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#ViettelMedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/toquocnoidausong",
+          "text": "#ToQuocNoiDauSong"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 27,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isPaidContent": false
+    },
+    {
+      "title": "Chào Sao Nhập Ngũ 2026! Đồng chí Văn Mai Hương đã có mặt 🫡 #vanmaihuong #saonhapngu #saonhapngu2026",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "EXVSu3D91EE",
+      "url": "https://www.youtube.com/watch?v=EXVSu3D91EE&list=PLZuraW9kAXuE&index=31",
+      "thumbnailUrl": "https://i.ytimg.com/vi/EXVSu3D91EE/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBWKEUwDw==&rs=AOn4CLB7VJv98osBtTLaklY_dhXMVSxg-g",
+      "viewCount": 6494,
+      "date": "2026-07-24T03:41:55.000Z",
+      "likes": 106,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:00:31",
+      "commentsCount": 2,
+      "text": "Chào Sao Nhập Ngũ 2026! Đồng chí Văn Mai Hương đã có mặt 🫡 #vanmaihuong #saonhapngu #saonhapngu2026\n------------------------------\n🎥 Đón xem Sao Nhập Ngũ 2026 - Tổ Quốc Nơi Đầu Sóng\n⌛Tháng 8/2026\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548\n#SaoNhapNgu #SaoNhapNgu2026 #ViettelMedia #ToQuocNoiDauSong",
+      "translatedText": "Chào Sao Nhập Ngũ 2026! Đồng chí Văn Mai Hương đã có mặt 🫡 #vanmaihuong #saonhapngu #saonhapngu2026\n------------------------------\n🎥 Đón xem Sao Nhập Ngũ 2026 - Tổ Quốc Nơi Đầu Sóng\n⌛Tháng 8/2026\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548\n#SaoNhapNgu #SaoNhapNgu2026 #ViettelMedia #ToQuocNoiDauSong",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/vanmaihuong",
+          "text": "#vanmaihuong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu2026",
+          "text": "#saonhapngu2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#SaoNhapNgu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu2026",
+          "text": "#SaoNhapNgu2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#ViettelMedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/toquocnoidausong",
+          "text": "#ToQuocNoiDauSong"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 30,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tuấn Dương TOÁT MỒ HÔI nhận diện các đồng đội tại SAO NHẬP NGŨ 2026 | ĐỒNG HÀNH SAO NHẬP NGŨ 2026",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "HYAtJab1skw",
+      "url": "https://www.youtube.com/watch?v=HYAtJab1skw&list=PLZuraW9kAXuE&index=2",
+      "thumbnailUrl": "https://i.ytimg.com/vi/HYAtJab1skw/maxresdefault.jpg",
+      "viewCount": 1567,
+      "date": "2026-08-09T02:00:11.000Z",
+      "likes": 19,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:03:56",
+      "commentsCount": 1,
+      "text": "Tuấn Dương TOÁT MỒ HÔI nhận diện các đồng đội tại SAO NHẬP NGŨ 2026 | ĐỒNG HÀNH SAO NHẬP NGŨ 2026\n------------------------------\n🎥 Đón xem Sao Nhập Ngũ 2026 - Tổ Quốc Nơi Đầu Sóng\n👉🏻 Từ 13/08 lúc 20h45 tối Thứ 5 hằng tuần trên kênh QPVN\n❤️‍🔥 Từ 13/08 lúc 21h00 tối Thứ 5 hằng tuần trên kênh HTV7 và Youtube \n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548\n#SaoNhapNgu #SaoNhapNgu2026 #ViettelMedia #ToQuocNoiDauSong",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#SaoNhapNgu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu2026",
+          "text": "#SaoNhapNgu2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#ViettelMedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/toquocnoidausong",
+          "text": "#ToQuocNoiDauSong"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 1,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isMonetized": null,
+      "hashtags": [
+        "#SaoNhapNgu2026",
+        "#ViettelMedia",
+        "#SaoNhapNgu"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isPaidContent": false
+    },
+    {
+      "title": "4 chiến sĩ Tuấn Dương - Quốc Trường - Châu Bùi - Văn Mai Hương cũng đã sẵn sàng | SAO NHẬP NGŨ 2026",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "PfPrfHJFiCg",
+      "url": "https://www.youtube.com/watch?v=PfPrfHJFiCg&list=PLZuraW9kAXuE&index=22",
+      "thumbnailUrl": "https://i.ytimg.com/vi/PfPrfHJFiCg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGFwgZShIMA8=&rs=AOn4CLCKnfiOVJV6B9PzevyVceEFnX5SrQ",
+      "viewCount": 5922,
+      "date": "2026-07-29T14:00:10.000Z",
+      "likes": 104,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:02:42",
+      "commentsCount": 1,
+      "text": "[SAO SẴN SÀNG] 4 chiến sĩ Tuấn Dương - Quốc Trường - Châu Bùi - Văn Mai Hương cũng đã sẵn sàng 🙌🏻 Các đồng chí đã sẵn sàng chưa? 🙌🏻\n------------------------------\n🎥 Đón xem Sao Nhập Ngũ 2026, phát sóng vào tháng 8/2026\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548\n#SaoNhapNgu #SaoNhapNgu2026 #ViettelMedia #ToQuocNoiDauSong",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#SaoNhapNgu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu2026",
+          "text": "#SaoNhapNgu2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#ViettelMedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/toquocnoidausong",
+          "text": "#ToQuocNoiDauSong"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 21,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isMonetized": null,
+      "hashtags": [
+        "#SaoNhapNgu2026",
+        "#ViettelMedia",
+        "#SaoNhapNgu"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isPaidContent": false
+    },
+    {
+      "title": "🤣 Ôi đồng chí Quốc Trường ơi | SAO NHẬP NGŨ 2026",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "BDXEh7Jwxc4",
+      "url": "https://www.youtube.com/watch?v=BDXEh7Jwxc4&list=PLZuraW9kAXuE&index=5",
+      "thumbnailUrl": "https://i.ytimg.com/vi/BDXEh7Jwxc4/maxresdefault.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBaKFowDw==&rs=AOn4CLB2qtDZ7u-3OPAKC99DQjs36BTTiQ",
+      "viewCount": 4887,
+      "date": "2026-08-07T07:00:33.000Z",
+      "likes": 43,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:00:20",
+      "commentsCount": 0,
+      "text": "🤣 Ôi đồng chí Quốc Trường ơi | SAO NHẬP NGŨ 2026\n------------------------------\n🎥 Đón xem Sao Nhập Ngũ 2026, phát sóng vào tháng 8/2026\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548\n#SaoNhapNgu #SaoNhapNgu2026 #ViettelMedia #ToQuocNoiDauSong",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#SaoNhapNgu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu2026",
+          "text": "#SaoNhapNgu2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#ViettelMedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/toquocnoidausong",
+          "text": "#ToQuocNoiDauSong"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 4,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isMonetized": null,
+      "hashtags": [
+        "#SaoNhapNgu2026",
+        "#ViettelMedia",
+        "#SaoNhapNgu"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isPaidContent": false
+    },
+    {
+      "title": "Các đồng chí làm quen với chiến sĩ mới Minh Trang nha 🤞 | #SaoNhapNgu #SaoNhapNgu2026 #ViettelMedia",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "mZAMayOEQmY",
+      "url": "https://www.youtube.com/watch?v=mZAMayOEQmY&list=PLZuraW9kAXuE&index=34",
+      "thumbnailUrl": "https://i.ytimg.com/vi/mZAMayOEQmY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGGUgZShlMA8=&rs=AOn4CLAgpRNidl2JFXpR5oElHau1H6o5cA",
+      "viewCount": 3645,
+      "date": "2026-07-21T13:00:15.000Z",
+      "likes": 83,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:01:30",
+      "commentsCount": 1,
+      "text": "Các đồng chí làm quen với chiến sĩ mới Minh Trang nha 🤞 | #SaoNhapNgu #SaoNhapNgu2026 #ViettelMedia\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0774.101.997",
+      "translatedText": "Các đồng chí làm quen với chiến sĩ mới Minh Trang nha 🤞 | #SaoNhapNgu #SaoNhapNgu2026 #ViettelMedia\n=============================\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0774.101.997",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#SaoNhapNgu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu2026",
+          "text": "#SaoNhapNgu2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#ViettelMedia"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 33,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isPaidContent": false
+    },
+    {
+      "title": "Bà nói thiệt hả bà Hương? 🤣 | SAO NHẬP NGŨ 2026",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "uvrleJU8izA",
+      "url": "https://www.youtube.com/watch?v=uvrleJU8izA&list=PLZuraW9kAXuE&index=13",
+      "thumbnailUrl": "https://i.ytimg.com/vi/uvrleJU8izA/maxresdefault.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYWyBlKEQwDw==&rs=AOn4CLCiWBbdroQe3S6QRQB17uyXq5Btug",
+      "viewCount": 1875,
+      "date": "2026-08-03T14:00:12.000Z",
+      "likes": 21,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:00:32",
+      "commentsCount": 1,
+      "text": "Bà nói thiệt hả bà Hương? 🤣 | SAO NHẬP NGŨ 2026\n------------------------------\n🎥 Đón xem Sao Nhập Ngũ 2026, phát sóng vào tháng 8/2026\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548\n#SaoNhapNgu #SaoNhapNgu2026 #ViettelMedia #ToQuocNoiDauSong",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#SaoNhapNgu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu2026",
+          "text": "#SaoNhapNgu2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#ViettelMedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/toquocnoidausong",
+          "text": "#ToQuocNoiDauSong"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 12,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isMonetized": null,
+      "hashtags": [
+        "#SaoNhapNgu2026",
+        "#ViettelMedia",
+        "#SaoNhapNgu"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isPaidContent": false
+    },
+    {
+      "title": "Ôi thôi chếch 🤣 | SAO NHẬP NGŨ 2026",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "cZ4tL7TQaSc",
+      "url": "https://www.youtube.com/watch?v=cZ4tL7TQaSc&list=PLZuraW9kAXuE&index=16",
+      "thumbnailUrl": "https://i.ytimg.com/vi/cZ4tL7TQaSc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBUKEswDw==&rs=AOn4CLDPeRuflgX5c7mu62oabQ0qYS4fhQ",
+      "viewCount": 2680,
+      "date": "2026-08-03T04:00:35.000Z",
+      "likes": 28,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:00:21",
+      "commentsCount": 0,
+      "text": "Ôi thôi chếch 🤣 | SAO NHẬP NGŨ 2026\n------------------------------\n🎥 Đón xem Sao Nhập Ngũ 2026, phát sóng vào tháng 8/2026\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548\n#SaoNhapNgu #SaoNhapNgu2026 #ViettelMedia #ToQuocNoiDauSong",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#SaoNhapNgu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu2026",
+          "text": "#SaoNhapNgu2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#ViettelMedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/toquocnoidausong",
+          "text": "#ToQuocNoiDauSong"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 15,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isMonetized": null,
+      "hashtags": [
+        "#SaoNhapNgu2026",
+        "#ViettelMedia",
+        "#SaoNhapNgu"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isPaidContent": false
+    },
+    {
+      "title": "ĐỒNG HÀNH | Erik và Châu Bùi DỰ ĐOÁN \"CHẤN ĐỘNG\" trước ngày nhập ngũ | SAO NHẬP NGŨ 2026",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "8kbOoWPBins",
+      "url": "https://www.youtube.com/watch?v=8kbOoWPBins&list=PLZuraW9kAXuE&index=19",
+      "thumbnailUrl": "https://i.ytimg.com/vi/8kbOoWPBins/maxresdefault.jpg",
+      "viewCount": 1418,
+      "date": "2026-08-01T13:00:10.000Z",
+      "likes": 22,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:03:37",
+      "commentsCount": 1,
+      "text": "ĐỒNG HÀNH | Erik và Châu Bùi DỰ ĐOÁN \"CHẤN ĐỘNG\" trước ngày nhập ngũ | SAO NHẬP NGŨ 2026\n------------------------------\n🎥 Đón xem Sao Nhập Ngũ 2026 - Tổ Quốc Nơi Đầu Sóng\n👉🏻 Từ 13/08 lúc 20h45 tối Thứ 5 hằng tuần trên kênh QPVN\n❤️‍🔥 Từ 13/08 lúc 21h00 tối Thứ 5 hằng tuần trên kênh HTV7 và Youtube \n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548\n#SaoNhapNgu #SaoNhapNgu2026 #ViettelMedia #ToQuocNoiDauSong",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#SaoNhapNgu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu2026",
+          "text": "#SaoNhapNgu2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#ViettelMedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/toquocnoidausong",
+          "text": "#ToQuocNoiDauSong"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 18,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isMonetized": null,
+      "hashtags": [
+        "#SaoNhapNgu2026",
+        "#ViettelMedia",
+        "#SaoNhapNgu"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isPaidContent": false
+    },
+    {
+      "title": "🤔 Quốc Trường, Erik, Châu Bùi, Minh Trang đoán tên vật dụng chuẩn thuật ngữ quân đội",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "9ZHSeBLYU0I",
+      "url": "https://www.youtube.com/watch?v=9ZHSeBLYU0I&list=PLZuraW9kAXuE&index=8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/9ZHSeBLYU0I/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGF8gZShMMA8=&rs=AOn4CLCS-Fls-yMtZtZiXUbAIx9VmIMURA",
+      "viewCount": 1662,
+      "date": "2026-08-06T09:43:42.000Z",
+      "likes": 36,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:02:33",
+      "commentsCount": 0,
+      "text": "Quốc Trường, Erik, Châu Bùi, Minh Trang đoán tên vật dụng chuẩn thuật ngữ quân đội | SAO NHẬP NGŨ 2026\n------------------------------\n🎥 Đón xem Sao Nhập Ngũ 2026, phát sóng vào tháng 8/2026\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548\n#SaoNhapNgu #SaoNhapNgu2026 #ViettelMedia #ToQuocNoiDauSong",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#SaoNhapNgu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu2026",
+          "text": "#SaoNhapNgu2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#ViettelMedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/toquocnoidausong",
+          "text": "#ToQuocNoiDauSong"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 7,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isMonetized": null,
+      "hashtags": [
+        "#SaoNhapNgu2026",
+        "#ViettelMedia",
+        "#SaoNhapNgu"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tình chị em chắc có bền lâu? 🤣 | SAO NHẬP NGŨ 2026",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "iXLk5Z3vmUE",
+      "url": "https://www.youtube.com/watch?v=iXLk5Z3vmUE&list=PLZuraW9kAXuE&index=17",
+      "thumbnailUrl": "https://i.ytimg.com/vi/iXLk5Z3vmUE/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYWyBlKEUwDw==&rs=AOn4CLBJje-lKUAKyPuI1QrvWtx7L-Bm4w",
+      "viewCount": 3957,
+      "date": "2026-08-03T02:40:13.000Z",
+      "likes": 45,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:00:19",
+      "commentsCount": 0,
+      "text": "Tình chị em Thúy Ngân - Tuấn Dương chắc có bền lâu 🤣 | SAO NHẬP NGŨ 2026\n------------------------------\n🎥 Đón xem Sao Nhập Ngũ 2026, phát sóng vào tháng 8/2026\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548\n#SaoNhapNgu #SaoNhapNgu2026 #ViettelMedia #ToQuocNoiDauSong",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#SaoNhapNgu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu2026",
+          "text": "#SaoNhapNgu2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#ViettelMedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/toquocnoidausong",
+          "text": "#ToQuocNoiDauSong"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 16,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isMonetized": null,
+      "hashtags": [
+        "#SaoNhapNgu2026",
+        "#ViettelMedia",
+        "#SaoNhapNgu"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isPaidContent": false
+    },
+    {
+      "title": "Các đồng chí cùng làm quen chiến sĩ mới Văn Mai Hương nha 🥰 | SAO NHẬP NGŨ #saonhapngu #shorts",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "GVohSu2xaQs",
+      "url": "https://www.youtube.com/watch?v=GVohSu2xaQs&list=PLZuraW9kAXuE&index=25",
+      "thumbnailUrl": "https://i.ytimg.com/vi/GVohSu2xaQs/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGHIgSyhBMA8=&rs=AOn4CLC8pE39WVO768ksmzoCAtYEVcCVhQ",
+      "viewCount": 8566,
+      "date": "2026-07-27T03:00:34.000Z",
+      "likes": 182,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:01:56",
+      "commentsCount": 2,
+      "text": "Các đồng chí cùng làm quen chiến sĩ mới Văn Mai Hương nha 🥰 | SAO NHẬP NGŨ\n#VanMaiHuong #SaoNhapNgu #SaoNhapNgu2026 #ViettelMedia #ToQuocNoiDauSong\n------------------------------\n🎥 Đón xem Sao Nhập Ngũ 2026 - Tổ Quốc Nơi Đầu Sóng\n⌛Tháng 8/2026\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548",
+      "translatedText": "Các đồng chí cùng làm quen chiến sĩ mới Văn Mai Hương nha 🥰 | SAO NHẬP NGŨ\n#VanMaiHuong #SaoNhapNgu #SaoNhapNgu2026 #ViettelMedia #ToQuocNoiDauSong\n------------------------------\n🎥 Đón xem Sao Nhập Ngũ 2026 - Tổ Quốc Nơi Đầu Sóng\n⌛Tháng 8/2026\n© Bản quyền thuộc về Viettel Media\nLH quảng cáo tài trợ: 0983.542.548",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/vanmaihuong",
+          "text": "#VanMaiHuong"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#SaoNhapNgu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu2026",
+          "text": "#SaoNhapNgu2026"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viettelmedia",
+          "text": "#ViettelMedia"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/toquocnoidausong",
+          "text": "#ToQuocNoiDauSong"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 24,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLZuraW9kAXuE",
+      "isPaidContent": false
+    }
+  ]
+}

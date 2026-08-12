@@ -1,0 +1,3536 @@
+{
+  "actor_name": "streamers/youtube-scraper",
+  "actor_run_id": "2UuCLxGY6vuiCAS1f",
+  "dataset_id": "jh66Unk67ILBva1eL",
+  "actor_build_id": "SUk0475fgtCh9zqMt",
+  "retrieved_at": "2026-08-12T18:23:18.852335+07:00",
+  "actor_input": {
+    "maxResults": 30,
+    "maxResultsShorts": 0,
+    "maxResultStreams": 0,
+    "searchQueries": [
+      "Sóng 21 chương trình đêm giao thừa full"
+    ],
+    "sourceBindingUrl": "https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw/search?query=Song%2021"
+  },
+  "run_metadata": {
+    "status": "SUCCEEDED",
+    "startedAt": "2026-08-12T11:22:10.452Z",
+    "finishedAt": "2026-08-12T11:23:12.345Z",
+    "usageTotalUsd": 0.116,
+    "chargedEventCounts": {
+      "result": 29,
+      "date-filter": 0,
+      "ai-video-description": 0,
+      "ai-video-summary": 0
+    }
+  },
+  "items": [
+    {
+      "title": "Khơi nguồn bức phá đêm Giao thừa Tết 2021 cùng Jack, Dế Choắt.. và thế hệ Gen Z | SÓNG 21",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "-ZeKb6-Q0WA",
+      "url": "https://www.youtube.com/watch?v=-ZeKb6-Q0WA",
+      "thumbnailUrl": "https://i.ytimg.com/vi/-ZeKb6-Q0WA/maxresdefault.jpg",
+      "viewCount": 4910,
+      "date": "2021-02-06T15:02:50.000Z",
+      "likes": 179,
+      "location": null,
+      "channelName": "Vie GIẢITRÍ",
+      "channelUrl": "https://www.youtube.com/@VieGI%E1%BA%A2ITR%C3%8D",
+      "channelUsername": "VieGI%E1%BA%A2ITR%C3%8D",
+      "collaborators": null,
+      "channelId": "UC2Lgi2uPsOcCVF3imz7l2mg",
+      "numberOfSubscribers": 3130000,
+      "duration": "00:01:39",
+      "commentsCount": 13,
+      "text": "Đón xem Sóng 21 được phát sóng đồng thời  trên 3 kênh truyền hình Vie Channel – HTV2, Vie GiảiTrí, Vie Dramas và siêu ứng dụng VieON vào đêm Giao thừa Tết Tân Sửu 2021.\n\n#Sóng21​ #SóngXuân​ #VieChannelHTV2\n#Song_21 #Song_Xuan #Xuan_Canh_Suu\n\n#VieChannel_HTV2 #VieGIẢITRÍ​ #VieGIAITRI​ #VieON\n\n\n📣 Đừng quên subscribe để xem thật nhiều chương trình mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieGIẢITRÍ\n\nXem các chương trình hấp dẫn khác của Vie GIẢITRÍ:\n►Siêu Trí Tuệ Full: https://bit.ly/SieuTriTue_Mua2_Full\n►Ai Là Số 1 Full: https://bit.ly/2xMrL9I\n►Đưa Em Về Nhà: https://bit.ly/3bRRzAh\n►Người Ấy Là Ai Full: http://bit.ly/2AQHuDT\n►Nhanh Như Chớp Nhí Full: https://bit.ly/2ANAYjb\n►Gạo Nếp Gạo Tẻ Full: http://bit.ly/2qyKoag\n►Phiên Tòa Tình Yêu Full: http://bit.ly/2F8ataA\n\nXem thêm trên hệ thống Vie GIẢITRÍ:\n►Website: https://giaitritv.vn\n►Fanpage: https://www.facebook.com/VieGIAITRI",
+      "translatedText": "Đón xem Sóng 21 được phát sóng đồng thời  trên 3 kênh truyền hình Vie Channel – HTV2, Vie GiảiTrí, Vie Dramas và siêu ứng dụng VieON vào đêm Giao thừa Tết Tân Sửu 2021.\n\n#Sóng21​ #SóngXuân​ #VieChannelHTV2\n#Song_21 #Song_Xuan #Xuan_Canh_Suu\n\n#VieChannel_HTV2 #VieGIẢITRÍ​ #VieGIAITRI​ #VieON\n\n\n📣 Đừng quên subscribe để xem thật nhiều chương trình mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieGIẢITRÍ\n\nXem các chương trình hấp dẫn khác của Vie GIẢITRÍ:\n►Siêu Trí Tuệ Full: https://bit.ly/SieuTriTue_Mua2_Full\n►Ai Là Số 1 Full: https://bit.ly/2xMrL9I\n►Đưa Em Về Nhà: https://bit.ly/3bRRzAh\n►Người Ấy Là Ai Full: http://bit.ly/2AQHuDT\n►Nhanh Như Chớp Nhí Full: https://bit.ly/2ANAYjb\n►Gạo Nếp Gạo Tẻ Full: http://bit.ly/2qyKoag\n►Phiên Tòa Tình Yêu Full: http://bit.ly/2F8ataA\n\nXem thêm trên hệ thống Vie GIẢITRÍ:\n►Website: https://giaitritv.vn\n►Fanpage:   / viegiaitri  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ng21",
+          "text": "#Sóng21​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ngxu%C3%A2n",
+          "text": "#SóngXuân​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viechannelhtv2",
+          "text": "#VieChannelHTV2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song_21",
+          "text": "#Song_21"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song_xuan",
+          "text": "#Song_Xuan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/xuan_canh_suu",
+          "text": "#Xuan_Canh_Suu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viechannel_htv2",
+          "text": "#VieChannel_HTV2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viegi%E1%BA%A3itr%C3%AD",
+          "text": "#VieGIẢITRÍ​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viegiaitri",
+          "text": "#VieGIAITRI​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vieon",
+          "text": "#VieON"
+        },
+        {
+          "url": "http://bit.ly/VieGIẢITRÍ",
+          "text": "http://bit.ly/VieGIẢITRÍ"
+        },
+        {
+          "url": "https://bit.ly/SieuTriTue_Mua2_Full",
+          "text": "https://bit.ly/SieuTriTue_Mua2_Full"
+        },
+        {
+          "url": "https://bit.ly/2xMrL9I",
+          "text": "https://bit.ly/2xMrL9I"
+        },
+        {
+          "url": "https://bit.ly/3bRRzAh",
+          "text": "https://bit.ly/3bRRzAh"
+        },
+        {
+          "url": "http://bit.ly/2AQHuDT",
+          "text": "http://bit.ly/2AQHuDT"
+        },
+        {
+          "url": "https://bit.ly/2ANAYjb",
+          "text": "https://bit.ly/2ANAYjb"
+        },
+        {
+          "url": "http://bit.ly/2qyKoag",
+          "text": "http://bit.ly/2qyKoag"
+        },
+        {
+          "url": "http://bit.ly/2F8ataA",
+          "text": "http://bit.ly/2F8ataA"
+        },
+        {
+          "url": "https://giaitritv.vn/",
+          "text": "https://giaitritv.vn"
+        },
+        {
+          "url": "https://www.facebook.com/VieGIAITRI",
+          "text": "  / viegiaitri  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 18,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=S%C3%B3ng+21+ch%C6%B0%C6%A1ng+tr%C3%ACnh+%C4%91%C3%AAm+giao+th%E1%BB%ABa+full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [
+        "#VieGIẢITRÍ​",
+        "#VieChannelHTV2",
+        "#VieON"
+      ],
+      "isMembersOnly": false,
+      "input": "Sóng 21 chương trình đêm giao thừa full",
+      "isPaidContent": false
+    },
+    {
+      "title": "Hài Sóng 21: Hoài Linh, Hồng Vân,  Huỳnh Lập, Puka, Hứa Minh Đạt, Duy Khánh",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "W-rPHHb69Ac",
+      "url": "https://www.youtube.com/watch?v=W-rPHHb69Ac",
+      "thumbnailUrl": "https://i.ytimg.com/vi/W-rPHHb69Ac/maxresdefault.jpg",
+      "viewCount": 437907,
+      "date": "2023-01-19T12:00:07.000Z",
+      "likes": 1500,
+      "location": null,
+      "channelName": "Vie Channel ",
+      "channelUrl": "https://www.youtube.com/@VieChannelOfficial",
+      "channelUsername": "VieChannelOfficial",
+      "collaborators": null,
+      "channelId": "UCkna2OcuN1E6u5I8GVtdkOw",
+      "numberOfSubscribers": 11500000,
+      "duration": "00:43:05",
+      "commentsCount": 51,
+      "text": "Hài Sóng 21: Hoài Linh, Hồng Vân,  Huỳnh Lập, Puka, Hứa Minh Đạt, Duy Khánh  \n#HàiTết2023 #HàiTết #HoàiLinh #HồngVân #HuỳnhLập\n#Puka #HứaMinhĐạt #DuyKhánh\n\n★ Mọi nhu cầu quảng cáo và tài trợ xin liên hệ: Công Ty Cổ Phần Vie Channel\n► Hotline: 0907.950371\n► Email: sales@viechannel.vn\n\n📣 Đừng quên subscribe để xem thật nhiều phim mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieChannelHTV2\n\nXem các chương trình hấp dẫn khác của Vie Channel - HTV2:\n►The Masked Singer Vietnam Full: https://bit.ly/TheMaskedSingerSS1\n►Nhanh Như Chớp Nhí: https://bit.ly/NNCNMua4\n►Người Ấy Là Ai Full: https://bit.ly/NALASS4\n►Giấc Mơ Của Mẹ Full: https://bit.ly/GiacMoCuaMe\n►Rap Việt Full: https://bit.ly/RapVietMua2\n►Siêu Trí Tuệ Full: https://bit.ly/SieuTriTue_Mua2_Full\n\nHoặc xem thêm trên hệ thống Vie Channel - HTV2:\n►Website: http://viechannel.vn/\n►Fanpage: https://www.facebook.com/VieChannelHTV2/\n►Instagram: https://www.instagram.com/viechannelhtv2/",
+      "translatedText": "Hài Sóng 21: Hoài Linh, Hồng Vân,  Huỳnh Lập, Puka, Hứa Minh Đạt, Duy Khánh  \n#HàiTết2023 #HàiTết #HoàiLinh #HồngVân #HuỳnhLập\n#Puka #HứaMinhĐạt #DuyKhánh\n\n★ Mọi nhu cầu quảng cáo và tài trợ xin liên hệ: Công Ty Cổ Phần Vie Channel\n► Hotline: 0907.950371\n► Email: sales@viechannel.vn\n\n📣 Đừng quên subscribe để xem thật nhiều phim mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieChannelHTV2\n\nXem các chương trình hấp dẫn khác của Vie Channel - HTV2:\n►The Masked Singer Vietnam Full: https://bit.ly/TheMaskedSingerSS1\n►Nhanh Như Chớp Nhí: https://bit.ly/NNCNMua4\n►Người Ấy Là Ai Full: https://bit.ly/NALASS4\n►Giấc Mơ Của Mẹ Full: https://bit.ly/GiacMoCuaMe\n►Rap Việt Full: https://bit.ly/RapVietMua2\n►Siêu Trí Tuệ Full: https://bit.ly/SieuTriTue_Mua2_Full\n\nHoặc xem thêm trên hệ thống Vie Channel - HTV2:\n►Website: http://viechannel.vn/\n►Fanpage:   / viechannelhtv2  \n►Instagram:   / viechannelhtv2  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/h%C3%A0it%E1%BA%BFt2023",
+          "text": "#HàiTết2023"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/h%C3%A0it%E1%BA%BFt",
+          "text": "#HàiTết"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ho%C3%A0ilinh",
+          "text": "#HoàiLinh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/h%E1%BB%93ngv%C3%A2n",
+          "text": "#HồngVân"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hu%E1%BB%B3nhl%E1%BA%ADp",
+          "text": "#HuỳnhLập"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/puka",
+          "text": "#Puka"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/h%E1%BB%A9aminh%C4%91%E1%BA%A1t",
+          "text": "#HứaMinhĐạt"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/duykh%C3%A1nh",
+          "text": "#DuyKhánh"
+        },
+        {
+          "url": "http://bit.ly/VieChannelHTV2",
+          "text": "http://bit.ly/VieChannelHTV2"
+        },
+        {
+          "url": "https://bit.ly/TheMaskedSingerSS1",
+          "text": "https://bit.ly/TheMaskedSingerSS1"
+        },
+        {
+          "url": "https://bit.ly/NNCNMua4",
+          "text": "https://bit.ly/NNCNMua4"
+        },
+        {
+          "url": "https://bit.ly/NALASS4",
+          "text": "https://bit.ly/NALASS4"
+        },
+        {
+          "url": "https://bit.ly/GiacMoCuaMe",
+          "text": "https://bit.ly/GiacMoCuaMe"
+        },
+        {
+          "url": "https://bit.ly/RapVietMua2",
+          "text": "https://bit.ly/RapVietMua2"
+        },
+        {
+          "url": "https://bit.ly/SieuTriTue_Mua2_Full",
+          "text": "https://bit.ly/SieuTriTue_Mua2_Full"
+        },
+        {
+          "url": "http://viechannel.vn/",
+          "text": "http://viechannel.vn/"
+        },
+        {
+          "url": "https://www.facebook.com/VieChannelHTV2/",
+          "text": "  / viechannelhtv2  "
+        },
+        {
+          "url": "https://www.instagram.com/viechannelhtv2/",
+          "text": "  / viechannelhtv2  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 2,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=S%C3%B3ng+21+ch%C6%B0%C6%A1ng+tr%C3%ACnh+%C4%91%C3%AAm+giao+th%E1%BB%ABa+full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [
+        "#HàiTết",
+        "#HoàiLinh",
+        "#Puka"
+      ],
+      "isMembersOnly": false,
+      "input": "Sóng 21 chương trình đêm giao thừa full",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tổng hợp những màn KẾT HỢP ĐỈNH NHẤT khuynh đảo SÓNG qua các mùa | Quân A.P, Vũ, Myra Trần, Hiền Hồ",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "C5Q6uNWWx9s",
+      "url": "https://www.youtube.com/watch?v=C5Q6uNWWx9s&list=RDC5Q6uNWWx9s&start_radio=1",
+      "thumbnailUrl": "https://i.ytimg.com/vi/C5Q6uNWWx9s/maxresdefault.jpg",
+      "viewCount": 3414166,
+      "date": "2023-02-03T12:00:07.000Z",
+      "likes": 8000,
+      "location": null,
+      "channelName": "VieTalents",
+      "channelUrl": "https://www.youtube.com/@VieTalents",
+      "channelUsername": "VieTalents",
+      "collaborators": null,
+      "channelId": "UCBVSuk_f8ZCPIQ_KwXEGWFw",
+      "numberOfSubscribers": 3650000,
+      "duration": "00:27:38",
+      "commentsCount": 331,
+      "text": "Tổng hợp những màn KẾT HỢP ĐỈNH NHẤT khuynh đảo SÓNG qua các mùa | Quân A.P, Vũ, Myra Trần, Hiền Hồ\n\n#Sóng23​ #SóngXuân​ #mashup #QuânAP #Vũ #HiềnHồ #ThùyChi #MyraTrần #MaiTiếnDũng\n#TrấnThành #Sóng22 #Sóng21\n\nĐón xem SÓNG 23 được phát sóng đồng thời trên 3 kênh truyền hình Vie Channel – HTV2, Vie GiảiTrí, Vie Dramas và siêu ứng dụng VieON vào đêm Giao thừa Tết Quý Mão 2023.\n\nLINK FULL: https://www.youtube.com/watch?v=rVFNzTLaIik\n\n#VieTalents #Talents\n\n👍 và 𝙨𝙪𝙗𝙨𝙘𝙧𝙞𝙗𝙚 𝐕𝐈𝐄𝐓𝐀𝐋𝐄𝐍𝐓𝐒  tại: http://bit.ly/subvietalents\n=================================\n👌 𝐕𝐈𝐄𝐓𝐀𝐋𝐄𝐍𝐓𝐒 👌\nVieTalents là nơi quy tụ những tiết mục HÀI HƯỚC, HẤP DẪN và NHANH CHÓNG NHẤT của các NGHỆ SĨ, TÀI NĂNG trong và ngoài nước. SUBSCRIBE và ẤN THÔNG BÁO để không bỏ lỡ bất kỳ nội dung nào nhé 🤩\n=================================\n👉 𝐋𝐈𝐊𝐄 và 𝐅𝐎𝐋𝐋𝐎𝐖 Facebook VieTalents để cập nhật nhiều video hấp dẫn khác tại:\nhttps://facebook.com/vietalents\n=================================\n ★ Xem thêm các clip HẬU TRƯỜNG hấp dẫn khác tại: http://bit.ly/subviebuzz\n ★ Xem thêm các clip HÀI BUNG NÓC đặc sắc khác tại: http://bit.ly/subviecomedy",
+      "translatedText": "Tổng hợp những màn KẾT HỢP ĐỈNH NHẤT khuynh đảo SÓNG qua các mùa | Quân A.P, Vũ, Myra Trần, Hiền Hồ\n\n#Sóng23​ #SóngXuân​ #mashup #QuânAP #Vũ #HiềnHồ #ThùyChi #MyraTrần #MaiTiếnDũng\n#TrấnThành #Sóng22 #Sóng21\n\nĐón xem SÓNG 23 được phát sóng đồng thời trên 3 kênh truyền hình Vie Channel – HTV2, Vie GiảiTrí, Vie Dramas và siêu ứng dụng VieON vào đêm Giao thừa Tết Quý Mão 2023.\n\nLINK FULL:    • Sóng 23 - Chương trình giải trí Đêm Giao T...  \n\n#VieTalents #Talents\n\n👍 và 𝙨𝙪𝙗𝙨𝙘𝙧𝙞𝙗𝙚 𝐕𝐈𝐄𝐓𝐀𝐋𝐄𝐍𝐓𝐒  tại: http://bit.ly/subvietalents\n=================================\n👌 𝐕𝐈𝐄𝐓𝐀𝐋𝐄𝐍𝐓𝐒 👌\nVieTalents là nơi quy tụ những tiết mục HÀI HƯỚC, HẤP DẪN và NHANH CHÓNG NHẤT của các NGHỆ SĨ, TÀI NĂNG trong và ngoài nước. SUBSCRIBE và ẤN THÔNG BÁO để không bỏ lỡ bất kỳ nội dung nào nhé 🤩\n=================================\n👉 𝐋𝐈𝐊𝐄 và 𝐅𝐎𝐋𝐋𝐎𝐖 Facebook VieTalents để cập nhật nhiều video hấp dẫn khác tại:\n  / vietalents  \n=================================\n ★ Xem thêm các clip HẬU TRƯỜNG hấp dẫn khác tại: http://bit.ly/subviebuzz\n ★ Xem thêm các clip HÀI BUNG NÓC đặc sắc khác tại: http://bit.ly/subviecomedy",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ng23",
+          "text": "#Sóng23​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ngxu%C3%A2n",
+          "text": "#SóngXuân​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mashup",
+          "text": "#mashup"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/qu%C3%A2nap",
+          "text": "#QuânAP"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/v%C5%A9",
+          "text": "#Vũ"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hi%E1%BB%81nh%E1%BB%93",
+          "text": "#HiềnHồ"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/th%C3%B9ychi",
+          "text": "#ThùyChi"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/myratr%E1%BA%A7n",
+          "text": "#MyraTrần"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/maiti%E1%BA%BFnd%C5%A9ng",
+          "text": "#MaiTiếnDũng"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tr%E1%BA%A5nth%C3%A0nh",
+          "text": "#TrấnThành"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ng22",
+          "text": "#Sóng22"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ng21",
+          "text": "#Sóng21"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=rVFNzTLaIik&pp=0gcJCR0AztywvtLA",
+          "text": "   • Sóng 23 - Chương trình giải trí Đêm Giao T...  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vietalents",
+          "text": "#VieTalents"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/talents",
+          "text": "#Talents"
+        },
+        {
+          "url": "http://bit.ly/subvietalents",
+          "text": "http://bit.ly/subvietalents"
+        },
+        {
+          "url": "https://facebook.com/vietalents",
+          "text": "  / vietalents  "
+        },
+        {
+          "url": "http://bit.ly/subviebuzz",
+          "text": "http://bit.ly/subviebuzz"
+        },
+        {
+          "url": "http://bit.ly/subviecomedy",
+          "text": "http://bit.ly/subviecomedy"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 19,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=S%C3%B3ng+21+ch%C6%B0%C6%A1ng+tr%C3%ACnh+%C4%91%C3%AAm+giao+th%E1%BB%ABa+full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "Sóng 21 chương trình đêm giao thừa full",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sóng 21-Chương 2: Hồng Vân, Hoài Linh, Huỳnh Lập...hội ngộ khán giả với tiểu phẩm \"Vượt sóng về nhà\"",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "LyVQuIBDsaY",
+      "url": "https://www.youtube.com/watch?v=LyVQuIBDsaY",
+      "thumbnailUrl": "https://i.ytimg.com/vi/LyVQuIBDsaY/maxresdefault.jpg",
+      "viewCount": 4884,
+      "date": "2021-02-14T13:00:14.000Z",
+      "likes": 101,
+      "location": null,
+      "channelName": "Vie GIẢITRÍ",
+      "channelUrl": "https://www.youtube.com/@VieGI%E1%BA%A2ITR%C3%8D",
+      "channelUsername": "VieGI%E1%BA%A2ITR%C3%8D",
+      "collaborators": null,
+      "channelId": "UC2Lgi2uPsOcCVF3imz7l2mg",
+      "numberOfSubscribers": 3130000,
+      "duration": "01:08:29",
+      "commentsCount": 3,
+      "text": "Đón xem Sóng 21 được phát sóng đồng thời  trên 3 kênh truyền hình Vie Channel – HTV2, Vie GiảiTrí, Vie Dramas và siêu ứng dụng VieON vào đêm Giao thừa Tết Tân Sửu 2021.\n\nVũ điệu rửa tay nằm trong chiến dịch truyền thông phòng chống dịch COVID-19 của Viện sức khỏe nghề nghiệp và môi trường (NIOEH) thuộc Bộ Y Tế.\n\n#Sóng21​ #SóngXuân​ #VieChannelHTV2\n#Song_21 #Song_Xuan #Xuan_Canh_Suu\n\n#VieChannel_HTV2 #VieGIẢITRÍ​ #VieGIAITRI​ #VieON\n\n\n📣 Đừng quên subscribe để xem thật nhiều chương trình mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieGIẢITRÍ\n\nXem các chương trình hấp dẫn khác của Vie GIẢITRÍ:\n►Siêu Trí Tuệ Full: https://bit.ly/SieuTriTue_Mua2_Full\n►Ai Là Số 1 Full: https://bit.ly/2xMrL9I\n►Đưa Em Về Nhà: https://bit.ly/3bRRzAh\n►Người Ấy Là Ai Full: http://bit.ly/2AQHuDT\n►Nhanh Như Chớp Nhí Full: https://bit.ly/2ANAYjb\n►Gạo Nếp Gạo Tẻ Full: http://bit.ly/2qyKoag\n►Phiên Tòa Tình Yêu Full: http://bit.ly/2F8ataA\n\nXem thêm trên hệ thống Vie GIẢITRÍ:\n►Website: https://giaitritv.vn\n►Fanpage: https://www.facebook.com/VieGIAITRI",
+      "translatedText": "Đón xem Sóng 21 được phát sóng đồng thời  trên 3 kênh truyền hình Vie Channel – HTV2, Vie GiảiTrí, Vie Dramas và siêu ứng dụng VieON vào đêm Giao thừa Tết Tân Sửu 2021.\n\nVũ điệu rửa tay nằm trong chiến dịch truyền thông phòng chống dịch COVID-19 của Viện sức khỏe nghề nghiệp và môi trường (NIOEH) thuộc Bộ Y Tế.\n\n#Sóng21​ #SóngXuân​ #VieChannelHTV2\n#Song_21 #Song_Xuan #Xuan_Canh_Suu\n\n#VieChannel_HTV2 #VieGIẢITRÍ​ #VieGIAITRI​ #VieON\n\n\n📣 Đừng quên subscribe để xem thật nhiều chương trình mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieGIẢITRÍ\n\nXem các chương trình hấp dẫn khác của Vie GIẢITRÍ:\n►Siêu Trí Tuệ Full: https://bit.ly/SieuTriTue_Mua2_Full\n►Ai Là Số 1 Full: https://bit.ly/2xMrL9I\n►Đưa Em Về Nhà: https://bit.ly/3bRRzAh\n►Người Ấy Là Ai Full: http://bit.ly/2AQHuDT\n►Nhanh Như Chớp Nhí Full: https://bit.ly/2ANAYjb\n►Gạo Nếp Gạo Tẻ Full: http://bit.ly/2qyKoag\n►Phiên Tòa Tình Yêu Full: http://bit.ly/2F8ataA\n\nXem thêm trên hệ thống Vie GIẢITRÍ:\n►Website: https://giaitritv.vn\n►Fanpage:   / viegiaitri  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ng21",
+          "text": "#Sóng21​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ngxu%C3%A2n",
+          "text": "#SóngXuân​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viechannelhtv2",
+          "text": "#VieChannelHTV2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song_21",
+          "text": "#Song_21"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song_xuan",
+          "text": "#Song_Xuan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/xuan_canh_suu",
+          "text": "#Xuan_Canh_Suu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viechannel_htv2",
+          "text": "#VieChannel_HTV2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viegi%E1%BA%A3itr%C3%AD",
+          "text": "#VieGIẢITRÍ​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viegiaitri",
+          "text": "#VieGIAITRI​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vieon",
+          "text": "#VieON"
+        },
+        {
+          "url": "http://bit.ly/VieGIẢITRÍ",
+          "text": "http://bit.ly/VieGIẢITRÍ"
+        },
+        {
+          "url": "https://bit.ly/SieuTriTue_Mua2_Full",
+          "text": "https://bit.ly/SieuTriTue_Mua2_Full"
+        },
+        {
+          "url": "https://bit.ly/2xMrL9I",
+          "text": "https://bit.ly/2xMrL9I"
+        },
+        {
+          "url": "https://bit.ly/3bRRzAh",
+          "text": "https://bit.ly/3bRRzAh"
+        },
+        {
+          "url": "http://bit.ly/2AQHuDT",
+          "text": "http://bit.ly/2AQHuDT"
+        },
+        {
+          "url": "https://bit.ly/2ANAYjb",
+          "text": "https://bit.ly/2ANAYjb"
+        },
+        {
+          "url": "http://bit.ly/2qyKoag",
+          "text": "http://bit.ly/2qyKoag"
+        },
+        {
+          "url": "http://bit.ly/2F8ataA",
+          "text": "http://bit.ly/2F8ataA"
+        },
+        {
+          "url": "https://giaitritv.vn/",
+          "text": "https://giaitritv.vn"
+        },
+        {
+          "url": "https://www.facebook.com/VieGIAITRI",
+          "text": "  / viegiaitri  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 8,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=S%C3%B3ng+21+ch%C6%B0%C6%A1ng+tr%C3%ACnh+%C4%91%C3%AAm+giao+th%E1%BB%ABa+full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [
+        "#VieGIẢITRÍ​",
+        "#VieChannelHTV2",
+        "#VieON"
+      ],
+      "isMembersOnly": false,
+      "input": "Sóng 21 chương trình đêm giao thừa full",
+      "isPaidContent": false
+    },
+    {
+      "title": "Teaser 2: Sóng 18 (Phát sóng 21:30 Đêm giao thừa - 15/2/2017)",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "KyXbK3T00t0",
+      "url": "https://www.youtube.com/watch?v=KyXbK3T00t0",
+      "thumbnailUrl": "https://i.ytimg.com/vi/KyXbK3T00t0/maxresdefault.jpg",
+      "viewCount": 53611,
+      "date": "2018-02-03T13:41:29.000Z",
+      "likes": 263,
+      "location": null,
+      "channelName": "Vie Channel ",
+      "channelUrl": "https://www.youtube.com/@VieChannelOfficial",
+      "channelUsername": "VieChannelOfficial",
+      "collaborators": null,
+      "channelId": "UCkna2OcuN1E6u5I8GVtdkOw",
+      "numberOfSubscribers": 11500000,
+      "duration": "00:00:37",
+      "commentsCount": 24,
+      "text": "🎈CHƯƠNG TRÌNH TẾT 2018 - Xem trọn bộ Gala Hài Xuân 2018: https://goo.gl/Ujyy71 \n🍄CHƯƠNG TRÌNH TẾT 2018 - Xem trọn bộ Sóng 18: https://goo.gl/2JKvxP \n🎈Ấn để theo dõi HTV2:    / htv2channel  \n\nXem các chương trình phim - hài khác của HTV2:\n►Ai cũng bật cười Full: https://goo.gl/glS4sF\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG\n\nHoặc xem thêm trên hệ thống HTV2:\n►Website: http://htv2channel.vn/\n►Fanpage:   / htv2channel  \n►G+: https://goo.gl/izjFODĐăng ký để xem video mới: https://goo.gl/oDR7VP\n\nXem các chương trình phim - hài khác của HTV2:\n►Ai cũng bật cười Full: https://goo.gl/glS4sF\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG\n\nHoặc xem thêm trên hệ thống HTV2:\n►Website: http://htv2channel.vn/\n►Fanpage: https://www.fb.com/HTV2channel\n►G+: https://goo.gl/izjFOD",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://goo.gl/Ujyy71",
+          "text": "https://goo.gl/Ujyy71"
+        },
+        {
+          "url": "https://goo.gl/2JKvxP",
+          "text": "https://goo.gl/2JKvxP"
+        },
+        {
+          "url": "http://youtube.com/HTV2Channel",
+          "text": "   / htv2channel  "
+        },
+        {
+          "url": "https://goo.gl/glS4sF",
+          "text": "https://goo.gl/glS4sF"
+        },
+        {
+          "url": "https://goo.gl/c0Qw7H",
+          "text": "https://goo.gl/c0Qw7H"
+        },
+        {
+          "url": "https://goo.gl/UsYrQG",
+          "text": "https://goo.gl/UsYrQG"
+        },
+        {
+          "url": "http://htv2channel.vn/",
+          "text": "http://htv2channel.vn/"
+        },
+        {
+          "url": "https://www.facebook.com/HTV2channel",
+          "text": "  / htv2channel  "
+        },
+        {
+          "url": "https://goo.gl/izjFODĐăng",
+          "text": "https://goo.gl/izjFODĐăng"
+        },
+        {
+          "url": "https://goo.gl/oDR7VP",
+          "text": "https://goo.gl/oDR7VP"
+        },
+        {
+          "url": "https://goo.gl/glS4sF",
+          "text": "https://goo.gl/glS4sF"
+        },
+        {
+          "url": "https://goo.gl/c0Qw7H",
+          "text": "https://goo.gl/c0Qw7H"
+        },
+        {
+          "url": "https://goo.gl/UsYrQG",
+          "text": "https://goo.gl/UsYrQG"
+        },
+        {
+          "url": "http://htv2channel.vn/",
+          "text": "http://htv2channel.vn/"
+        },
+        {
+          "url": "https://www.fb.com/HTV2channel",
+          "text": "https://www.fb.com/HTV2channel"
+        },
+        {
+          "url": "https://goo.gl/izjFOD",
+          "text": "https://goo.gl/izjFOD"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 12,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=S%C3%B3ng+21+ch%C6%B0%C6%A1ng+tr%C3%ACnh+%C4%91%C3%AAm+giao+th%E1%BB%ABa+full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "Sóng 21 chương trình đêm giao thừa full",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sóng 21 - Chương 3: Wowy, Dế Choắt, GDucky và dàn sao concert Rap Việt cùng Andree đổ bộ Sóng 21",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "MrahF2FL684",
+      "url": "https://www.youtube.com/watch?v=MrahF2FL684",
+      "thumbnailUrl": "https://i.ytimg.com/vi/MrahF2FL684/maxresdefault.jpg",
+      "viewCount": 50634,
+      "date": "2021-02-15T13:00:17.000Z",
+      "likes": 480,
+      "location": null,
+      "channelName": "Vie GIẢITRÍ",
+      "channelUrl": "https://www.youtube.com/@VieGI%E1%BA%A2ITR%C3%8D",
+      "channelUsername": "VieGI%E1%BA%A2ITR%C3%8D",
+      "collaborators": null,
+      "channelId": "UC2Lgi2uPsOcCVF3imz7l2mg",
+      "numberOfSubscribers": 3130000,
+      "duration": "00:56:54",
+      "commentsCount": 22,
+      "text": "Đón xem Sóng 21 được phát sóng đồng thời  trên 3 kênh truyền hình Vie Channel – HTV2, Vie GiảiTrí, Vie Dramas và siêu ứng dụng VieON vào đêm Giao thừa Tết Tân Sửu 2021.\n\nVũ điệu rửa tay nằm trong chiến dịch truyền thông phòng chống dịch COVID-19 của Viện sức khỏe nghề nghiệp và môi trường (NIOEH) thuộc Bộ Y Tế.\n\n#Sóng21​ #SóngXuân​ #VieChannelHTV2\n#Song_21 #Song_Xuan #Xuan_Canh_Suu\n\n#VieChannel_HTV2 #VieGIẢITRÍ​ #VieGIAITRI​ #VieON\n\n\n📣 Đừng quên subscribe để xem thật nhiều chương trình mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieGIẢITRÍ\n\nXem các chương trình hấp dẫn khác của Vie GIẢITRÍ:\n►Siêu Trí Tuệ Full: https://bit.ly/SieuTriTue_Mua2_Full\n►Ai Là Số 1 Full: https://bit.ly/2xMrL9I\n►Đưa Em Về Nhà: https://bit.ly/3bRRzAh\n►Người Ấy Là Ai Full: http://bit.ly/2AQHuDT\n►Nhanh Như Chớp Nhí Full: https://bit.ly/2ANAYjb\n►Gạo Nếp Gạo Tẻ Full: http://bit.ly/2qyKoag\n►Phiên Tòa Tình Yêu Full: http://bit.ly/2F8ataA\n\nXem thêm trên hệ thống Vie GIẢITRÍ:\n►Website: https://giaitritv.vn\n►Fanpage: https://www.facebook.com/VieGIAITRI",
+      "translatedText": "Đón xem Sóng 21 được phát sóng đồng thời  trên 3 kênh truyền hình Vie Channel – HTV2, Vie GiảiTrí, Vie Dramas và siêu ứng dụng VieON vào đêm Giao thừa Tết Tân Sửu 2021.\n\nVũ điệu rửa tay nằm trong chiến dịch truyền thông phòng chống dịch COVID-19 của Viện sức khỏe nghề nghiệp và môi trường (NIOEH) thuộc Bộ Y Tế.\n\n#Sóng21​ #SóngXuân​ #VieChannelHTV2\n#Song_21 #Song_Xuan #Xuan_Canh_Suu\n\n#VieChannel_HTV2 #VieGIẢITRÍ​ #VieGIAITRI​ #VieON\n\n\n📣 Đừng quên subscribe để xem thật nhiều chương trình mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieGIẢITRÍ\n\nXem các chương trình hấp dẫn khác của Vie GIẢITRÍ:\n►Siêu Trí Tuệ Full: https://bit.ly/SieuTriTue_Mua2_Full\n►Ai Là Số 1 Full: https://bit.ly/2xMrL9I\n►Đưa Em Về Nhà: https://bit.ly/3bRRzAh\n►Người Ấy Là Ai Full: http://bit.ly/2AQHuDT\n►Nhanh Như Chớp Nhí Full: https://bit.ly/2ANAYjb\n►Gạo Nếp Gạo Tẻ Full: http://bit.ly/2qyKoag\n►Phiên Tòa Tình Yêu Full: http://bit.ly/2F8ataA\n\nXem thêm trên hệ thống Vie GIẢITRÍ:\n►Website: https://giaitritv.vn\n►Fanpage:   / viegiaitri  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ng21",
+          "text": "#Sóng21​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ngxu%C3%A2n",
+          "text": "#SóngXuân​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viechannelhtv2",
+          "text": "#VieChannelHTV2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song_21",
+          "text": "#Song_21"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song_xuan",
+          "text": "#Song_Xuan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/xuan_canh_suu",
+          "text": "#Xuan_Canh_Suu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viechannel_htv2",
+          "text": "#VieChannel_HTV2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viegi%E1%BA%A3itr%C3%AD",
+          "text": "#VieGIẢITRÍ​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viegiaitri",
+          "text": "#VieGIAITRI​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vieon",
+          "text": "#VieON"
+        },
+        {
+          "url": "http://bit.ly/VieGIẢITRÍ",
+          "text": "http://bit.ly/VieGIẢITRÍ"
+        },
+        {
+          "url": "https://bit.ly/SieuTriTue_Mua2_Full",
+          "text": "https://bit.ly/SieuTriTue_Mua2_Full"
+        },
+        {
+          "url": "https://bit.ly/2xMrL9I",
+          "text": "https://bit.ly/2xMrL9I"
+        },
+        {
+          "url": "https://bit.ly/3bRRzAh",
+          "text": "https://bit.ly/3bRRzAh"
+        },
+        {
+          "url": "http://bit.ly/2AQHuDT",
+          "text": "http://bit.ly/2AQHuDT"
+        },
+        {
+          "url": "https://bit.ly/2ANAYjb",
+          "text": "https://bit.ly/2ANAYjb"
+        },
+        {
+          "url": "http://bit.ly/2qyKoag",
+          "text": "http://bit.ly/2qyKoag"
+        },
+        {
+          "url": "http://bit.ly/2F8ataA",
+          "text": "http://bit.ly/2F8ataA"
+        },
+        {
+          "url": "https://giaitritv.vn/",
+          "text": "https://giaitritv.vn"
+        },
+        {
+          "url": "https://www.facebook.com/VieGIAITRI",
+          "text": "  / viegiaitri  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 6,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=S%C3%B3ng+21+ch%C6%B0%C6%A1ng+tr%C3%ACnh+%C4%91%C3%AAm+giao+th%E1%BB%ABa+full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [
+        "#VieGIẢITRÍ​",
+        "#VieChannelHTV2",
+        "#VieON"
+      ],
+      "isMembersOnly": false,
+      "input": "Sóng 21 chương trình đêm giao thừa full",
+      "isPaidContent": false
+    },
+    {
+      "title": "A Xìn tạo bất ngờ lớn đêm Giao thừa 2020 khi hòa âm cực chuẩn cùng Erik - Hiền Hồ | SÓNG 20",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "l-JJC3IPSl0",
+      "url": "https://www.youtube.com/watch?v=l-JJC3IPSl0&list=RDl-JJC3IPSl0&start_radio=1",
+      "thumbnailUrl": "https://i.ytimg.com/vi/l-JJC3IPSl0/maxresdefault.jpg",
+      "viewCount": 6900087,
+      "date": "2020-01-25T13:00:07.000Z",
+      "likes": 24000,
+      "location": null,
+      "channelName": "VieSTARS",
+      "channelUrl": "https://www.youtube.com/@VieSTARS_Official",
+      "channelUsername": "VieSTARS_Official",
+      "collaborators": null,
+      "channelId": "UCDV0U41nnwOZyKMW4e7oExQ",
+      "numberOfSubscribers": 737000,
+      "duration": "00:15:52",
+      "commentsCount": 1959,
+      "text": "Đón xem Sóng 20 vào đêm giao thừa Tết Canh Tý 2020\n\n#Sóng20 #Tết #CanhTý\n#HoàiLinh #TrấnThành #TrườngGiang\n📣 Đừng quên subscribe để xem thật nhiều phim mới nhé! \n🎈 Subscribe ngay: http://bit.ly/Subscribe_VieChannelHTV2\n\nXem các chương trình hấp dẫn khác của Vie Channel - HTV2:\n►Người Ấy Là Ai Full: http://bit.ly/2AQHuDT\n►Nhanh Như Chớp Nhí Full: https://bit.ly/2ANAYjb\n►Gạo Nếp Gạo Tẻ Full: http://bit.ly/2qyKoag\n►Phiên Tòa Tình Yêu Full: http://bit.ly/2F8ataA\n►Ai Cũng Bật Cười Full: http://bit.ly/2DsqtTb\n►Tài Tiếu Tuyệt Full: http://bit.ly/2zIgfKb\n►Lần Đầu Tôi Kể: http://bit.ly/2OvemWp\n\nHoặc xem thêm trên hệ thống Vie Channel - HTV2:\n►Website: http://viechannel.vn/\n►Fanpage: https://www.facebook.com/VieChannelHTV2/\n►Instagram: https://www.instagram.com/viechannelhtv2/",
+      "translatedText": "Đón xem Sóng 20 vào đêm giao thừa Tết Canh Tý 2020\n\n#Sóng20 #Tết #CanhTý\n#HoàiLinh #TrấnThành #TrườngGiang\n📣 Đừng quên subscribe để xem thật nhiều phim mới nhé! \n🎈 Subscribe ngay: http://bit.ly/Subscribe_VieChannelHTV2\n\nXem các chương trình hấp dẫn khác của Vie Channel - HTV2:\n►Người Ấy Là Ai Full: http://bit.ly/2AQHuDT\n►Nhanh Như Chớp Nhí Full: https://bit.ly/2ANAYjb\n►Gạo Nếp Gạo Tẻ Full: http://bit.ly/2qyKoag\n►Phiên Tòa Tình Yêu Full: http://bit.ly/2F8ataA\n►Ai Cũng Bật Cười Full: http://bit.ly/2DsqtTb\n►Tài Tiếu Tuyệt Full: http://bit.ly/2zIgfKb\n►Lần Đầu Tôi Kể: http://bit.ly/2OvemWp\n\nHoặc xem thêm trên hệ thống Vie Channel - HTV2:\n►Website: http://viechannel.vn/\n►Fanpage:   / viechannelhtv2  \n►Instagram:   / viechannelhtv2  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ng20",
+          "text": "#Sóng20"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/t%E1%BA%BFt",
+          "text": "#Tết"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/canht%C3%BD",
+          "text": "#CanhTý"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ho%C3%A0ilinh",
+          "text": "#HoàiLinh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tr%E1%BA%A5nth%C3%A0nh",
+          "text": "#TrấnThành"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tr%C6%B0%E1%BB%9Dnggiang",
+          "text": "#TrườngGiang"
+        },
+        {
+          "url": "http://bit.ly/Subscribe_VieChannelHTV2",
+          "text": "http://bit.ly/Subscribe_VieChannelHTV2"
+        },
+        {
+          "url": "http://bit.ly/2AQHuDT",
+          "text": "http://bit.ly/2AQHuDT"
+        },
+        {
+          "url": "https://bit.ly/2ANAYjb",
+          "text": "https://bit.ly/2ANAYjb"
+        },
+        {
+          "url": "http://bit.ly/2qyKoag",
+          "text": "http://bit.ly/2qyKoag"
+        },
+        {
+          "url": "http://bit.ly/2F8ataA",
+          "text": "http://bit.ly/2F8ataA"
+        },
+        {
+          "url": "http://bit.ly/2DsqtTb",
+          "text": "http://bit.ly/2DsqtTb"
+        },
+        {
+          "url": "http://bit.ly/2zIgfKb",
+          "text": "http://bit.ly/2zIgfKb"
+        },
+        {
+          "url": "http://bit.ly/2OvemWp",
+          "text": "http://bit.ly/2OvemWp"
+        },
+        {
+          "url": "http://viechannel.vn/",
+          "text": "http://viechannel.vn/"
+        },
+        {
+          "url": "https://www.facebook.com/VieChannelHTV2/",
+          "text": "  / viechannelhtv2  "
+        },
+        {
+          "url": "https://www.instagram.com/viechannelhtv2/",
+          "text": "  / viechannelhtv2  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 11,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=S%C3%B3ng+21+ch%C6%B0%C6%A1ng+tr%C3%ACnh+%C4%91%C3%AAm+giao+th%E1%BB%ABa+full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [
+        "#HoàiLinh",
+        "#TrấnThành",
+        "#TrườngGiang"
+      ],
+      "isMembersOnly": false,
+      "input": "Sóng 21 chương trình đêm giao thừa full",
+      "isPaidContent": false
+    },
+    {
+      "title": "Full Đom Đóm - Jack [ Sóng 21 ]",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "sOjdnLRLzLw",
+      "url": "https://www.youtube.com/watch?v=sOjdnLRLzLw&list=RDsOjdnLRLzLw&start_radio=1",
+      "thumbnailUrl": "https://i.ytimg.com/vi/sOjdnLRLzLw/hqdefault.jpg",
+      "viewCount": 169747,
+      "date": "2024-03-14T08:43:32.000Z",
+      "likes": 1000,
+      "location": null,
+      "channelName": "NemJr",
+      "channelUrl": "https://www.youtube.com/@Nem_Jr",
+      "channelUsername": "Nem_Jr",
+      "collaborators": null,
+      "channelId": "UCJdIin2lcbPyjFOXdnoVf3A",
+      "numberOfSubscribers": 692,
+      "duration": "00:05:12",
+      "commentsCount": 184,
+      "text": "Welcome to NemOscar \n\n#domdom #jack #sóng21",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/domdom",
+          "text": "#domdom"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/jack",
+          "text": "#jack"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ng21",
+          "text": "#sóng21"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 15,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=S%C3%B3ng+21+ch%C6%B0%C6%A1ng+tr%C3%ACnh+%C4%91%C3%AAm+giao+th%E1%BB%ABa+full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [
+        "#domdom",
+        "#jack",
+        "#sóng21"
+      ],
+      "isMembersOnly": false,
+      "input": "Sóng 21 chương trình đêm giao thừa full",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sóng 24 - Chương trình giải trí âm nhạc Đêm Giao Thừa 2024 Trấn Thành Ngô Kiến Huy HIEUTHUHAI Anh Tú",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "o0D2r2KnO_w",
+      "url": "https://www.youtube.com/watch?v=o0D2r2KnO_w",
+      "thumbnailUrl": "https://i.ytimg.com/vi/o0D2r2KnO_w/maxresdefault.jpg",
+      "viewCount": 5573728,
+      "date": "2024-02-09T12:30:10.000Z",
+      "likes": 42000,
+      "location": null,
+      "channelName": "Vie Channel - MUSIC",
+      "channelUrl": "https://www.youtube.com/@VieChannelMUSIC",
+      "channelUsername": "VieChannelMUSIC",
+      "collaborators": null,
+      "channelId": "UC2fu6CiFfNYz5UFORvFyc0w",
+      "numberOfSubscribers": 1790000,
+      "duration": "04:20:52",
+      "commentsCount": 2159,
+      "text": "Sóng 24 - Chương trình giải trí âm nhạc Đêm Giao Thừa 2024 Trấn Thành Ngô Kiến Huy HIEUTHUHAI Anh Tú\n\n#Sóng24 #SóngXuân​ #Song24 #SongXuan #XuânGiápThìn \n#TrấnThành #NgôKiếnHuy #HIEUTHUHAI #AnhTú #anhtrai #anhtraisayhi\n#VieChannel #VieGIẢITRÍ​ #VieGIAITRI​ #VieON \n\nPlaylist Sóng 24:\n00:00 | Intro\n07:50 | Dàn Nam Thần Sóng 24\n26:05 | Rhyder x COOLKID\n30:24 | tlinh - Wren Evans\n43:37 | Erik - VP Bá Vương - JSOL - Roy Nguyễn - Hải Đăng Doo\n58:26 | Văn Mai Hương\n1:17:02 | Vũ. - GiGi Hương Giang - Anh Tú\n1:44:33 | Anh Tú - Double2T\n1:58:50 | Hài Độc Thoại - Phương Nam \n2:16:39 | Izara Thiên Nga\n2:20:00 | HIEUTHUHAI - Lệ Quyên - Ngọc Anh\n2:33:33 | Trấn Thành - HIEUTHUHAI - Lê Dương Bảo Lâm - Ngô Kiến Huy - Uyển Ân\n3:13:07 | Trung Quân - Myra Trần \n3:23:28 | Double2T - 24k.Right - Rhyder - OgeNus - Pháp Kiều \n3:34:20 | Orange - Sofia\n3:51:36 | Đức Phúc\n3:57:23 | BigDaddy - B Ray - Vũ Thảo My\n4:04:47 | Ngọc Anh - Myra Trần - Orange - GiGi Hương Giang - Lâm Bảo Ngọc - Hoàng Mỹ An - Vũ Thảo My\n\nĐăng ký hội viên ngay nào👇:\nhttps://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw/join\n\n★ Mọi nhu cầu quảng cáo và tài trợ xin liên hệ: Công Ty Cổ Phần Vie Channel\n► Hotline: 0907.950.371 (Mr. Đức Khoa)\n► Email: khoa.nguyen@viechannel.vn hoặc sales@viechannel.vn\n\n📣 Đừng quên subscribe để xem thật nhiều phim mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieChannelHTV2\n\n\n\nXem các chương trình hấp dẫn khác của Vie Channel:\n►Rap Việt Full: https://bit.ly/RAPVIETSS3\n►Người Ấy Là Ai Full: https://bit.ly/NALASS5\n►Hoa Vương Full: https://bit.ly/HoaVươngFull\n►The Masked Singer Vietnam Full: https://bit.ly/TMSVNSS2\n\nHoặc xem thêm trên hệ thống Vie Channel:\n►Website: http://viechannel.vn/\n►Fanpage: https://www.facebook.com/VieChannelHTV2/\n►Instagram: https://www.instagram.com/viechannelhtv2/",
+      "translatedText": "Sóng 24 - Chương trình giải trí âm nhạc Đêm Giao Thừa 2024 Trấn Thành Ngô Kiến Huy HIEUTHUHAI Anh Tú\n\n#Sóng24 #SóngXuân​ #Song24 #SongXuan #XuânGiápThìn \n#TrấnThành #NgôKiếnHuy #HIEUTHUHAI #AnhTú #anhtrai #anhtraisayhi\n#VieChannel #VieGIẢITRÍ​ #VieGIAITRI​ #VieON \n\nPlaylist Sóng 24:\n00:00 | Intro\n07:50 | Dàn Nam Thần Sóng 24\n26:05 | Rhyder x COOLKID\n30:24 | tlinh - Wren Evans\n43:37 | Erik - VP Bá Vương - JSOL - Roy Nguyễn - Hải Đăng Doo\n58:26 | Văn Mai Hương\n1:17:02 | Vũ. - GiGi Hương Giang - Anh Tú\n1:44:33 | Anh Tú - Double2T\n1:58:50 | Hài Độc Thoại - Phương Nam \n2:16:39 | Izara Thiên Nga\n2:20:00 | HIEUTHUHAI - Lệ Quyên - Ngọc Anh\n2:33:33 | Trấn Thành - HIEUTHUHAI - Lê Dương Bảo Lâm - Ngô Kiến Huy - Uyển Ân\n3:13:07 | Trung Quân - Myra Trần \n3:23:28 | Double2T - 24k.Right - Rhyder - OgeNus - Pháp Kiều \n3:34:20 | Orange - Sofia\n3:51:36 | Đức Phúc\n3:57:23 | BigDaddy - B Ray - Vũ Thảo My\n4:04:47 | Ngọc Anh - Myra Trần - Orange - GiGi Hương Giang - Lâm Bảo Ngọc - Hoàng Mỹ An - Vũ Thảo My\n\nĐăng ký hội viên ngay nào👇:\n   / @viechannelofficial  \n\n★ Mọi nhu cầu quảng cáo và tài trợ xin liên hệ: Công Ty Cổ Phần Vie Channel\n► Hotline: 0907.950.371 (Mr. Đức Khoa)\n► Email: khoa.nguyen@viechannel.vn hoặc sales@viechannel.vn\n\n📣 Đừng quên subscribe để xem thật nhiều phim mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieChannelHTV2\n\n\n\nXem các chương trình hấp dẫn khác của Vie Channel:\n►Rap Việt Full: https://bit.ly/RAPVIETSS3\n►Người Ấy Là Ai Full: https://bit.ly/NALASS5\n►Hoa Vương Full: https://bit.ly/HoaVươngFull\n►The Masked Singer Vietnam Full: https://bit.ly/TMSVNSS2\n\nHoặc xem thêm trên hệ thống Vie Channel:\n►Website: http://viechannel.vn/\n►Fanpage:   / viechannelhtv2  \n►Instagram:   / viechannelhtv2  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ng24",
+          "text": "#Sóng24"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ngxu%C3%A2n",
+          "text": "#SóngXuân​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song24",
+          "text": "#Song24"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/songxuan",
+          "text": "#SongXuan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/xu%C3%A2ngi%C3%A1pth%C3%ACn",
+          "text": "#XuânGiápThìn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tr%E1%BA%A5nth%C3%A0nh",
+          "text": "#TrấnThành"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ng%C3%B4ki%E1%BA%BFnhuy",
+          "text": "#NgôKiếnHuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hieuthuhai",
+          "text": "#HIEUTHUHAI"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anht%C3%BA",
+          "text": "#AnhTú"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtrai",
+          "text": "#anhtrai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtraisayhi",
+          "text": "#anhtraisayhi"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viechannel",
+          "text": "#VieChannel"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viegi%E1%BA%A3itr%C3%AD",
+          "text": "#VieGIẢITRÍ​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viegiaitri",
+          "text": "#VieGIAITRI​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vieon",
+          "text": "#VieON"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=o0D2r2KnO_w",
+          "text": "00:00"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=o0D2r2KnO_w&t=470s",
+          "text": "07:50"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=o0D2r2KnO_w&t=1565s",
+          "text": "26:05"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=o0D2r2KnO_w&t=1824s",
+          "text": "30:24"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=o0D2r2KnO_w&t=2617s",
+          "text": "43:37"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=o0D2r2KnO_w&t=3506s",
+          "text": "58:26"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=o0D2r2KnO_w&t=4622s",
+          "text": "1:17:02"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=o0D2r2KnO_w&t=6273s",
+          "text": "1:44:33"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=o0D2r2KnO_w&t=7130s",
+          "text": "1:58:50"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=o0D2r2KnO_w&t=8199s",
+          "text": "2:16:39"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=o0D2r2KnO_w&t=8400s",
+          "text": "2:20:00"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=o0D2r2KnO_w&t=9213s",
+          "text": "2:33:33"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=o0D2r2KnO_w&t=11587s",
+          "text": "3:13:07"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=o0D2r2KnO_w&t=12208s",
+          "text": "3:23:28"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=o0D2r2KnO_w&t=12860s",
+          "text": "3:34:20"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=o0D2r2KnO_w&t=13896s",
+          "text": "3:51:36"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=o0D2r2KnO_w&t=14243s",
+          "text": "3:57:23"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=o0D2r2KnO_w&t=14687s",
+          "text": "4:04:47"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw/join",
+          "text": "   / @viechannelofficial  "
+        },
+        {
+          "url": "http://bit.ly/VieChannelHTV2",
+          "text": "http://bit.ly/VieChannelHTV2"
+        },
+        {
+          "url": "https://bit.ly/RAPVIETSS3",
+          "text": "https://bit.ly/RAPVIETSS3"
+        },
+        {
+          "url": "https://bit.ly/NALASS5",
+          "text": "https://bit.ly/NALASS5"
+        },
+        {
+          "url": "https://bit.ly/HoaVươngFull",
+          "text": "https://bit.ly/HoaVươngFull"
+        },
+        {
+          "url": "https://bit.ly/TMSVNSS2",
+          "text": "https://bit.ly/TMSVNSS2"
+        },
+        {
+          "url": "http://viechannel.vn/",
+          "text": "http://viechannel.vn/"
+        },
+        {
+          "url": "https://www.facebook.com/VieChannelHTV2/",
+          "text": "  / viechannelhtv2  "
+        },
+        {
+          "url": "https://www.instagram.com/viechannelhtv2/",
+          "text": "  / viechannelhtv2  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 9,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=S%C3%B3ng+21+ch%C6%B0%C6%A1ng+tr%C3%ACnh+%C4%91%C3%AAm+giao+th%E1%BB%ABa+full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [
+        "#VieGIẢITRÍ​",
+        "#anhtraisayhi",
+        "#HIEUTHUHAI"
+      ],
+      "isMembersOnly": false,
+      "input": "Sóng 21 chương trình đêm giao thừa full",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sóng 23 - Chương trình giải trí Đêm Giao Thừa 2023 hội tụ hơn 100 nghệ sĩ hàng đầu Việt Nam Tết 2023",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "rVFNzTLaIik",
+      "url": "https://www.youtube.com/watch?v=rVFNzTLaIik",
+      "thumbnailUrl": "https://i.ytimg.com/vi/rVFNzTLaIik/maxresdefault.jpg",
+      "viewCount": 6464083,
+      "date": "2023-01-21T12:00:09.000Z",
+      "likes": 38000,
+      "location": null,
+      "channelName": "Vie Channel - MUSIC",
+      "channelUrl": "https://www.youtube.com/@VieChannelMUSIC",
+      "channelUsername": "VieChannelMUSIC",
+      "collaborators": null,
+      "channelId": "UC2fu6CiFfNYz5UFORvFyc0w",
+      "numberOfSubscribers": 1790000,
+      "duration": "04:48:20",
+      "commentsCount": 2910,
+      "text": "Sóng 23 - Chương trình giải trí Đêm Giao Thừa 2023 hội tụ hơn 100 nghệ sĩ hàng đầu Việt Nam Tết 2023\n\nĐón xem Sóng 23 được phát sóng đồng thời  trên 3 kênh truyền hình Vie Channel – HTV2, Vie GiảiTrí, Vie Dramas và siêu ứng dụng VieON vào đêm Giao thừa Tết Quý Mão 2023.\n\n#Sóng23​ #SóngXuân​ #VieChannelHTV2\n#Song23 #SongXuan #XuanQuyMao\n#TrấnThành #ThúyNgân #MyraTrần #BíchPhương #KaityNguyễn\n#VieChannel_HTV2 #VieGIẢITRÍ​ #VieGIAITRI​ #VieON\n\n★ Mọi nhu cầu quảng cáo và tài trợ xin liên hệ: Công Ty Cổ Phần Vie Channel\n► Hotline: 0907.950371\n► Email: sales@viechannel.vn\n\n📣 Đừng quên subscribe để xem thật nhiều phim mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieChannelHTV2\n\nXem các chương trình hấp dẫn khác của Vie Channel - HTV2:\n►The Masked Singer Vietnam Full: https://bit.ly/TheMaskedSingerSS1\n►Người Ấy Là Ai Full: https://bit.ly/NALASS4\n►Giấc Mơ Của Mẹ Full: https://bit.ly/GiacMoCuaMe\n►Rap Việt Full: https://bit.ly/RapVietMua2\n►Siêu Trí Tuệ Full: https://bit.ly/SieuTriTue_Mua2_Full\n\nHoặc xem thêm trên hệ thống Vie Channel - HTV2:\n►Website: http://viechannel.vn/\n►Fanpage: https://www.facebook.com/VieChannelHTV2/\n►Instagram: https://www.instagram.com/viechannelhtv2/",
+      "translatedText": "Sóng 23 - Chương trình giải trí Đêm Giao Thừa 2023 hội tụ hơn 100 nghệ sĩ hàng đầu Việt Nam Tết 2023\n\nĐón xem Sóng 23 được phát sóng đồng thời  trên 3 kênh truyền hình Vie Channel – HTV2, Vie GiảiTrí, Vie Dramas và siêu ứng dụng VieON vào đêm Giao thừa Tết Quý Mão 2023.\n\n#Sóng23​ #SóngXuân​ #VieChannelHTV2\n#Song23 #SongXuan #XuanQuyMao\n#TrấnThành #ThúyNgân #MyraTrần #BíchPhương #KaityNguyễn\n#VieChannel_HTV2 #VieGIẢITRÍ​ #VieGIAITRI​ #VieON\n\n★ Mọi nhu cầu quảng cáo và tài trợ xin liên hệ: Công Ty Cổ Phần Vie Channel\n► Hotline: 0907.950371\n► Email: sales@viechannel.vn\n\n📣 Đừng quên subscribe để xem thật nhiều phim mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieChannelHTV2\n\nXem các chương trình hấp dẫn khác của Vie Channel - HTV2:\n►The Masked Singer Vietnam Full: https://bit.ly/TheMaskedSingerSS1\n►Người Ấy Là Ai Full: https://bit.ly/NALASS4\n►Giấc Mơ Của Mẹ Full: https://bit.ly/GiacMoCuaMe\n►Rap Việt Full: https://bit.ly/RapVietMua2\n►Siêu Trí Tuệ Full: https://bit.ly/SieuTriTue_Mua2_Full\n\nHoặc xem thêm trên hệ thống Vie Channel - HTV2:\n►Website: http://viechannel.vn/\n►Fanpage:   / viechannelhtv2  \n►Instagram:   / viechannelhtv2  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ng23",
+          "text": "#Sóng23​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ngxu%C3%A2n",
+          "text": "#SóngXuân​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viechannelhtv2",
+          "text": "#VieChannelHTV2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song23",
+          "text": "#Song23"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/songxuan",
+          "text": "#SongXuan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/xuanquymao",
+          "text": "#XuanQuyMao"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tr%E1%BA%A5nth%C3%A0nh",
+          "text": "#TrấnThành"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/th%C3%BAyng%C3%A2n",
+          "text": "#ThúyNgân"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/myratr%E1%BA%A7n",
+          "text": "#MyraTrần"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/b%C3%ADchph%C6%B0%C6%A1ng",
+          "text": "#BíchPhương"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/kaitynguy%E1%BB%85n",
+          "text": "#KaityNguyễn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viechannel_htv2",
+          "text": "#VieChannel_HTV2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viegi%E1%BA%A3itr%C3%AD",
+          "text": "#VieGIẢITRÍ​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viegiaitri",
+          "text": "#VieGIAITRI​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vieon",
+          "text": "#VieON"
+        },
+        {
+          "url": "http://bit.ly/VieChannelHTV2",
+          "text": "http://bit.ly/VieChannelHTV2"
+        },
+        {
+          "url": "https://bit.ly/TheMaskedSingerSS1",
+          "text": "https://bit.ly/TheMaskedSingerSS1"
+        },
+        {
+          "url": "https://bit.ly/NALASS4",
+          "text": "https://bit.ly/NALASS4"
+        },
+        {
+          "url": "https://bit.ly/GiacMoCuaMe",
+          "text": "https://bit.ly/GiacMoCuaMe"
+        },
+        {
+          "url": "https://bit.ly/RapVietMua2",
+          "text": "https://bit.ly/RapVietMua2"
+        },
+        {
+          "url": "https://bit.ly/SieuTriTue_Mua2_Full",
+          "text": "https://bit.ly/SieuTriTue_Mua2_Full"
+        },
+        {
+          "url": "http://viechannel.vn/",
+          "text": "http://viechannel.vn/"
+        },
+        {
+          "url": "https://www.facebook.com/VieChannelHTV2/",
+          "text": "  / viechannelhtv2  "
+        },
+        {
+          "url": "https://www.instagram.com/viechannelhtv2/",
+          "text": "  / viechannelhtv2  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 17,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=S%C3%B3ng+21+ch%C6%B0%C6%A1ng+tr%C3%ACnh+%C4%91%C3%AAm+giao+th%E1%BB%ABa+full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [
+        "#VieGIẢITRÍ​",
+        "#ThúyNgân",
+        "#VieChannelHTV2"
+      ],
+      "isMembersOnly": false,
+      "input": "Sóng 21 chương trình đêm giao thừa full",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sóng 21 - Chương trình giải trí đặc biệt đêm Giao Thừa 2021 quy tụ hơn 100 nghệ sĩ hàng đầu Việt Nam",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "wVp_7v--3sw",
+      "url": "https://www.youtube.com/watch?v=wVp_7v--3sw",
+      "thumbnailUrl": "https://i.ytimg.com/vi/wVp_7v--3sw/maxresdefault.jpg",
+      "viewCount": 2797464,
+      "date": "2021-02-11T12:30:13.000Z",
+      "likes": 28000,
+      "location": null,
+      "channelName": "Vie GIẢITRÍ",
+      "channelUrl": "https://www.youtube.com/@VieGI%E1%BA%A2ITR%C3%8D",
+      "channelUsername": "VieGI%E1%BA%A2ITR%C3%8D",
+      "collaborators": null,
+      "channelId": "UC2Lgi2uPsOcCVF3imz7l2mg",
+      "numberOfSubscribers": 3130000,
+      "duration": "04:27:26",
+      "commentsCount": 1834,
+      "text": "Đón xem Sóng 21 được phát sóng đồng thời  trên 3 kênh truyền hình Vie Channel – HTV2, Vie GiảiTrí, Vie Dramas và siêu ứng dụng VieON vào đêm Giao thừa Tết Tân Sửu 2021.\n\nVũ điệu rửa tay nằm trong chiến dịch truyền thông phòng chống dịch COVID-19 của Viện sức khỏe nghề nghiệp và môi trường (NIOEH) thuộc Bộ Y Tế.\n\n#Sóng21​ #SóngXuân​ #VieChannelHTV2\n#Song_21 #Song_Xuan #Xuan_Canh_Suu\n\n#VieChannel_HTV2 #VieGIẢITRÍ​ #VieGIAITRI​ #VieON\n\n\n📣 Đừng quên subscribe để xem thật nhiều chương trình mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieGIẢITRÍ\n\nXem các chương trình hấp dẫn khác của Vie GIẢITRÍ:\n►Siêu Trí Tuệ Full: https://bit.ly/SieuTriTue_Mua2_Full\n►Ai Là Số 1 Full: https://bit.ly/2xMrL9I\n►Đưa Em Về Nhà: https://bit.ly/3bRRzAh\n►Người Ấy Là Ai Full: http://bit.ly/2AQHuDT\n►Nhanh Như Chớp Nhí Full: https://bit.ly/2ANAYjb\n►Gạo Nếp Gạo Tẻ Full: http://bit.ly/2qyKoag\n►Phiên Tòa Tình Yêu Full: http://bit.ly/2F8ataA\n\nXem thêm trên hệ thống Vie GIẢITRÍ:\n►Website: https://giaitritv.vn\n►Fanpage: https://www.facebook.com/VieGIAITRI",
+      "translatedText": "Đón xem Sóng 21 được phát sóng đồng thời  trên 3 kênh truyền hình Vie Channel – HTV2, Vie GiảiTrí, Vie Dramas và siêu ứng dụng VieON vào đêm Giao thừa Tết Tân Sửu 2021.\n\nVũ điệu rửa tay nằm trong chiến dịch truyền thông phòng chống dịch COVID-19 của Viện sức khỏe nghề nghiệp và môi trường (NIOEH) thuộc Bộ Y Tế.\n\n#Sóng21​ #SóngXuân​ #VieChannelHTV2\n#Song_21 #Song_Xuan #Xuan_Canh_Suu\n\n#VieChannel_HTV2 #VieGIẢITRÍ​ #VieGIAITRI​ #VieON\n\n\n📣 Đừng quên subscribe để xem thật nhiều chương trình mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieGIẢITRÍ\n\nXem các chương trình hấp dẫn khác của Vie GIẢITRÍ:\n►Siêu Trí Tuệ Full: https://bit.ly/SieuTriTue_Mua2_Full\n►Ai Là Số 1 Full: https://bit.ly/2xMrL9I\n►Đưa Em Về Nhà: https://bit.ly/3bRRzAh\n►Người Ấy Là Ai Full: http://bit.ly/2AQHuDT\n►Nhanh Như Chớp Nhí Full: https://bit.ly/2ANAYjb\n►Gạo Nếp Gạo Tẻ Full: http://bit.ly/2qyKoag\n►Phiên Tòa Tình Yêu Full: http://bit.ly/2F8ataA\n\nXem thêm trên hệ thống Vie GIẢITRÍ:\n►Website: https://giaitritv.vn\n►Fanpage:   / viegiaitri  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ng21",
+          "text": "#Sóng21​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ngxu%C3%A2n",
+          "text": "#SóngXuân​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viechannelhtv2",
+          "text": "#VieChannelHTV2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song_21",
+          "text": "#Song_21"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song_xuan",
+          "text": "#Song_Xuan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/xuan_canh_suu",
+          "text": "#Xuan_Canh_Suu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viechannel_htv2",
+          "text": "#VieChannel_HTV2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viegi%E1%BA%A3itr%C3%AD",
+          "text": "#VieGIẢITRÍ​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viegiaitri",
+          "text": "#VieGIAITRI​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vieon",
+          "text": "#VieON"
+        },
+        {
+          "url": "http://bit.ly/VieGIẢITRÍ",
+          "text": "http://bit.ly/VieGIẢITRÍ"
+        },
+        {
+          "url": "https://bit.ly/SieuTriTue_Mua2_Full",
+          "text": "https://bit.ly/SieuTriTue_Mua2_Full"
+        },
+        {
+          "url": "https://bit.ly/2xMrL9I",
+          "text": "https://bit.ly/2xMrL9I"
+        },
+        {
+          "url": "https://bit.ly/3bRRzAh",
+          "text": "https://bit.ly/3bRRzAh"
+        },
+        {
+          "url": "http://bit.ly/2AQHuDT",
+          "text": "http://bit.ly/2AQHuDT"
+        },
+        {
+          "url": "https://bit.ly/2ANAYjb",
+          "text": "https://bit.ly/2ANAYjb"
+        },
+        {
+          "url": "http://bit.ly/2qyKoag",
+          "text": "http://bit.ly/2qyKoag"
+        },
+        {
+          "url": "http://bit.ly/2F8ataA",
+          "text": "http://bit.ly/2F8ataA"
+        },
+        {
+          "url": "https://giaitritv.vn/",
+          "text": "https://giaitritv.vn"
+        },
+        {
+          "url": "https://www.facebook.com/VieGIAITRI",
+          "text": "  / viegiaitri  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 0,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=S%C3%B3ng+21+ch%C6%B0%C6%A1ng+tr%C3%ACnh+%C4%91%C3%AAm+giao+th%E1%BB%ABa+full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [
+        "#VieGIẢITRÍ​",
+        "#VieChannelHTV2",
+        "#VieON"
+      ],
+      "isMembersOnly": false,
+      "input": "Sóng 21 chương trình đêm giao thừa full",
+      "isPaidContent": false
+    },
+    {
+      "title": "Tung loạt câu hỏi khó đỉnh cao, Trấn Thành khiến dàn sao sượng trân vì bí giữa chừng| SÓNG 21",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "pBfvGBND8bY",
+      "url": "https://www.youtube.com/watch?v=pBfvGBND8bY",
+      "thumbnailUrl": "https://i.ytimg.com/vi/pBfvGBND8bY/maxresdefault.jpg",
+      "viewCount": 8717,
+      "date": "2021-02-17T14:00:30.000Z",
+      "likes": 111,
+      "location": null,
+      "channelName": "Vie GIẢITRÍ",
+      "channelUrl": "https://www.youtube.com/@VieGI%E1%BA%A2ITR%C3%8D",
+      "channelUsername": "VieGI%E1%BA%A2ITR%C3%8D",
+      "collaborators": null,
+      "channelId": "UC2Lgi2uPsOcCVF3imz7l2mg",
+      "numberOfSubscribers": 3130000,
+      "duration": "00:12:44",
+      "commentsCount": 0,
+      "text": "Đón xem Sóng 21 được phát sóng đồng thời  trên 3 kênh truyền hình Vie Channel – HTV2, Vie GiảiTrí, Vie Dramas và siêu ứng dụng VieON vào đêm Giao thừa Tết Tân Sửu 2021.\n\n#Sóng21​ #SóngXuân​ #VieChannelHTV2\n#Song_21 #Song_Xuan #Xuan_Canh_Suu\n\n#VieChannel_HTV2 #VieGIẢITRÍ​ #VieGIAITRI​ #VieON\n\n\n📣 Đừng quên subscribe để xem thật nhiều chương trình mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieGIẢITRÍ\n\nXem các chương trình hấp dẫn khác của Vie GIẢITRÍ:\n►Siêu Trí Tuệ Full: https://bit.ly/SieuTriTue_Mua2_Full\n►Ai Là Số 1 Full: https://bit.ly/2xMrL9I\n►Đưa Em Về Nhà: https://bit.ly/3bRRzAh\n►Người Ấy Là Ai Full: http://bit.ly/2AQHuDT\n►Nhanh Như Chớp Nhí Full: https://bit.ly/2ANAYjb\n►Gạo Nếp Gạo Tẻ Full: http://bit.ly/2qyKoag\n►Phiên Tòa Tình Yêu Full: http://bit.ly/2F8ataA\n\nXem thêm trên hệ thống Vie GIẢITRÍ:\n►Website: https://giaitritv.vn\n►Fanpage: https://www.facebook.com/VieGIAITRI",
+      "translatedText": "Đón xem Sóng 21 được phát sóng đồng thời  trên 3 kênh truyền hình Vie Channel – HTV2, Vie GiảiTrí, Vie Dramas và siêu ứng dụng VieON vào đêm Giao thừa Tết Tân Sửu 2021.\n\n#Sóng21​ #SóngXuân​ #VieChannelHTV2\n#Song_21 #Song_Xuan #Xuan_Canh_Suu\n\n#VieChannel_HTV2 #VieGIẢITRÍ​ #VieGIAITRI​ #VieON\n\n\n📣 Đừng quên subscribe để xem thật nhiều chương trình mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieGIẢITRÍ\n\nXem các chương trình hấp dẫn khác của Vie GIẢITRÍ:\n►Siêu Trí Tuệ Full: https://bit.ly/SieuTriTue_Mua2_Full\n►Ai Là Số 1 Full: https://bit.ly/2xMrL9I\n►Đưa Em Về Nhà: https://bit.ly/3bRRzAh\n►Người Ấy Là Ai Full: http://bit.ly/2AQHuDT\n►Nhanh Như Chớp Nhí Full: https://bit.ly/2ANAYjb\n►Gạo Nếp Gạo Tẻ Full: http://bit.ly/2qyKoag\n►Phiên Tòa Tình Yêu Full: http://bit.ly/2F8ataA\n\nXem thêm trên hệ thống Vie GIẢITRÍ:\n►Website: https://giaitritv.vn\n►Fanpage:   / viegiaitri  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ng21",
+          "text": "#Sóng21​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ngxu%C3%A2n",
+          "text": "#SóngXuân​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viechannelhtv2",
+          "text": "#VieChannelHTV2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song_21",
+          "text": "#Song_21"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song_xuan",
+          "text": "#Song_Xuan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/xuan_canh_suu",
+          "text": "#Xuan_Canh_Suu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viechannel_htv2",
+          "text": "#VieChannel_HTV2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viegi%E1%BA%A3itr%C3%AD",
+          "text": "#VieGIẢITRÍ​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viegiaitri",
+          "text": "#VieGIAITRI​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vieon",
+          "text": "#VieON"
+        },
+        {
+          "url": "http://bit.ly/VieGIẢITRÍ",
+          "text": "http://bit.ly/VieGIẢITRÍ"
+        },
+        {
+          "url": "https://bit.ly/SieuTriTue_Mua2_Full",
+          "text": "https://bit.ly/SieuTriTue_Mua2_Full"
+        },
+        {
+          "url": "https://bit.ly/2xMrL9I",
+          "text": "https://bit.ly/2xMrL9I"
+        },
+        {
+          "url": "https://bit.ly/3bRRzAh",
+          "text": "https://bit.ly/3bRRzAh"
+        },
+        {
+          "url": "http://bit.ly/2AQHuDT",
+          "text": "http://bit.ly/2AQHuDT"
+        },
+        {
+          "url": "https://bit.ly/2ANAYjb",
+          "text": "https://bit.ly/2ANAYjb"
+        },
+        {
+          "url": "http://bit.ly/2qyKoag",
+          "text": "http://bit.ly/2qyKoag"
+        },
+        {
+          "url": "http://bit.ly/2F8ataA",
+          "text": "http://bit.ly/2F8ataA"
+        },
+        {
+          "url": "https://giaitritv.vn/",
+          "text": "https://giaitritv.vn"
+        },
+        {
+          "url": "https://www.facebook.com/VieGIAITRI",
+          "text": "  / viegiaitri  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 16,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=S%C3%B3ng+21+ch%C6%B0%C6%A1ng+tr%C3%ACnh+%C4%91%C3%AAm+giao+th%E1%BB%ABa+full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [
+        "#VieGIẢITRÍ​",
+        "#VieChannelHTV2",
+        "#VieON"
+      ],
+      "isMembersOnly": false,
+      "input": "Sóng 21 chương trình đêm giao thừa full",
+      "isPaidContent": false
+    },
+    {
+      "title": "CẢ NƯỚC KHÔNG ƯA EM - PHAN MẠNH QUỲNH | SÓNG 21 - Chương trình giải trí đặc biệt đêm Giao Thừa 2021",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "NwU0oVA7Fmg",
+      "url": "https://www.youtube.com/watch?v=NwU0oVA7Fmg&list=RDNwU0oVA7Fmg&start_radio=1",
+      "thumbnailUrl": "https://i.ytimg.com/vi/NwU0oVA7Fmg/maxresdefault.jpg",
+      "viewCount": 950145,
+      "date": "2021-02-14T11:02:04.000Z",
+      "likes": 14000,
+      "location": null,
+      "channelName": "Vie Channel ",
+      "channelUrl": "https://www.youtube.com/@VieChannelOfficial",
+      "channelUsername": "VieChannelOfficial",
+      "collaborators": null,
+      "channelId": "UCkna2OcuN1E6u5I8GVtdkOw",
+      "numberOfSubscribers": 11500000,
+      "duration": "00:07:07",
+      "commentsCount": 526,
+      "text": "Sóng 21 - Chương trình giải trí đỉnh cao Đêm Giao Thừa được yêu thích nhất 3 năm liền, quy tụ hơn 100 nghệ sĩ hàng đầu và những người nổi tiếng có sức ảnh hưởng lớn đã trở lại.\n\nVũ điệu rửa tay nằm trong chiến dịch truyền thông phòng chống dịch COVID-19 của Viện sức khỏe nghề nghiệp và môi trường (NIOEH) thuộc Bộ Y Tế.\n\n#Sóng21​ #SóngXuân​ #VieChannelHTV2\n#Song_21 #Song_Xuan #Xuan_Canh_Suu\n\n#VieChannel_HTV2 #VieGIẢITRÍ​ #VieGIAITRI​ #VieON\n\n📣 Đừng quên subscribe để xem thật nhiều phim mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieChannelHTV2\n\nXem các chương trình hấp dẫn khác của Vie Channel - HTV2:\n►Siêu Trí Tuệ Full: https://bit.ly/SieuTriTue_Mua2_Full\n►Rap Việt Full: http://bit.ly/RAPVIET_official_playlistFULL\n►Người Ấy Là Ai Full: https://bit.ly/2XnUnQJ\n►Hải Đường Trong Gió Full: https://bit.ly/31iPKZA\n►Nhanh Như Chớp Nhí Full: https://bit.ly/2EC1m1Q\n►Ai Là Số 1 Full: https://bit.ly/2xMrL9I\n►Đưa Em Về Nhà Full: https://bit.ly/3bRRzAh\n\nHoặc xem thêm trên hệ thống Vie Channel - HTV2:\n►Website: http://viechannel.vn/\n►Fanpage: https://www.facebook.com/VieChannelHTV2/\n►Instagram: https://www.instagram.com/viechannelhtv2/",
+      "translatedText": "Sóng 21 - Chương trình giải trí đỉnh cao Đêm Giao Thừa được yêu thích nhất 3 năm liền, quy tụ hơn 100 nghệ sĩ hàng đầu và những người nổi tiếng có sức ảnh hưởng lớn đã trở lại.\n\nVũ điệu rửa tay nằm trong chiến dịch truyền thông phòng chống dịch COVID-19 của Viện sức khỏe nghề nghiệp và môi trường (NIOEH) thuộc Bộ Y Tế.\n\n#Sóng21​ #SóngXuân​ #VieChannelHTV2\n#Song_21 #Song_Xuan #Xuan_Canh_Suu\n\n#VieChannel_HTV2 #VieGIẢITRÍ​ #VieGIAITRI​ #VieON\n\n📣 Đừng quên subscribe để xem thật nhiều phim mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieChannelHTV2\n\nXem các chương trình hấp dẫn khác của Vie Channel - HTV2:\n►Siêu Trí Tuệ Full: https://bit.ly/SieuTriTue_Mua2_Full\n►Rap Việt Full: http://bit.ly/RAPVIET_official_playli...\n►Người Ấy Là Ai Full: https://bit.ly/2XnUnQJ\n►Hải Đường Trong Gió Full: https://bit.ly/31iPKZA\n►Nhanh Như Chớp Nhí Full: https://bit.ly/2EC1m1Q\n►Ai Là Số 1 Full: https://bit.ly/2xMrL9I\n►Đưa Em Về Nhà Full: https://bit.ly/3bRRzAh\n\nHoặc xem thêm trên hệ thống Vie Channel - HTV2:\n►Website: http://viechannel.vn/\n►Fanpage:   / viechannelhtv2  \n►Instagram:   / viechannelhtv2  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ng21",
+          "text": "#Sóng21​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ngxu%C3%A2n",
+          "text": "#SóngXuân​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viechannelhtv2",
+          "text": "#VieChannelHTV2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song_21",
+          "text": "#Song_21"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song_xuan",
+          "text": "#Song_Xuan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/xuan_canh_suu",
+          "text": "#Xuan_Canh_Suu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viechannel_htv2",
+          "text": "#VieChannel_HTV2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viegi%E1%BA%A3itr%C3%AD",
+          "text": "#VieGIẢITRÍ​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viegiaitri",
+          "text": "#VieGIAITRI​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vieon",
+          "text": "#VieON"
+        },
+        {
+          "url": "http://bit.ly/VieChannelHTV2",
+          "text": "http://bit.ly/VieChannelHTV2"
+        },
+        {
+          "url": "https://bit.ly/SieuTriTue_Mua2_Full",
+          "text": "https://bit.ly/SieuTriTue_Mua2_Full"
+        },
+        {
+          "url": "http://bit.ly/RAPVIET_official_playlistFULL",
+          "text": "http://bit.ly/RAPVIET_official_playli..."
+        },
+        {
+          "url": "https://bit.ly/2XnUnQJ",
+          "text": "https://bit.ly/2XnUnQJ"
+        },
+        {
+          "url": "https://bit.ly/31iPKZA",
+          "text": "https://bit.ly/31iPKZA"
+        },
+        {
+          "url": "https://bit.ly/2EC1m1Q",
+          "text": "https://bit.ly/2EC1m1Q"
+        },
+        {
+          "url": "https://bit.ly/2xMrL9I",
+          "text": "https://bit.ly/2xMrL9I"
+        },
+        {
+          "url": "https://bit.ly/3bRRzAh",
+          "text": "https://bit.ly/3bRRzAh"
+        },
+        {
+          "url": "http://viechannel.vn/",
+          "text": "http://viechannel.vn/"
+        },
+        {
+          "url": "https://www.facebook.com/VieChannelHTV2/",
+          "text": "  / viechannelhtv2  "
+        },
+        {
+          "url": "https://www.instagram.com/viechannelhtv2/",
+          "text": "  / viechannelhtv2  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 1,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=S%C3%B3ng+21+ch%C6%B0%C6%A1ng+tr%C3%ACnh+%C4%91%C3%AAm+giao+th%E1%BB%ABa+full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [
+        "#VieGIẢITRÍ​",
+        "#VieChannelHTV2",
+        "#VieON"
+      ],
+      "isMembersOnly": false,
+      "input": "Sóng 21 chương trình đêm giao thừa full",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sóng 25 - Đỉnh Sóng Dẫn Đầu - Chương trình giải trí âm nhạc Đêm Giao Thừa 2025",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "8sJWiYMfTM8",
+      "url": "https://www.youtube.com/watch?v=8sJWiYMfTM8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/8sJWiYMfTM8/hqdefault.jpg",
+      "viewCount": 3243777,
+      "date": "2025-01-28T12:08:06.000Z",
+      "likes": 29000,
+      "location": null,
+      "channelName": "Vie Channel - MUSIC",
+      "channelUrl": "https://www.youtube.com/@VieChannelMUSIC",
+      "channelUsername": "VieChannelMUSIC",
+      "collaborators": null,
+      "channelId": "UC2fu6CiFfNYz5UFORvFyc0w",
+      "numberOfSubscribers": 1790000,
+      "duration": "04:56:19",
+      "commentsCount": 1499,
+      "text": "Sóng 25 - Đỉnh Sóng Dẫn Đầu - Chương trình giải trí âm nhạc Đêm Giao Thừa 2025\n\n#Sóng25 #SóngXuân​ #XuânẤtTỵ\n#TrấnThành #anhtrai #anhtraisayhi #song25\n#VieChannel #VieGIẢITRÍ​ #VieGIAITRI​ #VieON \n\nTiger trên tay - Giao thừa đón Sóng\nCùng nhau khai xuân bản lĩnh nào các mãnh hổ ơi!\nMua ngay: https://bit.ly/TigerBeer_Song25\n\n#Tigerbeer \n#Satcanhgamvang #Khaixuanbanlinh\n-----------\nSản phẩm Tiger Crystal có nồng độ cồn 4.6% - Sản phẩm Tiger Regular có nồng độ cồn 5% - Sản phẩm Tiger Platinum Wheat Lager có nồng độ cồn 4.5%.\nĐã uống thức uống có cồn thì không được lái xe.\nUỐNG BIA CÓ TRÁCH NHIỆM. DRINK RESPONSIBLY\n \nChào đón siêu phẩm Galaxy S25 Ultra – Đa nhiệm tối ưu nhờ Galaxy AI hiểu tiếng Việt🔥\n✨Lì xì 2 triệu đồng\n✨Thu cũ trợ giá 2 triệu đồng\n✨Trả góp lãi suất 0%\n \nĐặt trước ngay: http://smsng.co/6008axny2\n#GalaxyAI #GalaxyS25 #GalaxyS25Ultra #Samsung \n\nĐăng ký hội viên ngay nào👇:\nhttps://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw/join\n\n★ Mọi nhu cầu quảng cáo và tài trợ xin liên hệ: Công Ty Cổ Phần Vie Channel\n► Hotline: 0907.950.371 (Mr. Đức Khoa)\n► Email: khoa.nguyen@viechannel.vn hoặc sales@viechannel.vn\n\n📣 Đừng quên subscribe để xem thật nhiều phim mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieChannelHTV2\n\n\n\nXem các chương trình hấp dẫn khác của Vie Channel:\n►Anh Trai Say Hi Full: https://bit.ly/AnhTraiSayHi\n►Rap Việt Full: https://bit.ly/RAPVIETSS3\n►Người Ấy Là Ai Full: https://bit.ly/NALASS5\n►The Masked Singer Vietnam Full: https://bit.ly/TMSVNSS2\n\nHoặc xem thêm trên hệ thống Vie Channel:\n►Website: http://viechannel.vn/\n►Fanpage: https://www.facebook.com/VieChannelHTV2/\n►Instagram: https://www.instagram.com/viechannelhtv2/",
+      "translatedText": "Sóng 25 - Đỉnh Sóng Dẫn Đầu - Chương trình giải trí âm nhạc Đêm Giao Thừa 2025\n\n#Sóng25 #SóngXuân​ #XuânẤtTỵ\n#TrấnThành #anhtrai #anhtraisayhi #song25\n#VieChannel #VieGIẢITRÍ​ #VieGIAITRI​ #VieON \n\nTiger trên tay - Giao thừa đón Sóng\nCùng nhau khai xuân bản lĩnh nào các mãnh hổ ơi!\nMua ngay: https://bit.ly/TigerBeer_Song25\n\n#Tigerbeer \n#Satcanhgamvang #Khaixuanbanlinh\n-----------\nSản phẩm Tiger Crystal có nồng độ cồn 4.6% - Sản phẩm Tiger Regular có nồng độ cồn 5% - Sản phẩm Tiger Platinum Wheat Lager có nồng độ cồn 4.5%.\nĐã uống thức uống có cồn thì không được lái xe.\nUỐNG BIA CÓ TRÁCH NHIỆM. DRINK RESPONSIBLY\n \nChào đón siêu phẩm Galaxy S25 Ultra – Đa nhiệm tối ưu nhờ Galaxy AI hiểu tiếng Việt🔥\n✨Lì xì 2 triệu đồng\n✨Thu cũ trợ giá 2 triệu đồng\n✨Trả góp lãi suất 0%\n \nĐặt trước ngay: http://smsng.co/6008axny2\n#GalaxyAI #GalaxyS25 #GalaxyS25Ultra #Samsung \n\nĐăng ký hội viên ngay nào👇:\n   / @viechannelofficial  \n\n★ Mọi nhu cầu quảng cáo và tài trợ xin liên hệ: Công Ty Cổ Phần Vie Channel\n► Hotline: 0907.950.371 (Mr. Đức Khoa)\n► Email: khoa.nguyen@viechannel.vn hoặc sales@viechannel.vn\n\n📣 Đừng quên subscribe để xem thật nhiều phim mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieChannelHTV2\n\n\n\nXem các chương trình hấp dẫn khác của Vie Channel:\n►Anh Trai Say Hi Full: https://bit.ly/AnhTraiSayHi\n►Rap Việt Full: https://bit.ly/RAPVIETSS3\n►Người Ấy Là Ai Full: https://bit.ly/NALASS5\n►The Masked Singer Vietnam Full: https://bit.ly/TMSVNSS2\n\nHoặc xem thêm trên hệ thống Vie Channel:\n►Website: http://viechannel.vn/\n►Fanpage:   / viechannelhtv2  \n►Instagram:   / viechannelhtv2  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ng25",
+          "text": "#Sóng25"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ngxu%C3%A2n",
+          "text": "#SóngXuân​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/xu%C3%A2n%E1%BA%A5tt%E1%BB%B5",
+          "text": "#XuânẤtTỵ"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tr%E1%BA%A5nth%C3%A0nh",
+          "text": "#TrấnThành"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtrai",
+          "text": "#anhtrai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtraisayhi",
+          "text": "#anhtraisayhi"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song25",
+          "text": "#song25"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viechannel",
+          "text": "#VieChannel"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viegi%E1%BA%A3itr%C3%AD",
+          "text": "#VieGIẢITRÍ​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viegiaitri",
+          "text": "#VieGIAITRI​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vieon",
+          "text": "#VieON"
+        },
+        {
+          "url": "https://bit.ly/TigerBeer_Song25",
+          "text": "https://bit.ly/TigerBeer_Song25"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tigerbeer",
+          "text": "#Tigerbeer"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/satcanhgamvang",
+          "text": "#Satcanhgamvang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/khaixuanbanlinh",
+          "text": "#Khaixuanbanlinh"
+        },
+        {
+          "url": "http://smsng.co/6008axny2",
+          "text": "http://smsng.co/6008axny2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/galaxyai",
+          "text": "#GalaxyAI"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/galaxys25",
+          "text": "#GalaxyS25"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/galaxys25ultra",
+          "text": "#GalaxyS25Ultra"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/samsung",
+          "text": "#Samsung"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw/join",
+          "text": "   / @viechannelofficial  "
+        },
+        {
+          "url": "http://bit.ly/VieChannelHTV2",
+          "text": "http://bit.ly/VieChannelHTV2"
+        },
+        {
+          "url": "https://bit.ly/AnhTraiSayHi",
+          "text": "https://bit.ly/AnhTraiSayHi"
+        },
+        {
+          "url": "https://bit.ly/RAPVIETSS3",
+          "text": "https://bit.ly/RAPVIETSS3"
+        },
+        {
+          "url": "https://bit.ly/NALASS5",
+          "text": "https://bit.ly/NALASS5"
+        },
+        {
+          "url": "https://bit.ly/TMSVNSS2",
+          "text": "https://bit.ly/TMSVNSS2"
+        },
+        {
+          "url": "http://viechannel.vn/",
+          "text": "http://viechannel.vn/"
+        },
+        {
+          "url": "https://www.facebook.com/VieChannelHTV2/",
+          "text": "  / viechannelhtv2  "
+        },
+        {
+          "url": "https://www.instagram.com/viechannelhtv2/",
+          "text": "  / viechannelhtv2  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 3,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=S%C3%B3ng+21+ch%C6%B0%C6%A1ng+tr%C3%ACnh+%C4%91%C3%AAm+giao+th%E1%BB%ABa+full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [
+        "#VieGIẢITRÍ​",
+        "#Tigerbeer",
+        "#anhtraisayhi"
+      ],
+      "isMembersOnly": false,
+      "input": "Sóng 21 chương trình đêm giao thừa full",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sóng 21 - Chương 1: Mashup Trấn Thành, Erik, Đức Phúc & loạt hit Hiền Hồ, Hoàng Dũng, Amee, Quân A.P",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "YJiyJuTUxzg",
+      "url": "https://www.youtube.com/watch?v=YJiyJuTUxzg",
+      "thumbnailUrl": "https://i.ytimg.com/vi/YJiyJuTUxzg/maxresdefault.jpg",
+      "viewCount": 6929,
+      "date": "2021-02-13T13:00:07.000Z",
+      "likes": 101,
+      "location": null,
+      "channelName": "Vie GIẢITRÍ",
+      "channelUrl": "https://www.youtube.com/@VieGI%E1%BA%A2ITR%C3%8D",
+      "channelUsername": "VieGI%E1%BA%A2ITR%C3%8D",
+      "collaborators": null,
+      "channelId": "UC2Lgi2uPsOcCVF3imz7l2mg",
+      "numberOfSubscribers": 3130000,
+      "duration": "00:30:17",
+      "commentsCount": 6,
+      "text": "Đón xem Sóng 21 được phát sóng đồng thời  trên 3 kênh truyền hình Vie Channel – HTV2, Vie GiảiTrí, Vie Dramas và siêu ứng dụng VieON vào đêm Giao thừa Tết Tân Sửu 2021.\n\nVũ điệu rửa tay nằm trong chiến dịch truyền thông phòng chống dịch COVID-19 của Viện sức khỏe nghề nghiệp và môi trường (NIOEH) thuộc Bộ Y Tế.\n\n#Sóng21​ #SóngXuân​ #VieChannelHTV2\n#Song_21 #Song_Xuan #Xuan_Canh_Suu\n\n#VieChannel_HTV2 #VieGIẢITRÍ​ #VieGIAITRI​ #VieON\n\n\n📣 Đừng quên subscribe để xem thật nhiều chương trình mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieGIẢITRÍ\n\nXem các chương trình hấp dẫn khác của Vie GIẢITRÍ:\n►Siêu Trí Tuệ Full: https://bit.ly/SieuTriTue_Mua2_Full\n►Ai Là Số 1 Full: https://bit.ly/2xMrL9I\n►Đưa Em Về Nhà: https://bit.ly/3bRRzAh\n►Người Ấy Là Ai Full: http://bit.ly/2AQHuDT\n►Nhanh Như Chớp Nhí Full: https://bit.ly/2ANAYjb\n►Gạo Nếp Gạo Tẻ Full: http://bit.ly/2qyKoag\n►Phiên Tòa Tình Yêu Full: http://bit.ly/2F8ataA\n\nXem thêm trên hệ thống Vie GIẢITRÍ:\n►Website: https://giaitritv.vn\n►Fanpage: https://www.facebook.com/VieGIAITRI",
+      "translatedText": "Đón xem Sóng 21 được phát sóng đồng thời  trên 3 kênh truyền hình Vie Channel – HTV2, Vie GiảiTrí, Vie Dramas và siêu ứng dụng VieON vào đêm Giao thừa Tết Tân Sửu 2021.\n\nVũ điệu rửa tay nằm trong chiến dịch truyền thông phòng chống dịch COVID-19 của Viện sức khỏe nghề nghiệp và môi trường (NIOEH) thuộc Bộ Y Tế.\n\n#Sóng21​ #SóngXuân​ #VieChannelHTV2\n#Song_21 #Song_Xuan #Xuan_Canh_Suu\n\n#VieChannel_HTV2 #VieGIẢITRÍ​ #VieGIAITRI​ #VieON\n\n\n📣 Đừng quên subscribe để xem thật nhiều chương trình mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieGIẢITRÍ\n\nXem các chương trình hấp dẫn khác của Vie GIẢITRÍ:\n►Siêu Trí Tuệ Full: https://bit.ly/SieuTriTue_Mua2_Full\n►Ai Là Số 1 Full: https://bit.ly/2xMrL9I\n►Đưa Em Về Nhà: https://bit.ly/3bRRzAh\n►Người Ấy Là Ai Full: http://bit.ly/2AQHuDT\n►Nhanh Như Chớp Nhí Full: https://bit.ly/2ANAYjb\n►Gạo Nếp Gạo Tẻ Full: http://bit.ly/2qyKoag\n►Phiên Tòa Tình Yêu Full: http://bit.ly/2F8ataA\n\nXem thêm trên hệ thống Vie GIẢITRÍ:\n►Website: https://giaitritv.vn\n►Fanpage:   / viegiaitri  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ng21",
+          "text": "#Sóng21​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ngxu%C3%A2n",
+          "text": "#SóngXuân​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viechannelhtv2",
+          "text": "#VieChannelHTV2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song_21",
+          "text": "#Song_21"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song_xuan",
+          "text": "#Song_Xuan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/xuan_canh_suu",
+          "text": "#Xuan_Canh_Suu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viechannel_htv2",
+          "text": "#VieChannel_HTV2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viegi%E1%BA%A3itr%C3%AD",
+          "text": "#VieGIẢITRÍ​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viegiaitri",
+          "text": "#VieGIAITRI​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vieon",
+          "text": "#VieON"
+        },
+        {
+          "url": "http://bit.ly/VieGIẢITRÍ",
+          "text": "http://bit.ly/VieGIẢITRÍ"
+        },
+        {
+          "url": "https://bit.ly/SieuTriTue_Mua2_Full",
+          "text": "https://bit.ly/SieuTriTue_Mua2_Full"
+        },
+        {
+          "url": "https://bit.ly/2xMrL9I",
+          "text": "https://bit.ly/2xMrL9I"
+        },
+        {
+          "url": "https://bit.ly/3bRRzAh",
+          "text": "https://bit.ly/3bRRzAh"
+        },
+        {
+          "url": "http://bit.ly/2AQHuDT",
+          "text": "http://bit.ly/2AQHuDT"
+        },
+        {
+          "url": "https://bit.ly/2ANAYjb",
+          "text": "https://bit.ly/2ANAYjb"
+        },
+        {
+          "url": "http://bit.ly/2qyKoag",
+          "text": "http://bit.ly/2qyKoag"
+        },
+        {
+          "url": "http://bit.ly/2F8ataA",
+          "text": "http://bit.ly/2F8ataA"
+        },
+        {
+          "url": "https://giaitritv.vn/",
+          "text": "https://giaitritv.vn"
+        },
+        {
+          "url": "https://www.facebook.com/VieGIAITRI",
+          "text": "  / viegiaitri  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 7,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=S%C3%B3ng+21+ch%C6%B0%C6%A1ng+tr%C3%ACnh+%C4%91%C3%AAm+giao+th%E1%BB%ABa+full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [
+        "#VieGIẢITRÍ​",
+        "#VieChannelHTV2",
+        "#VieON"
+      ],
+      "isMembersOnly": false,
+      "input": "Sóng 21 chương trình đêm giao thừa full",
+      "isPaidContent": false
+    },
+    {
+      "title": "TRAILER SÓNG 21| JACK, THẦY TRÒ WOWY, DẾ CHOẮT & 100 NGHỆ SĨ ĐỔ BỘ SÂN KHẤU KHỦNG NHẤT ĐÊM GIAO THỪA",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "fnIaGIH5rpI",
+      "url": "https://www.youtube.com/watch?v=fnIaGIH5rpI",
+      "thumbnailUrl": "https://i.ytimg.com/vi/fnIaGIH5rpI/maxresdefault.jpg",
+      "viewCount": 16854,
+      "date": "2021-02-05T11:30:11.000Z",
+      "likes": 205,
+      "location": null,
+      "channelName": "DEEP TV",
+      "channelUrl": "https://www.youtube.com/@DEEPTV22",
+      "channelUsername": "DEEPTV22",
+      "collaborators": null,
+      "channelId": "UCE1Ju7rxDbd49aMcftcfRpg",
+      "numberOfSubscribers": 294000,
+      "duration": "00:01:45",
+      "commentsCount": 24,
+      "text": "#𝗧𝗿𝗮𝗻𝗧𝗵𝗮𝗻𝗵 #Song21 #𝗧𝗿𝗮𝗻𝗧𝗵𝗮𝗻𝗵𝗕𝗲𝘀𝘁𝗖𝗼𝗹𝗹𝗲𝗰𝘁𝗶𝗼𝗻 #𝗩𝗶𝗲𝗡𝗲𝘁𝘄𝗼𝗿𝗸 #Sóng21\nTRAILER SÓNG 21| JACK, THẦY TRÒ WOWY, DẾ CHOẮT & 100 NGHỆ SĨ ĐỔ BỘ SÂN KHẤU KHỦNG NHẤT ĐÊM GIAO THỪA\n\n♥ 𝓣𝓻𝓪̂́𝓷 𝓣𝓱𝓪̀𝓷𝓱 𝓑𝓮𝓼𝓽 𝓒𝓸𝓵𝓵𝓮𝓬𝓽𝓲𝓸𝓷: \n©️ Mọi nội dung thuộc quyền sở hữu của VieNetwork, đề nghị không được re-up dưới mọi hình thức.",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/tranthanh",
+          "text": "#𝗧𝗿𝗮𝗻𝗧𝗵𝗮𝗻𝗵"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song21",
+          "text": "#Song21"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tranthanhbestcollection",
+          "text": "#𝗧𝗿𝗮𝗻𝗧𝗵𝗮𝗻𝗵𝗕𝗲𝘀𝘁𝗖𝗼𝗹𝗹𝗲𝗰𝘁𝗶𝗼𝗻"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vienetwork",
+          "text": "#𝗩𝗶𝗲𝗡𝗲𝘁𝘄𝗼𝗿𝗸"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ng21",
+          "text": "#Sóng21"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 10,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=S%C3%B3ng+21+ch%C6%B0%C6%A1ng+tr%C3%ACnh+%C4%91%C3%AAm+giao+th%E1%BB%ABa+full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [
+        "#𝗧𝗿𝗮𝗻𝗧𝗵𝗮𝗻𝗵",
+        "#𝗩𝗶𝗲𝗡𝗲𝘁𝘄𝗼𝗿𝗸",
+        "#Song21"
+      ],
+      "isMembersOnly": false,
+      "input": "Sóng 21 chương trình đêm giao thừa full",
+      "isPaidContent": false
+    },
+    {
+      "title": "Suni Hạ Linh - Chillies kết hợp cực ăn ý trong ca khúc cực hot Cứ Chill Thôi| SÓNG 21",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "O3gwIWZ0i3U",
+      "url": "https://www.youtube.com/watch?v=O3gwIWZ0i3U&list=RDO3gwIWZ0i3U&start_radio=1",
+      "thumbnailUrl": "https://i.ytimg.com/vi/O3gwIWZ0i3U/maxresdefault.jpg",
+      "viewCount": 12816,
+      "date": "2021-02-17T11:00:07.000Z",
+      "likes": 161,
+      "location": null,
+      "channelName": "Vie GIẢITRÍ",
+      "channelUrl": "https://www.youtube.com/@VieGI%E1%BA%A2ITR%C3%8D",
+      "channelUsername": "VieGI%E1%BA%A2ITR%C3%8D",
+      "collaborators": null,
+      "channelId": "UC2Lgi2uPsOcCVF3imz7l2mg",
+      "numberOfSubscribers": 3130000,
+      "duration": "00:08:59",
+      "commentsCount": 5,
+      "text": "Đón xem Sóng 21 được phát sóng đồng thời  trên 3 kênh truyền hình Vie Channel – HTV2, Vie GiảiTrí, Vie Dramas và siêu ứng dụng VieON vào đêm Giao thừa Tết Tân Sửu 2021.\n\n#Sóng21​ #SóngXuân​ #VieChannelHTV2\n#Song_21 #Song_Xuan #Xuan_Canh_Suu\n\n#VieChannel_HTV2 #VieGIẢITRÍ​ #VieGIAITRI​ #VieON\n\n\n📣 Đừng quên subscribe để xem thật nhiều chương trình mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieGIẢITRÍ\n\nXem các chương trình hấp dẫn khác của Vie GIẢITRÍ:\n►Siêu Trí Tuệ Full: https://bit.ly/SieuTriTue_Mua2_Full\n►Ai Là Số 1 Full: https://bit.ly/2xMrL9I\n►Đưa Em Về Nhà: https://bit.ly/3bRRzAh\n►Người Ấy Là Ai Full: http://bit.ly/2AQHuDT\n►Nhanh Như Chớp Nhí Full: https://bit.ly/2ANAYjb\n►Gạo Nếp Gạo Tẻ Full: http://bit.ly/2qyKoag\n►Phiên Tòa Tình Yêu Full: http://bit.ly/2F8ataA\n\nXem thêm trên hệ thống Vie GIẢITRÍ:\n►Website: https://giaitritv.vn\n►Fanpage: https://www.facebook.com/VieGIAITRI",
+      "translatedText": "Đón xem Sóng 21 được phát sóng đồng thời  trên 3 kênh truyền hình Vie Channel – HTV2, Vie GiảiTrí, Vie Dramas và siêu ứng dụng VieON vào đêm Giao thừa Tết Tân Sửu 2021.\n\n#Sóng21​ #SóngXuân​ #VieChannelHTV2\n#Song_21 #Song_Xuan #Xuan_Canh_Suu\n\n#VieChannel_HTV2 #VieGIẢITRÍ​ #VieGIAITRI​ #VieON\n\n\n📣 Đừng quên subscribe để xem thật nhiều chương trình mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieGIẢITRÍ\n\nXem các chương trình hấp dẫn khác của Vie GIẢITRÍ:\n►Siêu Trí Tuệ Full: https://bit.ly/SieuTriTue_Mua2_Full\n►Ai Là Số 1 Full: https://bit.ly/2xMrL9I\n►Đưa Em Về Nhà: https://bit.ly/3bRRzAh\n►Người Ấy Là Ai Full: http://bit.ly/2AQHuDT\n►Nhanh Như Chớp Nhí Full: https://bit.ly/2ANAYjb\n►Gạo Nếp Gạo Tẻ Full: http://bit.ly/2qyKoag\n►Phiên Tòa Tình Yêu Full: http://bit.ly/2F8ataA\n\nXem thêm trên hệ thống Vie GIẢITRÍ:\n►Website: https://giaitritv.vn\n►Fanpage:   / viegiaitri  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ng21",
+          "text": "#Sóng21​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ngxu%C3%A2n",
+          "text": "#SóngXuân​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viechannelhtv2",
+          "text": "#VieChannelHTV2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song_21",
+          "text": "#Song_21"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song_xuan",
+          "text": "#Song_Xuan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/xuan_canh_suu",
+          "text": "#Xuan_Canh_Suu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viechannel_htv2",
+          "text": "#VieChannel_HTV2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viegi%E1%BA%A3itr%C3%AD",
+          "text": "#VieGIẢITRÍ​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viegiaitri",
+          "text": "#VieGIAITRI​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vieon",
+          "text": "#VieON"
+        },
+        {
+          "url": "http://bit.ly/VieGIẢITRÍ",
+          "text": "http://bit.ly/VieGIẢITRÍ"
+        },
+        {
+          "url": "https://bit.ly/SieuTriTue_Mua2_Full",
+          "text": "https://bit.ly/SieuTriTue_Mua2_Full"
+        },
+        {
+          "url": "https://bit.ly/2xMrL9I",
+          "text": "https://bit.ly/2xMrL9I"
+        },
+        {
+          "url": "https://bit.ly/3bRRzAh",
+          "text": "https://bit.ly/3bRRzAh"
+        },
+        {
+          "url": "http://bit.ly/2AQHuDT",
+          "text": "http://bit.ly/2AQHuDT"
+        },
+        {
+          "url": "https://bit.ly/2ANAYjb",
+          "text": "https://bit.ly/2ANAYjb"
+        },
+        {
+          "url": "http://bit.ly/2qyKoag",
+          "text": "http://bit.ly/2qyKoag"
+        },
+        {
+          "url": "http://bit.ly/2F8ataA",
+          "text": "http://bit.ly/2F8ataA"
+        },
+        {
+          "url": "https://giaitritv.vn/",
+          "text": "https://giaitritv.vn"
+        },
+        {
+          "url": "https://www.facebook.com/VieGIAITRI",
+          "text": "  / viegiaitri  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 29,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=S%C3%B3ng+21+ch%C6%B0%C6%A1ng+tr%C3%ACnh+%C4%91%C3%AAm+giao+th%E1%BB%ABa+full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [
+        "#VieGIẢITRÍ​",
+        "#VieChannelHTV2",
+        "#VieON"
+      ],
+      "isMembersOnly": false,
+      "input": "Sóng 21 chương trình đêm giao thừa full",
+      "isPaidContent": false
+    },
+    {
+      "title": "Phan Mạnh Quỳnh luyện tập cực chăm chỉ cho tiết mục ý nghĩa đêm Giao Thừa 2021| SÓNG 21",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "KMHbZxk-B1s",
+      "url": "https://www.youtube.com/watch?v=KMHbZxk-B1s",
+      "thumbnailUrl": "https://i.ytimg.com/vi/KMHbZxk-B1s/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGFYgZShLMA8=&rs=AOn4CLAbYXYDD_sA2cZ_KUe-mhZ5QlCp-A",
+      "viewCount": 827,
+      "date": "2021-02-15T12:00:06.000Z",
+      "likes": 9,
+      "location": null,
+      "channelName": "Vie GIẢITRÍ",
+      "channelUrl": "https://www.youtube.com/@VieGI%E1%BA%A2ITR%C3%8D",
+      "channelUsername": "VieGI%E1%BA%A2ITR%C3%8D",
+      "collaborators": null,
+      "channelId": "UC2Lgi2uPsOcCVF3imz7l2mg",
+      "numberOfSubscribers": 3130000,
+      "duration": "00:05:22",
+      "commentsCount": 0,
+      "text": "Đón xem SỐ ĐỘC ĐẮC lúc 20h Thứ 5 & Thứ 6 hàng tuần trên kênh truyền hình Vie Channel - HTV2, 21h Vie GIẢITRÍ và ứng dụng VieON từ 14.01.2021\n\n#SốĐộcĐắc #SoDocDac #VieChannelHTV2 #PhimViệt2021 \n\n\nCảm ơn 3 Nhà Tài Trợ Chính đã đồng hành cùng bộ phim :\n#OMO #LờiChúcHóaHànhĐộng\n#Lifebuoy #LifebuoyƯớc10Được10\n#KHOIGIANBEPAM #DONTETANNHIEN\n\n#Số_Độc_Đắc là câu chuyện xoay quanh hành trình lãnh giải độc đắc ly kỳ và đầy những tình huống dở khóc dở cười của Thiên (Jun_Phạm), song song với việc bí mật chuẩn bị một món quà bất ngờ cho mẹ trong những ngày gia đình tất bật đón năm mới.\n\nPhát sóng từ ngày 14/01, #Số_Độc_Đắc là bộ phim Tết phát sóng sớm nhất trên sóng truyền hình tính đến thời điểm này.\nHành trình nhận giải thưởng 2 tỷ đồng gian nan, nhiều bi hài, nhiều yếu tố hành động hài hước của Thiên sẽ đến với khán giả trước thềm năm mới, cùng khán giả đón Tết vui nhộn và đầy may mắn.\n\n📣 Đừng quên subscribe để xem thật nhiều chương trình mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieGIẢITRÍ\n\nXem các chương trình hấp dẫn khác của Vie GIẢITRÍ:\n►Siêu Trí Tuệ Full: https://bit.ly/SieuTriTue_Mua2_Full\n►Ai Là Số 1 Full: https://bit.ly/2xMrL9I\n►Đưa Em Về Nhà: https://bit.ly/3bRRzAh\n►Người Ấy Là Ai Full: http://bit.ly/2AQHuDT\n►Nhanh Như Chớp Nhí Full: https://bit.ly/2ANAYjb\n►Gạo Nếp Gạo Tẻ Full: http://bit.ly/2qyKoag\n►Phiên Tòa Tình Yêu Full: http://bit.ly/2F8ataA\n\nXem thêm trên hệ thống Vie GIẢITRÍ:\n►Website: https://giaitritv.vn\n►Fanpage: https://www.facebook.com/VieGIAITRI",
+      "translatedText": "Đón xem SỐ ĐỘC ĐẮC lúc 20h Thứ 5 & Thứ 6 hàng tuần trên kênh truyền hình Vie Channel - HTV2, 21h Vie GIẢITRÍ và ứng dụng VieON từ 14.01.2021\n\n#SốĐộcĐắc #SoDocDac #VieChannelHTV2 #PhimViệt2021 \n\n\nCảm ơn 3 Nhà Tài Trợ Chính đã đồng hành cùng bộ phim :\n#OMO #LờiChúcHóaHànhĐộng\n#Lifebuoy #LifebuoyƯớc10Được10\n#KHOIGIANBEPAM #DONTETANNHIEN\n\n#Số_Độc_Đắc là câu chuyện xoay quanh hành trình lãnh giải độc đắc ly kỳ và đầy những tình huống dở khóc dở cười của Thiên (Jun_Phạm), song song với việc bí mật chuẩn bị một món quà bất ngờ cho mẹ trong những ngày gia đình tất bật đón năm mới.\n\nPhát sóng từ ngày 14/01, #Số_Độc_Đắc là bộ phim Tết phát sóng sớm nhất trên sóng truyền hình tính đến thời điểm này.\nHành trình nhận giải thưởng 2 tỷ đồng gian nan, nhiều bi hài, nhiều yếu tố hành động hài hước của Thiên sẽ đến với khán giả trước thềm năm mới, cùng khán giả đón Tết vui nhộn và đầy may mắn.\n\n📣 Đừng quên subscribe để xem thật nhiều chương trình mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieGIẢITRÍ\n\nXem các chương trình hấp dẫn khác của Vie GIẢITRÍ:\n►Siêu Trí Tuệ Full: https://bit.ly/SieuTriTue_Mua2_Full\n►Ai Là Số 1 Full: https://bit.ly/2xMrL9I\n►Đưa Em Về Nhà: https://bit.ly/3bRRzAh\n►Người Ấy Là Ai Full: http://bit.ly/2AQHuDT\n►Nhanh Như Chớp Nhí Full: https://bit.ly/2ANAYjb\n►Gạo Nếp Gạo Tẻ Full: http://bit.ly/2qyKoag\n►Phiên Tòa Tình Yêu Full: http://bit.ly/2F8ataA\n\nXem thêm trên hệ thống Vie GIẢITRÍ:\n►Website: https://giaitritv.vn\n►Fanpage:   / viegiaitri  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/s%E1%BB%91%C4%91%E1%BB%99c%C4%91%E1%BA%AFc",
+          "text": "#SốĐộcĐắc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/sodocdac",
+          "text": "#SoDocDac"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viechannelhtv2",
+          "text": "#VieChannelHTV2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phimvi%E1%BB%87t2021",
+          "text": "#PhimViệt2021"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/omo",
+          "text": "#OMO"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%E1%BB%9Dich%C3%BAch%C3%B3ah%C3%A0nh%C4%91%E1%BB%99ng",
+          "text": "#LờiChúcHóaHànhĐộng"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lifebuoy",
+          "text": "#Lifebuoy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lifebuoy%C6%B0%E1%BB%9Bc10%C4%91%C6%B0%E1%BB%A3c10",
+          "text": "#LifebuoyƯớc10Được10"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/khoigianbepam",
+          "text": "#KHOIGIANBEPAM"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dontetannhien",
+          "text": "#DONTETANNHIEN"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/s%E1%BB%91_%C4%91%E1%BB%99c_%C4%91%E1%BA%AFc",
+          "text": "#Số_Độc_Đắc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/s%E1%BB%91_%C4%91%E1%BB%99c_%C4%91%E1%BA%AFc",
+          "text": "#Số_Độc_Đắc"
+        },
+        {
+          "url": "http://bit.ly/VieGIẢITRÍ",
+          "text": "http://bit.ly/VieGIẢITRÍ"
+        },
+        {
+          "url": "https://bit.ly/SieuTriTue_Mua2_Full",
+          "text": "https://bit.ly/SieuTriTue_Mua2_Full"
+        },
+        {
+          "url": "https://bit.ly/2xMrL9I",
+          "text": "https://bit.ly/2xMrL9I"
+        },
+        {
+          "url": "https://bit.ly/3bRRzAh",
+          "text": "https://bit.ly/3bRRzAh"
+        },
+        {
+          "url": "http://bit.ly/2AQHuDT",
+          "text": "http://bit.ly/2AQHuDT"
+        },
+        {
+          "url": "https://bit.ly/2ANAYjb",
+          "text": "https://bit.ly/2ANAYjb"
+        },
+        {
+          "url": "http://bit.ly/2qyKoag",
+          "text": "http://bit.ly/2qyKoag"
+        },
+        {
+          "url": "http://bit.ly/2F8ataA",
+          "text": "http://bit.ly/2F8ataA"
+        },
+        {
+          "url": "https://giaitritv.vn/",
+          "text": "https://giaitritv.vn"
+        },
+        {
+          "url": "https://www.facebook.com/VieGIAITRI",
+          "text": "  / viegiaitri  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 24,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=S%C3%B3ng+21+ch%C6%B0%C6%A1ng+tr%C3%ACnh+%C4%91%C3%AAm+giao+th%E1%BB%ABa+full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [
+        "#Lifebuoy",
+        "#OMO",
+        "#VieChannelHTV2"
+      ],
+      "isMembersOnly": false,
+      "input": "Sóng 21 chương trình đêm giao thừa full",
+      "isPaidContent": false
+    },
+    {
+      "title": "Jack j97 xuất hiện trong trương trình Sóng 21 Đêm giao thừa tết 2021.",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "J0KYHXjnmIw",
+      "url": "https://www.youtube.com/watch?v=J0KYHXjnmIw&list=RDJ0KYHXjnmIw&start_radio=1",
+      "thumbnailUrl": "https://i.ytimg.com/vi/J0KYHXjnmIw/hqdefault.jpg",
+      "viewCount": 1104,
+      "date": "2021-02-09T02:16:50.000Z",
+      "likes": 0,
+      "location": null,
+      "channelName": "Sao nam canh",
+      "channelUrl": "https://www.youtube.com/@saonamcanh5094",
+      "channelUsername": "saonamcanh5094",
+      "collaborators": null,
+      "channelId": "UC-o847cPVtL4lBRCPdwweTg",
+      "numberOfSubscribers": 40,
+      "duration": "00:01:17",
+      "commentsCount": 2,
+      "text": "#jackj97#jack2021#saonamcanh#song21#\nĐón xem Sóng 21 được phát sóng đồng thời trên 3 kênh truyền hình Vie Channel – HTV2, Vie GiảiTrí, Vie Dramas và siêu ứng dụng VieON vào đêm Giao thừa Tết Tân Sửu 2021. #Sóng21​ #SóngXuân​ #VieChannelHTV2 #Song_21 #Song_Xuan #Xuan_Canh_Suu #VieChannel_HTV2 #VieGIẢITRÍ​ #VieGIAITRI​ #VieON 📣 Đừng quên subscribe để xem thật nhiều phim mới nhé! 🎈 Subscribe ngay: http://bit.ly/VieChannelHTV2 Xem các chương trình hấp dẫn khác của Vie Channel - HTV2: ►Siêu Trí Tuệ Full: https://bit.ly/SieuTriTue_Mua2_Full ►Rap Việt Full: http://bit.ly/RAPVIET_official_playlistFULL ►Người Ấy Là Ai Full: https://bit.ly/2XnUnQJ ►Hải Đường Trong Gió Full: https://bit.ly/31iPKZA ►Nhanh Như Chớp Nhí Full: https://bit.ly/2EC1m1Q ►Ai Là Số 1 Full: https://bit.ly/2xMrL9I ►Đưa Em Về Nhà Full: https://bit.ly/3bRRzAh Hoặc xem thêm trên hệ thống Vie Channel - HTV2: ►Website: http://viechannel.vn/ ►Fanpage: https://www.facebook.com/VieChannelHTV2/ ►Instagram: https://www.instagram.com/viechannelhtv2/",
+      "translatedText": "#jackj97#jack2021#saonamcanh#song21#\nĐón xem Sóng 21 được phát sóng đồng thời trên 3 kênh truyền hình Vie Channel – HTV2, Vie GiảiTrí, Vie Dramas và siêu ứng dụng VieON vào đêm Giao thừa Tết Tân Sửu 2021. #Sóng21​ #SóngXuân​ #VieChannelHTV2 #Song_21 #Song_Xuan #Xuan_Canh_Suu #VieChannel_HTV2 #VieGIẢITRÍ​ #VieGIAITRI​ #VieON 📣 Đừng quên subscribe để xem thật nhiều phim mới nhé! 🎈 Subscribe ngay: http://bit.ly/VieChannelHTV2 Xem các chương trình hấp dẫn khác của Vie Channel - HTV2: ►Siêu Trí Tuệ Full: https://bit.ly/SieuTriTue_Mua2_Full ►Rap Việt Full: http://bit.ly/RAPVIET_official_playli... ►Người Ấy Là Ai Full: https://bit.ly/2XnUnQJ ►Hải Đường Trong Gió Full: https://bit.ly/31iPKZA ►Nhanh Như Chớp Nhí Full: https://bit.ly/2EC1m1Q ►Ai Là Số 1 Full: https://bit.ly/2xMrL9I ►Đưa Em Về Nhà Full: https://bit.ly/3bRRzAh Hoặc xem thêm trên hệ thống Vie Channel - HTV2: ►Website: http://viechannel.vn/ ►Fanpage:   / viechannelhtv2   ►Instagram:   / viechannelhtv2  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/jackj97",
+          "text": "#jackj97"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/jack2021",
+          "text": "#jack2021"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonamcanh",
+          "text": "#saonamcanh"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song21",
+          "text": "#song21"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ng21",
+          "text": "#Sóng21​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ngxu%C3%A2n",
+          "text": "#SóngXuân​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viechannelhtv2",
+          "text": "#VieChannelHTV2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song_21",
+          "text": "#Song_21"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song_xuan",
+          "text": "#Song_Xuan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/xuan_canh_suu",
+          "text": "#Xuan_Canh_Suu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viechannel_htv2",
+          "text": "#VieChannel_HTV2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viegi%E1%BA%A3itr%C3%AD",
+          "text": "#VieGIẢITRÍ​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viegiaitri",
+          "text": "#VieGIAITRI​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vieon",
+          "text": "#VieON"
+        },
+        {
+          "url": "http://bit.ly/VieChannelHTV2",
+          "text": "http://bit.ly/VieChannelHTV2"
+        },
+        {
+          "url": "https://bit.ly/SieuTriTue_Mua2_Full",
+          "text": "https://bit.ly/SieuTriTue_Mua2_Full"
+        },
+        {
+          "url": "http://bit.ly/RAPVIET_official_playlistFULL",
+          "text": "http://bit.ly/RAPVIET_official_playli..."
+        },
+        {
+          "url": "https://bit.ly/2XnUnQJ",
+          "text": "https://bit.ly/2XnUnQJ"
+        },
+        {
+          "url": "https://bit.ly/31iPKZA",
+          "text": "https://bit.ly/31iPKZA"
+        },
+        {
+          "url": "https://bit.ly/2EC1m1Q",
+          "text": "https://bit.ly/2EC1m1Q"
+        },
+        {
+          "url": "https://bit.ly/2xMrL9I",
+          "text": "https://bit.ly/2xMrL9I"
+        },
+        {
+          "url": "https://bit.ly/3bRRzAh",
+          "text": "https://bit.ly/3bRRzAh"
+        },
+        {
+          "url": "http://viechannel.vn/",
+          "text": "http://viechannel.vn/"
+        },
+        {
+          "url": "https://www.facebook.com/VieChannelHTV2/",
+          "text": "  / viechannelhtv2  "
+        },
+        {
+          "url": "https://www.instagram.com/viechannelhtv2/",
+          "text": "  / viechannelhtv2  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 22,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=S%C3%B3ng+21+ch%C6%B0%C6%A1ng+tr%C3%ACnh+%C4%91%C3%AAm+giao+th%E1%BB%ABa+full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [
+        "#VieGIẢITRÍ​",
+        "#jackj97",
+        "#VieChannelHTV2"
+      ],
+      "isMembersOnly": false,
+      "input": "Sóng 21 chương trình đêm giao thừa full",
+      "isPaidContent": false
+    },
+    {
+      "title": "Châu Bùi liên tục dính \"ca khó\", đành cầu cứu gấp JustaTee| SÓNG 21",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "qqro2si2g04",
+      "url": "https://www.youtube.com/watch?v=qqro2si2g04",
+      "thumbnailUrl": "https://i.ytimg.com/vi/qqro2si2g04/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgUyhPMA8=&rs=AOn4CLBNICeWhVx8LYSw-2eL-lkz9wWOXg",
+      "viewCount": 9297,
+      "date": "2021-02-10T14:30:04.000Z",
+      "likes": 120,
+      "location": null,
+      "channelName": "Vie GIẢITRÍ",
+      "channelUrl": "https://www.youtube.com/@VieGI%E1%BA%A2ITR%C3%8D",
+      "channelUsername": "VieGI%E1%BA%A2ITR%C3%8D",
+      "collaborators": null,
+      "channelId": "UC2Lgi2uPsOcCVF3imz7l2mg",
+      "numberOfSubscribers": 3130000,
+      "duration": "00:04:18",
+      "commentsCount": 4,
+      "text": "Đón xem Sóng 21 được phát sóng đồng thời  trên 3 kênh truyền hình Vie Channel – HTV2, Vie GiảiTrí, Vie Dramas và siêu ứng dụng VieON vào đêm Giao thừa Tết Tân Sửu 2021.\n\n#Sóng21​ #SóngXuân​ #VieChannelHTV2\n#Song_21 #Song_Xuan #Xuan_Canh_Suu\n\n#VieChannel_HTV2 #VieGIẢITRÍ​ #VieGIAITRI​ #VieON\n\n\n📣 Đừng quên subscribe để xem thật nhiều chương trình mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieGIẢITRÍ\n\nXem các chương trình hấp dẫn khác của Vie GIẢITRÍ:\n►Siêu Trí Tuệ Full: https://bit.ly/SieuTriTue_Mua2_Full\n►Ai Là Số 1 Full: https://bit.ly/2xMrL9I\n►Đưa Em Về Nhà: https://bit.ly/3bRRzAh\n►Người Ấy Là Ai Full: http://bit.ly/2AQHuDT\n►Nhanh Như Chớp Nhí Full: https://bit.ly/2ANAYjb\n►Gạo Nếp Gạo Tẻ Full: http://bit.ly/2qyKoag\n►Phiên Tòa Tình Yêu Full: http://bit.ly/2F8ataA\n\nXem thêm trên hệ thống Vie GIẢITRÍ:\n►Website: https://giaitritv.vn\n►Fanpage: https://www.facebook.com/VieGIAITRI",
+      "translatedText": "Đón xem Sóng 21 được phát sóng đồng thời  trên 3 kênh truyền hình Vie Channel – HTV2, Vie GiảiTrí, Vie Dramas và siêu ứng dụng VieON vào đêm Giao thừa Tết Tân Sửu 2021.\n\n#Sóng21​ #SóngXuân​ #VieChannelHTV2\n#Song_21 #Song_Xuan #Xuan_Canh_Suu\n\n#VieChannel_HTV2 #VieGIẢITRÍ​ #VieGIAITRI​ #VieON\n\n\n📣 Đừng quên subscribe để xem thật nhiều chương trình mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieGIẢITRÍ\n\nXem các chương trình hấp dẫn khác của Vie GIẢITRÍ:\n►Siêu Trí Tuệ Full: https://bit.ly/SieuTriTue_Mua2_Full\n►Ai Là Số 1 Full: https://bit.ly/2xMrL9I\n►Đưa Em Về Nhà: https://bit.ly/3bRRzAh\n►Người Ấy Là Ai Full: http://bit.ly/2AQHuDT\n►Nhanh Như Chớp Nhí Full: https://bit.ly/2ANAYjb\n►Gạo Nếp Gạo Tẻ Full: http://bit.ly/2qyKoag\n►Phiên Tòa Tình Yêu Full: http://bit.ly/2F8ataA\n\nXem thêm trên hệ thống Vie GIẢITRÍ:\n►Website: https://giaitritv.vn\n►Fanpage:   / viegiaitri  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ng21",
+          "text": "#Sóng21​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ngxu%C3%A2n",
+          "text": "#SóngXuân​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viechannelhtv2",
+          "text": "#VieChannelHTV2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song_21",
+          "text": "#Song_21"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song_xuan",
+          "text": "#Song_Xuan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/xuan_canh_suu",
+          "text": "#Xuan_Canh_Suu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viechannel_htv2",
+          "text": "#VieChannel_HTV2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viegi%E1%BA%A3itr%C3%AD",
+          "text": "#VieGIẢITRÍ​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viegiaitri",
+          "text": "#VieGIAITRI​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vieon",
+          "text": "#VieON"
+        },
+        {
+          "url": "http://bit.ly/VieGIẢITRÍ",
+          "text": "http://bit.ly/VieGIẢITRÍ"
+        },
+        {
+          "url": "https://bit.ly/SieuTriTue_Mua2_Full",
+          "text": "https://bit.ly/SieuTriTue_Mua2_Full"
+        },
+        {
+          "url": "https://bit.ly/2xMrL9I",
+          "text": "https://bit.ly/2xMrL9I"
+        },
+        {
+          "url": "https://bit.ly/3bRRzAh",
+          "text": "https://bit.ly/3bRRzAh"
+        },
+        {
+          "url": "http://bit.ly/2AQHuDT",
+          "text": "http://bit.ly/2AQHuDT"
+        },
+        {
+          "url": "https://bit.ly/2ANAYjb",
+          "text": "https://bit.ly/2ANAYjb"
+        },
+        {
+          "url": "http://bit.ly/2qyKoag",
+          "text": "http://bit.ly/2qyKoag"
+        },
+        {
+          "url": "http://bit.ly/2F8ataA",
+          "text": "http://bit.ly/2F8ataA"
+        },
+        {
+          "url": "https://giaitritv.vn/",
+          "text": "https://giaitritv.vn"
+        },
+        {
+          "url": "https://www.facebook.com/VieGIAITRI",
+          "text": "  / viegiaitri  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 27,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=S%C3%B3ng+21+ch%C6%B0%C6%A1ng+tr%C3%ACnh+%C4%91%C3%AAm+giao+th%E1%BB%ABa+full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [
+        "#VieGIẢITRÍ​",
+        "#VieChannelHTV2",
+        "#VieON"
+      ],
+      "isMembersOnly": false,
+      "input": "Sóng 21 chương trình đêm giao thừa full",
+      "isPaidContent": false
+    },
+    {
+      "title": "Jack trải lòng về sự cô đơn, xử lý khéo léo loạt tình huống khó từ Trấn Thành| SÓNG 21",
+      "translatedTitle": "Jack opens up about his loneliness and skillfully handles tricky situations from Trấn Thành | SÓN...",
+      "type": "video",
+      "id": "W5UdFKhlQlM",
+      "url": "https://www.youtube.com/watch?v=W5UdFKhlQlM",
+      "thumbnailUrl": "https://i.ytimg.com/vi/W5UdFKhlQlM/maxresdefault.jpg",
+      "viewCount": 135782,
+      "date": "2021-02-16T11:00:23.000Z",
+      "likes": 1900,
+      "location": null,
+      "channelName": "VieSTARS",
+      "channelUrl": "https://www.youtube.com/@VieSTARS_Official",
+      "channelUsername": "VieSTARS_Official",
+      "collaborators": null,
+      "channelId": "UCDV0U41nnwOZyKMW4e7oExQ",
+      "numberOfSubscribers": 737000,
+      "duration": "00:11:07",
+      "commentsCount": 79,
+      "text": "Đón xem Sóng 21 được phát sóng đồng thời  trên 3 kênh truyền hình Vie Channel – HTV2, Vie GiảiTrí, Vie Dramas và siêu ứng dụng VieON vào đêm Giao thừa Tết Tân Sửu 2021.\n\n#Sóng21​ #SóngXuân​ #VieChannelHTV2\n#Song_21 #Song_Xuan #Xuan_Canh_Suu\n\n#VieChannel_HTV2 #VieGIẢITRÍ​ #VieGIAITRI​ #VieON\n\n📣 Đừng quên subscribe Vie DRAMAS để xem thật nhiều video mới nhất và hấp dẫn nhất nhé! \n🎈 Subscribe ngay: http://bit.ly/Subs2VieDramas\n\nClick để thưởng thức ngay trọn bộ: \nClick để thưởng thức ngay trọn bộ: \n►Sống cùng Vie DRAMAS: https://bit.ly/2EqZR44\n►Rap Việt Full: https://bit.ly/2BXxb4s\n►Người Ấy Là Ai Full: https://bit.ly/2XnUnQJ\n►Hải Đường Trong Gió Full: https://bit.ly/31iPKZA\n►Nhanh Như Chớp Nhí Full: https://bit.ly/2EC1m1Q\n►Siêu Trí Tuệ Full: http://bit.ly/2O1w4To\n►Ai Là Số 1 Full: https://bit.ly/2xMrL9I\n►Đưa Em Về Nhà Full: https://bit.ly/3bRRzAh",
+      "translatedText": "Watch \"Song 21\" airing simultaneously on 3 Vie Channel television channels – HTV2, Vie Entertainment, Vie Dramas – and the VieON super app on New Year's Eve 2021 (Year of the Ox).\n\n#Song21 #SongXuan #VieChannelHTV2\n\n#Song_21 #Song_Xuan #Xuan_Canh_Suu\n\n#VieChannel_HTV2 #VieEntertainment #VieEntertainment #VieON\n\n📣 Don't forget to subscribe to Vie Dramas to watch many more of the latest and most exciting videos! 🎈 Subscribe now: http://bit.ly/Subs2VieDramas\n\nClick to enjoy the full series: ►Living with Vie DRAMAS: https://bit.ly/2EqZR44\n►Rap Viet Full: https://bit.ly/2BXxb4s\n►Who Is That Person Full: https://bit.ly/2XnUnQJ\n►Hai Duong Trong Gio Full: https://bit.ly/31iPKZA\n►Nhanh Nhu Chop Nhi Full: https://bit.ly/2EC1m1Q\n►Super Intelligence Full: http://bit.ly/2O1w4To\n►Who Is Number 1 Full: https://bit.ly/2xMrL9I\n►Dua Em Ve Nha Full: https://bit.ly/3bRRzAh",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/song21",
+          "text": "#Song21"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/songxuan",
+          "text": "#SongXuan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viechannelhtv2",
+          "text": "#VieChannelHTV2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song_21",
+          "text": "#Song_21"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song_xuan",
+          "text": "#Song_Xuan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/xuan_canh_suu",
+          "text": "#Xuan_Canh_Suu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viechannel_htv2",
+          "text": "#VieChannel_HTV2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vieentertainment",
+          "text": "#VieEntertainment"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vieentertainment",
+          "text": "#VieEntertainment"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vieon",
+          "text": "#VieON"
+        },
+        {
+          "url": "http://bit.ly/Subs2VieDramas",
+          "text": "http://bit.ly/Subs2VieDramas"
+        },
+        {
+          "url": "https://bit.ly/2EqZR44",
+          "text": "https://bit.ly/2EqZR44"
+        },
+        {
+          "url": "https://bit.ly/2BXxb4s",
+          "text": "https://bit.ly/2BXxb4s"
+        },
+        {
+          "url": "https://bit.ly/2XnUnQJ",
+          "text": "https://bit.ly/2XnUnQJ"
+        },
+        {
+          "url": "https://bit.ly/31iPKZA",
+          "text": "https://bit.ly/31iPKZA"
+        },
+        {
+          "url": "https://bit.ly/2EC1m1Q",
+          "text": "https://bit.ly/2EC1m1Q"
+        },
+        {
+          "url": "http://bit.ly/2O1w4To",
+          "text": "http://bit.ly/2O1w4To"
+        },
+        {
+          "url": "https://bit.ly/2xMrL9I",
+          "text": "https://bit.ly/2xMrL9I"
+        },
+        {
+          "url": "https://bit.ly/3bRRzAh",
+          "text": "https://bit.ly/3bRRzAh"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 21,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=S%C3%B3ng+21+ch%C6%B0%C6%A1ng+tr%C3%ACnh+%C4%91%C3%AAm+giao+th%E1%BB%ABa+full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [
+        "#VieGIẢITRÍ​",
+        "#VieChannelHTV2",
+        "#VieON"
+      ],
+      "isMembersOnly": false,
+      "input": "Sóng 21 chương trình đêm giao thừa full",
+      "isPaidContent": false
+    },
+    {
+      "title": "Hiền Hồ - Quân AP hứa hẹn sẽ có một màn live đỉnh cao đúng đêm giao thừa | SÓNG 21",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "3X7YVwu2M6Y",
+      "url": "https://www.youtube.com/watch?v=3X7YVwu2M6Y&list=RD3X7YVwu2M6Y&start_radio=1",
+      "thumbnailUrl": "https://i.ytimg.com/vi/3X7YVwu2M6Y/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgUShEMA8=&rs=AOn4CLDJHWIXhBbqurQ37Qqg7RtZ8NNe9g",
+      "viewCount": 2159,
+      "date": "2021-02-09T08:00:04.000Z",
+      "likes": 26,
+      "location": null,
+      "channelName": "VieSTARS",
+      "channelUrl": "https://www.youtube.com/@VieSTARS_Official",
+      "channelUsername": "VieSTARS_Official",
+      "collaborators": null,
+      "channelId": "UCDV0U41nnwOZyKMW4e7oExQ",
+      "numberOfSubscribers": 737000,
+      "duration": "00:01:10",
+      "commentsCount": 0,
+      "text": "Đón xem Sóng 21 được phát sóng đồng thời  trên 3 kênh truyền hình Vie Channel – HTV2, Vie GiảiTrí, Vie Dramas và siêu ứng dụng VieON vào đêm Giao thừa Tết Tân Sửu 2021.\n\n#Sóng21​ #SóngXuân​ #VieChannelHTV2\n#Song_21 #Song_Xuan #Xuan_Canh_Suu\n\n#VieChannel_HTV2 #VieGIẢITRÍ​ #VieGIAITRI​ #VieON\n\n📣 Đừng quên subscribe Vie DRAMAS để xem thật nhiều video mới nhất và hấp dẫn nhất nhé! \n🎈 Subscribe ngay: http://bit.ly/Subs2VieDramas\n\nClick để thưởng thức ngay trọn bộ: \nClick để thưởng thức ngay trọn bộ: \n►Sống cùng Vie DRAMAS: https://bit.ly/2EqZR44\n►Rap Việt Full: https://bit.ly/2BXxb4s\n►Người Ấy Là Ai Full: https://bit.ly/2XnUnQJ\n►Hải Đường Trong Gió Full: https://bit.ly/31iPKZA\n►Nhanh Như Chớp Nhí Full: https://bit.ly/2EC1m1Q\n►Siêu Trí Tuệ Full: http://bit.ly/2O1w4To\n►Ai Là Số 1 Full: https://bit.ly/2xMrL9I\n►Đưa Em Về Nhà Full: https://bit.ly/3bRRzAh",
+      "translatedText": "Đón xem Sóng 21 được phát sóng đồng thời  trên 3 kênh truyền hình Vie Channel – HTV2, Vie GiảiTrí, Vie Dramas và siêu ứng dụng VieON vào đêm Giao thừa Tết Tân Sửu 2021.\n\n#Sóng21​ #SóngXuân​ #VieChannelHTV2\n#Song_21 #Song_Xuan #Xuan_Canh_Suu\n\n#VieChannel_HTV2 #VieGIẢITRÍ​ #VieGIAITRI​ #VieON\n\n📣 Đừng quên subscribe Vie DRAMAS để xem thật nhiều video mới nhất và hấp dẫn nhất nhé! \n🎈 Subscribe ngay: http://bit.ly/Subs2VieDramas\n\nClick để thưởng thức ngay trọn bộ: \nClick để thưởng thức ngay trọn bộ: \n►Sống cùng Vie DRAMAS: https://bit.ly/2EqZR44\n►Rap Việt Full: https://bit.ly/2BXxb4s\n►Người Ấy Là Ai Full: https://bit.ly/2XnUnQJ\n►Hải Đường Trong Gió Full: https://bit.ly/31iPKZA\n►Nhanh Như Chớp Nhí Full: https://bit.ly/2EC1m1Q\n►Siêu Trí Tuệ Full: http://bit.ly/2O1w4To\n►Ai Là Số 1 Full: https://bit.ly/2xMrL9I\n►Đưa Em Về Nhà Full: https://bit.ly/3bRRzAh",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ng21",
+          "text": "#Sóng21​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ngxu%C3%A2n",
+          "text": "#SóngXuân​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viechannelhtv2",
+          "text": "#VieChannelHTV2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song_21",
+          "text": "#Song_21"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song_xuan",
+          "text": "#Song_Xuan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/xuan_canh_suu",
+          "text": "#Xuan_Canh_Suu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viechannel_htv2",
+          "text": "#VieChannel_HTV2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viegi%E1%BA%A3itr%C3%AD",
+          "text": "#VieGIẢITRÍ​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viegiaitri",
+          "text": "#VieGIAITRI​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vieon",
+          "text": "#VieON"
+        },
+        {
+          "url": "http://bit.ly/Subs2VieDramas",
+          "text": "http://bit.ly/Subs2VieDramas"
+        },
+        {
+          "url": "https://bit.ly/2EqZR44",
+          "text": "https://bit.ly/2EqZR44"
+        },
+        {
+          "url": "https://bit.ly/2BXxb4s",
+          "text": "https://bit.ly/2BXxb4s"
+        },
+        {
+          "url": "https://bit.ly/2XnUnQJ",
+          "text": "https://bit.ly/2XnUnQJ"
+        },
+        {
+          "url": "https://bit.ly/31iPKZA",
+          "text": "https://bit.ly/31iPKZA"
+        },
+        {
+          "url": "https://bit.ly/2EC1m1Q",
+          "text": "https://bit.ly/2EC1m1Q"
+        },
+        {
+          "url": "http://bit.ly/2O1w4To",
+          "text": "http://bit.ly/2O1w4To"
+        },
+        {
+          "url": "https://bit.ly/2xMrL9I",
+          "text": "https://bit.ly/2xMrL9I"
+        },
+        {
+          "url": "https://bit.ly/3bRRzAh",
+          "text": "https://bit.ly/3bRRzAh"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 28,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=S%C3%B3ng+21+ch%C6%B0%C6%A1ng+tr%C3%ACnh+%C4%91%C3%AAm+giao+th%E1%BB%ABa+full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [
+        "#VieGIẢITRÍ​",
+        "#VieChannelHTV2",
+        "#VieON"
+      ],
+      "isMembersOnly": false,
+      "input": "Sóng 21 chương trình đêm giao thừa full",
+      "isPaidContent": false
+    },
+    {
+      "title": "Izara hát đêm giao thừa cùng Trấn thành HIếu thứ hai Sóng 24",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "6_I6tJKvbjg",
+      "url": "https://www.youtube.com/watch?v=6_I6tJKvbjg&list=RD6_I6tJKvbjg&start_radio=1",
+      "thumbnailUrl": "https://i.ytimg.com/vi/6_I6tJKvbjg/maxresdefault.jpg",
+      "viewCount": 93123,
+      "date": "2024-03-28T03:22:22.000Z",
+      "likes": 580,
+      "location": "TOP 10 BÀI HÁT ĐƯỢC YÊU THÍCH NHẤT CỦA IZARA THIÊN NGA",
+      "channelName": "IZARA",
+      "channelUrl": "https://www.youtube.com/@izaroarr.official",
+      "channelUsername": "izaroarr.official",
+      "collaborators": null,
+      "channelId": "UCtsA99DkMTV1sOnxvLFof2w",
+      "numberOfSubscribers": 129000,
+      "duration": "00:02:46",
+      "commentsCount": 35,
+      "text": "#hoangthiennga #bethiennga #izara \nIzara hát đêm giao thừa cùng Trấn thành HIếu thứ hai Sóng 24\nIzara Thiên Nga được vinh dự tham gia chương trình Sóng 24, đêm giao thừa năm mới 2024. Chương trình Xuân đặc biệt của công ty Đất Việt, được giao lưu cùng ca sĩ Hiếu thứ hai và chú Mc Trấn thành. Izara Thiên nga trình bày bài hát tự sáng tác: Thế giới của tôi được mọi người tán thưởng nhiệt liệt. Một ca khúc tươi vui và giai điệu ấm áp cho giây phút giao thừa đón chào năm mới 2024.\n\nIZARA THIEN NGA\nQUÁN QUÂN CUỘC THI HÃY NGHE TÔI HÁT NHÍ 2020\n   / @izaroarr.official  \nHoàng Thiên Nga là một cô bé hồn nhiên, rất hay cười và đặc biệt là thích ca hát và yêu âm nhạc. Được ba mẹ hướng dẫn ca hát và mời các thầy về nhà dạy học.\nHoàng Thiên Nga đạt được các danh hiệu Á Quân Vass gottalent, Đại sứ trái tim nhân ái Hội người khuyết tật và trẻ em mồ côi Việt nam ( Do thứ trưởng BỘ THƯƠNG BINH LAO ĐỘNG & XÃ HỘI Tấn Dũng đích thân trao tặng). Đặc biệt trong cuộc thi âm nhạc The Voice Kids, cô bé đã lọt vào Top 6 nhóm HLV Vũ Cát Tường và Soobin Hoàng Sơn.\nSở trường của Hoàng Thiên Nga là hát nhạc Pháp, các bản tình ca khó như: Aline(Gọi Tên Người Yêu), Tuyết rơi...được Hoàng Thiên Nga thể hiện xuất sắc, mặc dù tuổi còn rất nhỏ.\nHoàng Thiên Nga có thể hát nhạc tiếng Anh, Latin, Pháp, Bolero....\nNgoài ca hát Hoàng Thiên Nga còn biết chơi các loại nhạc cụ: Guitar điện, guitar, trống, violin, piano....\nHãy đăng ký và theo dõi kênh Thiên Nga Music và cùng đồng hành với Hoàng Thiên Nga nhé.",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/hoangthiennga",
+          "text": "#hoangthiennga"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bethiennga",
+          "text": "#bethiennga"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/izara",
+          "text": "#izara"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCtsA99DkMTV1sOnxvLFof2w",
+          "text": "   / @izaroarr.official  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 23,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=S%C3%B3ng+21+ch%C6%B0%C6%A1ng+tr%C3%ACnh+%C4%91%C3%AAm+giao+th%E1%BB%ABa+full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "Sóng 21 chương trình đêm giao thừa full",
+      "isPaidContent": false
+    },
+    {
+      "title": "Hoàng Dũng live Lắng Nghe Mùa Xuân Về đầy da diết chốt lại một đêm giao thừa tuyệt vời | SÓNG 21",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "gpEhYG81MVU",
+      "url": "https://www.youtube.com/watch?v=gpEhYG81MVU&list=RDgpEhYG81MVU&start_radio=1",
+      "thumbnailUrl": "https://i.ytimg.com/vi/gpEhYG81MVU/maxresdefault.jpg",
+      "viewCount": 17122,
+      "date": "2021-02-16T14:00:27.000Z",
+      "likes": 113,
+      "location": null,
+      "channelName": "VieSTARS",
+      "channelUrl": "https://www.youtube.com/@VieSTARS_Official",
+      "channelUsername": "VieSTARS_Official",
+      "collaborators": null,
+      "channelId": "UCDV0U41nnwOZyKMW4e7oExQ",
+      "numberOfSubscribers": 737000,
+      "duration": "00:03:56",
+      "commentsCount": 5,
+      "text": "Đón xem Sóng 21 được phát sóng đồng thời  trên 3 kênh truyền hình Vie Channel – HTV2, Vie GiảiTrí, Vie Dramas và siêu ứng dụng VieON vào đêm Giao thừa Tết Tân Sửu 2021.\n\n#Sóng21​ #SóngXuân​ #VieChannelHTV2\n#Song_21 #Song_Xuan #Xuan_Canh_Suu\n\n#VieChannel_HTV2 #VieGIẢITRÍ​ #VieGIAITRI​ #VieON\n\n📣 Đừng quên subscribe Vie DRAMAS để xem thật nhiều video mới nhất và hấp dẫn nhất nhé! \n🎈 Subscribe ngay: http://bit.ly/Subs2VieDramas\n\nClick để thưởng thức ngay trọn bộ: \nClick để thưởng thức ngay trọn bộ: \n►Sống cùng Vie DRAMAS: https://bit.ly/2EqZR44\n►Rap Việt Full: https://bit.ly/2BXxb4s\n►Người Ấy Là Ai Full: https://bit.ly/2XnUnQJ\n►Hải Đường Trong Gió Full: https://bit.ly/31iPKZA\n►Nhanh Như Chớp Nhí Full: https://bit.ly/2EC1m1Q\n►Siêu Trí Tuệ Full: http://bit.ly/2O1w4To\n►Ai Là Số 1 Full: https://bit.ly/2xMrL9I\n►Đưa Em Về Nhà Full: https://bit.ly/3bRRzAh",
+      "translatedText": "Đón xem Sóng 21 được phát sóng đồng thời  trên 3 kênh truyền hình Vie Channel – HTV2, Vie GiảiTrí, Vie Dramas và siêu ứng dụng VieON vào đêm Giao thừa Tết Tân Sửu 2021.\n\n#Sóng21​ #SóngXuân​ #VieChannelHTV2\n#Song_21 #Song_Xuan #Xuan_Canh_Suu\n\n#VieChannel_HTV2 #VieGIẢITRÍ​ #VieGIAITRI​ #VieON\n\n📣 Đừng quên subscribe Vie DRAMAS để xem thật nhiều video mới nhất và hấp dẫn nhất nhé! \n🎈 Subscribe ngay: http://bit.ly/Subs2VieDramas\n\nClick để thưởng thức ngay trọn bộ: \nClick để thưởng thức ngay trọn bộ: \n►Sống cùng Vie DRAMAS: https://bit.ly/2EqZR44\n►Rap Việt Full: https://bit.ly/2BXxb4s\n►Người Ấy Là Ai Full: https://bit.ly/2XnUnQJ\n►Hải Đường Trong Gió Full: https://bit.ly/31iPKZA\n►Nhanh Như Chớp Nhí Full: https://bit.ly/2EC1m1Q\n►Siêu Trí Tuệ Full: http://bit.ly/2O1w4To\n►Ai Là Số 1 Full: https://bit.ly/2xMrL9I\n►Đưa Em Về Nhà Full: https://bit.ly/3bRRzAh",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ng21",
+          "text": "#Sóng21​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ngxu%C3%A2n",
+          "text": "#SóngXuân​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viechannelhtv2",
+          "text": "#VieChannelHTV2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song_21",
+          "text": "#Song_21"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song_xuan",
+          "text": "#Song_Xuan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/xuan_canh_suu",
+          "text": "#Xuan_Canh_Suu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viechannel_htv2",
+          "text": "#VieChannel_HTV2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viegi%E1%BA%A3itr%C3%AD",
+          "text": "#VieGIẢITRÍ​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viegiaitri",
+          "text": "#VieGIAITRI​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vieon",
+          "text": "#VieON"
+        },
+        {
+          "url": "http://bit.ly/Subs2VieDramas",
+          "text": "http://bit.ly/Subs2VieDramas"
+        },
+        {
+          "url": "https://bit.ly/2EqZR44",
+          "text": "https://bit.ly/2EqZR44"
+        },
+        {
+          "url": "https://bit.ly/2BXxb4s",
+          "text": "https://bit.ly/2BXxb4s"
+        },
+        {
+          "url": "https://bit.ly/2XnUnQJ",
+          "text": "https://bit.ly/2XnUnQJ"
+        },
+        {
+          "url": "https://bit.ly/31iPKZA",
+          "text": "https://bit.ly/31iPKZA"
+        },
+        {
+          "url": "https://bit.ly/2EC1m1Q",
+          "text": "https://bit.ly/2EC1m1Q"
+        },
+        {
+          "url": "http://bit.ly/2O1w4To",
+          "text": "http://bit.ly/2O1w4To"
+        },
+        {
+          "url": "https://bit.ly/2xMrL9I",
+          "text": "https://bit.ly/2xMrL9I"
+        },
+        {
+          "url": "https://bit.ly/3bRRzAh",
+          "text": "https://bit.ly/3bRRzAh"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 26,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=S%C3%B3ng+21+ch%C6%B0%C6%A1ng+tr%C3%ACnh+%C4%91%C3%AAm+giao+th%E1%BB%ABa+full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [
+        "#VieGIẢITRÍ​",
+        "#VieChannelHTV2",
+        "#VieON"
+      ],
+      "isMembersOnly": false,
+      "input": "Sóng 21 chương trình đêm giao thừa full",
+      "isPaidContent": false
+    },
+    {
+      "title": "Ngày nào cũng là Tết khi nghe loạt bài hát về mua xuân của Sóng 21| SÓNG 21",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "7S7PHMgu0Kk",
+      "url": "https://www.youtube.com/watch?v=7S7PHMgu0Kk&list=RD7S7PHMgu0Kk&start_radio=1",
+      "thumbnailUrl": "https://i.ytimg.com/vi/7S7PHMgu0Kk/maxresdefault.jpg",
+      "viewCount": 2123,
+      "date": "2021-03-01T14:00:06.000Z",
+      "likes": 16,
+      "location": null,
+      "channelName": "Vie GIẢITRÍ",
+      "channelUrl": "https://www.youtube.com/@VieGI%E1%BA%A2ITR%C3%8D",
+      "channelUsername": "VieGI%E1%BA%A2ITR%C3%8D",
+      "collaborators": null,
+      "channelId": "UC2Lgi2uPsOcCVF3imz7l2mg",
+      "numberOfSubscribers": 3130000,
+      "duration": "00:13:26",
+      "commentsCount": 0,
+      "text": "Đón xem Sóng 21 được phát sóng đồng thời  trên 3 kênh truyền hình Vie Channel – HTV2, Vie GiảiTrí, Vie Dramas và siêu ứng dụng VieON vào đêm Giao thừa Tết Tân Sửu 2021.\n\n#Sóng21​ #SóngXuân​ #VieChannelHTV2\n#Song_21 #Song_Xuan #Xuan_Canh_Suu\n\n#VieChannel_HTV2 #VieGIẢITRÍ​ #VieGIAITRI​ #VieON\n\n\n📣 Đừng quên subscribe để xem thật nhiều chương trình mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieGIẢITRÍ\n\nXem các chương trình hấp dẫn khác của Vie GIẢITRÍ:\n►Siêu Trí Tuệ Full: https://bit.ly/SieuTriTue_Mua2_Full\n►Ai Là Số 1 Full: https://bit.ly/2xMrL9I\n►Đưa Em Về Nhà: https://bit.ly/3bRRzAh\n►Người Ấy Là Ai Full: http://bit.ly/2AQHuDT\n►Nhanh Như Chớp Nhí Full: https://bit.ly/2ANAYjb\n►Gạo Nếp Gạo Tẻ Full: http://bit.ly/2qyKoag\n►Phiên Tòa Tình Yêu Full: http://bit.ly/2F8ataA\n\nXem thêm trên hệ thống Vie GIẢITRÍ:\n►Website: https://giaitritv.vn\n►Fanpage: https://www.facebook.com/VieGIAITRI",
+      "translatedText": "Đón xem Sóng 21 được phát sóng đồng thời  trên 3 kênh truyền hình Vie Channel – HTV2, Vie GiảiTrí, Vie Dramas và siêu ứng dụng VieON vào đêm Giao thừa Tết Tân Sửu 2021.\n\n#Sóng21​ #SóngXuân​ #VieChannelHTV2\n#Song_21 #Song_Xuan #Xuan_Canh_Suu\n\n#VieChannel_HTV2 #VieGIẢITRÍ​ #VieGIAITRI​ #VieON\n\n\n📣 Đừng quên subscribe để xem thật nhiều chương trình mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieGIẢITRÍ\n\nXem các chương trình hấp dẫn khác của Vie GIẢITRÍ:\n►Siêu Trí Tuệ Full: https://bit.ly/SieuTriTue_Mua2_Full\n►Ai Là Số 1 Full: https://bit.ly/2xMrL9I\n►Đưa Em Về Nhà: https://bit.ly/3bRRzAh\n►Người Ấy Là Ai Full: http://bit.ly/2AQHuDT\n►Nhanh Như Chớp Nhí Full: https://bit.ly/2ANAYjb\n►Gạo Nếp Gạo Tẻ Full: http://bit.ly/2qyKoag\n►Phiên Tòa Tình Yêu Full: http://bit.ly/2F8ataA\n\nXem thêm trên hệ thống Vie GIẢITRÍ:\n►Website: https://giaitritv.vn\n►Fanpage:   / viegiaitri  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ng21",
+          "text": "#Sóng21​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ngxu%C3%A2n",
+          "text": "#SóngXuân​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viechannelhtv2",
+          "text": "#VieChannelHTV2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song_21",
+          "text": "#Song_21"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song_xuan",
+          "text": "#Song_Xuan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/xuan_canh_suu",
+          "text": "#Xuan_Canh_Suu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viechannel_htv2",
+          "text": "#VieChannel_HTV2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viegi%E1%BA%A3itr%C3%AD",
+          "text": "#VieGIẢITRÍ​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viegiaitri",
+          "text": "#VieGIAITRI​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vieon",
+          "text": "#VieON"
+        },
+        {
+          "url": "http://bit.ly/VieGIẢITRÍ",
+          "text": "http://bit.ly/VieGIẢITRÍ"
+        },
+        {
+          "url": "https://bit.ly/SieuTriTue_Mua2_Full",
+          "text": "https://bit.ly/SieuTriTue_Mua2_Full"
+        },
+        {
+          "url": "https://bit.ly/2xMrL9I",
+          "text": "https://bit.ly/2xMrL9I"
+        },
+        {
+          "url": "https://bit.ly/3bRRzAh",
+          "text": "https://bit.ly/3bRRzAh"
+        },
+        {
+          "url": "http://bit.ly/2AQHuDT",
+          "text": "http://bit.ly/2AQHuDT"
+        },
+        {
+          "url": "https://bit.ly/2ANAYjb",
+          "text": "https://bit.ly/2ANAYjb"
+        },
+        {
+          "url": "http://bit.ly/2qyKoag",
+          "text": "http://bit.ly/2qyKoag"
+        },
+        {
+          "url": "http://bit.ly/2F8ataA",
+          "text": "http://bit.ly/2F8ataA"
+        },
+        {
+          "url": "https://giaitritv.vn/",
+          "text": "https://giaitritv.vn"
+        },
+        {
+          "url": "https://www.facebook.com/VieGIAITRI",
+          "text": "  / viegiaitri  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 4,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=S%C3%B3ng+21+ch%C6%B0%C6%A1ng+tr%C3%ACnh+%C4%91%C3%AAm+giao+th%E1%BB%ABa+full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [
+        "#VieGIẢITRÍ​",
+        "#VieChannelHTV2",
+        "#VieON"
+      ],
+      "isMembersOnly": false,
+      "input": "Sóng 21 chương trình đêm giao thừa full",
+      "isPaidContent": false
+    },
+    {
+      "title": "Cypher Rap Việt bùng nổ cả sân khấu với màn chào T.E.T 2021 cực kỳ sôi động | SÓNG 21",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "zXpmnZY2hyc",
+      "url": "https://www.youtube.com/watch?v=zXpmnZY2hyc&list=RDzXpmnZY2hyc&start_radio=1",
+      "thumbnailUrl": "https://i.ytimg.com/vi/zXpmnZY2hyc/maxresdefault.jpg",
+      "viewCount": 10085,
+      "date": "2021-02-12T05:00:30.000Z",
+      "likes": 106,
+      "location": null,
+      "channelName": "VieSTARS",
+      "channelUrl": "https://www.youtube.com/@VieSTARS_Official",
+      "channelUsername": "VieSTARS_Official",
+      "collaborators": null,
+      "channelId": "UCDV0U41nnwOZyKMW4e7oExQ",
+      "numberOfSubscribers": 737000,
+      "duration": "00:06:54",
+      "commentsCount": 4,
+      "text": "Đón xem Sóng 21 được phát sóng đồng thời  trên 3 kênh truyền hình Vie Channel – HTV2, Vie GiảiTrí, Vie Dramas và siêu ứng dụng VieON vào đêm Giao thừa Tết Tân Sửu 2021.\n\n#Sóng21​ #SóngXuân​ #VieChannelHTV2\n#Song_21 #Song_Xuan #Xuan_Canh_Suu\n\n#VieChannel_HTV2 #VieGIẢITRÍ​ #VieGIAITRI​ #VieON\n\n📣 Đừng quên subscribe Vie DRAMAS để xem thật nhiều video mới nhất và hấp dẫn nhất nhé! \n🎈 Subscribe ngay: http://bit.ly/Subs2VieDramas\n\nClick để thưởng thức ngay trọn bộ: \nClick để thưởng thức ngay trọn bộ: \n►Sống cùng Vie DRAMAS: https://bit.ly/2EqZR44\n►Rap Việt Full: https://bit.ly/2BXxb4s\n►Người Ấy Là Ai Full: https://bit.ly/2XnUnQJ\n►Hải Đường Trong Gió Full: https://bit.ly/31iPKZA\n►Nhanh Như Chớp Nhí Full: https://bit.ly/2EC1m1Q\n►Siêu Trí Tuệ Full: http://bit.ly/2O1w4To\n►Ai Là Số 1 Full: https://bit.ly/2xMrL9I\n►Đưa Em Về Nhà Full: https://bit.ly/3bRRzAh",
+      "translatedText": "Đón xem Sóng 21 được phát sóng đồng thời  trên 3 kênh truyền hình Vie Channel – HTV2, Vie GiảiTrí, Vie Dramas và siêu ứng dụng VieON vào đêm Giao thừa Tết Tân Sửu 2021.\n\n#Sóng21​ #SóngXuân​ #VieChannelHTV2\n#Song_21 #Song_Xuan #Xuan_Canh_Suu\n\n#VieChannel_HTV2 #VieGIẢITRÍ​ #VieGIAITRI​ #VieON\n\n📣 Đừng quên subscribe Vie DRAMAS để xem thật nhiều video mới nhất và hấp dẫn nhất nhé! \n🎈 Subscribe ngay: http://bit.ly/Subs2VieDramas\n\nClick để thưởng thức ngay trọn bộ: \nClick để thưởng thức ngay trọn bộ: \n►Sống cùng Vie DRAMAS: https://bit.ly/2EqZR44\n►Rap Việt Full: https://bit.ly/2BXxb4s\n►Người Ấy Là Ai Full: https://bit.ly/2XnUnQJ\n►Hải Đường Trong Gió Full: https://bit.ly/31iPKZA\n►Nhanh Như Chớp Nhí Full: https://bit.ly/2EC1m1Q\n►Siêu Trí Tuệ Full: http://bit.ly/2O1w4To\n►Ai Là Số 1 Full: https://bit.ly/2xMrL9I\n►Đưa Em Về Nhà Full: https://bit.ly/3bRRzAh",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ng21",
+          "text": "#Sóng21​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ngxu%C3%A2n",
+          "text": "#SóngXuân​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viechannelhtv2",
+          "text": "#VieChannelHTV2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song_21",
+          "text": "#Song_21"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song_xuan",
+          "text": "#Song_Xuan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/xuan_canh_suu",
+          "text": "#Xuan_Canh_Suu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viechannel_htv2",
+          "text": "#VieChannel_HTV2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viegi%E1%BA%A3itr%C3%AD",
+          "text": "#VieGIẢITRÍ​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viegiaitri",
+          "text": "#VieGIAITRI​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vieon",
+          "text": "#VieON"
+        },
+        {
+          "url": "http://bit.ly/Subs2VieDramas",
+          "text": "http://bit.ly/Subs2VieDramas"
+        },
+        {
+          "url": "https://bit.ly/2EqZR44",
+          "text": "https://bit.ly/2EqZR44"
+        },
+        {
+          "url": "https://bit.ly/2BXxb4s",
+          "text": "https://bit.ly/2BXxb4s"
+        },
+        {
+          "url": "https://bit.ly/2XnUnQJ",
+          "text": "https://bit.ly/2XnUnQJ"
+        },
+        {
+          "url": "https://bit.ly/31iPKZA",
+          "text": "https://bit.ly/31iPKZA"
+        },
+        {
+          "url": "https://bit.ly/2EC1m1Q",
+          "text": "https://bit.ly/2EC1m1Q"
+        },
+        {
+          "url": "http://bit.ly/2O1w4To",
+          "text": "http://bit.ly/2O1w4To"
+        },
+        {
+          "url": "https://bit.ly/2xMrL9I",
+          "text": "https://bit.ly/2xMrL9I"
+        },
+        {
+          "url": "https://bit.ly/3bRRzAh",
+          "text": "https://bit.ly/3bRRzAh"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 13,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=S%C3%B3ng+21+ch%C6%B0%C6%A1ng+tr%C3%ACnh+%C4%91%C3%AAm+giao+th%E1%BB%ABa+full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [
+        "#VieGIẢITRÍ​",
+        "#VieChannelHTV2",
+        "#VieON"
+      ],
+      "isMembersOnly": false,
+      "input": "Sóng 21 chương trình đêm giao thừa full",
+      "isPaidContent": false
+    },
+    {
+      "title": "Hiền Hồ - Quân AP live như nuốt đĩa 2 bản hit: Bông Hoa Đẹp Nhất và Gặp Nhưng Không Ở Lại| SÓNG 21",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "EZg15-zg1yU",
+      "url": "https://www.youtube.com/watch?v=EZg15-zg1yU&list=RDEZg15-zg1yU&start_radio=1",
+      "thumbnailUrl": "https://i.ytimg.com/vi/EZg15-zg1yU/maxresdefault.jpg",
+      "viewCount": 4903083,
+      "date": "2021-02-12T15:12:18.000Z",
+      "likes": 12000,
+      "location": null,
+      "channelName": "VieSTARS",
+      "channelUrl": "https://www.youtube.com/@VieSTARS_Official",
+      "channelUsername": "VieSTARS_Official",
+      "collaborators": null,
+      "channelId": "UCDV0U41nnwOZyKMW4e7oExQ",
+      "numberOfSubscribers": 737000,
+      "duration": "00:07:21",
+      "commentsCount": 394,
+      "text": "Đón xem Sóng 21 được phát sóng đồng thời  trên 3 kênh truyền hình Vie Channel – HTV2, Vie GiảiTrí, Vie Dramas và siêu ứng dụng VieON vào đêm Giao thừa Tết Tân Sửu 2021.\n\n#Sóng21​ #SóngXuân​ #VieChannelHTV2\n#Song_21 #Song_Xuan #Xuan_Canh_Suu\n\n#VieChannel_HTV2 #VieGIẢITRÍ​ #VieGIAITRI​ #VieON\n\n📣 Đừng quên subscribe Vie DRAMAS để xem thật nhiều video mới nhất và hấp dẫn nhất nhé! \n🎈 Subscribe ngay: http://bit.ly/Subs2VieDramas\n\nClick để thưởng thức ngay trọn bộ: \nClick để thưởng thức ngay trọn bộ: \n►Sống cùng Vie DRAMAS: https://bit.ly/2EqZR44\n►Rap Việt Full: https://bit.ly/2BXxb4s\n►Người Ấy Là Ai Full: https://bit.ly/2XnUnQJ\n►Hải Đường Trong Gió Full: https://bit.ly/31iPKZA\n►Nhanh Như Chớp Nhí Full: https://bit.ly/2EC1m1Q\n►Siêu Trí Tuệ Full: http://bit.ly/2O1w4To\n►Ai Là Số 1 Full: https://bit.ly/2xMrL9I\n►Đưa Em Về Nhà Full: https://bit.ly/3bRRzAh",
+      "translatedText": "Đón xem Sóng 21 được phát sóng đồng thời  trên 3 kênh truyền hình Vie Channel – HTV2, Vie GiảiTrí, Vie Dramas và siêu ứng dụng VieON vào đêm Giao thừa Tết Tân Sửu 2021.\n\n#Sóng21​ #SóngXuân​ #VieChannelHTV2\n#Song_21 #Song_Xuan #Xuan_Canh_Suu\n\n#VieChannel_HTV2 #VieGIẢITRÍ​ #VieGIAITRI​ #VieON\n\n📣 Đừng quên subscribe Vie DRAMAS để xem thật nhiều video mới nhất và hấp dẫn nhất nhé! \n🎈 Subscribe ngay: http://bit.ly/Subs2VieDramas\n\nClick để thưởng thức ngay trọn bộ: \nClick để thưởng thức ngay trọn bộ: \n►Sống cùng Vie DRAMAS: https://bit.ly/2EqZR44\n►Rap Việt Full: https://bit.ly/2BXxb4s\n►Người Ấy Là Ai Full: https://bit.ly/2XnUnQJ\n►Hải Đường Trong Gió Full: https://bit.ly/31iPKZA\n►Nhanh Như Chớp Nhí Full: https://bit.ly/2EC1m1Q\n►Siêu Trí Tuệ Full: http://bit.ly/2O1w4To\n►Ai Là Số 1 Full: https://bit.ly/2xMrL9I\n►Đưa Em Về Nhà Full: https://bit.ly/3bRRzAh",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ng21",
+          "text": "#Sóng21​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ngxu%C3%A2n",
+          "text": "#SóngXuân​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viechannelhtv2",
+          "text": "#VieChannelHTV2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song_21",
+          "text": "#Song_21"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song_xuan",
+          "text": "#Song_Xuan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/xuan_canh_suu",
+          "text": "#Xuan_Canh_Suu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viechannel_htv2",
+          "text": "#VieChannel_HTV2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viegi%E1%BA%A3itr%C3%AD",
+          "text": "#VieGIẢITRÍ​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viegiaitri",
+          "text": "#VieGIAITRI​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vieon",
+          "text": "#VieON"
+        },
+        {
+          "url": "http://bit.ly/Subs2VieDramas",
+          "text": "http://bit.ly/Subs2VieDramas"
+        },
+        {
+          "url": "https://bit.ly/2EqZR44",
+          "text": "https://bit.ly/2EqZR44"
+        },
+        {
+          "url": "https://bit.ly/2BXxb4s",
+          "text": "https://bit.ly/2BXxb4s"
+        },
+        {
+          "url": "https://bit.ly/2XnUnQJ",
+          "text": "https://bit.ly/2XnUnQJ"
+        },
+        {
+          "url": "https://bit.ly/31iPKZA",
+          "text": "https://bit.ly/31iPKZA"
+        },
+        {
+          "url": "https://bit.ly/2EC1m1Q",
+          "text": "https://bit.ly/2EC1m1Q"
+        },
+        {
+          "url": "http://bit.ly/2O1w4To",
+          "text": "http://bit.ly/2O1w4To"
+        },
+        {
+          "url": "https://bit.ly/2xMrL9I",
+          "text": "https://bit.ly/2xMrL9I"
+        },
+        {
+          "url": "https://bit.ly/3bRRzAh",
+          "text": "https://bit.ly/3bRRzAh"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 14,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=S%C3%B3ng+21+ch%C6%B0%C6%A1ng+tr%C3%ACnh+%C4%91%C3%AAm+giao+th%E1%BB%ABa+full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [
+        "#VieGIẢITRÍ​",
+        "#VieChannelHTV2",
+        "#VieON"
+      ],
+      "isMembersOnly": false,
+      "input": "Sóng 21 chương trình đêm giao thừa full",
+      "isPaidContent": false
+    },
+    {
+      "title": "Trấn Thành - Erik - Đức Phúc hẹn gặp khán giả vào đêm giao thừa 2021 | SÓNG 21",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "jL8MOL-ULWY",
+      "url": "https://www.youtube.com/watch?v=jL8MOL-ULWY&list=RDjL8MOL-ULWY&start_radio=1",
+      "thumbnailUrl": "https://i.ytimg.com/vi/jL8MOL-ULWY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGEIgTihyMA8=&rs=AOn4CLCm9XyAqGTIBOTLXcSABFfvB8FVmw",
+      "viewCount": 11366,
+      "date": "2021-02-09T02:00:05.000Z",
+      "likes": 179,
+      "location": null,
+      "channelName": "Vie GIẢITRÍ",
+      "channelUrl": "https://www.youtube.com/@VieGI%E1%BA%A2ITR%C3%8D",
+      "channelUsername": "VieGI%E1%BA%A2ITR%C3%8D",
+      "collaborators": null,
+      "channelId": "UC2Lgi2uPsOcCVF3imz7l2mg",
+      "numberOfSubscribers": 3130000,
+      "duration": "00:01:15",
+      "commentsCount": 32,
+      "text": "Đón xem SỐ ĐỘC ĐẮC lúc 20h Thứ 5 & Thứ 6 hàng tuần trên kênh truyền hình Vie Channel - HTV2, 21h Vie GIẢITRÍ và ứng dụng VieON từ 14.01.2021\n\n#SốĐộcĐắc #SoDocDac #VieChannelHTV2 #PhimViệt2021 \n\n\nCảm ơn 3 Nhà Tài Trợ Chính đã đồng hành cùng bộ phim :\n#OMO #LờiChúcHóaHànhĐộng\n#Lifebuoy #LifebuoyƯớc10Được10\n#KHOIGIANBEPAM #DONTETANNHIEN\n\n#Số_Độc_Đắc là câu chuyện xoay quanh hành trình lãnh giải độc đắc ly kỳ và đầy những tình huống dở khóc dở cười của Thiên (Jun_Phạm), song song với việc bí mật chuẩn bị một món quà bất ngờ cho mẹ trong những ngày gia đình tất bật đón năm mới.\n\nPhát sóng từ ngày 14/01, #Số_Độc_Đắc là bộ phim Tết phát sóng sớm nhất trên sóng truyền hình tính đến thời điểm này.\nHành trình nhận giải thưởng 2 tỷ đồng gian nan, nhiều bi hài, nhiều yếu tố hành động hài hước của Thiên sẽ đến với khán giả trước thềm năm mới, cùng khán giả đón Tết vui nhộn và đầy may mắn.\n\n📣 Đừng quên subscribe để xem thật nhiều chương trình mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieGIẢITRÍ\n\nXem các chương trình hấp dẫn khác của Vie GIẢITRÍ:\n►Siêu Trí Tuệ Full: https://bit.ly/SieuTriTue_Mua2_Full\n►Ai Là Số 1 Full: https://bit.ly/2xMrL9I\n►Đưa Em Về Nhà: https://bit.ly/3bRRzAh\n►Người Ấy Là Ai Full: http://bit.ly/2AQHuDT\n►Nhanh Như Chớp Nhí Full: https://bit.ly/2ANAYjb\n►Gạo Nếp Gạo Tẻ Full: http://bit.ly/2qyKoag\n►Phiên Tòa Tình Yêu Full: http://bit.ly/2F8ataA\n\nXem thêm trên hệ thống Vie GIẢITRÍ:\n►Website: https://giaitritv.vn\n►Fanpage: https://www.facebook.com/VieGIAITRI",
+      "translatedText": "Đón xem SỐ ĐỘC ĐẮC lúc 20h Thứ 5 & Thứ 6 hàng tuần trên kênh truyền hình Vie Channel - HTV2, 21h Vie GIẢITRÍ và ứng dụng VieON từ 14.01.2021\n\n#SốĐộcĐắc #SoDocDac #VieChannelHTV2 #PhimViệt2021 \n\n\nCảm ơn 3 Nhà Tài Trợ Chính đã đồng hành cùng bộ phim :\n#OMO #LờiChúcHóaHànhĐộng\n#Lifebuoy #LifebuoyƯớc10Được10\n#KHOIGIANBEPAM #DONTETANNHIEN\n\n#Số_Độc_Đắc là câu chuyện xoay quanh hành trình lãnh giải độc đắc ly kỳ và đầy những tình huống dở khóc dở cười của Thiên (Jun_Phạm), song song với việc bí mật chuẩn bị một món quà bất ngờ cho mẹ trong những ngày gia đình tất bật đón năm mới.\n\nPhát sóng từ ngày 14/01, #Số_Độc_Đắc là bộ phim Tết phát sóng sớm nhất trên sóng truyền hình tính đến thời điểm này.\nHành trình nhận giải thưởng 2 tỷ đồng gian nan, nhiều bi hài, nhiều yếu tố hành động hài hước của Thiên sẽ đến với khán giả trước thềm năm mới, cùng khán giả đón Tết vui nhộn và đầy may mắn.\n\n📣 Đừng quên subscribe để xem thật nhiều chương trình mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieGIẢITRÍ\n\nXem các chương trình hấp dẫn khác của Vie GIẢITRÍ:\n►Siêu Trí Tuệ Full: https://bit.ly/SieuTriTue_Mua2_Full\n►Ai Là Số 1 Full: https://bit.ly/2xMrL9I\n►Đưa Em Về Nhà: https://bit.ly/3bRRzAh\n►Người Ấy Là Ai Full: http://bit.ly/2AQHuDT\n►Nhanh Như Chớp Nhí Full: https://bit.ly/2ANAYjb\n►Gạo Nếp Gạo Tẻ Full: http://bit.ly/2qyKoag\n►Phiên Tòa Tình Yêu Full: http://bit.ly/2F8ataA\n\nXem thêm trên hệ thống Vie GIẢITRÍ:\n►Website: https://giaitritv.vn\n►Fanpage:   / viegiaitri  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/s%E1%BB%91%C4%91%E1%BB%99c%C4%91%E1%BA%AFc",
+          "text": "#SốĐộcĐắc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/sodocdac",
+          "text": "#SoDocDac"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viechannelhtv2",
+          "text": "#VieChannelHTV2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/phimvi%E1%BB%87t2021",
+          "text": "#PhimViệt2021"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/omo",
+          "text": "#OMO"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/l%E1%BB%9Dich%C3%BAch%C3%B3ah%C3%A0nh%C4%91%E1%BB%99ng",
+          "text": "#LờiChúcHóaHànhĐộng"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lifebuoy",
+          "text": "#Lifebuoy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/lifebuoy%C6%B0%E1%BB%9Bc10%C4%91%C6%B0%E1%BB%A3c10",
+          "text": "#LifebuoyƯớc10Được10"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/khoigianbepam",
+          "text": "#KHOIGIANBEPAM"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/dontetannhien",
+          "text": "#DONTETANNHIEN"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/s%E1%BB%91_%C4%91%E1%BB%99c_%C4%91%E1%BA%AFc",
+          "text": "#Số_Độc_Đắc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/s%E1%BB%91_%C4%91%E1%BB%99c_%C4%91%E1%BA%AFc",
+          "text": "#Số_Độc_Đắc"
+        },
+        {
+          "url": "http://bit.ly/VieGIẢITRÍ",
+          "text": "http://bit.ly/VieGIẢITRÍ"
+        },
+        {
+          "url": "https://bit.ly/SieuTriTue_Mua2_Full",
+          "text": "https://bit.ly/SieuTriTue_Mua2_Full"
+        },
+        {
+          "url": "https://bit.ly/2xMrL9I",
+          "text": "https://bit.ly/2xMrL9I"
+        },
+        {
+          "url": "https://bit.ly/3bRRzAh",
+          "text": "https://bit.ly/3bRRzAh"
+        },
+        {
+          "url": "http://bit.ly/2AQHuDT",
+          "text": "http://bit.ly/2AQHuDT"
+        },
+        {
+          "url": "https://bit.ly/2ANAYjb",
+          "text": "https://bit.ly/2ANAYjb"
+        },
+        {
+          "url": "http://bit.ly/2qyKoag",
+          "text": "http://bit.ly/2qyKoag"
+        },
+        {
+          "url": "http://bit.ly/2F8ataA",
+          "text": "http://bit.ly/2F8ataA"
+        },
+        {
+          "url": "https://giaitritv.vn/",
+          "text": "https://giaitritv.vn"
+        },
+        {
+          "url": "https://www.facebook.com/VieGIAITRI",
+          "text": "  / viegiaitri  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 25,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=S%C3%B3ng+21+ch%C6%B0%C6%A1ng+tr%C3%ACnh+%C4%91%C3%AAm+giao+th%E1%BB%ABa+full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [
+        "#Lifebuoy",
+        "#OMO",
+        "#VieChannelHTV2"
+      ],
+      "isMembersOnly": false,
+      "input": "Sóng 21 chương trình đêm giao thừa full",
+      "isPaidContent": false
+    },
+    {
+      "title": "FULL Hài Sóng 24: Anh trai HIEUTHUHAI ứng biến cực mượt khiến Trấn Thành, Diệu Lâm bội phục |Sóng 24",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "jZsT6fCivMQ",
+      "url": "https://www.youtube.com/watch?v=jZsT6fCivMQ",
+      "thumbnailUrl": "https://i.ytimg.com/vi/jZsT6fCivMQ/maxresdefault.jpg",
+      "viewCount": 3828915,
+      "date": "2024-02-10T12:00:40.000Z",
+      "likes": 28000,
+      "location": null,
+      "channelName": "Vie Channel ",
+      "channelUrl": "https://www.youtube.com/@VieChannelOfficial",
+      "channelUsername": "VieChannelOfficial",
+      "collaborators": null,
+      "channelId": "UCkna2OcuN1E6u5I8GVtdkOw",
+      "numberOfSubscribers": 11500000,
+      "duration": "00:37:16",
+      "commentsCount": 695,
+      "text": "FULL Hài Sóng 24: Anh trai HIEUTHUHAI ứng biến cực mượt khiến Trấn Thành, Diệu Lâm bội phục | Sóng 24\n\n#Sóng24 #SóngXuân​ #Song24 #SongXuan #XuânGiápThìn \n#TrấnThành #NgôKiếnHuy #HIEUTHUHAI #AnhTú #anhtrai #anhtraisayhi\n#VieChannel #VieGIẢITRÍ​ #VieGIAITRI​ #VieON\n\nĐăng ký hội viên ngay nào👇:\nhttps://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw/join\n\n★ Mọi nhu cầu quảng cáo và tài trợ xin liên hệ: Công Ty Cổ Phần Vie Channel\n► Hotline: 0907.950.371 (Mr. Đức Khoa)\n► Email: khoa.nguyen@viechannel.vn hoặc sales@viechannel.vn\n\n📣 Đừng quên subscribe để xem thật nhiều phim mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieChannelHTV2\n\n\n\nXem các chương trình hấp dẫn khác của Vie Channel:\n►Rap Việt Full: https://bit.ly/RAPVIETSS3\n►Người Ấy Là Ai Full: https://bit.ly/NALASS5\n►Hoa Vương Full: https://bit.ly/HoaVươngFull\n►The Masked Singer Vietnam Full: https://bit.ly/TMSVNSS2\n\nHoặc xem thêm trên hệ thống Vie Channel:\n►Website: http://viechannel.vn/\n►Fanpage: https://www.facebook.com/VieChannelHTV2/\n►Instagram: https://www.instagram.com/viechannelhtv2/",
+      "translatedText": "FULL Hài Sóng 24: Anh trai HIEUTHUHAI ứng biến cực mượt khiến Trấn Thành, Diệu Lâm bội phục | Sóng 24\n\n#Sóng24 #SóngXuân​ #Song24 #SongXuan #XuânGiápThìn \n#TrấnThành #NgôKiếnHuy #HIEUTHUHAI #AnhTú #anhtrai #anhtraisayhi\n#VieChannel #VieGIẢITRÍ​ #VieGIAITRI​ #VieON\n\nĐăng ký hội viên ngay nào👇:\n   / @viechannelofficial  \n\n★ Mọi nhu cầu quảng cáo và tài trợ xin liên hệ: Công Ty Cổ Phần Vie Channel\n► Hotline: 0907.950.371 (Mr. Đức Khoa)\n► Email: khoa.nguyen@viechannel.vn hoặc sales@viechannel.vn\n\n📣 Đừng quên subscribe để xem thật nhiều phim mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieChannelHTV2\n\n\n\nXem các chương trình hấp dẫn khác của Vie Channel:\n►Rap Việt Full: https://bit.ly/RAPVIETSS3\n►Người Ấy Là Ai Full: https://bit.ly/NALASS5\n►Hoa Vương Full: https://bit.ly/HoaVươngFull\n►The Masked Singer Vietnam Full: https://bit.ly/TMSVNSS2\n\nHoặc xem thêm trên hệ thống Vie Channel:\n►Website: http://viechannel.vn/\n►Fanpage:   / viechannelhtv2  \n►Instagram:   / viechannelhtv2  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ng24",
+          "text": "#Sóng24"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ngxu%C3%A2n",
+          "text": "#SóngXuân​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song24",
+          "text": "#Song24"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/songxuan",
+          "text": "#SongXuan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/xu%C3%A2ngi%C3%A1pth%C3%ACn",
+          "text": "#XuânGiápThìn"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tr%E1%BA%A5nth%C3%A0nh",
+          "text": "#TrấnThành"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/ng%C3%B4ki%E1%BA%BFnhuy",
+          "text": "#NgôKiếnHuy"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/hieuthuhai",
+          "text": "#HIEUTHUHAI"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anht%C3%BA",
+          "text": "#AnhTú"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtrai",
+          "text": "#anhtrai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtraisayhi",
+          "text": "#anhtraisayhi"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viechannel",
+          "text": "#VieChannel"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viegi%E1%BA%A3itr%C3%AD",
+          "text": "#VieGIẢITRÍ​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viegiaitri",
+          "text": "#VieGIAITRI​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vieon",
+          "text": "#VieON"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw/join",
+          "text": "   / @viechannelofficial  "
+        },
+        {
+          "url": "http://bit.ly/VieChannelHTV2",
+          "text": "http://bit.ly/VieChannelHTV2"
+        },
+        {
+          "url": "https://bit.ly/RAPVIETSS3",
+          "text": "https://bit.ly/RAPVIETSS3"
+        },
+        {
+          "url": "https://bit.ly/NALASS5",
+          "text": "https://bit.ly/NALASS5"
+        },
+        {
+          "url": "https://bit.ly/HoaVươngFull",
+          "text": "https://bit.ly/HoaVươngFull"
+        },
+        {
+          "url": "https://bit.ly/TMSVNSS2",
+          "text": "https://bit.ly/TMSVNSS2"
+        },
+        {
+          "url": "http://viechannel.vn/",
+          "text": "http://viechannel.vn/"
+        },
+        {
+          "url": "https://www.facebook.com/VieChannelHTV2/",
+          "text": "  / viechannelhtv2  "
+        },
+        {
+          "url": "https://www.instagram.com/viechannelhtv2/",
+          "text": "  / viechannelhtv2  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 20,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=S%C3%B3ng+21+ch%C6%B0%C6%A1ng+tr%C3%ACnh+%C4%91%C3%AAm+giao+th%E1%BB%ABa+full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [
+        "#VieGIẢITRÍ​",
+        "#anhtraisayhi",
+        "#HIEUTHUHAI"
+      ],
+      "isMembersOnly": false,
+      "input": "Sóng 21 chương trình đêm giao thừa full",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sóng 22 – Chương trình giải trí Đêm Giao Thừa 2022 hội tụ hơn 100 nghệ sĩ hàng đầu Việt Nam Tết 2022",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "wFuMcQw_uDM",
+      "url": "https://www.youtube.com/watch?v=wFuMcQw_uDM",
+      "thumbnailUrl": "https://i.ytimg.com/vi/wFuMcQw_uDM/maxresdefault.jpg",
+      "viewCount": 8529606,
+      "date": "2022-01-31T12:15:16.000Z",
+      "likes": 64000,
+      "location": null,
+      "channelName": "VieSTARS",
+      "channelUrl": "https://www.youtube.com/@VieSTARS_Official",
+      "channelUsername": "VieSTARS_Official",
+      "collaborators": null,
+      "channelId": "UCDV0U41nnwOZyKMW4e7oExQ",
+      "numberOfSubscribers": 737000,
+      "duration": "04:44:20",
+      "commentsCount": 3641,
+      "text": "Đón xem Sóng 22 được phát sóng đồng thời  trên 3 kênh truyền hình Vie Channel – HTV2, Vie GiảiTrí, Vie Dramas và siêu ứng dụng VieON vào đêm Giao thừa Tết Nhâm Dần 2022.\n\n#Sóng22​ #SóngXuân​ #VieChannelHTV2\n#Song22 #SongXuan #XuanNhamDan\n\n#VieChannel_HTV2 #VieGIẢITRÍ​ #VieGIAITRI​ #VieON\n\n📣 Đừng quên subscribe để xem thật nhiều phim mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieChannelHTV2\n\nXem các chương trình hấp dẫn khác của Vie Channel - HTV2:\n►Siêu Trí Tuệ Full: https://bit.ly/SieuTriTue_Mua2_Full\n►Rap Việt Full: http://bit.ly/RAPVIET_official_playlistFULL\n►Người Ấy Là Ai Full: https://bit.ly/2XnUnQJ\n►Hải Đường Trong Gió Full: https://bit.ly/31iPKZA\n►Nhanh Như Chớp Nhí Full: https://bit.ly/2EC1m1Q\n►Ai Là Số 1 Full: https://bit.ly/2xMrL9I\n►Đưa Em Về Nhà Full: https://bit.ly/3bRRzAh\n\nHoặc xem thêm trên hệ thống Vie Channel - HTV2:\n►Website: http://viechannel.vn/\n►Fanpage: https://www.facebook.com/VieChannelHTV2/\n►Instagram: https://www.instagram.com/viechannelhtv2/",
+      "translatedText": "Đón xem Sóng 22 được phát sóng đồng thời  trên 3 kênh truyền hình Vie Channel – HTV2, Vie GiảiTrí, Vie Dramas và siêu ứng dụng VieON vào đêm Giao thừa Tết Nhâm Dần 2022.\n\n#Sóng22​ #SóngXuân​ #VieChannelHTV2\n#Song22 #SongXuan #XuanNhamDan\n\n#VieChannel_HTV2 #VieGIẢITRÍ​ #VieGIAITRI​ #VieON\n\n📣 Đừng quên subscribe để xem thật nhiều phim mới nhé! \n🎈 Subscribe ngay: http://bit.ly/VieChannelHTV2\n\nXem các chương trình hấp dẫn khác của Vie Channel - HTV2:\n►Siêu Trí Tuệ Full: https://bit.ly/SieuTriTue_Mua2_Full\n►Rap Việt Full: http://bit.ly/RAPVIET_official_playli...\n►Người Ấy Là Ai Full: https://bit.ly/2XnUnQJ\n►Hải Đường Trong Gió Full: https://bit.ly/31iPKZA\n►Nhanh Như Chớp Nhí Full: https://bit.ly/2EC1m1Q\n►Ai Là Số 1 Full: https://bit.ly/2xMrL9I\n►Đưa Em Về Nhà Full: https://bit.ly/3bRRzAh\n\nHoặc xem thêm trên hệ thống Vie Channel - HTV2:\n►Website: http://viechannel.vn/\n►Fanpage:   / viechannelhtv2  \n►Instagram:   / viechannelhtv2  ",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ng22",
+          "text": "#Sóng22​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/s%C3%B3ngxu%C3%A2n",
+          "text": "#SóngXuân​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viechannelhtv2",
+          "text": "#VieChannelHTV2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/song22",
+          "text": "#Song22"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/songxuan",
+          "text": "#SongXuan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/xuannhamdan",
+          "text": "#XuanNhamDan"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viechannel_htv2",
+          "text": "#VieChannel_HTV2"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viegi%E1%BA%A3itr%C3%AD",
+          "text": "#VieGIẢITRÍ​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/viegiaitri",
+          "text": "#VieGIAITRI​"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vieon",
+          "text": "#VieON"
+        },
+        {
+          "url": "http://bit.ly/VieChannelHTV2",
+          "text": "http://bit.ly/VieChannelHTV2"
+        },
+        {
+          "url": "https://bit.ly/SieuTriTue_Mua2_Full",
+          "text": "https://bit.ly/SieuTriTue_Mua2_Full"
+        },
+        {
+          "url": "http://bit.ly/RAPVIET_official_playlistFULL",
+          "text": "http://bit.ly/RAPVIET_official_playli..."
+        },
+        {
+          "url": "https://bit.ly/2XnUnQJ",
+          "text": "https://bit.ly/2XnUnQJ"
+        },
+        {
+          "url": "https://bit.ly/31iPKZA",
+          "text": "https://bit.ly/31iPKZA"
+        },
+        {
+          "url": "https://bit.ly/2EC1m1Q",
+          "text": "https://bit.ly/2EC1m1Q"
+        },
+        {
+          "url": "https://bit.ly/2xMrL9I",
+          "text": "https://bit.ly/2xMrL9I"
+        },
+        {
+          "url": "https://bit.ly/3bRRzAh",
+          "text": "https://bit.ly/3bRRzAh"
+        },
+        {
+          "url": "http://viechannel.vn/",
+          "text": "http://viechannel.vn/"
+        },
+        {
+          "url": "https://www.facebook.com/VieChannelHTV2/",
+          "text": "  / viechannelhtv2  "
+        },
+        {
+          "url": "https://www.instagram.com/viechannelhtv2/",
+          "text": "  / viechannelhtv2  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 5,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/results?search_query=S%C3%B3ng+21+ch%C6%B0%C6%A1ng+tr%C3%ACnh+%C4%91%C3%AAm+giao+th%E1%BB%ABa+full&sp=EgIQAQ%3D%3D",
+      "isMonetized": null,
+      "hashtags": [
+        "#VieGIẢITRÍ​",
+        "#VieChannelHTV2",
+        "#VieON"
+      ],
+      "isMembersOnly": false,
+      "input": "Sóng 21 chương trình đêm giao thừa full",
+      "isPaidContent": true
+    }
+  ]
+}

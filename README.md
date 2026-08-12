@@ -4,8 +4,9 @@ This repository builds an auditable registry of canonical full main-show episode
 YouTube channels. It records exact, timestamped video views; it does **not** estimate unique
 viewers or cross-platform audience.
 
-The current implementation is deliberately limited to the Phase 1 gate: configure all five Tier
-1 shows, validate the method on one `ATSH` source, and expand only after the pilot passes QC.
+The current implementation covers the seeded 30-show universe across Tiers 1-5. Seasons without
+a verified official YouTube source remain explicit source gaps rather than being filled from fan
+uploads or inferred metadata.
 
 ## Quick start
 
@@ -27,6 +28,16 @@ are written to `outputs/`.
 Do not publish a completed-season total unless its QC status is `PASS`. `WARNING` may be used for
 clearly disclosed caveats; `FAIL` suppresses the total. Only canonical video IDs contribute to
 normal aggregation, so syndicated copies and re-uploads are not silently double-counted.
+
+## Video typing and review
+
+The deterministic classifier records a `video_type` before deciding whether a candidate is a
+canonical main episode. It distinguishes numbered episodes, source-bound finales, annual full
+shows, previews, recaps, backstage material, compilations, music/performance assets, clips,
+special extras, annual fragments, and non-main-channel mirrors. Season configuration can enable
+bare episode numbers for rolling programs, while `config/decisions.yaml` records exceptional
+episode assignments and exclusions with an auditable reason. Ambiguous evidence remains in
+`manual_review.csv`; it is never silently promoted into aggregates.
 
 See [the architecture](docs/architecture.md) and the current
 [Apify actor selection](docs/research/apify-actor-selection.md).

@@ -1,10 +1,14 @@
 shows:
   ATSH:
+    tier: 1
     name: 'Anh Trai "Say Hi"'
     aliases: ["Anh Trai Say Hi", 'Anh Trai "Say Hi"', "ATSH"]
     comparison_group: music_fandom
     peer_role: direct_peer
     format_type: closed_season
+    producer: DatVietVAC / Vie Channel
+    broadcaster: HTV2 - Vie Channel / VieON
+    primary_youtube_channel_ids: [UCkna2OcuN1E6u5I8GVtdkOw]
     seasons:
       - season_id: ATSH_2024
         season_name: 'Anh Trai "Say Hi" 2024'
@@ -18,63 +22,510 @@ shows:
         season_name: 'Anh Trai "Say Hi" 2025'
         year: 2025
         status: completed
-        expected_episode_count: null
-        review_status: needs_source_verification
+        expected_episode_count: 14
+        official_playlist_id: PLxKLMN7WdG5BScv1MASDarMh12mB8tIU2
+        official_playlist_url: https://www.youtube.com/playlist?list=PLxKLMN7WdG5BScv1MASDarMh12mB8tIU2
+        review_status: source_verified
+        sources:
+          - source_type: official_channel_search
+            url: https://www.youtube.com/@VieChannelHTV2/search?query=ANH%20TRAI%20SAY%20HI%202025%20T%E1%BA%ACP
+            queries:
+              - ANH TRAI SAY HI 2025 TẬP 1 FULL
+              - ANH TRAI SAY HI 2025 TẬP 2 FULL
+              - ANH TRAI SAY HI 2025 TẬP 3 FULL
+              - ANH TRAI SAY HI 2025 TẬP 4 FULL
+              - ANH TRAI SAY HI 2025 TẬP 5 FULL
+              - ANH TRAI SAY HI 2025 TẬP 6 FULL
+              - ANH TRAI SAY HI 2025 TẬP 7 FULL
+              - ANH TRAI SAY HI 2025 TẬP 8 FULL
+              - ANH TRAI SAY HI 2025 TẬP 9 FULL
+              - ANH TRAI SAY HI 2025 TẬP 10 FULL
+              - ANH TRAI SAY HI 2025 TẬP 11 FULL
+              - ANH TRAI SAY HI 2025 TẬP 12 FULL
+              - ANH TRAI SAY HI 2025 TẬP 13 FULL
+              - ANH TRAI SAY HI 2025 TẬP 14 FULL
+            channel_id: UCkna2OcuN1E6u5I8GVtdkOw
+            authority_status: verified
+            actor: streamers/youtube-scraper
+            max_results: 3
+            canonical_enumeration: true
+            evidence_url: https://vieon.vn/anh-trai-say-hi-2025.html
+            notes: Official playlist is source-verified but returned NO_VIDEOS to the Actor.
   EXSH:
+    tier: 1
     name: 'Em Xinh "Say Hi"'
     aliases: ["Em Xinh Say Hi", 'Em Xinh "Say Hi"', "EXSH"]
     comparison_group: music_fandom
     peer_role: direct_peer
     format_type: closed_season
+    producer: DatVietVAC / Vie Channel
+    broadcaster: HTV2 - Vie Channel / VieON
+    primary_youtube_channel_ids: [UCkna2OcuN1E6u5I8GVtdkOw]
     seasons:
       - season_id: EXSH_2025
         season_name: 'Em Xinh "Say Hi" 2025'
         year: 2025
         status: completed
-        expected_episode_count: null
-        review_status: needs_source_verification
+        expected_episode_count: 14
+        official_playlist_id: PLxKLMN7WdG5D1LrbMdeJMn_fL9FrQbJ6V
+        official_playlist_url: https://www.youtube.com/playlist?list=PLxKLMN7WdG5D1LrbMdeJMn_fL9FrQbJ6V
+        review_status: source_verified
   THSH:
+    tier: 1
     name: 'Tinh Hà "Say Hi"'
     aliases: ["Tinh Ha Say Hi", "Tinh Hà Say Hi", 'Tinh Hà "Say Hi"', "THSH"]
     comparison_group: music_fandom
     peer_role: direct_peer
     format_type: closed_season
+    producer: DatVietVAC / Vie Channel
+    broadcaster: HTV2 - Vie Channel / VieON
+    primary_youtube_channel_ids: [UCkna2OcuN1E6u5I8GVtdkOw]
     seasons:
       - season_id: THSH_2026
         season_name: 'Tinh Hà "Say Hi" 2026'
         year: 2026
-        status: unknown
-        expected_episode_count: null
-        review_status: needs_source_verification
+        status: airing
+        expected_episode_count: 14
+        review_status: source_verified_search_required
+        sources:
+          - source_type: official_channel_search
+            url: https://www.youtube.com/@VieChannelHTV2/search?query=TINH%20H%C3%80%20SAY%20HI%20T%E1%BA%ACP
+            queries:
+              - TINH HÀ SAY HI TẬP 1 FULL
+              - TINH HÀ SAY HI TẬP 2 FULL
+              - TINH HÀ SAY HI TẬP 3 FULL
+              - TINH HÀ SAY HI TẬP 4 FULL
+              - TINH HÀ SAY HI TẬP 5 FULL
+              - TINH HÀ SAY HI TẬP 6 FULL
+            channel_id: UCkna2OcuN1E6u5I8GVtdkOw
+            authority_status: verified
+            actor: streamers/youtube-scraper
+            max_results: 3
+            canonical_enumeration: true
+            evidence_url: https://www.youtube.com/watch?v=0mQn-pPDLuM
+            notes: Official-channel bounded search; no official full-episode playlist at cutoff.
   ATVNCG:
+    tier: 1
     name: "Anh Trai Vượt Ngàn Chông Gai"
     aliases: ["Anh Trai Vuot Ngan Chong Gai", "Anh Trai Vượt Ngàn Chông Gai", "ATVNCG"]
     comparison_group: music_fandom
     peer_role: direct_peer
     format_type: closed_season
+    producer: YeaH1
+    broadcaster: VTV3 / YEAH1 SHOW
+    primary_youtube_channel_ids: [UCh_zF2FsiCflCPgYDudtcqg]
     seasons:
       - season_id: ATVNCG_2024
         season_name: "Anh Trai Vượt Ngàn Chông Gai 2024"
         year: 2024
         status: completed
-        expected_episode_count: null
-        review_status: needs_source_verification
+        expected_episode_count: 15
+        official_playlist_id: PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq
+        official_playlist_url: https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq
+        review_status: source_verified
+      - season_id: ATVNCG_2026
+        season_name: "Anh Trai Vượt Ngàn Chông Gai 2026"
+        year: 2026
+        status: airing
+        expected_episode_count: 15
+        review_status: source_verified
+        sources:
+          - source_type: official_full_playlist
+            url: https://www.youtube.com/playlist?list=PLdWk-MlnCC7M
+            playlist_id: PLdWk-MlnCC7M
+            channel_id: UCh_zF2FsiCflCPgYDudtcqg
+            authority_status: verified
+            actor: streamers/youtube-scraper
+            max_results: 31
+            canonical_enumeration: true
+            evidence_url: https://www.yeah1group.com/tap-doan-yeah1-chinh-thuc-cong-bo-khoi-dong-du-an-chien-luoc-anh-trai-vuot-ngan-chong-gai-2026
+          - source_type: official_playlist_mirror
+            url: https://www.youtube.com/playlist?list=PLWaGid9TiMXE
+            playlist_id: PLWaGid9TiMXE
+            channel_id: UCh_zF2FsiCflCPgYDudtcqg
+            authority_status: verified
+            actor: streamers/youtube-scraper
+            max_results: 31
+            notes: Duplicate official mirror; never sum independently.
   CDDG:
+    tier: 1
     name: "Chị Đẹp Đạp Gió"
     aliases: ["Chi Dep Dap Gio", "Chị Đẹp Đạp Gió", "Chị Đẹp Đạp Gió Rẽ Sóng", "CDDG"]
     comparison_group: music_fandom
     peer_role: direct_peer
     format_type: closed_season
+    producer: YeaH1
+    broadcaster: VTV3 / YEAH1 SHOW
+    primary_youtube_channel_ids: [UCh_zF2FsiCflCPgYDudtcqg]
     seasons:
       - season_id: CDDG_2023
         season_name: "Chị Đẹp Đạp Gió Rẽ Sóng 2023"
         year: 2023
         status: completed
-        expected_episode_count: null
-        review_status: needs_source_verification
+        expected_episode_count: 15
+        official_playlist_id: PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A
+        official_playlist_url: https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A
+        review_status: source_verified
       - season_id: CDDG_2024
         season_name: "Chị Đẹp Đạp Gió 2024"
         year: 2024
         status: completed
+        expected_episode_count: 15
+        official_playlist_id: PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF
+        official_playlist_url: https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF
+        review_status: source_verified
+  RAPVIET:
+    tier: 2
+    name: "Rap Việt"
+    aliases: ["Rap Việt", "Rap Viet"]
+    comparison_group: music_talent
+    peer_role: direct_peer
+    format_type: closed_season
+    producer: DatVietVAC / Vie Channel
+    broadcaster: HTV2 - Vie Channel / VieON
+    primary_youtube_channel_ids: [UCkna2OcuN1E6u5I8GVtdkOw]
+    seasons:
+      - season_id: RAPVIET_2020
+        season_name: "Rap Việt Mùa 1"
+        year: 2020
+        status: completed
+        expected_episode_count: 16
+        review_status: official_channel_search
+        sources:
+          - source_type: official_channel_search
+            url: https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw/search?query=Rap%20Viet%202020%20Tap
+            channel_id: UCkna2OcuN1E6u5I8GVtdkOw
+            queries: ["Rap Việt 2020 Tập Full"]
+            max_results: 60
+            canonical_enumeration: true
+      - season_id: RAPVIET_2021
+        season_name: "Rap Việt Mùa 2"
+        year: 2021
+        status: completed
+        expected_episode_count: 16
+        review_status: official_channel_search
+        sources:
+          - source_type: official_channel_search
+            url: https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw/search?query=Rap%20Viet%202021%20Tap
+            channel_id: UCkna2OcuN1E6u5I8GVtdkOw
+            queries: ["Rap Việt Mùa 2 Tập Full"]
+            max_results: 60
+            canonical_enumeration: true
+      - season_id: RAPVIET_2023
+        season_name: "Rap Việt Mùa 3"
+        year: 2023
+        status: completed
+        expected_episode_count: 16
+        official_playlist_id: PLxKLMN7WdG5DYy2yJiXnhMVnvNN1e31l7
+        official_playlist_url: https://www.youtube.com/playlist?list=PLxKLMN7WdG5DYy2yJiXnhMVnvNN1e31l7
+        review_status: source_verified
+      - season_id: RAPVIET_2024
+        season_name: "Rap Việt Mùa 4"
+        year: 2024
+        status: completed
         expected_episode_count: null
-        review_status: needs_source_verification
+        review_status: count_conflict_official_channel_search
+        sources:
+          - source_type: official_channel_search
+            url: https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw/search?query=Rap%20Viet%202024%20Tap
+            channel_id: UCkna2OcuN1E6u5I8GVtdkOw
+            queries: ["Rap Việt 2024 Tập Full"]
+            max_results: 60
+            canonical_enumeration: true
+        notes: VieON has 16 catalog entries; YouTube final is numbered Tập 15.
+  TMSVN:
+    tier: 2
+    name: "The Masked Singer Vietnam"
+    aliases: ["The Masked Singer Vietnam", "Ca Sĩ Mặt Nạ", "Ca Si Mat Na", "TMSVN"]
+    comparison_group: music_talent
+    peer_role: direct_peer
+    format_type: closed_season
+    producer: DatVietVAC / Vie Channel
+    broadcaster: HTV2 - Vie Channel / VieON
+    primary_youtube_channel_ids: [UCkna2OcuN1E6u5I8GVtdkOw]
+    seasons:
+      - season_id: TMSVN_2022
+        season_name: "The Masked Singer Vietnam Mùa 1"
+        year: 2022
+        status: completed
+        expected_episode_count: 16
+        review_status: official_channel_search
+        sources:
+          - source_type: official_channel_search
+            url: https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw/search?query=Ca%20Si%20Mat%20Na%202022%20Tap
+            channel_id: UCkna2OcuN1E6u5I8GVtdkOw
+            queries: ["Ca Sĩ Mặt Nạ 2022 Tập Full"]
+            max_results: 60
+            canonical_enumeration: true
+        notes: Award and reveal program is a separate special, not episode 17.
+      - season_id: TMSVN_2023
+        season_name: "The Masked Singer Vietnam Mùa 2"
+        year: 2023
+        status: completed
+        expected_episode_count: 16
+        official_playlist_id: PLxKLMN7WdG5ANJruYBhSGi5UBRUIhQTbi
+        official_playlist_url: https://www.youtube.com/playlist?list=PLxKLMN7WdG5ANJruYBhSGi5UBRUIhQTbi
+        review_status: source_verified
+  TBTN:
+    tier: 2
+    name: "Tân Binh Toàn Năng"
+    aliases: ["Tân Binh Toàn Năng", "Tan Binh Toan Nang", "TBTN"]
+    comparison_group: music_fandom
+    peer_role: direct_peer
+    format_type: closed_season
+    producer: YeaH1
+    broadcaster: VTV3 / YeaH1 ONE
+    primary_youtube_channel_ids: [UC_np0YZuvNMIJceE6jHeggQ, UCh_zF2FsiCflCPgYDudtcqg]
+    seasons:
+      - season_id: TBTN_2025
+        season_name: "Tân Binh Toàn Năng 2025"
+        year: 2025
+        status: completed
+        expected_episode_count: 15
+        review_status: source_verified
+        sources:
+          - source_type: official_full_playlist
+            url: https://www.youtube.com/playlist?list=PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL
+            playlist_id: PLkdwPUk2nejAsI3DcmBXdLg1dv1M0XhrL
+            channel_id: UC_np0YZuvNMIJceE6jHeggQ
+            authority_status: verified
+            actor: streamers/youtube-scraper
+            max_results: 31
+            canonical_enumeration: true
+          - source_type: official_feeder_phase_playlist
+            url: https://www.youtube.com/playlist?list=PLG0XT99Vqlcvdcn3cPc7XIIzBz2k9o0RX
+            playlist_id: PLG0XT99Vqlcvdcn3cPc7XIIzBz2k9o0RX
+            channel_id: UCh_zF2FsiCflCPgYDudtcqg
+            authority_status: verified
+            actor: streamers/youtube-scraper
+            max_results: 30
+            notes: Separate 14-episode feeder phase; not a second season or canonical main phase.
+  OURSONG:
+    tier: 2
+    name: "Bài Hát Của Chúng Ta"
+    aliases: ["Bài Hát Của Chúng Ta", "Bai Hat Cua Chung Ta", "Our Song Vietnam", "Our Song Việt Nam"]
+    comparison_group: music_talent
+    peer_role: direct_peer
+    format_type: closed_season
+    producer: Dong Tay Promotion
+    broadcaster: VTV3 / VieON
+    primary_youtube_channel_ids: [UCFMEYTv6N64hIL9FlQ_hxBw]
+    seasons:
+      - season_id: OURSONG_2024
+        season_name: "Bài Hát Của Chúng Ta Mùa 1"
+        year: 2024
+        status: completed
+        expected_episode_count: 14
+        official_playlist_id: PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP
+        official_playlist_url: https://www.youtube.com/playlist?list=PLy_TpcUT2LZs0BkTqKYtAn61FZgtT3XwP
+        review_status: source_verified
+  VNIDOL:
+    tier: 2
+    name: "Vietnam Idol"
+    aliases: ["Vietnam Idol", "Thần Tượng Âm Nhạc Việt Nam", "Than Tuong Am Nhac Viet Nam"]
+    comparison_group: music_talent
+    peer_role: direct_peer
+    format_type: closed_season
+    broadcaster: VTV
+    primary_youtube_channel_ids: [UCs0N0TBi2j156kZ4AOnnB2g]
+    notes: Seasons 1-7 have verified season identity but unresolved counts and official archives.
+    seasons:
+      - {season_id: VNIDOL_2007, season_name: "Vietnam Idol Mùa 1", year: 2007, status: completed, expected_episode_count: null, review_status: source_gap}
+      - {season_id: VNIDOL_2008, season_name: "Vietnam Idol Mùa 2", year: 2008, status: completed, expected_episode_count: null, review_status: source_gap}
+      - {season_id: VNIDOL_2010, season_name: "Vietnam Idol Mùa 3", year: 2010, status: completed, expected_episode_count: null, review_status: source_gap}
+      - {season_id: VNIDOL_2012, season_name: "Vietnam Idol Mùa 4", year: 2012, status: completed, expected_episode_count: null, review_status: source_gap}
+      - {season_id: VNIDOL_2013, season_name: "Vietnam Idol Mùa 5", year: 2013, status: completed, expected_episode_count: null, review_status: source_gap}
+      - {season_id: VNIDOL_2015, season_name: "Vietnam Idol Mùa 6", year: 2015, status: completed, expected_episode_count: null, review_status: source_gap}
+      - {season_id: VNIDOL_2016, season_name: "Vietnam Idol Mùa 7", year: 2016, status: completed, expected_episode_count: null, review_status: source_gap}
+      - season_id: VNIDOL_2023
+        season_name: "Vietnam Idol Mùa 8"
+        year: 2023
+        status: completed
+        expected_episode_count: 16
+        review_status: official_channel_search
+        sources:
+          - source_type: official_channel_search
+            url: https://www.youtube.com/channel/UCs0N0TBi2j156kZ4AOnnB2g/search?query=Vietnam%20Idol%202023%20Tap
+            channel_id: UCs0N0TBi2j156kZ4AOnnB2g
+            queries: ["Vietnam Idol 2023 Tập Full"]
+            max_results: 60
+            canonical_enumeration: true
+  NHVDDP:
+    tier: 2
+    name: "Nữ Hoàng Vũ Đạo Đường Phố"
+    aliases: ["Nữ Hoàng Vũ Đạo Đường Phố", "Nu Hoang Vu Dao Duong Pho"]
+    comparison_group: music_talent
+    peer_role: adjacent_peer
+    format_type: closed_season
+    producer: Madison Media Group / Studio Gl1de / Needlab G&C
+    broadcaster: HTV
+    primary_youtube_channel_ids: [UCHNYJheRUSucT2rERYMn45A, UCbq8aOyj9ZtIqcD-0MwG1fQ]
+    seasons:
+      - season_id: NHVDDP_2024
+        season_name: "Nữ Hoàng Vũ Đạo Đường Phố Mùa 1"
+        year: 2024
+        status: completed
+        expected_episode_count: 15
+        review_status: mixed_source_verified
+        sources:
+          - source_type: official_show_playlist
+            url: https://www.youtube.com/playlist?list=PLJSRfYQoW3dlrKn-U263kJN6t8JogGz0r
+            playlist_id: PLJSRfYQoW3dlrKn-U263kJN6t8JogGz0r
+            channel_id: UCbq8aOyj9ZtIqcD-0MwG1fQ
+            authority_status: verified
+            actor: streamers/youtube-scraper
+            max_results: 50
+            canonical_enumeration: true
+            notes: Mixed official discovery playlist; filter and dedupe Madison and HTV mirrors.
+  2N1D:
+    tier: 3
+    name: "2 Ngày 1 Đêm"
+    aliases: ["2 Ngày 1 Đêm", "2 Ngay 1 Dem", "2N1D"]
+    comparison_group: travel_reality
+    peer_role: market_benchmark
+    format_type: episodic_reality
+    seasons: []
+  RMVN:
+    tier: 3
+    name: "Running Man Vietnam"
+    aliases: ["Running Man Vietnam", "Chạy Đi Chờ Chi", "Chay Di Cho Chi", "RMVN"]
+    comparison_group: celebrity_variety
+    peer_role: market_benchmark
+    format_type: episodic_reality
+    seasons: []
+  GDHAHA:
+    tier: 3
+    name: "Gia Đình Haha"
+    aliases: ["Gia Đình Haha", "Gia Dinh Haha"]
+    comparison_group: family_reality
+    peer_role: adjacent_peer
+    format_type: episodic_reality
+    seasons: []
+  SNN:
+    tier: 3
+    name: "Sao Nhập Ngũ"
+    aliases: ["Sao Nhập Ngũ", "Sao Nhap Ngu"]
+    comparison_group: military_reality
+    peer_role: market_benchmark
+    format_type: episodic_reality
+    seasons: []
+  CSQC:
+    tier: 3
+    name: "Chiến Sĩ Quả Cảm"
+    aliases: ["Chiến Sĩ Quả Cảm", "Chien Si Qua Cam"]
+    comparison_group: military_reality
+    peer_role: adjacent_peer
+    format_type: closed_season
+    seasons: []
+  DTGT:
+    tier: 3
+    name: "Đấu Trường Gia Tốc"
+    aliases: ["Đấu Trường Gia Tốc", "Dau Truong Gia Toc"]
+    comparison_group: celebrity_variety
+    peer_role: adjacent_peer
+    format_type: closed_season
+    seasons: []
+  TD1K2:
+    tier: 3
+    name: "Tổ Đội 1 Không 2"
+    aliases: ["Tổ Đội 1 Không 2", "To Doi 1 Khong 2"]
+    comparison_group: celebrity_variety
+    peer_role: adjacent_peer
+    format_type: closed_season
+    seasons: []
+  BTST:
+    tier: 3
+    name: "Bậc Thầy Săn Thưởng"
+    aliases: ["Bậc Thầy Săn Thưởng", "Bac Thay San Thuong"]
+    comparison_group: celebrity_variety
+    peer_role: adjacent_peer
+    format_type: closed_season
+    seasons: []
+  HTRR:
+    tier: 3
+    name: "Hành Trình Rực Rỡ"
+    aliases: ["Hành Trình Rực Rỡ", "Hanh Trinh Ruc Ro"]
+    comparison_group: travel_reality
+    peer_role: market_benchmark
+    format_type: episodic_reality
+    seasons: []
+  VQLG:
+    tier: 3
+    name: "Về Quê Làm Giàu"
+    aliases: ["Về Quê Làm Giàu", "Ve Que Lam Giau"]
+    comparison_group: family_reality
+    peer_role: adjacent_peer
+    format_type: episodic_reality
+    seasons: []
+  BOMD:
+    tier: 3
+    name: "Bố Ơi! Mình Đi Đâu Thế?"
+    aliases: ["Bố Ơi Mình Đi Đâu Thế", "Bo Oi Minh Di Dau The"]
+    comparison_group: family_reality
+    peer_role: market_benchmark
+    format_type: episodic_reality
+    seasons: []
+  BDSS:
+    tier: 3
+    name: "Biệt Đội Siêu Sao"
+    aliases: ["Biệt Đội Siêu Sao", "Biet Doi Sieu Sao"]
+    comparison_group: celebrity_variety
+    peer_role: adjacent_peer
+    format_type: closed_season
+    seasons: []
+  LCHC:
+    tier: 3
+    name: "La Cà Hát Ca"
+    aliases: ["La Cà Hát Ca", "La Ca Hat Ca"]
+    comparison_group: travel_reality
+    peer_role: adjacent_peer
+    format_type: episodic_reality
+    seasons: []
+  MVNBLST:
+    tier: 4
+    name: "Mẹ Vắng Nhà, Ba Là Siêu Nhân"
+    aliases: ["Mẹ Vắng Nhà Ba Là Siêu Nhân", "Me Vang Nha Ba La Sieu Nhan"]
+    comparison_group: family_reality
+    peer_role: market_benchmark
+    format_type: episodic_reality
+    seasons: []
+  MAGDV:
+    tier: 4
+    name: "Mái Ấm Gia Đình Việt"
+    aliases: ["Mái Ấm Gia Đình Việt", "Mai Am Gia Dinh Viet"]
+    comparison_group: family_reality
+    peer_role: market_benchmark
+    format_type: rolling_weekly
+    seasons: []
+  ATCDN:
+    tier: 4
+    name: "Anh Trai & Cái Đuôi Nhỏ"
+    aliases: ["Anh Trai & Cái Đuôi Nhỏ", "Anh Trai Và Cái Đuôi Nhỏ", "Anh Trai Va Cai Duoi Nho"]
+    comparison_group: family_reality
+    peer_role: adjacent_peer
+    format_type: closed_season
+    seasons: []
+  XHTDRLX:
+    tier: 4
+    name: "Xuân Hạ Thu Đông, Rồi Lại Xuân"
+    aliases: ["Xuân Hạ Thu Đông Rồi Lại Xuân", "Xuan Ha Thu Dong Roi Lai Xuan"]
+    comparison_group: music_talent
+    peer_role: adjacent_peer
+    format_type: closed_season
+    seasons: []
+  DUM:
+    tier: 4
+    name: "Điều Ước Của Mẹ"
+    aliases: ["Điều Ước Của Mẹ", "Dieu Uoc Cua Me"]
+    comparison_group: family_reality
+    peer_role: adjacent_peer
+    format_type: limited_special
+    seasons: []
+  SONG:
+    tier: 5
+    name: "Sóng"
+    aliases: ["Sóng", "Song"]
+    comparison_group: annual_special
+    peer_role: market_benchmark
+    format_type: annual_special
+    seasons: []

@@ -1,0 +1,1237 @@
+{
+  "actor_name": "streamers/youtube-scraper",
+  "actor_run_id": "COSBd4Rgf6dS5Wpji",
+  "dataset_id": "aqlr4qgQBqviqai5l",
+  "actor_build_id": "SUk0475fgtCh9zqMt",
+  "retrieved_at": "2026-08-12T14:19:29.834327+07:00",
+  "actor_input": {
+    "maxResults": 36,
+    "maxResultsShorts": 0,
+    "maxResultStreams": 0,
+    "startUrls": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n"
+      }
+    ],
+    "sourceBindingUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n"
+  },
+  "run_metadata": {
+    "status": "SUCCEEDED",
+    "startedAt": "2026-08-12T07:18:56.227Z",
+    "finishedAt": "2026-08-12T07:19:23.773Z",
+    "usageTotalUsd": 0.07200000000000001,
+    "chargedEventCounts": {
+      "result": 18,
+      "date-filter": 0,
+      "ai-video-description": 0,
+      "ai-video-summary": 0
+    }
+  },
+  "items": [
+    {
+      "title": "Trailer Tập 2 - Sao nhập ngũ Mùa 8 | Mạc Văn Khoa, Quang Đăng, Mr T - Cận Chiến Như Aquaman",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "ODSk3vAIFqc",
+      "url": "https://www.youtube.com/watch?v=ODSk3vAIFqc&list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n&index=14",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ODSk3vAIFqc/hqdefault.jpg",
+      "viewCount": 258872,
+      "date": "2019-01-10T09:00:02.000Z",
+      "likes": 811,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:01:14",
+      "commentsCount": 55,
+      "text": "💢Đón xem Tập 2 - Mùa 8 lúc 15h00 Thứ 6 - 11/01/2019\n💢Xem trọn bộ Mùa 8 - Sao nhập ngũ - Full HD tại địa chỉ: http://phim.keeng.vn/\n💢Đón xem Sao nhập ngũ các số mới nhất theo lịch chiếu dưới đây:\n🤗 11H00 CHỦ NHẬT hàng tuần trên Kênh TH QPVN.\n🤗 15h00 CHỦ NHẬT Trên KEENG MOVIES.\n🤗 15H00 Thứ 6 hàng tuần Trên Kênh Youtube từ ngày 04/01/2019.\n-----------------------------------\nFollow Fanpage hóng thông tin cập nhật: https://goo.gl/Du9VqY và có thêm cơ hội giao lưu với các nghệ sỹ tham gia chương trình, chơi minigame đón nhận quà tặng trị giá từ 500.000 vnđ đến 2.000.000 vnđ.\nCài đặt ngay app Keeng để xem online miễn phí nuột nà hơn. \n--------------------\nDirector: Lương Hải Khoa\nAssistant Director: Leo Kây; Mạnh Sơn.\nProducer & PM: Nguyễn Nga\nDP: Ước Ngọc\nCameraman: Tuấn Vũ; Trọng Hiếu; Hồng Thái; Vũ Thắng; Thảo Lưu; Mạnh Cường, Trùng Khánh.\nG&E: Lương Thành Linh; Hồng Quân; Vũ Ánh; Đức Lân; Tuấn Hiệp; Tuấn Anh.\nFly: Linh Lương; Ước Ngọc\nSet Decorator: Hải Kẹo\nPA: Ngọc Hoàng; Văn Tuyên\nEditor: Thanh Liêm; Thanh Tùng; Anh Đức\n------------------\nLiên hệ quảng cáo/tài trợ chương trình\nMr Quang Tùng: 096872.6872\n#mrT #macvankhoa #quangdang #saonhapnguss8",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "http://phim.keeng.vn/",
+          "text": "http://phim.keeng.vn/"
+        },
+        {
+          "url": "https://goo.gl/Du9VqY",
+          "text": "https://goo.gl/Du9VqY"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mrt",
+          "text": "#mrT"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/macvankhoa",
+          "text": "#macvankhoa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quangdang",
+          "text": "#quangdang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapnguss8",
+          "text": "#saonhapnguss8"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 13,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n",
+      "isMonetized": null,
+      "hashtags": [
+        "#macvankhoa",
+        "#mrT",
+        "#quangdang"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n",
+      "isPaidContent": false
+    },
+    {
+      "title": "Trailer Tập 3 - Sao nhập ngũ Mùa 8 | Mạc Văn Khoa, Mr T, Quang Đăng",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "ZWKYPJqYRaY",
+      "url": "https://www.youtube.com/watch?v=ZWKYPJqYRaY&list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n&index=13",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ZWKYPJqYRaY/maxresdefault.jpg",
+      "viewCount": 71541,
+      "date": "2019-01-17T09:00:03.000Z",
+      "likes": 236,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:01:03",
+      "commentsCount": 18,
+      "text": "💢Đón xem Tập 3 - Mùa 8 lúc 15h00 Thứ 6 - 18/01/2019\n💢Xem trọn bộ Mùa 8 - Sao nhập ngũ - Full HD tại địa chỉ: http://phim.keeng.vn/\n💢Đón xem Sao nhập ngũ các số mới nhất theo lịch chiếu dưới đây:\n🤗 11H00 CHỦ NHẬT hàng tuần trên Kênh TH QPVN.\n🤗 15h00 CHỦ NHẬT Trên KEENG MOVIES.\n🤗 15H00 Thứ 6 hàng tuần Trên Kênh Youtube từ ngày 04/01/2019.\n-----------------------------------\nFollow Fanpage hóng thông tin cập nhật: https://goo.gl/Du9VqY và có thêm cơ hội giao lưu với các nghệ sỹ tham gia chương trình, chơi minigame đón nhận quà tặng trị giá từ 500.000 vnđ đến 2.000.000 vnđ.\nCài đặt ngay app Keeng để xem online miễn phí nuột nà hơn. \n--------------------\nDirector: Lương Hải Khoa\nAssistant Director: Leo Kây; Mạnh Sơn.\nProducer & PM: Nguyễn Nga\nDP: Ước Ngọc\nCameraman: Tuấn Vũ; Trọng Hiếu; Hồng Thái; Vũ Thắng; Thảo Lưu; Mạnh Cường, Trùng Khánh.\nG&E: Lương Thành Linh; Hồng Quân; Vũ Ánh; Đức Lân; Tuấn Hiệp; Tuấn Anh.\nFly: Linh Lương; Ước Ngọc\nSet Decorator: Hải Kẹo\nPA: Ngọc Hoàng; Văn Tuyên\nEditor: Thanh Liêm; Thanh Tùng; Anh Đức\n------------------\nLiên hệ quảng cáo/tài trợ chương trình\nMr Quang Tùng: 096872.6872\n#mrT #macvankhoa #quangdang #saonhapnguss8",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "http://phim.keeng.vn/",
+          "text": "http://phim.keeng.vn/"
+        },
+        {
+          "url": "https://goo.gl/Du9VqY",
+          "text": "https://goo.gl/Du9VqY"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mrt",
+          "text": "#mrT"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/macvankhoa",
+          "text": "#macvankhoa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quangdang",
+          "text": "#quangdang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapnguss8",
+          "text": "#saonhapnguss8"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 12,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n",
+      "isMonetized": null,
+      "hashtags": [
+        "#macvankhoa",
+        "#mrT",
+        "#quangdang"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n",
+      "isPaidContent": false
+    },
+    {
+      "title": "Trailer Tập 7 - Sao nhập ngũ Mùa 8 | Mạc Văn Khoa, Quang Đăng, Mr T - Quên cả đớn đau",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "wxqjWV-a0xo",
+      "url": "https://www.youtube.com/watch?v=wxqjWV-a0xo&list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n&index=18",
+      "thumbnailUrl": "https://i.ytimg.com/vi/wxqjWV-a0xo/maxresdefault.jpg",
+      "viewCount": 55605,
+      "date": "2019-02-14T08:00:06.000Z",
+      "likes": 377,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:01:18",
+      "commentsCount": 17,
+      "text": "💢Đón xem Tập 7 - Mùa 8 lúc 15h00 Thứ 6 - 15/02/2019\n💢Xem trọn bộ Mùa 8 - Sao nhập ngũ - Full HD tại địa chỉ: http://phim.keeng.vn/\n💢Đón xem Sao nhập ngũ các số mới nhất theo lịch chiếu dưới đây:\n🤗 11H00 CHỦ NHẬT hàng tuần trên Kênh TH QPVN.\n🤗 15h00 CHỦ NHẬT Trên KEENG MOVIES.\n🤗 15H00 Thứ 6 hàng tuần Trên Kênh Youtube từ ngày 04/01/2019.\n-----------------------------------\nFollow Fanpage hóng thông tin cập nhật: https://goo.gl/Du9VqY và có thêm cơ hội giao lưu với các nghệ sỹ tham gia chương trình, chơi minigame đón nhận quà tặng trị giá từ 500.000 vnđ đến 2.000.000 vnđ.\nCài đặt ngay app Keeng để xem online miễn phí nuột nà hơn. \n--------------------\nDirector: Lương Hải Khoa\nAssistant Director: Leo Kây; Mạnh Sơn.\nProducer & PM: Nguyễn Nga\nDP: Ước Ngọc\nCameraman: Tuấn Vũ; Trọng Hiếu; Hồng Thái; Vũ Thắng; Thảo Lưu; Mạnh Cường, Trùng Khánh.\nG&E: Lương Thành Linh; Hồng Quân; Vũ Ánh; Đức Lân; Tuấn Hiệp; Tuấn Anh.\nFly: Linh Lương; Ước Ngọc\nSet Decorator: Hải Kẹo\nPA: Ngọc Hoàng; Văn Tuyên\nEditor: Thanh Liêm; Thanh Tùng; Anh Đức\n------------------\nLiên hệ quảng cáo/tài trợ chương trình\nMr Quang Tùng: 096872.6872\n#saonhapngu #mrT #macvankhoa #quangdang #saonhapnguss8",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "http://phim.keeng.vn/",
+          "text": "http://phim.keeng.vn/"
+        },
+        {
+          "url": "https://goo.gl/Du9VqY",
+          "text": "https://goo.gl/Du9VqY"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapngu",
+          "text": "#saonhapngu"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mrt",
+          "text": "#mrT"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/macvankhoa",
+          "text": "#macvankhoa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quangdang",
+          "text": "#quangdang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapnguss8",
+          "text": "#saonhapnguss8"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 17,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n",
+      "isMonetized": null,
+      "hashtags": [
+        "#macvankhoa",
+        "#mrT",
+        "#saonhapngu"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n",
+      "isPaidContent": false
+    },
+    {
+      "title": "Trailer Tập 6 - Sao nhập ngũ Mùa 8 | Mạc Văn Khoa, Mr T, Quang Đăng",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "9Y2Gja2Ktek",
+      "url": "https://www.youtube.com/watch?v=9Y2Gja2Ktek&list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n&index=17",
+      "thumbnailUrl": "https://i.ytimg.com/vi/9Y2Gja2Ktek/maxresdefault.jpg",
+      "viewCount": 34110,
+      "date": "2019-02-08T08:00:01.000Z",
+      "likes": 142,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:01:03",
+      "commentsCount": 12,
+      "text": "💢Xem trọn bộ Mùa 8 - Sao nhập ngũ - Full HD tại địa chỉ: http://phim.keeng.vn/\n💢Đón xem Sao nhập ngũ các số mới nhất theo lịch chiếu dưới đây:\n🤗 11H00 CHỦ NHẬT hàng tuần trên Kênh TH QPVN.\n🤗 15h00 CHỦ NHẬT Trên KEENG MOVIES.\n🤗 15H00 Thứ 6 hàng tuần Trên Kênh Youtube từ ngày 04/01/2019.\n-----------------------------------\nFollow Fanpage hóng thông tin cập nhật: https://goo.gl/Du9VqY và có thêm cơ hội giao lưu với các nghệ sỹ tham gia chương trình, chơi minigame đón nhận quà tặng trị giá từ 500.000 vnđ đến 2.000.000 vnđ.\nCài đặt ngay app Keeng để xem online miễn phí nuột nà hơn. \n--------------------\nDirector: Lương Hải Khoa\nAssistant Director: Lê Đức Cường; Leo Kây; Duy Ekin.\nProducer & PM: Nguyễn Nga\nDP: Mai Trùng Khánh & Ngô Thế Chiến\nCameraman: Tuấn Vũ; Tuấn Huy; Trọng Hiếu; Hồng Thái; Vũ Thành Nam.\nG&E: Lương Thành Linh; Hồng Quân; Vũ Ánh; Đức Lân; Tuấn Hiệp; Tuấn Anh.\nFly: Linh Lương; Ước Ngọc\nSet Decorator: Hải Kẹo\nPA: Ngọc Hoàng; Văn Tuyên; Hà Thanh\nEditor: Thanh Liêm; Thanh Tùng; Anh Đức\n------------------\nLiên hệ quảng cáo/tài trợ chương trình\nMr Quang Tùng: 096872.6872\n#saonhapnguss8 #macvankhoa #quangdang #mrT",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "http://phim.keeng.vn/",
+          "text": "http://phim.keeng.vn/"
+        },
+        {
+          "url": "https://goo.gl/Du9VqY",
+          "text": "https://goo.gl/Du9VqY"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapnguss8",
+          "text": "#saonhapnguss8"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/macvankhoa",
+          "text": "#macvankhoa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quangdang",
+          "text": "#quangdang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mrt",
+          "text": "#mrT"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 16,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n",
+      "isMonetized": null,
+      "hashtags": [
+        "#macvankhoa",
+        "#mrT",
+        "#saonhapnguss8"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ Mùa 8 | Mạc Văn Khoa Xanh Mặt Khi Các Chỉ Huy Bắt Bơi 12km",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "5o5WWvJm4AE",
+      "url": "https://www.youtube.com/watch?v=5o5WWvJm4AE&list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n&index=11",
+      "thumbnailUrl": "https://i.ytimg.com/vi/5o5WWvJm4AE/maxresdefault.jpg",
+      "viewCount": 532078,
+      "date": "2019-01-08T08:10:01.000Z",
+      "likes": 1800,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:02:59",
+      "commentsCount": 77,
+      "text": "Sao nhập ngũ Mùa 8 - Tập 1 | Mạc Văn Khoa, Quang Đăng và Mr T hội ngộ tranh \"lầy\"\n💢Xem trọn bộ Mùa 8 - Sao nhập ngũ - Full HD tại địa chỉ: http://phim.keeng.vn/\n💢Đón xem Sao nhập ngũ các số mới nhất theo lịch chiếu dưới đây:\n🤗 11H00 CHỦ NHẬT hàng tuần trên Kênh TH QPVN.\n🤗 15h00 CHỦ NHẬT Trên KEENG MOVIES.\n🤗 15H00 Thứ 6 hàng tuần Trên Kênh Youtube từ ngày 04/01/2019.\n-----------------------------------\nFollow Fanpage hóng thông tin cập nhật: https://goo.gl/Du9VqY và có thêm cơ hội giao lưu với các nghệ sỹ tham gia chương trình, chơi minigame đón nhận quà tặng trị giá từ 500.000 vnđ đến 2.000.000 vnđ.\nCài đặt ngay app Keeng để xem online miễn phí nuột nà hơn. \n--------------------\nDirector: Lương Hải Khoa\nAssistant Director: Leo Kây; Mạnh Sơn.\nProducer & PM: Nguyễn Nga\nDP: Ước Ngọc\nCameraman: Tuấn Vũ; Trọng Hiếu; Hồng Thái; Vũ Thắng; Thảo Lưu; Mạnh Cường, Trùng Khánh.\nG&E: Lương Thành Linh; Hồng Quân; Vũ Ánh; Đức Lân; Tuấn Hiệp; Tuấn Anh.\nFly: Linh Lương; Ước Ngọc\nSet Decorator: Hải Kẹo\nPA: Ngọc Hoàng; Văn Tuyên\nEditor: Thanh Liêm; Thanh Tùng; Anh Đức\n------------------\nLiên hệ quảng cáo/tài trợ chương trình\nMr Quang Tùng: 096872.6872\n#mrT #macvankhoa #quangdang #saonhapnguss8",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "http://phim.keeng.vn/",
+          "text": "http://phim.keeng.vn/"
+        },
+        {
+          "url": "https://goo.gl/Du9VqY",
+          "text": "https://goo.gl/Du9VqY"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mrt",
+          "text": "#mrT"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/macvankhoa",
+          "text": "#macvankhoa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quangdang",
+          "text": "#quangdang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapnguss8",
+          "text": "#saonhapnguss8"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 10,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n",
+      "isMonetized": null,
+      "hashtags": [
+        "#macvankhoa",
+        "#mrT",
+        "#quangdang"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ Mùa 8 - Hay nhất Tập 7 & 8 - Mạc Văn Khoa, Quang Đăng, Mr T",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "8UFgThe73As",
+      "url": "https://www.youtube.com/watch?v=8UFgThe73As&list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n&index=19",
+      "thumbnailUrl": "https://i.ytimg.com/vi/8UFgThe73As/maxresdefault.jpg",
+      "viewCount": 342020,
+      "date": "2019-02-20T08:00:02.000Z",
+      "likes": 2200,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:10:09",
+      "commentsCount": 144,
+      "text": "💢Sao nhập ngũ Mùa 8 - Tập 7 | Quên cả đơn đau - Mạc Văn Khoa, Quang Đăng, Mr T:    • Sao nhập ngũ Mùa 8 - Tập 7 | Quên cả đớn đ...  \n💢Xem trọn bộ Mùa 8 - Sao nhập ngũ - Full HD tại địa chỉ: http://phim.keeng.vn/\n💢Đón xem Sao nhập ngũ các số mới nhất theo lịch chiếu dưới đây:\n🤗 11H00 CHỦ NHẬT hàng tuần trên Kênh TH QPVN.\n🤗 15h00 CHỦ NHẬT Trên KEENG MOVIES.\n🤗 15H00 Thứ 6 hàng tuần Trên Kênh Youtube từ ngày 04/01/2019.\n-----------------------------------\nFollow Fanpage hóng thông tin cập nhật: https://goo.gl/Du9VqY và có thêm cơ hội giao lưu với các nghệ sỹ tham gia chương trình, chơi minigame đón nhận quà tặng trị giá từ 500.000 vnđ đến 2.000.000 vnđ.\nCài đặt ngay app Keeng để xem online miễn phí nuột nà hơn. \n--------------------\nDirector: Lương Hải Khoa\nAssistant Director: Long Kiều, Mạnh Sơn.\nProducer & PM: Nguyễn Nga\nDP: Ước Ngọc\nCameraman: Tuấn Vũ; Trọng Hiếu; Hồng Thái; Vũ Thắng; Thảo Lưu; Mạnh Cường; Trùng Khánh.\nG&E: Lương Thành Linh; Hồng Quân; Vũ Ánh; Đức Lân; Tuấn Hiệp; Tuấn Anh.\nFly: Linh Lương; Ước Ngọc\nSet Decorator: Hải Kẹo\nPA: Ngọc Hoàng; Văn Tuyên\nEditor: Thanh Liêm; Thanh Tùng; Anh Đức\n------------------\nLiên hệ quảng cáo/tài trợ chương trình\nMr Quang Tùng: 096872.6872\n#macvankhoa #quangdang #mrT #saonhapnguss8",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/watch?v=cepe5UE7GEU",
+          "text": "   • Sao nhập ngũ Mùa 8 - Tập 7 | Quên cả đớn đ...  "
+        },
+        {
+          "url": "http://phim.keeng.vn/",
+          "text": "http://phim.keeng.vn/"
+        },
+        {
+          "url": "https://goo.gl/Du9VqY",
+          "text": "https://goo.gl/Du9VqY"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/macvankhoa",
+          "text": "#macvankhoa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quangdang",
+          "text": "#quangdang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mrt",
+          "text": "#mrT"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapnguss8",
+          "text": "#saonhapnguss8"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 18,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n",
+      "isMonetized": null,
+      "hashtags": [
+        "#macvankhoa",
+        "#mrT",
+        "#quangdang"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ Mùa 8 | Đối Mặt Với Biển - Bật mí các trích đoạn hay nhất Tập 2",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "BV-42DTZp3o",
+      "url": "https://www.youtube.com/watch?v=BV-42DTZp3o&list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n&index=12",
+      "thumbnailUrl": "https://i.ytimg.com/vi/BV-42DTZp3o/maxresdefault.jpg",
+      "viewCount": 965120,
+      "date": "2019-01-09T08:00:01.000Z",
+      "likes": 7400,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:08:35",
+      "commentsCount": 440,
+      "text": "Sao nhập ngũ Mùa 8 | Đối Mặt Với Biển - Bật mí các trích đoạn hay nhất Tập 2\n-------------------------\n💢Đón xem Sao nhập ngũ Mùa 8 - Tập 2 - Trời ơi không thể tin - Mạc Văn Khoa và đồng đội lại làm điều này.\n💢Xem trọn bộ Mùa 8 - Sao nhập ngũ - Full HD tại địa chỉ: http://phim.keeng.vn/\n💢Đón xem Sao nhập ngũ các số mới nhất theo lịch chiếu dưới đây:\n🤗 11H00 CHỦ NHẬT hàng tuần trên Kênh TH QPVN.\n🤗 15h00 CHỦ NHẬT Trên KEENG MOVIES.\n🤗 15H00 Thứ 6 hàng tuần Trên Kênh Youtube từ ngày 04/01/2019.\n-----------------------------------\nFollow Fanpage hóng thông tin cập nhật: https://goo.gl/Du9VqY và có thêm cơ hội giao lưu với các nghệ sỹ tham gia chương trình, chơi minigame đón nhận quà tặng trị giá từ 500.000 vnđ đến 2.000.000 vnđ.\nCài đặt ngay app Keeng để xem online miễn phí nuột nà hơn. \n--------------------\nDirector: Lương Hải Khoa\nAssistant Director: Leo Kây; Mạnh Sơn.\nProducer & PM: Nguyễn Nga\nDP: Ước Ngọc\nCameraman: Tuấn Vũ; Trọng Hiếu; Hồng Thái; Vũ Thắng; Thảo Lưu; Mạnh Cường, Trùng Khánh.\nG&E: Lương Thành Linh; Hồng Quân; Vũ Ánh; Đức Lân; Tuấn Hiệp; Tuấn Anh.\nFly: Linh Lương; Ước Ngọc\nSet Decorator: Hải Kẹo\nPA: Ngọc Hoàng; Văn Tuyên\nEditor: Thanh Liêm; Thanh Tùng; Anh Đức\n------------------\nLiên hệ quảng cáo/tài trợ chương trình\nMr Quang Tùng: 096872.6872\n#mrT #macvankhoa #quangdang #saonhapnguss8",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "http://phim.keeng.vn/",
+          "text": "http://phim.keeng.vn/"
+        },
+        {
+          "url": "https://goo.gl/Du9VqY",
+          "text": "https://goo.gl/Du9VqY"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mrt",
+          "text": "#mrT"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/macvankhoa",
+          "text": "#macvankhoa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quangdang",
+          "text": "#quangdang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapnguss8",
+          "text": "#saonhapnguss8"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 11,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n",
+      "isMonetized": null,
+      "hashtags": [
+        "#macvankhoa",
+        "#mrT",
+        "#quangdang"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ Mùa 8 - Tập 6 | Cú đấm Knock Out - Mạc Văn Khoa, Quang Đăng, Mr T",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "5ZSO-pQs3fI",
+      "url": "https://www.youtube.com/watch?v=5ZSO-pQs3fI&list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n&index=6",
+      "thumbnailUrl": "https://i.ytimg.com/vi/5ZSO-pQs3fI/maxresdefault.jpg",
+      "viewCount": 4306854,
+      "date": "2019-02-08T08:00:01.000Z",
+      "likes": 19000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:31:02",
+      "commentsCount": 1390,
+      "text": "💢Sao nhập ngũ Mùa 8 - Tập 6 | Cú đấm knock out - Mạc Văn Khoa, Quang Đăng, Mr T\n💢Xem trọn bộ Mùa 8 - Sao nhập ngũ - Full HD tại địa chỉ: http://phim.keeng.vn/\n💢Đón xem Sao nhập ngũ các số mới nhất theo lịch chiếu dưới đây:\n🤗 11H00 CHỦ NHẬT hàng tuần trên Kênh TH QPVN.\n🤗 15h00 CHỦ NHẬT Trên KEENG MOVIES.\n🤗 15H00 Thứ 6 hàng tuần Trên Kênh Youtube từ ngày 04/01/2019.\n-----------------------------------\nFollow Fanpage hóng thông tin cập nhật: https://goo.gl/Du9VqY và có thêm cơ hội giao lưu với các nghệ sỹ tham gia chương trình, chơi minigame đón nhận quà tặng trị giá từ 500.000 vnđ đến 2.000.000 vnđ.\nCài đặt ngay app Keeng để xem online miễn phí nuột nà hơn. \n--------------------\nDirector: Lương Hải Khoa\nAssistant Director: Leo Kây; Mạnh Sơn.\nProducer & PM: Nguyễn Nga\nDP: Ước Ngọc\nCameraman: Tuấn Vũ; Trọng Hiếu; Hồng Thái; Vũ Thắng; Thảo Lưu; Mạnh Cường; Trùng Khánh.\nG&E: Lương Thành Linh; Hồng Quân; Vũ Ánh; Đức Lân; Tuấn Hiệp; Tuấn Anh.\nFly: Linh Lương; Ước Ngọc\nSet Decorator: Hải Kẹo\nPA: Ngọc Hoàng; Văn Tuyên\nEditor: Thanh Liêm; Thanh Tùng; Anh Đức\n------------------\nLiên hệ quảng cáo/tài trợ chương trình\nMr Quang Tùng: 096872.6872\n#saonhapnguss8 #macvankhoa #quangdang #mrT",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "http://phim.keeng.vn/",
+          "text": "http://phim.keeng.vn/"
+        },
+        {
+          "url": "https://goo.gl/Du9VqY",
+          "text": "https://goo.gl/Du9VqY"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapnguss8",
+          "text": "#saonhapnguss8"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/macvankhoa",
+          "text": "#macvankhoa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quangdang",
+          "text": "#quangdang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mrt",
+          "text": "#mrT"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 5,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n",
+      "isMonetized": null,
+      "hashtags": [
+        "#macvankhoa",
+        "#mrT",
+        "#saonhapnguss8"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ Mùa 8 - Tập 1 | M���c Văn Khoa, Quang Đăng và Mr T hội ngộ tranh \"lầy\"",
+      "translatedTitle": "Sao nhập ngũ Mùa 8 - Tập 1 | Mạc Văn Khoa, Quang Đăng và Mr T hội ngộ tranh \"lầy\"",
+      "type": "video",
+      "id": "agIY6NVhImE",
+      "url": "https://www.youtube.com/watch?v=agIY6NVhImE&list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n&index=1",
+      "thumbnailUrl": "https://i.ytimg.com/vi/agIY6NVhImE/maxresdefault.jpg",
+      "viewCount": 9580889,
+      "date": "2019-01-04T07:57:49.000Z",
+      "likes": 56000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:29:14",
+      "commentsCount": 3666,
+      "text": "Sao nhập ngũ Mùa 8 - Tập 1 | Mạc Văn Khoa, Quang Đăng và Mr T hội ngộ tranh \"lầy\"\n💢Xem trọn bộ Mùa 8 - Sao nhập ngũ - Full HD tại địa chỉ: http://phim.keeng.vn/\n💢Đón xem Sao nhập ngũ các số mới nhất theo lịch chiếu dưới đây:\n🤗 11H00 CHỦ NHẬT hàng tuần trên Kênh TH QPVN.\n🤗 15h00 CHỦ NHẬT Trên KEENG MOVIES.\n🤗 15H00 Thứ 6 hàng tuần Trên Kênh Youtube từ ngày 04/01/2019.\n-----------------------------------\nFollow Fanpage hóng thông tin cập nhật: https://goo.gl/Du9VqY và có thêm cơ hội giao lưu với các nghệ sỹ tham gia chương trình, chơi minigame đón nhận quà tặng trị giá từ 500.000 vnđ đến 2.000.000 vnđ.\nCài đặt ngay app Keeng để xem online miễn phí nuột nà hơn. \n--------------------\nDirector: Lương Hải Khoa\nAssistant Director: Leo Kây; Mạnh Sơn.\nProducer & PM: Nguyễn Nga\nDP: Ước Ngọc\nCameraman: Tuấn Vũ; Trọng Hiếu; Hồng Thái; Vũ Thắng; Thảo Lưu; Mạnh Cường, Trùng Khánh.\nG&E: Lương Thành Linh; Hồng Quân; Vũ Ánh; Đức Lân; Tuấn Hiệp; Tuấn Anh.\nFly: Linh Lương; Ước Ngọc\nSet Decorator: Hải Kẹo\nPA: Ngọc Hoàng; Văn Tuyên\nEditor: Thanh Liêm; Thanh Tùng; Anh Đức\n------------------\nLiên hệ quảng cáo/tài trợ chương trình\nMr Quang Tùng: 096872.6872\n#mrT #macvankhoa #quangdang #saonhapnguss8",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "http://phim.keeng.vn/",
+          "text": "http://phim.keeng.vn/"
+        },
+        {
+          "url": "https://goo.gl/Du9VqY",
+          "text": "https://goo.gl/Du9VqY"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mrt",
+          "text": "#mrT"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/macvankhoa",
+          "text": "#macvankhoa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quangdang",
+          "text": "#quangdang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapnguss8",
+          "text": "#saonhapnguss8"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 0,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n",
+      "isMonetized": null,
+      "hashtags": [
+        "#macvankhoa",
+        "#mrT",
+        "#quangdang"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ Mùa 8 - Tập 2 | \"Trời Ơi! Không Tin Được\" - Mạc Văn Khoa Cùng Đồng Đội Lại Làm Điều Này",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "mFX4I47cr-g",
+      "url": "https://www.youtube.com/watch?v=mFX4I47cr-g&list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n&index=2",
+      "thumbnailUrl": "https://i.ytimg.com/vi/mFX4I47cr-g/maxresdefault.jpg",
+      "viewCount": 3525685,
+      "date": "2019-01-11T07:57:41.000Z",
+      "likes": 21000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:30:58",
+      "commentsCount": 1798,
+      "text": "💢Sao nhập ngũ Mùa 8 - Tập 2 | \"Trời Ơi! Không Tin Được - Mạc Văn Khoa Cùng Đồng Đội Lại Làm Điều Này\n💢Xem trọn bộ Mùa 8 - Sao nhập ngũ - Full HD tại địa chỉ: http://phim.keeng.vn/\n💢Đón xem Sao nhập ngũ các số mới nhất theo lịch chiếu dưới đây:\n🤗 11H00 CHỦ NHẬT hàng tuần trên Kênh TH QPVN.\n🤗 15h00 CHỦ NHẬT Trên KEENG MOVIES.\n🤗 15H00 Thứ 6 hàng tuần Trên Kênh Youtube từ ngày 04/01/2019.\n-----------------------------------\nFollow Fanpage hóng thông tin cập nhật: https://goo.gl/Du9VqY và có thêm cơ hội giao lưu với các nghệ sỹ tham gia chương trình, chơi minigame đón nhận quà tặng trị giá từ 500.000 vnđ đến 2.000.000 vnđ.\nCài đặt ngay app Keeng để xem online miễn phí nuột nà hơn. \n--------------------\nDirector: Lương Hải Khoa\nAssistant Director: Leo Kây; Mạnh Sơn.\nProducer & PM: Nguyễn Nga\nDP: Ước Ngọc\nCameraman: Tuấn Vũ; Trọng Hiếu; Hồng Thái; Vũ Thắng; Thảo Lưu; Mạnh Cường, Trùng Khánh.\nG&E: Lương Thành Linh; Hồng Quân; Vũ Ánh; Đức Lân; Tuấn Hiệp; Tuấn Anh.\nFly: Linh Lương; Ước Ngọc\nSet Decorator: Hải Kẹo\nPA: Ngọc Hoàng; Văn Tuyên\nEditor: Thanh Liêm; Thanh Tùng; Anh Đức\n------------------\nLiên hệ quảng cáo/tài trợ chương trình\nMr Quang Tùng: 096872.6872\n#mrT #macvankhoa #quangdang #saonhapnguss8",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "http://phim.keeng.vn/",
+          "text": "http://phim.keeng.vn/"
+        },
+        {
+          "url": "https://goo.gl/Du9VqY",
+          "text": "https://goo.gl/Du9VqY"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mrt",
+          "text": "#mrT"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/macvankhoa",
+          "text": "#macvankhoa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quangdang",
+          "text": "#quangdang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapnguss8",
+          "text": "#saonhapnguss8"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 1,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n",
+      "isMonetized": null,
+      "hashtags": [
+        "#macvankhoa",
+        "#mrT",
+        "#quangdang"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ Mùa 8 - Tập 3 | Mr T, Mạc Văn Khoa, Quang Đăng \"hút chết\" trên biển",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "yL5RZumQR8g",
+      "url": "https://www.youtube.com/watch?v=yL5RZumQR8g&list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n&index=3",
+      "thumbnailUrl": "https://i.ytimg.com/vi/yL5RZumQR8g/maxresdefault.jpg",
+      "viewCount": 2182671,
+      "date": "2019-01-18T08:00:10.000Z",
+      "likes": 11000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:33:20",
+      "commentsCount": 773,
+      "text": "💢Sao nhập ngũ Mùa 8 - Tập 3 | Mr T, Mạc Văn Khoa, Quang Đăng \"hút chết\" trên biển\n💢Xem trọn bộ Mùa 8 - Sao nhập ngũ - Full HD tại địa chỉ: http://phim.keeng.vn/\n💢Đón xem Sao nhập ngũ các số mới nhất theo lịch chiếu dưới đây:\n🤗 11H00 CHỦ NHẬT hàng tuần trên Kênh TH QPVN.\n🤗 15h00 CHỦ NHẬT Trên KEENG MOVIES.\n🤗 15H00 Thứ 6 hàng tuần Trên Kênh Youtube từ ngày 04/01/2019.\n-----------------------------------\nFollow Fanpage hóng thông tin cập nhật: https://goo.gl/Du9VqY và có thêm cơ hội giao lưu với các nghệ sỹ tham gia chương trình, chơi minigame đón nhận quà tặng trị giá từ 500.000 vnđ đến 2.000.000 vnđ.\nCài đặt ngay app Keeng để xem online miễn phí nuột nà hơn. \n-----------------------------------\nDirector: Lương Hải Khoa\nAssistant Director: Leo Kây; Mạnh Sơn.\nProducer & PM: Nguyễn Nga\nDP: Ước Ngọc\nCameraman: Tuấn Vũ; Trọng Hiếu; Hồng Thái; Vũ Thắng; Thảo Lưu; Mạnh Cường, Trùng Khánh.\nG&E: Lương Thành Linh; Hồng Quân; Vũ Ánh; Đức Lân; Tuấn Hiệp; Tuấn Anh.\nFly: Linh Lương; Ước Ngọc\nSet Decorator: Hải Kẹo\nPA: Ngọc Hoàng; Văn Tuyên\nEditor: Thanh Liêm; Thanh Tùng; Anh Đức\n------------------\nLiên hệ quảng cáo/tài trợ chương trình\nMr Quang Tùng: 096872.6872\n#mrT #macvankhoa #quangdang #saonhapnguss8",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "http://phim.keeng.vn/",
+          "text": "http://phim.keeng.vn/"
+        },
+        {
+          "url": "https://goo.gl/Du9VqY",
+          "text": "https://goo.gl/Du9VqY"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mrt",
+          "text": "#mrT"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/macvankhoa",
+          "text": "#macvankhoa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quangdang",
+          "text": "#quangdang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapnguss8",
+          "text": "#saonhapnguss8"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 2,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n",
+      "isMonetized": null,
+      "hashtags": [
+        "#macvankhoa",
+        "#mrT",
+        "#quangdang"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ Mùa 8  - Những pha hài hước bựa nhất Mạc Văn Khoa, Quang Đăng, Mr T",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "N8n_CEtXev0",
+      "url": "https://www.youtube.com/watch?v=N8n_CEtXev0&list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n&index=10",
+      "thumbnailUrl": "https://i.ytimg.com/vi/N8n_CEtXev0/maxresdefault.jpg",
+      "viewCount": 1386197,
+      "date": "2019-01-03T12:57:43.000Z",
+      "likes": 9300,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:02:12",
+      "commentsCount": 565,
+      "text": "💢Đón xem Tập 1 - Mùa 8 trên Kênh Youtube lúc 15h00 ngày mai Thứ 6 - 04/01/2019\nSao nhập ngũ Mùa 8 - Tập 1 | Mạc Văn Khoa, Quang Đăng và Mr T hội ngộ tranh \"lầy\"\n💢Xem trọn bộ Mùa 8 - Sao nhập ngũ - Full HD tại địa chỉ: http://phim.keeng.vn/\n💢Đón xem Sao nhập ngũ các số mới nhất theo lịch chiếu dưới đây:\n🤗 11H00 CHỦ NHẬT hàng tuần trên Kênh TH QPVN.\n🤗 15h00 CHỦ NHẬT Trên KEENG MOVIES.\n🤗 15H00 Thứ 6 hàng tuần Trên Kênh Youtube từ ngày 04/01/2019.\n-----------------------------------\nFollow Fanpage hóng thông tin cập nhật: https://goo.gl/Du9VqY và có thêm cơ hội giao lưu với các nghệ sỹ tham gia chương trình, chơi minigame đón nhận quà tặng trị giá từ 500.000 vnđ đến 2.000.000 vnđ.\nCài đặt ngay app Keeng để xem online miễn phí nuột nà hơn. \n--------------------\nDirector: Lương Hải Khoa\nAssistant Director: Leo Kây; Mạnh Sơn.\nProducer & PM: Nguyễn Nga\nDP: Ước Ngọc\nCameraman: Tuấn Vũ; Trọng Hiếu; Hồng Thái; Vũ Thắng; Thảo Lưu; Mạnh Cường, Trùng Khánh.\nG&E: Lương Thành Linh; Hồng Quân; Vũ Ánh; Đức Lân; Tuấn Hiệp; Tuấn Anh.\nFly: Linh Lương; Ước Ngọc\nSet Decorator: Hải Kẹo\nPA: Ngọc Hoàng; Văn Tuyên\nEditor: Thanh Liêm; Thanh Tùng; Anh Đức\n------------------\nLiên hệ quảng cáo/tài trợ chương trình\nMr Quang Tùng: 096872.6872\n#mrT #macvankhoa #quangdang #saonhapnguss8",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "http://phim.keeng.vn/",
+          "text": "http://phim.keeng.vn/"
+        },
+        {
+          "url": "https://goo.gl/Du9VqY",
+          "text": "https://goo.gl/Du9VqY"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mrt",
+          "text": "#mrT"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/macvankhoa",
+          "text": "#macvankhoa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quangdang",
+          "text": "#quangdang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapnguss8",
+          "text": "#saonhapnguss8"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 9,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n",
+      "isMonetized": null,
+      "hashtags": [
+        "#macvankhoa",
+        "#mrT",
+        "#quangdang"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ Mùa 8 - Tập 8 | Nhập ngũ thật là ngầu - Mạc Văn Khoa, Quang Đăng, Mr T",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "X8x5TdthykY",
+      "url": "https://www.youtube.com/watch?v=X8x5TdthykY&list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n&index=8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/X8x5TdthykY/maxresdefault.jpg",
+      "viewCount": 1503931,
+      "date": "2019-02-22T08:49:20.000Z",
+      "likes": 9100,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:32:51",
+      "commentsCount": 761,
+      "text": "💢Sao nhập ngũ Mùa 8 - Tập 8 | Nhập ngũ thật là ngầu - Mạc Văn Khoa, Quang Đăng, Mr T\n💢Đón xem Sao nhập ngũ các số mới nhất theo lịch chiếu dưới đây:\n🤗 11H00 CHỦ NHẬT hàng tuần trên Kênh TH QPVN.\n🤗 15h00 CHỦ NHẬT Trên KEENG MOVIES.\n🤗 15H00 Thứ 6 hàng tuần Trên Kênh Youtube từ ngày 04/01/2019.\n-----------------------------------\nFollow Fanpage hóng thông tin cập nhật: https://goo.gl/Du9VqY và có thêm cơ hội giao lưu với các nghệ sỹ tham gia chương trình, chơi minigame đón nhận quà tặng trị giá từ 500.000 vnđ đến 2.000.000 vnđ.\nCài đặt ngay app Keeng để xem online miễn phí nuột nà hơn. \n--------------------\nDirector: Lương Hải Khoa\nAssistant Director: Lê Đức Cường; Leo Kây; Duy Ekin.\nProducer & PM: Nguyễn Nga\nDP: Mai Trùng Khánh & Ngô Thế Chiến\nCameraman: Tuấn Vũ; Tuấn Huy; Trọng Hiếu; Hồng Thái; Vũ Thành Nam.\nG&E: Lương Thành Linh; Hồng Quân; Vũ Ánh; Đức Lân; Tuấn Hiệp; Tuấn Anh.\nFly: Linh Lương; Ước Ngọc\nSet Decorator: Hải Kẹo\nPA: Ngọc Hoàng; Văn Tuyên; Hà Thanh\nEditor: Thanh Liêm; Thanh Tùng; Anh Đức\n------------------\nLiên hệ quảng cáo/tài trợ chương trình\nMr Quang Tùng: 096872.6872\n#saonhapnguss8 #macvankhoa #quangdang #mrT",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://goo.gl/Du9VqY",
+          "text": "https://goo.gl/Du9VqY"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapnguss8",
+          "text": "#saonhapnguss8"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/macvankhoa",
+          "text": "#macvankhoa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quangdang",
+          "text": "#quangdang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mrt",
+          "text": "#mrT"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 7,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n",
+      "isMonetized": null,
+      "hashtags": [
+        "#macvankhoa",
+        "#mrT",
+        "#saonhapnguss8"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n",
+      "isPaidContent": false
+    },
+    {
+      "title": "Trailer Tập 5 - Sao nhập ngũ Mùa 8 | Chạm Ngưỡng Giới Hạn - Mạc Văn Khoa, Quang Đăng, Mr T",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "6jLUP46cwGM",
+      "url": "https://www.youtube.com/watch?v=6jLUP46cwGM&list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n&index=16",
+      "thumbnailUrl": "https://i.ytimg.com/vi/6jLUP46cwGM/maxresdefault.jpg",
+      "viewCount": 47682,
+      "date": "2019-01-31T08:00:02.000Z",
+      "likes": 280,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:00:54",
+      "commentsCount": 14,
+      "text": "💢Đón xem Tập 5 - Mùa 8 lúc 15h00 Thứ 6 - 01/02/2019.\n💢Xem trọn bộ Mùa 8 - Sao nhập ngũ - Full HD tại địa chỉ: http://phim.keeng.vn/   \n💢Đón xem Sao nhập ngũ các số mới nhất theo lịch chiếu dưới đây:\n🤗 11H00 CHỦ NHẬT hàng tuần trên Kênh TH QPVN.\n🤗 15h00 CHỦ NHẬT Trên KEENG MOVIES.\n🤗 15H00 Thứ 6 hàng tuần Trên Kênh Youtube từ ngày 04/01/2019.\n-----------------------------------\nFollow Fanpage hóng thông tin cập nhật: https://goo.gl/Du9VqY và có thêm cơ hội giao lưu với các nghệ sỹ tham gia chương trình, chơi minigame đón nhận quà tặng trị giá từ 500.000 vnđ đến 2.000.000 vnđ.\nCài đặt ngay app Keeng để xem online miễn phí nuột nà hơn. \n-----------------------------------\nDirector: Lương Hải Khoa\nAssistant Director: Leo Kây; Mạnh Sơn.\nProducer & PM: Nguyễn Nga\nDP: Ước Ngọc\nCameraman: Tuấn Vũ; Trọng Hiếu; Hồng Thái; Vũ Thắng; Thảo Lưu; Mạnh Cường, Trùng Khánh.\nG&E: Lương Thành Linh; Hồng Quân; Vũ Ánh; Đức Lân; Tuấn Hiệp; Tuấn Anh.\nFly: Linh Lương; Ước Ngọc\nSet Decorator: Hải Kẹo\nPA: Ngọc Hoàng; Văn Tuyên\nEditor: Thanh Liêm; Thanh Tùng; Anh Đức\n------------------\nLiên hệ quảng cáo/tài trợ chương trình\nMr Quang Tùng: 096872.6872\n#mrT #macvankhoa #quangdang #saonhapnguss8",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "http://phim.keeng.vn/",
+          "text": "http://phim.keeng.vn/"
+        },
+        {
+          "url": "https://goo.gl/Du9VqY",
+          "text": "https://goo.gl/Du9VqY"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mrt",
+          "text": "#mrT"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/macvankhoa",
+          "text": "#macvankhoa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quangdang",
+          "text": "#quangdang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapnguss8",
+          "text": "#saonhapnguss8"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 15,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n",
+      "isMonetized": null,
+      "hashtags": [
+        "#macvankhoa",
+        "#mrT",
+        "#quangdang"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ Mùa 8 - Tập 7 | Quên cả đớn đau - Mạc Văn Khoa, Quang Đăng, Mr T",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "cepe5UE7GEU",
+      "url": "https://www.youtube.com/watch?v=cepe5UE7GEU&list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n&index=7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/cepe5UE7GEU/maxresdefault.jpg",
+      "viewCount": 1732575,
+      "date": "2019-02-15T07:57:42.000Z",
+      "likes": 10000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:32:37",
+      "commentsCount": 1247,
+      "text": "💢Sao nhập ngũ Mùa 8 - Tập 7 | Quên cả đơn đau - Mạc Văn Khoa, Quang Đăng, Mr T\n💢Xem trọn bộ Mùa 8 - Sao nhập ngũ - Full HD tại địa chỉ: http://phim.keeng.vn/\n💢Đón xem Sao nhập ngũ các số mới nhất theo lịch chiếu dưới đây:\n🤗 11H00 CHỦ NHẬT hàng tuần trên Kênh TH QPVN.\n🤗 15h00 CHỦ NHẬT Trên KEENG MOVIES.\n🤗 15H00 Thứ 6 hàng tuần Trên Kênh Youtube từ ngày 04/01/2019.\n-----------------------------------\nFollow Fanpage hóng thông tin cập nhật: https://goo.gl/Du9VqY và có thêm cơ hội giao lưu với các nghệ sỹ tham gia chương trình, chơi minigame đón nhận quà tặng trị giá từ 500.000 vnđ đến 2.000.000 vnđ.\nCài đặt ngay app Keeng để xem online miễn phí nuột nà hơn. \n--------------------\nDirector: Lương Hải Khoa\nAssistant Director: Leo Kây; Mạnh Sơn.\nProducer & PM: Nguyễn Nga\nDP: Ước Ngọc\nCameraman: Tuấn Vũ; Trọng Hiếu; Hồng Thái; Vũ Thắng; Thảo Lưu; Mạnh Cường; Trùng Khánh.\nG&E: Lương Thành Linh; Hồng Quân; Vũ Ánh; Đức Lân; Tuấn Hiệp; Tuấn Anh.\nFly: Linh Lương; Ước Ngọc\nSet Decorator: Hải Kẹo\nPA: Ngọc Hoàng; Văn Tuyên\nEditor: Thanh Liêm; Thanh Tùng; Anh Đức\n------------------\nLiên hệ quảng cáo/tài trợ chương trình\nMr Quang Tùng: 096872.6872\n#macvankhoa #quangdang #mrT #saonhapnguss8",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "http://phim.keeng.vn/",
+          "text": "http://phim.keeng.vn/"
+        },
+        {
+          "url": "https://goo.gl/Du9VqY",
+          "text": "https://goo.gl/Du9VqY"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/macvankhoa",
+          "text": "#macvankhoa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quangdang",
+          "text": "#quangdang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mrt",
+          "text": "#mrT"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapnguss8",
+          "text": "#saonhapnguss8"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 6,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n",
+      "isMonetized": null,
+      "hashtags": [
+        "#macvankhoa",
+        "#mrT",
+        "#quangdang"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ Mùa 8 - Tập 5 | Chạm Ngưỡng Giới Hạn - Mạc Văn Khoa, Quang Đăng, Mr T",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "sccR6o8j2tY",
+      "url": "https://www.youtube.com/watch?v=sccR6o8j2tY&list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n&index=5",
+      "thumbnailUrl": "https://i.ytimg.com/vi/sccR6o8j2tY/maxresdefault.jpg",
+      "viewCount": 2411744,
+      "date": "2019-02-01T07:58:26.000Z",
+      "likes": 11000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:32:28",
+      "commentsCount": 692,
+      "text": "💢Sao nhập ngũ Mùa 8 - Tập 5 | Chạm Ngưỡng Giới Hạn - Mạc Văn Khoa, Quang Đăng, Mr T\n💢Xem trọn bộ Mùa 8 - Sao nhập ngũ - Full HD tại địa chỉ: http://phim.keeng.vn/\n💢Đón xem Sao nhập ngũ các số mới nhất theo lịch chiếu dưới đây:\n🤗 11H00 CHỦ NHẬT hàng tuần trên Kênh TH QPVN.\n🤗 15h00 CHỦ NHẬT Trên KEENG MOVIES.\n🤗 15H00 Thứ 6 hàng tuần Trên Kênh Youtube từ ngày 04/01/2019.\n-----------------------------------\nFollow Fanpage hóng thông tin cập nhật: https://goo.gl/Du9VqY và có thêm cơ hội giao lưu với các nghệ sỹ tham gia chương trình, chơi minigame đón nhận quà tặng trị giá từ 500.000 vnđ đến 2.000.000 vnđ.\nCài đặt ngay app Keeng để xem online miễn phí nuột nà hơn. \n--------------------\nDirector: Lương Hải Khoa\nAssistant Director: Leo Kây; Mạnh Sơn.\nProducer & PM: Nguyễn Nga\nDP: Ước Ngọc\nCameraman: Tuấn Vũ; Trọng Hiếu; Hồng Thái; Vũ Thắng; Thảo Lưu; Mạnh Cường; Trùng Khánh.\nG&E: Lương Thành Linh; Hồng Quân; Vũ Ánh; Đức Lân; Tuấn Hiệp; Tuấn Anh.\nFly: Linh Lương; Ước Ngọc\nSet Decorator: Hải Kẹo\nPA: Ngọc Hoàng; Văn Tuyên\nEditor: Thanh Liêm; Thanh Tùng; Anh Đức\n------------------\nLiên hệ quảng cáo/tài trợ chương trình\nMr Quang Tùng: 096872.6872\n#saonhapnguss8 #macvankhoa #quangdang #mrT",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "http://phim.keeng.vn/",
+          "text": "http://phim.keeng.vn/"
+        },
+        {
+          "url": "https://goo.gl/Du9VqY",
+          "text": "https://goo.gl/Du9VqY"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapnguss8",
+          "text": "#saonhapnguss8"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/macvankhoa",
+          "text": "#macvankhoa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quangdang",
+          "text": "#quangdang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mrt",
+          "text": "#mrT"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 4,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n",
+      "isMonetized": null,
+      "hashtags": [
+        "#macvankhoa",
+        "#mrT",
+        "#saonhapnguss8"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n",
+      "isPaidContent": false
+    },
+    {
+      "title": "Trailer Tập 4 - Sao nhập ngũ Mùa 8 - CHÔN VÙI DƯỚI LÒNG ĐẤT | Mạc Văn Khoa, Quang Đăng, Mr T",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "BazLzOOmYvM",
+      "url": "https://www.youtube.com/watch?v=BazLzOOmYvM&list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n&index=15",
+      "thumbnailUrl": "https://i.ytimg.com/vi/BazLzOOmYvM/maxresdefault.jpg",
+      "viewCount": 48146,
+      "date": "2019-01-24T08:00:02.000Z",
+      "likes": 228,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:01:05",
+      "commentsCount": 9,
+      "text": "Trailer Tập 4 - Sao nhập ngũ Mùa 8 - CHÔN VÙI | Mạc Văn Khoa, Quang Đăng, Mr T\n💢Đón xem Tập 4 - Mùa 8 lúc 15h00 Thứ 6 - 25/01/2019.\n💢Xem trọn bộ Mùa 8 - Sao nhập ngũ - Full HD tại địa chỉ: http://phim.keeng.vn/\n💢Đón xem Sao nhập ngũ các số mới nhất theo lịch chiếu dưới đây:\n🤗 11H00 CHỦ NHẬT hàng tuần trên Kênh TH QPVN.\n🤗 15h00 CHỦ NHẬT Trên KEENG MOVIES.\n🤗 15H00 Thứ 6 hàng tuần Trên Kênh Youtube từ ngày 04/01/2019.\n-----------------------------------\nFollow Fanpage hóng thông tin cập nhật: https://goo.gl/Du9VqY và có thêm cơ hội giao lưu với các nghệ sỹ tham gia chương trình, chơi minigame đón nhận quà tặng trị giá từ 500.000 vnđ đến 2.000.000 vnđ.\nCài đặt ngay app Keeng để xem online miễn phí nuột nà hơn. \n-----------------------------------\nDirector: Lương Hải Khoa\nAssistant Director: Leo Kây; Mạnh Sơn.\nProducer & PM: Nguyễn Nga\nDP: Ước Ngọc\nCameraman: Tuấn Vũ; Trọng Hiếu; Hồng Thái; Vũ Thắng; Thảo Lưu; Mạnh Cường, Trùng Khánh.\nG&E: Lương Thành Linh; Hồng Quân; Vũ Ánh; Đức Lân; Tuấn Hiệp; Tuấn Anh.\nFly: Linh Lương; Ước Ngọc\nSet Decorator: Hải Kẹo\nPA: Ngọc Hoàng; Văn Tuyên\nEditor: Thanh Liêm; Thanh Tùng; Anh Đức\n------------------\nLiên hệ quảng cáo/tài trợ chương trình\nMr Quang Tùng: 096872.6872\n#saonhapnguss8 #macvankhoa #quangdang #mrT",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "http://phim.keeng.vn/",
+          "text": "http://phim.keeng.vn/"
+        },
+        {
+          "url": "https://goo.gl/Du9VqY",
+          "text": "https://goo.gl/Du9VqY"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapnguss8",
+          "text": "#saonhapnguss8"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/macvankhoa",
+          "text": "#macvankhoa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quangdang",
+          "text": "#quangdang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mrt",
+          "text": "#mrT"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 14,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n",
+      "isMonetized": null,
+      "hashtags": [
+        "#macvankhoa",
+        "#mrT",
+        "#saonhapnguss8"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ Mùa 8 | NHỮNG MÀN RẮC MUỐI BÁ ĐẠO NHẤT | PHẦN I",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "4twFlEkVeuU",
+      "url": "https://www.youtube.com/watch?v=4twFlEkVeuU&list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n&index=9",
+      "thumbnailUrl": "https://i.ytimg.com/vi/4twFlEkVeuU/maxresdefault.jpg",
+      "viewCount": 637013,
+      "date": "2019-01-14T08:00:00.000Z",
+      "likes": 5100,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:10:26",
+      "commentsCount": 177,
+      "text": "💢Tập 5 đã có trên Keeng Movies: http://phim.keeng.vn/sao-nhap-ngu-f91...\n💢Xem trọn bộ Mùa 8 - Sao nhập ngũ - Full HD tại địa chỉ: http://phim.keeng.vn/\n💢Đón xem Sao nhập ngũ các số mới nhất theo lịch chiếu dưới đây:\n🤗 11H00 CHỦ NHẬT hàng tuần trên Kênh TH QPVN.\n🤗 15h00 CHỦ NHẬT Trên KEENG MOVIES.\n🤗 15H00 Thứ 6 hàng tuần Trên Kênh Youtube từ ngày 04/01/2019.\n-----------------------------------\nFollow Fanpage hóng thông tin cập nhật: https://goo.gl/Du9VqY và có thêm cơ hội giao lưu với các nghệ sỹ tham gia chương trình, chơi minigame đón nhận quà tặng trị giá từ 500.000 vnđ đến 2.000.000 vnđ.\nCài đặt ngay app Keeng để xem online miễn phí nuột nà hơn. \n--------------------\nDirector: Lương Hải Khoa\nAssistant Director: Leo Kây; Mạnh Sơn.\nProducer & PM: Nguyễn Nga\nDP: Ước Ngọc\nCameraman: Tuấn Vũ; Trọng Hiếu; Hồng Thái; Vũ Thắng; Thảo Lưu; Mạnh Cường, Trùng Khánh.\nG&E: Lương Thành Linh; Hồng Quân; Vũ Ánh; Đức Lân; Tuấn Hiệp; Tuấn Anh.\nFly: Linh Lương; Ước Ngọc\nSet Decorator: Hải Kẹo\nPA: Ngọc Hoàng; Văn Tuyên\nEditor: Thanh Liêm; Thanh Tùng; Anh Đức\n------------------\nLiên hệ quảng cáo/tài trợ chương trình\nMr Quang Tùng: 096872.6872\n#mrT #macvankhoa #quangdang #saonhapnguss8",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "http://phim.keeng.vn/sao-nhap-ngu-f917919.html",
+          "text": "http://phim.keeng.vn/sao-nhap-ngu-f91..."
+        },
+        {
+          "url": "http://phim.keeng.vn/",
+          "text": "http://phim.keeng.vn/"
+        },
+        {
+          "url": "https://goo.gl/Du9VqY",
+          "text": "https://goo.gl/Du9VqY"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mrt",
+          "text": "#mrT"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/macvankhoa",
+          "text": "#macvankhoa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quangdang",
+          "text": "#quangdang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapnguss8",
+          "text": "#saonhapnguss8"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 8,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n",
+      "isMonetized": null,
+      "hashtags": [
+        "#macvankhoa",
+        "#mrT",
+        "#quangdang"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ Mùa 8 - Tập 4 | Thử thách khốc liệt - Vùi mình dưới cát Mạc Văn Khoa, Mr T, Quang Đăng",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "ycR2wGbLfco",
+      "url": "https://www.youtube.com/watch?v=ycR2wGbLfco&list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n&index=4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ycR2wGbLfco/maxresdefault.jpg",
+      "viewCount": 2202551,
+      "date": "2019-01-25T08:00:15.000Z",
+      "likes": 13000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:28:35",
+      "commentsCount": 1051,
+      "text": "💢Sao nhập ngũ Mùa 8 - Tập 4 | Thử thách khốc liệt - Vùi mình dưới cát 12h Mạc Văn Khoa, Mr T, Quang Đăng\n💢Xem trọn bộ Mùa 8 - Sao nhập ngũ - Full HD tại địa chỉ: http://phim.keeng.vn/\n💢Đón xem Sao nhập ngũ các số mới nhất theo lịch chiếu dưới đây:\n🤗 11H00 CHỦ NHẬT hàng tuần trên Kênh TH QPVN.\n🤗 15h00 CHỦ NHẬT Trên KEENG MOVIES.\n🤗 15H00 Thứ 6 hàng tuần Trên Kênh Youtube từ ngày 04/01/2019.\n-----------------------------------\nFollow Fanpage hóng thông tin cập nhật: https://goo.gl/Du9VqY và có thêm cơ hội giao lưu với các nghệ sỹ tham gia chương trình, chơi minigame đón nhận quà tặng trị giá từ 500.000 vnđ đến 2.000.000 vnđ.\nCài đặt ngay app Keeng để xem online miễn phí nuột nà hơn. \n--------------------\nDirector: Lương Hải Khoa\nAssistant Director: Leo Kây; Mạnh Sơn.\nProducer & PM: Nguyễn Nga\nDP: Ước Ngọc\nCameraman: Tuấn Vũ; Trọng Hiếu; Hồng Thái; Vũ Thắng; Thảo Lưu; Mạnh Cường; Trùng Khánh.\nG&E: Lương Thành Linh; Hồng Quân; Vũ Ánh; Đức Lân; Tuấn Hiệp; Tuấn Anh.\nFly: Linh Lương; Ước Ngọc\nSet Decorator: Hải Kẹo\nPA: Ngọc Hoàng; Văn Tuyên\nEditor: Thanh Liêm; Thanh Tùng; Anh Đức\n------------------\nLiên hệ quảng cáo/tài trợ chương trình\nMr Quang Tùng: 096872.6872\n#saonhapnguss8 #macvankhoa #quangdang #mrT",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "http://phim.keeng.vn/",
+          "text": "http://phim.keeng.vn/"
+        },
+        {
+          "url": "https://goo.gl/Du9VqY",
+          "text": "https://goo.gl/Du9VqY"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/saonhapnguss8",
+          "text": "#saonhapnguss8"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/macvankhoa",
+          "text": "#macvankhoa"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/quangdang",
+          "text": "#quangdang"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/mrt",
+          "text": "#mrT"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 3,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n",
+      "isMonetized": null,
+      "hashtags": [
+        "#macvankhoa",
+        "#mrT",
+        "#saonhapnguss8"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0CqDKc1F_pBYsL8ma1oaAP4n",
+      "isPaidContent": false
+    }
+  ]
+}

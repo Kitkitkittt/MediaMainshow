@@ -3,7 +3,7 @@ from __future__ import annotations
 import csv
 from pathlib import Path
 
-from .config import ProjectConfig
+from .config import ProjectConfig, season_sources
 from .normalize import normalize_text
 
 
@@ -11,6 +11,7 @@ def write_config_registries(config: ProjectConfig, output_dir: Path) -> None:
     output_dir.mkdir(parents=True, exist_ok=True)
     show_fields = (
         "show_id",
+        "tier",
         "show_name",
         "show_name_normalized",
         "aliases",
@@ -28,15 +29,18 @@ def write_config_registries(config: ProjectConfig, output_dir: Path) -> None:
             writer.writerow(
                 {
                     "show_id": show_id,
+                    "tier": show.get("tier", ""),
                     "show_name": show["name"],
                     "show_name_normalized": normalize_text(show["name"]),
                     "aliases": "|".join(show["aliases"]),
-                    "producer": "",
-                    "broadcaster": "",
-                    "primary_youtube_channel_ids": "",
+                    "producer": show.get("producer", ""),
+                    "broadcaster": show.get("broadcaster", ""),
+                    "primary_youtube_channel_ids": "|".join(
+                        show.get("primary_youtube_channel_ids", [])
+                    ),
                     "comparison_group": show["comparison_group"],
                     "format_type": show["format_type"],
-                    "notes": "Official source pending verification",
+                    "notes": show.get("notes", ""),
                 }
             )
     season_fields = (
@@ -70,9 +74,44 @@ def write_config_registries(config: ProjectConfig, output_dir: Path) -> None:
                         "expected_episode_count": season.get("expected_episode_count") or "",
                         "official_playlist_id": season.get("official_playlist_id", ""),
                         "official_playlist_url": season.get("official_playlist_url", ""),
-                        "season_start_date": "",
-                        "season_end_date": "",
+                        "season_start_date": season.get("season_start_date", ""),
+                        "season_end_date": season.get("season_end_date", ""),
                         "format_type": show["format_type"],
                         "review_status": season["review_status"],
                     }
                 )
+
+    source_fields = (
+        "show_id",
+        "season_id",
+        "source_type",
+        "source_url",
+        "playlist_id",
+        "channel_id",
+        "authority_status",
+        "actor_name",
+        "max_results",
+        "evidence_url",
+        "notes",
+    )
+    with (output_dir / "source_registry.csv").open("w", newline="", encoding="utf-8-sig") as stream:
+        writer = csv.DictWriter(stream, fieldnames=source_fields)
+        writer.writeheader()
+        for show_id, show in config.shows.items():
+            for season in show.get("seasons", []):
+                for source in season_sources(season):
+                    writer.writerow(
+                        {
+                            "show_id": show_id,
+                            "season_id": season["season_id"],
+                            "source_type": source.get("source_type", "unknown"),
+                            "source_url": source.get("url", ""),
+                            "playlist_id": source.get("playlist_id", ""),
+                            "channel_id": source.get("channel_id", ""),
+                            "authority_status": source.get("authority_status", "unknown"),
+                            "actor_name": source.get("actor", "streamers/youtube-scraper"),
+                            "max_results": source.get("max_results", ""),
+                            "evidence_url": source.get("evidence_url", ""),
+                            "notes": source.get("notes", ""),
+                        }
+                    )

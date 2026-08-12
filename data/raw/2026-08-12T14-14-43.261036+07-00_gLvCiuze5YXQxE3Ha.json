@@ -1,0 +1,408 @@
+{
+  "actor_name": "streamers/youtube-scraper",
+  "actor_run_id": "gLvCiuze5YXQxE3Ha",
+  "dataset_id": "WW3R8wS2edMlj4knl",
+  "actor_build_id": "SUk0475fgtCh9zqMt",
+  "retrieved_at": "2026-08-12T14:14:43.261036+07:00",
+  "actor_input": {
+    "maxResults": 36,
+    "maxResultsShorts": 0,
+    "maxResultStreams": 0,
+    "startUrls": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cp3lgS7G06G9w1mChbxZUf_"
+      }
+    ],
+    "sourceBindingUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cp3lgS7G06G9w1mChbxZUf_"
+  },
+  "run_metadata": {
+    "status": "SUCCEEDED",
+    "startedAt": "2026-08-12T07:13:59.565Z",
+    "finishedAt": "2026-08-12T07:14:38.491Z",
+    "usageTotalUsd": 0.016,
+    "chargedEventCounts": {
+      "result": 4,
+      "date-filter": 0,
+      "ai-video-description": 0,
+      "ai-video-summary": 0
+    }
+  },
+  "items": [
+    {
+      "title": "Sao nhập ngũ (SS3): KLT | Tập 6: Trong tiếng nổ",
+      "translatedTitle": "Sao nh���p ngũ (SS3): KLT | Tập 6: Trong tiếng nổ",
+      "type": "video",
+      "id": "JZPKzfd3mwE",
+      "url": "https://www.youtube.com/watch?v=JZPKzfd3mwE&list=PLC_d5n_vB0Cp3lgS7G06G9w1mChbxZUf_&index=6",
+      "thumbnailUrl": "https://i.ytimg.com/vi/JZPKzfd3mwE/maxresdefault.jpg",
+      "viewCount": 1850259,
+      "date": "2017-08-27T06:40:16.000Z",
+      "likes": 7400,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:31:25",
+      "commentsCount": 46,
+      "text": "Xem tập 7 - \"Không lùi bước\" tại địa chỉ: http://phim.keeng.vn/sao-nhap-ngu-ss3...\n \nSao nhập ngũ - Chương trình truyền hình thực tế về quân đội đầu tiên tại Việt Nam với sự tham gia của nhiều nhân vật nổi tiếng. \nChương trình đã được Cục Bản quyền tác giả, Bộ Văn hóa-Thể thao và Du lịch cấp giấy chứng nhận bản quyền.\nSubcribe tại:    / saonhapngu-qpvn  \nFanpage:   / saonhapngu  ",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "http://phim.keeng.vn/sao-nhap-ngu-ss3-ky-luat-thep-tap-7-khong-lui-buoc-f906238.html",
+          "text": "http://phim.keeng.vn/sao-nhap-ngu-ss3..."
+        },
+        {
+          "url": "https://www.youtube.com/saonhapngu-qpvn",
+          "text": "   / saonhapngu-qpvn  "
+        },
+        {
+          "url": "https://www.facebook.com/saonhapngu",
+          "text": "  / saonhapngu  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 5,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cp3lgS7G06G9w1mChbxZUf_",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cp3lgS7G06G9w1mChbxZUf_",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ (SS3): KLT | Tập 1: Kỷ luật thép - Khắc Việt, Vương Anh, Huy Cung",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "trzhTJvxfNg",
+      "url": "https://www.youtube.com/watch?v=trzhTJvxfNg&list=PLC_d5n_vB0Cp3lgS7G06G9w1mChbxZUf_&index=1",
+      "thumbnailUrl": "https://i.ytimg.com/vi/trzhTJvxfNg/maxresdefault.jpg",
+      "viewCount": 5818208,
+      "date": "2017-07-23T04:49:14.000Z",
+      "likes": 20000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:28:58",
+      "commentsCount": 1782,
+      "text": "Kỷ luật thép của Trung đoàn bộ binh đã khiến ba chàng trai Khắc Việt, Vương Anh, Huy Cung bối rối ngay khi bước chân vào đơn vị, liên tiếp các tình huống xảy ra đã làm đảo lộn mọi suy nghĩ và gây áp lực lên tinh thần của họ.\nXem tiếp tâp 2- \"Vào khuôn khổ\" tại địa chỉ: https://goo.gl/B8CDL9\nSao nhập ngũ - Chương trình truyền hình thực tế về quân đội đầu tiên tại Việt Nam với sự tham gia của nhiều nhân vật nổi tiếng. \nChương trình đã được Cục Bản quyền tác giả, Bộ Văn hóa-Thể thao và Du lịch cấp giấy chứng nhận bản quyền.\nSubcribe tại:    / saonhapngu-qpvn  \nFanpage:   / saonhapngu  ",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://goo.gl/B8CDL9",
+          "text": "https://goo.gl/B8CDL9"
+        },
+        {
+          "url": "https://www.youtube.com/saonhapngu-qpvn",
+          "text": "   / saonhapngu-qpvn  "
+        },
+        {
+          "url": "https://www.facebook.com/saonhapngu",
+          "text": "  / saonhapngu  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 0,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cp3lgS7G06G9w1mChbxZUf_",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cp3lgS7G06G9w1mChbxZUf_",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ (SS3): KLT | Tập 7: Không lùi bước",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "sbpnRoAZJ4g",
+      "url": "https://www.youtube.com/watch?v=sbpnRoAZJ4g&list=PLC_d5n_vB0Cp3lgS7G06G9w1mChbxZUf_&index=7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/sbpnRoAZJ4g/maxresdefault.jpg",
+      "viewCount": 1430450,
+      "date": "2017-09-03T02:17:35.000Z",
+      "likes": 6300,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:28:25",
+      "commentsCount": 58,
+      "text": "Link tập 8: http://phim.keeng.vn/sao-nhap-ngu-ss3...\nSao nhập ngũ - Chương trình truyền hình thực tế về quân đội đầu tiên tại Việt Nam với sự tham gia của nhiều nhân vật nổi tiếng. \nChương trình đã được Cục Bản quyền tác giả, Bộ Văn hóa-Thể thao và Du lịch cấp giấy chứng nhận bản quyền.\nSubcribe tại:    / saonhapngu-qpvn  \nFanpage:   / saonhapngu  ",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "http://phim.keeng.vn/sao-nhap-ngu-ss3-ky-luat-thep-tap-8-thu-thach-cuoi-cung-f906239.html",
+          "text": "http://phim.keeng.vn/sao-nhap-ngu-ss3..."
+        },
+        {
+          "url": "https://www.youtube.com/saonhapngu-qpvn",
+          "text": "   / saonhapngu-qpvn  "
+        },
+        {
+          "url": "https://www.facebook.com/saonhapngu",
+          "text": "  / saonhapngu  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 6,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cp3lgS7G06G9w1mChbxZUf_",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cp3lgS7G06G9w1mChbxZUf_",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ (SS3): KLT | Tập 8: Thử thách cuối cùng",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "P4sLIqzsPGk",
+      "url": "https://www.youtube.com/watch?v=P4sLIqzsPGk&list=PLC_d5n_vB0Cp3lgS7G06G9w1mChbxZUf_&index=8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/P4sLIqzsPGk/maxresdefault.jpg",
+      "viewCount": 1408175,
+      "date": "2017-09-10T03:39:12.000Z",
+      "likes": 8200,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:30:55",
+      "commentsCount": 71,
+      "text": "Siêu hot! \"Sao nhập ngũ\" lần đầu tiên ra mắt phiên bản nữ có sự tham gia của Hương Giang Idol, Khả Ngân, Nhung Gumiho và Mai Ngô. Click tại địa chỉ: http://phim.keeng.vn/sao-nhap-ngu-ss4... \nSao nhập ngũ - Chương trình truyền hình thực tế về quân đội đầu tiên tại Việt Nam với sự tham gia của nhiều nhân vật nổi tiếng. \nChương trình đã được Cục Bản quyền tác giả, Bộ Văn hóa-Thể thao và Du lịch cấp giấy chứng nhận bản quyền.\nSubcribe tại:    / saonhapngu-qpvn  \nFanpage:   / saonhapngu  ",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "http://phim.keeng.vn/sao-nhap-ngu-ss4-bong-hong-thep-tap-1-nhap-ngu-f906966.html",
+          "text": "http://phim.keeng.vn/sao-nhap-ngu-ss4..."
+        },
+        {
+          "url": "https://www.youtube.com/saonhapngu-qpvn",
+          "text": "   / saonhapngu-qpvn  "
+        },
+        {
+          "url": "https://www.facebook.com/saonhapngu",
+          "text": "  / saonhapngu  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 7,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cp3lgS7G06G9w1mChbxZUf_",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cp3lgS7G06G9w1mChbxZUf_",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ (SS3): KLT | Tập 2: Vào khuôn khổ - Khắc Việt cùng Vương Anh, Huy Cung",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "pBv76V1ewZ4",
+      "url": "https://www.youtube.com/watch?v=pBv76V1ewZ4&list=PLC_d5n_vB0Cp3lgS7G06G9w1mChbxZUf_&index=2",
+      "thumbnailUrl": "https://i.ytimg.com/vi/pBv76V1ewZ4/maxresdefault.jpg",
+      "viewCount": 3294887,
+      "date": "2017-07-29T10:47:52.000Z",
+      "likes": 10000,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:28:39",
+      "commentsCount": 922,
+      "text": "Link tập 3: http://phim.keeng.vn/sao-nhap-ngu-ss3...\nKhắc Việt cùng Vương Anh, Huy Cung bắt đầu làm quen với việc tập thể dục buổi sáng bằng 10 vòng chạy quanh sân, báo động đêm và những tác phong, điều lệ cơ bản của quân đội.\nViệc học tập không quá vất vả nhưng những điều lệ, tác phong \"chuẩn từng ly\" đã \"làm khó\" cho 3 anh chàng nổi tiếng.\nSao nhập ngũ - Chương trình truyền hình thực tế về quân đội đầu tiên tại Việt Nam với sự tham gia của nhiều nhân vật nổi tiếng. \nChương trình đã được Cục Bản quyền tác giả, Bộ Văn hóa-Thể thao và Du lịch cấp giấy chứng nhận bản quyền.\nSubcribe tại:    / saonhapngu-qpvn  \nFanpage:   / saonhapngu  ",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "http://phim.keeng.vn/sao-nhap-ngu-ss3-ky-luat-thep-tap-3-f906235.html",
+          "text": "http://phim.keeng.vn/sao-nhap-ngu-ss3..."
+        },
+        {
+          "url": "https://www.youtube.com/saonhapngu-qpvn",
+          "text": "   / saonhapngu-qpvn  "
+        },
+        {
+          "url": "https://www.facebook.com/saonhapngu",
+          "text": "  / saonhapngu  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 1,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cp3lgS7G06G9w1mChbxZUf_",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cp3lgS7G06G9w1mChbxZUf_",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ (SS3): KLT | Tập 3: Nửa đêm bắt trộm",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "PtI0w3wOA8I",
+      "url": "https://www.youtube.com/watch?v=PtI0w3wOA8I&list=PLC_d5n_vB0Cp3lgS7G06G9w1mChbxZUf_&index=3",
+      "thumbnailUrl": "https://i.ytimg.com/vi/PtI0w3wOA8I/maxresdefault.jpg",
+      "viewCount": 2234381,
+      "date": "2017-08-05T14:26:35.000Z",
+      "likes": 8100,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:28:41",
+      "commentsCount": 296,
+      "text": "Link tập 4: http://phim.keeng.vn/s-f906236.html\nSau màn tập thể dục sáng và duyệt điều lệ, tác phong trong quân ngũ của tập 2, Tập 3 Sao nhập ngũ lại tiếp tục là những khó khăn khiến 3 anh chàng “lính mới” Huy Cung, Khắc Việt, Vương Anh bối rối.\nSao nhập ngũ - Chương trình truyền hình thực tế về quân đội đầu tiên tại Việt Nam với sự tham gia của nhiều nhân vật nổi tiếng. \nChương trình đã được Cục Bản quyền tác giả, Bộ Văn hóa-Thể thao và Du lịch cấp giấy chứng nhận bản quyền.\nSubcribe tại:    / saonhapngu-qpvn  \nFanpage:   / saonhapngu  ",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "http://phim.keeng.vn/s-f906236.html",
+          "text": "http://phim.keeng.vn/s-f906236.html"
+        },
+        {
+          "url": "https://www.youtube.com/saonhapngu-qpvn",
+          "text": "   / saonhapngu-qpvn  "
+        },
+        {
+          "url": "https://www.facebook.com/saonhapngu",
+          "text": "  / saonhapngu  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 2,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cp3lgS7G06G9w1mChbxZUf_",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cp3lgS7G06G9w1mChbxZUf_",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ (SS3): KLT | Tập 5: Quân ngũ không phải chuyện đùa!",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "Zv_corAaXZM",
+      "url": "https://www.youtube.com/watch?v=Zv_corAaXZM&list=PLC_d5n_vB0Cp3lgS7G06G9w1mChbxZUf_&index=5",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Zv_corAaXZM/maxresdefault.jpg",
+      "viewCount": 2049683,
+      "date": "2017-08-20T09:30:29.000Z",
+      "likes": 7800,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:30:09",
+      "commentsCount": 71,
+      "text": "Xem full tập 6 tại địa chỉ: http://phim.keeng.vn/sao-nhap-ngu-ss3...\nSao nhập ngũ - Chương trình truyền hình thực tế về quân đội đầu tiên tại Việt Nam với sự tham gia của nhiều nhân vật nổi tiếng. \nChương trình đã được Cục Bản quyền tác giả, Bộ Văn hóa-Thể thao và Du lịch cấp giấy chứng nhận bản quyền.\nSubcribe tại:    / saonhapngu-qpvn  \nFanpage:   / saonhapngu  ",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "http://phim.keeng.vn/sao-nhap-ngu-ss3-ky-luat-thep-tap-6-trong-tieng-no-f906237.html",
+          "text": "http://phim.keeng.vn/sao-nhap-ngu-ss3..."
+        },
+        {
+          "url": "https://www.youtube.com/saonhapngu-qpvn",
+          "text": "   / saonhapngu-qpvn  "
+        },
+        {
+          "url": "https://www.facebook.com/saonhapngu",
+          "text": "  / saonhapngu  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 4,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cp3lgS7G06G9w1mChbxZUf_",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cp3lgS7G06G9w1mChbxZUf_",
+      "isPaidContent": false
+    },
+    {
+      "title": "Sao nhập ngũ (SS3): KLT | Tập 4: Bỏ cuộc",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "LTapZk45uPc",
+      "url": "https://www.youtube.com/watch?v=LTapZk45uPc&list=PLC_d5n_vB0Cp3lgS7G06G9w1mChbxZUf_&index=4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/LTapZk45uPc/maxresdefault.jpg",
+      "viewCount": 2153755,
+      "date": "2017-08-13T05:00:00.000Z",
+      "likes": 7300,
+      "location": null,
+      "channelName": "Sao nhập ngũ - Viettel Media",
+      "channelUrl": "https://www.youtube.com/@SaonhapnguViettelMedia",
+      "channelUsername": "SaonhapnguViettelMedia",
+      "collaborators": null,
+      "channelId": "UCzZ94GZFgqqx6Pzbnj3UMjA",
+      "numberOfSubscribers": 1700000,
+      "duration": "00:30:22",
+      "commentsCount": 687,
+      "text": "Xem tiếp tập 5 tại địa chỉ: http://phim.keeng.vn/s-f906240.html\nỞ tập thứ 4 của chương trình Sao nhập ngũ, Khắc Việt cùng Vương Anh, Huy Cung phải bước vào huấn luyện cường độ cao như những chiến sỹ thực thụ. Liệu những thử thách của chương trình có làm khó 3 anh chàng showbiz? \nSao nhập ngũ - Chương trình truyền hình thực tế về quân đội đầu tiên tại Việt Nam với sự tham gia của nhiều nhân vật nổi tiếng. \nChương trình đã được Cục Bản quyền tác giả, Bộ Văn hóa-Thể thao và Du lịch cấp giấy chứng nhận bản quyền.\nSubcribe tại:    / saonhapngu-qpvn  \nFanpage:   / saonhapngu  ",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "http://phim.keeng.vn/s-f906240.html",
+          "text": "http://phim.keeng.vn/s-f906240.html"
+        },
+        {
+          "url": "https://www.youtube.com/saonhapngu-qpvn",
+          "text": "   / saonhapngu-qpvn  "
+        },
+        {
+          "url": "https://www.facebook.com/saonhapngu",
+          "text": "  / saonhapngu  "
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 3,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cp3lgS7G06G9w1mChbxZUf_",
+      "isMonetized": null,
+      "hashtags": [],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLC_d5n_vB0Cp3lgS7G06G9w1mChbxZUf_",
+      "isPaidContent": false
+    }
+  ]
+}

@@ -1,0 +1,1192 @@
+{
+  "actor_name": "streamers/youtube-scraper",
+  "actor_run_id": "5qWXsxtUoecRLfh75",
+  "dataset_id": "IDXmZh11HMbds5sor",
+  "actor_build_id": "SUk0475fgtCh9zqMt",
+  "retrieved_at": "2026-08-12T13:29:41.176900+07:00",
+  "actor_input": {
+    "startUrls": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq"
+      }
+    ],
+    "maxResults": 31,
+    "maxResultsShorts": 0,
+    "maxResultStreams": 0
+  },
+  "run_metadata": {
+    "status": "SUCCEEDED",
+    "startedAt": "2026-08-12T06:28:17.154Z",
+    "finishedAt": "2026-08-12T06:29:35.818Z",
+    "usageTotalUsd": 0.056,
+    "chargedEventCounts": {
+      "result": 14,
+      "date-filter": 0,
+      "ai-video-description": 0,
+      "ai-video-summary": 0
+    }
+  },
+  "items": [
+    {
+      "title": "Anh Trai Vượt Ngàn Chông Gai 2024 - Tập 15  | GIA TỘC ANH TÀI tạo nên mùa hè 2024 rực rỡ",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "8NbKhGsnJyI",
+      "url": "https://www.youtube.com/watch?v=8NbKhGsnJyI&list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq&index=1",
+      "thumbnailUrl": "https://i.ytimg.com/vi/8NbKhGsnJyI/maxresdefault.jpg",
+      "viewCount": 5840166,
+      "date": "2024-10-19T13:30:07.000Z",
+      "likes": 55000,
+      "location": null,
+      "channelName": "YEAH1 SHOW",
+      "channelUrl": "https://www.youtube.com/@YEAH1SHOW",
+      "channelUsername": "YEAH1SHOW",
+      "collaborators": null,
+      "channelId": "UCh_zF2FsiCflCPgYDudtcqg",
+      "numberOfSubscribers": 765000,
+      "duration": "02:03:49",
+      "commentsCount": 6972,
+      "text": "Anh Trai Vượt Ngàn Chông Gai 2024 - Tập 15  | GIA TỘC ANH TÀI tạo nên mùa hè 2024 rực rỡ\nTập 15 - Đêm Chung kết 2, sẽ là trận đối đầu cuối cùng của 2 Nhà Tinh Hoa và Nhà Thiếu Nhi trong vòng đấu thứ 3 để tranh 5 suất trong “Gia tộc Anh Tài toàn năng”. Đồng thời cũng trong tập 15 này, sẽ tiếp tục tìm ra 6 Anh Tài còn lại trong đội hình Gia tộc tính bằng điểm hỏa lực cá nhân tổng hợp.\n\nSau gần 4 tháng công chiếu, tập 15 sẽ là tập cuối của chương trình Anh Trai Vượt Ngàn Chông Gai 2024. Sau 120 phút của đêm Chung kết 2, hành trình “vượt chông gai” của các Anh Tài cũng sẽ chính thức khép lại.\n\n#AnhTraiVuotNganChongGai #VTV #YeaH1 \n#SOOBIN #BBTran #TienLuat #Binz \n#JunPham #TangPhuc #NekoLe #STSonThach\n----\n▶️ Xem trọn playlist (2024):  [ https://bit.ly/4u3cSaC ]\n▶️ Cập nhật thông tin (2026): \n\nTheo dõi chương trình tại:\n📍 Fanpage: https://www.facebook.com/AnhTraiVuotNganChongGai\n📍 TikTok: https://www.tiktok.com/@anhtraivuotnganchonggai\n\n“Anh Trai Vượt Ngàn Chông Gai 2024” là chương trình truyền hình thực tế âm nhạc với concept “CUỘC ĐUA ÂM NHẠC RỰC LỬA”, quy tụ 33 nghệ sĩ nam tài năng, mang đến những màn trình diễn đỉnh cao, giàu cảm xúc và năng lượng tích cực.\n---\n\n🕺 Nghệ sĩ tham gia Anh Trai Vượt Ngàn Chông Gai 2024:\nHồng Sơn, Bằng Kiều, Tự Long, Phan Đinh Tùng, Tuấn Hưng, Đinh Tiến Đạt, Phạm Khánh Hưng, Tiến Luật, Thành Trung, Đăng Khôi, Trương Thế Vinh, Hà Lê, Đỗ Hoàng Hiệp, Thanh Duy, Quốc Thiên, Binz, Cường Seven, Nguyễn Trần Duy Nhất, Jun Phạm, Neko Lê, Tăng Phúc, Thiên Minh, BB Trần, Liên Bỉnh Phát, S.T Sơn Thạch, Rhymastic, Kiên Ứng, (S)TRONG Trọng Hiếu, SOOBIN, Duy Khánh, Kay Trần, Bùi Công Nam, HuyR.\n---\n#AnhTraiVuotNganChongGai2024 #ATVNCG2024 #AnhTrai\n#CallMeByFire #RealityShowVietNam #YeaH1Show",
+      "translatedText": "Anh Trai Vượt Ngàn Chông Gai 2024 - Tập 15  | GIA TỘC ANH TÀI tạo nên mùa hè 2024 rực rỡ\nTập 15 - Đêm Chung kết 2, sẽ là trận đối đầu cuối cùng của 2 Nhà Tinh Hoa và Nhà Thiếu Nhi trong vòng đấu thứ 3 để tranh 5 suất trong “Gia tộc Anh Tài toàn năng”. Đồng thời cũng trong tập 15 này, sẽ tiếp tục tìm ra 6 Anh Tài còn lại trong đội hình Gia tộc tính bằng điểm hỏa lực cá nhân tổng hợp.\n\nSau gần 4 tháng công chiếu, tập 15 sẽ là tập cuối của chương trình Anh Trai Vượt Ngàn Chông Gai 2024. Sau 120 phút của đêm Chung kết 2, hành trình “vượt chông gai” của các Anh Tài cũng sẽ chính thức khép lại.\n\n#AnhTraiVuotNganChongGai #VTV #YeaH1 \n#SOOBIN #BBTran #TienLuat #Binz \n#JunPham #TangPhuc #NekoLe #STSonThach\n----\n▶️ Xem trọn playlist (2024):  [ https://bit.ly/4u3cSaC ]\n▶️ Cập nhật thông tin (2026): \n\nTheo dõi chương trình tại:\n📍 Fanpage: https://www.facebook.com/AnhTraiVuotNganCh...\n📍 TikTok: https://www.tiktok.com/@anhtraivuotngancho...\n\n“Anh Trai Vượt Ngàn Chông Gai 2024” là chương trình truyền hình thực tế âm nhạc với concept “CUỘC ĐUA ÂM NHẠC RỰC LỬA”, quy tụ 33 nghệ sĩ nam tài năng, mang đến những màn trình diễn đỉnh cao, giàu cảm xúc và năng lượng tích cực.\n---\n\n🕺 Nghệ sĩ tham gia Anh Trai Vượt Ngàn Chông Gai 2024:\nHồng Sơn, Bằng Kiều, Tự Long, Phan Đinh Tùng, Tuấn Hưng, Đinh Tiến Đạt, Phạm Khánh Hưng, Tiến Luật, Thành Trung, Đăng Khôi, Trương Thế Vinh, Hà Lê, Đỗ Hoàng Hiệp, Thanh Duy, Quốc Thiên, Binz, Cường Seven, Nguyễn Trần Duy Nhất, Jun Phạm, Neko Lê, Tăng Phúc, Thiên Minh, BB Trần, Liên Bỉnh Phát, S.T Sơn Thạch, Rhymastic, Kiên Ứng, (S)TRONG Trọng Hiếu, SOOBIN, Duy Khánh, Kay Trần, Bùi Công Nam, HuyR.\n---\n#AnhTraiVuotNganChongGai2024 #ATVNCG2024 #AnhTrai\n#CallMeByFire #RealityShowVietNam #YeaH1Show",
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/hashtag/anhtraivuotnganchonggai",
+          "text": "#AnhTraiVuotNganChongGai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/vtv",
+          "text": "#VTV"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1",
+          "text": "#YeaH1"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/soobin",
+          "text": "#SOOBIN"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/bbtran",
+          "text": "#BBTran"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tienluat",
+          "text": "#TienLuat"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/binz",
+          "text": "#Binz"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/junpham",
+          "text": "#JunPham"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/tangphuc",
+          "text": "#TangPhuc"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/nekole",
+          "text": "#NekoLe"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/stsonthach",
+          "text": "#STSonThach"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtraivuotnganchonggai2024",
+          "text": "#AnhTraiVuotNganChongGai2024"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/atvncg2024",
+          "text": "#ATVNCG2024"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtrai",
+          "text": "#AnhTrai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/callmebyfire",
+          "text": "#CallMeByFire"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/realityshowvietnam",
+          "text": "#RealityShowVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1show",
+          "text": "#YeaH1Show"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 0,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+      "isMonetized": null,
+      "hashtags": [
+        "#SOOBIN",
+        "#TangPhuc",
+        "#Binz"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+      "isPaidContent": false
+    },
+    {
+      "title": "Anh Trai Vượt Ngàn Chông Gai 2024 - Tập 10 | Anh Tài Tự Long TRUYỀN LỬA, 8 sân khấu ĐỈNH NÓC",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "QqCausYrRRY",
+      "url": "https://www.youtube.com/watch?v=QqCausYrRRY&list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq&index=6",
+      "thumbnailUrl": "https://i.ytimg.com/vi/QqCausYrRRY/maxresdefault.jpg",
+      "viewCount": 4632480,
+      "date": "2024-09-07T13:30:08.000Z",
+      "likes": 81000,
+      "location": null,
+      "channelName": "YEAH1 SHOW",
+      "channelUrl": "https://www.youtube.com/@YEAH1SHOW",
+      "channelUsername": "YEAH1SHOW",
+      "collaborators": null,
+      "channelId": "UCh_zF2FsiCflCPgYDudtcqg",
+      "numberOfSubscribers": 765000,
+      "duration": "02:41:51",
+      "commentsCount": 8437,
+      "text": "Anh Trai Vượt Ngàn Chông Gai 2024 - Tập 10 | Anh Tài Tự Long TRUYỀN LỬA, 8 sân khấu ĐỈNH NÓC\n\nỞ phần 2 của Công diễn 4 với chủ đề “Điểm Tựa” sẽ tiếp tục trình làng những tiết mục của vòng đấu song ca và đấu nhóm, các Anh Tài sẽ kết hợp với các nghệ sĩ của nhiều bộ môn nghệ thuật truyền thống để đem đến cho khán giả những tiết mục mang đậm bản sắc văn hóa Việt Nam, gồm có: NSND Hữu Quốc, NSND Thu Huyền, Nghệ sĩ sáo mèo Đinh Nhật Minh, NSƯT Anh Tấn, NS Hồ Nga và nhóm Mặt Trời Đỏ. \n\nTổng điểm hỏa lực của cả ba vòng đấu (solo, song ca, hát nhóm) sẽ quyết định 1 Nhà An toàn và 3 Nhà Nguy hiểm. Toàn bộ thành viên của Nhà An toàn sẽ tiếp tục tiến vào vòng Công diễn tiếp theo. 4 Anh Tài có điểm hoả lực (điểm bình chọn cá nhân) thấp nhất trong 3 Nhà Nguy hiểm sẽ phải tạm nói lời chia tay với chương trình.\n\n▶️ Xem trọn playlist (2024):  [ https://bit.ly/4u3cSaC ]\n▶️ Cập nhật thông tin (2026): \n\nTheo dõi chương trình tại:\n📍 Fanpage:   / anhtraivuotnganchonggai  \n📍 TikTok:   / anhtraivuotnganchonggai  \n\n“Anh Trai Vượt Ngàn Chông Gai 2024” là chương trình truyền hình thực tế âm nhạc với concept “CUỘC ĐUA ÂM NHẠC RỰC LỬA”, quy tụ 33 nghệ sĩ nam tài năng, mang đến những màn trình diễn đỉnh cao, giàu cảm xúc và năng lượng tích cực.\n---\n\n🕺 Nghệ sĩ tham gia Anh Trai Vượt Ngàn Chông Gai 2024:\nHồng Sơn, Bằng Kiều, Tự Long, Phan Đinh Tùng, Tuấn Hưng, Đinh Tiến Đạt, Phạm Khánh Hưng, Tiến Luật, Thành Trung, Đăng Khôi, Trương Thế Vinh, Hà Lê, Đỗ Hoàng Hiệp, Thanh Duy, Quốc Thiên, Binz, Cường Seven, Nguyễn Trần Duy Nhất, Jun Phạm, Neko Lê, Tăng Phúc, Thiên Minh, BB Trần, Liên Bỉnh Phát, S.T Sơn Thạch, Rhymastic, Kiên Ứng, (S)TRONG Trọng Hiếu, SOOBIN, Duy Khánh, Kay Trần, Bùi Công Nam, HuyR.\n---\n#AnhTraiVuotNganChongGai2024 #ATVNCG2024 #AnhTrai\n#CallMeByFire #RealityShowVietNam #YeaH1Show",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bit.ly/4u3cSaC",
+          "text": "https://bit.ly/4u3cSaC"
+        },
+        {
+          "url": "https://www.facebook.com/AnhTraiVuotNganChongGai",
+          "text": "  / anhtraivuotnganchonggai  "
+        },
+        {
+          "url": "https://www.tiktok.com/@anhtraivuotnganchonggai",
+          "text": "  / anhtraivuotnganchonggai  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtraivuotnganchonggai2024",
+          "text": "#AnhTraiVuotNganChongGai2024"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/atvncg2024",
+          "text": "#ATVNCG2024"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtrai",
+          "text": "#AnhTrai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/callmebyfire",
+          "text": "#CallMeByFire"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/realityshowvietnam",
+          "text": "#RealityShowVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1show",
+          "text": "#YeaH1Show"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 5,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+      "isMonetized": null,
+      "hashtags": [
+        "#CallMeByFire",
+        "#AnhTrai",
+        "#AnhTraiVuotNganChongGai2024"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+      "isPaidContent": false
+    },
+    {
+      "title": "Anh Trai Vượt Ngàn Chông Gai 2024 - Tập 1 | 33 Anh Tài “bung miếng” & concert cháy hết mình",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "G8D8xVwhRy8",
+      "url": "https://www.youtube.com/watch?v=G8D8xVwhRy8&list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq&index=15",
+      "thumbnailUrl": "https://i.ytimg.com/vi/G8D8xVwhRy8/maxresdefault.jpg",
+      "viewCount": 9633408,
+      "date": "2024-06-29T13:30:07.000Z",
+      "likes": 107000,
+      "location": null,
+      "channelName": "YEAH1 SHOW",
+      "channelUrl": "https://www.youtube.com/@YEAH1SHOW",
+      "channelUsername": "YEAH1SHOW",
+      "collaborators": null,
+      "channelId": "UCh_zF2FsiCflCPgYDudtcqg",
+      "numberOfSubscribers": 765000,
+      "duration": "02:30:21",
+      "commentsCount": 20143,
+      "text": "Anh Trai Vượt Ngàn Chông Gai 2024 - Tập 1 | 33 Anh Tài “bung miếng” & concert cháy hết mình\n\nTập 1 của chương trình “Anh Trai Vượt Ngàn Chông Gai 2024” (Season 1) chính thức mở màn với những khoảnh khắc hội ngộ đầy cảm xúc của 33 Anh Tài, cùng sân khấu concert hoành tráng và những tiểu phẩm giải trí bùng nổ.\n\nTại concert mở màn, 33 Anh Tài được chia thành 8 nhóm dựa trên màu sắc âm nhạc, hình ảnh và câu chuyện cá nhân. Mỗi thành viên lần lượt thể hiện tiết mục solo trước khi cùng nhau tạo nên phần trình diễn nhóm đầy ấn tượng.\n\nSân khấu ra mắt “Who Am I – Hãy gọi tôi là” mang đến hành trình tự khẳng định bản thân của 33 người đàn ông, nơi mỗi người kể câu chuyện riêng và định nghĩa chính mình trên sân khấu âm nhạc đỉnh cao.\n\nĐây là nội dung thuộc “Anh Trai Vượt Ngàn Chông Gai 2024” (Season 1).\nPhiên bản mới “Anh Trai Vượt Ngàn Chông Gai 2026” (Season 2) là nội dung hoàn toàn khác và sẽ được phát hành riêng trên kênh.\n\n▶️ Xem trọn playlist Season 1 (2024): [ https://bit.ly/4u3cSaC ]\n▶️ Đón chờ Season 2 (2026):\n\n-------------------\nHãy theo dõi chương trình trên các nền tảng chính thức:\n📍 Fanpage:   / anhtraivuotnganchonggai  \n📍 TikTok:   / anhtraivuotnganchonggai  \n\n“Anh Trai Vượt Ngàn Chông Gai 2024” là chương trình truyền hình thực tế âm nhạc với concept “CUỘC ĐUA ÂM NHẠC RỰC LỬA”, nơi hội tụ 33 nghệ sĩ nam tài năng, mang đến những màn trình diễn hoành tráng, giàu cảm xúc và đầy năng lượng tích cực.\n🕺 Nghệ sĩ tham gia Season 1 (2024):\nHồng Sơn, Bằng Kiều, Tự Long, Phan Đinh Tùng, Tuấn Hưng, Đinh Tiến Đạt, Phạm Khánh Hưng, Tiến Luật, Thành Trung, Đăng Khôi, Trương Thế Vinh, Hà Lê, Đỗ Hoàng Hiệp, Thanh Duy, Quốc Thiên, Binz, Cường Seven, Nguyễn Trần Duy Nhất, Jun Phạm, Neko Lê, Tăng Phúc, Thiên Minh, BB Trần, Liên Bỉnh Phát, S.T Sơn Thạch, Rhymastic, Kiên Ứng, (S)TRONG Trọng Hiếu, SOOBIN, Duy Khánh, Kay Trần, Bùi Công Nam, HuyR.\n---\n\n#AnhTraiVuotNganChongGai2024 #AnhTrai #AnhTraiChongGai #ATVNCG2024\n#CallMeByFire #RealityShowVietNam #YeaH1Show",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bit.ly/4u3cSaC",
+          "text": "https://bit.ly/4u3cSaC"
+        },
+        {
+          "url": "https://www.facebook.com/AnhTraiVuotNganChongGai",
+          "text": "  / anhtraivuotnganchonggai  "
+        },
+        {
+          "url": "https://www.tiktok.com/@anhtraivuotnganchonggai",
+          "text": "  / anhtraivuotnganchonggai  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtraivuotnganchonggai2024",
+          "text": "#AnhTraiVuotNganChongGai2024"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtrai",
+          "text": "#AnhTrai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtraichonggai",
+          "text": "#AnhTraiChongGai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/atvncg2024",
+          "text": "#ATVNCG2024"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/callmebyfire",
+          "text": "#CallMeByFire"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/realityshowvietnam",
+          "text": "#RealityShowVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1show",
+          "text": "#YeaH1Show"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 14,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+      "isMonetized": null,
+      "hashtags": [
+        "#AnhTraiChongGai",
+        "#CallMeByFire",
+        "#AnhTrai"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+      "isPaidContent": false
+    },
+    {
+      "title": "Anh Trai Vượt Ngàn Chông Gai 2024 - Tập 3 | Tự Long được săn đón, BB Trần áp lực điểm số?",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "WmHmtuTUBw8",
+      "url": "https://www.youtube.com/watch?v=WmHmtuTUBw8&list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq&index=13",
+      "thumbnailUrl": "https://i.ytimg.com/vi/WmHmtuTUBw8/maxresdefault.jpg",
+      "viewCount": 4968817,
+      "date": "2024-07-13T13:30:07.000Z",
+      "likes": 74000,
+      "location": null,
+      "channelName": "YeaH1 Giải Trí",
+      "channelUrl": "https://www.youtube.com/@YEAH1_GIAITRI",
+      "channelUsername": "YEAH1_GIAITRI",
+      "collaborators": null,
+      "channelId": "UCecta98cdYVFV6L_lfH__IA",
+      "numberOfSubscribers": 302000,
+      "duration": "01:56:57",
+      "commentsCount": 6724,
+      "text": "Anh Trai Vượt Ngàn Chông Gai 2024 - Tập 3 | Tự Long được săn đón, BB Trần áp lực điểm số?\n\nỞ tập 3, các Anh Tài sẽ “Chia đội và thành lập nhà công diễn 1”. Theo đó, 33 Anh Tài sẽ tiến hành thành lập nhà mới, gồm 8 nhà theo đội hình: 2 nhà 3 thành viên, 3 nhà 4 thành viên, 3 nhà 5 thành viên. Quy tắc thành lập nhà như sau: Ghép cặp - Chiêu mộ - Bầu thủ lĩnh. Sau đó, các Anh Tài sẽ đấu giá để có được bài hát ưng ý nhất cho đêm Công diễn đầu tiên. Tiếp đến là “Đại hội thể thao Anh Tài” và cuối cùng là “Sắp xếp thứ tự biểu diễn Công diễn 1”.\n\nCũng trong tập 3 này, khán giả sẽ được chứng kiến những câu chuyện “dở khóc dở cười” khi lần đầu tiên, 33 Anh Tài cùng sống chung trong một không gian sinh hoạt.\n\n▶️ Xem trọn playlist Anh Trai Vượt Ngàn Chông Gai 2024:  [ https://bit.ly/4u3cSaC ]\n▶️ Cập nhật thông tin (2026): \n\nTheo dõi chương trình tại:\n📍 Fanpage:   / anhtraivuotnganchonggai  \n📍 TikTok:   / anhtraivuotnganchonggai  \n\n“Anh Trai Vượt Ngàn Chông Gai 2024” là chương trình truyền hình thực tế âm nhạc với concept “CUỘC ĐUA ÂM NHẠC RỰC LỬA”, quy tụ 33 nghệ sĩ nam tài năng, mang đến những màn trình diễn đỉnh cao, giàu cảm xúc và năng lượng tích cực.\n---\n\n🕺 Nghệ sĩ tham gia Anh Trai Vượt Ngàn Chông Gai 2024:\nHồng Sơn, Bằng Kiều, Tự Long, Phan Đinh Tùng, Tuấn Hưng, Đinh Tiến Đạt, Phạm Khánh Hưng, Tiến Luật, Thành Trung, Đăng Khôi, Trương Thế Vinh, Hà Lê, Đỗ Hoàng Hiệp, Thanh Duy, Quốc Thiên, Binz, Cường Seven, Nguyễn Trần Duy Nhất, Jun Phạm, Neko Lê, Tăng Phúc, Thiên Minh, BB Trần, Liên Bỉnh Phát, S.T Sơn Thạch, Rhymastic, Kiên Ứng, (S)TRONG Trọng Hiếu, SOOBIN, Duy Khánh, Kay Trần, Bùi Công Nam, HuyR.\n---\n#AnhTraiVuotNganChongGai2024 #ATVNCG2024 #AnhTrai\n#CallMeByFire #RealityShowVietNam #YeaH1Show",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bit.ly/4u3cSaC",
+          "text": "https://bit.ly/4u3cSaC"
+        },
+        {
+          "url": "https://www.facebook.com/AnhTraiVuotNganChongGai",
+          "text": "  / anhtraivuotnganchonggai  "
+        },
+        {
+          "url": "https://www.tiktok.com/@anhtraivuotnganchonggai",
+          "text": "  / anhtraivuotnganchonggai  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtraivuotnganchonggai2024",
+          "text": "#AnhTraiVuotNganChongGai2024"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/atvncg2024",
+          "text": "#ATVNCG2024"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtrai",
+          "text": "#AnhTrai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/callmebyfire",
+          "text": "#CallMeByFire"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/realityshowvietnam",
+          "text": "#RealityShowVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1show",
+          "text": "#YeaH1Show"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 12,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+      "isMonetized": null,
+      "hashtags": [
+        "#CallMeByFire",
+        "#AnhTrai",
+        "#AnhTraiVuotNganChongGai2024"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+      "isPaidContent": false
+    },
+    {
+      "title": "Anh Trai Vượt Ngàn Chông Gai 2024 - Tập 11 | RHYMASTIC VS SOOBIN, 2 Anh Tài HỒI SINH là ai?",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "6YAlgIs1ip0",
+      "url": "https://www.youtube.com/watch?v=6YAlgIs1ip0&list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq&index=5",
+      "thumbnailUrl": "https://i.ytimg.com/vi/6YAlgIs1ip0/maxresdefault.jpg",
+      "viewCount": 4362649,
+      "date": "2024-09-21T21:16:17.000Z",
+      "likes": 19000,
+      "location": null,
+      "channelName": "YeaH1 Giải Trí",
+      "channelUrl": "https://www.youtube.com/@YEAH1_GIAITRI",
+      "channelUsername": "YEAH1_GIAITRI",
+      "collaborators": null,
+      "channelId": "UCecta98cdYVFV6L_lfH__IA",
+      "numberOfSubscribers": 302000,
+      "duration": "01:56:42",
+      "commentsCount": 2652,
+      "text": "Anh Trai Vượt Ngàn Chông Gai 2024 - Tập 11 | RHYMASTIC VS SOOBIN, 2 Anh Tài HỒI SINH là ai?\n\nCông diễn 5 tiếp tục với chủ đề Thế giới song song, tại Công diễn 5, tất cả mọi người ở đây sẽ được nhìn thấy một \"Thế Giới Song Song\", khi các Anh Tài mang đến sự lột xác ngọan mục, những điều chưa bao giờ thấy, một phiên bản mới của các anh, phiên bản mà không ai có thể tưởng tượng ra.\n\nHãy sẵn sàng để thưởng thức một Công diễn hoàn toàn không có sự hỗ trợ của vũ đoàn hay đạo cụ hoành tráng, một sân khấu trọn vẹn là của các Anh Tài. Đặc biệt hơn nữa, đây còn là công diễn với 2 bài hát mới và 2 ANH TÀI SẼ ĐƯỢC HỒI SINH!\n▶️ Xem trọn playlist Anh Trai Vượt Ngàn Chông Gai 2024:  [ https://bit.ly/4u3cSaC ]\n▶️ Cập nhật thông tin (2026): \n\nTheo dõi chương trình tại:\n📍 Fanpage:   / anhtraivuotnganchonggai  \n📍 TikTok:   / anhtraivuotnganchonggai  \n\n“Anh Trai Vượt Ngàn Chông Gai 2024” là chương trình truyền hình thực tế âm nhạc với concept “CUỘC ĐUA ÂM NHẠC RỰC LỬA”, quy tụ 33 nghệ sĩ nam tài năng, mang đến những màn trình diễn đỉnh cao, giàu cảm xúc và năng lượng tích cực.\n---\n\n🕺 Nghệ sĩ tham gia Anh Trai Vượt Ngàn Chông Gai 2024:\nHồng Sơn, Bằng Kiều, Tự Long, Phan Đinh Tùng, Tuấn Hưng, Đinh Tiến Đạt, Phạm Khánh Hưng, Tiến Luật, Thành Trung, Đăng Khôi, Trương Thế Vinh, Hà Lê, Đỗ Hoàng Hiệp, Thanh Duy, Quốc Thiên, Binz, Cường Seven, Nguyễn Trần Duy Nhất, Jun Phạm, Neko Lê, Tăng Phúc, Thiên Minh, BB Trần, Liên Bỉnh Phát, S.T Sơn Thạch, Rhymastic, Kiên Ứng, (S)TRONG Trọng Hiếu, SOOBIN, Duy Khánh, Kay Trần, Bùi Công Nam, HuyR.\n---\n#AnhTraiVuotNganChongGai2024 #ATVNCG2024 #AnhTrai\n#CallMeByFire #RealityShowVietNam #YeaH1Show",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bit.ly/4u3cSaC",
+          "text": "https://bit.ly/4u3cSaC"
+        },
+        {
+          "url": "https://www.facebook.com/AnhTraiVuotNganChongGai",
+          "text": "  / anhtraivuotnganchonggai  "
+        },
+        {
+          "url": "https://www.tiktok.com/@anhtraivuotnganchonggai",
+          "text": "  / anhtraivuotnganchonggai  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtraivuotnganchonggai2024",
+          "text": "#AnhTraiVuotNganChongGai2024"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/atvncg2024",
+          "text": "#ATVNCG2024"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtrai",
+          "text": "#AnhTrai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/callmebyfire",
+          "text": "#CallMeByFire"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/realityshowvietnam",
+          "text": "#RealityShowVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1show",
+          "text": "#YeaH1Show"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 4,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+      "isMonetized": null,
+      "hashtags": [
+        "#CallMeByFire",
+        "#AnhTrai",
+        "#AnhTraiVuotNganChongGai2024"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+      "isPaidContent": false
+    },
+    {
+      "title": "Anh Trai Vượt Ngàn Chông Gai 2024 - Tập 14 | SUẤT RA MẮT thuộc về Cường Seven hay Tiến Đạt?",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "HDXbBkkDu6U",
+      "url": "https://www.youtube.com/watch?v=HDXbBkkDu6U&list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq&index=2",
+      "thumbnailUrl": "https://i.ytimg.com/vi/HDXbBkkDu6U/maxresdefault.jpg",
+      "viewCount": 4308643,
+      "date": "2024-10-12T13:30:08.000Z",
+      "likes": 90000,
+      "location": null,
+      "channelName": "YEAH1 SHOW",
+      "channelUrl": "https://www.youtube.com/@YEAH1SHOW",
+      "channelUsername": "YEAH1SHOW",
+      "collaborators": null,
+      "channelId": "UCh_zF2FsiCflCPgYDudtcqg",
+      "numberOfSubscribers": 765000,
+      "duration": "02:01:21",
+      "commentsCount": 7722,
+      "text": "Anh Trai Vượt Ngàn Chông Gai 2024 - Tập 14 | SUẤT RA MẮT thuộc về Cường Seven hay Tiến Đạt?\n\nChung kết 1 sẽ “trận đấu” âm nhạc đầy cảm xúc trên sân khấu Chung kết 1 giữa Nhà Tinh Hoa và Nhà Thiếu Nhi. Cùng với đó là sự xuất hiện và biểu diễn của 2 khách mời là ca sĩ Noo Phước Thịnh và nhóm nhạc LUNAS.\n\nBước vào Chung kết, 2 Nhà Tinh Hoa và Nhà Thiếu Nhi sẽ giữ nguyên đội hình của Công diễn 5 để đối đầu với nhau ở 2 vòng đấu tại Chung kết 1, cùng tranh suất bước vào đội hình 17 thành viên của “Gia tộc Anh Tài toàn năng”. \n\n6 suất ra mắt đầu tiên sẽ thuộc về Nhà nào? \nThế trận sẽ nghiêng về Nhà nào hơn sau 2 vòng đấu?\n\n▶️ Xem trọn playlist (2024):  [ https://bit.ly/4u3cSaC ]\n▶️ Cập nhật thông tin (2026): \n\nTheo dõi chương trình tại:\n📍 Fanpage:   / anhtraivuotnganchonggai  \n📍 TikTok:   / anhtraivuotnganchonggai  \n\n“Anh Trai Vượt Ngàn Chông Gai 2024” là chương trình truyền hình thực tế âm nhạc với concept “CUỘC ĐUA ÂM NHẠC RỰC LỬA”, quy tụ 33 nghệ sĩ nam tài năng, mang đến những màn trình diễn đỉnh cao, giàu cảm xúc và năng lượng tích cực.\n---\n\n🕺 Nghệ sĩ tham gia Anh Trai Vượt Ngàn Chông Gai 2024:\nHồng Sơn, Bằng Kiều, Tự Long, Phan Đinh Tùng, Tuấn Hưng, Đinh Tiến Đạt, Phạm Khánh Hưng, Tiến Luật, Thành Trung, Đăng Khôi, Trương Thế Vinh, Hà Lê, Đỗ Hoàng Hiệp, Thanh Duy, Quốc Thiên, Binz, Cường Seven, Nguyễn Trần Duy Nhất, Jun Phạm, Neko Lê, Tăng Phúc, Thiên Minh, BB Trần, Liên Bỉnh Phát, S.T Sơn Thạch, Rhymastic, Kiên Ứng, (S)TRONG Trọng Hiếu, SOOBIN, Duy Khánh, Kay Trần, Bùi Công Nam, HuyR.\n---\n#AnhTraiVuotNganChongGai2024 #ATVNCG2024 #AnhTrai\n#CallMeByFire #RealityShowVietNam #YeaH1Show",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bit.ly/4u3cSaC",
+          "text": "https://bit.ly/4u3cSaC"
+        },
+        {
+          "url": "https://www.facebook.com/AnhTraiVuotNganChongGai",
+          "text": "  / anhtraivuotnganchonggai  "
+        },
+        {
+          "url": "https://www.tiktok.com/@anhtraivuotnganchonggai",
+          "text": "  / anhtraivuotnganchonggai  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtraivuotnganchonggai2024",
+          "text": "#AnhTraiVuotNganChongGai2024"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/atvncg2024",
+          "text": "#ATVNCG2024"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtrai",
+          "text": "#AnhTrai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/callmebyfire",
+          "text": "#CallMeByFire"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/realityshowvietnam",
+          "text": "#RealityShowVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1show",
+          "text": "#YeaH1Show"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 1,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+      "isMonetized": null,
+      "hashtags": [
+        "#CallMeByFire",
+        "#AnhTrai",
+        "#AnhTraiVuotNganChongGai2024"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+      "isPaidContent": false
+    },
+    {
+      "title": "Anh Trai Vượt Ngàn Chông Gai 2024 - Tập 6 | Gia Tộc 33 Anh Tài– yêu thương tạo nên sức mạnh",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "uLiIfZqmneQ",
+      "url": "https://www.youtube.com/watch?v=uLiIfZqmneQ&list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq&index=10",
+      "thumbnailUrl": "https://i.ytimg.com/vi/uLiIfZqmneQ/maxresdefault.jpg",
+      "viewCount": 3554134,
+      "date": "2024-08-10T13:30:07.000Z",
+      "likes": 60000,
+      "location": null,
+      "channelName": "YeaH1 Giải Trí",
+      "channelUrl": "https://www.youtube.com/@YEAH1_GIAITRI",
+      "channelUsername": "YEAH1_GIAITRI",
+      "collaborators": null,
+      "channelId": "UCecta98cdYVFV6L_lfH__IA",
+      "numberOfSubscribers": 302000,
+      "duration": "02:04:27",
+      "commentsCount": 11094,
+      "text": "Anh Trai Vượt Ngàn Chông Gai 2024 - Tập 6 | Gia Tộc 33 Anh Tài– yêu thương tạo nên sức mạnh\n\nTrong tập 6, những bài hát tiếp theo của 4 Liên Minh với chủ đề “Lời nhắn từ vũ trụ” ở Công diễn 2 sẽ được công chiếu. Kết quả chung cuộc của Công diễn 2 được dựa trên tổng điểm hỏa lực 2 tiết mục của mỗi Liên Minh, sẽ có 3 Liên Minh an toàn và 1 Liên Minh nguy hiểm.Trong Liên Minh nguy hiểm, 3 thành viên cao có điểm hỏa lực cá nhân cao nhất được an toàn và các thành viên nguy hiểm còn lại tự thảo luận, quyết định 3 Anh Tài nói lời chia tay với chương trình, tạm dừng hành trình “vượt chông gai” của mình tại đây.\n\nLiên Minh nào sẽ chinh phục được khán giả để giành lấy chiến thắng, Anh Tài nào sẽ phải tạm nói lời chia tay với chương trình?\n▶️ Xem trọn playlist Anh Trai Vượt Ngàn Chông Gai 2024:  [ https://bit.ly/4u3cSaC ]\n▶️ Cập nhật thông tin (2026): \n\nTheo dõi chương trình tại:\n📍 Fanpage:   / anhtraivuotnganchonggai  \n📍 TikTok:   / anhtraivuotnganchonggai  \n\n“Anh Trai Vượt Ngàn Chông Gai 2024” là chương trình truyền hình thực tế âm nhạc với concept “CUỘC ĐUA ÂM NHẠC RỰC LỬA”, quy tụ 33 nghệ sĩ nam tài năng, mang đến những màn trình diễn đỉnh cao, giàu cảm xúc và năng lượng tích cực.\n---\n\n🕺 Nghệ sĩ tham gia Anh Trai Vượt Ngàn Chông Gai 2024:\nHồng Sơn, Bằng Kiều, Tự Long, Phan Đinh Tùng, Tuấn Hưng, Đinh Tiến Đạt, Phạm Khánh Hưng, Tiến Luật, Thành Trung, Đăng Khôi, Trương Thế Vinh, Hà Lê, Đỗ Hoàng Hiệp, Thanh Duy, Quốc Thiên, Binz, Cường Seven, Nguyễn Trần Duy Nhất, Jun Phạm, Neko Lê, Tăng Phúc, Thiên Minh, BB Trần, Liên Bỉnh Phát, S.T Sơn Thạch, Rhymastic, Kiên Ứng, (S)TRONG Trọng Hiếu, SOOBIN, Duy Khánh, Kay Trần, Bùi Công Nam, HuyR.\n---\n#AnhTraiVuotNganChongGai2024 #ATVNCG2024 #AnhTrai\n#CallMeByFire #RealityShowVietNam #YeaH1Show",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bit.ly/4u3cSaC",
+          "text": "https://bit.ly/4u3cSaC"
+        },
+        {
+          "url": "https://www.facebook.com/AnhTraiVuotNganChongGai",
+          "text": "  / anhtraivuotnganchonggai  "
+        },
+        {
+          "url": "https://www.tiktok.com/@anhtraivuotnganchonggai",
+          "text": "  / anhtraivuotnganchonggai  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtraivuotnganchonggai2024",
+          "text": "#AnhTraiVuotNganChongGai2024"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/atvncg2024",
+          "text": "#ATVNCG2024"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtrai",
+          "text": "#AnhTrai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/callmebyfire",
+          "text": "#CallMeByFire"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/realityshowvietnam",
+          "text": "#RealityShowVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1show",
+          "text": "#YeaH1Show"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 9,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+      "isMonetized": null,
+      "hashtags": [
+        "#CallMeByFire",
+        "#AnhTrai",
+        "#AnhTraiVuotNganChongGai2024"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+      "isPaidContent": false
+    },
+    {
+      "title": "Anh Trai Vượt Ngàn Chông Gai 2024- Tập 7 | Đội hình khủng long lộ diện, ai lên ngôi đầu bếp?",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "u-qb8Ayxk2Q",
+      "url": "https://www.youtube.com/watch?v=u-qb8Ayxk2Q&list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq&index=9",
+      "thumbnailUrl": "https://i.ytimg.com/vi/u-qb8Ayxk2Q/maxresdefault.jpg",
+      "viewCount": 3060644,
+      "date": "2024-08-17T13:30:09.000Z",
+      "likes": 51000,
+      "location": null,
+      "channelName": "YeaH1 Giải Trí",
+      "channelUrl": "https://www.youtube.com/@YEAH1_GIAITRI",
+      "channelUsername": "YEAH1_GIAITRI",
+      "collaborators": null,
+      "channelId": "UCecta98cdYVFV6L_lfH__IA",
+      "numberOfSubscribers": 302000,
+      "duration": "02:01:30",
+      "commentsCount": 6609,
+      "text": "Anh Trai Vượt Ngàn Chông Gai 2024- Tập 7 | Đội hình khủng long lộ diện, ai lên ngôi đầu bếp?\n\nBước vào Công diễn 3, các Anh Tài sẽ tiếp tục phải đối diện với nhiều thử thách và luật chơi mới. Với những thủ lĩnh mới cùng những thành viên mới, đâu sẽ là chiến lược được các Anh Tài lựa chọn để giành về chiến thắng cuối cùng?\n\nỞ Công diễn này, mỗi Nhà sẽ biểu diễn 2 tiết mục gồm 1 bài vocal và 1 bài trình diễn (perform) giống như ở Công diễn 2. Về việc phân chia đội hình biểu diễn cho 2 tiết mục, các Nhà sẽ tự phân chia đội hình, tuy nhiên phải đảm bảo mỗi tiết mục không quá 5 thành viên và mỗi thành viên phải được biểu diễn ít nhất 1 tiết mục. \n\nCũng trong tập 7 này, khán giả sẽ lần đầu được nhìn thấy hình ảnh các Anh Tài vào bếp. Tại gian bếp là một không khí tươi vui, khác hẳn không khí căng thẳng khi bước vào các đêm Công diễn.\n\n▶️ Xem trọn playlist Anh Trai Vượt Ngàn Chông Gai 2024:  [ https://bit.ly/4u3cSaC ]\n▶️ Cập nhật thông tin (2026): \n\nTheo dõi chương trình tại:\n📍 Fanpage:   / anhtraivuotnganchonggai  \n📍 TikTok:   / anhtraivuotnganchonggai  \n\n“Anh Trai Vượt Ngàn Chông Gai 2024” là chương trình truyền hình thực tế âm nhạc với concept “CUỘC ĐUA ÂM NHẠC RỰC LỬA”, quy tụ 33 nghệ sĩ nam tài năng, mang đến những màn trình diễn đỉnh cao, giàu cảm xúc và năng lượng tích cực.\n---\n\n🕺 Nghệ sĩ tham gia Anh Trai Vượt Ngàn Chông Gai 2024:\nHồng Sơn, Bằng Kiều, Tự Long, Phan Đinh Tùng, Tuấn Hưng, Đinh Tiến Đạt, Phạm Khánh Hưng, Tiến Luật, Thành Trung, Đăng Khôi, Trương Thế Vinh, Hà Lê, Đỗ Hoàng Hiệp, Thanh Duy, Quốc Thiên, Binz, Cường Seven, Nguyễn Trần Duy Nhất, Jun Phạm, Neko Lê, Tăng Phúc, Thiên Minh, BB Trần, Liên Bỉnh Phát, S.T Sơn Thạch, Rhymastic, Kiên Ứng, (S)TRONG Trọng Hiếu, SOOBIN, Duy Khánh, Kay Trần, Bùi Công Nam, HuyR.\n---\n#AnhTraiVuotNganChongGai2024 #ATVNCG2024 #AnhTrai\n#CallMeByFire #RealityShowVietNam #YeaH1Show",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bit.ly/4u3cSaC",
+          "text": "https://bit.ly/4u3cSaC"
+        },
+        {
+          "url": "https://www.facebook.com/AnhTraiVuotNganChongGai",
+          "text": "  / anhtraivuotnganchonggai  "
+        },
+        {
+          "url": "https://www.tiktok.com/@anhtraivuotnganchonggai",
+          "text": "  / anhtraivuotnganchonggai  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtraivuotnganchonggai2024",
+          "text": "#AnhTraiVuotNganChongGai2024"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/atvncg2024",
+          "text": "#ATVNCG2024"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtrai",
+          "text": "#AnhTrai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/callmebyfire",
+          "text": "#CallMeByFire"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/realityshowvietnam",
+          "text": "#RealityShowVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1show",
+          "text": "#YeaH1Show"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 8,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+      "isMonetized": null,
+      "hashtags": [
+        "#CallMeByFire",
+        "#AnhTrai",
+        "#AnhTraiVuotNganChongGai2024"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+      "isPaidContent": false
+    },
+    {
+      "title": "Anh Trai Vượt Ngàn Chông Gai 2024 - Tập 4 | Duy Khánh, Cường Seven và 8 NHÀ bùng nổ giai điệu tự hào",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "OVoASkmWlGs",
+      "url": "https://www.youtube.com/watch?v=OVoASkmWlGs&list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq&index=12",
+      "thumbnailUrl": "https://i.ytimg.com/vi/OVoASkmWlGs/maxresdefault.jpg",
+      "viewCount": 5859408,
+      "date": "2024-07-27T13:30:07.000Z",
+      "likes": 74000,
+      "location": null,
+      "channelName": "YEAH1 SHOW",
+      "channelUrl": "https://www.youtube.com/@YEAH1SHOW",
+      "channelUsername": "YEAH1SHOW",
+      "collaborators": null,
+      "channelId": "UCh_zF2FsiCflCPgYDudtcqg",
+      "numberOfSubscribers": 765000,
+      "duration": "03:11:53",
+      "commentsCount": 15899,
+      "text": "Anh Trai Vượt Ngàn Chông Gai 2024 - Tập 4 | Duy Khánh, Cường Seven và 8 NHÀ bùng nổ giai điệu tự hào\n8 tiết mục ấn tượng với chủ đề “Người Thiếu Niên Thuở Nào” trong đêm Công diễn 1 đã chính thức “trình làng”.\n\nTập 4 sẽ là một cuộc đua thực sự khi các Anh Tài phải chiến đấu hết mình để giành lấy chiến thắng. Ở Công diễn 1 lần này, các khán giả tại trường quay sẽ có quyền thay đổi phiếu bầu, gọi tắt là “chạy phiếu”. Cụ thể là sau mỗi tiết mục, khi cổng bình chọn mở ra, khán giả được quyền thay đổi lựa chọn trước đó của mình. Khi cả 8 tiết mục đã hoàn thành, các khán giả sẽ có 60 giây để chạy phiếu lần cuối, chọn ra 3 tiết mục mình yêu thích nhất, sau đó, cổng bình chọn sẽ chính thức đóng lại.\n\nNhà nào sẽ chinh phục được khán giả để giành lấy chiến thắng, Anh Tài nào sẽ phải nói lời chia tay với chương trình, những diễn biến khó lường của phần “chạy phiếu” đã thay đổi cuộc chơi như thế nào, tất cả sẽ có trong Tập 4!\n\nĐây là nội dung thuộc “Anh Trai Vượt Ngàn Chông Gai 2024” (Season 1).\nPhiên bản mới “Anh Trai Vượt Ngàn Chông Gai 2026” (Season 2) là nội dung hoàn toàn khác và sẽ được phát hành riêng trên kênh.\n\n▶️ Xem trọn playlist Season 1 (2024):  [ https://bit.ly/4u3cSaC ]\n▶️ Cập nhật thông tin Season 2 (2026): \n\nTheo dõi chương trình tại:\n📍 Fanpage:   / anhtraivuotnganchonggai  \n📍 TikTok:   / anhtraivuotnganchonggai  \n\n“Anh Trai Vượt Ngàn Chông Gai 2024” là chương trình truyền hình thực tế âm nhạc với concept “CUỘC ĐUA ÂM NHẠC RỰC LỬA”, quy tụ 33 nghệ sĩ nam tài năng, mang đến những màn trình diễn đỉnh cao, giàu cảm xúc và năng lượng tích cực.\n---\n\n🕺 Nghệ sĩ tham gia Season 1 (2024):\nHồng Sơn, Bằng Kiều, Tự Long, Phan Đinh Tùng, Tuấn Hưng, Đinh Tiến Đạt, Phạm Khánh Hưng, Tiến Luật, Thành Trung, Đăng Khôi, Trương Thế Vinh, Hà Lê, Đỗ Hoàng Hiệp, Thanh Duy, Quốc Thiên, Binz, Cường Seven, Nguyễn Trần Duy Nhất, Jun Phạm, Neko Lê, Tăng Phúc, Thiên Minh, BB Trần, Liên Bỉnh Phát, S.T Sơn Thạch, Rhymastic, Kiên Ứng, (S)TRONG Trọng Hiếu, SOOBIN, Duy Khánh, Kay Trần, Bùi Công Nam, HuyR.\n---\n#AnhTraiVuotNganChongGai2024 #ATVNCG2024 #AnhTrai\n#CallMeByFire #RealityShowVietNam #YeaH1Show",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bit.ly/4u3cSaC",
+          "text": "https://bit.ly/4u3cSaC"
+        },
+        {
+          "url": "https://www.facebook.com/AnhTraiVuotNganChongGai",
+          "text": "  / anhtraivuotnganchonggai  "
+        },
+        {
+          "url": "https://www.tiktok.com/@anhtraivuotnganchonggai",
+          "text": "  / anhtraivuotnganchonggai  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtraivuotnganchonggai2024",
+          "text": "#AnhTraiVuotNganChongGai2024"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/atvncg2024",
+          "text": "#ATVNCG2024"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtrai",
+          "text": "#AnhTrai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/callmebyfire",
+          "text": "#CallMeByFire"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/realityshowvietnam",
+          "text": "#RealityShowVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1show",
+          "text": "#YeaH1Show"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 11,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+      "isMonetized": null,
+      "hashtags": [
+        "#CallMeByFire",
+        "#AnhTrai",
+        "#AnhTraiVuotNganChongGai2024"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+      "isPaidContent": false
+    },
+    {
+      "title": "Anh Trai Vượt Ngàn Chông Gai 2024 - Tập 2 | Dàn Anh Tài cùng Tiến Luật, Binz cháy hết mình",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "jFCC3YmHMa4",
+      "url": "https://www.youtube.com/watch?v=jFCC3YmHMa4&list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq&index=14",
+      "thumbnailUrl": "https://i.ytimg.com/vi/jFCC3YmHMa4/maxresdefault.jpg",
+      "viewCount": 7991119,
+      "date": "2024-07-06T13:30:08.000Z",
+      "likes": 97000,
+      "location": null,
+      "channelName": "YEAH1 SHOW",
+      "channelUrl": "https://www.youtube.com/@YEAH1SHOW",
+      "channelUsername": "YEAH1SHOW",
+      "collaborators": null,
+      "channelId": "UCh_zF2FsiCflCPgYDudtcqg",
+      "numberOfSubscribers": 765000,
+      "duration": "02:59:26",
+      "commentsCount": 21786,
+      "text": "Anh Trai Vượt Ngàn Chông Gai 2024 - Tập 2 | Dàn Anh Tài cùng Tiến Luật, Binz cháy hết mình\n\nTập 2 của “Anh Trai Vượt Ngàn Chông Gai 2024” (Season 1) tiếp tục đưa khán giả đến với sân khấu concert ra mắt “Who Am I – Hãy gọi tôi là”, nơi 33 Anh Tài thể hiện cá tính âm nhạc và bản sắc riêng qua những màn trình diễn đầy bùng nổ.\n\nTrong tập này, 5 nhóm Anh Tài còn lại chính thức lộ diện với 28 tiết mục đặc sắc: Anh Tài Bí Ẩn, Anh Tài Nham Thạch, Thanh Xuân Học Đường, Anh Tài Đa Sắc, Quý Ông Đa Tình. Mỗi tiết mục đều mang màu sắc riêng biệt, góp phần tạo nên một “bữa tiệc âm nhạc” mãn nhãn và giàu cảm xúc.\n\nĐặc biệt, ca khúc chủ đề “Hỏa Ca (Call Me By Fire)” được trình diễn trên sân khấu hoành tráng, khép lại concert mở màn đầy ấn tượng.\n\n▶️ Xem trọn playlist (2024):  [ https://bit.ly/4u3cSaC ]\n▶️ Cập nhật thông tin (2026): \n\nTheo dõi chương trình tại:\n📍 Fanpage:   / anhtraivuotnganchonggai  \n📍 TikTok:   / anhtraivuotnganchonggai  \n\n“Anh Trai Vượt Ngàn Chông Gai 2024” là chương trình truyền hình thực tế âm nhạc với concept “CUỘC ĐUA ÂM NHẠC RỰC LỬA”, quy tụ 33 nghệ sĩ nam tài năng, mang đến những màn trình diễn đỉnh cao, giàu cảm xúc và năng lượng tích cực.\n---\n\n🕺 Nghệ sĩ tham gia Anh Trai Vượt Ngàn Chông Gai 2024:\nHồng Sơn, Bằng Kiều, Tự Long, Phan Đinh Tùng, Tuấn Hưng, Đinh Tiến Đạt, Phạm Khánh Hưng, Tiến Luật, Thành Trung, Đăng Khôi, Trương Thế Vinh, Hà Lê, Đỗ Hoàng Hiệp, Thanh Duy, Quốc Thiên, Binz, Cường Seven, Nguyễn Trần Duy Nhất, Jun Phạm, Neko Lê, Tăng Phúc, Thiên Minh, BB Trần, Liên Bỉnh Phát, S.T Sơn Thạch, Rhymastic, Kiên Ứng, (S)TRONG Trọng Hiếu, SOOBIN, Duy Khánh, Kay Trần, Bùi Công Nam, HuyR.\n---\n#AnhTraiVuotNganChongGai2024 #ATVNCG2024 #AnhTrai\n#CallMeByFire #RealityShowVietNam #YeaH1Show",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bit.ly/4u3cSaC",
+          "text": "https://bit.ly/4u3cSaC"
+        },
+        {
+          "url": "https://www.facebook.com/AnhTraiVuotNganChongGai",
+          "text": "  / anhtraivuotnganchonggai  "
+        },
+        {
+          "url": "https://www.tiktok.com/@anhtraivuotnganchonggai",
+          "text": "  / anhtraivuotnganchonggai  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtraivuotnganchonggai2024",
+          "text": "#AnhTraiVuotNganChongGai2024"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/atvncg2024",
+          "text": "#ATVNCG2024"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtrai",
+          "text": "#AnhTrai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/callmebyfire",
+          "text": "#CallMeByFire"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/realityshowvietnam",
+          "text": "#RealityShowVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1show",
+          "text": "#YeaH1Show"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 13,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+      "isMonetized": null,
+      "hashtags": [
+        "#CallMeByFire",
+        "#AnhTrai",
+        "#AnhTraiVuotNganChongGai2024"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+      "isPaidContent": false
+    },
+    {
+      "title": "Anh Trai Vượt Ngàn Chông Gai 2024 - Tập 5 | SOOBIN hụt ca khúc, Jun Phạm nắm trọn cơ hội",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "4M7tpDj5Ljk",
+      "url": "https://www.youtube.com/watch?v=4M7tpDj5Ljk&list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq&index=11",
+      "thumbnailUrl": "https://i.ytimg.com/vi/4M7tpDj5Ljk/maxresdefault.jpg",
+      "viewCount": 4469273,
+      "date": "2024-08-03T13:30:09.000Z",
+      "likes": 54000,
+      "location": null,
+      "channelName": "YeaH1 Giải Trí",
+      "channelUrl": "https://www.youtube.com/@YEAH1_GIAITRI",
+      "channelUsername": "YEAH1_GIAITRI",
+      "collaborators": null,
+      "channelId": "UCecta98cdYVFV6L_lfH__IA",
+      "numberOfSubscribers": 302000,
+      "duration": "02:36:33",
+      "commentsCount": 10690,
+      "text": "Anh Trai Vượt Ngàn Chông Gai 2024 - Tập 5 | SOOBIN hụt ca khúc, Jun Phạm nắm trọn cơ hội\n\n▶️ Xem trọn playlist Anh Trai Vượt Ngàn Chông Gai 2024:  [ https://bit.ly/4u3cSaC ]\n▶️ Cập nhật thông tin (2026): \n\nTheo dõi chương trình tại:\n📍 Fanpage:   / anhtraivuotnganchonggai  \n📍 TikTok:   / anhtraivuotnganchonggai  \n\n“Anh Trai Vượt Ngàn Chông Gai 2024” là chương trình truyền hình thực tế âm nhạc với concept “CUỘC ĐUA ÂM NHẠC RỰC LỬA”, quy tụ 33 nghệ sĩ nam tài năng, mang đến những màn trình diễn đỉnh cao, giàu cảm xúc và năng lượng tích cực.\n---\n\n🕺 Nghệ sĩ tham gia Anh Trai Vượt Ngàn Chông Gai 2024:\nHồng Sơn, Bằng Kiều, Tự Long, Phan Đinh Tùng, Tuấn Hưng, Đinh Tiến Đạt, Phạm Khánh Hưng, Tiến Luật, Thành Trung, Đăng Khôi, Trương Thế Vinh, Hà Lê, Đỗ Hoàng Hiệp, Thanh Duy, Quốc Thiên, Binz, Cường Seven, Nguyễn Trần Duy Nhất, Jun Phạm, Neko Lê, Tăng Phúc, Thiên Minh, BB Trần, Liên Bỉnh Phát, S.T Sơn Thạch, Rhymastic, Kiên Ứng, (S)TRONG Trọng Hiếu, SOOBIN, Duy Khánh, Kay Trần, Bùi Công Nam, HuyR.\n---\n#AnhTraiVuotNganChongGai2024 #ATVNCG2024 #AnhTrai\n#CallMeByFire #RealityShowVietNam #YeaH1Show",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bit.ly/4u3cSaC",
+          "text": "https://bit.ly/4u3cSaC"
+        },
+        {
+          "url": "https://www.facebook.com/AnhTraiVuotNganChongGai",
+          "text": "  / anhtraivuotnganchonggai  "
+        },
+        {
+          "url": "https://www.tiktok.com/@anhtraivuotnganchonggai",
+          "text": "  / anhtraivuotnganchonggai  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtraivuotnganchonggai2024",
+          "text": "#AnhTraiVuotNganChongGai2024"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/atvncg2024",
+          "text": "#ATVNCG2024"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtrai",
+          "text": "#AnhTrai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/callmebyfire",
+          "text": "#CallMeByFire"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/realityshowvietnam",
+          "text": "#RealityShowVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1show",
+          "text": "#YeaH1Show"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 10,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+      "isMonetized": null,
+      "hashtags": [
+        "#CallMeByFire",
+        "#AnhTrai",
+        "#AnhTraiVuotNganChongGai2024"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+      "isPaidContent": false
+    },
+    {
+      "title": "Anh Trai Vượt Ngàn Chông Gai 2024 - Tập 12 | Công diễn 5 khốc liệt,  Ai sẽ tỏa sáng?",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "vE-4_m31wlM",
+      "url": "https://www.youtube.com/watch?v=vE-4_m31wlM&list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq&index=4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/vE-4_m31wlM/maxresdefault.jpg",
+      "viewCount": 4172779,
+      "date": "2024-09-28T13:30:33.000Z",
+      "likes": 55000,
+      "location": null,
+      "channelName": "YeaH1 Giải Trí",
+      "channelUrl": "https://www.youtube.com/@YEAH1_GIAITRI",
+      "channelUsername": "YEAH1_GIAITRI",
+      "collaborators": null,
+      "channelId": "UCecta98cdYVFV6L_lfH__IA",
+      "numberOfSubscribers": 302000,
+      "duration": "01:56:10",
+      "commentsCount": 9845,
+      "text": "Anh Trai Vượt Ngàn Chông Gai 2024 - Tập 12 | Công diễn 5 khốc liệt,  Ai sẽ tỏa sáng?\n\nỞ tập trước, các Anh Tài đã chào đón sự trở lại của Hà Lê và Kiên Ứng thông qua luật hồi sinh. Đây là 2 trong số 9 Anh Tài nhận được nhiều phiếu bầu của các Anh Tài còn lại. Anh Tài Hà Lê quyết định trở lại với các thành viên cũ của Nhà Trẻ (nay là Nhà Thiếu Nhi), còn Anh Tài Kiên Ứng về với Nhà Tinh Hoa. \n\nTrong tập này, 26 Anh Tài sẽ chính thức bước vào Công diễn 5 với những màn đối kháng trực diện nảy lửa, cùng chủ đề “Điểm Tựa”. 2 Nhà sẽ đối kháng 1vs1 ở từng vòng đấu là Vocal, Performance và Newbeat. \n\nKhán giả sẽ được nhìn thấy các Anh Tài lột xác ngoạn mục, họ sẽ mang đến những điều công chúng chưa bao giờ thấy, một phiên bản hoàn toàn mới, phiên bản mà không ai có thể tưởng tượng ra. Đây là một Công diễn hoàn toàn không có sự hỗ trợ của vũ đoàn hay đạo cụ hoành tráng, một sân khấu trọn vẹn là của các Anh Tài.\n----\n▶️ Xem trọn playlist Anh Trai Vượt Ngàn Chông Gai 2024:  [ https://bit.ly/4u3cSaC ]\n▶️ Cập nhật thông tin (2026): \n\nTheo dõi chương trình tại:\n📍 Fanpage:   / anhtraivuotnganchonggai  \n📍 TikTok:   / anhtraivuotnganchonggai  \n\n“Anh Trai Vượt Ngàn Chông Gai 2024” là chương trình truyền hình thực tế âm nhạc với concept “CUỘC ĐUA ÂM NHẠC RỰC LỬA”, quy tụ 33 nghệ sĩ nam tài năng, mang đến những màn trình diễn đỉnh cao, giàu cảm xúc và năng lượng tích cực.\n---\n\n🕺 Nghệ sĩ tham gia Anh Trai Vượt Ngàn Chông Gai 2024:\nHồng Sơn, Bằng Kiều, Tự Long, Phan Đinh Tùng, Tuấn Hưng, Đinh Tiến Đạt, Phạm Khánh Hưng, Tiến Luật, Thành Trung, Đăng Khôi, Trương Thế Vinh, Hà Lê, Đỗ Hoàng Hiệp, Thanh Duy, Quốc Thiên, Binz, Cường Seven, Nguyễn Trần Duy Nhất, Jun Phạm, Neko Lê, Tăng Phúc, Thiên Minh, BB Trần, Liên Bỉnh Phát, S.T Sơn Thạch, Rhymastic, Kiên Ứng, (S)TRONG Trọng Hiếu, SOOBIN, Duy Khánh, Kay Trần, Bùi Công Nam, HuyR.\n---\n#AnhTraiVuotNganChongGai2024 #ATVNCG2024 #AnhTrai\n#CallMeByFire #RealityShowVietNam #YeaH1Show",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bit.ly/4u3cSaC",
+          "text": "https://bit.ly/4u3cSaC"
+        },
+        {
+          "url": "https://www.facebook.com/AnhTraiVuotNganChongGai",
+          "text": "  / anhtraivuotnganchonggai  "
+        },
+        {
+          "url": "https://www.tiktok.com/@anhtraivuotnganchonggai",
+          "text": "  / anhtraivuotnganchonggai  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtraivuotnganchonggai2024",
+          "text": "#AnhTraiVuotNganChongGai2024"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/atvncg2024",
+          "text": "#ATVNCG2024"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtrai",
+          "text": "#AnhTrai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/callmebyfire",
+          "text": "#CallMeByFire"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/realityshowvietnam",
+          "text": "#RealityShowVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1show",
+          "text": "#YeaH1Show"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 3,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+      "isMonetized": null,
+      "hashtags": [
+        "#CallMeByFire",
+        "#AnhTrai",
+        "#AnhTraiVuotNganChongGai2024"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+      "isPaidContent": false
+    },
+    {
+      "title": "Anh Trai Vượt Ngàn Chông Gai 2024-Tập 13 | Kiên Ứng & Hà Lê TRỞ LẠI, giọt nước mắt CHIA TAY",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "uo0yKLxfzwY",
+      "url": "https://www.youtube.com/watch?v=uo0yKLxfzwY&list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq&index=3",
+      "thumbnailUrl": "https://i.ytimg.com/vi/uo0yKLxfzwY/maxresdefault.jpg",
+      "viewCount": 4177433,
+      "date": "2024-10-05T13:30:29.000Z",
+      "likes": 42000,
+      "location": null,
+      "channelName": "YEAH1 SHOW",
+      "channelUrl": "https://www.youtube.com/@YEAH1SHOW",
+      "channelUsername": "YEAH1SHOW",
+      "collaborators": null,
+      "channelId": "UCh_zF2FsiCflCPgYDudtcqg",
+      "numberOfSubscribers": 765000,
+      "duration": "02:20:03",
+      "commentsCount": 5194,
+      "text": "Anh Trai Vượt Ngàn Chông Gai 2024-Tập 13 | Kiên Ứng & Hà Lê TRỞ LẠI, giọt nước mắt CHIA TAY\n\nPhần hai của Công diễn 5 sẽ là màn đối đấu cuối cùng của 2 Nhà Thiếu Nhi và Nhà Tinh Hoa với phần đấu New beat. Trước đó, với 2 màn đối đầu Vocal và Performance nảy lửa ở tập trước, cả 2 Nhà đều phải đối diện với việc sẽ phải chia tay 1 thành viên nên áp lực ở vòng đấu New beat này là rất lớn.\n\nSau Công diễn 5, sẽ có 3 Anh Tài phải nói lời chia tay với  chương trình. Bên cạnh đó, 23 Anh Tài còn lại cũng sẽ rời khỏi ký túc xá. Vì sau Công diễn 5, các anh sẽ đến với đêm Chung kết và không còn ở lại ký túc xá sinh hoạt cùng nhau. Cũng trong tập này các Anh Tài sẽ cùng nhau tham gia “Đại hội phê bình”, thông qua những lá thư phê bình do ekip hoặc do các Anh Tài khác viết. \n\nKết thúc Công diễn 5, 23 Anh Tài sẽ bước vào đêm Chung kết, và 17 Anh Tài giành chiến thắng tại đêm Chung kết sẽ tiến hành thành lập “Gia Tộc Anh Tài”. \n\n▶️ Xem trọn playlist (2024):  [ https://bit.ly/4u3cSaC ]\n▶️ Cập nhật thông tin (2026): \n\nTheo dõi chương trình tại:\n📍 Fanpage:   / anhtraivuotnganchonggai  \n📍 TikTok:   / anhtraivuotnganchonggai  \n\n“Anh Trai Vượt Ngàn Chông Gai 2024” là chương trình truyền hình thực tế âm nhạc với concept “CUỘC ĐUA ÂM NHẠC RỰC LỬA”, quy tụ 33 nghệ sĩ nam tài năng, mang đến những màn trình diễn đỉnh cao, giàu cảm xúc và năng lượng tích cực.\n---\n\n🕺 Nghệ sĩ tham gia Anh Trai Vượt Ngàn Chông Gai 2024:\nHồng Sơn, Bằng Kiều, Tự Long, Phan Đinh Tùng, Tuấn Hưng, Đinh Tiến Đạt, Phạm Khánh Hưng, Tiến Luật, Thành Trung, Đăng Khôi, Trương Thế Vinh, Hà Lê, Đỗ Hoàng Hiệp, Thanh Duy, Quốc Thiên, Binz, Cường Seven, Nguyễn Trần Duy Nhất, Jun Phạm, Neko Lê, Tăng Phúc, Thiên Minh, BB Trần, Liên Bỉnh Phát, S.T Sơn Thạch, Rhymastic, Kiên Ứng, (S)TRONG Trọng Hiếu, SOOBIN, Duy Khánh, Kay Trần, Bùi Công Nam, HuyR.\n---\n#AnhTraiVuotNganChongGai2024 #ATVNCG2024 #AnhTrai\n#CallMeByFire #RealityShowVietNam #YeaH1Show",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bit.ly/4u3cSaC",
+          "text": "https://bit.ly/4u3cSaC"
+        },
+        {
+          "url": "https://www.facebook.com/AnhTraiVuotNganChongGai",
+          "text": "  / anhtraivuotnganchonggai  "
+        },
+        {
+          "url": "https://www.tiktok.com/@anhtraivuotnganchonggai",
+          "text": "  / anhtraivuotnganchonggai  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtraivuotnganchonggai2024",
+          "text": "#AnhTraiVuotNganChongGai2024"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/atvncg2024",
+          "text": "#ATVNCG2024"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtrai",
+          "text": "#AnhTrai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/callmebyfire",
+          "text": "#CallMeByFire"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/realityshowvietnam",
+          "text": "#RealityShowVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1show",
+          "text": "#YeaH1Show"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 2,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+      "isMonetized": null,
+      "hashtags": [
+        "#CallMeByFire",
+        "#AnhTrai",
+        "#AnhTraiVuotNganChongGai2024"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+      "isPaidContent": false
+    },
+    {
+      "title": "Anh Trai Vượt Ngàn Chông Gai 2024 - Tập 8 | Nhà Trẻ, Cá Lớn, Chín Muồi, Mứt Gừng BỨT PHÁ",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "3Y5hUQzv0e8",
+      "url": "https://www.youtube.com/watch?v=3Y5hUQzv0e8&list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq&index=8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/3Y5hUQzv0e8/maxresdefault.jpg",
+      "viewCount": 3486434,
+      "date": "2024-08-24T14:15:08.000Z",
+      "likes": 91000,
+      "location": null,
+      "channelName": "YEAH1 SHOW",
+      "channelUrl": "https://www.youtube.com/@YEAH1SHOW",
+      "channelUsername": "YEAH1SHOW",
+      "collaborators": null,
+      "channelId": "UCh_zF2FsiCflCPgYDudtcqg",
+      "numberOfSubscribers": 765000,
+      "duration": "02:07:06",
+      "commentsCount": 8679,
+      "text": "Anh Trai Vượt Ngàn Chông Gai 2024 - Tập 8 | Nhà Trẻ, Cá Lớn, Chín Muồi, Mứt Gừng BỨT PHÁ\n\nChính thức bước vào Công diễn 3, các Anh Tài vừa áp lực trình diễn đối kháng vừa áp lực loại trừ. Sau 8 màn trình diễn, 30 Anh Tài ở 4 Nhà đối diện với phần loại trừ thành viên đầy cam go. Luật loại trừ gây cấn và khốc nghiệt buộc dàn Anh Tài cân nhắc cẩn trọng trước khi đưa ra mọi quyết định.\n\nĐiểm hoả lực tiết mục của mỗi Nhà bằng điểm bình chọn của 2 tiết mục vocal và perform. Cuối Công diễn 3, 350 khán giả trường quay sẽ tiến hành bình chọn điểm hỏa lực cá nhân cho các Anh Tài. Mỗi khán giả được quyền chọn 3 anh. Ở công diễn 3, 2 Nhà có tổng điểm hoả lực tiết mục cao hơn sẽ an toàn và 2 Nhà còn lại vào vòng nguy hiểm. Ở 2 Nhà nguy hiểm, mỗi Nhà phải tạm chia tay 1 thành viên.\n\n▶️ Xem trọn playlist (2024):  [ https://bit.ly/4u3cSaC ]\n▶️ Cập nhật thông tin (2026): \n\nTheo dõi chương trình tại:\n📍 Fanpage:   / anhtraivuotnganchonggai  \n📍 TikTok:   / anhtraivuotnganchonggai  \n\n“Anh Trai Vượt Ngàn Chông Gai 2024” là chương trình truyền hình thực tế âm nhạc với concept “CUỘC ĐUA ÂM NHẠC RỰC LỬA”, quy tụ 33 nghệ sĩ nam tài năng, mang đến những màn trình diễn đỉnh cao, giàu cảm xúc và năng lượng tích cực.\n---\n\n🕺 Nghệ sĩ tham gia Anh Trai Vượt Ngàn Chông Gai 2024:\nHồng Sơn, Bằng Kiều, Tự Long, Phan Đinh Tùng, Tuấn Hưng, Đinh Tiến Đạt, Phạm Khánh Hưng, Tiến Luật, Thành Trung, Đăng Khôi, Trương Thế Vinh, Hà Lê, Đỗ Hoàng Hiệp, Thanh Duy, Quốc Thiên, Binz, Cường Seven, Nguyễn Trần Duy Nhất, Jun Phạm, Neko Lê, Tăng Phúc, Thiên Minh, BB Trần, Liên Bỉnh Phát, S.T Sơn Thạch, Rhymastic, Kiên Ứng, (S)TRONG Trọng Hiếu, SOOBIN, Duy Khánh, Kay Trần, Bùi Công Nam, HuyR.\n---\n#AnhTraiVuotNganChongGai2024 #ATVNCG2024 #AnhTrai\n#CallMeByFire #RealityShowVietNam #YeaH1Show",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bit.ly/4u3cSaC",
+          "text": "https://bit.ly/4u3cSaC"
+        },
+        {
+          "url": "https://www.facebook.com/AnhTraiVuotNganChongGai",
+          "text": "  / anhtraivuotnganchonggai  "
+        },
+        {
+          "url": "https://www.tiktok.com/@anhtraivuotnganchonggai",
+          "text": "  / anhtraivuotnganchonggai  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtraivuotnganchonggai2024",
+          "text": "#AnhTraiVuotNganChongGai2024"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/atvncg2024",
+          "text": "#ATVNCG2024"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtrai",
+          "text": "#AnhTrai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/callmebyfire",
+          "text": "#CallMeByFire"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/realityshowvietnam",
+          "text": "#RealityShowVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1show",
+          "text": "#YeaH1Show"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 7,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+      "isMonetized": null,
+      "hashtags": [
+        "#CallMeByFire",
+        "#AnhTrai",
+        "#AnhTraiVuotNganChongGai2024"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+      "isPaidContent": false
+    },
+    {
+      "title": "Anh Trai Vượt Ngàn Chông Gai 2024 -Tập 9 | TIỂU PHẨM trên đồi trà và sự LỘT XÁC của Tuấn Hưng",
+      "translatedTitle": null,
+      "type": "video",
+      "id": "YXtIs9-B0IU",
+      "url": "https://www.youtube.com/watch?v=YXtIs9-B0IU&list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq&index=7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/YXtIs9-B0IU/maxresdefault.jpg",
+      "viewCount": 3398953,
+      "date": "2024-08-31T13:30:24.000Z",
+      "likes": 38000,
+      "location": null,
+      "channelName": "YEAH1 SHOW",
+      "channelUrl": "https://www.youtube.com/@YEAH1SHOW",
+      "channelUsername": "YEAH1SHOW",
+      "collaborators": null,
+      "channelId": "UCh_zF2FsiCflCPgYDudtcqg",
+      "numberOfSubscribers": 765000,
+      "duration": "02:18:58",
+      "commentsCount": 5671,
+      "text": "Anh Trai Vượt Ngàn Chông Gai 2024 -Tập 9 | TIỂU PHẨM trên đồi trà và sự LỘT XÁC của Tuấn Hưng\n\nỞ tập 9, các Anh Tài sẽ tham gia các hoạt động ngoại khóa trên Đà Lạt. Các hoạt động này bao gồm: Thử thách sáng tạo video ngắn, thử thách hái Búp Non, thưởng thức trà cũng nghệ nhân và thử thách sáng tạo điệu nhảy hái trà. \n\nBên cạnh đó, dàn Anh Tài sẽ tiếp tục phải đối diện với nhiều thử thách và luật chơi mới khi bước vào Công diễn 4. Theo đó, trong Công diễn này các Anh Tài vẫn sẽ được chia thành 4 Nhà lớn (thành lập đội hình mới hoặc giữ nguyên). Với chủ đề “Điểm Tựa”, mỗi Nhà sẽ biểu diễn 3 tiết mục và sẽ chỉ có 1 Nhà duy nhất an toàn bước vào Công diễn 5, đâu sẽ là chiến lược được các Anh Tài lựa chọn để giành lấy chiến thắng này?\n\n▶️ Xem trọn playlist (2024):  [ https://bit.ly/4u3cSaC ]\n▶️ Cập nhật thông tin (2026): \n\nTheo dõi chương trình tại:\n📍 Fanpage:   / anhtraivuotnganchonggai  \n📍 TikTok:   / anhtraivuotnganchonggai  \n\n“Anh Trai Vượt Ngàn Chông Gai 2024” là chương trình truyền hình thực tế âm nhạc với concept “CUỘC ĐUA ÂM NHẠC RỰC LỬA”, quy tụ 33 nghệ sĩ nam tài năng, mang đến những màn trình diễn đỉnh cao, giàu cảm xúc và năng lượng tích cực.\n---\n\n🕺 Nghệ sĩ tham gia Anh Trai Vượt Ngàn Chông Gai 2024:\nHồng Sơn, Bằng Kiều, Tự Long, Phan Đinh Tùng, Tuấn Hưng, Đinh Tiến Đạt, Phạm Khánh Hưng, Tiến Luật, Thành Trung, Đăng Khôi, Trương Thế Vinh, Hà Lê, Đỗ Hoàng Hiệp, Thanh Duy, Quốc Thiên, Binz, Cường Seven, Nguyễn Trần Duy Nhất, Jun Phạm, Neko Lê, Tăng Phúc, Thiên Minh, BB Trần, Liên Bỉnh Phát, S.T Sơn Thạch, Rhymastic, Kiên Ứng, (S)TRONG Trọng Hiếu, SOOBIN, Duy Khánh, Kay Trần, Bùi Công Nam, HuyR.\n---\n#AnhTraiVuotNganChongGai2024 #ATVNCG2024 #AnhTrai\n#CallMeByFire #RealityShowVietNam #YeaH1Show",
+      "translatedText": null,
+      "descriptionLinks": [
+        {
+          "url": "https://bit.ly/4u3cSaC",
+          "text": "https://bit.ly/4u3cSaC"
+        },
+        {
+          "url": "https://www.facebook.com/AnhTraiVuotNganChongGai",
+          "text": "  / anhtraivuotnganchonggai  "
+        },
+        {
+          "url": "https://www.tiktok.com/@anhtraivuotnganchonggai",
+          "text": "  / anhtraivuotnganchonggai  "
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtraivuotnganchonggai2024",
+          "text": "#AnhTraiVuotNganChongGai2024"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/atvncg2024",
+          "text": "#ATVNCG2024"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/anhtrai",
+          "text": "#AnhTrai"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/callmebyfire",
+          "text": "#CallMeByFire"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/realityshowvietnam",
+          "text": "#RealityShowVietNam"
+        },
+        {
+          "url": "https://www.youtube.com/hashtag/yeah1show",
+          "text": "#YeaH1Show"
+        }
+      ],
+      "subtitles": null,
+      "aiVideoDescription": null,
+      "aiVideoSummary": null,
+      "order": 6,
+      "commentsTurnedOff": false,
+      "fromYTUrl": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+      "isMonetized": null,
+      "hashtags": [
+        "#CallMeByFire",
+        "#AnhTrai",
+        "#AnhTraiVuotNganChongGai2024"
+      ],
+      "isMembersOnly": false,
+      "input": "https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq",
+      "isPaidContent": false
+    }
+  ]
+}
