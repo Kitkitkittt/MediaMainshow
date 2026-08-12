@@ -1,0 +1,10 @@
+﻿show_id,season_id,source_type,source_url,playlist_id,channel_id,authority_status,actor_name,max_results,evidence_url,notes
+ATSH,ATSH_2024,official_full_playlist,https://www.youtube.com/playlist?list=PLxKLMN7WdG5AYDsDPTbq7zZTpOTGH7ay6,PLxKLMN7WdG5AYDsDPTbq7zZTpOTGH7ay6,,verified,streamers/youtube-scraper,30,,
+ATSH,ATSH_2025,official_full_playlist,https://www.youtube.com/playlist?list=PLxKLMN7WdG5BScv1MASDarMh12mB8tIU2,PLxKLMN7WdG5BScv1MASDarMh12mB8tIU2,,verified,streamers/youtube-scraper,30,,
+EXSH,EXSH_2025,official_full_playlist,https://www.youtube.com/playlist?list=PLxKLMN7WdG5D1LrbMdeJMn_fL9FrQbJ6V,PLxKLMN7WdG5D1LrbMdeJMn_fL9FrQbJ6V,,verified,streamers/youtube-scraper,30,,
+THSH,THSH_2026,official_channel_search,https://www.youtube.com/@VieChannelHTV2/search?query=TINH%20H%C3%80%20SAY%20HI%20T%E1%BA%ACP,,UCkna2OcuN1E6u5I8GVtdkOw,verified,streamers/youtube-scraper,30,https://www.youtube.com/watch?v=0mQn-pPDLuM,Official-channel bounded search; no official full-episode playlist at cutoff.
+ATVNCG,ATVNCG_2024,official_full_playlist,https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq,PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq,,verified,streamers/youtube-scraper,31,,
+ATVNCG,ATVNCG_2026,official_full_playlist,https://www.youtube.com/playlist?list=PLdWk-MlnCC7M,PLdWk-MlnCC7M,UCh_zF2FsiCflCPgYDudtcqg,verified,streamers/youtube-scraper,31,https://www.yeah1group.com/tap-doan-yeah1-chinh-thuc-cong-bo-khoi-dong-du-an-chien-luoc-anh-trai-vuot-ngan-chong-gai-2026,
+ATVNCG,ATVNCG_2026,official_playlist_mirror,https://www.youtube.com/playlist?list=PLWaGid9TiMXE,PLWaGid9TiMXE,UCh_zF2FsiCflCPgYDudtcqg,verified,streamers/youtube-scraper,31,,Duplicate official mirror; never sum independently.
+CDDG,CDDG_2023,official_full_playlist,https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A,PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A,,verified,streamers/youtube-scraper,31,,
+CDDG,CDDG_2024,official_full_playlist,https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF,PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF,,verified,streamers/youtube-scraper,31,,

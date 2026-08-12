@@ -13,6 +13,12 @@ channels:
       The Vie Channel-maintained ATSH full-show playlist contains canonical 2024 episodes uploaded
       by this channel, and those video descriptions identify the Vie Channel company and official
       contact details. Verified during the ATSH pilot on 2026-08-12.
+  UCh_zF2FsiCflCPgYDudtcqg:
+    channel_name: YEAH1 SHOW
+    channel_authority: primary_producer_broadcaster
+    authority_notes: >-
+      Official YeaH1 Digital channel and first-party home of the numbered full episodes for
+      ATVNCG and CDDG. Verified against official episode and project pages on 2026-08-12.
 
 # Channel authority is intentionally empty until the pilot records a channel ID and first-party
 # evidence. A verified display name alone is not sufficient authority.

@@ -11,6 +11,7 @@ def write_config_registries(config: ProjectConfig, output_dir: Path) -> None:
     output_dir.mkdir(parents=True, exist_ok=True)
     show_fields = (
         "show_id",
+        "tier",
         "show_name",
         "show_name_normalized",
         "aliases",
@@ -28,6 +29,7 @@ def write_config_registries(config: ProjectConfig, output_dir: Path) -> None:
             writer.writerow(
                 {
                     "show_id": show_id,
+                    "tier": show.get("tier", ""),
                     "show_name": show["name"],
                     "show_name_normalized": normalize_text(show["name"]),
                     "aliases": "|".join(show["aliases"]),

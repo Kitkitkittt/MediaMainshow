@@ -9,7 +9,12 @@ def test_cached_build_consolidates_pilot_without_paid_calls(tmp_path: Path) -> N
     root = Path(__file__).resolve().parents[1]
     config = load_project_config(root)
     result = build_all(root / "data" / "raw", tmp_path, config)
-    assert result == {"configured_seasons": 7, "extracted_seasons": 1, "raw_receipts": 3}
+    configured_seasons = sum(len(show.get("seasons", [])) for show in config.shows.values())
+    assert result == {
+        "configured_seasons": configured_seasons,
+        "extracted_seasons": 1,
+        "raw_receipts": 3,
+    }
     with (tmp_path / "season_summary.csv").open(encoding="utf-8-sig") as stream:
         summaries = list(csv.DictReader(stream))
     assert summaries[0]["season_id"] == "ATSH_2024"

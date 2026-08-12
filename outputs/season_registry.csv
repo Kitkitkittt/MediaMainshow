@@ -1,8 +1,9 @@
 ﻿show_id,season_id,season_name,season_year,season_number,season_status,expected_episode_count,official_playlist_id,official_playlist_url,season_start_date,season_end_date,format_type,review_status
 ATSH,ATSH_2024,"Anh Trai ""Say Hi"" 2024",2024,1,completed,14,PLxKLMN7WdG5AYDsDPTbq7zZTpOTGH7ay6,https://www.youtube.com/playlist?list=PLxKLMN7WdG5AYDsDPTbq7zZTpOTGH7ay6,,,closed_season,pilot_verified
-ATSH,ATSH_2025,"Anh Trai ""Say Hi"" 2025",2025,2,completed,,,,,,closed_season,needs_source_verification
-EXSH,EXSH_2025,"Em Xinh ""Say Hi"" 2025",2025,1,completed,,,,,,closed_season,needs_source_verification
-THSH,THSH_2026,"Tinh Hà ""Say Hi"" 2026",2026,1,unknown,,,,,,closed_season,needs_source_verification
-ATVNCG,ATVNCG_2024,Anh Trai Vượt Ngàn Chông Gai 2024,2024,1,completed,,,,,,closed_season,needs_source_verification
-CDDG,CDDG_2023,Chị Đẹp Đạp Gió Rẽ Sóng 2023,2023,1,completed,,,,,,closed_season,needs_source_verification
-CDDG,CDDG_2024,Chị Đẹp Đạp Gió 2024,2024,2,completed,,,,,,closed_season,needs_source_verification
+ATSH,ATSH_2025,"Anh Trai ""Say Hi"" 2025",2025,2,completed,14,PLxKLMN7WdG5BScv1MASDarMh12mB8tIU2,https://www.youtube.com/playlist?list=PLxKLMN7WdG5BScv1MASDarMh12mB8tIU2,,,closed_season,source_verified
+EXSH,EXSH_2025,"Em Xinh ""Say Hi"" 2025",2025,1,completed,14,PLxKLMN7WdG5D1LrbMdeJMn_fL9FrQbJ6V,https://www.youtube.com/playlist?list=PLxKLMN7WdG5D1LrbMdeJMn_fL9FrQbJ6V,,,closed_season,source_verified
+THSH,THSH_2026,"Tinh Hà ""Say Hi"" 2026",2026,1,airing,14,,,,,closed_season,source_verified_search_required
+ATVNCG,ATVNCG_2024,Anh Trai Vượt Ngàn Chông Gai 2024,2024,1,completed,15,PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq,https://www.youtube.com/playlist?list=PLt3LgMEKzFxy03fvdFk_rEtjfVJfD8pUq,,,closed_season,source_verified
+ATVNCG,ATVNCG_2026,Anh Trai Vượt Ngàn Chông Gai 2026,2026,2,airing,15,,,,,closed_season,source_verified
+CDDG,CDDG_2023,Chị Đẹp Đạp Gió Rẽ Sóng 2023,2023,1,completed,15,PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A,https://www.youtube.com/playlist?list=PLt3LgMEKzFxxvhzWqiZPdQsr84wrtmK1A,,,closed_season,source_verified
+CDDG,CDDG_2024,Chị Đẹp Đạp Gió 2024,2024,2,completed,15,PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF,https://www.youtube.com/playlist?list=PLt3LgMEKzFxz2EslvirjbydcPyz_MZErF,,,closed_season,source_verified
