@@ -61,6 +61,7 @@ class ApifyYouTubeClient:
         wait_timeout_seconds: int = 600,
         poll_seconds: float = 3.0,
         max_total_charge_usd: float = 1.0,
+        accept_partial_after_timeout: bool = False,
     ) -> RawRun:
         actor_id = actor_name.replace("/", "~")
         response = self._client.post(
@@ -73,14 +74,23 @@ class ApifyYouTubeClient:
         run_id = run["id"]
         LOGGER.info("Started Apify actor=%s run_id=%s", actor_name, run_id)
         deadline = time.monotonic() + wait_timeout_seconds
+        partial_accepted = False
         while run["status"] not in {"SUCCEEDED", "FAILED", "TIMED-OUT", "ABORTED"}:
             if time.monotonic() >= deadline:
-                raise TimeoutError(f"Apify run {run_id} exceeded local wait timeout")
+                if not accept_partial_after_timeout:
+                    raise TimeoutError(f"Apify run {run_id} exceeded local wait timeout")
+                LOGGER.warning(
+                    "Aborting long-running Apify run_id=%s for partial retention", run_id
+                )
+                abort_response = self._client.post(f"/actor-runs/{run_id}/abort")
+                abort_response.raise_for_status()
+                partial_accepted = True
+                deadline = time.monotonic() + 60
             time.sleep(poll_seconds)
             status_response = self._client.get(f"/actor-runs/{run_id}")
             status_response.raise_for_status()
             run = status_response.json()["data"]
-        if run["status"] != "SUCCEEDED":
+        if run["status"] != "SUCCEEDED" and not (partial_accepted and run["status"] == "ABORTED"):
             raise RuntimeError(f"Apify run {run_id} ended with status={run['status']}")
         return self._collect(actor_name, actor_input, run)
 

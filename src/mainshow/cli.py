@@ -282,6 +282,8 @@ def main() -> None:
                     actor,
                     _source_input(actor, source, int(source.get("max_results", 50))),
                     max_total_charge_usd=min(remaining, 1.0),
+                    wait_timeout_seconds=120,
+                    accept_partial_after_timeout=True,
                 )
                 run = replace(
                     run,
@@ -289,6 +291,7 @@ def main() -> None:
                         **run.actor_input,
                         "derivativeSourceId": str(source["source_id"]),
                         "sourceBindingUrl": str(source["source_url"]),
+                        "partialResultAccepted": run.run_metadata.get("status") == "ABORTED",
                     },
                 )
                 save_raw_run(run, root / "data" / "derivative_raw")

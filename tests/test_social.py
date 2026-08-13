@@ -13,6 +13,17 @@ from mainshow.social import (
 )
 
 
+def test_derivative_source_expansion_keeps_one_source_per_show_channel() -> None:
+    root = Path(__file__).resolve().parents[1]
+    config = load_project_config(root)
+    from mainshow.config import derivative_sources
+
+    sources = derivative_sources(config)
+    ids = [source["source_id"] for source in sources]
+    assert len(ids) == len(set(ids))
+    assert any(source_id.startswith("youtube_rmvn_") for source_id in ids)
+
+
 def test_normalize_social_item_preserves_exact_metric_semantics() -> None:
     item = normalize_social_item(
         "x",
