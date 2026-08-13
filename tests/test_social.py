@@ -136,3 +136,63 @@ def test_build_social_outputs_keeps_derivatives_outside_canonical_registry(tmp_p
     assert snapshot["metric_name"] == "view_count"
     assert snapshot["metric_value_exact"] == "123"
     assert snapshot["observed_at"] == "2026-08-13T00:00:00Z"
+
+
+def test_derivative_receipt_is_separate_from_canonical_population(tmp_path: Path) -> None:
+    root = Path(__file__).resolve().parents[1]
+    config = load_project_config(root)
+    config.social["derivative_sources"] = [
+        {
+            "source_id": "test_source",
+            "show_id": "ATSH",
+            "season_id": "ATSH_2024",
+            "source_url": "https://www.youtube.com/@VieChannelHTV2",
+            "channel_id": "UCkna2OcuN1E6u5I8GVtdkOw",
+        }
+    ]
+    raw_dir = tmp_path / "raw"
+    derivative_raw_dir = tmp_path / "derivative_raw"
+    output_dir = tmp_path / "out"
+    raw_dir.mkdir()
+    derivative_raw_dir.mkdir()
+    output_dir.mkdir()
+    (output_dir / "episode_registry.csv").write_text(
+        "video_id,canonical_flag\nmain,True\n", encoding="utf-8-sig"
+    )
+    (derivative_raw_dir / "receipt.json").write_text(
+        json.dumps(
+            {
+                "actor_name": "actor",
+                "actor_run_id": "run-derivative",
+                "dataset_id": "dataset",
+                "retrieved_at": "2026-08-13T00:00:00Z",
+                "actor_input": {"derivativeSourceId": "test_source"},
+                "items": [
+                    {
+                        "id": "short1",
+                        "url": "https://www.youtube.com/watch?v=short1",
+                        "title": "Anh Trai Say Hi #shorts",
+                        "channelId": "UCkna2OcuN1E6u5I8GVtdkOw",
+                        "duration": "00:30",
+                        "viewCount": 42,
+                        "type": "shorts",
+                    }
+                ],
+            }
+        ),
+        encoding="utf-8",
+    )
+    build_social_outputs(
+        raw_dir,
+        output_dir / "episode_registry.csv",
+        output_dir,
+        config,
+        derivative_raw_dir=derivative_raw_dir,
+    )
+    rows = list(
+        csv.DictReader((output_dir / "derivative_content_registry.csv").open(encoding="utf-8-sig"))
+    )
+    assert len(rows) == 1
+    assert rows[0]["native_content_id"] == "short1"
+    assert rows[0]["platform_format"] == "SHORT"
+    assert rows[0]["classification_state"] == "ACCEPTED"

@@ -84,12 +84,12 @@ class ApifyYouTubeClient:
             raise RuntimeError(f"Apify run {run_id} ended with status={run['status']}")
         return self._collect(actor_name, actor_input, run)
 
-    def fetch(self, actor_name: str, run_id: str) -> RawRun:
-        """Resume a completed run without starting or charging for another actor run."""
+    def fetch(self, actor_name: str, run_id: str, *, allow_partial: bool = False) -> RawRun:
+        """Resume a completed run, or retain an explicitly allowed partial result."""
         status_response = self._client.get(f"/actor-runs/{run_id}")
         status_response.raise_for_status()
         run = status_response.json()["data"]
-        if run["status"] != "SUCCEEDED":
+        if run["status"] != "SUCCEEDED" and not (allow_partial and run["status"] == "ABORTED"):
             raise RuntimeError(f"Apify run {run_id} has status={run['status']}, not SUCCEEDED")
         return self._collect(actor_name, {}, run)
 

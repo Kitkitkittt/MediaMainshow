@@ -8,7 +8,10 @@ from pathlib import Path
 from typing import Any
 from urllib.parse import unquote, urlsplit
 
+from .adapters import normalize_actor_item
+from .classifier import classify_video
 from .config import ProjectConfig, find_source_season
+from .models import Provenance
 
 TYPE_TO_ROLE = {
     "short_form": "SHORT",
@@ -252,6 +255,87 @@ def derivative_rows(episode_registry: Path) -> list[dict[str, Any]]:
     return rows
 
 
+def derivative_receipt_rows(raw_dir: Path, config: ProjectConfig) -> list[dict[str, Any]]:
+    """Normalize separately-bound derivative runs; never feed them to canonical QC."""
+    rows: list[dict[str, Any]] = []
+    source_by_id = {
+        str(source.get("source_id")): source
+        for source in config.social.get("derivative_sources", [])
+    }
+    for path in sorted(raw_dir.glob("*.json")):
+        payload = json.loads(path.read_text(encoding="utf-8"))
+        source = source_by_id.get(str(payload.get("actor_input", {}).get("derivativeSourceId", "")))
+        if not source:
+            continue
+        show = config.shows[str(source["show_id"])]
+        season = next(
+            item for item in show["seasons"] if item["season_id"] == source["season_id"]
+        )
+        provenance = Provenance(
+            str(payload.get("actor_name", "")),
+            str(payload.get("actor_run_id", "")),
+            str(payload.get("dataset_id", "")),
+            str(payload.get("retrieved_at", "")),
+        )
+        for item in payload.get("items", []):
+            try:
+                candidate = normalize_actor_item(item, provenance)
+            except ValueError:
+                continue
+            authority = config.channels.get(candidate.channel_id or "", {}).get(
+                "channel_authority", "unknown"
+            )
+            source_channel_match = candidate.channel_id == source.get("channel_id")
+            classification = classify_video(
+                candidate,
+                show,
+                config.exclusions,
+                config.classifier,
+                official_channel=source_channel_match,
+                season=season,
+            )
+            role = TYPE_TO_ROLE.get(classification.video_type, "UNKNOWN")
+            accepted = role != "UNKNOWN" and source_channel_match and authority != "unknown"
+            rows.append(
+                {
+                    "platform": "youtube",
+                    "native_content_id": candidate.video_id,
+                    "content_url": candidate.video_url,
+                    "show_id": source["show_id"],
+                    "season_id": source["season_id"],
+                    "title": candidate.title,
+                    "platform_format": (
+                        "SHORT"
+                        if str(item.get("type", "")).lower() == "shorts"
+                        else "LIVESTREAM"
+                        if str(item.get("type", "")).lower() == "stream"
+                        else "VIDEO"
+                    ),
+                    "content_role": role,
+                    "authority_class": (
+                        authority.upper() if authority != "unknown" else "UNVERIFIED"
+                    ),
+                    "relationship_target_type": (
+                        "EPISODE" if classification.episode_no else "SEASON"
+                    ),
+                    "relationship_evidence": "EXPLICIT_TEXT_LINK",
+                    "classification_state": "ACCEPTED" if accepted else "NEEDS_REVIEW",
+                    "review_status": "ACCEPTED" if accepted else "NEEDS_REVIEW",
+                    "published_at": candidate.published_at or "",
+                    "duration_seconds": candidate.duration_seconds or "",
+                    "view_count": candidate.view_count if candidate.view_count is not None else "",
+                    "like_count": candidate.like_count if candidate.like_count is not None else "",
+                    "comment_count": (
+                        candidate.comment_count if candidate.comment_count is not None else ""
+                    ),
+                    "availability_status": candidate.availability_status,
+                    "actor_run_id": provenance.actor_run_id,
+                    "source_url": str(source["source_url"]),
+                }
+            )
+    return rows
+
+
 def social_account_rows(raw_dir: Path, config: ProjectConfig) -> list[dict[str, Any]]:
     evidence: defaultdict[tuple[str, str, str], dict[str, Any]] = defaultdict(
         lambda: {
@@ -358,9 +442,19 @@ def query_plan_rows(config: ProjectConfig) -> list[dict[str, Any]]:
 
 
 def build_social_outputs(
-    raw_dir: Path, episode_registry: Path, output_dir: Path, config: ProjectConfig
+    raw_dir: Path,
+    episode_registry: Path,
+    output_dir: Path,
+    config: ProjectConfig,
+    *,
+    derivative_raw_dir: Path | None = None,
 ) -> dict[str, int]:
     derivatives = derivative_rows(episode_registry)
+    if derivative_raw_dir:
+        index = {(row["platform"], row["native_content_id"]): row for row in derivatives}
+        for row in derivative_receipt_rows(derivative_raw_dir, config):
+            index[(row["platform"], row["native_content_id"])] = row
+        derivatives = list(index.values())
     accounts = social_account_rows(raw_dir, config)
     query_plan = query_plan_rows(config)
     _write_csv(output_dir / "derivative_content_registry.csv", DERIVATIVE_COLUMNS, derivatives)

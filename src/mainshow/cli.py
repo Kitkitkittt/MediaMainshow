@@ -7,7 +7,7 @@ from pathlib import Path
 from typing import Any
 
 from .apify import ApifyYouTubeClient, load_apify_token, save_raw_run
-from .config import find_season, load_project_config, season_sources
+from .config import find_derivative_source, find_season, load_project_config, season_sources
 from .discovery import discover_unknown_shows
 from .pipeline import build_pilot
 from .population import build_all, pending_sources
@@ -27,13 +27,16 @@ def _source_input(actor: str, source: dict[str, Any], max_results: int) -> dict[
     query = str(source.get("query", "")).strip()
     if query and not queries:
         queries = [query]
+    source_url = str(source.get("url") or source.get("source_url") or "").strip()
+    if not queries and not source_url:
+        raise ValueError("Source needs a URL or one or more queries")
     if actor == APIDOJO_ACTOR:
         payload: dict[str, object] = {
             "maxItems": max_results,
             "includeShorts": bool(source.get("include_shorts", False)),
             "includeLiveStreams": bool(source.get("include_livestreams", False)),
         }
-        payload["keywords" if queries else "startUrls"] = queries or [str(source["url"])]
+        payload["keywords" if queries else "startUrls"] = queries or [source_url]
         return payload
     payload = {
         "maxResults": max_results,
@@ -41,7 +44,7 @@ def _source_input(actor: str, source: dict[str, Any], max_results: int) -> dict[
         "maxResultStreams": max_results if source.get("include_livestreams") else 0,
     }
     payload["searchQueries" if queries else "startUrls"] = (
-        queries if queries else [{"url": str(source["url"])}]
+        queries if queries else [{"url": source_url}]
     )
     return payload
 
@@ -127,6 +130,21 @@ def main() -> None:
         "build-social", help="Build derivative and social-source outputs from cached evidence"
     )
     social_parser.add_argument("--output", type=Path, default=Path("outputs"))
+    derivative_extract_parser = subparsers.add_parser(
+        "extract-derivative",
+        help="Run one reviewed derivative YouTube source into a separate raw-evidence lane",
+    )
+    derivative_extract_parser.add_argument("source_id")
+    derivative_extract_parser.add_argument("--max-charge-usd", type=float, default=1.0)
+    derivative_extract_parser.add_argument("--output", type=Path, default=Path("outputs"))
+    derivative_resume_parser = subparsers.add_parser(
+        "resume-derivative",
+        help="Store a completed or explicitly accepted partial derivative run without rerunning it",
+    )
+    derivative_resume_parser.add_argument("source_id")
+    derivative_resume_parser.add_argument("run_id")
+    derivative_resume_parser.add_argument("--allow-partial", action="store_true")
+    derivative_resume_parser.add_argument("--output", type=Path, default=Path("outputs"))
     args = parser.parse_args()
 
     logging.basicConfig(level=logging.INFO, format="%(levelname)s %(name)s %(message)s")
@@ -178,6 +196,68 @@ def main() -> None:
             root / "data" / "raw", output / "episode_registry.csv", output, config
         )
         logging.info("Built derivative/social outputs %s", result)
+        return
+    if args.command == "extract-derivative":
+        source = find_derivative_source(config, args.source_id)
+        actor = str(source.get("actor", DEFAULT_ACTOR))
+        run = None
+        with ApifyYouTubeClient(load_apify_token()) as client:
+            run = client.run(
+                actor,
+                _source_input(actor, source, int(source.get("max_results", 50))),
+                max_total_charge_usd=args.max_charge_usd,
+            )
+        run = replace(
+            run,
+            actor_input={
+                **run.actor_input,
+                "derivativeSourceId": str(source["source_id"]),
+                "sourceBindingUrl": str(source["source_url"]),
+            },
+        )
+        raw_path = save_raw_run(run, root / "data" / "derivative_raw")
+        result = build_social_outputs(
+            root / "data" / "raw",
+            root / args.output / "episode_registry.csv",
+            root / args.output,
+            config,
+            derivative_raw_dir=root / "data" / "derivative_raw",
+        )
+        logging.info(
+            "Extracted derivative source=%s raw=%s result=%s",
+            args.source_id,
+            raw_path,
+            result,
+        )
+        return
+    if args.command == "resume-derivative":
+        source = find_derivative_source(config, args.source_id)
+        actor = str(source.get("actor", DEFAULT_ACTOR))
+        with ApifyYouTubeClient(load_apify_token()) as client:
+            run = client.fetch(actor, args.run_id, allow_partial=args.allow_partial)
+        run = replace(
+            run,
+            actor_input={
+                **run.actor_input,
+                "derivativeSourceId": str(source["source_id"]),
+                "sourceBindingUrl": str(source["source_url"]),
+                "partialResultAccepted": bool(args.allow_partial),
+            },
+        )
+        raw_path = save_raw_run(run, root / "data" / "derivative_raw")
+        result = build_social_outputs(
+            root / "data" / "raw",
+            root / args.output / "episode_registry.csv",
+            root / args.output,
+            config,
+            derivative_raw_dir=root / "data" / "derivative_raw",
+        )
+        logging.info(
+            "Resumed derivative source=%s raw=%s result=%s",
+            args.source_id,
+            raw_path,
+            result,
+        )
         return
     if args.command == "extract-season":
         show_id, _, season = find_season(config, args.season_id)

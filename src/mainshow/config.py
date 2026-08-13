@@ -92,3 +92,10 @@ def find_source_season(config: ProjectConfig, url: str):
             if source.get("url") == url:
                 return show_id, show, season, source
     return None
+
+
+def find_derivative_source(config: ProjectConfig, source_id: str) -> dict[str, Any]:
+    for source in config.social.get("derivative_sources", []):
+        if source.get("source_id") == source_id:
+            return dict(source)
+    raise KeyError(f"Unknown derivative source_id={source_id}")

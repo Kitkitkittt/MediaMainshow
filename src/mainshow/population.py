@@ -249,7 +249,13 @@ def build_all(raw_dir: Path, output_dir: Path, config: ProjectConfig) -> dict[st
         (output_dir / "qc_report.md").write_text(
             "\n".join(report).rstrip() + "\n", encoding="utf-8"
         )
-        build_social_outputs(raw_dir, output_dir / "episode_registry.csv", output_dir, config)
+        build_social_outputs(
+            raw_dir,
+            output_dir / "episode_registry.csv",
+            output_dir,
+            config,
+            derivative_raw_dir=raw_dir.parents[0] / "derivative_raw",
+        )
 
     return {
         "configured_seasons": len(status_rows),

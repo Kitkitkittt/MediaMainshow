@@ -74,3 +74,17 @@ platforms:
 
 # Promote a candidate here only after its ownership evidence has been reviewed.
 verified_sources: []
+
+# Each discovery source is bound to a reviewed YouTube channel before it can be run.
+# Receipts live under data/derivative_raw and never enter canonical episode population.
+derivative_sources:
+  - source_id: atsh_2025_viechannel_derivatives
+    show_id: ATSH
+    season_id: ATSH_2025
+    source_url: https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw/search?query=Anh%20Trai%20Say%20Hi%202025
+    queries: ['Anh Trai Say Hi 2025']
+    channel_id: UCkna2OcuN1E6u5I8GVtdkOw
+    actor: streamers/youtube-scraper
+    max_results: 50
+    include_shorts: true
+    include_livestreams: true
