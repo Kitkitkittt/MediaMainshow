@@ -1,0 +1,30 @@
+{
+  "actor_name": "memo23/threads-scraper",
+  "actor_run_id": "8tzGOrQFe5IyAZyMc",
+  "dataset_id": "JLUnUsAKz4FR88Rfm",
+  "actor_build_id": "wKxFUlFp6o16iSVYK",
+  "retrieved_at": "2026-08-13T14:13:59.178035+07:00",
+  "actor_input": {
+    "usernames": [
+      "runningmanvietnamseason3"
+    ],
+    "mode": "posts",
+    "maxItems": 15,
+    "socialPlatform": "threads",
+    "socialSourceId": "threads_public_posts_qualification",
+    "sourceBindingUrl": "https://www.threads.com/@runningmanvietnamseason3",
+    "authorityStatus": "NEEDS_REVIEW",
+    "runPurpose": "schema_and_cost_qualification"
+  },
+  "run_metadata": {
+    "status": "SUCCEEDED",
+    "startedAt": "2026-08-13T07:13:44.666Z",
+    "finishedAt": "2026-08-13T07:13:56.111Z",
+    "usageTotalUsd": 0.005,
+    "chargedEventCounts": {
+      "apify-actor-start": 1,
+      "post-result": 0
+    }
+  },
+  "items": []
+}
