@@ -10,7 +10,7 @@ from urllib.parse import unquote, urlsplit
 
 from .adapters import normalize_actor_item
 from .classifier import classify_video
-from .config import ProjectConfig, find_source_season
+from .config import ProjectConfig, derivative_sources, find_source_season
 from .models import Provenance
 
 TYPE_TO_ROLE = {
@@ -258,18 +258,16 @@ def derivative_rows(episode_registry: Path) -> list[dict[str, Any]]:
 def derivative_receipt_rows(raw_dir: Path, config: ProjectConfig) -> list[dict[str, Any]]:
     """Normalize separately-bound derivative runs; never feed them to canonical QC."""
     rows: list[dict[str, Any]] = []
-    source_by_id = {
-        str(source.get("source_id")): source
-        for source in config.social.get("derivative_sources", [])
-    }
+    source_by_id = {str(source.get("source_id")): source for source in derivative_sources(config)}
     for path in sorted(raw_dir.glob("*.json")):
         payload = json.loads(path.read_text(encoding="utf-8"))
         source = source_by_id.get(str(payload.get("actor_input", {}).get("derivativeSourceId", "")))
         if not source:
             continue
         show = config.shows[str(source["show_id"])]
+        season_id = str(source.get("season_id", ""))
         season = next(
-            item for item in show["seasons"] if item["season_id"] == source["season_id"]
+            (item for item in show["seasons"] if item["season_id"] == season_id), None
         )
         provenance = Provenance(
             str(payload.get("actor_name", "")),
@@ -302,7 +300,7 @@ def derivative_receipt_rows(raw_dir: Path, config: ProjectConfig) -> list[dict[s
                     "native_content_id": candidate.video_id,
                     "content_url": candidate.video_url,
                     "show_id": source["show_id"],
-                    "season_id": source["season_id"],
+                    "season_id": season_id,
                     "title": candidate.title,
                     "platform_format": (
                         "SHORT"
@@ -316,7 +314,11 @@ def derivative_receipt_rows(raw_dir: Path, config: ProjectConfig) -> list[dict[s
                         authority.upper() if authority != "unknown" else "UNVERIFIED"
                     ),
                     "relationship_target_type": (
-                        "EPISODE" if classification.episode_no else "SEASON"
+                        "EPISODE"
+                        if classification.episode_no
+                        else "SEASON"
+                        if season_id
+                        else "SHOW"
                     ),
                     "relationship_evidence": "EXPLICIT_TEXT_LINK",
                     "classification_state": "ACCEPTED" if accepted else "NEEDS_REVIEW",
@@ -334,6 +336,22 @@ def derivative_receipt_rows(raw_dir: Path, config: ProjectConfig) -> list[dict[s
                 }
             )
     return rows
+
+
+def pending_derivative_sources(raw_dir: Path, config: ProjectConfig) -> list[dict[str, Any]]:
+    """Return sources with no retained live receipt, including accepted partial receipts."""
+    recorded: set[str] = set()
+    for path in raw_dir.glob("*.json"):
+        try:
+            payload = json.loads(path.read_text(encoding="utf-8"))
+        except json.JSONDecodeError:
+            continue
+        source_id = str(payload.get("actor_input", {}).get("derivativeSourceId", ""))
+        if source_id:
+            recorded.add(source_id)
+    return [
+        source for source in derivative_sources(config) if str(source["source_id"]) not in recorded
+    ]
 
 
 def social_account_rows(raw_dir: Path, config: ProjectConfig) -> list[dict[str, Any]]:

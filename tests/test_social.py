@@ -9,6 +9,7 @@ from mainshow.social import (
     _social_profile,
     build_social_outputs,
     normalize_social_item,
+    pending_derivative_sources,
 )
 
 
@@ -196,3 +197,17 @@ def test_derivative_receipt_is_separate_from_canonical_population(tmp_path: Path
     assert rows[0]["native_content_id"] == "short1"
     assert rows[0]["platform_format"] == "SHORT"
     assert rows[0]["classification_state"] == "ACCEPTED"
+
+
+def test_pending_derivative_sources_skips_any_retained_receipt(tmp_path: Path) -> None:
+    root = Path(__file__).resolve().parents[1]
+    config = load_project_config(root)
+    raw_dir = tmp_path / "derivative_raw"
+    raw_dir.mkdir()
+    source_id = config.social["derivative_sources"][0]["source_id"]
+    (raw_dir / "receipt.json").write_text(
+        json.dumps({"actor_input": {"derivativeSourceId": source_id}}), encoding="utf-8"
+    )
+    pending_ids = {source["source_id"] for source in pending_derivative_sources(raw_dir, config)}
+    assert source_id not in pending_ids
+    assert any(value.startswith("youtube_") for value in pending_ids)

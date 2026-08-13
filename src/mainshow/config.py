@@ -95,7 +95,40 @@ def find_source_season(config: ProjectConfig, url: str):
 
 
 def find_derivative_source(config: ProjectConfig, source_id: str) -> dict[str, Any]:
-    for source in config.social.get("derivative_sources", []):
+    for source in derivative_sources(config):
         if source.get("source_id") == source_id:
-            return dict(source)
+            return source
     raise KeyError(f"Unknown derivative source_id={source_id}")
+
+
+def derivative_sources(config: ProjectConfig) -> list[dict[str, Any]]:
+    """Return reviewed sources plus one bounded official-channel source per show/channel."""
+    explicit = [dict(source) for source in config.social.get("derivative_sources", [])]
+    explicit_show_ids = {str(source.get("show_id", "")) for source in explicit}
+    generated: list[dict[str, Any]] = []
+    for show_id, show in config.shows.items():
+        if show_id in explicit_show_ids:
+            continue
+        channel_ids = [str(value) for value in show.get("primary_youtube_channel_ids", [])]
+        if not channel_ids:
+            for season in show.get("seasons", []):
+                for source in season_sources(season):
+                    channel_id = str(source.get("channel_id", ""))
+                    if channel_id and channel_id not in channel_ids:
+                        channel_ids.append(channel_id)
+        for channel_id in channel_ids:
+            generated.append(
+                {
+                    "source_id": f"youtube_{show_id.lower()}_{channel_id[:8]}_derivatives",
+                    "show_id": show_id,
+                    "source_url": f"https://www.youtube.com/channel/{channel_id}",
+                    "queries": [str(show["name"])],
+                    "channel_id": channel_id,
+                    "actor": "streamers/youtube-scraper",
+                    "max_results": 50,
+                    "include_shorts": True,
+                    "include_livestreams": True,
+                    "generated_from": "verified_show_channel",
+                }
+            )
+    return explicit + generated

@@ -12,7 +12,7 @@ from .discovery import discover_unknown_shows
 from .pipeline import build_pilot
 from .population import build_all, pending_sources
 from .registry import write_config_registries
-from .social import build_social_outputs
+from .social import build_social_outputs, pending_derivative_sources
 
 APIDOJO_ACTOR = "apidojo/youtube-scraper-api"
 DEFAULT_ACTOR = "streamers/youtube-scraper"
@@ -145,6 +145,13 @@ def main() -> None:
     derivative_resume_parser.add_argument("run_id")
     derivative_resume_parser.add_argument("--allow-partial", action="store_true")
     derivative_resume_parser.add_argument("--output", type=Path, default=Path("outputs"))
+    derivative_populate_parser = subparsers.add_parser(
+        "extract-derivative-pending",
+        help="Run every unreceived official-channel derivative source within one cumulative cap",
+    )
+    derivative_populate_parser.add_argument("--budget-cap-usd", type=float, required=True)
+    derivative_populate_parser.add_argument("--limit-sources", type=int)
+    derivative_populate_parser.add_argument("--output", type=Path, default=Path("outputs"))
     args = parser.parse_args()
 
     logging.basicConfig(level=logging.INFO, format="%(levelname)s %(name)s %(message)s")
@@ -258,6 +265,48 @@ def main() -> None:
             raw_path,
             result,
         )
+        return
+    if args.command == "extract-derivative-pending":
+        sources = pending_derivative_sources(root / "data" / "derivative_raw", config)
+        if args.limit_sources:
+            sources = sources[: args.limit_sources]
+        spent = 0.0
+        with ApifyYouTubeClient(load_apify_token()) as client:
+            for source in sources:
+                remaining = args.budget_cap_usd - spent
+                if remaining <= 0:
+                    logging.warning("Derivative budget cap reached")
+                    break
+                actor = str(source.get("actor", DEFAULT_ACTOR))
+                run = client.run(
+                    actor,
+                    _source_input(actor, source, int(source.get("max_results", 50))),
+                    max_total_charge_usd=min(remaining, 1.0),
+                )
+                run = replace(
+                    run,
+                    actor_input={
+                        **run.actor_input,
+                        "derivativeSourceId": str(source["source_id"]),
+                        "sourceBindingUrl": str(source["source_url"]),
+                    },
+                )
+                save_raw_run(run, root / "data" / "derivative_raw")
+                spent += float(run.run_metadata.get("usageTotalUsd", 0) or 0)
+                logging.info(
+                    "Extracted derivative source=%s items=%d cumulative_usd=%.4f",
+                    source["source_id"],
+                    len(run.items),
+                    spent,
+                )
+        result = build_social_outputs(
+            root / "data" / "raw",
+            root / args.output / "episode_registry.csv",
+            root / args.output,
+            config,
+            derivative_raw_dir=root / "data" / "derivative_raw",
+        )
+        logging.info("Derivative extraction wave complete spent_usd=%.4f result=%s", spent, result)
         return
     if args.command == "extract-season":
         show_id, _, season = find_season(config, args.season_id)
