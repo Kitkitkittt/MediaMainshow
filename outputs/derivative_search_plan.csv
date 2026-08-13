@@ -1,0 +1,391 @@
+﻿show_id,show_name,content_role,query,max_results,include_shorts,include_livestreams,run_status
+ATSH,"Anh Trai ""Say Hi""",CLIP,"""Anh Trai ""Say Hi"""" (clip OR ""trich doan"" OR ""phan thi"" OR ""man trinh dien"")",30,True,True,NOT_RUN
+ATSH,"Anh Trai ""Say Hi""",HIGHLIGHT,"""Anh Trai ""Say Hi"""" (highlight OR ""khoanh khac"" OR ""best moment"")",30,True,True,NOT_RUN
+ATSH,"Anh Trai ""Say Hi""",TEASER_PREVIEW,"""Anh Trai ""Say Hi"""" (teaser OR trailer OR preview OR ""xem truoc"" OR ""hong tap"" OR ""don xem"")",30,True,True,NOT_RUN
+ATSH,"Anh Trai ""Say Hi""",RECAP_COMMENTARY,"""Anh Trai ""Say Hi"""" (recap OR ""nhin lai"" OR reaction OR ""binh luan"" OR ""phan tich"")",30,True,True,NOT_RUN
+ATSH,"Anh Trai ""Say Hi""",PRODUCTION_ACCESS,"""Anh Trai ""Say Hi"""" (""hau truong"" OR ""behind the scenes"" OR backstage OR ""making of"" OR rehearsal OR ""nhat ky"")",30,True,True,NOT_RUN
+ATSH,"Anh Trai ""Say Hi""",INTERVIEW_PRESS,"""Anh Trai ""Say Hi"""" (interview OR ""phong van"" OR ""hop bao"" OR ""le ra mat"")",30,True,True,NOT_RUN
+ATSH,"Anh Trai ""Say Hi""",MUSIC_PERFORMANCE,"""Anh Trai ""Say Hi"""" (""official mv"" OR ""music video"" OR ""lyric video"" OR ost OR performance OR ""live stage"" OR ""dance practice"")",30,True,True,NOT_RUN
+ATSH,"Anh Trai ""Say Hi""",EXTENDED_DELETED,"""Anh Trai ""Say Hi"""" (uncut OR extended OR ""khong len song"" OR ""deleted scene"")",30,True,True,NOT_RUN
+ATSH,"Anh Trai ""Say Hi""",CAST_CHALLENGE,"""Anh Trai ""Say Hi"""" (cast OR ""thu thach"" OR challenge OR game OR vlog)",30,True,True,NOT_RUN
+ATSH,"Anh Trai ""Say Hi""",SHORT_FORM,"""Anh Trai ""Say Hi"""" (shorts OR reel OR ""short video"")",30,True,True,NOT_RUN
+ATSH,"Anh Trai ""Say Hi""",LIVESTREAM,"""Anh Trai ""Say Hi"""" (livestream OR ""live stream"" OR ""live full"")",30,True,True,NOT_RUN
+ATSH,"Anh Trai ""Say Hi""",COMPILATION,"""Anh Trai ""Say Hi"""" (compilation OR ""tong hop"" OR ""tuyen tap"" OR ""top khoanh khac"")",30,True,True,NOT_RUN
+ATSH,"Anh Trai ""Say Hi""",COMMUNITY_TRANSFORMATIVE,"""Anh Trai ""Say Hi"""" (remix OR duet OR stitch OR meme OR ""fan edit"" OR fancam OR parody OR cover)",30,True,True,NOT_RUN
+EXSH,"Em Xinh ""Say Hi""",CLIP,"""Em Xinh ""Say Hi"""" (clip OR ""trich doan"" OR ""phan thi"" OR ""man trinh dien"")",30,True,True,NOT_RUN
+EXSH,"Em Xinh ""Say Hi""",HIGHLIGHT,"""Em Xinh ""Say Hi"""" (highlight OR ""khoanh khac"" OR ""best moment"")",30,True,True,NOT_RUN
+EXSH,"Em Xinh ""Say Hi""",TEASER_PREVIEW,"""Em Xinh ""Say Hi"""" (teaser OR trailer OR preview OR ""xem truoc"" OR ""hong tap"" OR ""don xem"")",30,True,True,NOT_RUN
+EXSH,"Em Xinh ""Say Hi""",RECAP_COMMENTARY,"""Em Xinh ""Say Hi"""" (recap OR ""nhin lai"" OR reaction OR ""binh luan"" OR ""phan tich"")",30,True,True,NOT_RUN
+EXSH,"Em Xinh ""Say Hi""",PRODUCTION_ACCESS,"""Em Xinh ""Say Hi"""" (""hau truong"" OR ""behind the scenes"" OR backstage OR ""making of"" OR rehearsal OR ""nhat ky"")",30,True,True,NOT_RUN
+EXSH,"Em Xinh ""Say Hi""",INTERVIEW_PRESS,"""Em Xinh ""Say Hi"""" (interview OR ""phong van"" OR ""hop bao"" OR ""le ra mat"")",30,True,True,NOT_RUN
+EXSH,"Em Xinh ""Say Hi""",MUSIC_PERFORMANCE,"""Em Xinh ""Say Hi"""" (""official mv"" OR ""music video"" OR ""lyric video"" OR ost OR performance OR ""live stage"" OR ""dance practice"")",30,True,True,NOT_RUN
+EXSH,"Em Xinh ""Say Hi""",EXTENDED_DELETED,"""Em Xinh ""Say Hi"""" (uncut OR extended OR ""khong len song"" OR ""deleted scene"")",30,True,True,NOT_RUN
+EXSH,"Em Xinh ""Say Hi""",CAST_CHALLENGE,"""Em Xinh ""Say Hi"""" (cast OR ""thu thach"" OR challenge OR game OR vlog)",30,True,True,NOT_RUN
+EXSH,"Em Xinh ""Say Hi""",SHORT_FORM,"""Em Xinh ""Say Hi"""" (shorts OR reel OR ""short video"")",30,True,True,NOT_RUN
+EXSH,"Em Xinh ""Say Hi""",LIVESTREAM,"""Em Xinh ""Say Hi"""" (livestream OR ""live stream"" OR ""live full"")",30,True,True,NOT_RUN
+EXSH,"Em Xinh ""Say Hi""",COMPILATION,"""Em Xinh ""Say Hi"""" (compilation OR ""tong hop"" OR ""tuyen tap"" OR ""top khoanh khac"")",30,True,True,NOT_RUN
+EXSH,"Em Xinh ""Say Hi""",COMMUNITY_TRANSFORMATIVE,"""Em Xinh ""Say Hi"""" (remix OR duet OR stitch OR meme OR ""fan edit"" OR fancam OR parody OR cover)",30,True,True,NOT_RUN
+THSH,"Tinh Hà ""Say Hi""",CLIP,"""Tinh Hà ""Say Hi"""" (clip OR ""trich doan"" OR ""phan thi"" OR ""man trinh dien"")",30,True,True,NOT_RUN
+THSH,"Tinh Hà ""Say Hi""",HIGHLIGHT,"""Tinh Hà ""Say Hi"""" (highlight OR ""khoanh khac"" OR ""best moment"")",30,True,True,NOT_RUN
+THSH,"Tinh Hà ""Say Hi""",TEASER_PREVIEW,"""Tinh Hà ""Say Hi"""" (teaser OR trailer OR preview OR ""xem truoc"" OR ""hong tap"" OR ""don xem"")",30,True,True,NOT_RUN
+THSH,"Tinh Hà ""Say Hi""",RECAP_COMMENTARY,"""Tinh Hà ""Say Hi"""" (recap OR ""nhin lai"" OR reaction OR ""binh luan"" OR ""phan tich"")",30,True,True,NOT_RUN
+THSH,"Tinh Hà ""Say Hi""",PRODUCTION_ACCESS,"""Tinh Hà ""Say Hi"""" (""hau truong"" OR ""behind the scenes"" OR backstage OR ""making of"" OR rehearsal OR ""nhat ky"")",30,True,True,NOT_RUN
+THSH,"Tinh Hà ""Say Hi""",INTERVIEW_PRESS,"""Tinh Hà ""Say Hi"""" (interview OR ""phong van"" OR ""hop bao"" OR ""le ra mat"")",30,True,True,NOT_RUN
+THSH,"Tinh Hà ""Say Hi""",MUSIC_PERFORMANCE,"""Tinh Hà ""Say Hi"""" (""official mv"" OR ""music video"" OR ""lyric video"" OR ost OR performance OR ""live stage"" OR ""dance practice"")",30,True,True,NOT_RUN
+THSH,"Tinh Hà ""Say Hi""",EXTENDED_DELETED,"""Tinh Hà ""Say Hi"""" (uncut OR extended OR ""khong len song"" OR ""deleted scene"")",30,True,True,NOT_RUN
+THSH,"Tinh Hà ""Say Hi""",CAST_CHALLENGE,"""Tinh Hà ""Say Hi"""" (cast OR ""thu thach"" OR challenge OR game OR vlog)",30,True,True,NOT_RUN
+THSH,"Tinh Hà ""Say Hi""",SHORT_FORM,"""Tinh Hà ""Say Hi"""" (shorts OR reel OR ""short video"")",30,True,True,NOT_RUN
+THSH,"Tinh Hà ""Say Hi""",LIVESTREAM,"""Tinh Hà ""Say Hi"""" (livestream OR ""live stream"" OR ""live full"")",30,True,True,NOT_RUN
+THSH,"Tinh Hà ""Say Hi""",COMPILATION,"""Tinh Hà ""Say Hi"""" (compilation OR ""tong hop"" OR ""tuyen tap"" OR ""top khoanh khac"")",30,True,True,NOT_RUN
+THSH,"Tinh Hà ""Say Hi""",COMMUNITY_TRANSFORMATIVE,"""Tinh Hà ""Say Hi"""" (remix OR duet OR stitch OR meme OR ""fan edit"" OR fancam OR parody OR cover)",30,True,True,NOT_RUN
+ATVNCG,Anh Trai Vượt Ngàn Chông Gai,CLIP,"""Anh Trai Vượt Ngàn Chông Gai"" (clip OR ""trich doan"" OR ""phan thi"" OR ""man trinh dien"")",30,True,True,NOT_RUN
+ATVNCG,Anh Trai Vượt Ngàn Chông Gai,HIGHLIGHT,"""Anh Trai Vượt Ngàn Chông Gai"" (highlight OR ""khoanh khac"" OR ""best moment"")",30,True,True,NOT_RUN
+ATVNCG,Anh Trai Vượt Ngàn Chông Gai,TEASER_PREVIEW,"""Anh Trai Vượt Ngàn Chông Gai"" (teaser OR trailer OR preview OR ""xem truoc"" OR ""hong tap"" OR ""don xem"")",30,True,True,NOT_RUN
+ATVNCG,Anh Trai Vượt Ngàn Chông Gai,RECAP_COMMENTARY,"""Anh Trai Vượt Ngàn Chông Gai"" (recap OR ""nhin lai"" OR reaction OR ""binh luan"" OR ""phan tich"")",30,True,True,NOT_RUN
+ATVNCG,Anh Trai Vượt Ngàn Chông Gai,PRODUCTION_ACCESS,"""Anh Trai Vượt Ngàn Chông Gai"" (""hau truong"" OR ""behind the scenes"" OR backstage OR ""making of"" OR rehearsal OR ""nhat ky"")",30,True,True,NOT_RUN
+ATVNCG,Anh Trai Vượt Ngàn Chông Gai,INTERVIEW_PRESS,"""Anh Trai Vượt Ngàn Chông Gai"" (interview OR ""phong van"" OR ""hop bao"" OR ""le ra mat"")",30,True,True,NOT_RUN
+ATVNCG,Anh Trai Vượt Ngàn Chông Gai,MUSIC_PERFORMANCE,"""Anh Trai Vượt Ngàn Chông Gai"" (""official mv"" OR ""music video"" OR ""lyric video"" OR ost OR performance OR ""live stage"" OR ""dance practice"")",30,True,True,NOT_RUN
+ATVNCG,Anh Trai Vượt Ngàn Chông Gai,EXTENDED_DELETED,"""Anh Trai Vượt Ngàn Chông Gai"" (uncut OR extended OR ""khong len song"" OR ""deleted scene"")",30,True,True,NOT_RUN
+ATVNCG,Anh Trai Vượt Ngàn Chông Gai,CAST_CHALLENGE,"""Anh Trai Vượt Ngàn Chông Gai"" (cast OR ""thu thach"" OR challenge OR game OR vlog)",30,True,True,NOT_RUN
+ATVNCG,Anh Trai Vượt Ngàn Chông Gai,SHORT_FORM,"""Anh Trai Vượt Ngàn Chông Gai"" (shorts OR reel OR ""short video"")",30,True,True,NOT_RUN
+ATVNCG,Anh Trai Vượt Ngàn Chông Gai,LIVESTREAM,"""Anh Trai Vượt Ngàn Chông Gai"" (livestream OR ""live stream"" OR ""live full"")",30,True,True,NOT_RUN
+ATVNCG,Anh Trai Vượt Ngàn Chông Gai,COMPILATION,"""Anh Trai Vượt Ngàn Chông Gai"" (compilation OR ""tong hop"" OR ""tuyen tap"" OR ""top khoanh khac"")",30,True,True,NOT_RUN
+ATVNCG,Anh Trai Vượt Ngàn Chông Gai,COMMUNITY_TRANSFORMATIVE,"""Anh Trai Vượt Ngàn Chông Gai"" (remix OR duet OR stitch OR meme OR ""fan edit"" OR fancam OR parody OR cover)",30,True,True,NOT_RUN
+CDDG,Chị Đẹp Đạp Gió,CLIP,"""Chị Đẹp Đạp Gió"" (clip OR ""trich doan"" OR ""phan thi"" OR ""man trinh dien"")",30,True,True,NOT_RUN
+CDDG,Chị Đẹp Đạp Gió,HIGHLIGHT,"""Chị Đẹp Đạp Gió"" (highlight OR ""khoanh khac"" OR ""best moment"")",30,True,True,NOT_RUN
+CDDG,Chị Đẹp Đạp Gió,TEASER_PREVIEW,"""Chị Đẹp Đạp Gió"" (teaser OR trailer OR preview OR ""xem truoc"" OR ""hong tap"" OR ""don xem"")",30,True,True,NOT_RUN
+CDDG,Chị Đẹp Đạp Gió,RECAP_COMMENTARY,"""Chị Đẹp Đạp Gió"" (recap OR ""nhin lai"" OR reaction OR ""binh luan"" OR ""phan tich"")",30,True,True,NOT_RUN
+CDDG,Chị Đẹp Đạp Gió,PRODUCTION_ACCESS,"""Chị Đẹp Đạp Gió"" (""hau truong"" OR ""behind the scenes"" OR backstage OR ""making of"" OR rehearsal OR ""nhat ky"")",30,True,True,NOT_RUN
+CDDG,Chị Đẹp Đạp Gió,INTERVIEW_PRESS,"""Chị Đẹp Đạp Gió"" (interview OR ""phong van"" OR ""hop bao"" OR ""le ra mat"")",30,True,True,NOT_RUN
+CDDG,Chị Đẹp Đạp Gió,MUSIC_PERFORMANCE,"""Chị Đẹp Đạp Gió"" (""official mv"" OR ""music video"" OR ""lyric video"" OR ost OR performance OR ""live stage"" OR ""dance practice"")",30,True,True,NOT_RUN
+CDDG,Chị Đẹp Đạp Gió,EXTENDED_DELETED,"""Chị Đẹp Đạp Gió"" (uncut OR extended OR ""khong len song"" OR ""deleted scene"")",30,True,True,NOT_RUN
+CDDG,Chị Đẹp Đạp Gió,CAST_CHALLENGE,"""Chị Đẹp Đạp Gió"" (cast OR ""thu thach"" OR challenge OR game OR vlog)",30,True,True,NOT_RUN
+CDDG,Chị Đẹp Đạp Gió,SHORT_FORM,"""Chị Đẹp Đạp Gió"" (shorts OR reel OR ""short video"")",30,True,True,NOT_RUN
+CDDG,Chị Đẹp Đạp Gió,LIVESTREAM,"""Chị Đẹp Đạp Gió"" (livestream OR ""live stream"" OR ""live full"")",30,True,True,NOT_RUN
+CDDG,Chị Đẹp Đạp Gió,COMPILATION,"""Chị Đẹp Đạp Gió"" (compilation OR ""tong hop"" OR ""tuyen tap"" OR ""top khoanh khac"")",30,True,True,NOT_RUN
+CDDG,Chị Đẹp Đạp Gió,COMMUNITY_TRANSFORMATIVE,"""Chị Đẹp Đạp Gió"" (remix OR duet OR stitch OR meme OR ""fan edit"" OR fancam OR parody OR cover)",30,True,True,NOT_RUN
+RAPVIET,Rap Việt,CLIP,"""Rap Việt"" (clip OR ""trich doan"" OR ""phan thi"" OR ""man trinh dien"")",30,True,True,NOT_RUN
+RAPVIET,Rap Việt,HIGHLIGHT,"""Rap Việt"" (highlight OR ""khoanh khac"" OR ""best moment"")",30,True,True,NOT_RUN
+RAPVIET,Rap Việt,TEASER_PREVIEW,"""Rap Việt"" (teaser OR trailer OR preview OR ""xem truoc"" OR ""hong tap"" OR ""don xem"")",30,True,True,NOT_RUN
+RAPVIET,Rap Việt,RECAP_COMMENTARY,"""Rap Việt"" (recap OR ""nhin lai"" OR reaction OR ""binh luan"" OR ""phan tich"")",30,True,True,NOT_RUN
+RAPVIET,Rap Việt,PRODUCTION_ACCESS,"""Rap Việt"" (""hau truong"" OR ""behind the scenes"" OR backstage OR ""making of"" OR rehearsal OR ""nhat ky"")",30,True,True,NOT_RUN
+RAPVIET,Rap Việt,INTERVIEW_PRESS,"""Rap Việt"" (interview OR ""phong van"" OR ""hop bao"" OR ""le ra mat"")",30,True,True,NOT_RUN
+RAPVIET,Rap Việt,MUSIC_PERFORMANCE,"""Rap Việt"" (""official mv"" OR ""music video"" OR ""lyric video"" OR ost OR performance OR ""live stage"" OR ""dance practice"")",30,True,True,NOT_RUN
+RAPVIET,Rap Việt,EXTENDED_DELETED,"""Rap Việt"" (uncut OR extended OR ""khong len song"" OR ""deleted scene"")",30,True,True,NOT_RUN
+RAPVIET,Rap Việt,CAST_CHALLENGE,"""Rap Việt"" (cast OR ""thu thach"" OR challenge OR game OR vlog)",30,True,True,NOT_RUN
+RAPVIET,Rap Việt,SHORT_FORM,"""Rap Việt"" (shorts OR reel OR ""short video"")",30,True,True,NOT_RUN
+RAPVIET,Rap Việt,LIVESTREAM,"""Rap Việt"" (livestream OR ""live stream"" OR ""live full"")",30,True,True,NOT_RUN
+RAPVIET,Rap Việt,COMPILATION,"""Rap Việt"" (compilation OR ""tong hop"" OR ""tuyen tap"" OR ""top khoanh khac"")",30,True,True,NOT_RUN
+RAPVIET,Rap Việt,COMMUNITY_TRANSFORMATIVE,"""Rap Việt"" (remix OR duet OR stitch OR meme OR ""fan edit"" OR fancam OR parody OR cover)",30,True,True,NOT_RUN
+TMSVN,The Masked Singer Vietnam,CLIP,"""The Masked Singer Vietnam"" (clip OR ""trich doan"" OR ""phan thi"" OR ""man trinh dien"")",30,True,True,NOT_RUN
+TMSVN,The Masked Singer Vietnam,HIGHLIGHT,"""The Masked Singer Vietnam"" (highlight OR ""khoanh khac"" OR ""best moment"")",30,True,True,NOT_RUN
+TMSVN,The Masked Singer Vietnam,TEASER_PREVIEW,"""The Masked Singer Vietnam"" (teaser OR trailer OR preview OR ""xem truoc"" OR ""hong tap"" OR ""don xem"")",30,True,True,NOT_RUN
+TMSVN,The Masked Singer Vietnam,RECAP_COMMENTARY,"""The Masked Singer Vietnam"" (recap OR ""nhin lai"" OR reaction OR ""binh luan"" OR ""phan tich"")",30,True,True,NOT_RUN
+TMSVN,The Masked Singer Vietnam,PRODUCTION_ACCESS,"""The Masked Singer Vietnam"" (""hau truong"" OR ""behind the scenes"" OR backstage OR ""making of"" OR rehearsal OR ""nhat ky"")",30,True,True,NOT_RUN
+TMSVN,The Masked Singer Vietnam,INTERVIEW_PRESS,"""The Masked Singer Vietnam"" (interview OR ""phong van"" OR ""hop bao"" OR ""le ra mat"")",30,True,True,NOT_RUN
+TMSVN,The Masked Singer Vietnam,MUSIC_PERFORMANCE,"""The Masked Singer Vietnam"" (""official mv"" OR ""music video"" OR ""lyric video"" OR ost OR performance OR ""live stage"" OR ""dance practice"")",30,True,True,NOT_RUN
+TMSVN,The Masked Singer Vietnam,EXTENDED_DELETED,"""The Masked Singer Vietnam"" (uncut OR extended OR ""khong len song"" OR ""deleted scene"")",30,True,True,NOT_RUN
+TMSVN,The Masked Singer Vietnam,CAST_CHALLENGE,"""The Masked Singer Vietnam"" (cast OR ""thu thach"" OR challenge OR game OR vlog)",30,True,True,NOT_RUN
+TMSVN,The Masked Singer Vietnam,SHORT_FORM,"""The Masked Singer Vietnam"" (shorts OR reel OR ""short video"")",30,True,True,NOT_RUN
+TMSVN,The Masked Singer Vietnam,LIVESTREAM,"""The Masked Singer Vietnam"" (livestream OR ""live stream"" OR ""live full"")",30,True,True,NOT_RUN
+TMSVN,The Masked Singer Vietnam,COMPILATION,"""The Masked Singer Vietnam"" (compilation OR ""tong hop"" OR ""tuyen tap"" OR ""top khoanh khac"")",30,True,True,NOT_RUN
+TMSVN,The Masked Singer Vietnam,COMMUNITY_TRANSFORMATIVE,"""The Masked Singer Vietnam"" (remix OR duet OR stitch OR meme OR ""fan edit"" OR fancam OR parody OR cover)",30,True,True,NOT_RUN
+TBTN,Tân Binh Toàn Năng,CLIP,"""Tân Binh Toàn Năng"" (clip OR ""trich doan"" OR ""phan thi"" OR ""man trinh dien"")",30,True,True,NOT_RUN
+TBTN,Tân Binh Toàn Năng,HIGHLIGHT,"""Tân Binh Toàn Năng"" (highlight OR ""khoanh khac"" OR ""best moment"")",30,True,True,NOT_RUN
+TBTN,Tân Binh Toàn Năng,TEASER_PREVIEW,"""Tân Binh Toàn Năng"" (teaser OR trailer OR preview OR ""xem truoc"" OR ""hong tap"" OR ""don xem"")",30,True,True,NOT_RUN
+TBTN,Tân Binh Toàn Năng,RECAP_COMMENTARY,"""Tân Binh Toàn Năng"" (recap OR ""nhin lai"" OR reaction OR ""binh luan"" OR ""phan tich"")",30,True,True,NOT_RUN
+TBTN,Tân Binh Toàn Năng,PRODUCTION_ACCESS,"""Tân Binh Toàn Năng"" (""hau truong"" OR ""behind the scenes"" OR backstage OR ""making of"" OR rehearsal OR ""nhat ky"")",30,True,True,NOT_RUN
+TBTN,Tân Binh Toàn Năng,INTERVIEW_PRESS,"""Tân Binh Toàn Năng"" (interview OR ""phong van"" OR ""hop bao"" OR ""le ra mat"")",30,True,True,NOT_RUN
+TBTN,Tân Binh Toàn Năng,MUSIC_PERFORMANCE,"""Tân Binh Toàn Năng"" (""official mv"" OR ""music video"" OR ""lyric video"" OR ost OR performance OR ""live stage"" OR ""dance practice"")",30,True,True,NOT_RUN
+TBTN,Tân Binh Toàn Năng,EXTENDED_DELETED,"""Tân Binh Toàn Năng"" (uncut OR extended OR ""khong len song"" OR ""deleted scene"")",30,True,True,NOT_RUN
+TBTN,Tân Binh Toàn Năng,CAST_CHALLENGE,"""Tân Binh Toàn Năng"" (cast OR ""thu thach"" OR challenge OR game OR vlog)",30,True,True,NOT_RUN
+TBTN,Tân Binh Toàn Năng,SHORT_FORM,"""Tân Binh Toàn Năng"" (shorts OR reel OR ""short video"")",30,True,True,NOT_RUN
+TBTN,Tân Binh Toàn Năng,LIVESTREAM,"""Tân Binh Toàn Năng"" (livestream OR ""live stream"" OR ""live full"")",30,True,True,NOT_RUN
+TBTN,Tân Binh Toàn Năng,COMPILATION,"""Tân Binh Toàn Năng"" (compilation OR ""tong hop"" OR ""tuyen tap"" OR ""top khoanh khac"")",30,True,True,NOT_RUN
+TBTN,Tân Binh Toàn Năng,COMMUNITY_TRANSFORMATIVE,"""Tân Binh Toàn Năng"" (remix OR duet OR stitch OR meme OR ""fan edit"" OR fancam OR parody OR cover)",30,True,True,NOT_RUN
+OURSONG,Bài Hát Của Chúng Ta,CLIP,"""Bài Hát Của Chúng Ta"" (clip OR ""trich doan"" OR ""phan thi"" OR ""man trinh dien"")",30,True,True,NOT_RUN
+OURSONG,Bài Hát Của Chúng Ta,HIGHLIGHT,"""Bài Hát Của Chúng Ta"" (highlight OR ""khoanh khac"" OR ""best moment"")",30,True,True,NOT_RUN
+OURSONG,Bài Hát Của Chúng Ta,TEASER_PREVIEW,"""Bài Hát Của Chúng Ta"" (teaser OR trailer OR preview OR ""xem truoc"" OR ""hong tap"" OR ""don xem"")",30,True,True,NOT_RUN
+OURSONG,Bài Hát Của Chúng Ta,RECAP_COMMENTARY,"""Bài Hát Của Chúng Ta"" (recap OR ""nhin lai"" OR reaction OR ""binh luan"" OR ""phan tich"")",30,True,True,NOT_RUN
+OURSONG,Bài Hát Của Chúng Ta,PRODUCTION_ACCESS,"""Bài Hát Của Chúng Ta"" (""hau truong"" OR ""behind the scenes"" OR backstage OR ""making of"" OR rehearsal OR ""nhat ky"")",30,True,True,NOT_RUN
+OURSONG,Bài Hát Của Chúng Ta,INTERVIEW_PRESS,"""Bài Hát Của Chúng Ta"" (interview OR ""phong van"" OR ""hop bao"" OR ""le ra mat"")",30,True,True,NOT_RUN
+OURSONG,Bài Hát Của Chúng Ta,MUSIC_PERFORMANCE,"""Bài Hát Của Chúng Ta"" (""official mv"" OR ""music video"" OR ""lyric video"" OR ost OR performance OR ""live stage"" OR ""dance practice"")",30,True,True,NOT_RUN
+OURSONG,Bài Hát Của Chúng Ta,EXTENDED_DELETED,"""Bài Hát Của Chúng Ta"" (uncut OR extended OR ""khong len song"" OR ""deleted scene"")",30,True,True,NOT_RUN
+OURSONG,Bài Hát Của Chúng Ta,CAST_CHALLENGE,"""Bài Hát Của Chúng Ta"" (cast OR ""thu thach"" OR challenge OR game OR vlog)",30,True,True,NOT_RUN
+OURSONG,Bài Hát Của Chúng Ta,SHORT_FORM,"""Bài Hát Của Chúng Ta"" (shorts OR reel OR ""short video"")",30,True,True,NOT_RUN
+OURSONG,Bài Hát Của Chúng Ta,LIVESTREAM,"""Bài Hát Của Chúng Ta"" (livestream OR ""live stream"" OR ""live full"")",30,True,True,NOT_RUN
+OURSONG,Bài Hát Của Chúng Ta,COMPILATION,"""Bài Hát Của Chúng Ta"" (compilation OR ""tong hop"" OR ""tuyen tap"" OR ""top khoanh khac"")",30,True,True,NOT_RUN
+OURSONG,Bài Hát Của Chúng Ta,COMMUNITY_TRANSFORMATIVE,"""Bài Hát Của Chúng Ta"" (remix OR duet OR stitch OR meme OR ""fan edit"" OR fancam OR parody OR cover)",30,True,True,NOT_RUN
+VNIDOL,Vietnam Idol,CLIP,"""Vietnam Idol"" (clip OR ""trich doan"" OR ""phan thi"" OR ""man trinh dien"")",30,True,True,NOT_RUN
+VNIDOL,Vietnam Idol,HIGHLIGHT,"""Vietnam Idol"" (highlight OR ""khoanh khac"" OR ""best moment"")",30,True,True,NOT_RUN
+VNIDOL,Vietnam Idol,TEASER_PREVIEW,"""Vietnam Idol"" (teaser OR trailer OR preview OR ""xem truoc"" OR ""hong tap"" OR ""don xem"")",30,True,True,NOT_RUN
+VNIDOL,Vietnam Idol,RECAP_COMMENTARY,"""Vietnam Idol"" (recap OR ""nhin lai"" OR reaction OR ""binh luan"" OR ""phan tich"")",30,True,True,NOT_RUN
+VNIDOL,Vietnam Idol,PRODUCTION_ACCESS,"""Vietnam Idol"" (""hau truong"" OR ""behind the scenes"" OR backstage OR ""making of"" OR rehearsal OR ""nhat ky"")",30,True,True,NOT_RUN
+VNIDOL,Vietnam Idol,INTERVIEW_PRESS,"""Vietnam Idol"" (interview OR ""phong van"" OR ""hop bao"" OR ""le ra mat"")",30,True,True,NOT_RUN
+VNIDOL,Vietnam Idol,MUSIC_PERFORMANCE,"""Vietnam Idol"" (""official mv"" OR ""music video"" OR ""lyric video"" OR ost OR performance OR ""live stage"" OR ""dance practice"")",30,True,True,NOT_RUN
+VNIDOL,Vietnam Idol,EXTENDED_DELETED,"""Vietnam Idol"" (uncut OR extended OR ""khong len song"" OR ""deleted scene"")",30,True,True,NOT_RUN
+VNIDOL,Vietnam Idol,CAST_CHALLENGE,"""Vietnam Idol"" (cast OR ""thu thach"" OR challenge OR game OR vlog)",30,True,True,NOT_RUN
+VNIDOL,Vietnam Idol,SHORT_FORM,"""Vietnam Idol"" (shorts OR reel OR ""short video"")",30,True,True,NOT_RUN
+VNIDOL,Vietnam Idol,LIVESTREAM,"""Vietnam Idol"" (livestream OR ""live stream"" OR ""live full"")",30,True,True,NOT_RUN
+VNIDOL,Vietnam Idol,COMPILATION,"""Vietnam Idol"" (compilation OR ""tong hop"" OR ""tuyen tap"" OR ""top khoanh khac"")",30,True,True,NOT_RUN
+VNIDOL,Vietnam Idol,COMMUNITY_TRANSFORMATIVE,"""Vietnam Idol"" (remix OR duet OR stitch OR meme OR ""fan edit"" OR fancam OR parody OR cover)",30,True,True,NOT_RUN
+NHVDDP,Nữ Hoàng Vũ Đạo Đường Phố,CLIP,"""Nữ Hoàng Vũ Đạo Đường Phố"" (clip OR ""trich doan"" OR ""phan thi"" OR ""man trinh dien"")",30,True,True,NOT_RUN
+NHVDDP,Nữ Hoàng Vũ Đạo Đường Phố,HIGHLIGHT,"""Nữ Hoàng Vũ Đạo Đường Phố"" (highlight OR ""khoanh khac"" OR ""best moment"")",30,True,True,NOT_RUN
+NHVDDP,Nữ Hoàng Vũ Đạo Đường Phố,TEASER_PREVIEW,"""Nữ Hoàng Vũ Đạo Đường Phố"" (teaser OR trailer OR preview OR ""xem truoc"" OR ""hong tap"" OR ""don xem"")",30,True,True,NOT_RUN
+NHVDDP,Nữ Hoàng Vũ Đạo Đường Phố,RECAP_COMMENTARY,"""Nữ Hoàng Vũ Đạo Đường Phố"" (recap OR ""nhin lai"" OR reaction OR ""binh luan"" OR ""phan tich"")",30,True,True,NOT_RUN
+NHVDDP,Nữ Hoàng Vũ Đạo Đường Phố,PRODUCTION_ACCESS,"""Nữ Hoàng Vũ Đạo Đường Phố"" (""hau truong"" OR ""behind the scenes"" OR backstage OR ""making of"" OR rehearsal OR ""nhat ky"")",30,True,True,NOT_RUN
+NHVDDP,Nữ Hoàng Vũ Đạo Đường Phố,INTERVIEW_PRESS,"""Nữ Hoàng Vũ Đạo Đường Phố"" (interview OR ""phong van"" OR ""hop bao"" OR ""le ra mat"")",30,True,True,NOT_RUN
+NHVDDP,Nữ Hoàng Vũ Đạo Đường Phố,MUSIC_PERFORMANCE,"""Nữ Hoàng Vũ Đạo Đường Phố"" (""official mv"" OR ""music video"" OR ""lyric video"" OR ost OR performance OR ""live stage"" OR ""dance practice"")",30,True,True,NOT_RUN
+NHVDDP,Nữ Hoàng Vũ Đạo Đường Phố,EXTENDED_DELETED,"""Nữ Hoàng Vũ Đạo Đường Phố"" (uncut OR extended OR ""khong len song"" OR ""deleted scene"")",30,True,True,NOT_RUN
+NHVDDP,Nữ Hoàng Vũ Đạo Đường Phố,CAST_CHALLENGE,"""Nữ Hoàng Vũ Đạo Đường Phố"" (cast OR ""thu thach"" OR challenge OR game OR vlog)",30,True,True,NOT_RUN
+NHVDDP,Nữ Hoàng Vũ Đạo Đường Phố,SHORT_FORM,"""Nữ Hoàng Vũ Đạo Đường Phố"" (shorts OR reel OR ""short video"")",30,True,True,NOT_RUN
+NHVDDP,Nữ Hoàng Vũ Đạo Đường Phố,LIVESTREAM,"""Nữ Hoàng Vũ Đạo Đường Phố"" (livestream OR ""live stream"" OR ""live full"")",30,True,True,NOT_RUN
+NHVDDP,Nữ Hoàng Vũ Đạo Đường Phố,COMPILATION,"""Nữ Hoàng Vũ Đạo Đường Phố"" (compilation OR ""tong hop"" OR ""tuyen tap"" OR ""top khoanh khac"")",30,True,True,NOT_RUN
+NHVDDP,Nữ Hoàng Vũ Đạo Đường Phố,COMMUNITY_TRANSFORMATIVE,"""Nữ Hoàng Vũ Đạo Đường Phố"" (remix OR duet OR stitch OR meme OR ""fan edit"" OR fancam OR parody OR cover)",30,True,True,NOT_RUN
+2N1D,2 Ngày 1 Đêm,CLIP,"""2 Ngày 1 Đêm"" (clip OR ""trich doan"" OR ""phan thi"" OR ""man trinh dien"")",30,True,True,NOT_RUN
+2N1D,2 Ngày 1 Đêm,HIGHLIGHT,"""2 Ngày 1 Đêm"" (highlight OR ""khoanh khac"" OR ""best moment"")",30,True,True,NOT_RUN
+2N1D,2 Ngày 1 Đêm,TEASER_PREVIEW,"""2 Ngày 1 Đêm"" (teaser OR trailer OR preview OR ""xem truoc"" OR ""hong tap"" OR ""don xem"")",30,True,True,NOT_RUN
+2N1D,2 Ngày 1 Đêm,RECAP_COMMENTARY,"""2 Ngày 1 Đêm"" (recap OR ""nhin lai"" OR reaction OR ""binh luan"" OR ""phan tich"")",30,True,True,NOT_RUN
+2N1D,2 Ngày 1 Đêm,PRODUCTION_ACCESS,"""2 Ngày 1 Đêm"" (""hau truong"" OR ""behind the scenes"" OR backstage OR ""making of"" OR rehearsal OR ""nhat ky"")",30,True,True,NOT_RUN
+2N1D,2 Ngày 1 Đêm,INTERVIEW_PRESS,"""2 Ngày 1 Đêm"" (interview OR ""phong van"" OR ""hop bao"" OR ""le ra mat"")",30,True,True,NOT_RUN
+2N1D,2 Ngày 1 Đêm,MUSIC_PERFORMANCE,"""2 Ngày 1 Đêm"" (""official mv"" OR ""music video"" OR ""lyric video"" OR ost OR performance OR ""live stage"" OR ""dance practice"")",30,True,True,NOT_RUN
+2N1D,2 Ngày 1 Đêm,EXTENDED_DELETED,"""2 Ngày 1 Đêm"" (uncut OR extended OR ""khong len song"" OR ""deleted scene"")",30,True,True,NOT_RUN
+2N1D,2 Ngày 1 Đêm,CAST_CHALLENGE,"""2 Ngày 1 Đêm"" (cast OR ""thu thach"" OR challenge OR game OR vlog)",30,True,True,NOT_RUN
+2N1D,2 Ngày 1 Đêm,SHORT_FORM,"""2 Ngày 1 Đêm"" (shorts OR reel OR ""short video"")",30,True,True,NOT_RUN
+2N1D,2 Ngày 1 Đêm,LIVESTREAM,"""2 Ngày 1 Đêm"" (livestream OR ""live stream"" OR ""live full"")",30,True,True,NOT_RUN
+2N1D,2 Ngày 1 Đêm,COMPILATION,"""2 Ngày 1 Đêm"" (compilation OR ""tong hop"" OR ""tuyen tap"" OR ""top khoanh khac"")",30,True,True,NOT_RUN
+2N1D,2 Ngày 1 Đêm,COMMUNITY_TRANSFORMATIVE,"""2 Ngày 1 Đêm"" (remix OR duet OR stitch OR meme OR ""fan edit"" OR fancam OR parody OR cover)",30,True,True,NOT_RUN
+RMVN,Running Man Vietnam,CLIP,"""Running Man Vietnam"" (clip OR ""trich doan"" OR ""phan thi"" OR ""man trinh dien"")",30,True,True,NOT_RUN
+RMVN,Running Man Vietnam,HIGHLIGHT,"""Running Man Vietnam"" (highlight OR ""khoanh khac"" OR ""best moment"")",30,True,True,NOT_RUN
+RMVN,Running Man Vietnam,TEASER_PREVIEW,"""Running Man Vietnam"" (teaser OR trailer OR preview OR ""xem truoc"" OR ""hong tap"" OR ""don xem"")",30,True,True,NOT_RUN
+RMVN,Running Man Vietnam,RECAP_COMMENTARY,"""Running Man Vietnam"" (recap OR ""nhin lai"" OR reaction OR ""binh luan"" OR ""phan tich"")",30,True,True,NOT_RUN
+RMVN,Running Man Vietnam,PRODUCTION_ACCESS,"""Running Man Vietnam"" (""hau truong"" OR ""behind the scenes"" OR backstage OR ""making of"" OR rehearsal OR ""nhat ky"")",30,True,True,NOT_RUN
+RMVN,Running Man Vietnam,INTERVIEW_PRESS,"""Running Man Vietnam"" (interview OR ""phong van"" OR ""hop bao"" OR ""le ra mat"")",30,True,True,NOT_RUN
+RMVN,Running Man Vietnam,MUSIC_PERFORMANCE,"""Running Man Vietnam"" (""official mv"" OR ""music video"" OR ""lyric video"" OR ost OR performance OR ""live stage"" OR ""dance practice"")",30,True,True,NOT_RUN
+RMVN,Running Man Vietnam,EXTENDED_DELETED,"""Running Man Vietnam"" (uncut OR extended OR ""khong len song"" OR ""deleted scene"")",30,True,True,NOT_RUN
+RMVN,Running Man Vietnam,CAST_CHALLENGE,"""Running Man Vietnam"" (cast OR ""thu thach"" OR challenge OR game OR vlog)",30,True,True,NOT_RUN
+RMVN,Running Man Vietnam,SHORT_FORM,"""Running Man Vietnam"" (shorts OR reel OR ""short video"")",30,True,True,NOT_RUN
+RMVN,Running Man Vietnam,LIVESTREAM,"""Running Man Vietnam"" (livestream OR ""live stream"" OR ""live full"")",30,True,True,NOT_RUN
+RMVN,Running Man Vietnam,COMPILATION,"""Running Man Vietnam"" (compilation OR ""tong hop"" OR ""tuyen tap"" OR ""top khoanh khac"")",30,True,True,NOT_RUN
+RMVN,Running Man Vietnam,COMMUNITY_TRANSFORMATIVE,"""Running Man Vietnam"" (remix OR duet OR stitch OR meme OR ""fan edit"" OR fancam OR parody OR cover)",30,True,True,NOT_RUN
+GDHAHA,Gia Đình Haha,CLIP,"""Gia Đình Haha"" (clip OR ""trich doan"" OR ""phan thi"" OR ""man trinh dien"")",30,True,True,NOT_RUN
+GDHAHA,Gia Đình Haha,HIGHLIGHT,"""Gia Đình Haha"" (highlight OR ""khoanh khac"" OR ""best moment"")",30,True,True,NOT_RUN
+GDHAHA,Gia Đình Haha,TEASER_PREVIEW,"""Gia Đình Haha"" (teaser OR trailer OR preview OR ""xem truoc"" OR ""hong tap"" OR ""don xem"")",30,True,True,NOT_RUN
+GDHAHA,Gia Đình Haha,RECAP_COMMENTARY,"""Gia Đình Haha"" (recap OR ""nhin lai"" OR reaction OR ""binh luan"" OR ""phan tich"")",30,True,True,NOT_RUN
+GDHAHA,Gia Đình Haha,PRODUCTION_ACCESS,"""Gia Đình Haha"" (""hau truong"" OR ""behind the scenes"" OR backstage OR ""making of"" OR rehearsal OR ""nhat ky"")",30,True,True,NOT_RUN
+GDHAHA,Gia Đình Haha,INTERVIEW_PRESS,"""Gia Đình Haha"" (interview OR ""phong van"" OR ""hop bao"" OR ""le ra mat"")",30,True,True,NOT_RUN
+GDHAHA,Gia Đình Haha,MUSIC_PERFORMANCE,"""Gia Đình Haha"" (""official mv"" OR ""music video"" OR ""lyric video"" OR ost OR performance OR ""live stage"" OR ""dance practice"")",30,True,True,NOT_RUN
+GDHAHA,Gia Đình Haha,EXTENDED_DELETED,"""Gia Đình Haha"" (uncut OR extended OR ""khong len song"" OR ""deleted scene"")",30,True,True,NOT_RUN
+GDHAHA,Gia Đình Haha,CAST_CHALLENGE,"""Gia Đình Haha"" (cast OR ""thu thach"" OR challenge OR game OR vlog)",30,True,True,NOT_RUN
+GDHAHA,Gia Đình Haha,SHORT_FORM,"""Gia Đình Haha"" (shorts OR reel OR ""short video"")",30,True,True,NOT_RUN
+GDHAHA,Gia Đình Haha,LIVESTREAM,"""Gia Đình Haha"" (livestream OR ""live stream"" OR ""live full"")",30,True,True,NOT_RUN
+GDHAHA,Gia Đình Haha,COMPILATION,"""Gia Đình Haha"" (compilation OR ""tong hop"" OR ""tuyen tap"" OR ""top khoanh khac"")",30,True,True,NOT_RUN
+GDHAHA,Gia Đình Haha,COMMUNITY_TRANSFORMATIVE,"""Gia Đình Haha"" (remix OR duet OR stitch OR meme OR ""fan edit"" OR fancam OR parody OR cover)",30,True,True,NOT_RUN
+SNN,Sao Nhập Ngũ,CLIP,"""Sao Nhập Ngũ"" (clip OR ""trich doan"" OR ""phan thi"" OR ""man trinh dien"")",30,True,True,NOT_RUN
+SNN,Sao Nhập Ngũ,HIGHLIGHT,"""Sao Nhập Ngũ"" (highlight OR ""khoanh khac"" OR ""best moment"")",30,True,True,NOT_RUN
+SNN,Sao Nhập Ngũ,TEASER_PREVIEW,"""Sao Nhập Ngũ"" (teaser OR trailer OR preview OR ""xem truoc"" OR ""hong tap"" OR ""don xem"")",30,True,True,NOT_RUN
+SNN,Sao Nhập Ngũ,RECAP_COMMENTARY,"""Sao Nhập Ngũ"" (recap OR ""nhin lai"" OR reaction OR ""binh luan"" OR ""phan tich"")",30,True,True,NOT_RUN
+SNN,Sao Nhập Ngũ,PRODUCTION_ACCESS,"""Sao Nhập Ngũ"" (""hau truong"" OR ""behind the scenes"" OR backstage OR ""making of"" OR rehearsal OR ""nhat ky"")",30,True,True,NOT_RUN
+SNN,Sao Nhập Ngũ,INTERVIEW_PRESS,"""Sao Nhập Ngũ"" (interview OR ""phong van"" OR ""hop bao"" OR ""le ra mat"")",30,True,True,NOT_RUN
+SNN,Sao Nhập Ngũ,MUSIC_PERFORMANCE,"""Sao Nhập Ngũ"" (""official mv"" OR ""music video"" OR ""lyric video"" OR ost OR performance OR ""live stage"" OR ""dance practice"")",30,True,True,NOT_RUN
+SNN,Sao Nhập Ngũ,EXTENDED_DELETED,"""Sao Nhập Ngũ"" (uncut OR extended OR ""khong len song"" OR ""deleted scene"")",30,True,True,NOT_RUN
+SNN,Sao Nhập Ngũ,CAST_CHALLENGE,"""Sao Nhập Ngũ"" (cast OR ""thu thach"" OR challenge OR game OR vlog)",30,True,True,NOT_RUN
+SNN,Sao Nhập Ngũ,SHORT_FORM,"""Sao Nhập Ngũ"" (shorts OR reel OR ""short video"")",30,True,True,NOT_RUN
+SNN,Sao Nhập Ngũ,LIVESTREAM,"""Sao Nhập Ngũ"" (livestream OR ""live stream"" OR ""live full"")",30,True,True,NOT_RUN
+SNN,Sao Nhập Ngũ,COMPILATION,"""Sao Nhập Ngũ"" (compilation OR ""tong hop"" OR ""tuyen tap"" OR ""top khoanh khac"")",30,True,True,NOT_RUN
+SNN,Sao Nhập Ngũ,COMMUNITY_TRANSFORMATIVE,"""Sao Nhập Ngũ"" (remix OR duet OR stitch OR meme OR ""fan edit"" OR fancam OR parody OR cover)",30,True,True,NOT_RUN
+CSQC,Chiến Sĩ Quả Cảm,CLIP,"""Chiến Sĩ Quả Cảm"" (clip OR ""trich doan"" OR ""phan thi"" OR ""man trinh dien"")",30,True,True,NOT_RUN
+CSQC,Chiến Sĩ Quả Cảm,HIGHLIGHT,"""Chiến Sĩ Quả Cảm"" (highlight OR ""khoanh khac"" OR ""best moment"")",30,True,True,NOT_RUN
+CSQC,Chiến Sĩ Quả Cảm,TEASER_PREVIEW,"""Chiến Sĩ Quả Cảm"" (teaser OR trailer OR preview OR ""xem truoc"" OR ""hong tap"" OR ""don xem"")",30,True,True,NOT_RUN
+CSQC,Chiến Sĩ Quả Cảm,RECAP_COMMENTARY,"""Chiến Sĩ Quả Cảm"" (recap OR ""nhin lai"" OR reaction OR ""binh luan"" OR ""phan tich"")",30,True,True,NOT_RUN
+CSQC,Chiến Sĩ Quả Cảm,PRODUCTION_ACCESS,"""Chiến Sĩ Quả Cảm"" (""hau truong"" OR ""behind the scenes"" OR backstage OR ""making of"" OR rehearsal OR ""nhat ky"")",30,True,True,NOT_RUN
+CSQC,Chiến Sĩ Quả Cảm,INTERVIEW_PRESS,"""Chiến Sĩ Quả Cảm"" (interview OR ""phong van"" OR ""hop bao"" OR ""le ra mat"")",30,True,True,NOT_RUN
+CSQC,Chiến Sĩ Quả Cảm,MUSIC_PERFORMANCE,"""Chiến Sĩ Quả Cảm"" (""official mv"" OR ""music video"" OR ""lyric video"" OR ost OR performance OR ""live stage"" OR ""dance practice"")",30,True,True,NOT_RUN
+CSQC,Chiến Sĩ Quả Cảm,EXTENDED_DELETED,"""Chiến Sĩ Quả Cảm"" (uncut OR extended OR ""khong len song"" OR ""deleted scene"")",30,True,True,NOT_RUN
+CSQC,Chiến Sĩ Quả Cảm,CAST_CHALLENGE,"""Chiến Sĩ Quả Cảm"" (cast OR ""thu thach"" OR challenge OR game OR vlog)",30,True,True,NOT_RUN
+CSQC,Chiến Sĩ Quả Cảm,SHORT_FORM,"""Chiến Sĩ Quả Cảm"" (shorts OR reel OR ""short video"")",30,True,True,NOT_RUN
+CSQC,Chiến Sĩ Quả Cảm,LIVESTREAM,"""Chiến Sĩ Quả Cảm"" (livestream OR ""live stream"" OR ""live full"")",30,True,True,NOT_RUN
+CSQC,Chiến Sĩ Quả Cảm,COMPILATION,"""Chiến Sĩ Quả Cảm"" (compilation OR ""tong hop"" OR ""tuyen tap"" OR ""top khoanh khac"")",30,True,True,NOT_RUN
+CSQC,Chiến Sĩ Quả Cảm,COMMUNITY_TRANSFORMATIVE,"""Chiến Sĩ Quả Cảm"" (remix OR duet OR stitch OR meme OR ""fan edit"" OR fancam OR parody OR cover)",30,True,True,NOT_RUN
+DTGT,Đấu Trường Gia Tốc,CLIP,"""Đấu Trường Gia Tốc"" (clip OR ""trich doan"" OR ""phan thi"" OR ""man trinh dien"")",30,True,True,NOT_RUN
+DTGT,Đấu Trường Gia Tốc,HIGHLIGHT,"""Đấu Trường Gia Tốc"" (highlight OR ""khoanh khac"" OR ""best moment"")",30,True,True,NOT_RUN
+DTGT,Đấu Trường Gia Tốc,TEASER_PREVIEW,"""Đấu Trường Gia Tốc"" (teaser OR trailer OR preview OR ""xem truoc"" OR ""hong tap"" OR ""don xem"")",30,True,True,NOT_RUN
+DTGT,Đấu Trường Gia Tốc,RECAP_COMMENTARY,"""Đấu Trường Gia Tốc"" (recap OR ""nhin lai"" OR reaction OR ""binh luan"" OR ""phan tich"")",30,True,True,NOT_RUN
+DTGT,Đấu Trường Gia Tốc,PRODUCTION_ACCESS,"""Đấu Trường Gia Tốc"" (""hau truong"" OR ""behind the scenes"" OR backstage OR ""making of"" OR rehearsal OR ""nhat ky"")",30,True,True,NOT_RUN
+DTGT,Đấu Trường Gia Tốc,INTERVIEW_PRESS,"""Đấu Trường Gia Tốc"" (interview OR ""phong van"" OR ""hop bao"" OR ""le ra mat"")",30,True,True,NOT_RUN
+DTGT,Đấu Trường Gia Tốc,MUSIC_PERFORMANCE,"""Đấu Trường Gia Tốc"" (""official mv"" OR ""music video"" OR ""lyric video"" OR ost OR performance OR ""live stage"" OR ""dance practice"")",30,True,True,NOT_RUN
+DTGT,Đấu Trường Gia Tốc,EXTENDED_DELETED,"""Đấu Trường Gia Tốc"" (uncut OR extended OR ""khong len song"" OR ""deleted scene"")",30,True,True,NOT_RUN
+DTGT,Đấu Trường Gia Tốc,CAST_CHALLENGE,"""Đấu Trường Gia Tốc"" (cast OR ""thu thach"" OR challenge OR game OR vlog)",30,True,True,NOT_RUN
+DTGT,Đấu Trường Gia Tốc,SHORT_FORM,"""Đấu Trường Gia Tốc"" (shorts OR reel OR ""short video"")",30,True,True,NOT_RUN
+DTGT,Đấu Trường Gia Tốc,LIVESTREAM,"""Đấu Trường Gia Tốc"" (livestream OR ""live stream"" OR ""live full"")",30,True,True,NOT_RUN
+DTGT,Đấu Trường Gia Tốc,COMPILATION,"""Đấu Trường Gia Tốc"" (compilation OR ""tong hop"" OR ""tuyen tap"" OR ""top khoanh khac"")",30,True,True,NOT_RUN
+DTGT,Đấu Trường Gia Tốc,COMMUNITY_TRANSFORMATIVE,"""Đấu Trường Gia Tốc"" (remix OR duet OR stitch OR meme OR ""fan edit"" OR fancam OR parody OR cover)",30,True,True,NOT_RUN
+TD1K2,Tổ Đội 1 Không 2,CLIP,"""Tổ Đội 1 Không 2"" (clip OR ""trich doan"" OR ""phan thi"" OR ""man trinh dien"")",30,True,True,NOT_RUN
+TD1K2,Tổ Đội 1 Không 2,HIGHLIGHT,"""Tổ Đội 1 Không 2"" (highlight OR ""khoanh khac"" OR ""best moment"")",30,True,True,NOT_RUN
+TD1K2,Tổ Đội 1 Không 2,TEASER_PREVIEW,"""Tổ Đội 1 Không 2"" (teaser OR trailer OR preview OR ""xem truoc"" OR ""hong tap"" OR ""don xem"")",30,True,True,NOT_RUN
+TD1K2,Tổ Đội 1 Không 2,RECAP_COMMENTARY,"""Tổ Đội 1 Không 2"" (recap OR ""nhin lai"" OR reaction OR ""binh luan"" OR ""phan tich"")",30,True,True,NOT_RUN
+TD1K2,Tổ Đội 1 Không 2,PRODUCTION_ACCESS,"""Tổ Đội 1 Không 2"" (""hau truong"" OR ""behind the scenes"" OR backstage OR ""making of"" OR rehearsal OR ""nhat ky"")",30,True,True,NOT_RUN
+TD1K2,Tổ Đội 1 Không 2,INTERVIEW_PRESS,"""Tổ Đội 1 Không 2"" (interview OR ""phong van"" OR ""hop bao"" OR ""le ra mat"")",30,True,True,NOT_RUN
+TD1K2,Tổ Đội 1 Không 2,MUSIC_PERFORMANCE,"""Tổ Đội 1 Không 2"" (""official mv"" OR ""music video"" OR ""lyric video"" OR ost OR performance OR ""live stage"" OR ""dance practice"")",30,True,True,NOT_RUN
+TD1K2,Tổ Đội 1 Không 2,EXTENDED_DELETED,"""Tổ Đội 1 Không 2"" (uncut OR extended OR ""khong len song"" OR ""deleted scene"")",30,True,True,NOT_RUN
+TD1K2,Tổ Đội 1 Không 2,CAST_CHALLENGE,"""Tổ Đội 1 Không 2"" (cast OR ""thu thach"" OR challenge OR game OR vlog)",30,True,True,NOT_RUN
+TD1K2,Tổ Đội 1 Không 2,SHORT_FORM,"""Tổ Đội 1 Không 2"" (shorts OR reel OR ""short video"")",30,True,True,NOT_RUN
+TD1K2,Tổ Đội 1 Không 2,LIVESTREAM,"""Tổ Đội 1 Không 2"" (livestream OR ""live stream"" OR ""live full"")",30,True,True,NOT_RUN
+TD1K2,Tổ Đội 1 Không 2,COMPILATION,"""Tổ Đội 1 Không 2"" (compilation OR ""tong hop"" OR ""tuyen tap"" OR ""top khoanh khac"")",30,True,True,NOT_RUN
+TD1K2,Tổ Đội 1 Không 2,COMMUNITY_TRANSFORMATIVE,"""Tổ Đội 1 Không 2"" (remix OR duet OR stitch OR meme OR ""fan edit"" OR fancam OR parody OR cover)",30,True,True,NOT_RUN
+BTST,Bậc Thầy Săn Thưởng,CLIP,"""Bậc Thầy Săn Thưởng"" (clip OR ""trich doan"" OR ""phan thi"" OR ""man trinh dien"")",30,True,True,NOT_RUN
+BTST,Bậc Thầy Săn Thưởng,HIGHLIGHT,"""Bậc Thầy Săn Thưởng"" (highlight OR ""khoanh khac"" OR ""best moment"")",30,True,True,NOT_RUN
+BTST,Bậc Thầy Săn Thưởng,TEASER_PREVIEW,"""Bậc Thầy Săn Thưởng"" (teaser OR trailer OR preview OR ""xem truoc"" OR ""hong tap"" OR ""don xem"")",30,True,True,NOT_RUN
+BTST,Bậc Thầy Săn Thưởng,RECAP_COMMENTARY,"""Bậc Thầy Săn Thưởng"" (recap OR ""nhin lai"" OR reaction OR ""binh luan"" OR ""phan tich"")",30,True,True,NOT_RUN
+BTST,Bậc Thầy Săn Thưởng,PRODUCTION_ACCESS,"""Bậc Thầy Săn Thưởng"" (""hau truong"" OR ""behind the scenes"" OR backstage OR ""making of"" OR rehearsal OR ""nhat ky"")",30,True,True,NOT_RUN
+BTST,Bậc Thầy Săn Thưởng,INTERVIEW_PRESS,"""Bậc Thầy Săn Thưởng"" (interview OR ""phong van"" OR ""hop bao"" OR ""le ra mat"")",30,True,True,NOT_RUN
+BTST,Bậc Thầy Săn Thưởng,MUSIC_PERFORMANCE,"""Bậc Thầy Săn Thưởng"" (""official mv"" OR ""music video"" OR ""lyric video"" OR ost OR performance OR ""live stage"" OR ""dance practice"")",30,True,True,NOT_RUN
+BTST,Bậc Thầy Săn Thưởng,EXTENDED_DELETED,"""Bậc Thầy Săn Thưởng"" (uncut OR extended OR ""khong len song"" OR ""deleted scene"")",30,True,True,NOT_RUN
+BTST,Bậc Thầy Săn Thưởng,CAST_CHALLENGE,"""Bậc Thầy Săn Thưởng"" (cast OR ""thu thach"" OR challenge OR game OR vlog)",30,True,True,NOT_RUN
+BTST,Bậc Thầy Săn Thưởng,SHORT_FORM,"""Bậc Thầy Săn Thưởng"" (shorts OR reel OR ""short video"")",30,True,True,NOT_RUN
+BTST,Bậc Thầy Săn Thưởng,LIVESTREAM,"""Bậc Thầy Săn Thưởng"" (livestream OR ""live stream"" OR ""live full"")",30,True,True,NOT_RUN
+BTST,Bậc Thầy Săn Thưởng,COMPILATION,"""Bậc Thầy Săn Thưởng"" (compilation OR ""tong hop"" OR ""tuyen tap"" OR ""top khoanh khac"")",30,True,True,NOT_RUN
+BTST,Bậc Thầy Săn Thưởng,COMMUNITY_TRANSFORMATIVE,"""Bậc Thầy Săn Thưởng"" (remix OR duet OR stitch OR meme OR ""fan edit"" OR fancam OR parody OR cover)",30,True,True,NOT_RUN
+HTRR,Hành Trình Rực Rỡ,CLIP,"""Hành Trình Rực Rỡ"" (clip OR ""trich doan"" OR ""phan thi"" OR ""man trinh dien"")",30,True,True,NOT_RUN
+HTRR,Hành Trình Rực Rỡ,HIGHLIGHT,"""Hành Trình Rực Rỡ"" (highlight OR ""khoanh khac"" OR ""best moment"")",30,True,True,NOT_RUN
+HTRR,Hành Trình Rực Rỡ,TEASER_PREVIEW,"""Hành Trình Rực Rỡ"" (teaser OR trailer OR preview OR ""xem truoc"" OR ""hong tap"" OR ""don xem"")",30,True,True,NOT_RUN
+HTRR,Hành Trình Rực Rỡ,RECAP_COMMENTARY,"""Hành Trình Rực Rỡ"" (recap OR ""nhin lai"" OR reaction OR ""binh luan"" OR ""phan tich"")",30,True,True,NOT_RUN
+HTRR,Hành Trình Rực Rỡ,PRODUCTION_ACCESS,"""Hành Trình Rực Rỡ"" (""hau truong"" OR ""behind the scenes"" OR backstage OR ""making of"" OR rehearsal OR ""nhat ky"")",30,True,True,NOT_RUN
+HTRR,Hành Trình Rực Rỡ,INTERVIEW_PRESS,"""Hành Trình Rực Rỡ"" (interview OR ""phong van"" OR ""hop bao"" OR ""le ra mat"")",30,True,True,NOT_RUN
+HTRR,Hành Trình Rực Rỡ,MUSIC_PERFORMANCE,"""Hành Trình Rực Rỡ"" (""official mv"" OR ""music video"" OR ""lyric video"" OR ost OR performance OR ""live stage"" OR ""dance practice"")",30,True,True,NOT_RUN
+HTRR,Hành Trình Rực Rỡ,EXTENDED_DELETED,"""Hành Trình Rực Rỡ"" (uncut OR extended OR ""khong len song"" OR ""deleted scene"")",30,True,True,NOT_RUN
+HTRR,Hành Trình Rực Rỡ,CAST_CHALLENGE,"""Hành Trình Rực Rỡ"" (cast OR ""thu thach"" OR challenge OR game OR vlog)",30,True,True,NOT_RUN
+HTRR,Hành Trình Rực Rỡ,SHORT_FORM,"""Hành Trình Rực Rỡ"" (shorts OR reel OR ""short video"")",30,True,True,NOT_RUN
+HTRR,Hành Trình Rực Rỡ,LIVESTREAM,"""Hành Trình Rực Rỡ"" (livestream OR ""live stream"" OR ""live full"")",30,True,True,NOT_RUN
+HTRR,Hành Trình Rực Rỡ,COMPILATION,"""Hành Trình Rực Rỡ"" (compilation OR ""tong hop"" OR ""tuyen tap"" OR ""top khoanh khac"")",30,True,True,NOT_RUN
+HTRR,Hành Trình Rực Rỡ,COMMUNITY_TRANSFORMATIVE,"""Hành Trình Rực Rỡ"" (remix OR duet OR stitch OR meme OR ""fan edit"" OR fancam OR parody OR cover)",30,True,True,NOT_RUN
+VQLG,Về Quê Làm Giàu,CLIP,"""Về Quê Làm Giàu"" (clip OR ""trich doan"" OR ""phan thi"" OR ""man trinh dien"")",30,True,True,NOT_RUN
+VQLG,Về Quê Làm Giàu,HIGHLIGHT,"""Về Quê Làm Giàu"" (highlight OR ""khoanh khac"" OR ""best moment"")",30,True,True,NOT_RUN
+VQLG,Về Quê Làm Giàu,TEASER_PREVIEW,"""Về Quê Làm Giàu"" (teaser OR trailer OR preview OR ""xem truoc"" OR ""hong tap"" OR ""don xem"")",30,True,True,NOT_RUN
+VQLG,Về Quê Làm Giàu,RECAP_COMMENTARY,"""Về Quê Làm Giàu"" (recap OR ""nhin lai"" OR reaction OR ""binh luan"" OR ""phan tich"")",30,True,True,NOT_RUN
+VQLG,Về Quê Làm Giàu,PRODUCTION_ACCESS,"""Về Quê Làm Giàu"" (""hau truong"" OR ""behind the scenes"" OR backstage OR ""making of"" OR rehearsal OR ""nhat ky"")",30,True,True,NOT_RUN
+VQLG,Về Quê Làm Giàu,INTERVIEW_PRESS,"""Về Quê Làm Giàu"" (interview OR ""phong van"" OR ""hop bao"" OR ""le ra mat"")",30,True,True,NOT_RUN
+VQLG,Về Quê Làm Giàu,MUSIC_PERFORMANCE,"""Về Quê Làm Giàu"" (""official mv"" OR ""music video"" OR ""lyric video"" OR ost OR performance OR ""live stage"" OR ""dance practice"")",30,True,True,NOT_RUN
+VQLG,Về Quê Làm Giàu,EXTENDED_DELETED,"""Về Quê Làm Giàu"" (uncut OR extended OR ""khong len song"" OR ""deleted scene"")",30,True,True,NOT_RUN
+VQLG,Về Quê Làm Giàu,CAST_CHALLENGE,"""Về Quê Làm Giàu"" (cast OR ""thu thach"" OR challenge OR game OR vlog)",30,True,True,NOT_RUN
+VQLG,Về Quê Làm Giàu,SHORT_FORM,"""Về Quê Làm Giàu"" (shorts OR reel OR ""short video"")",30,True,True,NOT_RUN
+VQLG,Về Quê Làm Giàu,LIVESTREAM,"""Về Quê Làm Giàu"" (livestream OR ""live stream"" OR ""live full"")",30,True,True,NOT_RUN
+VQLG,Về Quê Làm Giàu,COMPILATION,"""Về Quê Làm Giàu"" (compilation OR ""tong hop"" OR ""tuyen tap"" OR ""top khoanh khac"")",30,True,True,NOT_RUN
+VQLG,Về Quê Làm Giàu,COMMUNITY_TRANSFORMATIVE,"""Về Quê Làm Giàu"" (remix OR duet OR stitch OR meme OR ""fan edit"" OR fancam OR parody OR cover)",30,True,True,NOT_RUN
+BOMD,Bố Ơi! Mình Đi Đâu Thế?,CLIP,"""Bố Ơi! Mình Đi Đâu Thế?"" (clip OR ""trich doan"" OR ""phan thi"" OR ""man trinh dien"")",30,True,True,NOT_RUN
+BOMD,Bố Ơi! Mình Đi Đâu Thế?,HIGHLIGHT,"""Bố Ơi! Mình Đi Đâu Thế?"" (highlight OR ""khoanh khac"" OR ""best moment"")",30,True,True,NOT_RUN
+BOMD,Bố Ơi! Mình Đi Đâu Thế?,TEASER_PREVIEW,"""Bố Ơi! Mình Đi Đâu Thế?"" (teaser OR trailer OR preview OR ""xem truoc"" OR ""hong tap"" OR ""don xem"")",30,True,True,NOT_RUN
+BOMD,Bố Ơi! Mình Đi Đâu Thế?,RECAP_COMMENTARY,"""Bố Ơi! Mình Đi Đâu Thế?"" (recap OR ""nhin lai"" OR reaction OR ""binh luan"" OR ""phan tich"")",30,True,True,NOT_RUN
+BOMD,Bố Ơi! Mình Đi Đâu Thế?,PRODUCTION_ACCESS,"""Bố Ơi! Mình Đi Đâu Thế?"" (""hau truong"" OR ""behind the scenes"" OR backstage OR ""making of"" OR rehearsal OR ""nhat ky"")",30,True,True,NOT_RUN
+BOMD,Bố Ơi! Mình Đi Đâu Thế?,INTERVIEW_PRESS,"""Bố Ơi! Mình Đi Đâu Thế?"" (interview OR ""phong van"" OR ""hop bao"" OR ""le ra mat"")",30,True,True,NOT_RUN
+BOMD,Bố Ơi! Mình Đi Đâu Thế?,MUSIC_PERFORMANCE,"""Bố Ơi! Mình Đi Đâu Thế?"" (""official mv"" OR ""music video"" OR ""lyric video"" OR ost OR performance OR ""live stage"" OR ""dance practice"")",30,True,True,NOT_RUN
+BOMD,Bố Ơi! Mình Đi Đâu Thế?,EXTENDED_DELETED,"""Bố Ơi! Mình Đi Đâu Thế?"" (uncut OR extended OR ""khong len song"" OR ""deleted scene"")",30,True,True,NOT_RUN
+BOMD,Bố Ơi! Mình Đi Đâu Thế?,CAST_CHALLENGE,"""Bố Ơi! Mình Đi Đâu Thế?"" (cast OR ""thu thach"" OR challenge OR game OR vlog)",30,True,True,NOT_RUN
+BOMD,Bố Ơi! Mình Đi Đâu Thế?,SHORT_FORM,"""Bố Ơi! Mình Đi Đâu Thế?"" (shorts OR reel OR ""short video"")",30,True,True,NOT_RUN
+BOMD,Bố Ơi! Mình Đi Đâu Thế?,LIVESTREAM,"""Bố Ơi! Mình Đi Đâu Thế?"" (livestream OR ""live stream"" OR ""live full"")",30,True,True,NOT_RUN
+BOMD,Bố Ơi! Mình Đi Đâu Thế?,COMPILATION,"""Bố Ơi! Mình Đi Đâu Thế?"" (compilation OR ""tong hop"" OR ""tuyen tap"" OR ""top khoanh khac"")",30,True,True,NOT_RUN
+BOMD,Bố Ơi! Mình Đi Đâu Thế?,COMMUNITY_TRANSFORMATIVE,"""Bố Ơi! Mình Đi Đâu Thế?"" (remix OR duet OR stitch OR meme OR ""fan edit"" OR fancam OR parody OR cover)",30,True,True,NOT_RUN
+BDSS,Biệt Đội Siêu Sao,CLIP,"""Biệt Đội Siêu Sao"" (clip OR ""trich doan"" OR ""phan thi"" OR ""man trinh dien"")",30,True,True,NOT_RUN
+BDSS,Biệt Đội Siêu Sao,HIGHLIGHT,"""Biệt Đội Siêu Sao"" (highlight OR ""khoanh khac"" OR ""best moment"")",30,True,True,NOT_RUN
+BDSS,Biệt Đội Siêu Sao,TEASER_PREVIEW,"""Biệt Đội Siêu Sao"" (teaser OR trailer OR preview OR ""xem truoc"" OR ""hong tap"" OR ""don xem"")",30,True,True,NOT_RUN
+BDSS,Biệt Đội Siêu Sao,RECAP_COMMENTARY,"""Biệt Đội Siêu Sao"" (recap OR ""nhin lai"" OR reaction OR ""binh luan"" OR ""phan tich"")",30,True,True,NOT_RUN
+BDSS,Biệt Đội Siêu Sao,PRODUCTION_ACCESS,"""Biệt Đội Siêu Sao"" (""hau truong"" OR ""behind the scenes"" OR backstage OR ""making of"" OR rehearsal OR ""nhat ky"")",30,True,True,NOT_RUN
+BDSS,Biệt Đội Siêu Sao,INTERVIEW_PRESS,"""Biệt Đội Siêu Sao"" (interview OR ""phong van"" OR ""hop bao"" OR ""le ra mat"")",30,True,True,NOT_RUN
+BDSS,Biệt Đội Siêu Sao,MUSIC_PERFORMANCE,"""Biệt Đội Siêu Sao"" (""official mv"" OR ""music video"" OR ""lyric video"" OR ost OR performance OR ""live stage"" OR ""dance practice"")",30,True,True,NOT_RUN
+BDSS,Biệt Đội Siêu Sao,EXTENDED_DELETED,"""Biệt Đội Siêu Sao"" (uncut OR extended OR ""khong len song"" OR ""deleted scene"")",30,True,True,NOT_RUN
+BDSS,Biệt Đội Siêu Sao,CAST_CHALLENGE,"""Biệt Đội Siêu Sao"" (cast OR ""thu thach"" OR challenge OR game OR vlog)",30,True,True,NOT_RUN
+BDSS,Biệt Đội Siêu Sao,SHORT_FORM,"""Biệt Đội Siêu Sao"" (shorts OR reel OR ""short video"")",30,True,True,NOT_RUN
+BDSS,Biệt Đội Siêu Sao,LIVESTREAM,"""Biệt Đội Siêu Sao"" (livestream OR ""live stream"" OR ""live full"")",30,True,True,NOT_RUN
+BDSS,Biệt Đội Siêu Sao,COMPILATION,"""Biệt Đội Siêu Sao"" (compilation OR ""tong hop"" OR ""tuyen tap"" OR ""top khoanh khac"")",30,True,True,NOT_RUN
+BDSS,Biệt Đội Siêu Sao,COMMUNITY_TRANSFORMATIVE,"""Biệt Đội Siêu Sao"" (remix OR duet OR stitch OR meme OR ""fan edit"" OR fancam OR parody OR cover)",30,True,True,NOT_RUN
+LCHC,La Cà Hát Ca,CLIP,"""La Cà Hát Ca"" (clip OR ""trich doan"" OR ""phan thi"" OR ""man trinh dien"")",30,True,True,NOT_RUN
+LCHC,La Cà Hát Ca,HIGHLIGHT,"""La Cà Hát Ca"" (highlight OR ""khoanh khac"" OR ""best moment"")",30,True,True,NOT_RUN
+LCHC,La Cà Hát Ca,TEASER_PREVIEW,"""La Cà Hát Ca"" (teaser OR trailer OR preview OR ""xem truoc"" OR ""hong tap"" OR ""don xem"")",30,True,True,NOT_RUN
+LCHC,La Cà Hát Ca,RECAP_COMMENTARY,"""La Cà Hát Ca"" (recap OR ""nhin lai"" OR reaction OR ""binh luan"" OR ""phan tich"")",30,True,True,NOT_RUN
+LCHC,La Cà Hát Ca,PRODUCTION_ACCESS,"""La Cà Hát Ca"" (""hau truong"" OR ""behind the scenes"" OR backstage OR ""making of"" OR rehearsal OR ""nhat ky"")",30,True,True,NOT_RUN
+LCHC,La Cà Hát Ca,INTERVIEW_PRESS,"""La Cà Hát Ca"" (interview OR ""phong van"" OR ""hop bao"" OR ""le ra mat"")",30,True,True,NOT_RUN
+LCHC,La Cà Hát Ca,MUSIC_PERFORMANCE,"""La Cà Hát Ca"" (""official mv"" OR ""music video"" OR ""lyric video"" OR ost OR performance OR ""live stage"" OR ""dance practice"")",30,True,True,NOT_RUN
+LCHC,La Cà Hát Ca,EXTENDED_DELETED,"""La Cà Hát Ca"" (uncut OR extended OR ""khong len song"" OR ""deleted scene"")",30,True,True,NOT_RUN
+LCHC,La Cà Hát Ca,CAST_CHALLENGE,"""La Cà Hát Ca"" (cast OR ""thu thach"" OR challenge OR game OR vlog)",30,True,True,NOT_RUN
+LCHC,La Cà Hát Ca,SHORT_FORM,"""La Cà Hát Ca"" (shorts OR reel OR ""short video"")",30,True,True,NOT_RUN
+LCHC,La Cà Hát Ca,LIVESTREAM,"""La Cà Hát Ca"" (livestream OR ""live stream"" OR ""live full"")",30,True,True,NOT_RUN
+LCHC,La Cà Hát Ca,COMPILATION,"""La Cà Hát Ca"" (compilation OR ""tong hop"" OR ""tuyen tap"" OR ""top khoanh khac"")",30,True,True,NOT_RUN
+LCHC,La Cà Hát Ca,COMMUNITY_TRANSFORMATIVE,"""La Cà Hát Ca"" (remix OR duet OR stitch OR meme OR ""fan edit"" OR fancam OR parody OR cover)",30,True,True,NOT_RUN
+MVNBLST,"Mẹ Vắng Nhà, Ba Là Siêu Nhân",CLIP,"""Mẹ Vắng Nhà, Ba Là Siêu Nhân"" (clip OR ""trich doan"" OR ""phan thi"" OR ""man trinh dien"")",30,True,True,NOT_RUN
+MVNBLST,"Mẹ Vắng Nhà, Ba Là Siêu Nhân",HIGHLIGHT,"""Mẹ Vắng Nhà, Ba Là Siêu Nhân"" (highlight OR ""khoanh khac"" OR ""best moment"")",30,True,True,NOT_RUN
+MVNBLST,"Mẹ Vắng Nhà, Ba Là Siêu Nhân",TEASER_PREVIEW,"""Mẹ Vắng Nhà, Ba Là Siêu Nhân"" (teaser OR trailer OR preview OR ""xem truoc"" OR ""hong tap"" OR ""don xem"")",30,True,True,NOT_RUN
+MVNBLST,"Mẹ Vắng Nhà, Ba Là Siêu Nhân",RECAP_COMMENTARY,"""Mẹ Vắng Nhà, Ba Là Siêu Nhân"" (recap OR ""nhin lai"" OR reaction OR ""binh luan"" OR ""phan tich"")",30,True,True,NOT_RUN
+MVNBLST,"Mẹ Vắng Nhà, Ba Là Siêu Nhân",PRODUCTION_ACCESS,"""Mẹ Vắng Nhà, Ba Là Siêu Nhân"" (""hau truong"" OR ""behind the scenes"" OR backstage OR ""making of"" OR rehearsal OR ""nhat ky"")",30,True,True,NOT_RUN
+MVNBLST,"Mẹ Vắng Nhà, Ba Là Siêu Nhân",INTERVIEW_PRESS,"""Mẹ Vắng Nhà, Ba Là Siêu Nhân"" (interview OR ""phong van"" OR ""hop bao"" OR ""le ra mat"")",30,True,True,NOT_RUN
+MVNBLST,"Mẹ Vắng Nhà, Ba Là Siêu Nhân",MUSIC_PERFORMANCE,"""Mẹ Vắng Nhà, Ba Là Siêu Nhân"" (""official mv"" OR ""music video"" OR ""lyric video"" OR ost OR performance OR ""live stage"" OR ""dance practice"")",30,True,True,NOT_RUN
+MVNBLST,"Mẹ Vắng Nhà, Ba Là Siêu Nhân",EXTENDED_DELETED,"""Mẹ Vắng Nhà, Ba Là Siêu Nhân"" (uncut OR extended OR ""khong len song"" OR ""deleted scene"")",30,True,True,NOT_RUN
+MVNBLST,"Mẹ Vắng Nhà, Ba Là Siêu Nhân",CAST_CHALLENGE,"""Mẹ Vắng Nhà, Ba Là Siêu Nhân"" (cast OR ""thu thach"" OR challenge OR game OR vlog)",30,True,True,NOT_RUN
+MVNBLST,"Mẹ Vắng Nhà, Ba Là Siêu Nhân",SHORT_FORM,"""Mẹ Vắng Nhà, Ba Là Siêu Nhân"" (shorts OR reel OR ""short video"")",30,True,True,NOT_RUN
+MVNBLST,"Mẹ Vắng Nhà, Ba Là Siêu Nhân",LIVESTREAM,"""Mẹ Vắng Nhà, Ba Là Siêu Nhân"" (livestream OR ""live stream"" OR ""live full"")",30,True,True,NOT_RUN
+MVNBLST,"Mẹ Vắng Nhà, Ba Là Siêu Nhân",COMPILATION,"""Mẹ Vắng Nhà, Ba Là Siêu Nhân"" (compilation OR ""tong hop"" OR ""tuyen tap"" OR ""top khoanh khac"")",30,True,True,NOT_RUN
+MVNBLST,"Mẹ Vắng Nhà, Ba Là Siêu Nhân",COMMUNITY_TRANSFORMATIVE,"""Mẹ Vắng Nhà, Ba Là Siêu Nhân"" (remix OR duet OR stitch OR meme OR ""fan edit"" OR fancam OR parody OR cover)",30,True,True,NOT_RUN
+MAGDV,Mái Ấm Gia Đình Việt,CLIP,"""Mái Ấm Gia Đình Việt"" (clip OR ""trich doan"" OR ""phan thi"" OR ""man trinh dien"")",30,True,True,NOT_RUN
+MAGDV,Mái Ấm Gia Đình Việt,HIGHLIGHT,"""Mái Ấm Gia Đình Việt"" (highlight OR ""khoanh khac"" OR ""best moment"")",30,True,True,NOT_RUN
+MAGDV,Mái Ấm Gia Đình Việt,TEASER_PREVIEW,"""Mái Ấm Gia Đình Việt"" (teaser OR trailer OR preview OR ""xem truoc"" OR ""hong tap"" OR ""don xem"")",30,True,True,NOT_RUN
+MAGDV,Mái Ấm Gia Đình Việt,RECAP_COMMENTARY,"""Mái Ấm Gia Đình Việt"" (recap OR ""nhin lai"" OR reaction OR ""binh luan"" OR ""phan tich"")",30,True,True,NOT_RUN
+MAGDV,Mái Ấm Gia Đình Việt,PRODUCTION_ACCESS,"""Mái Ấm Gia Đình Việt"" (""hau truong"" OR ""behind the scenes"" OR backstage OR ""making of"" OR rehearsal OR ""nhat ky"")",30,True,True,NOT_RUN
+MAGDV,Mái Ấm Gia Đình Việt,INTERVIEW_PRESS,"""Mái Ấm Gia Đình Việt"" (interview OR ""phong van"" OR ""hop bao"" OR ""le ra mat"")",30,True,True,NOT_RUN
+MAGDV,Mái Ấm Gia Đình Việt,MUSIC_PERFORMANCE,"""Mái Ấm Gia Đình Việt"" (""official mv"" OR ""music video"" OR ""lyric video"" OR ost OR performance OR ""live stage"" OR ""dance practice"")",30,True,True,NOT_RUN
+MAGDV,Mái Ấm Gia Đình Việt,EXTENDED_DELETED,"""Mái Ấm Gia Đình Việt"" (uncut OR extended OR ""khong len song"" OR ""deleted scene"")",30,True,True,NOT_RUN
+MAGDV,Mái Ấm Gia Đình Việt,CAST_CHALLENGE,"""Mái Ấm Gia Đình Việt"" (cast OR ""thu thach"" OR challenge OR game OR vlog)",30,True,True,NOT_RUN
+MAGDV,Mái Ấm Gia Đình Việt,SHORT_FORM,"""Mái Ấm Gia Đình Việt"" (shorts OR reel OR ""short video"")",30,True,True,NOT_RUN
+MAGDV,Mái Ấm Gia Đình Việt,LIVESTREAM,"""Mái Ấm Gia Đình Việt"" (livestream OR ""live stream"" OR ""live full"")",30,True,True,NOT_RUN
+MAGDV,Mái Ấm Gia Đình Việt,COMPILATION,"""Mái Ấm Gia Đình Việt"" (compilation OR ""tong hop"" OR ""tuyen tap"" OR ""top khoanh khac"")",30,True,True,NOT_RUN
+MAGDV,Mái Ấm Gia Đình Việt,COMMUNITY_TRANSFORMATIVE,"""Mái Ấm Gia Đình Việt"" (remix OR duet OR stitch OR meme OR ""fan edit"" OR fancam OR parody OR cover)",30,True,True,NOT_RUN
+ATCDN,Anh Trai & Cái Đuôi Nhỏ,CLIP,"""Anh Trai & Cái Đuôi Nhỏ"" (clip OR ""trich doan"" OR ""phan thi"" OR ""man trinh dien"")",30,True,True,NOT_RUN
+ATCDN,Anh Trai & Cái Đuôi Nhỏ,HIGHLIGHT,"""Anh Trai & Cái Đuôi Nhỏ"" (highlight OR ""khoanh khac"" OR ""best moment"")",30,True,True,NOT_RUN
+ATCDN,Anh Trai & Cái Đuôi Nhỏ,TEASER_PREVIEW,"""Anh Trai & Cái Đuôi Nhỏ"" (teaser OR trailer OR preview OR ""xem truoc"" OR ""hong tap"" OR ""don xem"")",30,True,True,NOT_RUN
+ATCDN,Anh Trai & Cái Đuôi Nhỏ,RECAP_COMMENTARY,"""Anh Trai & Cái Đuôi Nhỏ"" (recap OR ""nhin lai"" OR reaction OR ""binh luan"" OR ""phan tich"")",30,True,True,NOT_RUN
+ATCDN,Anh Trai & Cái Đuôi Nhỏ,PRODUCTION_ACCESS,"""Anh Trai & Cái Đuôi Nhỏ"" (""hau truong"" OR ""behind the scenes"" OR backstage OR ""making of"" OR rehearsal OR ""nhat ky"")",30,True,True,NOT_RUN
+ATCDN,Anh Trai & Cái Đuôi Nhỏ,INTERVIEW_PRESS,"""Anh Trai & Cái Đuôi Nhỏ"" (interview OR ""phong van"" OR ""hop bao"" OR ""le ra mat"")",30,True,True,NOT_RUN
+ATCDN,Anh Trai & Cái Đuôi Nhỏ,MUSIC_PERFORMANCE,"""Anh Trai & Cái Đuôi Nhỏ"" (""official mv"" OR ""music video"" OR ""lyric video"" OR ost OR performance OR ""live stage"" OR ""dance practice"")",30,True,True,NOT_RUN
+ATCDN,Anh Trai & Cái Đuôi Nhỏ,EXTENDED_DELETED,"""Anh Trai & Cái Đuôi Nhỏ"" (uncut OR extended OR ""khong len song"" OR ""deleted scene"")",30,True,True,NOT_RUN
+ATCDN,Anh Trai & Cái Đuôi Nhỏ,CAST_CHALLENGE,"""Anh Trai & Cái Đuôi Nhỏ"" (cast OR ""thu thach"" OR challenge OR game OR vlog)",30,True,True,NOT_RUN
+ATCDN,Anh Trai & Cái Đuôi Nhỏ,SHORT_FORM,"""Anh Trai & Cái Đuôi Nhỏ"" (shorts OR reel OR ""short video"")",30,True,True,NOT_RUN
+ATCDN,Anh Trai & Cái Đuôi Nhỏ,LIVESTREAM,"""Anh Trai & Cái Đuôi Nhỏ"" (livestream OR ""live stream"" OR ""live full"")",30,True,True,NOT_RUN
+ATCDN,Anh Trai & Cái Đuôi Nhỏ,COMPILATION,"""Anh Trai & Cái Đuôi Nhỏ"" (compilation OR ""tong hop"" OR ""tuyen tap"" OR ""top khoanh khac"")",30,True,True,NOT_RUN
+ATCDN,Anh Trai & Cái Đuôi Nhỏ,COMMUNITY_TRANSFORMATIVE,"""Anh Trai & Cái Đuôi Nhỏ"" (remix OR duet OR stitch OR meme OR ""fan edit"" OR fancam OR parody OR cover)",30,True,True,NOT_RUN
+XHTDRLX,"Xuân Hạ Thu Đông, Rồi Lại Xuân",CLIP,"""Xuân Hạ Thu Đông, Rồi Lại Xuân"" (clip OR ""trich doan"" OR ""phan thi"" OR ""man trinh dien"")",30,True,True,NOT_RUN
+XHTDRLX,"Xuân Hạ Thu Đông, Rồi Lại Xuân",HIGHLIGHT,"""Xuân Hạ Thu Đông, Rồi Lại Xuân"" (highlight OR ""khoanh khac"" OR ""best moment"")",30,True,True,NOT_RUN
+XHTDRLX,"Xuân Hạ Thu Đông, Rồi Lại Xuân",TEASER_PREVIEW,"""Xuân Hạ Thu Đông, Rồi Lại Xuân"" (teaser OR trailer OR preview OR ""xem truoc"" OR ""hong tap"" OR ""don xem"")",30,True,True,NOT_RUN
+XHTDRLX,"Xuân Hạ Thu Đông, Rồi Lại Xuân",RECAP_COMMENTARY,"""Xuân Hạ Thu Đông, Rồi Lại Xuân"" (recap OR ""nhin lai"" OR reaction OR ""binh luan"" OR ""phan tich"")",30,True,True,NOT_RUN
+XHTDRLX,"Xuân Hạ Thu Đông, Rồi Lại Xuân",PRODUCTION_ACCESS,"""Xuân Hạ Thu Đông, Rồi Lại Xuân"" (""hau truong"" OR ""behind the scenes"" OR backstage OR ""making of"" OR rehearsal OR ""nhat ky"")",30,True,True,NOT_RUN
+XHTDRLX,"Xuân Hạ Thu Đông, Rồi Lại Xuân",INTERVIEW_PRESS,"""Xuân Hạ Thu Đông, Rồi Lại Xuân"" (interview OR ""phong van"" OR ""hop bao"" OR ""le ra mat"")",30,True,True,NOT_RUN
+XHTDRLX,"Xuân Hạ Thu Đông, Rồi Lại Xuân",MUSIC_PERFORMANCE,"""Xuân Hạ Thu Đông, Rồi Lại Xuân"" (""official mv"" OR ""music video"" OR ""lyric video"" OR ost OR performance OR ""live stage"" OR ""dance practice"")",30,True,True,NOT_RUN
+XHTDRLX,"Xuân Hạ Thu Đông, Rồi Lại Xuân",EXTENDED_DELETED,"""Xuân Hạ Thu Đông, Rồi Lại Xuân"" (uncut OR extended OR ""khong len song"" OR ""deleted scene"")",30,True,True,NOT_RUN
+XHTDRLX,"Xuân Hạ Thu Đông, Rồi Lại Xuân",CAST_CHALLENGE,"""Xuân Hạ Thu Đông, Rồi Lại Xuân"" (cast OR ""thu thach"" OR challenge OR game OR vlog)",30,True,True,NOT_RUN
+XHTDRLX,"Xuân Hạ Thu Đông, Rồi Lại Xuân",SHORT_FORM,"""Xuân Hạ Thu Đông, Rồi Lại Xuân"" (shorts OR reel OR ""short video"")",30,True,True,NOT_RUN
+XHTDRLX,"Xuân Hạ Thu Đông, Rồi Lại Xuân",LIVESTREAM,"""Xuân Hạ Thu Đông, Rồi Lại Xuân"" (livestream OR ""live stream"" OR ""live full"")",30,True,True,NOT_RUN
+XHTDRLX,"Xuân Hạ Thu Đông, Rồi Lại Xuân",COMPILATION,"""Xuân Hạ Thu Đông, Rồi Lại Xuân"" (compilation OR ""tong hop"" OR ""tuyen tap"" OR ""top khoanh khac"")",30,True,True,NOT_RUN
+XHTDRLX,"Xuân Hạ Thu Đông, Rồi Lại Xuân",COMMUNITY_TRANSFORMATIVE,"""Xuân Hạ Thu Đông, Rồi Lại Xuân"" (remix OR duet OR stitch OR meme OR ""fan edit"" OR fancam OR parody OR cover)",30,True,True,NOT_RUN
+DUM,Điều Ước Của Mẹ,CLIP,"""Điều Ước Của Mẹ"" (clip OR ""trich doan"" OR ""phan thi"" OR ""man trinh dien"")",30,True,True,NOT_RUN
+DUM,Điều Ước Của Mẹ,HIGHLIGHT,"""Điều Ước Của Mẹ"" (highlight OR ""khoanh khac"" OR ""best moment"")",30,True,True,NOT_RUN
+DUM,Điều Ước Của Mẹ,TEASER_PREVIEW,"""Điều Ước Của Mẹ"" (teaser OR trailer OR preview OR ""xem truoc"" OR ""hong tap"" OR ""don xem"")",30,True,True,NOT_RUN
+DUM,Điều Ước Của Mẹ,RECAP_COMMENTARY,"""Điều Ước Của Mẹ"" (recap OR ""nhin lai"" OR reaction OR ""binh luan"" OR ""phan tich"")",30,True,True,NOT_RUN
+DUM,Điều Ước Của Mẹ,PRODUCTION_ACCESS,"""Điều Ước Của Mẹ"" (""hau truong"" OR ""behind the scenes"" OR backstage OR ""making of"" OR rehearsal OR ""nhat ky"")",30,True,True,NOT_RUN
+DUM,Điều Ước Của Mẹ,INTERVIEW_PRESS,"""Điều Ước Của Mẹ"" (interview OR ""phong van"" OR ""hop bao"" OR ""le ra mat"")",30,True,True,NOT_RUN
+DUM,Điều Ước Của Mẹ,MUSIC_PERFORMANCE,"""Điều Ước Của Mẹ"" (""official mv"" OR ""music video"" OR ""lyric video"" OR ost OR performance OR ""live stage"" OR ""dance practice"")",30,True,True,NOT_RUN
+DUM,Điều Ước Của Mẹ,EXTENDED_DELETED,"""Điều Ước Của Mẹ"" (uncut OR extended OR ""khong len song"" OR ""deleted scene"")",30,True,True,NOT_RUN
+DUM,Điều Ước Của Mẹ,CAST_CHALLENGE,"""Điều Ước Của Mẹ"" (cast OR ""thu thach"" OR challenge OR game OR vlog)",30,True,True,NOT_RUN
+DUM,Điều Ước Của Mẹ,SHORT_FORM,"""Điều Ước Của Mẹ"" (shorts OR reel OR ""short video"")",30,True,True,NOT_RUN
+DUM,Điều Ước Của Mẹ,LIVESTREAM,"""Điều Ước Của Mẹ"" (livestream OR ""live stream"" OR ""live full"")",30,True,True,NOT_RUN
+DUM,Điều Ước Của Mẹ,COMPILATION,"""Điều Ước Của Mẹ"" (compilation OR ""tong hop"" OR ""tuyen tap"" OR ""top khoanh khac"")",30,True,True,NOT_RUN
+DUM,Điều Ước Của Mẹ,COMMUNITY_TRANSFORMATIVE,"""Điều Ước Của Mẹ"" (remix OR duet OR stitch OR meme OR ""fan edit"" OR fancam OR parody OR cover)",30,True,True,NOT_RUN
+SONG,Sóng,CLIP,"""Sóng"" (clip OR ""trich doan"" OR ""phan thi"" OR ""man trinh dien"")",30,True,True,NOT_RUN
+SONG,Sóng,HIGHLIGHT,"""Sóng"" (highlight OR ""khoanh khac"" OR ""best moment"")",30,True,True,NOT_RUN
+SONG,Sóng,TEASER_PREVIEW,"""Sóng"" (teaser OR trailer OR preview OR ""xem truoc"" OR ""hong tap"" OR ""don xem"")",30,True,True,NOT_RUN
+SONG,Sóng,RECAP_COMMENTARY,"""Sóng"" (recap OR ""nhin lai"" OR reaction OR ""binh luan"" OR ""phan tich"")",30,True,True,NOT_RUN
+SONG,Sóng,PRODUCTION_ACCESS,"""Sóng"" (""hau truong"" OR ""behind the scenes"" OR backstage OR ""making of"" OR rehearsal OR ""nhat ky"")",30,True,True,NOT_RUN
+SONG,Sóng,INTERVIEW_PRESS,"""Sóng"" (interview OR ""phong van"" OR ""hop bao"" OR ""le ra mat"")",30,True,True,NOT_RUN
+SONG,Sóng,MUSIC_PERFORMANCE,"""Sóng"" (""official mv"" OR ""music video"" OR ""lyric video"" OR ost OR performance OR ""live stage"" OR ""dance practice"")",30,True,True,NOT_RUN
+SONG,Sóng,EXTENDED_DELETED,"""Sóng"" (uncut OR extended OR ""khong len song"" OR ""deleted scene"")",30,True,True,NOT_RUN
+SONG,Sóng,CAST_CHALLENGE,"""Sóng"" (cast OR ""thu thach"" OR challenge OR game OR vlog)",30,True,True,NOT_RUN
+SONG,Sóng,SHORT_FORM,"""Sóng"" (shorts OR reel OR ""short video"")",30,True,True,NOT_RUN
+SONG,Sóng,LIVESTREAM,"""Sóng"" (livestream OR ""live stream"" OR ""live full"")",30,True,True,NOT_RUN
+SONG,Sóng,COMPILATION,"""Sóng"" (compilation OR ""tong hop"" OR ""tuyen tap"" OR ""top khoanh khac"")",30,True,True,NOT_RUN
+SONG,Sóng,COMMUNITY_TRANSFORMATIVE,"""Sóng"" (remix OR duet OR stitch OR meme OR ""fan edit"" OR fancam OR parody OR cover)",30,True,True,NOT_RUN

@@ -43,4 +43,29 @@ video_types:
       - "\\b(?:performance|tiet muc|live ?stage|liveshow|concert)\\b"
     interview:
       - "\\binterview\\b"
+  # These labels expand discovery without changing a previously accepted numbered
+  # canonical episode. Canonical overlaps are emitted as NEEDS_REVIEW downstream.
+  observational:
+    short_form:
+      - "\\bshorts?\\b"
+    promo:
+      - "\\b(?:promo|don xem|coming soon)\\b"
+    highlight:
+      - "\\b(?:highlight|best moments?|top moments?|khoanh khac)\\b"
+    reaction_commentary:
+      - "\\b(?:reaction|binh luan|phan tich)\\b"
+    uncut_extended:
+      - "\\b(?:uncut|extended|deleted scene|canh bi cat)\\b"
+    production_diary:
+      - "\\b(?:backstage|making of|nhat ky phong tap)\\b"
+    dance_practice:
+      - "\\b(?:dance practice|line distribution|tap nhay)\\b"
+    interview_press:
+      - "\\b(?:phong van|hop bao|le ra mat|press conference)\\b"
+    cast_content:
+      - "\\b(?:cast diary|cast vlog|nhat ky|thu thach|challenge)\\b"
+    ost_theme:
+      - "\\b(?:ost|theme song|lyric video|official audio)\\b"
+    livestream:
+      - "\\b(?:livestream|live stream|truc tiep)\\b"
 

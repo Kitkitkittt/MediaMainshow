@@ -20,6 +20,9 @@ def _video_type(title: str, rules: dict[str, Any]) -> tuple[str, str | None]:
     for video_type, patterns in rules.get("video_types", {}).get("soft", {}).items():
         if any(re.search(pattern, normalized) for pattern in patterns):
             return video_type, video_type
+    for video_type, patterns in rules.get("video_types", {}).get("observational", {}).items():
+        if any(re.search(pattern, normalized) for pattern in patterns):
+            return video_type, video_type
     return "unknown", None
 
 

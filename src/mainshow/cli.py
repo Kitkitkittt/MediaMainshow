@@ -12,6 +12,7 @@ from .discovery import discover_unknown_shows
 from .pipeline import build_pilot
 from .population import build_all, pending_sources
 from .registry import write_config_registries
+from .social import build_social_outputs
 
 APIDOJO_ACTOR = "apidojo/youtube-scraper-api"
 DEFAULT_ACTOR = "streamers/youtube-scraper"
@@ -29,15 +30,15 @@ def _source_input(actor: str, source: dict[str, Any], max_results: int) -> dict[
     if actor == APIDOJO_ACTOR:
         payload: dict[str, object] = {
             "maxItems": max_results,
-            "includeShorts": False,
-            "includeLiveStreams": False,
+            "includeShorts": bool(source.get("include_shorts", False)),
+            "includeLiveStreams": bool(source.get("include_livestreams", False)),
         }
         payload["keywords" if queries else "startUrls"] = queries or [str(source["url"])]
         return payload
     payload = {
         "maxResults": max_results,
-        "maxResultsShorts": 0,
-        "maxResultStreams": 0,
+        "maxResultsShorts": max_results if source.get("include_shorts") else 0,
+        "maxResultStreams": max_results if source.get("include_livestreams") else 0,
     }
     payload["searchQueries" if queries else "startUrls"] = (
         queries if queries else [{"url": str(source["url"])}]
@@ -122,6 +123,10 @@ def main() -> None:
         "discover-unknown", help="Cluster unknown episodic shows from cached official-channel runs"
     )
     discover_parser.add_argument("--output", type=Path, default=Path("outputs"))
+    social_parser = subparsers.add_parser(
+        "build-social", help="Build derivative and social-source outputs from cached evidence"
+    )
+    social_parser.add_argument("--output", type=Path, default=Path("outputs"))
     args = parser.parse_args()
 
     logging.basicConfig(level=logging.INFO, format="%(levelname)s %(name)s %(message)s")
@@ -166,6 +171,13 @@ def main() -> None:
     if args.command == "discover-unknown":
         result = discover_unknown_shows(root / "data" / "raw", root / args.output, config)
         logging.info("Unknown-show discovery %s", result)
+        return
+    if args.command == "build-social":
+        output = root / args.output
+        result = build_social_outputs(
+            root / "data" / "raw", output / "episode_registry.csv", output, config
+        )
+        logging.info("Built derivative/social outputs %s", result)
         return
     if args.command == "extract-season":
         show_id, _, season = find_season(config, args.season_id)

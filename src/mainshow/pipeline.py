@@ -43,6 +43,8 @@ EPISODE_COLUMNS = (
     "age_days",
     "lifetime_views_per_day",
     "view_count",
+    "like_count",
+    "comment_count",
     "mainshow_flag",
     "canonical_flag",
     "split_episode_flag",
@@ -501,6 +503,13 @@ def build_pilot(
         )
     else:
         evidence_line = "Completed-season metrics are suppressed until all FAIL conditions resolve."
+    report_source = (
+        str(matched_sources[0]["url"])
+        if matched_sources
+        else sorted(source_urls)[0]
+        if source_urls
+        else str(season.get("official_playlist_url", ""))
+    )
     report = [
         f"# {season['season_id']} QC report",
         "",
@@ -509,7 +518,7 @@ def build_pilot(
         f"- Actor run: `{provenance.actor_run_id}`",
         f"- Dataset: `{provenance.dataset_id}`",
         f"- Snapshot: `{provenance.retrieved_at}`",
-        f"- Source: `{next(iter(source_urls), season.get('official_playlist_url', ''))}`",
+        f"- Source: `{report_source}`",
         f"- Raw candidates: {len(episode_rows)}",
         f"- Canonical episodes: {len(canonical_rows)}",
         f"- Expected episodes: {expected or 'unknown'}",

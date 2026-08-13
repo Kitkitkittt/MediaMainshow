@@ -16,7 +16,7 @@
 - Duplicate logical episodes: []
 - Contiguous from E01: True
 - Canonical duration flags outside normal range: 1
-- Exclusions by reason: {'backstage': 5, 'deterministic_non_episode': 4, 'non_main_channel_authority': 1, 'preview': 3, 'shorts': 3}
+- Exclusions by reason: {'backstage': 5, 'deterministic_non_episode': 4, 'non_main_channel_authority': 1, 'preview': 3, 'short_form': 3}
 
 Completed-season metrics are publishable with the duration caveat recorded above.
 
@@ -38,7 +38,7 @@ Completed-season metrics are publishable with the duration caveat recorded above
 - Duplicate logical episodes: []
 - Contiguous from E01: True
 - Canonical duration flags outside normal range: 1
-- Exclusions by reason: {'backstage': 3, 'clip_or_segment': 1, 'compilation': 4, 'deterministic_non_episode': 12, 'highlight': 3, 'music_asset': 1, 'non_main_channel_authority': 8, 'official_duplicate_logical_episode': 12, 'performance': 4, 'preview': 1, 'recap': 4, 'uncut': 8}
+- Exclusions by reason: {'backstage': 3, 'clip_or_segment': 1, 'compilation': 4, 'deterministic_non_episode': 12, 'highlight': 3, 'music_asset': 1, 'non_main_channel_authority': 8, 'official_duplicate_logical_episode': 12, 'performance': 4, 'preview': 1, 'recap': 4, 'uncut_extended': 8}
 
 Completed-season metrics are publishable with the duration caveat recorded above.
 
@@ -60,7 +60,7 @@ Completed-season metrics are publishable with the duration caveat recorded above
 - Duplicate logical episodes: []
 - Contiguous from E01: True
 - Canonical duration flags outside normal range: 0
-- Exclusions by reason: {'deterministic_non_episode': 11, 'non_main_channel_authority': 1, 'shorts': 4}
+- Exclusions by reason: {'deterministic_non_episode': 11, 'non_main_channel_authority': 1, 'short_form': 4}
 
 Completed-season metrics are publishable under the recorded Phase-1 rules.
 
@@ -82,7 +82,7 @@ Completed-season metrics are publishable under the recorded Phase-1 rules.
 - Duplicate logical episodes: []
 - Contiguous from E01: True
 - Canonical duration flags outside normal range: 0
-- Exclusions by reason: {'Long derivative segment that references episode 5 but is not the canonical full episode.': 1, 'backstage': 4, 'clip_or_segment': 3, 'compilation': 5, 'deterministic_non_episode': 18, 'highlight': 2, 'music_asset': 1, 'non_main_channel_authority': 4, 'preview': 4, 'reaction': 1, 'uncut': 1}
+- Exclusions by reason: {'Long derivative segment that references episode 5 but is not the canonical full episode.': 1, 'backstage': 4, 'clip_or_segment': 3, 'compilation': 5, 'deterministic_non_episode': 18, 'highlight': 2, 'music_asset': 1, 'non_main_channel_authority': 4, 'preview': 4, 'reaction_commentary': 1, 'uncut_extended': 1}
 
 Airing-season views-to-date are publishable under the recorded rules.
 
@@ -192,7 +192,7 @@ Completed-season metrics are publishable under the recorded Phase-1 rules.
 - Duplicate logical episodes: []
 - Contiguous from E01: False
 - Canonical duration flags outside normal range: 1
-- Exclusions by reason: {'backstage': 1, 'compilation': 3, 'deterministic_non_episode': 30, 'music_asset': 6, 'non_main_channel_authority': 9, 'official_duplicate_logical_episode': 1, 'uncut': 2}
+- Exclusions by reason: {'backstage': 1, 'compilation': 3, 'deterministic_non_episode': 30, 'music_asset': 6, 'non_main_channel_authority': 9, 'official_duplicate_logical_episode': 1, 'uncut_extended': 2}
 
 Completed-season metrics are suppressed until all FAIL conditions resolve.
 
@@ -214,7 +214,7 @@ Completed-season metrics are suppressed until all FAIL conditions resolve.
 - Duplicate logical episodes: []
 - Contiguous from E01: False
 - Canonical duration flags outside normal range: 0
-- Exclusions by reason: {'compilation': 2, 'deterministic_non_episode': 13, 'music_asset': 2, 'non_main_channel_authority': 26, 'preview': 7, 'reaction': 3, 'uncut': 2}
+- Exclusions by reason: {'compilation': 2, 'deterministic_non_episode': 13, 'music_asset': 2, 'non_main_channel_authority': 26, 'preview': 7, 'reaction_commentary': 3, 'uncut_extended': 2}
 
 Completed-season metrics are suppressed until all FAIL conditions resolve.
 
@@ -280,7 +280,7 @@ Completed-season metrics are suppressed until all FAIL conditions resolve.
 - Duplicate logical episodes: []
 - Contiguous from E01: True
 - Canonical duration flags outside normal range: 0
-- Exclusions by reason: {'compilation': 7, 'deterministic_non_episode': 17, 'non_main_channel_authority': 7, 'official_duplicate_logical_episode': 16, 'performance': 1, 'reaction': 1}
+- Exclusions by reason: {'compilation': 7, 'deterministic_non_episode': 17, 'non_main_channel_authority': 7, 'official_duplicate_logical_episode': 16, 'performance': 1, 'reaction_commentary': 1}
 
 Completed-season metrics are publishable under the recorded Phase-1 rules.
 
@@ -302,7 +302,7 @@ Completed-season metrics are publishable under the recorded Phase-1 rules.
 - Duplicate logical episodes: []
 - Contiguous from E01: True
 - Canonical duration flags outside normal range: 0
-- Exclusions by reason: {'deterministic_non_episode': 7, 'non_main_channel_authority': 1, 'official_duplicate_logical_episode': 4, 'preview': 2, 'uncut': 2}
+- Exclusions by reason: {'deterministic_non_episode': 7, 'non_main_channel_authority': 1, 'official_duplicate_logical_episode': 4, 'preview': 2, 'uncut_extended': 2}
 
 Completed-season metrics are publishable under the recorded Phase-1 rules.
 
@@ -513,7 +513,7 @@ Completed-season metrics are suppressed until all FAIL conditions resolve.
 - Actor run: `9TfG2Ia9jXssoJSJt`
 - Dataset: `0CSg3n0DdqZFxv4nt`
 - Snapshot: `2026-08-12T18:25:06.380679+07:00`
-- Source: `https://www.youtube.com/watch?v=hqTJG9yzrUs`
+- Source: `https://www.youtube.com/playlist?list=PLG7CUxrpEOnfzfuMy-SQsENMcthLsO_v-`
 - Raw candidates: 32
 - Canonical episodes: 16
 - Expected episodes: 16
@@ -566,7 +566,7 @@ Completed-season metrics are publishable under the recorded Phase-1 rules.
 - Duplicate logical episodes: []
 - Contiguous from E01: False
 - Canonical duration flags outside normal range: 1
-- Exclusions by reason: {'deterministic_non_episode': 6, 'official_duplicate_logical_episode': 5, 'reaction': 3, 'recap': 2}
+- Exclusions by reason: {'deterministic_non_episode': 6, 'official_duplicate_logical_episode': 5, 'reaction_commentary': 3, 'recap': 2}
 
 Completed-season metrics are suppressed until all FAIL conditions resolve.
 
@@ -588,7 +588,7 @@ Completed-season metrics are suppressed until all FAIL conditions resolve.
 - Duplicate logical episodes: []
 - Contiguous from E01: True
 - Canonical duration flags outside normal range: 2
-- Exclusions by reason: {'compilation': 3, 'deterministic_non_episode': 50, 'highlight': 1, 'music_asset': 1, 'official_duplicate_logical_episode': 8, 'reaction': 2, 'recap': 1}
+- Exclusions by reason: {'compilation': 3, 'deterministic_non_episode': 50, 'highlight': 1, 'music_asset': 1, 'official_duplicate_logical_episode': 8, 'reaction_commentary': 2, 'recap': 1}
 
 Completed-season metrics are publishable with the duration caveat recorded above.
 
@@ -786,7 +786,7 @@ Completed-season metrics are publishable with the duration caveat recorded above
 - Duplicate logical episodes: []
 - Contiguous from E01: False
 - Canonical duration flags outside normal range: 0
-- Exclusions by reason: {'deterministic_non_episode': 9, 'preview': 16, 'recap': 1, 'uncut': 7}
+- Exclusions by reason: {'deterministic_non_episode': 9, 'preview': 16, 'recap': 1, 'uncut_extended': 7}
 
 Completed-season metrics are suppressed until all FAIL conditions resolve.
 
@@ -808,7 +808,7 @@ Completed-season metrics are suppressed until all FAIL conditions resolve.
 - Duplicate logical episodes: []
 - Contiguous from E01: True
 - Canonical duration flags outside normal range: 0
-- Exclusions by reason: {'backstage': 3, 'deterministic_non_episode': 6, 'official_duplicate_logical_episode': 2, 'preview': 1, 'uncut': 1}
+- Exclusions by reason: {'backstage': 3, 'deterministic_non_episode': 6, 'official_duplicate_logical_episode': 2, 'preview': 1, 'uncut_extended': 1}
 
 Completed-season metrics are publishable under the recorded Phase-1 rules.
 
@@ -918,7 +918,7 @@ Completed-season metrics are publishable under the recorded Phase-1 rules.
 - Duplicate logical episodes: []
 - Contiguous from E01: True
 - Canonical duration flags outside normal range: 0
-- Exclusions by reason: {'clip_or_segment': 4, 'deterministic_non_episode': 30, 'shorts': 2}
+- Exclusions by reason: {'clip_or_segment': 4, 'deterministic_non_episode': 30, 'short_form': 2}
 
 Completed-season metrics are suppressed until all FAIL conditions resolve.
 
@@ -940,7 +940,7 @@ Completed-season metrics are suppressed until all FAIL conditions resolve.
 - Duplicate logical episodes: []
 - Contiguous from E01: True
 - Canonical duration flags outside normal range: 0
-- Exclusions by reason: {'backstage': 1, 'deterministic_non_episode': 41, 'performance': 1, 'preview': 2, 'reaction': 3, 'uncut': 1}
+- Exclusions by reason: {'backstage': 1, 'deterministic_non_episode': 41, 'performance': 1, 'preview': 2, 'reaction_commentary': 3, 'uncut_extended': 1}
 
 Completed-season metrics are publishable under the recorded Phase-1 rules.
 
@@ -1028,7 +1028,7 @@ Completed-season metrics are suppressed until all FAIL conditions resolve.
 - Duplicate logical episodes: []
 - Contiguous from E01: True
 - Canonical duration flags outside normal range: 0
-- Exclusions by reason: {'Official archive extra labelled Tập 21, outside the source-bound 20-episode main season.': 1, 'recap': 1, 'uncut': 10}
+- Exclusions by reason: {'Official archive extra labelled Tập 21, outside the source-bound 20-episode main season.': 1, 'recap': 1, 'uncut_extended': 10}
 
 Completed-season metrics are publishable under the recorded Phase-1 rules.
 
@@ -1050,7 +1050,7 @@ Completed-season metrics are publishable under the recorded Phase-1 rules.
 - Duplicate logical episodes: []
 - Contiguous from E01: True
 - Canonical duration flags outside normal range: 0
-- Exclusions by reason: {'best cut': 20, 'deterministic_non_episode': 13, 'highlight': 1, 'official_duplicate_logical_episode': 26, 'preview': 4, 'reaction': 1}
+- Exclusions by reason: {'best cut': 19, 'deterministic_non_episode': 13, 'highlight': 1, 'livestream': 1, 'official_duplicate_logical_episode': 26, 'preview': 4, 'reaction_commentary': 1}
 
 Completed-season metrics are publishable under the recorded Phase-1 rules.
 
@@ -1085,7 +1085,7 @@ Completed-season metrics are publishable under the recorded Phase-1 rules.
 - Actor run: `l4Cbec18VOwq470OC`
 - Dataset: `reFzTvG4ArNihCaNB`
 - Snapshot: `2026-08-12T18:26:08.395060+07:00`
-- Source: `https://www.youtube.com/watch?v=zNY5kLHWze8`
+- Source: `https://www.youtube.com/playlist?list=PLJSRfYQoW3dn5wLuH9xgrMbaazxZdZBZ_`
 - Raw candidates: 31
 - Canonical episodes: 13
 - Expected episodes: 13

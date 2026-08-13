@@ -1,0 +1,449 @@
+from __future__ import annotations
+
+import csv
+import json
+from collections import defaultdict
+from dataclasses import dataclass
+from pathlib import Path
+from typing import Any
+from urllib.parse import unquote, urlsplit
+
+from .config import ProjectConfig, find_source_season
+
+TYPE_TO_ROLE = {
+    "short_form": "SHORT",
+    "preview": "TEASER_PREVIEW",
+    "promo": "TEASER_PREVIEW",
+    "highlight": "HIGHLIGHT",
+    "recap": "RECAP",
+    "reaction_commentary": "REACTION_COMMENTARY",
+    "uncut_extended": "UNCUT_EXTENDED",
+    "backstage": "BEHIND_THE_SCENES",
+    "production_diary": "BEHIND_THE_SCENES",
+    "dance_practice": "DANCE_PRACTICE",
+    "interview_press": "INTERVIEW_PRESS",
+    "cast_content": "CAST_CONTENT",
+    "compilation": "COMPILATION",
+    "music_asset": "MUSIC_ASSET",
+    "ost_theme": "MUSIC_ASSET",
+    "clip_or_segment": "CLIP_OR_SEGMENT",
+    "special_extra": "SPECIAL_EXTRA",
+    "livestream": "LIVESTREAM",
+    "performance": "PERFORMANCE",
+    "interview": "INTERVIEW",
+    "annual_segment": "ANNUAL_SEGMENT",
+}
+
+PROFILE_HOSTS = {
+    "facebook.com": "facebook",
+    "www.facebook.com": "facebook",
+    "fb.com": "facebook",
+    "www.fb.com": "facebook",
+    "instagram.com": "instagram",
+    "www.instagram.com": "instagram",
+    "tiktok.com": "tiktok",
+    "www.tiktok.com": "tiktok",
+    "threads.com": "threads",
+    "www.threads.com": "threads",
+    "threads.net": "threads",
+    "www.threads.net": "threads",
+    "x.com": "x",
+    "www.x.com": "x",
+    "twitter.com": "x",
+    "www.twitter.com": "x",
+}
+
+NON_PROFILE_ROOTS = {
+    "hashtag",
+    "p",
+    "reel",
+    "reels",
+    "stories",
+    "watch",
+    "groups",
+    "share",
+    "sharer",
+    "photo",
+    "photos",
+    "video",
+    "videos",
+    "intent",
+    "search",
+}
+
+DERIVATIVE_COLUMNS = [
+    "platform",
+    "native_content_id",
+    "content_url",
+    "show_id",
+    "season_id",
+    "title",
+    "platform_format",
+    "content_role",
+    "authority_class",
+    "relationship_target_type",
+    "relationship_evidence",
+    "classification_state",
+    "review_status",
+    "published_at",
+    "duration_seconds",
+    "view_count",
+    "like_count",
+    "comment_count",
+    "availability_status",
+    "actor_run_id",
+    "source_url",
+]
+
+
+@dataclass(frozen=True)
+class NormalizedSocialItem:
+    platform: str
+    native_content_id: str
+    content_url: str
+    published_at: str | None
+    text: str | None
+    account_native_id: str | None
+    account_handle: str | None
+    platform_format: str
+    metrics: dict[str, int]
+
+
+def normalize_social_item(platform: str, item: dict[str, Any]) -> NormalizedSocialItem:
+    """Normalize a connector item without pretending unsupported fields are zero."""
+    native_id = str(item.get("native_content_id") or item.get("id") or "").strip()
+    content_url = str(item.get("content_url") or item.get("url") or item.get("permalink") or "")
+    if not native_id or not content_url:
+        raise ValueError("A social item requires native content ID and URL")
+    metrics: dict[str, int] = {}
+    for name, value in (item.get("metrics") or {}).items():
+        if value is None:
+            continue
+        if isinstance(value, bool) or not isinstance(value, int):
+            raise TypeError(f"Metric {name} must be an exact integer or null")
+        metrics[str(name)] = value
+    return NormalizedSocialItem(
+        platform=platform,
+        native_content_id=native_id,
+        content_url=content_url,
+        published_at=item.get("published_at") or item.get("timestamp"),
+        text=item.get("text") or item.get("caption") or item.get("title"),
+        account_native_id=item.get("account_native_id") or item.get("author_id"),
+        account_handle=item.get("account_handle") or item.get("username"),
+        platform_format=str(item.get("platform_format") or item.get("media_type") or "UNKNOWN"),
+        metrics=metrics,
+    )
+
+
+def _write_csv(path: Path, columns: list[str], rows: list[dict[str, Any]]) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("w", newline="", encoding="utf-8-sig") as stream:
+        writer = csv.DictWriter(stream, fieldnames=columns, extrasaction="ignore")
+        writer.writeheader()
+        writer.writerows(rows)
+
+
+def _read_csv(path: Path) -> list[dict[str, str]]:
+    if not path.exists():
+        return []
+    with path.open(newline="", encoding="utf-8-sig") as stream:
+        return list(csv.DictReader(stream))
+
+
+def _receipt_urls(payload: dict[str, Any]) -> tuple[str, ...]:
+    actor_input = payload.get("actor_input", {})
+    start_urls = tuple(
+        str(value.get("url") if isinstance(value, dict) else value)
+        for value in actor_input.get("startUrls", [])
+        if value
+    )
+    binding = actor_input.get("sourceBindingUrl")
+    return (*start_urls, str(binding)) if binding else start_urls
+
+
+def _receipt_context(config: ProjectConfig, payload: dict[str, Any]) -> tuple[str, str]:
+    for url in _receipt_urls(payload):
+        match = find_source_season(config, url)
+        if match:
+            return match[0], str(match[2]["season_id"])
+    return "", ""
+
+
+def _social_profile(url: str) -> tuple[str, str, str] | None:
+    try:
+        parsed = urlsplit(unquote(url.strip()))
+    except ValueError:
+        return None
+    platform = PROFILE_HOSTS.get(parsed.hostname.lower() if parsed.hostname else "")
+    parts = [part for part in parsed.path.split("/") if part]
+    if not platform or not parts:
+        return None
+    root = parts[0].lower()
+    if root in NON_PROFILE_ROOTS:
+        return None
+    if platform in {"tiktok", "threads"} and not root.startswith("@"):
+        return None
+    handle = root.lstrip("@").strip()
+    if not handle:
+        return None
+    host = {
+        "facebook": "www.facebook.com",
+        "instagram": "www.instagram.com",
+        "tiktok": "www.tiktok.com",
+        "threads": "www.threads.com",
+        "x": "x.com",
+    }[platform]
+    prefix = "@" if platform in {"tiktok", "threads"} else ""
+    normalized = f"https://{host}/{prefix}{handle}"
+    return platform, handle, normalized
+
+
+def _platform_format(row: dict[str, str]) -> str:
+    title = row.get("normalized_title", "")
+    url = row.get("video_url", "")
+    if "/shorts/" in url or "#short" in title or " shorts" in f" {title}":
+        return "SHORT"
+    if row.get("video_type") == "livestream":
+        return "LIVESTREAM"
+    return "VIDEO"
+
+
+def derivative_rows(episode_registry: Path) -> list[dict[str, Any]]:
+    rows: list[dict[str, Any]] = []
+    for row in _read_csv(episode_registry):
+        canonical = row.get("canonical_flag", "").lower() == "true"
+        if canonical and row.get("video_type") not in TYPE_TO_ROLE:
+            continue
+        video_type = row.get("video_type", "unknown")
+        role = TYPE_TO_ROLE.get(video_type, "UNKNOWN")
+        authority = row.get("channel_authority", "")
+        reviewed_authority = bool(authority and authority != "unknown")
+        if row.get("reupload_flag", "").lower() == "true" or video_type == "non_main_channel":
+            role = "UNKNOWN_REUPLOAD"
+        accepted = role not in {"UNKNOWN", "UNKNOWN_REUPLOAD"} and reviewed_authority
+        state = "ACCEPTED" if accepted and not canonical else "NEEDS_REVIEW"
+        rows.append(
+            {
+                "platform": "youtube",
+                "native_content_id": row.get("video_id", ""),
+                "content_url": row.get("video_url", ""),
+                "show_id": row.get("show_id", ""),
+                "season_id": row.get("season_id", ""),
+                "title": row.get("title", ""),
+                "platform_format": _platform_format(row),
+                "content_role": role,
+                "authority_class": authority.upper() if reviewed_authority else "UNVERIFIED",
+                "relationship_target_type": "EPISODE" if row.get("episode_no") else "SEASON",
+                "relationship_evidence": (
+                    "OFFICIAL_PLAYLIST_COLLECTION" if reviewed_authority else "INFERRED"
+                ),
+                "classification_state": state,
+                "review_status": "CANONICAL_OVERLAP" if canonical else state,
+                "published_at": row.get("published_at", ""),
+                "duration_seconds": row.get("duration_seconds", ""),
+                "view_count": row.get("view_count", ""),
+                "like_count": "",
+                "comment_count": "",
+                "availability_status": row.get("availability_status", ""),
+                "actor_run_id": row.get("actor_run_id", ""),
+                "source_url": row.get("source_url", ""),
+            }
+        )
+    return rows
+
+
+def social_account_rows(raw_dir: Path, config: ProjectConfig) -> list[dict[str, Any]]:
+    evidence: defaultdict[tuple[str, str, str], dict[str, Any]] = defaultdict(
+        lambda: {
+            "seasons": set(),
+            "receipt_ids": set(),
+            "video_ids": set(),
+            "official_video_ids": set(),
+            "source_channels": set(),
+            "evidence_urls": set(),
+            "first_observed_at": "",
+            "last_observed_at": "",
+        }
+    )
+    for path in sorted(raw_dir.glob("*.json")):
+        payload = json.loads(path.read_text(encoding="utf-8"))
+        show_id, season_id = _receipt_context(config, payload)
+        if not show_id:
+            continue
+        observed = str(payload.get("retrieved_at", ""))
+        receipt_id = str(payload.get("actor_run_id") or path.stem)
+        for item in payload.get("items", []):
+            video_id = str(item.get("id") or item.get("videoId") or "")
+            if not video_id:
+                continue
+            channel_id = str(item.get("channelId") or "")
+            channel_authority = config.channels.get(channel_id, {}).get(
+                "channel_authority", "unknown"
+            )
+            reviewed_channel = channel_authority not in {"unknown", "unofficial", ""}
+            for link in item.get("descriptionLinks") or []:
+                url = str(link.get("url", "") if isinstance(link, dict) else link)
+                profile = _social_profile(url)
+                if not profile:
+                    continue
+                platform, handle, profile_url = profile
+                record = evidence[(show_id, platform, profile_url)]
+                record["seasons"].add(season_id)
+                record["receipt_ids"].add(receipt_id)
+                record["video_ids"].add(video_id)
+                if reviewed_channel:
+                    record["official_video_ids"].add(video_id)
+                record["source_channels"].add(channel_id)
+                record["evidence_urls"].add(str(item.get("url") or ""))
+                if not record["first_observed_at"] or observed < record["first_observed_at"]:
+                    record["first_observed_at"] = observed
+                if observed > record["last_observed_at"]:
+                    record["last_observed_at"] = observed
+
+    verified = {
+        (str(source.get("show_id", "")), str(source.get("platform", "")), source.get("account_url"))
+        for source in config.social.get("verified_sources", [])
+    }
+    rows: list[dict[str, Any]] = []
+    for (show_id, platform, profile_url), record in sorted(evidence.items()):
+        is_verified = (show_id, platform, profile_url) in verified
+        rows.append(
+            {
+                "show_id": show_id,
+                "season_ids": "|".join(sorted(record["seasons"])),
+                "platform": platform,
+                "account_handle": profile_url.rsplit("/", 1)[-1].lstrip("@"),
+                "account_url": profile_url,
+                "authority_class": "SHOW_OWNER" if is_verified else "SOURCE_LINKED_CANDIDATE",
+                "authority_status": "VERIFIED" if is_verified else "NEEDS_REVIEW",
+                "evidence_video_count": len(record["video_ids"]),
+                "official_evidence_video_count": len(record["official_video_ids"]),
+                "evidence_strength": (
+                    "HIGH"
+                    if len(record["official_video_ids"]) >= 3
+                    else "MEDIUM"
+                    if record["official_video_ids"]
+                    else "LOW"
+                ),
+                "evidence_receipt_count": len(record["receipt_ids"]),
+                "source_channel_ids": "|".join(sorted(record["source_channels"] - {""})),
+                "first_observed_at": record["first_observed_at"],
+                "last_observed_at": record["last_observed_at"],
+                "evidence_video_urls": "|".join(sorted(record["evidence_urls"] - {""})[:10]),
+            }
+        )
+    return rows
+
+
+def query_plan_rows(config: ProjectConfig) -> list[dict[str, Any]]:
+    defaults = config.derivative_search.get("defaults", {})
+    rows: list[dict[str, Any]] = []
+    for show_id, show in config.shows.items():
+        for role, pack in config.derivative_search.get("roles", {}).items():
+            terms = [str(term) for term in pack.get("terms", [])]
+            query_terms = " OR ".join(f'"{term}"' if " " in term else term for term in terms)
+            rows.append(
+                {
+                    "show_id": show_id,
+                    "show_name": show["name"],
+                    "content_role": role,
+                    "query": f'"{show["name"]}" ({query_terms})',
+                    "max_results": defaults.get("max_results_per_query", 30),
+                    "include_shorts": defaults.get("include_shorts", True),
+                    "include_livestreams": defaults.get("include_livestreams", True),
+                    "run_status": "NOT_RUN",
+                }
+            )
+    return rows
+
+
+def build_social_outputs(
+    raw_dir: Path, episode_registry: Path, output_dir: Path, config: ProjectConfig
+) -> dict[str, int]:
+    derivatives = derivative_rows(episode_registry)
+    accounts = social_account_rows(raw_dir, config)
+    query_plan = query_plan_rows(config)
+    _write_csv(output_dir / "derivative_content_registry.csv", DERIVATIVE_COLUMNS, derivatives)
+    registry_index = {
+        row.get("video_id", ""): row.get("snapshot_at", "") for row in _read_csv(episode_registry)
+    }
+    snapshots: list[dict[str, Any]] = []
+    for row in derivatives:
+        for metric_name in ("view_count", "like_count", "comment_count"):
+            value = row.get(metric_name)
+            if value in (None, ""):
+                continue
+            snapshots.append(
+                {
+                    "platform": row["platform"],
+                    "native_content_id": row["native_content_id"],
+                    "metric_name": metric_name,
+                    "metric_value_exact": int(value),
+                    "observed_at": registry_index.get(row["native_content_id"], ""),
+                    "metric_definition_version": "youtube_public_v1",
+                    "visibility": "PUBLIC",
+                    "receipt_id": row.get("actor_run_id", ""),
+                }
+            )
+    snapshot_columns = list(snapshots[0]) if snapshots else [
+        "platform",
+        "native_content_id",
+        "metric_name",
+        "metric_value_exact",
+        "observed_at",
+        "metric_definition_version",
+        "visibility",
+        "receipt_id",
+    ]
+    _write_csv(output_dir / "social_metric_snapshot.csv", snapshot_columns, snapshots)
+    account_columns = list(accounts[0]) if accounts else [
+        "show_id",
+        "season_ids",
+        "platform",
+        "account_handle",
+        "account_url",
+        "authority_class",
+        "authority_status",
+        "evidence_video_count",
+        "official_evidence_video_count",
+        "evidence_strength",
+        "evidence_receipt_count",
+        "source_channel_ids",
+        "first_observed_at",
+        "last_observed_at",
+        "evidence_video_urls",
+    ]
+    _write_csv(output_dir / "social_account_candidates.csv", account_columns, accounts)
+    _write_csv(
+        output_dir / "derivative_search_plan.csv",
+        list(query_plan[0]) if query_plan else [],
+        query_plan,
+    )
+    coverage = []
+    for platform, values in config.social.get("platforms", {}).items():
+        candidate_count = sum(1 for row in accounts if row["platform"] in platform)
+        availability = values.get("availability", "NOT_RUN")
+        coverage.append(
+            {
+                "platform": platform,
+                "availability": availability,
+                "discovery_modes": "|".join(values.get("discovery_modes", [])),
+                "public_metrics": "|".join(values.get("public_metrics", [])),
+                "owner_metrics": "|".join(values.get("owner_metrics", [])),
+                "credential_gate": values.get("credential_gate", ""),
+                "freshness_sla_days": values.get("freshness_sla_days", ""),
+                "source_linked_account_candidates": candidate_count,
+                "run_status": "PASS" if platform == "youtube" else availability,
+            }
+        )
+    _write_csv(
+        output_dir / "social_platform_coverage.csv",
+        list(coverage[0]) if coverage else [],
+        coverage,
+    )
+    return {
+        "derivative_candidates": len(derivatives),
+        "social_account_candidates": len(accounts),
+        "search_plan_rows": len(query_plan),
+        "metric_snapshots": len(snapshots),
+    }

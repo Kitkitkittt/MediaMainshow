@@ -14,6 +14,8 @@ class ProjectConfig:
     exclusions: tuple[str, ...]
     classifier: dict[str, Any]
     decisions: dict[str, dict[str, Any]]
+    social: dict[str, Any]
+    derivative_search: dict[str, Any]
 
 
 def load_yaml(path: Path) -> dict[str, Any]:
@@ -34,7 +36,17 @@ def load_project_config(root: Path) -> ProjectConfig:
     exclusions = load_yaml(config_dir / "exclusion_terms.yaml").get("hard_exclusions", [])
     classifier = load_yaml(config_dir / "classifier_rules.yaml")
     decisions = load_yaml(config_dir / "decisions.yaml").get("decisions", {})
-    return ProjectConfig(shows, channels, tuple(exclusions), classifier, decisions)
+    social = load_yaml(config_dir / "social_sources.yaml")
+    derivative_search = load_yaml(config_dir / "derivative_search_packs.yaml")
+    return ProjectConfig(
+        shows,
+        channels,
+        tuple(exclusions),
+        classifier,
+        decisions,
+        social,
+        derivative_search,
+    )
 
 
 def iter_seasons(config: ProjectConfig):

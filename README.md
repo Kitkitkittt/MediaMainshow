@@ -33,11 +33,19 @@ normal aggregation, so syndicated copies and re-uploads are not silently double-
 
 The deterministic classifier records a `video_type` before deciding whether a candidate is a
 canonical main episode. It distinguishes numbered episodes, source-bound finales, annual full
-shows, previews, recaps, backstage material, compilations, music/performance assets, clips,
-special extras, annual fragments, and non-main-channel mirrors. Season configuration can enable
+shows, Shorts, previews, highlights, recaps/reactions, uncut material, backstage/production
+diaries, dance practice, press/interviews, cast challenges, compilations, music/performance
+assets, livestreams, clips, special extras, annual fragments, and non-main-channel mirrors.
+Season configuration can enable
 bare episode numbers for rolling programs, while `config/decisions.yaml` records exceptional
 episode assignments and exclusions with an auditable reason. Ambiguous evidence remains in
 `manual_review.csv`; it is never silently promoted into aggregates.
 
 See [the architecture](docs/architecture.md) and the current
 [Apify actor selection](docs/research/apify-actor-selection.md).
+
+`build-all` also produces a separate derivative registry, a complete versioned YouTube search
+plan, source-linked social-account candidates, and an explicit platform-access coverage matrix.
+These outputs never enter canonical episode totals. See the
+[social/derivative update runbook](docs/social-derivative-update-runbook.md) and the
+[official-platform feasibility research](docs/research/multi-platform-source-feasibility.md).

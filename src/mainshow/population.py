@@ -12,6 +12,7 @@ from typing import Any
 from .config import ProjectConfig, find_source_season, iter_seasons, season_sources
 from .pipeline import build_pilot
 from .registry import write_config_registries
+from .social import build_social_outputs
 
 
 def _input_urls(payload: dict[str, Any]) -> tuple[str, ...]:
@@ -41,7 +42,7 @@ def raw_manifest_rows(raw_dir: Path, config: ProjectConfig) -> list[dict[str, An
         metadata = payload.get("run_metadata", {})
         rows.append(
             {
-                "raw_cache_path": path.as_posix(),
+                "raw_cache_path": path.relative_to(raw_dir.parents[1]).as_posix(),
                 "sha256": hashlib.sha256(path.read_bytes()).hexdigest(),
                 "actor_name": payload.get("actor_name", ""),
                 "actor_build_id": payload.get("actor_build_id", ""),
@@ -248,6 +249,7 @@ def build_all(raw_dir: Path, output_dir: Path, config: ProjectConfig) -> dict[st
         (output_dir / "qc_report.md").write_text(
             "\n".join(report).rstrip() + "\n", encoding="utf-8"
         )
+        build_social_outputs(raw_dir, output_dir / "episode_registry.csv", output_dir, config)
 
     return {
         "configured_seasons": len(status_rows),
