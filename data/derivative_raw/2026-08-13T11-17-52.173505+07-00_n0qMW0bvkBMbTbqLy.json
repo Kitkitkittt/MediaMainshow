@@ -1,0 +1,39 @@
+{
+  "actor_name": "streamers/youtube-scraper",
+  "actor_run_id": "n0qMW0bvkBMbTbqLy",
+  "dataset_id": "Ctolyt5lkz71PUefT",
+  "actor_build_id": "SUk0475fgtCh9zqMt",
+  "retrieved_at": "2026-08-13T11:17:52.173505+07:00",
+  "actor_input": {
+    "maxResults": 50,
+    "maxResultsShorts": 50,
+    "maxResultStreams": 50,
+    "startUrls": [
+      {
+        "url": "https://www.youtube.com/@VieChannelHTV2"
+      }
+    ],
+    "derivativeSourceId": "atsh_2025_viechannel_derivatives",
+    "sourceBindingUrl": "https://www.youtube.com/@VieChannelHTV2"
+  },
+  "run_metadata": {
+    "status": "SUCCEEDED",
+    "startedAt": "2026-08-13T04:17:38.127Z",
+    "finishedAt": "2026-08-13T04:17:49.531Z",
+    "usageTotalUsd": 0.004,
+    "chargedEventCounts": {
+      "result": 1,
+      "date-filter": 0,
+      "ai-video-description": 0,
+      "ai-video-summary": 0
+    }
+  },
+  "items": [
+    {
+      "url": "https://www.youtube.com/@VieChannelHTV2/about",
+      "error": "CHANNEL_DOES_NOT_EXIST",
+      "input": "https://www.youtube.com/@VieChannelHTV2",
+      "note": "Channel does not exist"
+    }
+  ]
+}

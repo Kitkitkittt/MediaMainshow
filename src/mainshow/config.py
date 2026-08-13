@@ -14,6 +14,8 @@ class ProjectConfig:
     exclusions: tuple[str, ...]
     classifier: dict[str, Any]
     decisions: dict[str, dict[str, Any]]
+    social: dict[str, Any]
+    derivative_search: dict[str, Any]
 
 
 def load_yaml(path: Path) -> dict[str, Any]:
@@ -34,7 +36,17 @@ def load_project_config(root: Path) -> ProjectConfig:
     exclusions = load_yaml(config_dir / "exclusion_terms.yaml").get("hard_exclusions", [])
     classifier = load_yaml(config_dir / "classifier_rules.yaml")
     decisions = load_yaml(config_dir / "decisions.yaml").get("decisions", {})
-    return ProjectConfig(shows, channels, tuple(exclusions), classifier, decisions)
+    social = load_yaml(config_dir / "social_sources.yaml")
+    derivative_search = load_yaml(config_dir / "derivative_search_packs.yaml")
+    return ProjectConfig(
+        shows,
+        channels,
+        tuple(exclusions),
+        classifier,
+        decisions,
+        social,
+        derivative_search,
+    )
 
 
 def iter_seasons(config: ProjectConfig):
@@ -80,3 +92,43 @@ def find_source_season(config: ProjectConfig, url: str):
             if source.get("url") == url:
                 return show_id, show, season, source
     return None
+
+
+def find_derivative_source(config: ProjectConfig, source_id: str) -> dict[str, Any]:
+    for source in derivative_sources(config):
+        if source.get("source_id") == source_id:
+            return source
+    raise KeyError(f"Unknown derivative source_id={source_id}")
+
+
+def derivative_sources(config: ProjectConfig) -> list[dict[str, Any]]:
+    """Return reviewed sources plus one bounded official-channel source per show/channel."""
+    explicit = [dict(source) for source in config.social.get("derivative_sources", [])]
+    explicit_show_ids = {str(source.get("show_id", "")) for source in explicit}
+    generated: list[dict[str, Any]] = []
+    for show_id, show in config.shows.items():
+        if show_id in explicit_show_ids:
+            continue
+        channel_ids = [str(value) for value in show.get("primary_youtube_channel_ids", [])]
+        if not channel_ids:
+            for season in show.get("seasons", []):
+                for source in season_sources(season):
+                    channel_id = str(source.get("channel_id", ""))
+                    if channel_id and channel_id not in channel_ids:
+                        channel_ids.append(channel_id)
+        for channel_id in channel_ids:
+            generated.append(
+                {
+                    "source_id": f"youtube_{show_id.lower()}_{channel_id[:8]}_derivatives",
+                    "show_id": show_id,
+                    "source_url": f"https://www.youtube.com/channel/{channel_id}",
+                    "queries": [str(show["name"])],
+                    "channel_id": channel_id,
+                    "actor": "streamers/youtube-scraper",
+                    "max_results": 50,
+                    "include_shorts": True,
+                    "include_livestreams": True,
+                    "generated_from": "verified_show_channel",
+                }
+            )
+    return explicit + generated

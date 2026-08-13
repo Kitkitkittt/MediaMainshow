@@ -1,0 +1,34 @@
+schema_version: 1
+defaults:
+  max_results_per_query: 30
+  include_shorts: true
+  include_livestreams: true
+
+# Terms are normalized, versioned inputs. Add terms here; do not hard-code them in adapters.
+roles:
+  CLIP:
+    terms: [clip, trich doan, phan thi, man trinh dien]
+  HIGHLIGHT:
+    terms: [highlight, khoanh khac, best moment]
+  TEASER_PREVIEW:
+    terms: [teaser, trailer, preview, xem truoc, hong tap, don xem]
+  RECAP_COMMENTARY:
+    terms: [recap, nhin lai, reaction, binh luan, phan tich]
+  PRODUCTION_ACCESS:
+    terms: [hau truong, behind the scenes, backstage, making of, rehearsal, nhat ky]
+  INTERVIEW_PRESS:
+    terms: [interview, phong van, hop bao, le ra mat]
+  MUSIC_PERFORMANCE:
+    terms: [official mv, music video, lyric video, ost, performance, live stage, dance practice]
+  EXTENDED_DELETED:
+    terms: [uncut, extended, khong len song, deleted scene]
+  CAST_CHALLENGE:
+    terms: [cast, thu thach, challenge, game, vlog]
+  SHORT_FORM:
+    terms: [shorts, reel, short video]
+  LIVESTREAM:
+    terms: [livestream, live stream, live full]
+  COMPILATION:
+    terms: [compilation, tong hop, tuyen tap, top khoanh khac]
+  COMMUNITY_TRANSFORMATIVE:
+    terms: [remix, duet, stitch, meme, fan edit, fancam, parody, cover]

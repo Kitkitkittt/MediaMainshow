@@ -1,0 +1,56 @@
+{
+  "actor_name": "apify/instagram-scraper",
+  "actor_run_id": "u3kudaSrclezlSCWV",
+  "dataset_id": "1QG37xf2sF1t6Hy3z",
+  "actor_build_id": "8PNbawDpFbheLXlAb",
+  "retrieved_at": "2026-08-13T13:30:50.873510+07:00",
+  "actor_input": {
+    "directUrls": [
+      "https://www.instagram.com/viechannelhtv2/"
+    ],
+    "resultsType": "posts",
+    "resultsLimit": 10,
+    "socialPlatform": "instagram",
+    "socialSourceId": "instagram_viechannelhtv2_qualification",
+    "sourceBindingUrl": "https://www.instagram.com/viechannelhtv2",
+    "showIds": [
+      "ATSH",
+      "EXSH",
+      "RAPVIET",
+      "TMSVN",
+      "SONG"
+    ],
+    "authorityStatus": "NEEDS_REVIEW",
+    "runPurpose": "schema_and_authority_qualification"
+  },
+  "run_metadata": {
+    "status": "SUCCEEDED",
+    "startedAt": "2026-08-13T06:29:56.959Z",
+    "finishedAt": "2026-08-13T06:30:49.478Z",
+    "usageTotalUsd": 0,
+    "chargedEventCounts": {
+      "result": 0
+    }
+  },
+  "items": [
+    {
+      "url": "https://www.instagram.com/viechannelhtv2/",
+      "inputUrl": "https://www.instagram.com/viechannelhtv2/",
+      "requestErrorMessages": [
+        "Request blocked, retrying it again with different session",
+        "Request blocked, retrying it again with different session",
+        "Request blocked, retrying it again with different session",
+        "Request blocked, retrying it again with different session",
+        "Request blocked, retrying it again with different session",
+        "Request blocked, retrying it again with different session",
+        "Request blocked, retrying it again with different session",
+        "Request blocked, retrying it again with different session",
+        "Request blocked, retrying it again with different session",
+        "Request blocked, retrying it again with different session",
+        "Request blocked, retrying it again with different session"
+      ],
+      "error": "no_items",
+      "errorDescription": "Empty or private data for provided input"
+    }
+  ]
+}

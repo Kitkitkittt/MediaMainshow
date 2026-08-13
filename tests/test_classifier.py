@@ -294,3 +294,37 @@ def test_verified_playlist_does_not_override_wrong_show_or_missing_episode() -> 
     )
     assert wrong_show.decision == "EXCLUDE"
     assert promo.decision == "EXCLUDE"
+
+
+def test_expanded_derivative_types_are_hard_exclusions() -> None:
+    expanded = {
+        **RULES,
+        "video_types": {
+            "hard": {
+                **RULES["video_types"]["hard"],
+                "highlight": [r"\bhighlight\b"],
+                "uncut_extended": [r"\buncut\b"],
+                "reaction_commentary": [r"\breaction\b"],
+                "dance_practice": [r"\bdance practice\b"],
+                "short_form": [r"\bshorts?\b"],
+            },
+            "soft": RULES["video_types"]["soft"],
+        },
+    }
+    cases = {
+        "Anh Trai Say Hi HIGHLIGHT Táº­p 6": "highlight",
+        "Anh Trai Say Hi UNCUT vòng loại": "uncut_extended",
+        "Anh Trai Say Hi REACTION": "reaction_commentary",
+        "Anh Trai Say Hi DANCE PRACTICE": "dance_practice",
+        "Anh Trai Say Hi #shorts": "short_form",
+    }
+    for title, expected in cases.items():
+        result = classify_video(
+            candidate(title, duration=600),
+            SHOW,
+            EXCLUSIONS,
+            expanded,
+            official_channel=True,
+        )
+        assert result.decision == "EXCLUDE"
+        assert result.video_type == expected

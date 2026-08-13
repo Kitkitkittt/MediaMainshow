@@ -1,0 +1,90 @@
+schema_version: 1
+docs_reviewed_at: 2026-08-13
+
+# Availability is a governed capability state, not a claim that credentials exist.
+platforms:
+  youtube:
+    availability: SUPPORTED_NOW
+    discovery_modes: [official_channel, playlist, search, shorts, livestream]
+    public_metrics: [view_count, like_count, comment_count]
+    credential_gate: APIFY_API_TOKEN
+    freshness_sla_days: 14
+  x:
+    availability: CONNECTOR_READY
+    discovery_modes: [recent_search, full_archive_search, account_timeline]
+    public_metrics: [impression_count, like_count, reply_count, repost_count, quote_count, media_view_count]
+    credential_gate: X_DEVELOPER_APP_AND_PREPAID_CAP
+    freshness_sla_days: 14
+  threads:
+    availability: CONNECTOR_READY
+    discovery_modes: [keyword_search, profile_lookup, profile_posts]
+    public_metrics: []
+    owner_metrics: [views, likes, replies, reposts, quotes, shares]
+    credential_gate: META_APP_THREADS_OAUTH_AND_SCOPES
+    freshness_sla_days: 14
+  instagram:
+    availability: CONNECTOR_READY
+    discovery_modes: [authorized_professional_account, hashtag_media]
+    public_metrics: []
+    owner_metrics: [views, plays, reach, likes, comments, shares, saves, watch_time]
+    credential_gate: META_APP_PROFESSIONAL_ACCOUNT_AND_REVIEW
+    freshness_sla_days: 14
+  facebook_owned_pages:
+    availability: CONNECTOR_READY
+    discovery_modes: [authorized_page_feed, authorized_page_reels]
+    public_metrics: []
+    credential_gate: META_APP_PAGE_TOKEN_AND_PERMISSIONS
+    freshness_sla_days: 14
+  facebook_public_pages:
+    availability: ACCESS_NOT_APPROVED
+    discovery_modes: [public_page_feed]
+    public_metrics: []
+    credential_gate: PAGE_PUBLIC_CONTENT_ACCESS
+    freshness_sla_days: 14
+  tiktok_display:
+    availability: CONNECTOR_READY
+    discovery_modes: [authorized_creator_feed]
+    public_metrics: [view_count, like_count, comment_count, share_count]
+    credential_gate: TIKTOK_APP_VIDEO_LIST_AND_CREATOR_CONSENT
+    freshness_sla_days: 14
+  tiktok_research:
+    availability: ACCESS_NOT_APPROVED
+    discovery_modes: [public_video_query]
+    public_metrics: [view_count, like_count, comment_count, share_count, favorite_count]
+    credential_gate: QUALIFYING_NON_COMMERCIAL_RESEARCH_APPROVAL
+    freshness_sla_days: 14
+  zalo:
+    availability: NO_SUPPORTED_API
+    discovery_modes: []
+    public_metrics: []
+    credential_gate: DOCUMENTED_PARTNER_FEED_REQUIRED
+    freshness_sla_days: 30
+  vieon:
+    availability: NO_SUPPORTED_API
+    discovery_modes: [manual_catalog_corroboration]
+    public_metrics: []
+    credential_gate: DOCUMENTED_PARTNER_FEED_REQUIRED
+    freshness_sla_days: 30
+  fpt_play:
+    availability: NO_SUPPORTED_API
+    discovery_modes: []
+    public_metrics: []
+    credential_gate: DOCUMENTED_PARTNER_FEED_REQUIRED
+    freshness_sla_days: 30
+
+# Promote a candidate here only after its ownership evidence has been reviewed.
+verified_sources: []
+
+# Each discovery source is bound to a reviewed YouTube channel before it can be run.
+# Receipts live under data/derivative_raw and never enter canonical episode population.
+derivative_sources:
+  - source_id: atsh_2025_viechannel_derivatives
+    show_id: ATSH
+    season_id: ATSH_2025
+    source_url: https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw/search?query=Anh%20Trai%20Say%20Hi%202025
+    queries: ['Anh Trai Say Hi 2025']
+    channel_id: UCkna2OcuN1E6u5I8GVtdkOw
+    actor: streamers/youtube-scraper
+    max_results: 50
+    include_shorts: true
+    include_livestreams: true

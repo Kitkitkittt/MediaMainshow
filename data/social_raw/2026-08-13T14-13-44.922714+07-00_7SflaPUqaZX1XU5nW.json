@@ -1,0 +1,37 @@
+{
+  "actor_name": "sovanza.inc/instagram-reel-scraper",
+  "actor_run_id": "7SflaPUqaZX1XU5nW",
+  "dataset_id": "IeNYmzoFuYFSgBBHI",
+  "actor_build_id": "mlZ7XWYKtHEYYq7LP",
+  "retrieved_at": "2026-08-13T14:13:44.922714+07:00",
+  "actor_input": {
+    "usernames": [
+      "https://www.instagram.com/viechannelhtv2/"
+    ],
+    "resultsLimit": 30,
+    "downloadVideo": false,
+    "includeComments": false,
+    "includeTranscript": false,
+    "skipPreflightAuthCheck": false,
+    "useOfficialApifyActor": true,
+    "socialPlatform": "instagram",
+    "socialSourceId": "instagram_reels_depth_qualification",
+    "sourceBindingUrl": "https://www.instagram.com/viechannelhtv2/",
+    "authorityStatus": "NEEDS_REVIEW",
+    "runPurpose": "depth_schema_qualification"
+  },
+  "run_metadata": {
+    "status": "ABORTED",
+    "startedAt": "2026-08-13T07:10:38.356Z",
+    "finishedAt": "2026-08-13T07:13:40.194Z",
+    "usageTotalUsd": 0.010940898086489903,
+    "chargedEventCounts": {
+      "apify-actor-start": 1,
+      "apify-default-dataset-item": 0,
+      "shares-count": 0,
+      "transcript": 0,
+      "video-download": 0
+    }
+  },
+  "items": []
+}

@@ -1,0 +1,1083 @@
+{
+  "actor_name": "clockworks/tiktok-profile-scraper",
+  "actor_run_id": "ApnU9DSuFqqlqstBI",
+  "dataset_id": "xsQ4YE08j6F65BgAH",
+  "actor_build_id": "DaWYf5aAQAYhLRM7r",
+  "retrieved_at": "2026-08-13T13:33:22.827282+07:00",
+  "actor_input": {
+    "profiles": [
+      "viechannel.show"
+    ],
+    "profileScrapeSections": [
+      "videos"
+    ],
+    "profileSorting": "latest",
+    "resultsPerPage": 10,
+    "maxFollowersPerProfile": 0,
+    "maxFollowingPerProfile": 0,
+    "shouldDownloadVideos": false,
+    "shouldDownloadCovers": false,
+    "shouldDownloadSubtitles": false,
+    "socialPlatform": "tiktok",
+    "socialSourceId": "tiktok_viechannel_show_profile_qualification",
+    "sourceBindingUrl": "https://www.tiktok.com/@viechannel.show",
+    "showIds": [
+      "ATSH",
+      "THSH",
+      "SONG"
+    ],
+    "authorityStatus": "NEEDS_REVIEW",
+    "runPurpose": "profile_and_schema_qualification"
+  },
+  "run_metadata": {
+    "status": "SUCCEEDED",
+    "startedAt": "2026-08-13T06:33:01.835Z",
+    "finishedAt": "2026-08-13T06:33:20.069Z",
+    "usageTotalUsd": 0.03,
+    "chargedEventCounts": {
+      "result": 10,
+      "filter-applied": 0,
+      "popularity-filter-applied": 0,
+      "follower-dataset-item": 0,
+      "comment-dataset-item": 0,
+      "video-download": 0,
+      "transcription-minute": 0
+    }
+  },
+  "items": [
+    {
+      "id": "7671635414368865556",
+      "text": "“Sít rịt” chấn động cỡ này chúng tôi cũng không lường trước được =))#DatVietVAC #TinhHaSayHi #QUANGHUNGMASTERD  #WRENEVANS #CODYNAMVO #CONGB #SECRET",
+      "textLanguage": "vi",
+      "createTime": 1786200900,
+      "createTimeISO": "2026-08-08T14:55:00.000Z",
+      "isAd": false,
+      "authorMeta": {
+        "id": "7035877518122419201",
+        "name": "viechannel.show",
+        "profileUrl": "https://www.tiktok.com/@viechannel.show",
+        "nickName": "Vie Channel - Show",
+        "verified": true,
+        "signature": "TikTok CHÍNH THỨC của TINH HÀ \"SAY HI\"\nbản quyền thuộc DatVietVAC",
+        "bioLink": null,
+        "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ed9e54eee6dae0ec15744c1894850bc6~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=20b42bd6&x-expires=1786773600&x-signature=IjnsiAwC3Q%2FJ4G71qLsPkhnPD3Q%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+        "commerceUserInfo": {
+          "commerceUser": true,
+          "downLoadLink": {
+            "android": "",
+            "ios": ""
+          },
+          "category": "Media & Entertainment",
+          "categoryButton": false
+        },
+        "privateAccount": false,
+        "roomId": "",
+        "ttSeller": false,
+        "createTime": 1638168363,
+        "following": 13,
+        "friends": 7,
+        "fans": 1500000,
+        "heart": 180300000,
+        "video": 5142,
+        "digg": 0,
+        "followDatasetUrl": null,
+        "originalAvatarUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ed9e54eee6dae0ec15744c1894850bc6~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=20b42bd6&x-expires=1786773600&x-signature=IjnsiAwC3Q%2FJ4G71qLsPkhnPD3Q%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5"
+      },
+      "musicMeta": {
+        "musicName": "original sound - Vie Channel - Show",
+        "musicAuthor": "Vie Channel - Show",
+        "musicOriginal": true,
+        "playUrl": "https://v16m.tiktokcdn-us.com/3c38dadc9780064caca046a23797958a/6a7db9b0/video/tos/alisg/tos-alisg-v-27dcd7/okIv41LKDA4i3wEq3AMBJiiAfcBDmOKjjv2y8o/?a=1233&bti=ODszNWYuMDE6&&bt=125&ft=GSDrKInz7Thy3Y7GXq8Zmo&mime_type=audio_mpeg&rc=NjU7ZzU6OGgzZGVkNjRnO0BpMzkzdHE5cmxrPDMzODU8NEA1L14zY14tNS4xMDM1NTYzYSNva2RlMmRrc29hLS1kMS1zcw%3D%3D&vvpl=1&l=2026081306330941435AFB621AE90F9920&btag=e000d0000",
+        "coverMediumUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ed9e54eee6dae0ec15744c1894850bc6~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=20b42bd6&x-expires=1786773600&x-signature=IjnsiAwC3Q%2FJ4G71qLsPkhnPD3Q%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+        "originalCoverMediumUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ed9e54eee6dae0ec15744c1894850bc6~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=20b42bd6&x-expires=1786773600&x-signature=IjnsiAwC3Q%2FJ4G71qLsPkhnPD3Q%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+        "musicId": "7671635461609966337"
+      },
+      "webVideoUrl": "https://www.tiktok.com/@viechannel.show/video/7671635414368865556",
+      "videoMeta": {
+        "height": 1024,
+        "width": 576,
+        "duration": 43,
+        "coverUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/osDsAUNFoLXIEpLrSDgAfmASvqAeop5ZAH7QeG~tplv-tiktokx-origin.image?dr=9636&x-expires=1786773600&x-signature=RW1ThRUK%2BChW17kfsZLYpYGbU%2FI%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+        "definition": "540p",
+        "format": "mp4",
+        "subtitleLinks": [
+          {
+            "language": "vie-VN",
+            "downloadLink": "https://v16m-webapp.tiktokcdn-us.com/b4db7b6e0213257b2a5228579a587db8/6a800850/video/tos/alisg/tos-alisg-pv-0037/8f153d2a197e4e40841883f4bc013b67/?a=1988&bti=ODszNWYuMDE6&&bt=17352&ft=4KLMeMzm8Zmo0vMKma4jV7~SdpWrKsd.&mime_type=video_mp4&rc=Mzk4Z3U5cnI5PDMzODgzNUBpMzk4Z3U5cnI5PDMzODgzNUAxZ2MuMmRjaW9hLS1kLzZzYSMxZ2MuMmRjaW9hLS1kLzZzcw%3D%3D&l=2026081306330941435AFB621AE90F9920&btag=e00050000",
+            "source": "ASR",
+            "sourceUnabbreviated": "automatic speech recognition",
+            "version": "1:whisper_lid",
+            "tiktokLink": "https://v16m-webapp.tiktokcdn-us.com/b4db7b6e0213257b2a5228579a587db8/6a800850/video/tos/alisg/tos-alisg-pv-0037/8f153d2a197e4e40841883f4bc013b67/?a=1988&bti=ODszNWYuMDE6&&bt=17352&ft=4KLMeMzm8Zmo0vMKma4jV7~SdpWrKsd.&mime_type=video_mp4&rc=Mzk4Z3U5cnI5PDMzODgzNUBpMzk4Z3U5cnI5PDMzODgzNUAxZ2MuMmRjaW9hLS1kLzZzYSMxZ2MuMmRjaW9hLS1kLzZzcw%3D%3D&l=2026081306330941435AFB621AE90F9920&btag=e00050000"
+          },
+          {
+            "language": "eng-US",
+            "downloadLink": "https://v16m-webapp.tiktokcdn-us.com/48ef1bb45990d0b9026625bce64ba247/6a800850/video/tos/alisg/tos-alisg-pv-0037/e81666a153be40dead1088153b4cbb65/?a=1988&bti=ODszNWYuMDE6&&bt=17352&ft=4KLMeMzm8Zmo0vMKma4jV7~SdpWrKsd.&mime_type=video_mp4&rc=Mzk4Z3U5cnI5PDMzODgzNUBpMzk4Z3U5cnI5PDMzODgzNUAxZ2MuMmRjaW9hLS1kLzZzYSMxZ2MuMmRjaW9hLS1kLzZzcw%3D%3D&l=2026081306330941435AFB621AE90F9920&btag=e00050000",
+            "source": "MT",
+            "sourceUnabbreviated": "machine translation",
+            "version": "4",
+            "tiktokLink": "https://v16m-webapp.tiktokcdn-us.com/48ef1bb45990d0b9026625bce64ba247/6a800850/video/tos/alisg/tos-alisg-pv-0037/e81666a153be40dead1088153b4cbb65/?a=1988&bti=ODszNWYuMDE6&&bt=17352&ft=4KLMeMzm8Zmo0vMKma4jV7~SdpWrKsd.&mime_type=video_mp4&rc=Mzk4Z3U5cnI5PDMzODgzNUBpMzk4Z3U5cnI5PDMzODgzNUAxZ2MuMmRjaW9hLS1kLzZzYSMxZ2MuMmRjaW9hLS1kLzZzcw%3D%3D&l=2026081306330941435AFB621AE90F9920&btag=e00050000"
+          }
+        ],
+        "transcriptionLink": null,
+        "aiVideoDescription": null,
+        "aiVideoSummary": null,
+        "originalCoverUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/osDsAUNFoLXIEpLrSDgAfmASvqAeop5ZAH7QeG~tplv-tiktokx-origin.image?dr=9636&x-expires=1786773600&x-signature=RW1ThRUK%2BChW17kfsZLYpYGbU%2FI%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+      },
+      "diggCount": 281500,
+      "shareCount": 46400,
+      "playCount": 3300000,
+      "collectCount": 15225,
+      "commentCount": 3010,
+      "repostCount": 0,
+      "mentions": [],
+      "detailedMentions": [],
+      "hashtags": [
+        {
+          "name": "datvietvac"
+        },
+        {
+          "name": "tinhhasayhi"
+        },
+        {
+          "name": "quanghungmasterd"
+        },
+        {
+          "name": "wrenevans"
+        },
+        {
+          "name": "codynamvo"
+        },
+        {
+          "name": "congb"
+        },
+        {
+          "name": "secret"
+        }
+      ],
+      "effectStickers": [],
+      "isSlideshow": false,
+      "isPinned": true,
+      "isSponsored": false,
+      "shortDramaSeriesInfo": null,
+      "mediaUrls": [],
+      "input": "viechannel.show",
+      "fromProfileSection": "videos",
+      "commentsDatasetUrl": null
+    },
+    {
+      "id": "7671889148285963540",
+      "text": "+1 bản nhạc trên xe đò về quê ăn Tết 2027\n#DatVietVAC #TinhHaSayHi #SECRET #QUANGHUNGMASTERD #CODYNAMVO #CONGB #WRENEVANS",
+      "textLanguage": "vi",
+      "createTime": 1786252500,
+      "createTimeISO": "2026-08-09T05:15:00.000Z",
+      "isAd": false,
+      "authorMeta": {
+        "id": "7035877518122419201",
+        "name": "viechannel.show",
+        "profileUrl": "https://www.tiktok.com/@viechannel.show",
+        "nickName": "Vie Channel - Show",
+        "verified": true,
+        "signature": "TikTok CHÍNH THỨC của TINH HÀ \"SAY HI\"\nbản quyền thuộc DatVietVAC",
+        "bioLink": null,
+        "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ed9e54eee6dae0ec15744c1894850bc6~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=20b42bd6&x-expires=1786773600&x-signature=IjnsiAwC3Q%2FJ4G71qLsPkhnPD3Q%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+        "commerceUserInfo": {
+          "commerceUser": true,
+          "downLoadLink": {
+            "android": "",
+            "ios": ""
+          },
+          "category": "Media & Entertainment",
+          "categoryButton": false
+        },
+        "privateAccount": false,
+        "roomId": "",
+        "ttSeller": false,
+        "createTime": 1638168363,
+        "following": 13,
+        "friends": 7,
+        "fans": 1500000,
+        "heart": 180300000,
+        "video": 5142,
+        "digg": 0,
+        "followDatasetUrl": null,
+        "originalAvatarUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ed9e54eee6dae0ec15744c1894850bc6~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=20b42bd6&x-expires=1786773600&x-signature=IjnsiAwC3Q%2FJ4G71qLsPkhnPD3Q%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5"
+      },
+      "musicMeta": {
+        "musicName": "original sound - Vie Channel - Show",
+        "musicAuthor": "Vie Channel - Show",
+        "musicOriginal": true,
+        "playUrl": "https://v16m.tiktokcdn-us.com/6836b798809129af091226960ca7422d/6a7db9a9/video/tos/alisg/tos-alisg-v-27dcd7/oYTCaFDoIXTf92eR9UYNEyg5oHIoM0aeDA50EA/?a=1233&bti=ODszNWYuMDE6&&bt=125&ft=GSDrKInz7Thy3Y7GXq8Zmo&mime_type=audio_mpeg&rc=NTw3ZWRkNDk4OmYzMzVpN0BpM25zZHU5cjczPDMzODU8NEA2MTFiYF5hXmMxLS1gMTFeYSNtaXMxMmRzYXBhLS1kMS1zcw%3D%3D&vvpl=1&l=2026081306330941435AFB621AE90F9920&btag=e000d0000",
+        "coverMediumUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ed9e54eee6dae0ec15744c1894850bc6~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=20b42bd6&x-expires=1786773600&x-signature=IjnsiAwC3Q%2FJ4G71qLsPkhnPD3Q%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+        "originalCoverMediumUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ed9e54eee6dae0ec15744c1894850bc6~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=20b42bd6&x-expires=1786773600&x-signature=IjnsiAwC3Q%2FJ4G71qLsPkhnPD3Q%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+        "musicId": "7671889199934524161"
+      },
+      "webVideoUrl": "https://www.tiktok.com/@viechannel.show/video/7671889148285963540",
+      "videoMeta": {
+        "height": 1024,
+        "width": 576,
+        "duration": 36,
+        "coverUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/osiDAUUI4aODvEBBAD4QAfEoFEArBAeeMaPOAE~tplv-tiktokx-origin.image?dr=9636&x-expires=1786773600&x-signature=Gswd0pwYVVUjf%2FC%2Fg29ineKbz0w%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+        "definition": "540p",
+        "format": "mp4",
+        "subtitleLinks": null,
+        "transcriptionLink": null,
+        "aiVideoDescription": null,
+        "aiVideoSummary": null,
+        "originalCoverUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/osiDAUUI4aODvEBBAD4QAfEoFEArBAeeMaPOAE~tplv-tiktokx-origin.image?dr=9636&x-expires=1786773600&x-signature=Gswd0pwYVVUjf%2FC%2Fg29ineKbz0w%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+      },
+      "diggCount": 184800,
+      "shareCount": 22600,
+      "playCount": 2100000,
+      "collectCount": 10094,
+      "commentCount": 1038,
+      "repostCount": 0,
+      "mentions": [],
+      "detailedMentions": [],
+      "hashtags": [
+        {
+          "name": "datvietvac"
+        },
+        {
+          "name": "tinhhasayhi"
+        },
+        {
+          "name": "secret"
+        },
+        {
+          "name": "quanghungmasterd"
+        },
+        {
+          "name": "codynamvo"
+        },
+        {
+          "name": "congb"
+        },
+        {
+          "name": "wrenevans"
+        }
+      ],
+      "effectStickers": [],
+      "isSlideshow": false,
+      "isPinned": true,
+      "isSponsored": false,
+      "shortDramaSeriesInfo": null,
+      "mediaUrls": [],
+      "input": "viechannel.show",
+      "fromProfileSection": "videos",
+      "commentsDatasetUrl": null
+    },
+    {
+      "id": "7671657041605250325",
+      "text": "Bí mật chính thức được bật mí cùng melody gây thương nhớ của team “Secret” 🎶💗 #DatVietVAC #TinhHaSayHi #QUANGHUNGMASTERD #WRENEVANS #CODYNAMVO #CONGB #SECRET",
+      "textLanguage": "vi",
+      "createTime": 1786200000,
+      "createTimeISO": "2026-08-08T14:40:00.000Z",
+      "isAd": false,
+      "authorMeta": {
+        "id": "7035877518122419201",
+        "name": "viechannel.show",
+        "profileUrl": "https://www.tiktok.com/@viechannel.show",
+        "nickName": "Vie Channel - Show",
+        "verified": true,
+        "signature": "TikTok CHÍNH THỨC của TINH HÀ \"SAY HI\"\nbản quyền thuộc DatVietVAC",
+        "bioLink": null,
+        "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ed9e54eee6dae0ec15744c1894850bc6~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=20b42bd6&x-expires=1786773600&x-signature=IjnsiAwC3Q%2FJ4G71qLsPkhnPD3Q%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+        "commerceUserInfo": {
+          "commerceUser": true,
+          "downLoadLink": {
+            "android": "",
+            "ios": ""
+          },
+          "category": "Media & Entertainment",
+          "categoryButton": false
+        },
+        "privateAccount": false,
+        "roomId": "",
+        "ttSeller": false,
+        "createTime": 1638168363,
+        "following": 13,
+        "friends": 7,
+        "fans": 1500000,
+        "heart": 180300000,
+        "video": 5142,
+        "digg": 0,
+        "followDatasetUrl": null,
+        "originalAvatarUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ed9e54eee6dae0ec15744c1894850bc6~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=20b42bd6&x-expires=1786773600&x-signature=IjnsiAwC3Q%2FJ4G71qLsPkhnPD3Q%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5"
+      },
+      "musicMeta": {
+        "musicName": "TOGETHER WE SHINE (Short #8)",
+        "musicAuthor": "TINH HÀ \"SAY HI\"",
+        "musicOriginal": false,
+        "musicAlbum": "TOGETHER WE SHINE",
+        "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oUS1pzHmQIf7AxeD85UaHGUCjYY3gv6eAFwL1z",
+        "coverMediumUrl": "https://p16-common.tiktokcdn-us.com/tos-alisg-v-2774/okPLjraYpJAzWYUA7sBMkVKrSiAAkByiEEHAl~tplv-tiktokx-cropcenter:200:200.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=81f88b70&idc=useast5",
+        "originalCoverMediumUrl": "https://p16-common.tiktokcdn-us.com/tos-alisg-v-2774/okPLjraYpJAzWYUA7sBMkVKrSiAAkByiEEHAl~tplv-tiktokx-cropcenter:200:200.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=81f88b70&idc=useast5",
+        "musicId": "7658341472823691281"
+      },
+      "webVideoUrl": "https://www.tiktok.com/@viechannel.show/video/7671657041605250325",
+      "videoMeta": {
+        "height": 1024,
+        "width": 576,
+        "duration": 86,
+        "coverUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/ooPiaAAYB0iAAcB3AjlEIIdRAD60MoxBa4nnC~tplv-tiktokx-origin.image?dr=9636&x-expires=1786773600&x-signature=I98mWKcs43eWnPQHEjUxXVdouOY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+        "definition": "540p",
+        "format": "mp4",
+        "subtitleLinks": null,
+        "transcriptionLink": null,
+        "aiVideoDescription": null,
+        "aiVideoSummary": null,
+        "originalCoverUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/ooPiaAAYB0iAAcB3AjlEIIdRAD60MoxBa4nnC~tplv-tiktokx-origin.image?dr=9636&x-expires=1786773600&x-signature=I98mWKcs43eWnPQHEjUxXVdouOY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+      },
+      "diggCount": 86400,
+      "shareCount": 6136,
+      "playCount": 928200,
+      "collectCount": 4138,
+      "commentCount": 1092,
+      "repostCount": 0,
+      "mentions": [],
+      "detailedMentions": [],
+      "hashtags": [
+        {
+          "name": "datvietvac"
+        },
+        {
+          "name": "tinhhasayhi"
+        },
+        {
+          "name": "quanghungmasterd"
+        },
+        {
+          "name": "wrenevans"
+        },
+        {
+          "name": "codynamvo"
+        },
+        {
+          "name": "congb"
+        },
+        {
+          "name": "secret"
+        }
+      ],
+      "effectStickers": [],
+      "isSlideshow": false,
+      "isPinned": true,
+      "isSponsored": false,
+      "shortDramaSeriesInfo": null,
+      "mediaUrls": [],
+      "input": "viechannel.show",
+      "fromProfileSection": "videos",
+      "commentsDatasetUrl": null
+    },
+    {
+      "id": "7673149524910722324",
+      "text": "Anh Trai Cody Nam Võ bữa nay bật chế độ \"Var thẳng\" không trượt phát nào Liên Quân 1 luôn rồi\n#DatVietVAC #TinhHaSayHi",
+      "textLanguage": "vi",
+      "createTime": 1786546800,
+      "createTimeISO": "2026-08-12T15:00:00.000Z",
+      "isAd": false,
+      "authorMeta": {
+        "id": "7035877518122419201",
+        "name": "viechannel.show",
+        "profileUrl": "https://www.tiktok.com/@viechannel.show",
+        "nickName": "Vie Channel - Show",
+        "verified": true,
+        "signature": "TikTok CHÍNH THỨC của TINH HÀ \"SAY HI\"\nbản quyền thuộc DatVietVAC",
+        "bioLink": null,
+        "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ed9e54eee6dae0ec15744c1894850bc6~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=20b42bd6&x-expires=1786773600&x-signature=IjnsiAwC3Q%2FJ4G71qLsPkhnPD3Q%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+        "commerceUserInfo": {
+          "commerceUser": true,
+          "downLoadLink": {
+            "android": "",
+            "ios": ""
+          },
+          "category": "Media & Entertainment",
+          "categoryButton": false
+        },
+        "privateAccount": false,
+        "roomId": "",
+        "ttSeller": false,
+        "createTime": 1638168363,
+        "following": 13,
+        "friends": 7,
+        "fans": 1500000,
+        "heart": 180300000,
+        "video": 5142,
+        "digg": 0,
+        "followDatasetUrl": null,
+        "originalAvatarUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ed9e54eee6dae0ec15744c1894850bc6~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=20b42bd6&x-expires=1786773600&x-signature=IjnsiAwC3Q%2FJ4G71qLsPkhnPD3Q%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5"
+      },
+      "musicMeta": {
+        "musicName": "TOGETHER WE SHINE (Short #3)",
+        "musicAuthor": "TINH HÀ \"SAY HI\"",
+        "musicOriginal": false,
+        "musicAlbum": "TOGETHER WE SHINE",
+        "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/ogO6BWfDQQ20Z6qtZfDgKRx3OBNCJEzWFK7OYg",
+        "coverMediumUrl": "https://p16-common.tiktokcdn-us.com/tos-alisg-v-2774/o49UlADrEDCEABsPfaFAE6AFonLesACTnhezgO~tplv-tiktokx-cropcenter:200:200.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=81f88b70&idc=useast5",
+        "originalCoverMediumUrl": "https://p16-common.tiktokcdn-us.com/tos-alisg-v-2774/o49UlADrEDCEABsPfaFAE6AFonLesACTnhezgO~tplv-tiktokx-cropcenter:200:200.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=81f88b70&idc=useast5",
+        "musicId": "7658226706414569473"
+      },
+      "webVideoUrl": "https://www.tiktok.com/@viechannel.show/video/7673149524910722324",
+      "videoMeta": {
+        "height": 1024,
+        "width": 576,
+        "duration": 69,
+        "coverUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/okyI4CFfMGf48gL4iALDA4QItAH9ABfeSATTAf~tplv-tiktokx-origin.image?dr=9636&x-expires=1786773600&x-signature=%2BiuZzc8bQyeDUm8di4%2FbxdNEl5g%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+        "definition": "540p",
+        "format": "mp4",
+        "subtitleLinks": [
+          {
+            "language": "eng-US",
+            "downloadLink": "https://v16m-webapp.tiktokcdn-us.com/175a9c2805b3ac9eb7e804c2a04d261e/6a80086a/video/tos/alisg/tos-alisg-pv-0037/1386c3a933dd4a9eb16275c8081a9951/?a=1988&bti=ODszNWYuMDE6&&bt=4529&ft=4KLMeMzm8Zmo0vMKma4jV7~SdpWrKsd.&mime_type=video_mp4&rc=am92NnA5cnI7PDMzODgzNEBpam92NnA5cnI7PDMzODgzNEAtMjQuMmRjLnJhLS1kL2BzYSMtMjQuMmRjLnJhLS1kL2Bzcw%3D%3D&l=2026081306330941435AFB621AE90F9920&btag=e00048000",
+            "source": "MT",
+            "sourceUnabbreviated": "machine translation",
+            "version": "4",
+            "tiktokLink": "https://v16m-webapp.tiktokcdn-us.com/175a9c2805b3ac9eb7e804c2a04d261e/6a80086a/video/tos/alisg/tos-alisg-pv-0037/1386c3a933dd4a9eb16275c8081a9951/?a=1988&bti=ODszNWYuMDE6&&bt=4529&ft=4KLMeMzm8Zmo0vMKma4jV7~SdpWrKsd.&mime_type=video_mp4&rc=am92NnA5cnI7PDMzODgzNEBpam92NnA5cnI7PDMzODgzNEAtMjQuMmRjLnJhLS1kL2BzYSMtMjQuMmRjLnJhLS1kL2Bzcw%3D%3D&l=2026081306330941435AFB621AE90F9920&btag=e00048000"
+          },
+          {
+            "language": "vie-VN",
+            "downloadLink": "https://v16m-webapp.tiktokcdn-us.com/8b6652f902920f5e6ed64fbf92109db9/6a80086a/video/tos/alisg/tos-alisg-pv-0037/f5648ab7dfb04359b2451b8e4c4f7444/?a=1988&bti=ODszNWYuMDE6&&bt=4529&ft=4KLMeMzm8Zmo0vMKma4jV7~SdpWrKsd.&mime_type=video_mp4&rc=am92NnA5cnI7PDMzODgzNEBpam92NnA5cnI7PDMzODgzNEAtMjQuMmRjLnJhLS1kL2BzYSMtMjQuMmRjLnJhLS1kL2Bzcw%3D%3D&l=2026081306330941435AFB621AE90F9920&btag=e00048000",
+            "source": "ASR",
+            "sourceUnabbreviated": "automatic speech recognition",
+            "version": "1:whisper_lid",
+            "tiktokLink": "https://v16m-webapp.tiktokcdn-us.com/8b6652f902920f5e6ed64fbf92109db9/6a80086a/video/tos/alisg/tos-alisg-pv-0037/f5648ab7dfb04359b2451b8e4c4f7444/?a=1988&bti=ODszNWYuMDE6&&bt=4529&ft=4KLMeMzm8Zmo0vMKma4jV7~SdpWrKsd.&mime_type=video_mp4&rc=am92NnA5cnI7PDMzODgzNEBpam92NnA5cnI7PDMzODgzNEAtMjQuMmRjLnJhLS1kL2BzYSMtMjQuMmRjLnJhLS1kL2Bzcw%3D%3D&l=2026081306330941435AFB621AE90F9920&btag=e00048000"
+          }
+        ],
+        "transcriptionLink": null,
+        "aiVideoDescription": null,
+        "aiVideoSummary": null,
+        "originalCoverUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/okyI4CFfMGf48gL4iALDA4QItAH9ABfeSATTAf~tplv-tiktokx-origin.image?dr=9636&x-expires=1786773600&x-signature=%2BiuZzc8bQyeDUm8di4%2FbxdNEl5g%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+      },
+      "diggCount": 4306,
+      "shareCount": 80,
+      "playCount": 70200,
+      "collectCount": 168,
+      "commentCount": 33,
+      "repostCount": 0,
+      "mentions": [],
+      "detailedMentions": [],
+      "hashtags": [
+        {
+          "name": "datvietvac"
+        },
+        {
+          "name": "tinhhasayhi"
+        }
+      ],
+      "effectStickers": [],
+      "isSlideshow": false,
+      "isPinned": false,
+      "isSponsored": false,
+      "shortDramaSeriesInfo": null,
+      "mediaUrls": [],
+      "input": "viechannel.show",
+      "fromProfileSection": "videos",
+      "commentsDatasetUrl": null
+    },
+    {
+      "id": "7673148805474241813",
+      "text": "Mọi sự nỗ lực của Anh Trai CoolKid đều đã được đền đáp bằng những lời khen từ các thành viên Liên Quân 1\n#DatVietVAC #TinhHaSayHi",
+      "textLanguage": "vi",
+      "createTime": 1786545900,
+      "createTimeISO": "2026-08-12T14:45:00.000Z",
+      "isAd": false,
+      "authorMeta": {
+        "id": "7035877518122419201",
+        "name": "viechannel.show",
+        "profileUrl": "https://www.tiktok.com/@viechannel.show",
+        "nickName": "Vie Channel - Show",
+        "verified": true,
+        "signature": "TikTok CHÍNH THỨC của TINH HÀ \"SAY HI\"\nbản quyền thuộc DatVietVAC",
+        "bioLink": null,
+        "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ed9e54eee6dae0ec15744c1894850bc6~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=20b42bd6&x-expires=1786773600&x-signature=IjnsiAwC3Q%2FJ4G71qLsPkhnPD3Q%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+        "commerceUserInfo": {
+          "commerceUser": true,
+          "downLoadLink": {
+            "android": "",
+            "ios": ""
+          },
+          "category": "Media & Entertainment",
+          "categoryButton": false
+        },
+        "privateAccount": false,
+        "roomId": "",
+        "ttSeller": false,
+        "createTime": 1638168363,
+        "following": 13,
+        "friends": 7,
+        "fans": 1500000,
+        "heart": 180300000,
+        "video": 5142,
+        "digg": 0,
+        "followDatasetUrl": null,
+        "originalAvatarUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ed9e54eee6dae0ec15744c1894850bc6~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=20b42bd6&x-expires=1786773600&x-signature=IjnsiAwC3Q%2FJ4G71qLsPkhnPD3Q%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5"
+      },
+      "musicMeta": {
+        "musicName": "Original Sound",
+        "musicAuthor": "Unknown",
+        "musicOriginal": false,
+        "musicAlbum": "https://p9-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/o49UlADrEDCEABsPfaFAE6AFonLesACTnhezgO.jpeg",
+        "playUrl": "https://v16m.tiktokcdn-us.com/830a86078d00bc099ac5d84929df2bba/6a7db9b1/video/tos/alisg/tos-alisg-v-27dcd7/o0EVkTCUaf9Leiyh7wBByAAogFDfEU3A6EAiiS/?a=1233&bti=ODszNWYuMDE6&&bt=125&ft=GSDrKInz7Thy3Y7GXq8Zmo&mime_type=audio_mpeg&rc=MzhlcnU5cmRsPDMzODU8NEBpMzhlcnU5cmRsPDMzODU8NEBsMWtvMmRjcnJhLS1kMS1zYSNsMWtvMmRjcnJhLS1kMS1zcw%3D%3D&vvpl=1&l=2026081306330941435AFB621AE90F9920&btag=e000d0000",
+        "coverMediumUrl": "https://p16-common.tiktokcdn-us.com/musically-maliva-obj/c16000003f97583dac4~tplv-tiktokx-cropcenter:200:200.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=81f88b70&idc=useast5",
+        "originalCoverMediumUrl": "https://p16-common.tiktokcdn-us.com/musically-maliva-obj/c16000003f97583dac4~tplv-tiktokx-cropcenter:200:200.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=81f88b70&idc=useast5",
+        "musicId": "7673341189717232404"
+      },
+      "webVideoUrl": "https://www.tiktok.com/@viechannel.show/video/7673148805474241813",
+      "videoMeta": {
+        "height": 1024,
+        "width": 576,
+        "duration": 44,
+        "coverUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/oAETAfFfBFDADEHAIUEDrwfmQAxBA8Y9D44Mtr~tplv-tiktokx-origin.image?dr=9636&x-expires=1786773600&x-signature=oVOPUdsZ49JRKEKC0XK00z9Nq1E%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+        "definition": "540p",
+        "format": "mp4",
+        "subtitleLinks": null,
+        "transcriptionLink": null,
+        "aiVideoDescription": null,
+        "aiVideoSummary": null,
+        "originalCoverUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/oAETAfFfBFDADEHAIUEDrwfmQAxBA8Y9D44Mtr~tplv-tiktokx-origin.image?dr=9636&x-expires=1786773600&x-signature=oVOPUdsZ49JRKEKC0XK00z9Nq1E%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+      },
+      "diggCount": 4418,
+      "shareCount": 75,
+      "playCount": 52600,
+      "collectCount": 161,
+      "commentCount": 45,
+      "repostCount": 0,
+      "mentions": [],
+      "detailedMentions": [],
+      "hashtags": [
+        {
+          "name": "datvietvac"
+        },
+        {
+          "name": "tinhhasayhi"
+        }
+      ],
+      "effectStickers": [],
+      "isSlideshow": false,
+      "isPinned": false,
+      "isSponsored": false,
+      "shortDramaSeriesInfo": null,
+      "mediaUrls": [],
+      "input": "viechannel.show",
+      "fromProfileSection": "videos",
+      "commentsDatasetUrl": null
+    },
+    {
+      "id": "7673147855573732628",
+      "text": "Quan trọng vẫn là sự tự tin để vượt qua mọi thử thách, đó là điều mà Anh Trai Dương Domic gửi gắm vào bài hát \"Người Trên Dây\"\n#DatVietVAC #TinhHaSayHi",
+      "textLanguage": "vi",
+      "createTime": 1786545000,
+      "createTimeISO": "2026-08-12T14:30:00.000Z",
+      "isAd": false,
+      "authorMeta": {
+        "id": "7035877518122419201",
+        "name": "viechannel.show",
+        "profileUrl": "https://www.tiktok.com/@viechannel.show",
+        "nickName": "Vie Channel - Show",
+        "verified": true,
+        "signature": "TikTok CHÍNH THỨC của TINH HÀ \"SAY HI\"\nbản quyền thuộc DatVietVAC",
+        "bioLink": null,
+        "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ed9e54eee6dae0ec15744c1894850bc6~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=20b42bd6&x-expires=1786773600&x-signature=IjnsiAwC3Q%2FJ4G71qLsPkhnPD3Q%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+        "commerceUserInfo": {
+          "commerceUser": true,
+          "downLoadLink": {
+            "android": "",
+            "ios": ""
+          },
+          "category": "Media & Entertainment",
+          "categoryButton": false
+        },
+        "privateAccount": false,
+        "roomId": "",
+        "ttSeller": false,
+        "createTime": 1638168363,
+        "following": 13,
+        "friends": 7,
+        "fans": 1500000,
+        "heart": 180300000,
+        "video": 5142,
+        "digg": 0,
+        "followDatasetUrl": null,
+        "originalAvatarUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ed9e54eee6dae0ec15744c1894850bc6~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=20b42bd6&x-expires=1786773600&x-signature=IjnsiAwC3Q%2FJ4G71qLsPkhnPD3Q%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5"
+      },
+      "musicMeta": {
+        "musicName": "TOGETHER WE SHINE (Short #8)",
+        "musicAuthor": "TINH HÀ \"SAY HI\"",
+        "musicOriginal": false,
+        "musicAlbum": "TOGETHER WE SHINE",
+        "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oUS1pzHmQIf7AxeD85UaHGUCjYY3gv6eAFwL1z",
+        "coverMediumUrl": "https://p16-common.tiktokcdn-us.com/tos-alisg-v-2774/okPLjraYpJAzWYUA7sBMkVKrSiAAkByiEEHAl~tplv-tiktokx-cropcenter:200:200.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=81f88b70&idc=useast5",
+        "originalCoverMediumUrl": "https://p16-common.tiktokcdn-us.com/tos-alisg-v-2774/okPLjraYpJAzWYUA7sBMkVKrSiAAkByiEEHAl~tplv-tiktokx-cropcenter:200:200.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=81f88b70&idc=useast5",
+        "musicId": "7658341472823691281"
+      },
+      "webVideoUrl": "https://www.tiktok.com/@viechannel.show/video/7673147855573732628",
+      "videoMeta": {
+        "height": 1024,
+        "width": 576,
+        "duration": 52,
+        "coverUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/osMIEA4Er4dfx5DifAAHRQAfIAgUq2D7NkmDFE~tplv-tiktokx-origin.image?dr=9636&x-expires=1786773600&x-signature=58c4NbolmmqlJSUraY4aWei1oDY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+        "definition": "540p",
+        "format": "mp4",
+        "subtitleLinks": [
+          {
+            "language": "vie-VN",
+            "downloadLink": "https://v16m-webapp.tiktokcdn-us.com/7f9ed9a8e48ff6bcbeb2633c1e026965/6a800859/video/tos/alisg/tos-alisg-pv-0037/c13a6a6d84db41448e1cff419a31c77a/?a=1988&bti=ODszNWYuMDE6&&bt=2190&ft=4KLMeMzm8Zmo0vMKma4jV7~SdpWrKsd.&mime_type=video_mp4&rc=amdvaW45cnc6PDMzODgzNEBpamdvaW45cnc6PDMzODgzNEA2ZGVzMmQ0cnJhLS1kLzFzYSM2ZGVzMmQ0cnJhLS1kLzFzcw%3D%3D&l=2026081306330941435AFB621AE90F9920&btag=e00048000",
+            "source": "ASR",
+            "sourceUnabbreviated": "automatic speech recognition",
+            "version": "1:whisper_lid",
+            "tiktokLink": "https://v16m-webapp.tiktokcdn-us.com/7f9ed9a8e48ff6bcbeb2633c1e026965/6a800859/video/tos/alisg/tos-alisg-pv-0037/c13a6a6d84db41448e1cff419a31c77a/?a=1988&bti=ODszNWYuMDE6&&bt=2190&ft=4KLMeMzm8Zmo0vMKma4jV7~SdpWrKsd.&mime_type=video_mp4&rc=amdvaW45cnc6PDMzODgzNEBpamdvaW45cnc6PDMzODgzNEA2ZGVzMmQ0cnJhLS1kLzFzYSM2ZGVzMmQ0cnJhLS1kLzFzcw%3D%3D&l=2026081306330941435AFB621AE90F9920&btag=e00048000"
+          }
+        ],
+        "transcriptionLink": null,
+        "aiVideoDescription": null,
+        "aiVideoSummary": null,
+        "originalCoverUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/osMIEA4Er4dfx5DifAAHRQAfIAgUq2D7NkmDFE~tplv-tiktokx-origin.image?dr=9636&x-expires=1786773600&x-signature=58c4NbolmmqlJSUraY4aWei1oDY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+      },
+      "diggCount": 1411,
+      "shareCount": 30,
+      "playCount": 17600,
+      "collectCount": 60,
+      "commentCount": 21,
+      "repostCount": 0,
+      "mentions": [],
+      "detailedMentions": [],
+      "hashtags": [
+        {
+          "name": "datvietvac"
+        },
+        {
+          "name": "tinhhasayhi"
+        }
+      ],
+      "effectStickers": [],
+      "isSlideshow": false,
+      "isPinned": false,
+      "isSponsored": false,
+      "shortDramaSeriesInfo": null,
+      "mediaUrls": [],
+      "input": "viechannel.show",
+      "fromProfileSection": "videos",
+      "commentsDatasetUrl": null
+    },
+    {
+      "id": "7673141448476609812",
+      "text": "Pháp Kiều đã kiểm chứng Anh Hai Trấn Thành mua đồ ăn thì chỉ có chất lượng \n#DatVietVAC #TinhHaSayHi",
+      "textLanguage": "vi",
+      "createTime": 1786544100,
+      "createTimeISO": "2026-08-12T14:15:00.000Z",
+      "isAd": false,
+      "authorMeta": {
+        "id": "7035877518122419201",
+        "name": "viechannel.show",
+        "profileUrl": "https://www.tiktok.com/@viechannel.show",
+        "nickName": "Vie Channel - Show",
+        "verified": true,
+        "signature": "TikTok CHÍNH THỨC của TINH HÀ \"SAY HI\"\nbản quyền thuộc DatVietVAC",
+        "bioLink": null,
+        "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ed9e54eee6dae0ec15744c1894850bc6~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=20b42bd6&x-expires=1786773600&x-signature=IjnsiAwC3Q%2FJ4G71qLsPkhnPD3Q%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+        "commerceUserInfo": {
+          "commerceUser": true,
+          "downLoadLink": {
+            "android": "",
+            "ios": ""
+          },
+          "category": "Media & Entertainment",
+          "categoryButton": false
+        },
+        "privateAccount": false,
+        "roomId": "",
+        "ttSeller": false,
+        "createTime": 1638168363,
+        "following": 13,
+        "friends": 7,
+        "fans": 1500000,
+        "heart": 180300000,
+        "video": 5142,
+        "digg": 0,
+        "followDatasetUrl": null,
+        "originalAvatarUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ed9e54eee6dae0ec15744c1894850bc6~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=20b42bd6&x-expires=1786773600&x-signature=IjnsiAwC3Q%2FJ4G71qLsPkhnPD3Q%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5"
+      },
+      "musicMeta": {
+        "musicName": "TOGETHER WE SHINE (Short #3)",
+        "musicAuthor": "TINH HÀ \"SAY HI\"",
+        "musicOriginal": false,
+        "musicAlbum": "TOGETHER WE SHINE",
+        "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/ogO6BWfDQQ20Z6qtZfDgKRx3OBNCJEzWFK7OYg",
+        "coverMediumUrl": "https://p16-common.tiktokcdn-us.com/tos-alisg-v-2774/o49UlADrEDCEABsPfaFAE6AFonLesACTnhezgO~tplv-tiktokx-cropcenter:200:200.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=81f88b70&idc=useast5",
+        "originalCoverMediumUrl": "https://p16-common.tiktokcdn-us.com/tos-alisg-v-2774/o49UlADrEDCEABsPfaFAE6AFonLesACTnhezgO~tplv-tiktokx-cropcenter:200:200.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=81f88b70&idc=useast5",
+        "musicId": "7658226706414569473"
+      },
+      "webVideoUrl": "https://www.tiktok.com/@viechannel.show/video/7673141448476609812",
+      "videoMeta": {
+        "height": 1024,
+        "width": 576,
+        "duration": 79,
+        "coverUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/oAL4rHAHUISAEAD1eFfFdDhEQXDAAsAT7AfIHN~tplv-tiktokx-origin.image?dr=9636&x-expires=1786773600&x-signature=wCtU2H37fQdtc8m94Z9Z1wxZldo%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+        "definition": "540p",
+        "format": "mp4",
+        "subtitleLinks": [
+          {
+            "language": "eng-US",
+            "downloadLink": "https://v16m-webapp.tiktokcdn-us.com/297e7dea21c17d9a60a627e366258290/6a800874/video/tos/alisg/tos-alisg-pv-0037/21182753813e42cc8e15d7907fa24d27/?a=1988&bti=ODszNWYuMDE6&&bt=3048&ft=4KLMeMzm8Zmo0vMKma4jV7~SdpWrKsd.&mime_type=video_mp4&rc=amd3OXg5cmU6PDMzODgzNEBpamd3OXg5cmU6PDMzODgzNEBza2ZfMmRrZ3JhLS1kL2BzYSNza2ZfMmRrZ3JhLS1kL2Bzcw%3D%3D&l=2026081306330941435AFB621AE90F9920&btag=e00048000",
+            "source": "MT",
+            "sourceUnabbreviated": "machine translation",
+            "version": "4",
+            "tiktokLink": "https://v16m-webapp.tiktokcdn-us.com/297e7dea21c17d9a60a627e366258290/6a800874/video/tos/alisg/tos-alisg-pv-0037/21182753813e42cc8e15d7907fa24d27/?a=1988&bti=ODszNWYuMDE6&&bt=3048&ft=4KLMeMzm8Zmo0vMKma4jV7~SdpWrKsd.&mime_type=video_mp4&rc=amd3OXg5cmU6PDMzODgzNEBpamd3OXg5cmU6PDMzODgzNEBza2ZfMmRrZ3JhLS1kL2BzYSNza2ZfMmRrZ3JhLS1kL2Bzcw%3D%3D&l=2026081306330941435AFB621AE90F9920&btag=e00048000"
+          },
+          {
+            "language": "vie-VN",
+            "downloadLink": "https://v16m-webapp.tiktokcdn-us.com/063d3aeaae727c40f6c1698df4485a73/6a800874/video/tos/alisg/tos-alisg-pv-0037/857968c3492f45c794264089ae81d260/?a=1988&bti=ODszNWYuMDE6&&bt=3048&ft=4KLMeMzm8Zmo0vMKma4jV7~SdpWrKsd.&mime_type=video_mp4&rc=amd3OXg5cmU6PDMzODgzNEBpamd3OXg5cmU6PDMzODgzNEBza2ZfMmRrZ3JhLS1kL2BzYSNza2ZfMmRrZ3JhLS1kL2Bzcw%3D%3D&l=2026081306330941435AFB621AE90F9920&btag=e00048000",
+            "source": "ASR",
+            "sourceUnabbreviated": "automatic speech recognition",
+            "version": "1:whisper_lid",
+            "tiktokLink": "https://v16m-webapp.tiktokcdn-us.com/063d3aeaae727c40f6c1698df4485a73/6a800874/video/tos/alisg/tos-alisg-pv-0037/857968c3492f45c794264089ae81d260/?a=1988&bti=ODszNWYuMDE6&&bt=3048&ft=4KLMeMzm8Zmo0vMKma4jV7~SdpWrKsd.&mime_type=video_mp4&rc=amd3OXg5cmU6PDMzODgzNEBpamd3OXg5cmU6PDMzODgzNEBza2ZfMmRrZ3JhLS1kL2BzYSNza2ZfMmRrZ3JhLS1kL2Bzcw%3D%3D&l=2026081306330941435AFB621AE90F9920&btag=e00048000"
+          }
+        ],
+        "transcriptionLink": null,
+        "aiVideoDescription": null,
+        "aiVideoSummary": null,
+        "originalCoverUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/oAL4rHAHUISAEAD1eFfFdDhEQXDAAsAT7AfIHN~tplv-tiktokx-origin.image?dr=9636&x-expires=1786773600&x-signature=wCtU2H37fQdtc8m94Z9Z1wxZldo%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+      },
+      "diggCount": 15500,
+      "shareCount": 286,
+      "playCount": 162500,
+      "collectCount": 541,
+      "commentCount": 86,
+      "repostCount": 0,
+      "mentions": [],
+      "detailedMentions": [],
+      "hashtags": [
+        {
+          "name": "datvietvac"
+        },
+        {
+          "name": "tinhhasayhi"
+        }
+      ],
+      "effectStickers": [],
+      "isSlideshow": false,
+      "isPinned": false,
+      "isSponsored": false,
+      "shortDramaSeriesInfo": null,
+      "mediaUrls": [],
+      "input": "viechannel.show",
+      "fromProfileSection": "videos",
+      "commentsDatasetUrl": null
+    },
+    {
+      "id": "7673138036737232149",
+      "text": "Tuổi tác không thành vấn đề, \"Út Tư\" Vương Bình năng lượng vẫn còn rất trẻ nên phải về Team \"Người Trên Dây\" bên JSOL thôi\n#DatVietVAC #TinhHaSayHi",
+      "textLanguage": "vi",
+      "createTime": 1786543200,
+      "createTimeISO": "2026-08-12T14:00:00.000Z",
+      "isAd": false,
+      "authorMeta": {
+        "id": "7035877518122419201",
+        "name": "viechannel.show",
+        "profileUrl": "https://www.tiktok.com/@viechannel.show",
+        "nickName": "Vie Channel - Show",
+        "verified": true,
+        "signature": "TikTok CHÍNH THỨC của TINH HÀ \"SAY HI\"\nbản quyền thuộc DatVietVAC",
+        "bioLink": null,
+        "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ed9e54eee6dae0ec15744c1894850bc6~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=20b42bd6&x-expires=1786773600&x-signature=IjnsiAwC3Q%2FJ4G71qLsPkhnPD3Q%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+        "commerceUserInfo": {
+          "commerceUser": true,
+          "downLoadLink": {
+            "android": "",
+            "ios": ""
+          },
+          "category": "Media & Entertainment",
+          "categoryButton": false
+        },
+        "privateAccount": false,
+        "roomId": "",
+        "ttSeller": false,
+        "createTime": 1638168363,
+        "following": 13,
+        "friends": 7,
+        "fans": 1500000,
+        "heart": 180300000,
+        "video": 5142,
+        "digg": 0,
+        "followDatasetUrl": null,
+        "originalAvatarUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ed9e54eee6dae0ec15744c1894850bc6~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=20b42bd6&x-expires=1786773600&x-signature=IjnsiAwC3Q%2FJ4G71qLsPkhnPD3Q%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5"
+      },
+      "musicMeta": {
+        "musicName": "TOGETHER WE SHINE (Short #7)",
+        "musicAuthor": "TINH HÀ \"SAY HI\"",
+        "musicOriginal": false,
+        "musicAlbum": "TOGETHER WE SHINE",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/oI54EeOjAU2zFIoUU9MZRAFTadDHgef5COFrDA",
+        "coverMediumUrl": "https://p16-common.tiktokcdn-us.com/tos-alisg-v-2774/okPLjraYpJAzWYUA7sBMkVKrSiAAkByiEEHAl~tplv-tiktokx-cropcenter:200:200.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=81f88b70&idc=useast5",
+        "originalCoverMediumUrl": "https://p16-common.tiktokcdn-us.com/tos-alisg-v-2774/okPLjraYpJAzWYUA7sBMkVKrSiAAkByiEEHAl~tplv-tiktokx-cropcenter:200:200.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=81f88b70&idc=useast5",
+        "musicId": "7658341496948951056"
+      },
+      "webVideoUrl": "https://www.tiktok.com/@viechannel.show/video/7673138036737232149",
+      "videoMeta": {
+        "height": 1024,
+        "width": 576,
+        "duration": 68,
+        "coverUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/oAX0EoisA0U9Irk8gABAIqP0Kd1wdBBBAji9f6~tplv-tiktokx-origin.image?dr=9636&x-expires=1786773600&x-signature=SodPg3WJQFi5sSXVBIIK7ckgpGg%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+        "definition": "540p",
+        "format": "mp4",
+        "subtitleLinks": [
+          {
+            "language": "eng-US",
+            "downloadLink": "https://v16m-webapp.tiktokcdn-us.com/a40bb955135109c0993e8e04131f2b2e/6a800869/video/tos/alisg/tos-alisg-pv-0037/f3466c750989495e8e3bd91a0a5af276/?a=1988&bti=ODszNWYuMDE6&&bt=2909&ft=4KLMeMzm8Zmo0vMKma4jV7~SdpWrKsd.&mime_type=video_mp4&rc=amd1dHc5cjg6PDMzODgzNEBpamd1dHc5cjg6PDMzODgzNEBpZGdoMmRrYXJhLS1kLzFzYSNpZGdoMmRrYXJhLS1kLzFzcw%3D%3D&l=2026081306330941435AFB621AE90F9920&btag=e00050000",
+            "source": "MT",
+            "sourceUnabbreviated": "machine translation",
+            "version": "4",
+            "tiktokLink": "https://v16m-webapp.tiktokcdn-us.com/a40bb955135109c0993e8e04131f2b2e/6a800869/video/tos/alisg/tos-alisg-pv-0037/f3466c750989495e8e3bd91a0a5af276/?a=1988&bti=ODszNWYuMDE6&&bt=2909&ft=4KLMeMzm8Zmo0vMKma4jV7~SdpWrKsd.&mime_type=video_mp4&rc=amd1dHc5cjg6PDMzODgzNEBpamd1dHc5cjg6PDMzODgzNEBpZGdoMmRrYXJhLS1kLzFzYSNpZGdoMmRrYXJhLS1kLzFzcw%3D%3D&l=2026081306330941435AFB621AE90F9920&btag=e00050000"
+          },
+          {
+            "language": "vie-VN",
+            "downloadLink": "https://v16m-webapp.tiktokcdn-us.com/ac3a8925ac76d55387f542d84cb07ac0/6a800869/video/tos/alisg/tos-alisg-pv-0037/1f1e8d7c3e2e4fa58276bf30ed62062c/?a=1988&bti=ODszNWYuMDE6&&bt=2909&ft=4KLMeMzm8Zmo0vMKma4jV7~SdpWrKsd.&mime_type=video_mp4&rc=amd1dHc5cjg6PDMzODgzNEBpamd1dHc5cjg6PDMzODgzNEBpZGdoMmRrYXJhLS1kLzFzYSNpZGdoMmRrYXJhLS1kLzFzcw%3D%3D&l=2026081306330941435AFB621AE90F9920&btag=e00050000",
+            "source": "ASR",
+            "sourceUnabbreviated": "automatic speech recognition",
+            "version": "1:whisper_lid",
+            "tiktokLink": "https://v16m-webapp.tiktokcdn-us.com/ac3a8925ac76d55387f542d84cb07ac0/6a800869/video/tos/alisg/tos-alisg-pv-0037/1f1e8d7c3e2e4fa58276bf30ed62062c/?a=1988&bti=ODszNWYuMDE6&&bt=2909&ft=4KLMeMzm8Zmo0vMKma4jV7~SdpWrKsd.&mime_type=video_mp4&rc=amd1dHc5cjg6PDMzODgzNEBpamd1dHc5cjg6PDMzODgzNEBpZGdoMmRrYXJhLS1kLzFzYSNpZGdoMmRrYXJhLS1kLzFzcw%3D%3D&l=2026081306330941435AFB621AE90F9920&btag=e00050000"
+          }
+        ],
+        "transcriptionLink": null,
+        "aiVideoDescription": null,
+        "aiVideoSummary": null,
+        "originalCoverUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/oAX0EoisA0U9Irk8gABAIqP0Kd1wdBBBAji9f6~tplv-tiktokx-origin.image?dr=9636&x-expires=1786773600&x-signature=SodPg3WJQFi5sSXVBIIK7ckgpGg%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+      },
+      "diggCount": 2848,
+      "shareCount": 50,
+      "playCount": 37000,
+      "collectCount": 108,
+      "commentCount": 34,
+      "repostCount": 0,
+      "mentions": [],
+      "detailedMentions": [],
+      "hashtags": [
+        {
+          "name": "datvietvac"
+        },
+        {
+          "name": "tinhhasayhi"
+        }
+      ],
+      "effectStickers": [],
+      "isSlideshow": false,
+      "isPinned": false,
+      "isSponsored": false,
+      "shortDramaSeriesInfo": null,
+      "mediaUrls": [],
+      "input": "viechannel.show",
+      "fromProfileSection": "videos",
+      "commentsDatasetUrl": null
+    },
+    {
+      "id": "7673135218542464276",
+      "text": "Mấy ai hiểu được nỗi lòng của Anh Trai CoolKid khi rơi vào tình cảnh ngang trái này\n#DatVietVAC #TinhHaSayHi",
+      "textLanguage": "vi",
+      "createTime": 1786542300,
+      "createTimeISO": "2026-08-12T13:45:00.000Z",
+      "isAd": false,
+      "authorMeta": {
+        "id": "7035877518122419201",
+        "name": "viechannel.show",
+        "profileUrl": "https://www.tiktok.com/@viechannel.show",
+        "nickName": "Vie Channel - Show",
+        "verified": true,
+        "signature": "TikTok CHÍNH THỨC của TINH HÀ \"SAY HI\"\nbản quyền thuộc DatVietVAC",
+        "bioLink": null,
+        "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ed9e54eee6dae0ec15744c1894850bc6~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=20b42bd6&x-expires=1786773600&x-signature=IjnsiAwC3Q%2FJ4G71qLsPkhnPD3Q%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+        "commerceUserInfo": {
+          "commerceUser": true,
+          "downLoadLink": {
+            "android": "",
+            "ios": ""
+          },
+          "category": "Media & Entertainment",
+          "categoryButton": false
+        },
+        "privateAccount": false,
+        "roomId": "",
+        "ttSeller": false,
+        "createTime": 1638168363,
+        "following": 13,
+        "friends": 7,
+        "fans": 1500000,
+        "heart": 180300000,
+        "video": 5142,
+        "digg": 0,
+        "followDatasetUrl": null,
+        "originalAvatarUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ed9e54eee6dae0ec15744c1894850bc6~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=20b42bd6&x-expires=1786773600&x-signature=IjnsiAwC3Q%2FJ4G71qLsPkhnPD3Q%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5"
+      },
+      "musicMeta": {
+        "musicName": "TOGETHER WE SHINE (Short #4)",
+        "musicAuthor": "TINH HÀ \"SAY HI\"",
+        "musicOriginal": false,
+        "musicAlbum": "TOGETHER WE SHINE",
+        "playUrl": "https://sf16.tiktokcdn-us.com/obj/tos-alisg-ve-2774/o0BtBSFR7QDRlgWCzgQgfXEPqOYtZaKBQRO3fB",
+        "coverMediumUrl": "https://p16-common.tiktokcdn-us.com/tos-alisg-v-2774/o49UlADrEDCEABsPfaFAE6AFonLesACTnhezgO~tplv-tiktokx-cropcenter:200:200.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=81f88b70&idc=useast5",
+        "originalCoverMediumUrl": "https://p16-common.tiktokcdn-us.com/tos-alisg-v-2774/o49UlADrEDCEABsPfaFAE6AFonLesACTnhezgO~tplv-tiktokx-cropcenter:200:200.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=81f88b70&idc=useast5",
+        "musicId": "7658219753983363073"
+      },
+      "webVideoUrl": "https://www.tiktok.com/@viechannel.show/video/7673135218542464276",
+      "videoMeta": {
+        "height": 1024,
+        "width": 576,
+        "duration": 65,
+        "coverUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/oEv4uEApi6AAAXxBBYQIciqgro8NgaGldznAi~tplv-tiktokx-origin.image?dr=9636&x-expires=1786773600&x-signature=IrRM7ax7pPX1Ldpup2GI18BFf3Q%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+        "definition": "540p",
+        "format": "mp4",
+        "subtitleLinks": [
+          {
+            "language": "vie-VN",
+            "downloadLink": "https://v16m-webapp.tiktokcdn-us.com/37aa09be0bb969983a84732f0636c2b2/6a800866/video/tos/alisg/tos-alisg-pv-0037/697782c1bbb047929eeccdb584d6c3af/?a=1988&bti=ODszNWYuMDE6&&bt=2315&ft=4KLMeMzm8Zmo0vMKma4jV7~SdpWrKsd.&mime_type=video_mp4&rc=M29vM3A5cjY6PDMzODgzNEBpM29vM3A5cjY6PDMzODgzNEBhbGg0MmRjNXJhLS1kLzFzYSNhbGg0MmRjNXJhLS1kLzFzcw%3D%3D&l=2026081306330941435AFB621AE90F9920&btag=e00050000",
+            "source": "ASR",
+            "sourceUnabbreviated": "automatic speech recognition",
+            "version": "1:whisper_lid",
+            "tiktokLink": "https://v16m-webapp.tiktokcdn-us.com/37aa09be0bb969983a84732f0636c2b2/6a800866/video/tos/alisg/tos-alisg-pv-0037/697782c1bbb047929eeccdb584d6c3af/?a=1988&bti=ODszNWYuMDE6&&bt=2315&ft=4KLMeMzm8Zmo0vMKma4jV7~SdpWrKsd.&mime_type=video_mp4&rc=M29vM3A5cjY6PDMzODgzNEBpM29vM3A5cjY6PDMzODgzNEBhbGg0MmRjNXJhLS1kLzFzYSNhbGg0MmRjNXJhLS1kLzFzcw%3D%3D&l=2026081306330941435AFB621AE90F9920&btag=e00050000"
+          },
+          {
+            "language": "eng-US",
+            "downloadLink": "https://v16m-webapp.tiktokcdn-us.com/60f07d9c526ea358db0b0a50a0ea4d33/6a800866/video/tos/alisg/tos-alisg-pv-0037/90d4d76b2c0a450c9bedcc99d09dbc7b/?a=1988&bti=ODszNWYuMDE6&&bt=2315&ft=4KLMeMzm8Zmo0vMKma4jV7~SdpWrKsd.&mime_type=video_mp4&rc=M29vM3A5cjY6PDMzODgzNEBpM29vM3A5cjY6PDMzODgzNEBhbGg0MmRjNXJhLS1kLzFzYSNhbGg0MmRjNXJhLS1kLzFzcw%3D%3D&l=2026081306330941435AFB621AE90F9920&btag=e00050000",
+            "source": "MT",
+            "sourceUnabbreviated": "machine translation",
+            "version": "4",
+            "tiktokLink": "https://v16m-webapp.tiktokcdn-us.com/60f07d9c526ea358db0b0a50a0ea4d33/6a800866/video/tos/alisg/tos-alisg-pv-0037/90d4d76b2c0a450c9bedcc99d09dbc7b/?a=1988&bti=ODszNWYuMDE6&&bt=2315&ft=4KLMeMzm8Zmo0vMKma4jV7~SdpWrKsd.&mime_type=video_mp4&rc=M29vM3A5cjY6PDMzODgzNEBpM29vM3A5cjY6PDMzODgzNEBhbGg0MmRjNXJhLS1kLzFzYSNhbGg0MmRjNXJhLS1kLzFzcw%3D%3D&l=2026081306330941435AFB621AE90F9920&btag=e00050000"
+          }
+        ],
+        "transcriptionLink": null,
+        "aiVideoDescription": null,
+        "aiVideoSummary": null,
+        "originalCoverUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/oEv4uEApi6AAAXxBBYQIciqgro8NgaGldznAi~tplv-tiktokx-origin.image?dr=9636&x-expires=1786773600&x-signature=IrRM7ax7pPX1Ldpup2GI18BFf3Q%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+      },
+      "diggCount": 4276,
+      "shareCount": 93,
+      "playCount": 41600,
+      "collectCount": 213,
+      "commentCount": 45,
+      "repostCount": 0,
+      "mentions": [],
+      "detailedMentions": [],
+      "hashtags": [
+        {
+          "name": "datvietvac"
+        },
+        {
+          "name": "tinhhasayhi"
+        }
+      ],
+      "effectStickers": [],
+      "isSlideshow": false,
+      "isPinned": false,
+      "isSponsored": false,
+      "shortDramaSeriesInfo": null,
+      "mediaUrls": [],
+      "input": "viechannel.show",
+      "fromProfileSection": "videos",
+      "commentsDatasetUrl": null
+    },
+    {
+      "id": "7673131405357976852",
+      "text": "Lịch trình làm việc của Pháp Kiều và WEAN dạo này có vẻ thật sự là bận rộn lắm đó\n#DatVietVAC #TinhHaSayHi",
+      "textLanguage": "vi",
+      "createTime": 1786541400,
+      "createTimeISO": "2026-08-12T13:30:00.000Z",
+      "isAd": false,
+      "authorMeta": {
+        "id": "7035877518122419201",
+        "name": "viechannel.show",
+        "profileUrl": "https://www.tiktok.com/@viechannel.show",
+        "nickName": "Vie Channel - Show",
+        "verified": true,
+        "signature": "TikTok CHÍNH THỨC của TINH HÀ \"SAY HI\"\nbản quyền thuộc DatVietVAC",
+        "bioLink": null,
+        "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ed9e54eee6dae0ec15744c1894850bc6~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=20b42bd6&x-expires=1786773600&x-signature=IjnsiAwC3Q%2FJ4G71qLsPkhnPD3Q%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+        "commerceUserInfo": {
+          "commerceUser": true,
+          "downLoadLink": {
+            "android": "",
+            "ios": ""
+          },
+          "category": "Media & Entertainment",
+          "categoryButton": false
+        },
+        "privateAccount": false,
+        "roomId": "",
+        "ttSeller": false,
+        "createTime": 1638168363,
+        "following": 13,
+        "friends": 7,
+        "fans": 1500000,
+        "heart": 180300000,
+        "video": 5142,
+        "digg": 0,
+        "followDatasetUrl": null,
+        "originalAvatarUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ed9e54eee6dae0ec15744c1894850bc6~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=20b42bd6&x-expires=1786773600&x-signature=IjnsiAwC3Q%2FJ4G71qLsPkhnPD3Q%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5"
+      },
+      "musicMeta": {
+        "musicName": "TOGETHER WE SHINE (Short #3)",
+        "musicAuthor": "TINH HÀ \"SAY HI\"",
+        "musicOriginal": false,
+        "musicAlbum": "TOGETHER WE SHINE",
+        "playUrl": "https://sf19.tiktokcdn-us.com/obj/tos-alisg-ve-2774/ogO6BWfDQQ20Z6qtZfDgKRx3OBNCJEzWFK7OYg",
+        "coverMediumUrl": "https://p16-common.tiktokcdn-us.com/tos-alisg-v-2774/o49UlADrEDCEABsPfaFAE6AFonLesACTnhezgO~tplv-tiktokx-cropcenter:200:200.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=81f88b70&idc=useast5",
+        "originalCoverMediumUrl": "https://p16-common.tiktokcdn-us.com/tos-alisg-v-2774/o49UlADrEDCEABsPfaFAE6AFonLesACTnhezgO~tplv-tiktokx-cropcenter:200:200.jpeg?dr=9584&t=4d5b0474&ps=933b5bde&shp=08d74b56&shcp=81f88b70&idc=useast5",
+        "musicId": "7658226706414569473"
+      },
+      "webVideoUrl": "https://www.tiktok.com/@viechannel.show/video/7673131405357976852",
+      "videoMeta": {
+        "height": 1024,
+        "width": 576,
+        "duration": 105,
+        "coverUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/ocUBE85EABidnAAAmb0Ffi27eDSKzIGbrGfZdA~tplv-tiktokx-origin.image?dr=9636&x-expires=1786773600&x-signature=D2tB735mQktKIH93DpqKzxu4RZ0%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+        "definition": "540p",
+        "format": "mp4",
+        "subtitleLinks": [
+          {
+            "language": "eng-US",
+            "downloadLink": "https://v16m-webapp.tiktokcdn-us.com/f48f14b06c6b51506241aff7cbe992f7/6a80088e/video/tos/alisg/tos-alisg-pv-0037/411c486ca5d1452684bcb6515bdf46ad/?a=1988&bti=ODszNWYuMDE6&&bt=2418&ft=4KLMeMzm8Zmo0vMKma4jV7~SdpWrKsd.&mime_type=video_mp4&rc=Mzs3dnU5cjw6PDMzODgzNEBpMzs3dnU5cjw6PDMzODgzNEBiYmdzMmRrLnJhLS1kLzFzYSNiYmdzMmRrLnJhLS1kLzFzcw%3D%3D&l=2026081306330941435AFB621AE90F9920&btag=e00050000",
+            "source": "MT",
+            "sourceUnabbreviated": "machine translation",
+            "version": "4",
+            "tiktokLink": "https://v16m-webapp.tiktokcdn-us.com/f48f14b06c6b51506241aff7cbe992f7/6a80088e/video/tos/alisg/tos-alisg-pv-0037/411c486ca5d1452684bcb6515bdf46ad/?a=1988&bti=ODszNWYuMDE6&&bt=2418&ft=4KLMeMzm8Zmo0vMKma4jV7~SdpWrKsd.&mime_type=video_mp4&rc=Mzs3dnU5cjw6PDMzODgzNEBpMzs3dnU5cjw6PDMzODgzNEBiYmdzMmRrLnJhLS1kLzFzYSNiYmdzMmRrLnJhLS1kLzFzcw%3D%3D&l=2026081306330941435AFB621AE90F9920&btag=e00050000"
+          },
+          {
+            "language": "vie-VN",
+            "downloadLink": "https://v16m-webapp.tiktokcdn-us.com/c6769fc8b92e1db6bd42fbe535f78be5/6a80088e/video/tos/alisg/tos-alisg-pv-0037/eefdd3dc02be4dd1b87224322a689992/?a=1988&bti=ODszNWYuMDE6&&bt=2418&ft=4KLMeMzm8Zmo0vMKma4jV7~SdpWrKsd.&mime_type=video_mp4&rc=Mzs3dnU5cjw6PDMzODgzNEBpMzs3dnU5cjw6PDMzODgzNEBiYmdzMmRrLnJhLS1kLzFzYSNiYmdzMmRrLnJhLS1kLzFzcw%3D%3D&l=2026081306330941435AFB621AE90F9920&btag=e00050000",
+            "source": "ASR",
+            "sourceUnabbreviated": "automatic speech recognition",
+            "version": "1:whisper_lid",
+            "tiktokLink": "https://v16m-webapp.tiktokcdn-us.com/c6769fc8b92e1db6bd42fbe535f78be5/6a80088e/video/tos/alisg/tos-alisg-pv-0037/eefdd3dc02be4dd1b87224322a689992/?a=1988&bti=ODszNWYuMDE6&&bt=2418&ft=4KLMeMzm8Zmo0vMKma4jV7~SdpWrKsd.&mime_type=video_mp4&rc=Mzs3dnU5cjw6PDMzODgzNEBpMzs3dnU5cjw6PDMzODgzNEBiYmdzMmRrLnJhLS1kLzFzYSNiYmdzMmRrLnJhLS1kLzFzcw%3D%3D&l=2026081306330941435AFB621AE90F9920&btag=e00050000"
+          }
+        ],
+        "transcriptionLink": null,
+        "aiVideoDescription": null,
+        "aiVideoSummary": null,
+        "originalCoverUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/ocUBE85EABidnAAAmb0Ffi27eDSKzIGbrGfZdA~tplv-tiktokx-origin.image?dr=9636&x-expires=1786773600&x-signature=D2tB735mQktKIH93DpqKzxu4RZ0%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5"
+      },
+      "diggCount": 1753,
+      "shareCount": 62,
+      "playCount": 20800,
+      "collectCount": 83,
+      "commentCount": 37,
+      "repostCount": 0,
+      "mentions": [],
+      "detailedMentions": [],
+      "hashtags": [
+        {
+          "name": "datvietvac"
+        },
+        {
+          "name": "tinhhasayhi"
+        }
+      ],
+      "effectStickers": [],
+      "isSlideshow": false,
+      "isPinned": false,
+      "isSponsored": false,
+      "shortDramaSeriesInfo": null,
+      "mediaUrls": [],
+      "input": "viechannel.show",
+      "fromProfileSection": "videos",
+      "commentsDatasetUrl": null
+    }
+  ]
+}
