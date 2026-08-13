@@ -94,6 +94,7 @@ DERIVATIVE_COLUMNS = [
     "like_count",
     "comment_count",
     "availability_status",
+    "observed_at",
     "actor_run_id",
     "source_url",
 ]
@@ -338,6 +339,115 @@ def derivative_receipt_rows(raw_dir: Path, config: ProjectConfig) -> list[dict[s
     return rows
 
 
+def _exact_metric(value: Any) -> int | str:
+    return value if isinstance(value, int) and not isinstance(value, bool) and value >= 0 else ""
+
+
+def _social_row(
+    *,
+    platform: str,
+    item: dict[str, Any],
+    receipt: dict[str, Any],
+    source_url: str,
+    native_id: str,
+    content_url: str,
+    title: str,
+    published_at: str,
+    duration: Any,
+    view_count: Any,
+    like_count: Any,
+    comment_count: Any,
+    platform_format: str,
+) -> dict[str, Any]:
+    return {
+        "platform": platform,
+        "native_content_id": native_id,
+        "content_url": content_url,
+        "show_id": "",
+        "season_id": "",
+        "title": title,
+        "platform_format": platform_format,
+        "content_role": "UNKNOWN",
+        "authority_class": "SOURCE_LINKED_CANDIDATE",
+        "relationship_target_type": "ACCOUNT",
+        "relationship_evidence": "SOURCE_LINKED_ACCOUNT_PUBLICATION",
+        "classification_state": "NEEDS_REVIEW",
+        "review_status": "NEEDS_REVIEW",
+        "published_at": published_at,
+        "duration_seconds": _exact_metric(duration),
+        "view_count": _exact_metric(view_count),
+        "like_count": _exact_metric(like_count),
+        "comment_count": _exact_metric(comment_count),
+        "availability_status": "public_observed",
+        "observed_at": str(receipt.get("retrieved_at", "")),
+        "actor_run_id": str(receipt.get("actor_run_id", "")),
+        "source_url": source_url,
+    }
+
+
+def social_receipt_rows(raw_dir: Path) -> list[dict[str, Any]]:
+    """Convert platform-specific public observations into review-only content rows."""
+    rows: list[dict[str, Any]] = []
+    for path in sorted(raw_dir.glob("*.json")):
+        receipt = json.loads(path.read_text(encoding="utf-8"))
+        actor_input = receipt.get("actor_input", {})
+        platform = str(actor_input.get("socialPlatform", ""))
+        source_url = str(actor_input.get("sourceBindingUrl", ""))
+        if platform == "instagram":
+            for profile in receipt.get("items", []):
+                profile_url = str(profile.get("url") or source_url)
+                for item in [*profile.get("latestPosts", []), *profile.get("latestIgtvVideos", [])]:
+                    native_id = str(item.get("id") or item.get("shortCode") or "")
+                    content_url = str(item.get("url") or "")
+                    if not native_id or not content_url:
+                        continue
+                    rows.append(
+                        _social_row(
+                            platform=platform,
+                            item=item,
+                            receipt=receipt,
+                            source_url=profile_url,
+                            native_id=native_id,
+                            content_url=content_url,
+                            title=str(item.get("caption") or item.get("title") or ""),
+                            published_at=str(item.get("timestamp") or ""),
+                            duration=item.get("videoDuration"),
+                            view_count=item.get("videoViewCount"),
+                            like_count=item.get("likesCount"),
+                            comment_count=item.get("commentsCount"),
+                            platform_format=(
+                                "REEL" if str(item.get("type", "")).lower() == "video" else "POST"
+                            ),
+                        )
+                    )
+        elif platform == "tiktok":
+            for item in receipt.get("items", []):
+                native_id = str(item.get("id") or "")
+                content_url = str(item.get("webVideoUrl") or "")
+                if not native_id or not content_url:
+                    continue
+                author = item.get("authorMeta") or {}
+                source = str(author.get("profileUrl") or source_url)
+                rows.append(
+                    _social_row(
+                        platform=platform,
+                        item=item,
+                        receipt=receipt,
+                        source_url=source,
+                        native_id=native_id,
+                        content_url=content_url,
+                        title=str(item.get("text") or ""),
+                        published_at=str(item.get("createTimeISO") or ""),
+                        duration=(item.get("videoMeta") or {}).get("duration"),
+                        view_count=item.get("playCount"),
+                        like_count=item.get("diggCount"),
+                        comment_count=item.get("commentCount"),
+                        platform_format="TIKTOK_VIDEO",
+                    )
+                )
+    return rows
+
+
 def pending_derivative_sources(raw_dir: Path, config: ProjectConfig) -> list[dict[str, Any]]:
     """Return sources with no retained live receipt, including accepted partial receipts."""
     recorded: set[str] = set()
@@ -466,11 +576,17 @@ def build_social_outputs(
     config: ProjectConfig,
     *,
     derivative_raw_dir: Path | None = None,
+    social_raw_dir: Path | None = None,
 ) -> dict[str, int]:
     derivatives = derivative_rows(episode_registry)
     if derivative_raw_dir:
         index = {(row["platform"], row["native_content_id"]): row for row in derivatives}
         for row in derivative_receipt_rows(derivative_raw_dir, config):
+            index[(row["platform"], row["native_content_id"])] = row
+        derivatives = list(index.values())
+    if social_raw_dir:
+        index = {(row["platform"], row["native_content_id"]): row for row in derivatives}
+        for row in social_receipt_rows(social_raw_dir):
             index[(row["platform"], row["native_content_id"])] = row
         derivatives = list(index.values())
     accounts = social_account_rows(raw_dir, config)
@@ -485,14 +601,33 @@ def build_social_outputs(
             value = row.get(metric_name)
             if value in (None, ""):
                 continue
+            platform = row["platform"]
+            metric_name = metric_name
+            definition = "youtube_public_v1"
+            if platform == "instagram":
+                metric_name = {
+                    "view_count": "video_view_count",
+                    "like_count": "like_count",
+                    "comment_count": "comment_count",
+                }[metric_name]
+                definition = "instagram_public_scraper_v1"
+            elif platform == "tiktok":
+                metric_name = {
+                    "view_count": "play_count",
+                    "like_count": "digg_count",
+                    "comment_count": "comment_count",
+                }[metric_name]
+                definition = "tiktok_public_scraper_v1"
             snapshots.append(
                 {
-                    "platform": row["platform"],
+                    "platform": platform,
                     "native_content_id": row["native_content_id"],
                     "metric_name": metric_name,
                     "metric_value_exact": int(value),
-                    "observed_at": registry_index.get(row["native_content_id"], ""),
-                    "metric_definition_version": "youtube_public_v1",
+                    "observed_at": row.get("observed_at") or registry_index.get(
+                        row["native_content_id"], ""
+                    ),
+                    "metric_definition_version": definition,
                     "visibility": "PUBLIC",
                     "receipt_id": row.get("actor_run_id", ""),
                 }

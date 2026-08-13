@@ -222,3 +222,65 @@ def test_pending_derivative_sources_skips_any_retained_receipt(tmp_path: Path) -
     pending_ids = {source["source_id"] for source in pending_derivative_sources(raw_dir, config)}
     assert source_id not in pending_ids
     assert any(value.startswith("youtube_") for value in pending_ids)
+
+
+def test_social_receipt_rows_stay_review_only_and_preserve_platform_metrics(tmp_path: Path) -> None:
+    root = Path(__file__).resolve().parents[1]
+    config = load_project_config(root)
+    raw_dir = tmp_path / "raw"
+    social_raw_dir = tmp_path / "social_raw"
+    output_dir = tmp_path / "out"
+    raw_dir.mkdir()
+    social_raw_dir.mkdir()
+    output_dir.mkdir()
+    (output_dir / "episode_registry.csv").write_text(
+        "video_id,canonical_flag\nmain,True\n", encoding="utf-8-sig"
+    )
+    (social_raw_dir / "tiktok.json").write_text(
+        json.dumps(
+            {
+                "actor_run_id": "social-run",
+                "retrieved_at": "2026-08-13T00:00:00Z",
+                "actor_input": {
+                    "socialPlatform": "tiktok",
+                    "sourceBindingUrl": "https://www.tiktok.com/@show",
+                },
+                "items": [
+                    {
+                        "id": "video-1",
+                        "webVideoUrl": "https://www.tiktok.com/@show/video/1",
+                        "text": "Official clip",
+                        "createTimeISO": "2026-08-12T00:00:00Z",
+                        "playCount": 12,
+                        "diggCount": 3,
+                        "commentCount": 2,
+                        "videoMeta": {"duration": 30},
+                        "authorMeta": {"profileUrl": "https://www.tiktok.com/@show"},
+                    }
+                ],
+            }
+        ),
+        encoding="utf-8",
+    )
+    build_social_outputs(
+        raw_dir,
+        output_dir / "episode_registry.csv",
+        output_dir,
+        config,
+        social_raw_dir=social_raw_dir,
+    )
+    row = list(
+        csv.DictReader(
+            (output_dir / "derivative_content_registry.csv").open(encoding="utf-8-sig")
+        )
+    )[0]
+    assert row["classification_state"] == "NEEDS_REVIEW"
+    assert row["show_id"] == ""
+    snapshots = list(
+        csv.DictReader((output_dir / "social_metric_snapshot.csv").open(encoding="utf-8-sig"))
+    )
+    assert {item["metric_name"] for item in snapshots} == {
+        "play_count",
+        "digg_count",
+        "comment_count",
+    }

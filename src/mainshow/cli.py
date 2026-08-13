@@ -200,7 +200,12 @@ def main() -> None:
     if args.command == "build-social":
         output = root / args.output
         result = build_social_outputs(
-            root / "data" / "raw", output / "episode_registry.csv", output, config
+            root / "data" / "raw",
+            output / "episode_registry.csv",
+            output,
+            config,
+            derivative_raw_dir=root / "data" / "derivative_raw",
+            social_raw_dir=root / "data" / "social_raw",
         )
         logging.info("Built derivative/social outputs %s", result)
         return
@@ -229,6 +234,7 @@ def main() -> None:
             root / args.output,
             config,
             derivative_raw_dir=root / "data" / "derivative_raw",
+            social_raw_dir=root / "data" / "social_raw",
         )
         logging.info(
             "Extracted derivative source=%s raw=%s result=%s",
@@ -258,6 +264,7 @@ def main() -> None:
             root / args.output,
             config,
             derivative_raw_dir=root / "data" / "derivative_raw",
+            social_raw_dir=root / "data" / "social_raw",
         )
         logging.info(
             "Resumed derivative source=%s raw=%s result=%s",
@@ -308,6 +315,7 @@ def main() -> None:
             root / args.output,
             config,
             derivative_raw_dir=root / "data" / "derivative_raw",
+            social_raw_dir=root / "data" / "social_raw",
         )
         logging.info("Derivative extraction wave complete spent_usd=%.4f result=%s", spent, result)
         return

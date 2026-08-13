@@ -255,6 +255,7 @@ def build_all(raw_dir: Path, output_dir: Path, config: ProjectConfig) -> dict[st
             output_dir,
             config,
             derivative_raw_dir=raw_dir.parents[0] / "derivative_raw",
+            social_raw_dir=raw_dir.parents[0] / "social_raw",
         )
 
     return {
