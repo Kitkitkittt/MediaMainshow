@@ -39,9 +39,18 @@ The base above is an inspection snapshot, not a permanent working branch. Refres
 6. **Verify and integrate.** Verify the exact returned commit independently in a clean environment. Recheck the final integrated revision when changes interact. Follow existing review, merge and deployment rules; a green worker report alone cannot override them. Use the narrowest checks that resolve a concrete risk.
 7. **Checkpoint and finish.** Save candidate SHA, evidence, measured outcome, remaining blockers and a precise next action before context/lease expiry. Reconcile lost or duplicate completions before retrying. Release only the run's owned resources after preserving evidence. Stop when the requested outcome is met or a concrete blocker prevents the next required action.
 
-## Verification starting point
+## Source-only review
 
-No executable acceptance command was established by this bounded source inspection. Read `AGENTS.md`, `README.md`, `pyproject.toml`, `tests` and record the narrowest existing check before implementation. Do not invent a `test` command or infer that the repository has no tests from this gap. For a documentation-only task, check links, factual source anchors and whitespace; do not build unrelated application code.
+For documentation changes, review the [agent entry](AGENTS.md) and the scope in the owning GitHub issue. From the repository root, check that the relevant sources are tracked and the uncommitted docs patch is whitespace-clean:
+
+```sh
+git --no-lazy-fetch ls-files --error-unmatch -- AGENTS.md SWARM_READY.md README.md CONTEXT.md pyproject.toml docs/agents/issue-tracker.md docs/architecture.md docs/social-derivative-update-runbook.md &&
+  git --no-lazy-fetch diff --check HEAD -- AGENTS.md SWARM_READY.md
+```
+
+For a committed patch, compare its review base and candidate SHA with `git diff --check`. These checks read local Git state only; they do not load credentials, contact Apify or any source platform, run a dashboard, or write data or outputs.
+
+The [README quick start](README.md#quick-start) includes a live pilot. Even the cached `build-all` in the [social/derivative runbook](docs/social-derivative-update-runbook.md#routine-cached-rebuild) rewrites outputs. Neither belongs in a documentation-only review. The runbook's pytest and Ruff commands are separate implementation checks.
 
 ## Required handoff result
 
